@@ -1,0 +1,77 @@
+{
+  "id": 169632289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-84.387721,33.787978,-84.387721,33.787978",
+    "geom:latitude":33.787978,
+    "geom:longitude":-84.387721,
+    "iso:country":"US",
+    "sg:address":"1201 W Peachtree St NW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 870 2935",
+    "sg:postcode":"30309",
+    "sg:province":"GA",
+    "sg:tags":[
+        "garage"
+    ],
+    "sg:website":"www.lanierparking.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936429,
+        102083603,
+        85872127,
+        85866909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QEK5LnuhG0nvU4uXuETbl_33.787978_-84.387721@1294087602"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5d5ad4fb2dde68d3023a0da0f5570c5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872127,
+            "region_id":85688535,
+            "venue_id":169632289
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85866909,
+            "region_id":85688535,
+            "venue_id":169632289
+        }
+    ],
+    "wof:id":169632289,
+    "wof:lastmodified":1449034796,
+    "wof:name":"LANIER Parking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [-84.387721,33.787978,-84.387721,33.787978],
+  "geometry": {"coordinates":[-84.387721,33.787978],"type":"Point"}
+}

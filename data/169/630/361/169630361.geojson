@@ -1,0 +1,73 @@
+{
+  "id": 169630361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.851017,31.489508,-82.851017,31.489508",
+    "geom:latitude":31.489508,
+    "geom:longitude":-82.851017,
+    "iso:country":"US",
+    "sg:address":"1510 S Peterson Ave",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 393 0054",
+    "sg:postcode":"31535",
+    "sg:province":"GA",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936513,
+        102082947
+    ],
+    "wof:brand_id":420573775,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xu4d8YfmYIXJazKhadq25_31.489508_-82.851017@1294087602"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5df9ee9279198f605d94a9aca6694737",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082947,
+            "locality_id":85936513,
+            "neighbourhood_id":-1,
+            "region_id":85688535,
+            "venue_id":169630361
+        }
+    ],
+    "wof:id":169630361,
+    "wof:lastmodified":1457207249,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -82.851017,
+    31.489508,
+    -82.851017,
+    31.489508
+],
+  "geometry": {"coordinates":[-82.851017,31.489508],"type":"Point"}
+}

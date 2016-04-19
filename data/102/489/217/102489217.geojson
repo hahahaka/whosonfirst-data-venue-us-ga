@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.006823,32.451416,-85.006823,32.451416",
+    "geom:latitude":32.451416,
+    "geom:longitude":-85.006823,
+    "iso:country":"US",
+    "sg:address":"313 Seale Rd",
+    "sg:city":"Phenix City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 334 297 9819",
+    "sg:postcode":"36869",
+    "sg:province":"AL",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85882109,
+        85633793,
+        85936243,
+        102084429,
+        85688535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kIplm3HtRr1Bvp7Hozivi_32.451416_-85.006823@1293731398"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a30cd3b371756a9e45d7f4bc0b354224",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85882109,
+            "region_id":85688535,
+            "venue_id":102489217
+        }
+    ],
+    "wof:id":102489217,
+    "wof:lastmodified":1449069058,
+    "wof:name":"Hood's Auto Garage",
+    "wof:parent_id":85882109,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-85.006823,32.451416,-85.006823,32.451416],
+  "geometry": {"coordinates":[-85.006823,32.451416],"type":"Point"}
+}

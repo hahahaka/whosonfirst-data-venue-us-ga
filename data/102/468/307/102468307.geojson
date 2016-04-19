@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.003034,32.459105,-85.003034,32.459105",
+    "geom:latitude":32.459105,
+    "geom:longitude":-85.003034,
+    "iso:country":"US",
+    "sg:address":"831 Seale Rd",
+    "sg:city":"Phenix City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 334 214 5757",
+    "sg:postcode":"36867",
+    "sg:province":"AL",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85882109,
+        85633793,
+        85936243,
+        102084429,
+        85688535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7i3JNvRAMZyjOdtBhooZeF_32.459105_-85.003034@1293731398"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ec467cfeaf777ff3ac83eada320bfdd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85882109,
+            "region_id":85688535,
+            "venue_id":102468307
+        }
+    ],
+    "wof:id":102468307,
+    "wof:lastmodified":1449069526,
+    "wof:name":"LBC Auto Repair",
+    "wof:parent_id":85882109,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-85.003034,32.459105,-85.003034,32.459105],
+  "geometry": {"coordinates":[-85.003034,32.459105],"type":"Point"}
+}

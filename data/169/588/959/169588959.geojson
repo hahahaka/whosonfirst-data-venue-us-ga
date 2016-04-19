@@ -1,0 +1,74 @@
+{
+  "id": 169588959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-84.411812,33.785249,-84.411812,33.785249",
+    "geom:latitude":33.785249,
+    "geom:longitude":-84.411812,
+    "iso:country":"US",
+    "sg:address":"1090 Howell Mill Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 745 4567",
+    "sg:postcode":"30318",
+    "sg:province":"GA",
+    "sg:tags":[
+        "scooter",
+        "dealer"
+    ],
+    "sg:website":"www.mspcycle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936429,
+        102083603,
+        85872055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44FpnkkqF3i08yJvrLAjoQ_33.785249_-84.411812@1294087602"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"78c221ef258f552f039f44e0933ce3f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872055,
+            "region_id":85688535,
+            "venue_id":169588959
+        }
+    ],
+    "wof:id":169588959,
+    "wof:lastmodified":1449035310,
+    "wof:name":"MSP Cycles",
+    "wof:parent_id":85872055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter",
+        "dealer"
+    ]
+},
+  "bbox": [-84.411812,33.785249,-84.411812,33.785249],
+  "geometry": {"coordinates":[-84.411812,33.785249],"type":"Point"}
+}

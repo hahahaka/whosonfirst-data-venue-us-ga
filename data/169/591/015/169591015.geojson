@@ -1,0 +1,67 @@
+{
+  "id": 169591015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-83.849264,33.599931,-83.849264,33.599931",
+    "geom:latitude":33.599931,
+    "geom:longitude":-83.849264,
+    "iso:country":"US",
+    "sg:address":"4181 Hospital Dr NE",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 787 6957",
+    "sg:postcode":"30014",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936971,
+        102082963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mToDYx2xx6h22SR3Ev2nR_33.599931_-83.849264@1294087602"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b7e0ac7d510c0b537c109a4c8d14bd53",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082963,
+            "locality_id":85936971,
+            "neighbourhood_id":-1,
+            "region_id":85688535,
+            "venue_id":169591015
+        }
+    ],
+    "wof:id":169591015,
+    "wof:lastmodified":1449034449,
+    "wof:name":"Newton-Rockdale Surgical Specs",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-83.849264,33.599931,-83.849264,33.599931],
+  "geometry": {"coordinates":[-83.849264,33.599931],"type":"Point"}
+}

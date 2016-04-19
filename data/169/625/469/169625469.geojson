@@ -1,0 +1,76 @@
+{
+  "id": 169625469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-84.352436,33.932905,-84.352436,33.932905",
+    "geom:latitude":33.932905,
+    "geom:longitude":-84.352436,
+    "iso:country":"US",
+    "sg:address":"1000 Abernathy Rd NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 394 7030",
+    "sg:postcode":"30328",
+    "sg:province":"GA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937165,
+        102083603,
+        85889991,
+        85889999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dbT7uIKaui0O8vuGLcb8R_33.932905_-84.352436@1294087602"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"33904207f9960303abc6e3f0b0b4b972",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937165,
+            "neighbourhood_id":85889991,
+            "region_id":85688535,
+            "venue_id":169625469
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937165,
+            "neighbourhood_id":85889999,
+            "region_id":85688535,
+            "venue_id":169625469
+        }
+    ],
+    "wof:id":169625469,
+    "wof:lastmodified":1449036026,
+    "wof:name":"Classic Cleaners",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [-84.352436,33.932905,-84.352436,33.932905],
+  "geometry": {"coordinates":[-84.352436,33.932905],"type":"Point"}
+}

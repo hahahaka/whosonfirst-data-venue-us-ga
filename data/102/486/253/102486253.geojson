@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-84.996562,32.488035,-84.996562,32.488035",
+    "geom:latitude":32.488035,
+    "geom:longitude":-84.996562,
+    "iso:country":"US",
+    "sg:address":"2607 1st Ave",
+    "sg:city":"Phenix City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 334 297 0077",
+    "sg:postcode":"36867",
+    "sg:province":"AL",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806021,
+        85633793,
+        85936243,
+        102084429,
+        85688535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0l7rnhRTMv5m0cpRT9ELuy_32.488035_-84.996562@1293731398"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9adba6a132d66c461312f24c5d3c4316",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85806021,
+            "region_id":85688535,
+            "venue_id":102486253
+        }
+    ],
+    "wof:id":102486253,
+    "wof:lastmodified":1449069084,
+    "wof:name":"Columbus Bio Medical Svc",
+    "wof:parent_id":85806021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-84.996562,32.488035,-84.996562,32.488035],
+  "geometry": {"coordinates":[-84.996562,32.488035],"type":"Point"}
+}

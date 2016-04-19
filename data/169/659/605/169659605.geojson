@@ -1,0 +1,66 @@
+{
+  "id": 169659605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-84.052507,33.85719,-84.052507,33.85719",
+    "geom:latitude":33.85719,
+    "geom:longitude":-84.052507,
+    "iso:country":"US",
+    "sg:address":"1855 Britt Dr",
+    "sg:city":"Snellville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 978 6025",
+    "sg:postcode":"30078",
+    "sg:province":"GA",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936303,
+        102082967,
+        85857829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QxWCnmfrdgPO7bm3CHvlj_33.857190_-84.052507@1294087602"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2533bc3e6fb2859ea7761ec59e868265",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936303,
+            "neighbourhood_id":85857829,
+            "region_id":85688535,
+            "venue_id":169659605
+        }
+    ],
+    "wof:id":169659605,
+    "wof:lastmodified":1449033029,
+    "wof:name":"Steves Car Wash Svc",
+    "wof:parent_id":85857829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [-84.052507,33.85719,-84.052507,33.85719],
+  "geometry": {"coordinates":[-84.052507,33.85719],"type":"Point"}
+}

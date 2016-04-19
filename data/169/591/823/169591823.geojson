@@ -1,0 +1,68 @@
+{
+  "id": 169591823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-83.276168,30.875736,-83.276168,30.875736",
+    "geom:latitude":30.875736,
+    "geom:longitude":-83.276168,
+    "iso:country":"US",
+    "sg:address":"2700 Bemiss Rd",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 244 3291",
+    "sg:postcode":"31602",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85827633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UIbsdD9szA6UAIA5PMUBE_30.875736_-83.276168@1294087602"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b0ef1cddd719e4a69e56526544d385c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85827633,
+            "region_id":85688535,
+            "venue_id":169591823
+        }
+    ],
+    "wof:id":169591823,
+    "wof:lastmodified":1449034456,
+    "wof:name":"A & M Auto Svc",
+    "wof:parent_id":85827633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-83.276168,30.875736,-83.276168,30.875736],
+  "geometry": {"coordinates":[-83.276168,30.875736],"type":"Point"}
+}

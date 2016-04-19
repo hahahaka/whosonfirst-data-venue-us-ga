@@ -1,0 +1,73 @@
+{
+  "id": 169616197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-81.495179,31.160534,-81.495179,31.160534",
+    "geom:latitude":31.160534,
+    "geom:longitude":-81.495179,
+    "iso:country":"US",
+    "sg:address":"2218 Norwich St",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 466 9400",
+    "sg:postcode":"31520",
+    "sg:province":"GA",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85833275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GaaTbyvAychG0VxISSddO_31.160534_-81.495179@1294087602"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c72188474dfa52c31b43e2b2e934d0f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85833275,
+            "region_id":85688535,
+            "venue_id":169616197
+        }
+    ],
+    "wof:id":169616197,
+    "wof:lastmodified":1449035102,
+    "wof:name":"Norwich Properties Inc",
+    "wof:parent_id":85833275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [-81.495179,31.160534,-81.495179,31.160534],
+  "geometry": {"coordinates":[-81.495179,31.160534],"type":"Point"}
+}

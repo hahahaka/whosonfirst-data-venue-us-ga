@@ -1,0 +1,76 @@
+{
+  "id": 169594097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-84.388731,33.752789,-84.388731,33.752789",
+    "geom:latitude":33.752789,
+    "geom:longitude":-84.388731,
+    "iso:country":"US",
+    "sg:address":"15 Wall St SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 525 0053",
+    "sg:postcode":"30303",
+    "sg:province":"GA",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936429,
+        102083603,
+        85819463,
+        85866901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nXyPqHw1VKPJ1NI1WkRYW_33.752789_-84.388731@1294087602"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"48f2f7b6c82802015c606b994ebaa735",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85819463,
+            "region_id":85688535,
+            "venue_id":169594097
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85866901,
+            "region_id":85688535,
+            "venue_id":169594097
+        }
+    ],
+    "wof:id":169594097,
+    "wof:lastmodified":1449033163,
+    "wof:name":"Interpark",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [-84.388731,33.752789,-84.388731,33.752789],
+  "geometry": {"coordinates":[-84.388731,33.752789],"type":"Point"}
+}

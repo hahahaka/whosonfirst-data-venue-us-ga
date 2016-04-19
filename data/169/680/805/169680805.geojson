@@ -1,0 +1,79 @@
+{
+  "id": 169680805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-84.480368,33.902087,-84.480368,33.902087",
+    "geom:latitude":33.902087,
+    "geom:longitude":-84.480368,
+    "iso:country":"US",
+    "sg:address":"2550 Windy Hill Rd SE",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 980 1818",
+    "sg:postcode":"30067",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.atlantagyn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        102082313,
+        85818985,
+        85937195,
+        85813197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CxL5T6peDWHxsGWumTXh9_33.902087_-84.480368@1294087602"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c0b1044a1e8acf3d2bd8bc013cb8c31d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":-1,
+            "neighbourhood_id":85818985,
+            "region_id":85688535,
+            "venue_id":169680805
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85937195,
+            "neighbourhood_id":85813197,
+            "region_id":85688535,
+            "venue_id":169680805
+        }
+    ],
+    "wof:id":169680805,
+    "wof:lastmodified":1449034997,
+    "wof:name":"Atlanta Gyn Assoc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-84.480368,33.902087,-84.480368,33.902087],
+  "geometry": {"coordinates":[-84.480368,33.902087],"type":"Point"}
+}

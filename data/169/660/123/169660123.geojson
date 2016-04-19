@@ -1,0 +1,72 @@
+{
+  "id": 169660123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-82.016847,33.42758,-82.016847,33.42758",
+    "geom:latitude":33.42758,
+    "geom:longitude":-82.016847,
+    "iso:country":"US",
+    "sg:address":"2602 Peach Orchard Rd",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 798 3500",
+    "sg:postcode":"30906",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936989,
+        102082951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6knz1VS96joHsHilAvzdvX_33.427580_-82.016847@1294087602"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"13d1c483e9f2c21cab5de1a6c73239c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082951,
+            "locality_id":85936989,
+            "neighbourhood_id":-1,
+            "region_id":85688535,
+            "venue_id":169660123
+        }
+    ],
+    "wof:id":169660123,
+    "wof:lastmodified":1449035609,
+    "wof:name":"Medequip Healthcare",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-82.016847,33.42758,-82.016847,33.42758],
+  "geometry": {"coordinates":[-82.016847,33.42758],"type":"Point"}
+}

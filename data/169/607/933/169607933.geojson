@@ -1,0 +1,68 @@
+{
+  "id": 169607933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-83.63832,32.833633,-83.63832,32.833633",
+    "geom:latitude":32.833633,
+    "geom:longitude":-83.63832,
+    "iso:country":"US",
+    "sg:address":"801 Spring St",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 633 1458",
+    "sg:postcode":"31201",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936517,
+        102084373,
+        85853103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QUIftrBz2phfpSOKt7CLD_32.833633_-83.638320@1294087602"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ca0b173a068f0b0fb853734214085f8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084373,
+            "locality_id":85936517,
+            "neighbourhood_id":85853103,
+            "region_id":85688535,
+            "venue_id":169607933
+        }
+    ],
+    "wof:id":169607933,
+    "wof:lastmodified":1449033122,
+    "wof:name":"Surgical Associates",
+    "wof:parent_id":85853103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-83.63832,32.833633,-83.63832,32.833633],
+  "geometry": {"coordinates":[-83.63832,32.833633],"type":"Point"}
+}

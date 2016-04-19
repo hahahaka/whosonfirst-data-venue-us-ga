@@ -1,0 +1,76 @@
+{
+  "id": 169632933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-84.473236,33.89843,-84.473236,33.89843",
+    "geom:latitude":33.89843,
+    "geom:longitude":-84.473236,
+    "iso:country":"US",
+    "sg:address":"900 Circle 75 Pkwy",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 850 0072",
+    "sg:postcode":"30339",
+    "sg:province":"GA",
+    "sg:tags":[
+        "anesthesiologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        102082313,
+        85818985,
+        85937195,
+        85813197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gja3uXTm9wbLHcaH2QPve_33.898430_-84.473236@1294087602"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1c316414351d5b534fe933224e68d7eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":-1,
+            "neighbourhood_id":85818985,
+            "region_id":85688535,
+            "venue_id":169632933
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85937195,
+            "neighbourhood_id":85813197,
+            "region_id":85688535,
+            "venue_id":169632933
+        }
+    ],
+    "wof:id":169632933,
+    "wof:lastmodified":1449034793,
+    "wof:name":"Westside Anesthesia Assn PC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "anesthesiologist"
+    ]
+},
+  "bbox": [-84.473236,33.89843,-84.473236,33.89843],
+  "geometry": {"coordinates":[-84.473236,33.89843],"type":"Point"}
+}

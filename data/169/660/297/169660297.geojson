@@ -1,0 +1,73 @@
+{
+  "id": 169660297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-81.097125,32.027651,-81.097125,32.027651",
+    "geom:latitude":32.027651,
+    "geom:longitude":-81.097125,
+    "iso:country":"US",
+    "sg:address":"5203 Paulsen St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 356 1005",
+    "sg:postcode":"31405",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical",
+        "durable"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936939,
+        102082337,
+        85880913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XMcDu71cVPLxsLIDzF7yb_32.027651_-81.097125@1294087602"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2ce801984e8d19c29a2342282e2f18e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880913,
+            "region_id":85688535,
+            "venue_id":169660297
+        }
+    ],
+    "wof:id":169660297,
+    "wof:lastmodified":1449035615,
+    "wof:name":"Savannah Home Medical Inc",
+    "wof:parent_id":85880913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "durable"
+    ]
+},
+  "bbox": [-81.097125,32.027651,-81.097125,32.027651],
+  "geometry": {"coordinates":[-81.097125,32.027651],"type":"Point"}
+}
