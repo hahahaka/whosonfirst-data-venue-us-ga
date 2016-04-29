@@ -1,0 +1,73 @@
+{
+  "id": 723121831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.343483,30.856616,-83.343483,30.856616",
+    "geom:latitude":30.856616,
+    "geom:longitude":-83.343483,
+    "iso:country":"US",
+    "sg:address":"3131 Val Tech Rd",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 333 5270",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85852681,
+        102083585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49xMeZNpefdDKnF2Z8d3Pw_30.856616_-83.343483@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461895550,
+    "wof:geomhash":"a85263c98569740abec19843d92fa1f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "neighbourhood_id":85852681,
+            "region_id":85688535,
+            "venue_id":723121831
+        }
+    ],
+    "wof:id":723121831,
+    "wof:lastmodified":1461895550,
+    "wof:name":"Corrections Dept",
+    "wof:parent_id":85852681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -83.343483,
+    30.856616,
+    -83.343483,
+    30.856616
+],
+  "geometry": {"coordinates":[-83.34348300000001,30.856616],"type":"Point"}
+}

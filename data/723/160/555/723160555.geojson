@@ -1,0 +1,73 @@
+{
+  "id": 723160555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.087464,33.034262,-85.087464,33.034262",
+    "geom:latitude":33.034262,
+    "geom:longitude":-85.087464,
+    "iso:country":"US",
+    "sg:address":"2528 Roanoke Rd",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 812 0909",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85830157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48Z40WqH0NMlv4AeGV8IBb_33.034262_-85.087464@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896298,
+    "wof:geomhash":"b1054efeeb538d9d35c2b7b601d785c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85830157,
+            "region_id":85688535,
+            "venue_id":723160555
+        }
+    ],
+    "wof:id":723160555,
+    "wof:lastmodified":1461896298,
+    "wof:name":"Cary Health Alternatives",
+    "wof:parent_id":85830157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.087464,
+    33.034262,
+    -85.087464,
+    33.034262
+],
+  "geometry": {"coordinates":[-85.087464,33.034262],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 722777231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.490636,34.01765,-84.490636,34.01765",
+    "geom:latitude":34.01765,
+    "geom:longitude":-84.490636,
+    "iso:country":"US",
+    "sg:address":"2150 Post Oak Tritt Rd",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 321 5057",
+    "sg:postcode":"30062",
+    "sg:province":"GA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936135,
+        102082313,
+        85857049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LoHJevW8el0i2F4bkoW1F_34.017650_-84.490636@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888446,
+    "wof:geomhash":"fbabd63ea394536399a60bad4cf45032",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936135,
+            "neighbourhood_id":85857049,
+            "region_id":85688535,
+            "venue_id":722777231
+        }
+    ],
+    "wof:id":722777231,
+    "wof:lastmodified":1461888446,
+    "wof:name":"High Tech Transmission",
+    "wof:parent_id":85857049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -84.490636,
+    34.01765,
+    -84.490636,
+    34.01765
+],
+  "geometry": {"coordinates":[-84.49063599999999,34.01765],"type":"Point"}
+}

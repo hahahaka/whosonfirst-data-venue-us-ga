@@ -1,0 +1,87 @@
+{
+  "id": 740041847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.137669,33.525913,-82.137669,33.525913",
+    "geom:latitude":33.525913,
+    "geom:longitude":-82.137669,
+    "iso:country":"US",
+    "sg:address":"353 N Belair Rd",
+    "sg:city":"Evans",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 228 4709",
+    "sg:postcode":"30809",
+    "sg:province":"GA",
+    "sg:tags":[
+        "living",
+        "apartment",
+        "nursing",
+        "facility",
+        "assisted",
+        "convalescent"
+    ],
+    "sg:website":"http://www.morningsideofevans.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OY3mlu90Mu1gJSFJMm4e0_33.525913_-82.137669@1303262637"
+    },
+    "wof:country":"US",
+    "wof:created":1461925709,
+    "wof:geomhash":"3ac1609cf67c10d29c8747a0f22c53c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":740041847
+        }
+    ],
+    "wof:id":740041847,
+    "wof:lastmodified":1461925709,
+    "wof:name":"Morningside Of Evans",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "living",
+        "apartment",
+        "nursing",
+        "facility",
+        "assisted",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -82.137669,
+    33.525913,
+    -82.137669,
+    33.525913
+],
+  "geometry": {"coordinates":[-82.137669,33.525913],"type":"Point"}
+}

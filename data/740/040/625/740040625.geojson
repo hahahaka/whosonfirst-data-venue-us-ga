@@ -1,0 +1,80 @@
+{
+  "id": 740040625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.214878,34.898351,-85.214878,34.898351",
+    "geom:latitude":34.898351,
+    "geom:longitude":-85.214878,
+    "iso:country":"US",
+    "sg:address":"1999 Dietz Rd",
+    "sg:city":"Ringgold",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 858 8517",
+    "sg:postcode":"30736",
+    "sg:province":"GA",
+    "sg:tags":[
+        "contractor",
+        "tree",
+        "grading"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936055,
+        102084401,
+        85818561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LzYIih06LuCUpXaNIEkwV_34.898351_-85.214878@1303262637"
+    },
+    "wof:country":"US",
+    "wof:created":1461925642,
+    "wof:geomhash":"a60e7afd59eb526a819ffc1a04e178df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084401,
+            "locality_id":85936055,
+            "neighbourhood_id":85818561,
+            "region_id":85688535,
+            "venue_id":740040625
+        }
+    ],
+    "wof:id":740040625,
+    "wof:lastmodified":1461925642,
+    "wof:name":"ASAP Tree Service",
+    "wof:parent_id":85818561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "tree",
+        "grading"
+    ]
+},
+  "bbox": [
+    -85.214878,
+    34.898351,
+    -85.214878,
+    34.898351
+],
+  "geometry": {"coordinates":[-85.214878,34.898351],"type":"Point"}
+}

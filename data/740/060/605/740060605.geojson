@@ -1,0 +1,89 @@
+{
+  "id": 740060605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.172994,31.981783,-81.172994,31.981783",
+    "geom:latitude":31.981783,
+    "geom:longitude":-81.172994,
+    "iso:country":"US",
+    "sg:address":"14030 Abercorn St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 927 9542",
+    "sg:postcode":"31419",
+    "sg:province":"GA",
+    "sg:tags":[
+        "clothing",
+        "merchandise"
+    ],
+    "sg:website":"http://www.walmart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936939,
+        102082337,
+        85858259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IlBZB5p7ymdI7YVaO4odN_31.981783_-81.172994@1303262642"
+    },
+    "wof:country":"US",
+    "wof:created":1461926551,
+    "wof:geomhash":"9661f80eb02b693a3e85f79c44693115",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85858259,
+            "region_id":85688535,
+            "venue_id":740060605
+        }
+    ],
+    "wof:id":740060605,
+    "wof:lastmodified":1461926551,
+    "wof:name":"Wal-Mart",
+    "wof:parent_id":85858259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -81.172994,
+    31.981783,
+    -81.172994,
+    31.981783
+],
+  "geometry": {"coordinates":[-81.172994,31.981783],"type":"Point"}
+}

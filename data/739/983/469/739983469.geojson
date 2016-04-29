@@ -1,0 +1,87 @@
+{
+  "id": 739983469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.497926,33.768183,-84.497926,33.768183",
+    "geom:latitude":33.768183,
+    "geom:longitude":-84.497926,
+    "iso:country":"US",
+    "sg:address":"3399 Collier Drive NW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 699 4566",
+    "sg:postcode":"30331",
+    "sg:province":"GA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872073,
+        420558565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25QLep931kumJ8JRP8hmUw_33.768183_-84.497926@1303262622"
+    },
+    "wof:country":"US",
+    "wof:created":1461923283,
+    "wof:geomhash":"c002d3cc33a1597dcdf33688c5d8c01a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872073,
+            "region_id":85688535,
+            "venue_id":739983469
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":420558565,
+            "region_id":85688535,
+            "venue_id":739983469
+        }
+    ],
+    "wof:id":739983469,
+    "wof:lastmodified":1461923283,
+    "wof:name":"Atlanta City School District",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -84.497926,
+    33.768183,
+    -84.497926,
+    33.768183
+],
+  "geometry": {"coordinates":[-84.49792600000001,33.768183],"type":"Point"}
+}

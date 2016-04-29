@@ -1,0 +1,91 @@
+{
+  "id": 740059087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.164021,32.048775,-81.164021,32.048775",
+    "geom:latitude":32.048775,
+    "geom:longitude":-81.164021,
+    "iso:country":"US",
+    "sg:address":"4250 Ogeechee Rd",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 232 0093",
+    "sg:postcode":"31405",
+    "sg:province":"GA",
+    "sg:tags":[
+        "dock",
+        "builder",
+        "pile",
+        "driving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        420517397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zfPu2K729VqPVcnGmpHGN_32.048775_-81.164021@1303262642"
+    },
+    "wof:country":"US",
+    "wof:created":1461926495,
+    "wof:geomhash":"3c9871565a3d26b1afd564129bee42c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":420517397,
+            "region_id":85688535,
+            "venue_id":740059087
+        }
+    ],
+    "wof:id":740059087,
+    "wof:lastmodified":1461926495,
+    "wof:name":"Alpha Construction Co",
+    "wof:parent_id":420517397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dock",
+        "builder",
+        "pile",
+        "driving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.164021,
+    32.048775,
+    -81.164021,
+    32.048775
+],
+  "geometry": {"coordinates":[-81.16402100000001,32.048775],"type":"Point"}
+}

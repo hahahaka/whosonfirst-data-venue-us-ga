@@ -1,0 +1,83 @@
+{
+  "id": 739861907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.672287,34.064018,-84.672287,34.064018",
+    "geom:latitude":34.064018,
+    "geom:longitude":-84.672287,
+    "iso:country":"US",
+    "sg:address":"4647 S Main St",
+    "sg:city":"Acworth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Recreational Vehicle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 297 1088",
+    "sg:postcode":"30101",
+    "sg:province":"GA",
+    "sg:tags":[
+        "homes-rent",
+        "campers-rent",
+        "lease"
+    ],
+    "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a8715034%3a13%3a4859924%3a14%3a0%3a7",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936129,
+        102082313,
+        85834659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sLZKpj0Wa5B8cIF6Yae3k_34.064018_-84.672287@1303262591"
+    },
+    "wof:country":"US",
+    "wof:created":1461918387,
+    "wof:geomhash":"2585d7accd9b6cc89a3d24700b2c3f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936129,
+            "neighbourhood_id":85834659,
+            "region_id":85688535,
+            "venue_id":739861907
+        }
+    ],
+    "wof:id":739861907,
+    "wof:lastmodified":1461918387,
+    "wof:name":"T & J RV Rental",
+    "wof:parent_id":85834659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "homes-rent",
+        "campers-rent",
+        "lease"
+    ]
+},
+  "bbox": [
+    -84.672287,
+    34.064018,
+    -84.672287,
+    34.064018
+],
+  "geometry": {"coordinates":[-84.672287,34.064018],"type":"Point"}
+}

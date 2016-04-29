@@ -1,0 +1,84 @@
+{
+  "id": 739768399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.356716,33.740441,-84.356716,33.740441",
+    "geom:latitude":33.740441,
+    "geom:longitude":-84.356716,
+    "iso:country":"US",
+    "sg:address":"933 Garrett St SE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/atlanta/246541-vino-libro/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 624 3644",
+    "sg:postcode":"30316",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872125,
+        85839789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uzeEAq9xYF71Fw3x4DFIM_33.740441_-84.356716@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914477,
+    "wof:geomhash":"cfe487e079d34f9950c5ba0870a2960f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872125,
+            "region_id":85688535,
+            "venue_id":739768399
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85839789,
+            "region_id":85688535,
+            "venue_id":739768399
+        }
+    ],
+    "wof:id":739768399,
+    "wof:lastmodified":1461914477,
+    "wof:name":"Vino Libro",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -84.356716,
+    33.740441,
+    -84.356716,
+    33.740441
+],
+  "geometry": {"coordinates":[-84.35671600000001,33.740441],"type":"Point"}
+}

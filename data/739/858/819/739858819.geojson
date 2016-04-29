@@ -1,0 +1,71 @@
+{
+  "id": 739858819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.141876,33.965979,-84.141876,33.965979",
+    "geom:latitude":33.965979,
+    "geom:longitude":-84.141876,
+    "iso:country":"US",
+    "sg:address":"2472 Pleasant Hill Rd",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 475 1965",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "bookstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Kcmp0ToAqwj39E1Ecd9pr_33.965979_-84.141876@1303262590"
+    },
+    "wof:country":"US",
+    "wof:created":1461918265,
+    "wof:geomhash":"20f3d02210b7123f52e227d1fa62bfa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":739858819
+        }
+    ],
+    "wof:id":739858819,
+    "wof:lastmodified":1461918265,
+    "wof:name":"Kyobo Bookstore",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore"
+    ]
+},
+  "bbox": [
+    -84.141876,
+    33.965979,
+    -84.141876,
+    33.965979
+],
+  "geometry": {"coordinates":[-84.141876,33.965979],"type":"Point"}
+}

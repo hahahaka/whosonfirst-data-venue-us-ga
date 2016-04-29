@@ -1,0 +1,88 @@
+{
+  "id": 740058679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.064903,32.016682,-81.064903,32.016682",
+    "geom:latitude":32.016682,
+    "geom:longitude":-81.064903,
+    "iso:country":"US",
+    "sg:address":"5150 Jasmine Ave",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 354 0515",
+    "sg:postcode":"31404",
+    "sg:province":"GA",
+    "sg:tags":[
+        "facility",
+        "club",
+        "private",
+        "banquet",
+        "reception",
+        "hall"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937335,
+        102082337,
+        420517295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v1ygeppq0L2G9Rxa6d4XK_32.016682_-81.064903@1303262642"
+    },
+    "wof:country":"US",
+    "wof:created":1461926475,
+    "wof:geomhash":"310274bf217b02c35a9a911ea2edcae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85937335,
+            "neighbourhood_id":420517295,
+            "region_id":85688535,
+            "venue_id":740058679
+        }
+    ],
+    "wof:id":740058679,
+    "wof:lastmodified":1461926475,
+    "wof:name":"German Country Club",
+    "wof:parent_id":420517295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "facility",
+        "club",
+        "private",
+        "banquet",
+        "reception",
+        "hall"
+    ]
+},
+  "bbox": [
+    -81.064903,
+    32.016682,
+    -81.064903,
+    32.016682
+],
+  "geometry": {"coordinates":[-81.064903,32.016682],"type":"Point"}
+}

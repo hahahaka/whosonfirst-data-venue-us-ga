@@ -1,0 +1,84 @@
+{
+  "id": 722897191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.792295,32.445341,-81.792295,32.445341",
+    "geom:latitude":32.445341,
+    "geom:longitude":-81.792295,
+    "iso:country":"US",
+    "sg:address":"114 Parker St",
+    "sg:city":"Statesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 764 3248",
+    "sg:postcode":"30458",
+    "sg:province":"GA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85935999,
+        102084405,
+        85828471,
+        85935995,
+        85868553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dZxpRHSNNLHbhqk8fnxxM_32.445341_-81.792295@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461890735,
+    "wof:geomhash":"9f2de34842eda66574c54c844f686119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85828471,
+            "region_id":85688535,
+            "venue_id":722897191
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935995,
+            "neighbourhood_id":85868553,
+            "region_id":85688535,
+            "venue_id":722897191
+        }
+    ],
+    "wof:id":722897191,
+    "wof:lastmodified":1461890735,
+    "wof:name":"Hall & Wheeler Garage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -81.792295,
+    32.445341,
+    -81.792295,
+    32.445341
+],
+  "geometry": {"coordinates":[-81.792295,32.445341],"type":"Point"}
+}

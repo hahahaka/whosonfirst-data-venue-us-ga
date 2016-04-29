@@ -1,0 +1,73 @@
+{
+  "id": 722682741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.955175,30.871817,-83.955175,30.871817",
+    "geom:latitude":30.871817,
+    "geom:longitude":-83.955175,
+    "iso:country":"US",
+    "sg:address":"16209 US Hwy 19 N",
+    "sg:city":"Thomasville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 228 1125",
+    "sg:postcode":"31792",
+    "sg:province":"GA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85833309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Gw93cGle1imqC4LE14vfr_30.871817_-83.955175@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886637,
+    "wof:geomhash":"7af090b79f06165cd43502ebcca66dae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85833309,
+            "region_id":85688535,
+            "venue_id":722682741
+        }
+    ],
+    "wof:id":722682741,
+    "wof:lastmodified":1461886637,
+    "wof:name":"Storage Center",
+    "wof:parent_id":85833309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -83.955175,
+    30.871817,
+    -83.955175,
+    30.871817
+],
+  "geometry": {"coordinates":[-83.955175,30.871817],"type":"Point"}
+}

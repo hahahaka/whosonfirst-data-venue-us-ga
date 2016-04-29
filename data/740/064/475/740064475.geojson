@@ -1,0 +1,86 @@
+{
+  "id": 740064475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.67823,30.79294,-81.67823,30.79294",
+    "geom:latitude":30.79294,
+    "geom:longitude":-81.67823,
+    "iso:country":"US",
+    "sg:address":"123 Summerfield Dr",
+    "sg:city":"Kingsland",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 729 2020",
+    "sg:postcode":"31548",
+    "sg:province":"GA",
+    "sg:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937043,
+        102081693,
+        85812807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66a0hAmuTU4r0TT9chtI0P_30.792940_-81.678230@1303262643"
+    },
+    "wof:country":"US",
+    "wof:created":1461926722,
+    "wof:geomhash":"dd0554f87fc22efbc32e10392cf64f80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081693,
+            "locality_id":85937043,
+            "neighbourhood_id":85812807,
+            "region_id":85688535,
+            "venue_id":740064475
+        }
+    ],
+    "wof:id":740064475,
+    "wof:lastmodified":1461926722,
+    "wof:name":"Mcdonald's",
+    "wof:parent_id":85812807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -81.67823,
+    30.79294,
+    -81.67823,
+    30.79294
+],
+  "geometry": {"coordinates":[-81.67823,30.79294],"type":"Point"}
+}

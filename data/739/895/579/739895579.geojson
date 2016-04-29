@@ -1,0 +1,91 @@
+{
+  "id": 739895579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.034367,33.049721,-85.034367,33.049721",
+    "geom:latitude":33.049721,
+    "geom:longitude":-85.034367,
+    "iso:country":"US",
+    "sg:address":"1111 N Greenwood St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 883 1111",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "information",
+        "apartment",
+        "commercial",
+        "vacancy",
+        "management",
+        "listing",
+        "referral",
+        "rental"
+    ],
+    "sg:website":"http://www.spinksandyates.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wPy1G1ZOU0dODAXpBaG3y_33.049721_-85.034367@1303262600"
+    },
+    "wof:country":"US",
+    "wof:created":1461919645,
+    "wof:geomhash":"550feae564c6e6f55f7f3c3637d38e9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739895579
+        }
+    ],
+    "wof:id":739895579,
+    "wof:lastmodified":1461919645,
+    "wof:name":"Spinks & Yates Management",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "apartment",
+        "commercial",
+        "vacancy",
+        "management",
+        "listing",
+        "referral",
+        "rental"
+    ]
+},
+  "bbox": [
+    -85.034367,
+    33.049721,
+    -85.034367,
+    33.049721
+],
+  "geometry": {"coordinates":[-85.034367,33.049721],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 739776203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.884567,32.557041,-83.884567,32.557041",
+    "geom:latitude":32.557041,
+    "geom:longitude":-83.884567,
+    "iso:country":"US",
+    "sg:address":"212 N Camellia Blvd",
+    "sg:city":"Fort Valley",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/fort-valley/203295-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"31030",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936251,
+        102082339,
+        85826885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KLI65tb9RDorIAHUGTyHr_32.557257_-83.884327@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461914788,
+    "wof:geomhash":"84e98d7752a5d70a5601e6cefe0c83a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082339,
+            "locality_id":85936251,
+            "neighbourhood_id":85826885,
+            "region_id":85688535,
+            "venue_id":739776203
+        }
+    ],
+    "wof:id":739776203,
+    "wof:lastmodified":1461914788,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85826885,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.884567,
+    32.557041,
+    -83.884567,
+    32.557041
+],
+  "geometry": {"coordinates":[-83.884567,32.557041],"type":"Point"}
+}

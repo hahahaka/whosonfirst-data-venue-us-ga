@@ -1,0 +1,84 @@
+{
+  "id": 739364003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.332207,33.911891,-84.332207,33.911891",
+    "geom:latitude":33.911891,
+    "geom:longitude":-84.332207,
+    "iso:country":"US",
+    "sg:address":"4051 Navajo Trl NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 932 2493",
+    "sg:postcode":"30319",
+    "sg:province":"GA",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85890003,
+        85936435,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UYcnbBcC7Z6mVpsIY59rB_33.911891_-84.332207@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461905884,
+    "wof:geomhash":"169d1cab5958faebd5c12fa7501a3d9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890003,
+            "region_id":85688535,
+            "venue_id":739364003
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":739364003
+        }
+    ],
+    "wof:id":739364003,
+    "wof:lastmodified":1461905884,
+    "wof:name":"Georgia North Classic Home",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -84.332207,
+    33.911891,
+    -84.332207,
+    33.911891
+],
+  "geometry": {"coordinates":[-84.332207,33.911891],"type":"Point"}
+}

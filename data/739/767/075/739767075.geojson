@@ -1,0 +1,71 @@
+{
+  "id": 739767075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.031016,33.043176,-85.031016,33.043176",
+    "geom:latitude":33.043176,
+    "geom:longitude":-85.031016,
+    "iso:country":"US",
+    "sg:address":"314 New Franklin Rd",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/lagrange/196030-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EvuqrofoQAEAA6rAeeCHn_33.043176_-85.031016@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914423,
+    "wof:geomhash":"9d7e24b4878a166bd362acf3df1b50a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739767075
+        }
+    ],
+    "wof:id":739767075,
+    "wof:lastmodified":1461914423,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -85.031016,
+    33.043176,
+    -85.031016,
+    33.043176
+],
+  "geometry": {"coordinates":[-85.03101599999999,33.043176],"type":"Point"}
+}

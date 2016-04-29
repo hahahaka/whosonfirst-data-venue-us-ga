@@ -1,0 +1,68 @@
+{
+  "id": 740000359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.302004,33.901341,-84.302004,33.901341",
+    "geom:latitude":33.901341,
+    "geom:longitude":-84.302004,
+    "iso:country":"US",
+    "sg:address":"3701 Longview Drive",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 216 1978",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936435,
+        102084539,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_625r9FiMRG3fZQeP6eLDLZ_33.901341_-84.302004@1303262627"
+    },
+    "wof:country":"US",
+    "wof:created":1461923943,
+    "wof:geomhash":"8d371bbe4e8cb9b80f3d47cabd4ccfab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":740000359
+        }
+    ],
+    "wof:id":740000359,
+    "wof:lastmodified":1461923943,
+    "wof:name":"Ic Auto Tech",
+    "wof:parent_id":85889955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.302004,
+    33.901341,
+    -84.302004,
+    33.901341
+],
+  "geometry": {"coordinates":[-84.302004,33.901341],"type":"Point"}
+}

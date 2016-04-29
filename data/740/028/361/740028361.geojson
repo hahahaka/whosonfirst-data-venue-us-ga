@@ -1,0 +1,86 @@
+{
+  "id": 740028361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.395341,34.885621,-83.395341,34.885621",
+    "geom:latitude":34.885621,
+    "geom:longitude":-83.395341,
+    "iso:country":"US",
+    "sg:address":"248 Highway 441 N No.",
+    "sg:city":"Clayton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 782 2111",
+    "sg:postcode":"30525",
+    "sg:province":"GA",
+    "sg:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ],
+    "sg:website":"http://www.pizzahut.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936141,
+        102081683,
+        85821415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Xu3wtfzHtecGN438BnYU2_34.885621_-83.395341@1303262634"
+    },
+    "wof:country":"US",
+    "wof:created":1461925094,
+    "wof:geomhash":"d67a5700456bfe3f8fc2cf3db12a762e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081683,
+            "locality_id":85936141,
+            "neighbourhood_id":85821415,
+            "region_id":85688535,
+            "venue_id":740028361
+        }
+    ],
+    "wof:id":740028361,
+    "wof:lastmodified":1461925094,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85821415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.395341,
+    34.885621,
+    -83.395341,
+    34.885621
+],
+  "geometry": {"coordinates":[-83.395341,34.885621],"type":"Point"}
+}

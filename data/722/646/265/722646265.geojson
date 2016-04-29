@@ -1,0 +1,71 @@
+{
+  "id": 722646265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.237669,34.952542,-85.237669,34.952542",
+    "geom:latitude":34.952542,
+    "geom:longitude":-85.237669,
+    "iso:country":"US",
+    "sg:address":"337 S Cedar Ln",
+    "sg:city":"Fort Oglethorpe",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 861 1234",
+    "sg:postcode":"30742",
+    "sg:province":"GA",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936055,
+        102084401,
+        85818561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3emOjlDqJrgVboRNQwEJZU_34.952542_-85.237669@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461885948,
+    "wof:geomhash":"1a48e8f78924f20db189b78ad710f1e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084401,
+            "locality_id":85936055,
+            "neighbourhood_id":85818561,
+            "region_id":85688535,
+            "venue_id":722646265
+        }
+    ],
+    "wof:id":722646265,
+    "wof:lastmodified":1461885948,
+    "wof:name":"Angel Emergency Medical Svc",
+    "wof:parent_id":85818561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -85.237669,
+    34.952542,
+    -85.237669,
+    34.952542
+],
+  "geometry": {"coordinates":[-85.237669,34.952542],"type":"Point"}
+}

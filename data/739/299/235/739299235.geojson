@@ -1,0 +1,85 @@
+{
+  "id": 739299235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.907139,32.523122,-84.907139,32.523122",
+    "geom:latitude":32.523122,
+    "geom:longitude":-84.907139,
+    "iso:country":"US",
+    "sg:address":"5768 Miller Ct",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 569 9501",
+    "sg:postcode":"31909",
+    "sg:province":"GA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85838285,
+        85810715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Sdb0QHbJgNeXLJ9z7Hkvt_32.523122_-84.907139@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461904555,
+    "wof:geomhash":"52c6de9e530bfaadb27e747919f6e18b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85838285,
+            "region_id":85688535,
+            "venue_id":739299235
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85810715,
+            "region_id":85688535,
+            "venue_id":739299235
+        }
+    ],
+    "wof:id":739299235,
+    "wof:lastmodified":1461904555,
+    "wof:name":"Master Plumbing Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.907139,
+    32.523122,
+    -84.907139,
+    32.523122
+],
+  "geometry": {"coordinates":[-84.907139,32.523122],"type":"Point"}
+}

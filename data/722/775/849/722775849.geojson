@@ -1,0 +1,80 @@
+{
+  "id": 722775849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.178947,34.260333,-85.178947,34.260333",
+    "geom:latitude":34.260333,
+    "geom:longitude":-85.178947,
+    "iso:country":"US",
+    "sg:address":"304 Turner McCall Blvd",
+    "sg:city":"Rome",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 802 4100",
+    "sg:postcode":"30165",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936575,
+        102084577,
+        85890045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6inRM8CXgPzX2UUlQhQi6M_34.260333_-85.178947@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888424,
+    "wof:geomhash":"2341c611dd285cd19038aacecc480116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084577,
+            "locality_id":85936575,
+            "neighbourhood_id":85890045,
+            "region_id":85688535,
+            "venue_id":722775849
+        }
+    ],
+    "wof:id":722775849,
+    "wof:lastmodified":1461888424,
+    "wof:name":"Speciality Hospital",
+    "wof:parent_id":85890045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -85.178947,
+    34.260333,
+    -85.178947,
+    34.260333
+],
+  "geometry": {"coordinates":[-85.17894699999999,34.260333],"type":"Point"}
+}

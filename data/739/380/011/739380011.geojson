@@ -1,0 +1,75 @@
+{
+  "id": 739380011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.977396,32.017524,-80.977396,32.017524",
+    "geom:latitude":32.017524,
+    "geom:longitude":-80.977396,
+    "iso:country":"US",
+    "sg:address":"479 Johnny Mercer Blvd",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 897 4225",
+    "sg:postcode":"31410",
+    "sg:province":"GA",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937331,
+        102082337,
+        85808955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zs9NZQo1ErnGoiv5PRUgX_32.017524_-80.977396@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461906196,
+    "wof:geomhash":"979d92243e015864ac8194b078fcac46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85937331,
+            "neighbourhood_id":85808955,
+            "region_id":85688535,
+            "venue_id":739380011
+        }
+    ],
+    "wof:id":739380011,
+    "wof:lastmodified":1461906196,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85808955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -80.977396,
+    32.017524,
+    -80.977396,
+    32.017524
+],
+  "geometry": {"coordinates":[-80.977396,32.017524],"type":"Point"}
+}

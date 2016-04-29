@@ -1,0 +1,78 @@
+{
+  "id": 740028329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.40084,34.878431,-83.40084,34.878431",
+    "geom:latitude":34.878431,
+    "geom:longitude":-83.40084,
+    "iso:country":"US",
+    "sg:address":"13 N Main St",
+    "sg:city":"Clayton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 782 3211",
+    "sg:postcode":"30525",
+    "sg:province":"GA",
+    "sg:tags":[
+        "equipment",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936141,
+        102081683,
+        85821415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wUoNPm91HH5595zhiHOf8_34.878431_-83.400840@1303262634"
+    },
+    "wof:country":"US",
+    "wof:created":1461925093,
+    "wof:geomhash":"cdef96e96fa7b73684e8e0434e9a002e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081683,
+            "locality_id":85936141,
+            "neighbourhood_id":85821415,
+            "region_id":85688535,
+            "venue_id":740028329
+        }
+    ],
+    "wof:id":740028329,
+    "wof:lastmodified":1461925093,
+    "wof:name":"Good Neighbor Pharmacy",
+    "wof:parent_id":85821415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "supply"
+    ]
+},
+  "bbox": [
+    -83.40084,
+    34.878431,
+    -83.40084,
+    34.878431
+],
+  "geometry": {"coordinates":[-83.40084,34.878431],"type":"Point"}
+}

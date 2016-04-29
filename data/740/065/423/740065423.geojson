@@ -1,0 +1,84 @@
+{
+  "id": 740065423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.324692,30.841799,-83.324692,30.841799",
+    "geom:latitude":30.841799,
+    "geom:longitude":-83.324692,
+    "iso:country":"US",
+    "sg:address":"1202 N Saint Augustine Rd",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 244 4048",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shop",
+        "american",
+        "sandwich"
+    ],
+    "sg:website":"http://www.arbys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85852681,
+        102083585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04QAN88fl5p1YmHDBM7lFr_30.841799_-83.324692@1303262644"
+    },
+    "wof:country":"US",
+    "wof:created":1461926766,
+    "wof:geomhash":"d15b534eabb202d912b6042c416f35e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "neighbourhood_id":85852681,
+            "region_id":85688535,
+            "venue_id":740065423
+        }
+    ],
+    "wof:id":740065423,
+    "wof:lastmodified":1461926766,
+    "wof:name":"Arby's",
+    "wof:parent_id":85852681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.324692,
+    30.841799,
+    -83.324692,
+    30.841799
+],
+  "geometry": {"coordinates":[-83.324692,30.841799],"type":"Point"}
+}

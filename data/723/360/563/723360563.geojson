@@ -1,0 +1,92 @@
+{
+  "id": 723360563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.945232,32.439623,-84.945232,32.439623",
+    "geom:latitude":32.439623,
+    "geom:longitude":-84.945232,
+    "iso:country":"US",
+    "sg:address":"3525 Cusseta Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 687 2724",
+    "sg:postcode":"31903",
+    "sg:province":"GA",
+    "sg:tags":[
+        "engine",
+        "equipment",
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85803141,
+        420518095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QbJh85evAX2bMHZc44uig_32.439623_-84.945232@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900191,
+    "wof:geomhash":"a982b8b2c39d78a737e3aec06dd736a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85803141,
+            "region_id":85688535,
+            "venue_id":723360563
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":420518095,
+            "region_id":85688535,
+            "venue_id":723360563
+        }
+    ],
+    "wof:id":723360563,
+    "wof:lastmodified":1461900191,
+    "wof:name":"Cliff's Small Engine Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "equipment",
+        "industrial"
+    ]
+},
+  "bbox": [
+    -84.945232,
+    32.439623,
+    -84.945232,
+    32.439623
+],
+  "geometry": {"coordinates":[-84.945232,32.439623],"type":"Point"}
+}

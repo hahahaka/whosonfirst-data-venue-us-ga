@@ -1,0 +1,77 @@
+{
+  "id": 723283507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.703062,32.679963,-83.703062,32.679963",
+    "geom:latitude":32.679963,
+    "geom:longitude":-83.703062,
+    "iso:country":"US",
+    "sg:address":"7651 Houston Rd",
+    "sg:city":"Byron",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 785 9090",
+    "sg:postcode":"31008",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body",
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04YcrFbQ7o2bfqqthR10qs_32.679963_-83.703062@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461898745,
+    "wof:geomhash":"d173a9002b0b160986df0bb7fcc6393c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":723283507
+        }
+    ],
+    "wof:id":723283507,
+    "wof:lastmodified":1461898745,
+    "wof:name":"2 Wheel Body Shop",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "scooter",
+        "motorcycle",
+        "motor"
+    ]
+},
+  "bbox": [
+    -83.703062,
+    32.679963,
+    -83.703062,
+    32.679963
+],
+  "geometry": {"coordinates":[-83.703062,32.679963],"type":"Point"}
+}

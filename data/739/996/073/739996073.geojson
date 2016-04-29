@@ -1,0 +1,80 @@
+{
+  "id": 739996073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.263241,33.911209,-84.263241,33.911209",
+    "geom:latitude":33.911209,
+    "geom:longitude":-84.263241,
+    "iso:country":"US",
+    "sg:address":"3042 Oakcliff Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 452 4288",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "management",
+        "pain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WnN57SEaQhGTXP11k7YTL_33.911209_-84.263241@1303262626"
+    },
+    "wof:country":"US",
+    "wof:created":1461923784,
+    "wof:geomhash":"3da65b20001c68a38479ad2deed64982",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":739996073
+        }
+    ],
+    "wof:id":739996073,
+    "wof:lastmodified":1461923784,
+    "wof:name":"Expert Pain Clinic",
+    "wof:parent_id":85889941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "management",
+        "pain"
+    ]
+},
+  "bbox": [
+    -84.263241,
+    33.911209,
+    -84.263241,
+    33.911209
+],
+  "geometry": {"coordinates":[-84.26324099999999,33.911209],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 740055247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.761589,32.879892,-83.761589,32.879892",
+    "geom:latitude":32.879892,
+    "geom:longitude":-83.761589,
+    "iso:country":"US",
+    "sg:address":"6005 Zebulon Rd",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 476 3584",
+    "sg:postcode":"31210",
+    "sg:province":"GA",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"https://www.wachovia.com/?DCMP=KNL-CPS-DS-Directory-0703&HBX_PK=Banks&HBX_OU=71",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85848313,
+        102084373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5p0f7VyY2qGbEGjcNbJKhT_32.879892_-83.761589@1303262641"
+    },
+    "wof:country":"US",
+    "wof:created":1461926326,
+    "wof:geomhash":"f4ca3c96630185cdcfdc03275c73aa34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084373,
+            "neighbourhood_id":85848313,
+            "region_id":85688535,
+            "venue_id":740055247
+        }
+    ],
+    "wof:id":740055247,
+    "wof:lastmodified":1461926326,
+    "wof:name":"Wachovia Bank",
+    "wof:parent_id":85848313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -83.761589,
+    32.879892,
+    -83.761589,
+    32.879892
+],
+  "geometry": {"coordinates":[-83.761589,32.879892],"type":"Point"}
+}

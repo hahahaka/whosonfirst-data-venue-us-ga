@@ -1,0 +1,73 @@
+{
+  "id": 739582467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.033839,33.052381,-85.033839,33.052381",
+    "geom:latitude":33.052381,
+    "geom:longitude":-85.033839,
+    "iso:country":"US",
+    "sg:address":"820 N Greenwood St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 885 9213",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qpnkBLrqxK416OiPA0Vor_33.052381_-85.033839@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910051,
+    "wof:geomhash":"0c78e4fb202790b163be9fa0011ba873",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739582467
+        }
+    ],
+    "wof:id":739582467,
+    "wof:lastmodified":1461910051,
+    "wof:name":"Corley Drugs",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -85.033839,
+    33.052381,
+    -85.033839,
+    33.052381
+],
+  "geometry": {"coordinates":[-85.033839,33.052381],"type":"Point"}
+}

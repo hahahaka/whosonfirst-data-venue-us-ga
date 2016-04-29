@@ -1,0 +1,85 @@
+{
+  "id": 739465993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.22901,32.106952,-81.22901,32.106952",
+    "geom:latitude":32.106952,
+    "geom:longitude":-81.22901,
+    "iso:country":"US",
+    "sg:address":"1100 US Hwy 80",
+    "sg:city":"Pooler",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 748 6438",
+    "sg:postcode":"31322",
+    "sg:province":"GA",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936945,
+        102082337,
+        85857815,
+        420517409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6R2vMbIjP1Ej1BQkZMK0UA_32.106952_-81.229010@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907819,
+    "wof:geomhash":"d2acb1e3903fe804fed5cc3dda0186be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936945,
+            "neighbourhood_id":85857815,
+            "region_id":85688535,
+            "venue_id":739465993
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936945,
+            "neighbourhood_id":420517409,
+            "region_id":85688535,
+            "venue_id":739465993
+        }
+    ],
+    "wof:id":739465993,
+    "wof:lastmodified":1461907819,
+    "wof:name":"Colonial Oil Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -81.22901,
+    32.106952,
+    -81.22901,
+    32.106952
+],
+  "geometry": {"coordinates":[-81.22901,32.106952],"type":"Point"}
+}

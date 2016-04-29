@@ -1,0 +1,80 @@
+{
+  "id": 739870163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.79128,34.215909,-84.79128,34.215909",
+    "geom:latitude":34.215909,
+    "geom:longitude":-84.79128,
+    "iso:country":"US",
+    "sg:address":"165 Old Tennessee Rd NE",
+    "sg:city":"Cartersville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"History Museum",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 383 3300",
+    "sg:postcode":"30121",
+    "sg:province":"GA",
+    "sg:tags":[
+        "cemetery",
+        "mausoleum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936223,
+        102082937,
+        85822917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rBOlTc31HnwosXqxpDzdf_34.215909_-84.791280@1303262593"
+    },
+    "wof:country":"US",
+    "wof:created":1461918699,
+    "wof:geomhash":"0c244693eb3212efe852271e73a1a745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082937,
+            "locality_id":85936223,
+            "neighbourhood_id":85822917,
+            "region_id":85688535,
+            "venue_id":739870163
+        }
+    ],
+    "wof:id":739870163,
+    "wof:lastmodified":1461918699,
+    "wof:name":"Providence Cemetery & Mausoleum",
+    "wof:parent_id":85822917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery",
+        "mausoleum"
+    ]
+},
+  "bbox": [
+    -84.79128,
+    34.215909,
+    -84.79128,
+    34.215909
+],
+  "geometry": {"coordinates":[-84.79128,34.215909],"type":"Point"}
+}

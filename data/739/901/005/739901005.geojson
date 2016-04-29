@@ -1,0 +1,72 @@
+{
+  "id": 739901005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.778548,33.421044,-84.778548,33.421044",
+    "geom:latitude":33.421044,
+    "geom:longitude":-84.778548,
+    "iso:country":"US",
+    "sg:address":"25 Oak Hill Dr",
+    "sg:city":"Newnan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 502 0085",
+    "sg:postcode":"30263",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.crossroadsanimalvet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936351,
+        102084443,
+        85833133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q63PpTNXFnOeQ7S7Rx3W4_33.421044_-84.778548@1303262601"
+    },
+    "wof:country":"US",
+    "wof:created":1461919865,
+    "wof:geomhash":"0a6259db929125b2a7eb1c2dcc3399c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084443,
+            "locality_id":85936351,
+            "neighbourhood_id":85833133,
+            "region_id":85688535,
+            "venue_id":739901005
+        }
+    ],
+    "wof:id":739901005,
+    "wof:lastmodified":1461919865,
+    "wof:name":"Crossroads Animal Hospital",
+    "wof:parent_id":85833133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.778548,
+    33.421044,
+    -84.778548,
+    33.421044
+],
+  "geometry": {"coordinates":[-84.778548,33.421044],"type":"Point"}
+}

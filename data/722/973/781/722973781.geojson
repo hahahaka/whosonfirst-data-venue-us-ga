@@ -1,0 +1,83 @@
+{
+  "id": 722973781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.333134,33.940024,-84.333134,33.940024",
+    "geom:latitude":33.940024,
+    "geom:longitude":-84.333134,
+    "iso:country":"US",
+    "sg:address":"4827 Manget Ct",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 396 4704",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        420517741,
+        85815577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Eu0Biuf1Qv4jHb68mtEAN_33.940024_-84.333134@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461892325,
+    "wof:geomhash":"e650a7e9b0b6a2d53b22a0fe3a0effc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":420517741,
+            "region_id":85688535,
+            "venue_id":722973781
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85815577,
+            "region_id":85688535,
+            "venue_id":722973781
+        }
+    ],
+    "wof:id":722973781,
+    "wof:lastmodified":1461892325,
+    "wof:name":"Greater Atlnta Anesthesia Svcs",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -84.333134,
+    33.940024,
+    -84.333134,
+    33.940024
+],
+  "geometry": {"coordinates":[-84.333134,33.940024],"type":"Point"}
+}

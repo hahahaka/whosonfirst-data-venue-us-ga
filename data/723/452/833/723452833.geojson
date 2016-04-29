@@ -1,0 +1,73 @@
+{
+  "id": 723452833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.518283,34.19384,-84.518283,34.19384",
+    "geom:latitude":34.19384,
+    "geom:longitude":-84.518283,
+    "iso:country":"US",
+    "sg:address":"2525 Ridge Rd",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 493 4560",
+    "sg:postcode":"30114",
+    "sg:province":"GA",
+    "sg:tags":[
+        "city",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936719,
+        102084635,
+        85896247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UwZ7CLqPWnIqltGeUInvL_34.193840_-84.518283@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901991,
+    "wof:geomhash":"da0e06b633961ed0a5a6590a09eebc08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084635,
+            "locality_id":85936719,
+            "neighbourhood_id":85896247,
+            "region_id":85688535,
+            "venue_id":723452833
+        }
+    ],
+    "wof:id":723452833,
+    "wof:lastmodified":1461901991,
+    "wof:name":"Canton City Transit System",
+    "wof:parent_id":85896247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "program"
+    ]
+},
+  "bbox": [
+    -84.518283,
+    34.19384,
+    -84.518283,
+    34.19384
+],
+  "geometry": {"coordinates":[-84.518283,34.19384],"type":"Point"}
+}

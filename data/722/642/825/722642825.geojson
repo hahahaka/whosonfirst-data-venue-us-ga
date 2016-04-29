@@ -1,0 +1,75 @@
+{
+  "id": 722642825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.812438,33.381949,-84.812438,33.381949",
+    "geom:latitude":33.381949,
+    "geom:longitude":-84.812438,
+    "iso:country":"US",
+    "sg:address":"145 Temple Ave W",
+    "sg:city":"Newnan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 254 7247",
+    "sg:postcode":"30263",
+    "sg:province":"GA",
+    "sg:tags":[
+        "parole",
+        "board",
+        "pardon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936351,
+        102084443,
+        85833133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AwsbNybsekYyh77PaSXPr_33.381949_-84.812438@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461885892,
+    "wof:geomhash":"7b994fafb2eb44db8bc70c7244dfc51a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084443,
+            "locality_id":85936351,
+            "neighbourhood_id":85833133,
+            "region_id":85688535,
+            "venue_id":722642825
+        }
+    ],
+    "wof:id":722642825,
+    "wof:lastmodified":1461885892,
+    "wof:name":"Pardons & Paroles GA State Bd",
+    "wof:parent_id":85833133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parole",
+        "board",
+        "pardon"
+    ]
+},
+  "bbox": [
+    -84.812438,
+    33.381949,
+    -84.812438,
+    33.381949
+],
+  "geometry": {"coordinates":[-84.812438,33.381949],"type":"Point"}
+}

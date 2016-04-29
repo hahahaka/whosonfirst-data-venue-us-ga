@@ -1,0 +1,71 @@
+{
+  "id": 723168933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.093245,32.081368,-81.093245,32.081368",
+    "geom:latitude":32.081368,
+    "geom:longitude":-81.093245,
+    "iso:country":"US",
+    "sg:address":"111 W Bay St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 236 0271",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "broadcast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936939,
+        102082337,
+        85880917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gJTBLOq163wGU5509ECip_32.081368_-81.093245@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896458,
+    "wof:geomhash":"3bfdcd3a773bc83294c25fff5cb16235",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880917,
+            "region_id":85688535,
+            "venue_id":723168933
+        }
+    ],
+    "wof:id":723168933,
+    "wof:lastmodified":1461896458,
+    "wof:name":"Telephone Service Observing",
+    "wof:parent_id":85880917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcast"
+    ]
+},
+  "bbox": [
+    -81.093245,
+    32.081368,
+    -81.093245,
+    32.081368
+],
+  "geometry": {"coordinates":[-81.093245,32.081368],"type":"Point"}
+}

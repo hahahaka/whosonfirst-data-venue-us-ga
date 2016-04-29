@@ -1,0 +1,81 @@
+{
+  "id": 739795159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.281898,33.738499,-84.281898,33.738499",
+    "geom:latitude":33.738499,
+    "geom:longitude":-84.281898,
+    "iso:country":"US",
+    "sg:address":"3318 Glenwood Rd",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 289 8601",
+    "sg:postcode":"30032",
+    "sg:province":"GA",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937245,
+        102084539,
+        85816501,
+        85816491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kgtYbA6K5P9CSTEKiPpJW_33.738499_-84.281898@1303262574"
+    },
+    "wof:country":"US",
+    "wof:created":1461915571,
+    "wof:geomhash":"c772f3fcfec6be08a08c0496c2903304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937245,
+            "neighbourhood_id":85816501,
+            "region_id":85688535,
+            "venue_id":739795159
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739795159
+        }
+    ],
+    "wof:id":739795159,
+    "wof:lastmodified":1461915571,
+    "wof:name":"Edwards and Sons Mortuary Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -84.281898,
+    33.738499,
+    -84.281898,
+    33.738499
+],
+  "geometry": {"coordinates":[-84.281898,33.738499],"type":"Point"}
+}

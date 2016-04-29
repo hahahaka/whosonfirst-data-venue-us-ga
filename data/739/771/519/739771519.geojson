@@ -1,0 +1,76 @@
+{
+  "id": 739771519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.0266,33.405626,-82.0266,33.405626",
+    "geom:latitude":33.405626,
+    "geom:longitude":-82.0266,
+    "iso:country":"US",
+    "sg:address":"3201 Peach Orchard Rd",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/augusta/160605-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 796 0070",
+    "sg:postcode":"30906",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936989,
+        102082951,
+        420518199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6de4geMHy9OWFR7jPbHRNc_33.405626_-82.026600@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914601,
+    "wof:geomhash":"561b6bde4df843d625dc603cc991375e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082951,
+            "locality_id":85936989,
+            "neighbourhood_id":420518199,
+            "region_id":85688535,
+            "venue_id":739771519
+        }
+    ],
+    "wof:id":739771519,
+    "wof:lastmodified":1461914601,
+    "wof:name":"Burger King",
+    "wof:parent_id":420518199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -82.0266,
+    33.405626,
+    -82.0266,
+    33.405626
+],
+  "geometry": {"coordinates":[-82.0266,33.405626],"type":"Point"}
+}

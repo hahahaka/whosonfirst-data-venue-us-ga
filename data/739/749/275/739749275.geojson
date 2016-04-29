@@ -1,0 +1,77 @@
+{
+  "id": 739749275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.096703,33.9151,-84.096703,33.9151",
+    "geom:latitude":33.9151,
+    "geom:longitude":-84.096703,
+    "iso:country":"US",
+    "sg:address":"3411 Lawrenceville Hwy",
+    "sg:city":"Lawrenceville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 381 6544",
+    "sg:postcode":"30044",
+    "sg:province":"GA",
+    "sg:tags":[
+        "pet",
+        "hospital",
+        "boarding/pet",
+        "animal",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q4iThuCHdmxYKIwYWtCwT_33.914865_-84.097408@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461913682,
+    "wof:geomhash":"dd2e38a0048c5d849e0465386492a805",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":739749275
+        }
+    ],
+    "wof:id":739749275,
+    "wof:lastmodified":1461913682,
+    "wof:name":"Animal Care Hospital",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "hospital",
+        "boarding/pet",
+        "animal",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.096703,
+    33.9151,
+    -84.096703,
+    33.9151
+],
+  "geometry": {"coordinates":[-84.09670300000001,33.9151],"type":"Point"}
+}

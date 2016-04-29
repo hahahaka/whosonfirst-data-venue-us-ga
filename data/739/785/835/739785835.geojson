@@ -1,0 +1,70 @@
+{
+  "id": 739785835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.929569,34.050127,-83.929569,34.050127",
+    "geom:latitude":34.050127,
+    "geom:longitude":-83.929569,
+    "iso:country":"US",
+    "sg:address":"1955 Gravel Springs Rd",
+    "sg:city":"Buford",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30019",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936281,
+        102082967,
+        85858547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oXgIY1LOVKeuvq8u82EPM_34.050127_-83.929569@1303262571"
+    },
+    "wof:country":"US",
+    "wof:created":1461915163,
+    "wof:geomhash":"4a99afbe5e00231f048e07eacfbd6cb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936281,
+            "neighbourhood_id":85858547,
+            "region_id":85688535,
+            "venue_id":739785835
+        }
+    ],
+    "wof:id":739785835,
+    "wof:lastmodified":1461915163,
+    "wof:name":"Philly & Burger Co",
+    "wof:parent_id":85858547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger"
+    ]
+},
+  "bbox": [
+    -83.929569,
+    34.050127,
+    -83.929569,
+    34.050127
+],
+  "geometry": {"coordinates":[-83.929569,34.050127],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 722873995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.540275,33.748315,-84.540275,33.748315",
+    "geom:latitude":33.748315,
+    "geom:longitude":-84.540275,
+    "iso:country":"US",
+    "sg:address":"150 Mendel Dr SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 691 7074",
+    "sg:postcode":"30336",
+    "sg:province":"GA",
+    "sg:tags":[
+        "recycling",
+        "computer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85872053,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1prdzttfR9L0JS9taADyko_33.748315_-84.540275@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461890273,
+    "wof:geomhash":"b517760d83d718789dd4083f844b7da2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85872053,
+            "region_id":85688535,
+            "venue_id":722873995
+        }
+    ],
+    "wof:id":722873995,
+    "wof:lastmodified":1461890273,
+    "wof:name":"Atlanta Recycling",
+    "wof:parent_id":85872053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "computer"
+    ]
+},
+  "bbox": [
+    -84.540275,
+    33.748315,
+    -84.540275,
+    33.748315
+],
+  "geometry": {"coordinates":[-84.54027499999999,33.748315],"type":"Point"}
+}

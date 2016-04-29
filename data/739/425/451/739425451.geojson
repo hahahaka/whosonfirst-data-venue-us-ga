@@ -1,0 +1,73 @@
+{
+  "id": 739425451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.790238,33.933912,-84.790238,33.933912",
+    "geom:latitude":33.933912,
+    "geom:longitude":-84.790238,
+    "iso:country":"US",
+    "sg:address":"1697 Bobo Rd",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 443 1309",
+    "sg:postcode":"30132",
+    "sg:province":"GA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85835699,
+        102084665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aaHTbQu7kh7Ec6IQkxpxv_33.933912_-84.790238@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907080,
+    "wof:geomhash":"1abc063a44c7b645fd848bf9b3bc64d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "neighbourhood_id":85835699,
+            "region_id":85688535,
+            "venue_id":739425451
+        }
+    ],
+    "wof:id":739425451,
+    "wof:lastmodified":1461907080,
+    "wof:name":"Bone Trucking Co",
+    "wof:parent_id":85835699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.790238,
+    33.933912,
+    -84.790238,
+    33.933912
+],
+  "geometry": {"coordinates":[-84.790238,33.933912],"type":"Point"}
+}

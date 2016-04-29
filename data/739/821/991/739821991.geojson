@@ -1,0 +1,84 @@
+{
+  "id": 739821991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.66526,33.967449,-84.66526,33.967449",
+    "geom:latitude":33.967449,
+    "geom:longitude":-84.66526,
+    "iso:country":"US",
+    "sg:address":"3880 Due West Rd NW",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 423 1313",
+    "sg:postcode":"30064",
+    "sg:province":"GA",
+    "sg:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ],
+    "sg:website":"http://www.dominospizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27znvdGiGz9F97Sm6S1hjK_33.967449_-84.665260@1303262581"
+    },
+    "wof:country":"US",
+    "wof:created":1461916772,
+    "wof:geomhash":"3ba5f6ad5ab36e0d641a7cc77ac7620d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739821991
+        }
+    ],
+    "wof:id":739821991,
+    "wof:lastmodified":1461916772,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.66526,
+    33.967449,
+    -84.66526,
+    33.967449
+],
+  "geometry": {"coordinates":[-84.66526,33.967449],"type":"Point"}
+}

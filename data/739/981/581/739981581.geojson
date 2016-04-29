@@ -1,0 +1,79 @@
+{
+  "id": 739981581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.335178,33.817314,-84.335178,33.817314",
+    "geom:latitude":33.817314,
+    "geom:longitude":-84.335178,
+    "iso:country":"US",
+    "sg:address":"2173 Briarcliff Rd NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 633 0769",
+    "sg:postcode":"30329",
+    "sg:province":"GA",
+    "sg:website":"www.greatharvestatlanta.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937259,
+        102084539,
+        85866913,
+        420517723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iQs3e3WSsdfh0AWoVfk7b_33.817314_-84.335178@1303262622"
+    },
+    "wof:country":"US",
+    "wof:created":1461923197,
+    "wof:geomhash":"e888f6c768d3843f4d930aa5c6176bdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937259,
+            "neighbourhood_id":85866913,
+            "region_id":85688535,
+            "venue_id":739981581
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937259,
+            "neighbourhood_id":420517723,
+            "region_id":85688535,
+            "venue_id":739981581
+        }
+    ],
+    "wof:id":739981581,
+    "wof:lastmodified":1461923197,
+    "wof:name":"Great Harvest Bread",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.335178,
+    33.817314,
+    -84.335178,
+    33.817314
+],
+  "geometry": {"coordinates":[-84.335178,33.817314],"type":"Point"}
+}

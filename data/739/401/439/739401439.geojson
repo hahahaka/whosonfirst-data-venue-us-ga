@@ -1,0 +1,80 @@
+{
+  "id": 739401439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.561495,33.540067,-84.561495,33.540067",
+    "geom:latitude":33.540067,
+    "geom:longitude":-84.561495,
+    "iso:country":"US",
+    "sg:address":"7950 Spence Rd",
+    "sg:city":"Fairburn",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 774 8300",
+    "sg:postcode":"30213",
+    "sg:province":"GA",
+    "sg:tags":[
+        "food",
+        "product",
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937159,
+        102083603,
+        85848001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59ipTMOMtQboFkQvHNctcz_33.540067_-84.561495@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461906606,
+    "wof:geomhash":"81af4050484def07c0481ee03d4e283e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937159,
+            "neighbourhood_id":85848001,
+            "region_id":85688535,
+            "venue_id":739401439
+        }
+    ],
+    "wof:id":739401439,
+    "wof:lastmodified":1461906606,
+    "wof:name":"US Food Service",
+    "wof:parent_id":85848001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product",
+        "industrial"
+    ]
+},
+  "bbox": [
+    -84.561495,
+    33.540067,
+    -84.561495,
+    33.540067
+],
+  "geometry": {"coordinates":[-84.56149499999999,33.540067],"type":"Point"}
+}

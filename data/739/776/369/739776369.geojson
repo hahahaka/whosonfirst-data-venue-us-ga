@@ -1,0 +1,91 @@
+{
+  "id": 739776369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.089521,32.072754,-81.089521,32.072754",
+    "geom:latitude":32.072754,
+    "geom:longitude":-81.089521,
+    "iso:country":"US",
+    "sg:address":"321 Habersham St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/savannah/284741-firefly-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 234 1971",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        420559631,
+        85880901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bvbzb6f874CGu5eiGjRXk_32.072482_-81.089792@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461914794,
+    "wof:geomhash":"0cb8f407939bb863df4fb52b4c2ef734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":420559631,
+            "region_id":85688535,
+            "venue_id":739776369
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880901,
+            "region_id":85688535,
+            "venue_id":739776369
+        }
+    ],
+    "wof:id":739776369,
+    "wof:lastmodified":1461914794,
+    "wof:name":"Firefly Cafe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -81.089521,
+    32.072754,
+    -81.089521,
+    32.072754
+],
+  "geometry": {"coordinates":[-81.089521,32.072754],"type":"Point"}
+}

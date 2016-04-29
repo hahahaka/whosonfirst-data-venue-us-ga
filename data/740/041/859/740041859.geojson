@@ -1,0 +1,81 @@
+{
+  "id": 740041859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.129462,33.530626,-82.129462,33.530626",
+    "geom:latitude":33.530626,
+    "geom:longitude":-82.129462,
+    "iso:country":"US",
+    "sg:address":"4321 University Pkwy # 104",
+    "sg:city":"Evans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 854 1402",
+    "sg:postcode":"30809",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "pediatrics-emergency",
+        "pediatrics",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UVG4brIbODbyQwHOfFpYY_33.530626_-82.129462@1303262637"
+    },
+    "wof:country":"US",
+    "wof:created":1461925710,
+    "wof:geomhash":"b91f0e30643eeadf9a892802d758a41a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":740041859
+        }
+    ],
+    "wof:id":740041859,
+    "wof:lastmodified":1461925710,
+    "wof:name":"The Pediatric Office",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "pediatrics-emergency",
+        "pediatrics",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.129462,
+    33.530626,
+    -82.129462,
+    33.530626
+],
+  "geometry": {"coordinates":[-82.129462,33.530626],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 740025735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.047699,34.111401,-84.047699,34.111401",
+    "geom:latitude":34.111401,
+    "geom:longitude":-84.047699,
+    "iso:country":"US",
+    "sg:address":"5305 Nelson Brogdon Blvd",
+    "sg:city":"Sugar Hill",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 271 7777",
+    "sg:postcode":"30518",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.sugarhillanimalhospital.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85824791,
+        102082967,
+        102191575,
+        85936305,
+        85820775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uAlldePlYXgqgtoXftYtw_34.111401_-84.047699@1303262633"
+    },
+    "wof:country":"US",
+    "wof:created":1461924915,
+    "wof:geomhash":"0658b5a14d64b41ed1373b55fba21399",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85824791,
+            "region_id":85688535,
+            "venue_id":740025735
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936305,
+            "neighbourhood_id":85820775,
+            "region_id":85688535,
+            "venue_id":740025735
+        }
+    ],
+    "wof:id":740025735,
+    "wof:lastmodified":1461924915,
+    "wof:name":"Sugar Hill Animal Hospital",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.047699,
+    34.111401,
+    -84.047699,
+    34.111401
+],
+  "geometry": {"coordinates":[-84.04769899999999,34.111401],"type":"Point"}
+}

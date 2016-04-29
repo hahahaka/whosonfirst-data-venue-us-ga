@@ -1,0 +1,74 @@
+{
+  "id": 739767109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.071589,33.033049,-85.071589,33.033049",
+    "geom:latitude":33.033049,
+    "geom:longitude":-85.071589,
+    "iso:country":"US",
+    "sg:address":"1861 Roanoke Rd",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/lagrange/132506-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 885 1911",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85830157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6L4XH8i0O2djRskizGFKUm_33.033049_-85.071589@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914424,
+    "wof:geomhash":"2c3cbdd27d9388c7134c1540065bd67d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85830157,
+            "region_id":85688535,
+            "venue_id":739767109
+        }
+    ],
+    "wof:id":739767109,
+    "wof:lastmodified":1461914424,
+    "wof:name":"Subway",
+    "wof:parent_id":85830157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.071589,
+    33.033049,
+    -85.071589,
+    33.033049
+],
+  "geometry": {"coordinates":[-85.071589,33.033049],"type":"Point"}
+}

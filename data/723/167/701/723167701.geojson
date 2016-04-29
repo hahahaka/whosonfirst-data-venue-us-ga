@@ -1,0 +1,71 @@
+{
+  "id": 723167701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.092221,32.078263,-81.092221,32.078263",
+    "geom:latitude":32.078263,
+    "geom:longitude":-81.092221,
+    "iso:country":"US",
+    "sg:address":"110 Bull St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 234 3831",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936939,
+        102082337,
+        85880917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4x0oPBcmLNdF2izHIdEJWS_32.078263_-81.092221@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896437,
+    "wof:geomhash":"44add454cd38466b4e2374c12ec69cd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880917,
+            "region_id":85688535,
+            "venue_id":723167701
+        }
+    ],
+    "wof:id":723167701,
+    "wof:lastmodified":1461896437,
+    "wof:name":"Barber Pole",
+    "wof:parent_id":85880917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.092221,
+    32.078263,
+    -81.092221,
+    32.078263
+],
+  "geometry": {"coordinates":[-81.092221,32.078263],"type":"Point"}
+}

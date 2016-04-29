@@ -1,0 +1,80 @@
+{
+  "id": 740017787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.270045,33.917737,-84.270045,33.917737",
+    "geom:latitude":33.917737,
+    "geom:longitude":-84.270045,
+    "iso:country":"US",
+    "sg:address":"4264 Winters Chapel Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 502 7084",
+    "sg:postcode":"30360",
+    "sg:province":"GA",
+    "sg:tags":[
+        "new",
+        "truck",
+        "broker",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uwQ4AIENKaxj5KAjBEqRO_33.917737_-84.270045@1303262631"
+    },
+    "wof:country":"US",
+    "wof:created":1461924608,
+    "wof:geomhash":"57f649d1ced29a7bc519a89379f194a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":740017787
+        }
+    ],
+    "wof:id":740017787,
+    "wof:lastmodified":1461924608,
+    "wof:name":"Automotive Brokers Of Georgia",
+    "wof:parent_id":85889941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "truck",
+        "broker",
+        "car"
+    ]
+},
+  "bbox": [
+    -84.270045,
+    33.917737,
+    -84.270045,
+    33.917737
+],
+  "geometry": {"coordinates":[-84.270045,33.917737],"type":"Point"}
+}

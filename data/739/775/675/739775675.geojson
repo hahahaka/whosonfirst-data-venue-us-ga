@@ -1,0 +1,91 @@
+{
+  "id": 739775675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.352644,33.775597,-84.352644,33.775597",
+    "geom:latitude":33.775597,
+    "geom:longitude":-84.352644,
+    "iso:country":"US",
+    "sg:address":"772 N Highland Ave NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/atlanta/259130-belly-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 721 1003",
+    "sg:postcode":"30306",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872131,
+        85853981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7huIXQ4FG1VrB4JagnxnuN_33.776306_-84.352502@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461914770,
+    "wof:geomhash":"4be0a907c25d7dacafed14e6accd0e4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872131,
+            "region_id":85688535,
+            "venue_id":739775675
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85853981,
+            "region_id":85688535,
+            "venue_id":739775675
+        }
+    ],
+    "wof:id":739775675,
+    "wof:lastmodified":1461914770,
+    "wof:name":"Belly General Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.352644,
+    33.775597,
+    -84.352644,
+    33.775597
+],
+  "geometry": {"coordinates":[-84.352644,33.775597],"type":"Point"}
+}

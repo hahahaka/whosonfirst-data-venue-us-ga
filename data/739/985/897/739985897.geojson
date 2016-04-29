@@ -1,0 +1,81 @@
+{
+  "id": 739985897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.449898,33.648829,-84.449898,33.648829",
+    "geom:latitude":33.648829,
+    "geom:longitude":-84.449898,
+    "iso:country":"US",
+    "sg:address":"3907 Main St",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 763 1631",
+    "sg:postcode":"30337",
+    "sg:province":"GA",
+    "sg:tags":[
+        "car",
+        "leasing",
+        "truck"
+    ],
+    "sg:website":"http://www.enterprise.com/car_rental/deeplinkmap.do?gpbr=03X7&bid=004&cnty=US&arc=YPTRL01&cm_mmc=Yellowpages.com-_-IYP-_-Tradelisting-_-branch",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526927,
+        85688535,
+        85633793,
+        102082333,
+        85815707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5L9KDvqcMNUy4NF9sYnVQ5_33.648829_-84.449898@1303262623"
+    },
+    "wof:country":"US",
+    "wof:created":1461923392,
+    "wof:geomhash":"45dbbe53e852e916fd85c68bc6cbb75f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526927,
+            "country_id":85633793,
+            "county_id":102082333,
+            "neighbourhood_id":85815707,
+            "region_id":85688535,
+            "venue_id":739985897
+        }
+    ],
+    "wof:id":739985897,
+    "wof:lastmodified":1461923392,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":102526927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "leasing",
+        "truck"
+    ]
+},
+  "bbox": [
+    -84.449898,
+    33.648829,
+    -84.449898,
+    33.648829
+],
+  "geometry": {"coordinates":[-84.449898,33.648829],"type":"Point"}
+}

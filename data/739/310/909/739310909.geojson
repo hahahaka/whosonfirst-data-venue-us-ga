@@ -1,0 +1,83 @@
+{
+  "id": 739310909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.232167,34.28173,-85.232167,34.28173",
+    "geom:latitude":34.28173,
+    "geom:longitude":-85.232167,
+    "iso:country":"US",
+    "sg:address":"36 Westside Industrial Blvd",
+    "sg:city":"Rome",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 232 4483",
+    "sg:postcode":"30165",
+    "sg:province":"GA",
+    "sg:tags":[
+        "armature",
+        "electric",
+        "motor",
+        "rewinding"
+    ],
+    "sg:website":"www.romeelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936575,
+        102084577,
+        85821049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OUgHF2ZEyNsVYBXT46O3l_34.281730_-85.232167@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461904785,
+    "wof:geomhash":"94aea9663e20ac7c848b82813ace94ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084577,
+            "locality_id":85936575,
+            "neighbourhood_id":85821049,
+            "region_id":85688535,
+            "venue_id":739310909
+        }
+    ],
+    "wof:id":739310909,
+    "wof:lastmodified":1461904785,
+    "wof:name":"Rome Electric Motor Works Inc",
+    "wof:parent_id":85821049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "armature",
+        "electric",
+        "motor",
+        "rewinding"
+    ]
+},
+  "bbox": [
+    -85.232167,
+    34.28173,
+    -85.232167,
+    34.28173
+],
+  "geometry": {"coordinates":[-85.232167,34.28173],"type":"Point"}
+}

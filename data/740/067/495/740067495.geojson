@@ -1,0 +1,83 @@
+{
+  "id": 740067495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.159317,31.576957,-84.159317,31.576957",
+    "geom:latitude":31.576957,
+    "geom:longitude":-84.159317,
+    "iso:country":"US",
+    "sg:address":"507 W Broad Ave",
+    "sg:city":"Albany",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 435 6116",
+    "sg:postcode":"31701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "propane",
+        "bulk",
+        "petroleum-bottled",
+        "gas-liquefied"
+    ],
+    "sg:website":"http://www.ModernGasCompany.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935991,
+        102084427,
+        85822061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DURfpaKrAvscReCafQKhP_31.576957_-84.159317@1303262644"
+    },
+    "wof:country":"US",
+    "wof:created":1461926849,
+    "wof:geomhash":"9b95e2d2630295dcb1aef0f25ad7b538",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":85822061,
+            "region_id":85688535,
+            "venue_id":740067495
+        }
+    ],
+    "wof:id":740067495,
+    "wof:lastmodified":1461926849,
+    "wof:name":"Modern Gas Company",
+    "wof:parent_id":85822061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "propane",
+        "bulk",
+        "petroleum-bottled",
+        "gas-liquefied"
+    ]
+},
+  "bbox": [
+    -84.159317,
+    31.576957,
+    -84.159317,
+    31.576957
+],
+  "geometry": {"coordinates":[-84.159317,31.576957],"type":"Point"}
+}

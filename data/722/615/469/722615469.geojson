@@ -1,0 +1,73 @@
+{
+  "id": 722615469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.794335,34.18173,-84.794335,34.18173",
+    "geom:latitude":34.18173,
+    "geom:longitude":-84.794335,
+    "iso:country":"US",
+    "sg:address":"806 N Tennessee St",
+    "sg:city":"Cartersville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 386 4095",
+    "sg:postcode":"30120",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automotive",
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936223,
+        102082937,
+        85837697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FypriKU2gbkJlmmHeYBSv_34.181730_-84.794335@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461885273,
+    "wof:geomhash":"df0fd04ea81e2e8138965f5246cc0390",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082937,
+            "locality_id":85936223,
+            "neighbourhood_id":85837697,
+            "region_id":85688535,
+            "venue_id":722615469
+        }
+    ],
+    "wof:id":722615469,
+    "wof:lastmodified":1461885273,
+    "wof:name":"Raines Towing",
+    "wof:parent_id":85837697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "towing"
+    ]
+},
+  "bbox": [
+    -84.794335,
+    34.18173,
+    -84.794335,
+    34.18173
+],
+  "geometry": {"coordinates":[-84.794335,34.18173],"type":"Point"}
+}

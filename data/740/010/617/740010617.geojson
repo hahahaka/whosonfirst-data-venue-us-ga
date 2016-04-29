@@ -1,0 +1,84 @@
+{
+  "id": 740010617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.336577,33.921602,-84.336577,33.921602",
+    "geom:latitude":33.921602,
+    "geom:longitude":-84.336577,
+    "iso:country":"US",
+    "sg:address":"2 Ravinia Dr Ste 100",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 392 7337",
+    "sg:postcode":"30346",
+    "sg:province":"GA",
+    "sg:tags":[
+        "spa"
+    ],
+    "sg:website":"www.raviniaclub.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85890003,
+        85889963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EXqMyrMvZFFoNwv3gDbaN_33.921602_-84.336577@1303262629"
+    },
+    "wof:country":"US",
+    "wof:created":1461924339,
+    "wof:geomhash":"67c45ac2a933b08843dd857a1e0e3de6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890003,
+            "region_id":85688535,
+            "venue_id":740010617
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85889963,
+            "region_id":85688535,
+            "venue_id":740010617
+        }
+    ],
+    "wof:id":740010617,
+    "wof:lastmodified":1461924339,
+    "wof:name":"Spa at Ravinia",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spa"
+    ]
+},
+  "bbox": [
+    -84.336577,
+    33.921602,
+    -84.336577,
+    33.921602
+],
+  "geometry": {"coordinates":[-84.33657700000001,33.921602],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 739383739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.523781,33.901012,-84.523781,33.901012",
+    "geom:latitude":33.901012,
+    "geom:longitude":-84.523781,
+    "iso:country":"US",
+    "sg:address":"2190 Atlanta Rd SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 319 5387",
+    "sg:postcode":"30080",
+    "sg:province":"GA",
+    "sg:tags":[
+        "city",
+        "planning",
+        "dev"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85845875,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6s5s24V6Rn6QfehbSDQvnT_33.901012_-84.523781@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461906263,
+    "wof:geomhash":"a648ed9d07073e26a9996c73c368ca74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":739383739
+        }
+    ],
+    "wof:id":739383739,
+    "wof:lastmodified":1461906263,
+    "wof:name":"Smyrna City Community Dev",
+    "wof:parent_id":85845875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "planning",
+        "dev"
+    ]
+},
+  "bbox": [
+    -84.523781,
+    33.901012,
+    -84.523781,
+    33.901012
+],
+  "geometry": {"coordinates":[-84.523781,33.901012],"type":"Point"}
+}

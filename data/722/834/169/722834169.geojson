@@ -1,0 +1,71 @@
+{
+  "id": 722834169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.331775,32.889092,-84.331775,32.889092",
+    "geom:latitude":32.889092,
+    "geom:longitude":-84.331775,
+    "iso:country":"US",
+    "sg:address":"403 W Main St",
+    "sg:city":"Thomaston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 648 3851",
+    "sg:postcode":"30286",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936343,
+        102084425,
+        85816847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dbgaAOvg5MfEo2gsvKu4A_32.889092_-84.331775@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461889519,
+    "wof:geomhash":"4ffaf6fb20b45d311436d6747fc886e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084425,
+            "locality_id":85936343,
+            "neighbourhood_id":85816847,
+            "region_id":85688535,
+            "venue_id":722834169
+        }
+    ],
+    "wof:id":722834169,
+    "wof:lastmodified":1461889519,
+    "wof:name":"William Oxford MD",
+    "wof:parent_id":85816847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -84.331775,
+    32.889092,
+    -84.331775,
+    32.889092
+],
+  "geometry": {"coordinates":[-84.33177499999999,32.889092],"type":"Point"}
+}

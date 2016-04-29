@@ -1,0 +1,75 @@
+{
+  "id": 739772197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.626279,32.593854,-83.626279,32.593854",
+    "geom:latitude":32.593854,
+    "geom:longitude":-83.626279,
+    "iso:country":"US",
+    "sg:address":"123 Russell Pkwy",
+    "sg:city":"Warner Robins",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/warner-robins/202614-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"31088",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937239,
+        102083617,
+        85826139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DchYk5e5tMpcK9s1rM0iE_32.593854_-83.626279@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914630,
+    "wof:geomhash":"a064ef4b58c4485d2a27fd754327a8a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85937239,
+            "neighbourhood_id":85826139,
+            "region_id":85688535,
+            "venue_id":739772197
+        }
+    ],
+    "wof:id":739772197,
+    "wof:lastmodified":1461914630,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85826139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.626279,
+    32.593854,
+    -83.626279,
+    32.593854
+],
+  "geometry": {"coordinates":[-83.626279,32.593854],"type":"Point"}
+}

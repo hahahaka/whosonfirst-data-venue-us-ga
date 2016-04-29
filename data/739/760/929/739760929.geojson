@@ -1,0 +1,87 @@
+{
+  "id": 739760929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.377347,33.776199,-84.377347,33.776199",
+    "geom:latitude":33.776199,
+    "geom:longitude":-84.377347,
+    "iso:country":"US",
+    "sg:address":"307 6th St NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 874 9413",
+    "sg:postcode":"30308",
+    "sg:province":"GA",
+    "sg:tags":[
+        "dry",
+        "coin",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85866909,
+        85889947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f0jth8gj8GjiqNa5T0z4K_33.776115_-84.376674@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461914179,
+    "wof:geomhash":"edd1684b0bfd55d58c466ed1ba2a756b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85866909,
+            "region_id":85688535,
+            "venue_id":739760929
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85889947,
+            "region_id":85688535,
+            "venue_id":739760929
+        }
+    ],
+    "wof:id":739760929,
+    "wof:lastmodified":1461914179,
+    "wof:name":"Sixth Street Coin Laundry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry",
+        "coin",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -84.377347,
+    33.776199,
+    -84.377347,
+    33.776199
+],
+  "geometry": {"coordinates":[-84.377347,33.776199],"type":"Point"}
+}

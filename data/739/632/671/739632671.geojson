@@ -1,0 +1,71 @@
+{
+  "id": 739632671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.968771,34.479172,-84.968771,34.479172",
+    "geom:latitude":34.479172,
+    "geom:longitude":-84.968771,
+    "iso:country":"US",
+    "sg:address":"129 Forest Hill Cir SW",
+    "sg:city":"Calhoun",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 625 4111",
+    "sg:postcode":"30701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936609,
+        102084679,
+        85817247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76geIG6NW5gOM55O2f9Yz9_34.479172_-84.968771@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461911081,
+    "wof:geomhash":"ef86612d25bbcfdb437268bddf76252b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084679,
+            "locality_id":85936609,
+            "neighbourhood_id":85817247,
+            "region_id":85688535,
+            "venue_id":739632671
+        }
+    ],
+    "wof:id":739632671,
+    "wof:lastmodified":1461911081,
+    "wof:name":"Auto Tech",
+    "wof:parent_id":85817247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -84.968771,
+    34.479172,
+    -84.968771,
+    34.479172
+],
+  "geometry": {"coordinates":[-84.968771,34.479172],"type":"Point"}
+}

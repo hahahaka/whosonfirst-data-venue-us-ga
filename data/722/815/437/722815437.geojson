@@ -1,0 +1,71 @@
+{
+  "id": 722815437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.725373,32.477071,-83.725373,32.477071",
+    "geom:latitude":32.477071,
+    "geom:longitude":-83.725373,
+    "iso:country":"US",
+    "sg:address":"113 Windermere Dr",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 987 6900",
+    "sg:postcode":"31069",
+    "sg:province":"GA",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ILgxHVyFih3ugRSZ0LGyx_32.477071_-83.725373@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461889168,
+    "wof:geomhash":"edb77518872882173c1c15984de3ffca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":722815437
+        }
+    ],
+    "wof:id":722815437,
+    "wof:lastmodified":1461889168,
+    "wof:name":"Pro Cleaning",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -83.725373,
+    32.477071,
+    -83.725373,
+    32.477071
+],
+  "geometry": {"coordinates":[-83.725373,32.477071],"type":"Point"}
+}

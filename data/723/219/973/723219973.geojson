@@ -1,0 +1,73 @@
+{
+  "id": 723219973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.315406,33.904756,-84.315406,33.904756",
+    "geom:latitude":33.904756,
+    "geom:longitude":-84.315406,
+    "iso:country":"US",
+    "sg:address":"3870 Granger Dr",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 458 4880",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936435,
+        102084539,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u3OXgxCfHfbUmbImtnDzH_33.904756_-84.315406@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897498,
+    "wof:geomhash":"2cd93b3d3495e60bd0033ef36fe658c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":723219973
+        }
+    ],
+    "wof:id":723219973,
+    "wof:lastmodified":1461897498,
+    "wof:name":"Acme Heating Air",
+    "wof:parent_id":85889955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.315406,
+    33.904756,
+    -84.315406,
+    33.904756
+],
+  "geometry": {"coordinates":[-84.315406,33.904756],"type":"Point"}
+}

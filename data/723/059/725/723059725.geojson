@@ -1,0 +1,73 @@
+{
+  "id": 723059725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.35578,34.027306,-84.35578,34.027306",
+    "geom:latitude":34.027306,
+    "geom:longitude":-84.35578,
+    "iso:country":"US",
+    "sg:address":"6414 Wren Ct",
+    "sg:city":"Roswell",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 640 7474",
+    "sg:postcode":"30075",
+    "sg:province":"GA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937163,
+        102083603,
+        85837915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_742P4d1YFqY08Itxi2Hr8Y_34.027306_-84.355780@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461894214,
+    "wof:geomhash":"aefc15ced56ebd17f667d2b61c193b24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937163,
+            "neighbourhood_id":85837915,
+            "region_id":85688535,
+            "venue_id":723059725
+        }
+    ],
+    "wof:id":723059725,
+    "wof:lastmodified":1461894214,
+    "wof:name":"Flower Taxi",
+    "wof:parent_id":85837915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -84.35578,
+    34.027306,
+    -84.35578,
+    34.027306
+],
+  "geometry": {"coordinates":[-84.35578,34.027306],"type":"Point"}
+}

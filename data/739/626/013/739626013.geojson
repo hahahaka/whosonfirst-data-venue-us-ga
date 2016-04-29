@@ -1,0 +1,73 @@
+{
+  "id": 739626013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.62592,32.837747,-83.62592,32.837747",
+    "geom:latitude":32.837747,
+    "geom:longitude":-83.62592,
+    "iso:country":"US",
+    "sg:address":"200 3rd St",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 751 6092",
+    "sg:postcode":"31201",
+    "sg:province":"GA",
+    "sg:tags":[
+        "probation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936517,
+        102084373,
+        85837705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0En57g78CfobPpX3ePHcRZ_32.837747_-83.625920@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910956,
+    "wof:geomhash":"5feeb6605370191052b602cbac1c5d4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084373,
+            "locality_id":85936517,
+            "neighbourhood_id":85837705,
+            "region_id":85688535,
+            "venue_id":739626013
+        }
+    ],
+    "wof:id":739626013,
+    "wof:lastmodified":1461910956,
+    "wof:name":"Macon Probation Office",
+    "wof:parent_id":85837705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "probation"
+    ]
+},
+  "bbox": [
+    -83.62592,
+    32.837747,
+    -83.62592,
+    32.837747
+],
+  "geometry": {"coordinates":[-83.62591999999999,32.837747],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 739987123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.346028,33.933755,-84.346028,33.933755",
+    "geom:latitude":33.933755,
+    "geom:longitude":-84.346028,
+    "iso:country":"US",
+    "sg:address":"1523 Custis Court",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 352 7384",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937165,
+        102083603,
+        85889991,
+        85936467,
+        102084539,
+        420559925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Rj4YJZ2Jwr61wJGjfS1Up_33.933755_-84.346028@1303262623"
+    },
+    "wof:country":"US",
+    "wof:created":1461923438,
+    "wof:geomhash":"0a2f30ed2aff4fe5eceb75a6ad763a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937165,
+            "neighbourhood_id":85889991,
+            "region_id":85688535,
+            "venue_id":739987123
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":420559925,
+            "region_id":85688535,
+            "venue_id":739987123
+        }
+    ],
+    "wof:id":739987123,
+    "wof:lastmodified":1461923438,
+    "wof:name":"Wallett Bill",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.346028,
+    33.933755,
+    -84.346028,
+    33.933755
+],
+  "geometry": {"coordinates":[-84.346028,33.933755],"type":"Point"}
+}

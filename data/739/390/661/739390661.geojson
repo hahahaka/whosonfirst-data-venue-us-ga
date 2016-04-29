@@ -1,0 +1,83 @@
+{
+  "id": 739390661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.382148,33.761069,-84.382148,33.761069",
+    "geom:latitude":33.761069,
+    "geom:longitude":-84.382148,
+    "iso:country":"US",
+    "sg:address":"1874 Piedmont Ave NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 874 7139",
+    "sg:postcode":"30324",
+    "sg:province":"GA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85819463,
+        85872057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6axnHLS8Xi90dKjye3nILt_33.761069_-84.382148@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461906400,
+    "wof:geomhash":"ebb79d326803b6d3537bdd9882cf920e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85819463,
+            "region_id":85688535,
+            "venue_id":739390661
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872057,
+            "region_id":85688535,
+            "venue_id":739390661
+        }
+    ],
+    "wof:id":739390661,
+    "wof:lastmodified":1461906400,
+    "wof:name":"Assurance Taxi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -84.382148,
+    33.761069,
+    -84.382148,
+    33.761069
+],
+  "geometry": {"coordinates":[-84.382148,33.761069],"type":"Point"}
+}

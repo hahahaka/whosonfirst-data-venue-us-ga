@@ -1,0 +1,69 @@
+{
+  "id": 739270479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.748048,34.020796,-84.748048,34.020796",
+    "geom:latitude":34.020796,
+    "geom:longitude":-84.748048,
+    "iso:country":"US",
+    "sg:address":"8774 Dallas Acworth Hwy",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 917 1776",
+    "sg:postcode":"30101",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85835699,
+        102084665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oaaHh33jMcHypysEKzBJ5_34.020796_-84.748048@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461903925,
+    "wof:geomhash":"5d27589985f8852ecb900ec4332792a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "neighbourhood_id":85835699,
+            "region_id":85688535,
+            "venue_id":739270479
+        }
+    ],
+    "wof:id":739270479,
+    "wof:lastmodified":1461903925,
+    "wof:name":"All Pets Vet Hospital Inc",
+    "wof:parent_id":85835699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.748048,
+    34.020796,
+    -84.748048,
+    34.020796
+],
+  "geometry": {"coordinates":[-84.748048,34.020796],"type":"Point"}
+}

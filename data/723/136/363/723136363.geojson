@@ -1,0 +1,71 @@
+{
+  "id": 723136363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.752358,34.21156,-84.752358,34.21156",
+    "geom:latitude":34.21156,
+    "geom:longitude":-84.752358,
+    "iso:country":"US",
+    "sg:address":"12 Azalea Dr SE",
+    "sg:city":"Cartersville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 607 2089",
+    "sg:postcode":"30121",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automotive",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85808389,
+        102082937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55fLze8mAUq8gRhxMbHq8g_34.211560_-84.752358@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461895817,
+    "wof:geomhash":"791ea0dd607a087584891919a9ece80e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082937,
+            "neighbourhood_id":85808389,
+            "region_id":85688535,
+            "venue_id":723136363
+        }
+    ],
+    "wof:id":723136363,
+    "wof:lastmodified":1461895817,
+    "wof:name":"North Georgia Towing",
+    "wof:parent_id":85808389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -84.752358,
+    34.21156,
+    -84.752358,
+    34.21156
+],
+  "geometry": {"coordinates":[-84.752358,34.21156],"type":"Point"}
+}

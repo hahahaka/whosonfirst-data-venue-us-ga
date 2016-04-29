@@ -1,0 +1,82 @@
+{
+  "id": 739883073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.168216,34.258442,-85.168216,34.258442",
+    "geom:latitude":34.258442,
+    "geom:longitude":-85.168216,
+    "iso:country":"US",
+    "sg:address":"205 Riverside Pkwy",
+    "sg:city":"Rome",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 236 4611",
+    "sg:postcode":"30161",
+    "sg:province":"GA",
+    "sg:tags":[
+        "township",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936575,
+        102084577,
+        85890045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tPz0wyvZrHg3xV1flLTNr_34.258442_-85.168216@1303262597"
+    },
+    "wof:country":"US",
+    "wof:created":1461919171,
+    "wof:geomhash":"dbe88d2c133508e9d30ed66a91b75d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084577,
+            "locality_id":85936575,
+            "neighbourhood_id":85890045,
+            "region_id":85688535,
+            "venue_id":739883073
+        }
+    ],
+    "wof:id":739883073,
+    "wof:lastmodified":1461919171,
+    "wof:name":"Rome-Floyd County Library",
+    "wof:parent_id":85890045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -85.168216,
+    34.258442,
+    -85.168216,
+    34.258442
+],
+  "geometry": {"coordinates":[-85.168216,34.258442],"type":"Point"}
+}

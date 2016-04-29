@@ -1,0 +1,71 @@
+{
+  "id": 739523731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.01878,33.04125,-85.01878,33.04125",
+    "geom:latitude":33.04125,
+    "geom:longitude":-85.01878,
+    "iso:country":"US",
+    "sg:address":"601 Greenville St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 845 7717",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75TYimlafWFOTckYPWAZPl_33.041250_-85.018780@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461908863,
+    "wof:geomhash":"a09d0f0f2ef76ce5aeffe1712f3ff229",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739523731
+        }
+    ],
+    "wof:id":739523731,
+    "wof:lastmodified":1461908863,
+    "wof:name":"Greenhouse Nursery & Landscape",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant"
+    ]
+},
+  "bbox": [
+    -85.01878,
+    33.04125,
+    -85.01878,
+    33.04125
+],
+  "geometry": {"coordinates":[-85.01878000000001,33.04125],"type":"Point"}
+}

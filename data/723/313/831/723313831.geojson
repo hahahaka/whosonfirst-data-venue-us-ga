@@ -1,0 +1,82 @@
+{
+  "id": 723313831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.783348,32.448811,-81.783348,32.448811",
+    "geom:latitude":32.448811,
+    "geom:longitude":-81.783348,
+    "iso:country":"US",
+    "sg:address":"3 S Main St",
+    "sg:city":"Statesboro",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 764 6093",
+    "sg:postcode":"30458",
+    "sg:province":"GA",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935999,
+        102084405,
+        85823149,
+        102191575,
+        85828471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49XzqWOU9nhEm2MrfIGsep_32.448811_-81.783348@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899333,
+    "wof:geomhash":"3f6e02c078e7d0acf4c735ebd3d06a22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85823149,
+            "region_id":85688535,
+            "venue_id":723313831
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85828471,
+            "region_id":85688535,
+            "venue_id":723313831
+        }
+    ],
+    "wof:id":723313831,
+    "wof:lastmodified":1461899333,
+    "wof:name":"H W Smith Jeweler",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -81.783348,
+    32.448811,
+    -81.783348,
+    32.448811
+],
+  "geometry": {"coordinates":[-81.783348,32.448811],"type":"Point"}
+}

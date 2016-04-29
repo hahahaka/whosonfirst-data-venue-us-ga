@@ -1,0 +1,71 @@
+{
+  "id": 740051653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.74176,32.465801,-83.74176,32.465801",
+    "geom:latitude":32.465801,
+    "geom:longitude":-83.74176,
+    "iso:country":"US",
+    "sg:address":"106 Smith Dr Ste 311",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 987 1496",
+    "sg:postcode":"31069",
+    "sg:province":"GA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NWouM0yjvG4VukQqC3y0A_32.465801_-83.741760@1303262640"
+    },
+    "wof:country":"US",
+    "wof:created":1461926180,
+    "wof:geomhash":"6132c51c87b74ae791742f4b1261090f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":740051653
+        }
+    ],
+    "wof:id":740051653,
+    "wof:lastmodified":1461926180,
+    "wof:name":"Smith Heights Apartments",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.74176,
+    32.465801,
+    -83.74176,
+    32.465801
+],
+  "geometry": {"coordinates":[-83.74176,32.465801],"type":"Point"}
+}

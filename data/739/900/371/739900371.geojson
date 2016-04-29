@@ -1,0 +1,82 @@
+{
+  "id": 739900371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.87692,33.459461,-84.87692,33.459461",
+    "geom:latitude":33.459461,
+    "geom:longitude":-84.87692,
+    "iso:country":"US",
+    "sg:address":"1041 Old Carrollton Rd",
+    "sg:city":"Newnan",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        },
+        {
+            "category":"Conference Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 253 3488",
+    "sg:postcode":"30263",
+    "sg:province":"GA",
+    "sg:tags":[
+        "device",
+        "company-utility",
+        "backflow",
+        "prevention"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936351,
+        102084443,
+        85833133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XVLT1fyUB0jTiqlHIr6wr_33.459461_-84.876920@1303262601"
+    },
+    "wof:country":"US",
+    "wof:created":1461919837,
+    "wof:geomhash":"0c9a679f18c6a3227920c05c99bf92ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084443,
+            "locality_id":85936351,
+            "neighbourhood_id":85833133,
+            "region_id":85688535,
+            "venue_id":739900371
+        }
+    ],
+    "wof:id":739900371,
+    "wof:lastmodified":1461919837,
+    "wof:name":"JB Testing Services",
+    "wof:parent_id":85833133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "device",
+        "company-utility",
+        "backflow",
+        "prevention"
+    ]
+},
+  "bbox": [
+    -84.87692,
+    33.459461,
+    -84.87692,
+    33.459461
+],
+  "geometry": {"coordinates":[-84.87692,33.459461],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 722755047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.028269,33.066603,-85.028269,33.066603",
+    "geom:latitude":33.066603,
+    "geom:longitude":-85.028269,
+    "iso:country":"US",
+    "sg:address":"810 New Franklin Rd",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 845 0920",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "carwash",
+        "lubricating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YyEnDCWRQJfw93wq7JaTf_33.066603_-85.028269@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888032,
+    "wof:geomhash":"5b85cb1507473c094c8614666bd8efc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":722755047
+        }
+    ],
+    "wof:id":722755047,
+    "wof:lastmodified":1461888032,
+    "wof:name":"Quick Lube",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "lubricating"
+    ]
+},
+  "bbox": [
+    -85.028269,
+    33.066603,
+    -85.028269,
+    33.066603
+],
+  "geometry": {"coordinates":[-85.02826899999999,33.066603],"type":"Point"}
+}

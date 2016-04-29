@@ -1,0 +1,69 @@
+{
+  "id": 723291305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.473297,33.911932,-84.473297,33.911932",
+    "geom:latitude":33.911932,
+    "geom:longitude":-84.473297,
+    "iso:country":"US",
+    "sg:address":"1100 Woodchase Ln",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 818 9190",
+    "sg:postcode":"30067",
+    "sg:province":"GA",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818985,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JKndOHWLyfeMi0hpYRuOV_33.911932_-84.473297@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461898901,
+    "wof:geomhash":"577631924d08a5c4f956e9487a688ad2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85818985,
+            "region_id":85688535,
+            "venue_id":723291305
+        }
+    ],
+    "wof:id":723291305,
+    "wof:lastmodified":1461898901,
+    "wof:name":"CBA Cleaning",
+    "wof:parent_id":85818985,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -84.473297,
+    33.911932,
+    -84.473297,
+    33.911932
+],
+  "geometry": {"coordinates":[-84.473297,33.911932],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 739873347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.858723,33.918515,-84.858723,33.918515",
+    "geom:latitude":33.918515,
+    "geom:longitude":-84.858723,
+    "iso:country":"US",
+    "sg:address":"103 Durham St",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 942 4440",
+    "sg:postcode":"30132",
+    "sg:province":"GA",
+    "sg:tags":[
+        "propane",
+        "bulk",
+        "petroleum-bottled",
+        "gas-liquefied"
+    ],
+    "sg:website":"http://www.gasinc.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936335,
+        102084665,
+        85835843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dsdts3rZJ1oJhgoBa02N7_33.918515_-84.858723@1303262594"
+    },
+    "wof:country":"US",
+    "wof:created":1461918810,
+    "wof:geomhash":"b4a3bde4ad1ddabebc9119b0d88f7607",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "locality_id":85936335,
+            "neighbourhood_id":85835843,
+            "region_id":85688535,
+            "venue_id":739873347
+        }
+    ],
+    "wof:id":739873347,
+    "wof:lastmodified":1461918810,
+    "wof:name":"Gas Incorporated",
+    "wof:parent_id":85835843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "propane",
+        "bulk",
+        "petroleum-bottled",
+        "gas-liquefied"
+    ]
+},
+  "bbox": [
+    -84.858723,
+    33.918515,
+    -84.858723,
+    33.918515
+],
+  "geometry": {"coordinates":[-84.858723,33.918515],"type":"Point"}
+}

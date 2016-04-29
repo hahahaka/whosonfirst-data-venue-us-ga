@@ -1,0 +1,73 @@
+{
+  "id": 722578663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.398245,34.84572,-83.398245,34.84572",
+    "geom:latitude":34.84572,
+    "geom:longitude":-83.398245,
+    "iso:country":"US",
+    "sg:address":"351 Deerfield Dr",
+    "sg:city":"Clayton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 782 1219",
+    "sg:postcode":"30525",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936141,
+        102081683,
+        85821415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QSm3gClHEQlSozQCFvsdH_34.845720_-83.398245@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461884577,
+    "wof:geomhash":"de82b78a3446e2e3af3701f0e46a57f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081683,
+            "locality_id":85936141,
+            "neighbourhood_id":85821415,
+            "region_id":85688535,
+            "venue_id":722578663
+        }
+    ],
+    "wof:id":722578663,
+    "wof:lastmodified":1461884577,
+    "wof:name":"Otis J Woodard MD",
+    "wof:parent_id":85821415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.398245,
+    34.84572,
+    -83.398245,
+    34.84572
+],
+  "geometry": {"coordinates":[-83.398245,34.84572],"type":"Point"}
+}

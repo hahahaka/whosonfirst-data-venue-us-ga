@@ -1,0 +1,73 @@
+{
+  "id": 723315489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.428788,34.774567,-83.428788,34.774567",
+    "geom:latitude":34.774567,
+    "geom:longitude":-83.428788,
+    "iso:country":"US",
+    "sg:address":"36 Lake Rabun Rd",
+    "sg:city":"Lakemont",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 782 5064",
+    "sg:postcode":"30552",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936153,
+        102084699,
+        85852779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cJdO3OZFWH5PF8gyebVZM_34.774567_-83.428788@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899362,
+    "wof:geomhash":"279c89c2ce21fb6ca1479a434e66f82a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084699,
+            "locality_id":85936153,
+            "neighbourhood_id":85852779,
+            "region_id":85688535,
+            "venue_id":723315489
+        }
+    ],
+    "wof:id":723315489,
+    "wof:lastmodified":1461899362,
+    "wof:name":"Dr Bart Flick",
+    "wof:parent_id":85852779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.428788,
+    34.774567,
+    -83.428788,
+    34.774567
+],
+  "geometry": {"coordinates":[-83.428788,34.774567],"type":"Point"}
+}

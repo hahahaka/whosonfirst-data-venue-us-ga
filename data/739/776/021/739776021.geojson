@@ -1,0 +1,75 @@
+{
+  "id": 739776021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.412403,33.949153,-83.412403,33.949153",
+    "geom:latitude":33.949153,
+    "geom:longitude":-83.412403,
+    "iso:country":"US",
+    "sg:address":"2230 W Broad St",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/athens/203145-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30606",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936177,
+        102081713,
+        85802413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52nWx8Y1pEzEsqi4OeWimr_33.949349_-83.411879@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461914782,
+    "wof:geomhash":"da37d71792b18a189d2335462d0cb812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081713,
+            "locality_id":85936177,
+            "neighbourhood_id":85802413,
+            "region_id":85688535,
+            "venue_id":739776021
+        }
+    ],
+    "wof:id":739776021,
+    "wof:lastmodified":1461914782,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85802413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.412403,
+    33.949153,
+    -83.412403,
+    33.949153
+],
+  "geometry": {"coordinates":[-83.412403,33.949153],"type":"Point"}
+}

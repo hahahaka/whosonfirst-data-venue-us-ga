@@ -1,0 +1,71 @@
+{
+  "id": 722790061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.792042,33.402552,-84.792042,33.402552",
+    "geom:latitude":33.402552,
+    "geom:longitude":-84.792042,
+    "iso:country":"US",
+    "sg:address":"637 US Hwy 29",
+    "sg:city":"Newnan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 253 0257",
+    "sg:postcode":"30263",
+    "sg:province":"GA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936351,
+        102084443,
+        85833133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NVNPHqbheI8diWPKiA4lr_33.402552_-84.792042@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888692,
+    "wof:geomhash":"94f74d882e2ea76a18462522fc94a837",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084443,
+            "locality_id":85936351,
+            "neighbourhood_id":85833133,
+            "region_id":85688535,
+            "venue_id":722790061
+        }
+    ],
+    "wof:id":722790061,
+    "wof:lastmodified":1461888692,
+    "wof:name":"Orr's Wrecker Svc",
+    "wof:parent_id":85833133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -84.792042,
+    33.402552,
+    -84.792042,
+    33.402552
+],
+  "geometry": {"coordinates":[-84.792042,33.402552],"type":"Point"}
+}

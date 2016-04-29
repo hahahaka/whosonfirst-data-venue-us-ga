@@ -1,0 +1,68 @@
+{
+  "id": 739795283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.235603,33.737499,-84.235603,33.737499",
+    "geom:latitude":33.737499,
+    "geom:longitude":-84.235603,
+    "iso:country":"US",
+    "sg:address":"4451 Glenwood Rd",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 289 9086",
+    "sg:postcode":"30032",
+    "sg:province":"GA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937263,
+        102084539,
+        85890037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OI6EyLMQVegyQYSkeW9kV_33.737499_-84.235603@1303262574"
+    },
+    "wof:country":"US",
+    "wof:created":1461915576,
+    "wof:geomhash":"1fe9a6ed1666614daae10552ffcf4188",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937263,
+            "neighbourhood_id":85890037,
+            "region_id":85688535,
+            "venue_id":739795283
+        }
+    ],
+    "wof:id":739795283,
+    "wof:lastmodified":1461915576,
+    "wof:name":"Wilson's Garage",
+    "wof:parent_id":85890037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.235603,
+    33.737499,
+    -84.235603,
+    33.737499
+],
+  "geometry": {"coordinates":[-84.235603,33.737499],"type":"Point"}
+}

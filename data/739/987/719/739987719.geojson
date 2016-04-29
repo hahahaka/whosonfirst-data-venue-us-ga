@@ -1,0 +1,83 @@
+{
+  "id": 739987719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.345949,33.931369,-84.345949,33.931369",
+    "geom:latitude":33.931369,
+    "geom:longitude":-84.345949,
+    "iso:country":"US",
+    "sg:address":"1050 Crown Pointe Parkway Suite 470",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 393 0986",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        420559925,
+        85890003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ipY9f4SU1YZ29kass5V57_33.931369_-84.345949@1303262623"
+    },
+    "wof:country":"US",
+    "wof:created":1461923468,
+    "wof:geomhash":"f7e9619e3b09b3b65760e230d4ca4add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":420559925,
+            "region_id":85688535,
+            "venue_id":739987719
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890003,
+            "region_id":85688535,
+            "venue_id":739987719
+        }
+    ],
+    "wof:id":739987719,
+    "wof:lastmodified":1461923468,
+    "wof:name":"Medilyzer",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -84.345949,
+    33.931369,
+    -84.345949,
+    33.931369
+],
+  "geometry": {"coordinates":[-84.345949,33.931369],"type":"Point"}
+}

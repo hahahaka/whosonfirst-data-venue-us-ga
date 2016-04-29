@@ -1,0 +1,71 @@
+{
+  "id": 739752731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.089512,32.07889,-81.089512,32.07889",
+    "geom:latitude":32.07889,
+    "geom:longitude":-81.089512,
+    "iso:country":"US",
+    "sg:address":"35 Abercorn St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 234 1173",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936939,
+        102082337,
+        85880917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_439qfzv5za80cATRba9iyt_32.078666_-81.089587@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461913816,
+    "wof:geomhash":"30407f2c41403f194315bb537fcf464d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880917,
+            "region_id":85688535,
+            "venue_id":739752731
+        }
+    ],
+    "wof:id":739752731,
+    "wof:lastmodified":1461913816,
+    "wof:name":"Coastal Place Apartments",
+    "wof:parent_id":85880917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.089512,
+    32.07889,
+    -81.089512,
+    32.07889
+],
+  "geometry": {"coordinates":[-81.089512,32.07889],"type":"Point"}
+}

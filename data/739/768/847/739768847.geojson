@@ -1,0 +1,72 @@
+{
+  "id": 739768847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.521711,33.77057,-84.521711,33.77057",
+    "geom:latitude":33.77057,
+    "geom:longitude":-84.521711,
+    "iso:country":"US",
+    "sg:address":"4090 Martin Luther King Jr Dr SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/atlanta/172511-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 696 2963",
+    "sg:postcode":"30336",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85872053,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dsJQATLCi25znhmTU3zn0_33.770570_-84.521711@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914501,
+    "wof:geomhash":"8a4d97c295063f9d17362477f847401e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85872053,
+            "region_id":85688535,
+            "venue_id":739768847
+        }
+    ],
+    "wof:id":739768847,
+    "wof:lastmodified":1461914501,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85872053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.521711,
+    33.77057,
+    -84.521711,
+    33.77057
+],
+  "geometry": {"coordinates":[-84.521711,33.77057],"type":"Point"}
+}

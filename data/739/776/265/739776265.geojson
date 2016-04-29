@@ -1,0 +1,74 @@
+{
+  "id": 739776265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.683475,32.61843,-83.683475,32.61843",
+    "geom:latitude":32.61843,
+    "geom:longitude":-83.683475,
+    "iso:country":"US",
+    "sg:address":"2901 Watson Blvd",
+    "sg:city":"Warner Robins",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/warner-robins/16155-longhorn-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 971 1203",
+    "sg:postcode":"31093",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bbRJRKk9UTGyDywozxp9z_32.618331_-83.682838@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461914790,
+    "wof:geomhash":"b370b2b83659096bef6afb03fb86f87c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":739776265
+        }
+    ],
+    "wof:id":739776265,
+    "wof:lastmodified":1461914790,
+    "wof:name":"LongHorn Steakhouse",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -83.683475,
+    32.61843,
+    -83.683475,
+    32.61843
+],
+  "geometry": {"coordinates":[-83.683475,32.61843],"type":"Point"}
+}

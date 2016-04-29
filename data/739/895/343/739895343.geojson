@@ -1,0 +1,80 @@
+{
+  "id": 739895343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.031149,33.038504,-85.031149,33.038504",
+    "geom:latitude":33.038504,
+    "geom:longitude":-85.031149,
+    "iso:country":"US",
+    "sg:address":"133 Main St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 298 2712",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "buyer",
+        "management",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ODdn0s6DRNzxkTuEivEw8_33.038504_-85.031149@1303262600"
+    },
+    "wof:country":"US",
+    "wof:created":1461919636,
+    "wof:geomhash":"2a3f5968d9b3fc27dd541e8dc827f536",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739895343
+        }
+    ],
+    "wof:id":739895343,
+    "wof:lastmodified":1461919636,
+    "wof:name":"FLI Properties",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "management",
+        "broker"
+    ]
+},
+  "bbox": [
+    -85.031149,
+    33.038504,
+    -85.031149,
+    33.038504
+],
+  "geometry": {"coordinates":[-85.031149,33.038504],"type":"Point"}
+}

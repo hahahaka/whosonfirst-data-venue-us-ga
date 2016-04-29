@@ -1,0 +1,71 @@
+{
+  "id": 739691133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.322152,30.82484,-83.322152,30.82484",
+    "geom:latitude":30.82484,
+    "geom:longitude":-83.322152,
+    "iso:country":"US",
+    "sg:address":"1989 Briarwood Rd",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 244 0735",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42cVh0bKoOFSlq85QH1e1w_30.824840_-83.322152@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461912365,
+    "wof:geomhash":"012479812a954191d13e4cb002f25a6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843241,
+            "region_id":85688535,
+            "venue_id":739691133
+        }
+    ],
+    "wof:id":739691133,
+    "wof:lastmodified":1461912365,
+    "wof:name":"Rigdon Wrecker Svc",
+    "wof:parent_id":85843241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -83.322152,
+    30.82484,
+    -83.322152,
+    30.82484
+],
+  "geometry": {"coordinates":[-83.322152,30.82484],"type":"Point"}
+}

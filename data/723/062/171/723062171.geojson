@@ -1,0 +1,73 @@
+{
+  "id": 723062171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.125151,33.485616,-82.125151,33.485616",
+    "geom:latitude":33.485616,
+    "geom:longitude":-82.125151,
+    "iso:country":"US",
+    "sg:address":"3 Sudan Dr",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 650 1192",
+    "sg:postcode":"30907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70rW7SAi8qlD13v0w6hKn3_33.485616_-82.125151@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461894264,
+    "wof:geomhash":"0ddff62ba92d8643b256aa0140c46771",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":723062171
+        }
+    ],
+    "wof:id":723062171,
+    "wof:lastmodified":1461894264,
+    "wof:name":"Tennant Truck Lines",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -82.125151,
+    33.485616,
+    -82.125151,
+    33.485616
+],
+  "geometry": {"coordinates":[-82.125151,33.485616],"type":"Point"}
+}

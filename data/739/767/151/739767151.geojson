@@ -1,0 +1,74 @@
+{
+  "id": 739767151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.0279,33.049429,-85.0279,33.049429",
+    "geom:latitude":33.049429,
+    "geom:longitude":-85.0279,
+    "iso:country":"US",
+    "sg:address":"129 Commerce Ave",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/lagrange/153996-zaxbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 882 0440",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PanyGYOYZjUCj75wyk4OJ_33.049429_-85.027900@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914426,
+    "wof:geomhash":"e450f7e6cd0721449fef86711aa123e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739767151
+        }
+    ],
+    "wof:id":739767151,
+    "wof:lastmodified":1461914426,
+    "wof:name":"Zaxby's",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing"
+    ]
+},
+  "bbox": [
+    -85.0279,
+    33.049429,
+    -85.0279,
+    33.049429
+],
+  "geometry": {"coordinates":[-85.0279,33.049429],"type":"Point"}
+}

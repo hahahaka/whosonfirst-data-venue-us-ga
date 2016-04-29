@@ -1,0 +1,85 @@
+{
+  "id": 739987921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.291304,33.919328,-84.291304,33.919328",
+    "geom:latitude":33.919328,
+    "geom:longitude":-84.291304,
+    "iso:country":"US",
+    "sg:address":"4514 Chamblee Dunwoody Rd Ste 144",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 709 8899",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"gentletouchhomevetcare.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85936467,
+        85890023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19AS4zkXyeuV9N0wsTioq9_33.919328_-84.291304@1303262624"
+    },
+    "wof:country":"US",
+    "wof:created":1461923474,
+    "wof:geomhash":"9a60d00095195661a56805c32efcf7ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":739987921
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890023,
+            "region_id":85688535,
+            "venue_id":739987921
+        }
+    ],
+    "wof:id":739987921,
+    "wof:lastmodified":1461923474,
+    "wof:name":"Gentle Touch Home Veterinary Care",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.291304,
+    33.919328,
+    -84.291304,
+    33.919328
+],
+  "geometry": {"coordinates":[-84.291304,33.919328],"type":"Point"}
+}

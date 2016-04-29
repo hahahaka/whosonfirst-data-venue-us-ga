@@ -1,0 +1,87 @@
+{
+  "id": 739949713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.489593,33.698088,-84.489593,33.698088",
+    "geom:latitude":33.698088,
+    "geom:longitude":-84.489593,
+    "iso:country":"US",
+    "sg:address":"3099 Panther Trl SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 346 2523",
+    "sg:postcode":"30311",
+    "sg:province":"GA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85822133,
+        420517919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZXo5aVYGaGyca2ipt7ru2_33.698088_-84.489593@1303262613"
+    },
+    "wof:country":"US",
+    "wof:created":1461921932,
+    "wof:geomhash":"7a2a2ada8c1c4b503d273dde1fc9cb48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85822133,
+            "region_id":85688535,
+            "venue_id":739949713
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":420517919,
+            "region_id":85688535,
+            "venue_id":739949713
+        }
+    ],
+    "wof:id":739949713,
+    "wof:lastmodified":1461921932,
+    "wof:name":"Atlanta City School District",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -84.489593,
+    33.698088,
+    -84.489593,
+    33.698088
+],
+  "geometry": {"coordinates":[-84.489593,33.698088],"type":"Point"}
+}

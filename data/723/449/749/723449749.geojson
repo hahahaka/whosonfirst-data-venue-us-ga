@@ -1,0 +1,73 @@
+{
+  "id": 723449749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.725394,32.476866,-83.725394,32.476866",
+    "geom:latitude":32.476866,
+    "geom:longitude":-83.725394,
+    "iso:country":"US",
+    "sg:address":"109 Clifton Rd",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 987 2193",
+    "sg:postcode":"31069",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JMdXzLmDmgSWHB1TvaI5M_32.476866_-83.725394@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901939,
+    "wof:geomhash":"78fb09ce3e93ab0948dcf54930d4fbd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":723449749
+        }
+    ],
+    "wof:id":723449749,
+    "wof:lastmodified":1461901939,
+    "wof:name":"Lakeside Pharmacy",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -83.725394,
+    32.476866,
+    -83.725394,
+    32.476866
+],
+  "geometry": {"coordinates":[-83.72539399999999,32.476866],"type":"Point"}
+}

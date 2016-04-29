@@ -1,0 +1,73 @@
+{
+  "id": 739963933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.309437,33.865222,-84.309437,33.865222",
+    "geom:latitude":33.865222,
+    "geom:longitude":-84.309437,
+    "iso:country":"US",
+    "sg:address":"3615 Clairmont Rd NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 320 6542",
+    "sg:postcode":"30319",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102525899,
+        85688535,
+        85633793,
+        85937255,
+        102084539,
+        85807835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5p0zTeJt46YmKWCRo5vAtB_33.865222_-84.309437@1303262617"
+    },
+    "wof:country":"US",
+    "wof:created":1461922517,
+    "wof:geomhash":"619224bb70cefb0845a396126035e5d6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525899,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937255,
+            "neighbourhood_id":85807835,
+            "region_id":85688535,
+            "venue_id":739963933
+        }
+    ],
+    "wof:id":739963933,
+    "wof:lastmodified":1461922517,
+    "wof:name":"Cvs Pharmacy",
+    "wof:parent_id":102525899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -84.309437,
+    33.865222,
+    -84.309437,
+    33.865222
+],
+  "geometry": {"coordinates":[-84.309437,33.865222],"type":"Point"}
+}

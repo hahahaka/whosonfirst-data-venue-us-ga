@@ -1,0 +1,83 @@
+{
+  "id": 723203719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.080755,32.071805,-81.080755,32.071805",
+    "geom:latitude":32.071805,
+    "geom:longitude":-81.080755,
+    "iso:country":"US",
+    "sg:address":"831 Hitch Dr",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 651 2011",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85880901,
+        85880895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QwpsMfWXnZJirEsMHTJoK_32.071805_-81.080755@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897148,
+    "wof:geomhash":"f2bbdadd10c7f09d050984a324cabca3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880901,
+            "region_id":85688535,
+            "venue_id":723203719
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880895,
+            "region_id":85688535,
+            "venue_id":723203719
+        }
+    ],
+    "wof:id":723203719,
+    "wof:lastmodified":1461897148,
+    "wof:name":"Savannah Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -81.080755,
+    32.071805,
+    -81.080755,
+    32.071805
+],
+  "geometry": {"coordinates":[-81.080755,32.071805],"type":"Point"}
+}

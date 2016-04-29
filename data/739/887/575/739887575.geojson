@@ -1,0 +1,79 @@
+{
+  "id": 739887575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.576776,33.544005,-84.576776,33.544005",
+    "geom:latitude":33.544005,
+    "geom:longitude":-84.576776,
+    "iso:country":"US",
+    "sg:address":"7810 Senoia Rd",
+    "sg:city":"Fairburn",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 892 3908",
+    "sg:postcode":"30213",
+    "sg:province":"GA",
+    "sg:tags":[
+        "chicken",
+        "wing"
+    ],
+    "sg:website":"www.chick-fil-a.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937159,
+        102083603,
+        85848001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18jzJu3DMmukrhnqv4NT18_33.544005_-84.576776@1303262598"
+    },
+    "wof:country":"US",
+    "wof:created":1461919349,
+    "wof:geomhash":"993e9ddb13a9c940d8b9597dbb8b6511",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937159,
+            "neighbourhood_id":85848001,
+            "region_id":85688535,
+            "venue_id":739887575
+        }
+    ],
+    "wof:id":739887575,
+    "wof:lastmodified":1461919349,
+    "wof:name":"Chick-Fil-A",
+    "wof:parent_id":85848001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken",
+        "wing"
+    ]
+},
+  "bbox": [
+    -84.576776,
+    33.544005,
+    -84.576776,
+    33.544005
+],
+  "geometry": {"coordinates":[-84.576776,33.544005],"type":"Point"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 740008131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.427922,33.681231,-84.427922,33.681231",
+    "geom:latitude":33.681231,
+    "geom:longitude":-84.427922,
+    "iso:country":"US",
+    "sg:address":"1170 Cleveland Avenue",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 466 1170",
+    "sg:postcode":"30344",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "family",
+        "medical",
+        "practice",
+        "surgeons",
+        "medicine",
+        "surgery"
+    ],
+    "sg:website":"http://www.southfultonmedicalcenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937155,
+        102083603,
+        420517885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tgiEcA9rM7FJ5ozUit9QX_33.681231_-84.427922@1303262629"
+    },
+    "wof:country":"US",
+    "wof:created":1461924240,
+    "wof:geomhash":"83f7eb63e323b4d54fc040730c51c341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937155,
+            "neighbourhood_id":420517885,
+            "region_id":85688535,
+            "venue_id":740008131
+        }
+    ],
+    "wof:id":740008131,
+    "wof:lastmodified":1461924240,
+    "wof:name":"South Fulton Medical Center",
+    "wof:parent_id":420517885,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "medical",
+        "practice",
+        "surgeons",
+        "medicine",
+        "surgery"
+    ]
+},
+  "bbox": [
+    -84.427922,
+    33.681231,
+    -84.427922,
+    33.681231
+],
+  "geometry": {"coordinates":[-84.427922,33.681231],"type":"Point"}
+}

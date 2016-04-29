@@ -1,0 +1,78 @@
+{
+  "id": 740017775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.266723,33.928093,-84.266723,33.928093",
+    "geom:latitude":33.928093,
+    "geom:longitude":-84.266723,
+    "iso:country":"US",
+    "sg:address":"4571 Winters Chapel Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Cheese",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Soap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 367 3290",
+    "sg:postcode":"30360",
+    "sg:province":"GA",
+    "sg:tags":[
+        "cheese-wholesale",
+        "shop",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0l5AdCX1zAjneNyu8o83Vm_33.928093_-84.266723@1303262631"
+    },
+    "wof:country":"US",
+    "wof:created":1461924607,
+    "wof:geomhash":"1cd3aad2bf67420dba30b867ae4be75a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":740017775
+        }
+    ],
+    "wof:id":740017775,
+    "wof:lastmodified":1461924607,
+    "wof:name":"Mexican Cheese Producers",
+    "wof:parent_id":85889941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cheese-wholesale",
+        "shop",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -84.266723,
+    33.928093,
+    -84.266723,
+    33.928093
+],
+  "geometry": {"coordinates":[-84.266723,33.928093],"type":"Point"}
+}

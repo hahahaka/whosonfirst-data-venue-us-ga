@@ -1,0 +1,83 @@
+{
+  "id": 739373573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.379316,33.828733,-84.379316,33.828733",
+    "geom:latitude":33.828733,
+    "geom:longitude":-84.379316,
+    "iso:country":"US",
+    "sg:address":"242 E Wesley Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 841 9482",
+    "sg:postcode":"30305",
+    "sg:province":"GA",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872113,
+        85872111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FEs6gmiEAAxUc70opKihu_33.828733_-84.379316@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461906075,
+    "wof:geomhash":"6ac8ba461f5a9ca7f1555922f9dedcc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872113,
+            "region_id":85688535,
+            "venue_id":739373573
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872111,
+            "region_id":85688535,
+            "venue_id":739373573
+        }
+    ],
+    "wof:id":739373573,
+    "wof:lastmodified":1461906075,
+    "wof:name":"John Michael Hopkins",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -84.379316,
+    33.828733,
+    -84.379316,
+    33.828733
+],
+  "geometry": {"coordinates":[-84.379316,33.828733],"type":"Point"}
+}

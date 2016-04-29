@@ -1,0 +1,73 @@
+{
+  "id": 739447185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.15282,31.984832,-81.15282,31.984832",
+    "geom:latitude":31.984832,
+    "geom:longitude":-81.15282,
+    "iso:country":"US",
+    "sg:address":"11705 Mercy Blvd",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 355 6688",
+    "sg:postcode":"31419",
+    "sg:province":"GA",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85852533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44tFagPi2vYwaB7Os9cDOZ_31.984832_-81.152820@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907490,
+    "wof:geomhash":"f542d89c200df9dfe1a451ca9bba8b1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85852533,
+            "region_id":85688535,
+            "venue_id":739447185
+        }
+    ],
+    "wof:id":739447185,
+    "wof:lastmodified":1461907490,
+    "wof:name":"Southside FIRE/Ems Ambulance",
+    "wof:parent_id":85852533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -81.15282,
+    31.984832,
+    -81.15282,
+    31.984832
+],
+  "geometry": {"coordinates":[-81.15282000000001,31.984832],"type":"Point"}
+}

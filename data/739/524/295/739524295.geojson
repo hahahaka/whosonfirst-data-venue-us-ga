@@ -1,0 +1,75 @@
+{
+  "id": 739524295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.403942,33.951991,-83.403942,33.951991",
+    "geom:latitude":33.951991,
+    "geom:longitude":-83.403942,
+    "iso:country":"US",
+    "sg:address":"855 King Ave",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 354 1441",
+    "sg:postcode":"30606",
+    "sg:province":"GA",
+    "sg:tags":[
+        "transmission",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936177,
+        102081713,
+        85807659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nYjH3flMJ6K1V2UPtjIFI_33.951991_-83.403942@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461908876,
+    "wof:geomhash":"4c039b3909bc845ff1e2480845b2db2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081713,
+            "locality_id":85936177,
+            "neighbourhood_id":85807659,
+            "region_id":85688535,
+            "venue_id":739524295
+        }
+    ],
+    "wof:id":739524295,
+    "wof:lastmodified":1461908876,
+    "wof:name":"Brooks Transmission",
+    "wof:parent_id":85807659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -83.403942,
+    33.951991,
+    -83.403942,
+    33.951991
+],
+  "geometry": {"coordinates":[-83.403942,33.951991],"type":"Point"}
+}

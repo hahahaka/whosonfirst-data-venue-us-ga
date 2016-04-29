@@ -1,0 +1,71 @@
+{
+  "id": 722800735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.258918,33.917014,-84.258918,33.917014",
+    "geom:latitude":33.917014,
+    "geom:longitude":-84.258918,
+    "iso:country":"US",
+    "sg:address":"6101 Buford Hwy NE",
+    "sg:city":"Doraville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 368 2016",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BG252r2mvBmG2m6O29UuJ_33.917014_-84.258918@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888902,
+    "wof:geomhash":"b6f92cc24c0d3c7127936001efb84d3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":722800735
+        }
+    ],
+    "wof:id":722800735,
+    "wof:lastmodified":1461888902,
+    "wof:name":"Sun Auto Svc",
+    "wof:parent_id":85889941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.258918,
+    33.917014,
+    -84.258918,
+    33.917014
+],
+  "geometry": {"coordinates":[-84.25891799999999,33.917014],"type":"Point"}
+}

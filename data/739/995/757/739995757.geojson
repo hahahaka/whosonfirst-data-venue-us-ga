@@ -1,0 +1,73 @@
+{
+  "id": 739995757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.948338,34.161098,-83.948338,34.161098",
+    "geom:latitude":34.161098,
+    "geom:longitude":-83.948338,
+    "iso:country":"US",
+    "sg:address":"5874 Buford Hwy NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 451 8128",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936863,
+        102083629,
+        85850511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01rfnlMd7XGOFSJ5ToqY6V_34.161098_-83.948338@1303262626"
+    },
+    "wof:country":"US",
+    "wof:created":1461923773,
+    "wof:geomhash":"dda318fbb89688abcb05f3907d22c5d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083629,
+            "locality_id":85936863,
+            "neighbourhood_id":85850511,
+            "region_id":85688535,
+            "venue_id":739995757
+        }
+    ],
+    "wof:id":739995757,
+    "wof:lastmodified":1461923773,
+    "wof:name":"Pro Auto Service",
+    "wof:parent_id":85850511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.948338,
+    34.161098,
+    -83.948338,
+    34.161098
+],
+  "geometry": {"coordinates":[-83.94833800000001,34.161098],"type":"Point"}
+}

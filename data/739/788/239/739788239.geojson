@@ -1,0 +1,83 @@
+{
+  "id": 739788239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.294852,34.044963,-84.294852,34.044963",
+    "geom:latitude":34.044963,
+    "geom:longitude":-84.294852,
+    "iso:country":"US",
+    "sg:address":"6503 N Point Pkwy",
+    "sg:city":"Alpharetta",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 734 4667",
+    "sg:postcode":"30022",
+    "sg:province":"GA",
+    "sg:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ],
+    "sg:website":"http://www.regionsbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937153,
+        102083603,
+        85827335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LovbUFKX9R8iyqjEWMk2Y_34.044963_-84.294852@1303262572"
+    },
+    "wof:country":"US",
+    "wof:created":1461915283,
+    "wof:geomhash":"d42cfd457bc1b50c930dcf67a2d09204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937153,
+            "neighbourhood_id":85827335,
+            "region_id":85688535,
+            "venue_id":739788239
+        }
+    ],
+    "wof:id":739788239,
+    "wof:lastmodified":1461915283,
+    "wof:name":"Regions Bank",
+    "wof:parent_id":85827335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -84.294852,
+    34.044963,
+    -84.294852,
+    34.044963
+],
+  "geometry": {"coordinates":[-84.29485200000001,34.044963],"type":"Point"}
+}

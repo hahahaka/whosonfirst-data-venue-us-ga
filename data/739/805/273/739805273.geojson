@@ -1,0 +1,85 @@
+{
+  "id": 739805273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.022888,33.96772,-84.022888,33.96772",
+    "geom:latitude":33.96772,
+    "geom:longitude":-84.022888,
+    "iso:country":"US",
+    "sg:address":"901 Duluth Hwy",
+    "sg:city":"Lawrenceville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 338 7500",
+    "sg:postcode":"30043",
+    "sg:province":"GA",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"https://www.wachovia.com/?DCMP=KNL-CPS-DS-Directory-0703&HBX_PK=Banks&HBX_OU=71",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936297,
+        102082967,
+        85851103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OdgalfuN8gqUzf4VdgHMI_33.967720_-84.022888@1303262576"
+    },
+    "wof:country":"US",
+    "wof:created":1461916060,
+    "wof:geomhash":"59f7ecb8c0e9b17d033bb4c781ebbb7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936297,
+            "neighbourhood_id":85851103,
+            "region_id":85688535,
+            "venue_id":739805273
+        }
+    ],
+    "wof:id":739805273,
+    "wof:lastmodified":1461916060,
+    "wof:name":"Wachovia Bank",
+    "wof:parent_id":85851103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -84.022888,
+    33.96772,
+    -84.022888,
+    33.96772
+],
+  "geometry": {"coordinates":[-84.02288799999999,33.96772],"type":"Point"}
+}

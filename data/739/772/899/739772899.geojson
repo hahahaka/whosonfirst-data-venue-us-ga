@@ -1,0 +1,67 @@
+{
+  "id": 739772899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.091712,32.079511,-81.091712,32.079511",
+    "geom:latitude":32.079511,
+    "geom:longitude":-81.091712,
+    "iso:country":"US",
+    "sg:address":"44 Bull St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/savannah/269741-bull-street-chophouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 232 2728",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936939,
+        102082337,
+        85880917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55tYDYFCDS1667dSVfhr3k_32.079511_-81.091712@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914659,
+    "wof:geomhash":"60b81a75a2a324b3c5dab06621dd3061",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880917,
+            "region_id":85688535,
+            "venue_id":739772899
+        }
+    ],
+    "wof:id":739772899,
+    "wof:lastmodified":1461914659,
+    "wof:name":"Bull Street Chophouse",
+    "wof:parent_id":85880917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.091712,
+    32.079511,
+    -81.091712,
+    32.079511
+],
+  "geometry": {"coordinates":[-81.091712,32.079511],"type":"Point"}
+}

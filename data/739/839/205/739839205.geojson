@@ -1,0 +1,71 @@
+{
+  "id": 739839205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.002591,33.855697,-84.002591,33.855697",
+    "geom:latitude":33.855697,
+    "geom:longitude":-84.002591,
+    "iso:country":"US",
+    "sg:address":"2133 Main St E",
+    "sg:city":"Snellville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 736 4242",
+    "sg:postcode":"30078",
+    "sg:province":"GA",
+    "sg:tags":[
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936303,
+        102082967,
+        85890049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SfXYwsmSEnfxiyzXM5Hwe_33.855697_-84.002591@1303262585"
+    },
+    "wof:country":"US",
+    "wof:created":1461917453,
+    "wof:geomhash":"676a2ec9d62322401568d30948f4b6bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936303,
+            "neighbourhood_id":85890049,
+            "region_id":85688535,
+            "venue_id":739839205
+        }
+    ],
+    "wof:id":739839205,
+    "wof:lastmodified":1461917453,
+    "wof:name":"Royal Diner",
+    "wof:parent_id":85890049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diner"
+    ]
+},
+  "bbox": [
+    -84.002591,
+    33.855697,
+    -84.002591,
+    33.855697
+],
+  "geometry": {"coordinates":[-84.002591,33.855697],"type":"Point"}
+}

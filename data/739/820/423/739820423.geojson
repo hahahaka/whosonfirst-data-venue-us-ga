@@ -1,0 +1,97 @@
+{
+  "id": 739820423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.488103,33.970661,-84.488103,33.970661",
+    "geom:latitude":33.970661,
+    "geom:longitude":-84.488103,
+    "iso:country":"US",
+    "sg:address":"2215 Roswell Rd",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 579 2000",
+    "sg:postcode":"30062",
+    "sg:province":"GA",
+    "sg:tags":[
+        "railroads-ticket",
+        "agency",
+        "services-commercial",
+        "cruise",
+        "ticket",
+        "steamship"
+    ],
+    "sg:website":"http://www.carlsontravel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936135,
+        102082313,
+        85857049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GrDaGB9Szb9vC2jYHcrbF_33.970661_-84.488103@1303262580"
+    },
+    "wof:country":"US",
+    "wof:created":1461916715,
+    "wof:geomhash":"c56008d1b675d1e18f47cbeb19f0b8a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936135,
+            "neighbourhood_id":85857049,
+            "region_id":85688535,
+            "venue_id":739820423
+        }
+    ],
+    "wof:id":739820423,
+    "wof:lastmodified":1461916715,
+    "wof:name":"Carlson Wagonlit Travel",
+    "wof:parent_id":85857049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "railroads-ticket",
+        "agency",
+        "services-commercial",
+        "cruise",
+        "ticket",
+        "steamship"
+    ]
+},
+  "bbox": [
+    -84.488103,
+    33.970661,
+    -84.488103,
+    33.970661
+],
+  "geometry": {"coordinates":[-84.488103,33.970661],"type":"Point"}
+}

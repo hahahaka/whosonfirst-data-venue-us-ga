@@ -1,0 +1,79 @@
+{
+  "id": 739936609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.383135,33.761567,-84.383135,33.761567",
+    "geom:latitude":33.761567,
+    "geom:longitude":-84.383135,
+    "iso:country":"US",
+    "sg:address":"255 Courtland St NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 221 6940",
+    "sg:postcode":"30308",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shipping"
+    ],
+    "sg:website":"www.fedex.com/us/office/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yMBEuovTM2QDVSJkQBTr1_33.761567_-84.383135@1303262610"
+    },
+    "wof:country":"US",
+    "wof:created":1461921284,
+    "wof:geomhash":"18da9e06515c787ea2cf4321ed4c3094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872057,
+            "region_id":85688535,
+            "venue_id":739936609
+        }
+    ],
+    "wof:id":739936609,
+    "wof:lastmodified":1461921284,
+    "wof:name":"FedEx Office Print & Ship Center",
+    "wof:parent_id":85872057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipping"
+    ]
+},
+  "bbox": [
+    -84.383135,
+    33.761567,
+    -84.383135,
+    33.761567
+],
+  "geometry": {"coordinates":[-84.383135,33.761567],"type":"Point"}
+}

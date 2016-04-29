@@ -1,0 +1,86 @@
+{
+  "id": 739944271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.383365,33.783897,-84.383365,33.783897",
+    "geom:latitude":33.783897,
+    "geom:longitude":-84.383365,
+    "iso:country":"US",
+    "sg:address":"1080 Peachtree Street Suite 8",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 267 0114",
+    "sg:postcode":"30309",
+    "sg:province":"GA",
+    "sg:tags":[
+        "sushi",
+        "bar"
+    ],
+    "sg:website":"www.RAsushi.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85866909,
+        85872127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uVsk5r31bSdsKgwarefPZ_33.783897_-84.383365@1303262612"
+    },
+    "wof:country":"US",
+    "wof:created":1461921671,
+    "wof:geomhash":"a62e46004e7974f7ef6756ef71572105",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85866909,
+            "region_id":85688535,
+            "venue_id":739944271
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872127,
+            "region_id":85688535,
+            "venue_id":739944271
+        }
+    ],
+    "wof:id":739944271,
+    "wof:lastmodified":1461921671,
+    "wof:name":"RA Sushi Bar Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sushi",
+        "bar"
+    ]
+},
+  "bbox": [
+    -84.383365,
+    33.783897,
+    -84.383365,
+    33.783897
+],
+  "geometry": {"coordinates":[-84.383365,33.783897],"type":"Point"}
+}

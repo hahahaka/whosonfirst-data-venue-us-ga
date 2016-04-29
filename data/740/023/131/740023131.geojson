@@ -1,0 +1,73 @@
+{
+  "id": 740023131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.975368,34.31159,-83.975368,34.31159",
+    "geom:latitude":34.31159,
+    "geom:longitude":-83.975368,
+    "iso:country":"US",
+    "sg:address":"8245 Kara Dr",
+    "sg:city":"Gainesville",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 455 5224",
+    "sg:postcode":"30506",
+    "sg:province":"GA",
+    "sg:tags":[
+        "container",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936811,
+        102082317,
+        85842073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45Txtsd0CYNpQ5thfUCsAJ_34.311590_-83.975368@1303262633"
+    },
+    "wof:country":"US",
+    "wof:created":1461924822,
+    "wof:geomhash":"fc5876a2da9a22501d280c41ceadc979",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082317,
+            "locality_id":85936811,
+            "neighbourhood_id":85842073,
+            "region_id":85688535,
+            "venue_id":740023131
+        }
+    ],
+    "wof:id":740023131,
+    "wof:lastmodified":1461924822,
+    "wof:name":"Dynamic Air Inc",
+    "wof:parent_id":85842073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "container",
+        "broker"
+    ]
+},
+  "bbox": [
+    -83.975368,
+    34.31159,
+    -83.975368,
+    34.31159
+],
+  "geometry": {"coordinates":[-83.975368,34.31159],"type":"Point"}
+}

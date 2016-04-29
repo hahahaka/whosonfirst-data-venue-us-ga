@@ -1,0 +1,71 @@
+{
+  "id": 722767921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.028667,33.055868,-85.028667,33.055868",
+    "geom:latitude":33.055868,
+    "geom:longitude":-85.028667,
+    "iso:country":"US",
+    "sg:address":"215 New Franklin Rd",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 882 0172",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ouFk8nOz3TarQLEVJCGiT_33.055868_-85.028667@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888277,
+    "wof:geomhash":"c4d31c64ac81b7f6bb8caa736bab2502",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":722767921
+        }
+    ],
+    "wof:id":722767921,
+    "wof:lastmodified":1461888277,
+    "wof:name":"KFC",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -85.028667,
+    33.055868,
+    -85.028667,
+    33.055868
+],
+  "geometry": {"coordinates":[-85.028667,33.055868],"type":"Point"}
+}

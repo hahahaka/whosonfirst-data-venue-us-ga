@@ -1,0 +1,69 @@
+{
+  "id": 722745803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.504335,33.930253,-84.504335,33.930253",
+    "geom:latitude":33.930253,
+    "geom:longitude":-84.504335,
+    "iso:country":"US",
+    "sg:address":"1728 Penny Ln SE",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 420 5662",
+    "sg:postcode":"30067",
+    "sg:province":"GA",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85845875,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7liq1cZZiEoAwtf0wL8sXU_33.930253_-84.504335@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461887860,
+    "wof:geomhash":"5e4a44c94bc21b4907db5b3c510ae823",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":722745803
+        }
+    ],
+    "wof:id":722745803,
+    "wof:lastmodified":1461887860,
+    "wof:name":"Jason Wages Mobile Wash",
+    "wof:parent_id":85845875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -84.504335,
+    33.930253,
+    -84.504335,
+    33.930253
+],
+  "geometry": {"coordinates":[-84.504335,33.930253],"type":"Point"}
+}

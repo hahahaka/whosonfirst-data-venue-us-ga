@@ -1,0 +1,78 @@
+{
+  "id": 740070051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.028455,31.046952,-84.028455,31.046952",
+    "geom:latitude":31.046952,
+    "geom:longitude":-84.028455,
+    "iso:country":"US",
+    "sg:address":"4568 Palmer Rd",
+    "sg:city":"Meigs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 683 3716",
+    "sg:postcode":"31765",
+    "sg:province":"GA",
+    "sg:tags":[
+        "logging",
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85806705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tumCCklPEnK1g56PlLrVq_31.046952_-84.028455@1303262645"
+    },
+    "wof:country":"US",
+    "wof:created":1461926971,
+    "wof:geomhash":"7ce5b30ba2689b482df81fd366181772",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85806705,
+            "region_id":85688535,
+            "venue_id":740070051
+        }
+    ],
+    "wof:id":740070051,
+    "wof:lastmodified":1461926971,
+    "wof:name":"Wood Warrior Logging, LLC",
+    "wof:parent_id":85806705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logging",
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.028455,
+    31.046952,
+    -84.028455,
+    31.046952
+],
+  "geometry": {"coordinates":[-84.02845499999999,31.046952],"type":"Point"}
+}

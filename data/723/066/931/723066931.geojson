@@ -1,0 +1,73 @@
+{
+  "id": 723066931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.901394,32.750547,-84.901394,32.750547",
+    "geom:latitude":32.750547,
+    "geom:longitude":-84.901394,
+    "iso:country":"US",
+    "sg:address":"210 Lower Blue Springs Rd",
+    "sg:city":"Hamilton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 628 4217",
+    "sg:postcode":"31811",
+    "sg:province":"GA",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936099,
+        102084477,
+        85835873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eEqXAaImRRmAUzLQVMU4O_32.750547_-84.901394@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461894364,
+    "wof:geomhash":"16dd8070e1ab71cd8f2e66496443726c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084477,
+            "locality_id":85936099,
+            "neighbourhood_id":85835873,
+            "region_id":85688535,
+            "venue_id":723066931
+        }
+    ],
+    "wof:id":723066931,
+    "wof:lastmodified":1461894364,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85835873,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -84.901394,
+    32.750547,
+    -84.901394,
+    32.750547
+],
+  "geometry": {"coordinates":[-84.901394,32.750547],"type":"Point"}
+}

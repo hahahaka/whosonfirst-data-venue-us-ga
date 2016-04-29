@@ -1,0 +1,76 @@
+{
+  "id": 739980969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.309373,33.814659,-84.309373,33.814659",
+    "geom:latitude":33.814659,
+    "geom:longitude":-84.309373,
+    "iso:country":"US",
+    "sg:address":"2979 N Druid Hills Road NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 633 5555",
+    "sg:postcode":"30329",
+    "sg:province":"GA",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.pawsplayhouse.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937257,
+        102084539,
+        85890013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55pMXqeUp940CDngGTrYvI_33.814659_-84.309373@1303262622"
+    },
+    "wof:country":"US",
+    "wof:created":1461923166,
+    "wof:geomhash":"72824c6b7352aaab9fae43554505d17f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937257,
+            "neighbourhood_id":85890013,
+            "region_id":85688535,
+            "venue_id":739980969
+        }
+    ],
+    "wof:id":739980969,
+    "wof:lastmodified":1461923166,
+    "wof:name":"Paws Playhouse",
+    "wof:parent_id":85890013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.309373,
+    33.814659,
+    -84.309373,
+    33.814659
+],
+  "geometry": {"coordinates":[-84.30937299999999,33.814659],"type":"Point"}
+}

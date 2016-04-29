@@ -1,0 +1,85 @@
+{
+  "id": 740039315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.971897,34.773233,-84.971897,34.773233",
+    "geom:latitude":34.773233,
+    "geom:longitude":-84.971897,
+    "iso:country":"US",
+    "sg:address":"404 School St",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 278 7363",
+    "sg:postcode":"30720",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department",
+        "township",
+        "protection",
+        "government-city",
+        "village"
+    ],
+    "sg:website":"http://www.daltontradecenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QFohCj1x5UBI2EqdXFNLW_34.773233_-84.971897@1303262637"
+    },
+    "wof:country":"US",
+    "wof:created":1461925541,
+    "wof:geomhash":"74f483b9eed5dacf92a9237f1e037e72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":740039315
+        }
+    ],
+    "wof:id":740039315,
+    "wof:lastmodified":1461925541,
+    "wof:name":"Dalton Fire Department",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "township",
+        "protection",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -84.971897,
+    34.773233,
+    -84.971897,
+    34.773233
+],
+  "geometry": {"coordinates":[-84.971897,34.773233],"type":"Point"}
+}

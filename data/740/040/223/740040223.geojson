@@ -1,0 +1,89 @@
+{
+  "id": 740040223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.949185,34.81086,-84.949185,34.81086",
+    "geom:latitude":34.81086,
+    "geom:longitude":-84.949185,
+    "iso:country":"US",
+    "sg:address":"2108 Cleveland Hwy",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 226 6221",
+    "sg:postcode":"30721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "equipment",
+        "manufacturer",
+        "supplies-wholesale",
+        "salons-equipment",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wz35oqFW3Mwd9IfyzHGOo_34.810860_-84.949185@1303262637"
+    },
+    "wof:country":"US",
+    "wof:created":1461925621,
+    "wof:geomhash":"09668e8d3c4d926f57d0a2f39c2de3f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":740040223
+        }
+    ],
+    "wof:id":740040223,
+    "wof:lastmodified":1461925621,
+    "wof:name":"Trendy Image",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "manufacturer",
+        "supplies-wholesale",
+        "salons-equipment",
+        "supply"
+    ]
+},
+  "bbox": [
+    -84.949185,
+    34.81086,
+    -84.949185,
+    34.81086
+],
+  "geometry": {"coordinates":[-84.949185,34.81086],"type":"Point"}
+}

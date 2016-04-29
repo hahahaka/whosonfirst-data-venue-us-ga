@@ -1,0 +1,73 @@
+{
+  "id": 739895473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.037018,33.079248,-85.037018,33.079248",
+    "geom:latitude":33.079248,
+    "geom:longitude":-85.037018,
+    "iso:country":"US",
+    "sg:address":"206 Englewood Dr",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 884 4506",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Tlvl8eyh1FpDqUd1LR6Nn_33.079248_-85.037018@1303262600"
+    },
+    "wof:country":"US",
+    "wof:created":1461919641,
+    "wof:geomhash":"075e0dbefbde9e7a6b8b6e82a7ab6c3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739895473
+        }
+    ],
+    "wof:id":739895473,
+    "wof:lastmodified":1461919641,
+    "wof:name":"Dr Stephen Duke",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.037018,
+    33.079248,
+    -85.037018,
+    33.079248
+],
+  "geometry": {"coordinates":[-85.037018,33.079248],"type":"Point"}
+}

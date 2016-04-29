@@ -1,0 +1,73 @@
+{
+  "id": 739518277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.02784,33.880779,-84.02784,33.880779",
+    "geom:latitude":33.880779,
+    "geom:longitude":-84.02784,
+    "iso:country":"US",
+    "sg:address":"1608 Tree Ln",
+    "sg:city":"Snellville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 982 4077",
+    "sg:postcode":"30078",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936303,
+        102082967,
+        85857829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fRt2KKEhnm0xTC8S5jdRb_33.880779_-84.027840@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461908759,
+    "wof:geomhash":"25917a1a1ddf2c1566b07580a044bb19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936303,
+            "neighbourhood_id":85857829,
+            "region_id":85688535,
+            "venue_id":739518277
+        }
+    ],
+    "wof:id":739518277,
+    "wof:lastmodified":1461908759,
+    "wof:name":"HCA Physician Svc",
+    "wof:parent_id":85857829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.02784,
+    33.880779,
+    -84.02784,
+    33.880779
+],
+  "geometry": {"coordinates":[-84.02784,33.880779],"type":"Point"}
+}

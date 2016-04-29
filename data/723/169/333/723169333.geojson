@@ -1,0 +1,76 @@
+{
+  "id": 723169333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.945114,34.766082,-84.945114,34.766082",
+    "geom:latitude":34.766082,
+    "geom:longitude":-84.945114,
+    "iso:country":"US",
+    "sg:address":"407 Sheridan Ave",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 275 8122",
+    "sg:postcode":"30721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WIM1OGmcAdQBYG1RMlbud_34.766082_-84.945114@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896465,
+    "wof:geomhash":"42e5da9d82d86f3c512ab0b36bcca27b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":723169333
+        }
+    ],
+    "wof:id":723169333,
+    "wof:lastmodified":1461896465,
+    "wof:name":"LA Canasta Restaurant",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -84.945114,
+    34.766082,
+    -84.945114,
+    34.766082
+],
+  "geometry": {"coordinates":[-84.945114,34.766082],"type":"Point"}
+}

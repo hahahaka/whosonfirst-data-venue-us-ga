@@ -1,0 +1,79 @@
+{
+  "id": 739791015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.065269,34.010544,-84.065269,34.010544",
+    "geom:latitude":34.010544,
+    "geom:longitude":-84.065269,
+    "iso:country":"US",
+    "sg:address":"1000 Northbrook Pkwy B",
+    "sg:city":"Suwanee",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 963 6288",
+    "sg:postcode":"30024",
+    "sg:province":"GA",
+    "sg:tags":[
+        "generators-electric",
+        "engines-diesel",
+        "generator"
+    ],
+    "sg:website":"http://www.kraftpower.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43N87M800UnYt4pCtrTE6F_34.010544_-84.065269@1303262572"
+    },
+    "wof:country":"US",
+    "wof:created":1461915412,
+    "wof:geomhash":"71771b4f8fd1bcb96a6303f1d76528de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":739791015
+        }
+    ],
+    "wof:id":739791015,
+    "wof:lastmodified":1461915412,
+    "wof:name":"Kraft Power",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "generators-electric",
+        "engines-diesel",
+        "generator"
+    ]
+},
+  "bbox": [
+    -84.065269,
+    34.010544,
+    -84.065269,
+    34.010544
+],
+  "geometry": {"coordinates":[-84.065269,34.010544],"type":"Point"}
+}

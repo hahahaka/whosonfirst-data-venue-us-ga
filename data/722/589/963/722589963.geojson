@@ -1,0 +1,71 @@
+{
+  "id": 722589963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.034022,33.038805,-85.034022,33.038805",
+    "geom:latitude":33.038805,
+    "geom:longitude":-85.034022,
+    "iso:country":"US",
+    "sg:address":"302 Vernon St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 883 1700",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Wjf6ItXLe4Li2OJoIOdth_33.038805_-85.034022@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461884792,
+    "wof:geomhash":"93b9a813ce688313b49dbe40ff95d38c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":722589963
+        }
+    ],
+    "wof:id":722589963,
+    "wof:lastmodified":1461884792,
+    "wof:name":"Troup County E-911",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.034022,
+    33.038805,
+    -85.034022,
+    33.038805
+],
+  "geometry": {"coordinates":[-85.03402199999999,33.038805],"type":"Point"}
+}

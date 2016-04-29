@@ -1,0 +1,71 @@
+{
+  "id": 722961291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.687308,32.632433,-83.687308,32.632433",
+    "geom:latitude":32.632433,
+    "geom:longitude":-83.687308,
+    "iso:country":"US",
+    "sg:address":"110 Lee St",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 953 0738",
+    "sg:postcode":"31028",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0N2irhCGcEEpZrKUp4nvbr_32.632433_-83.687308@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461892064,
+    "wof:geomhash":"f25cf41280c10453242909967d2e8b4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":722961291
+        }
+    ],
+    "wof:id":722961291,
+    "wof:lastmodified":1461892064,
+    "wof:name":"J & J Towing",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -83.687308,
+    32.632433,
+    -83.687308,
+    32.632433
+],
+  "geometry": {"coordinates":[-83.687308,32.632433],"type":"Point"}
+}

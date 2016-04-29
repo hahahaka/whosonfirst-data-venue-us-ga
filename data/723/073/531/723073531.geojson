@@ -1,0 +1,71 @@
+{
+  "id": 723073531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.675481,30.796105,-81.675481,30.796105",
+    "geom:latitude":30.796105,
+    "geom:longitude":-81.675481,
+    "iso:country":"US",
+    "sg:address":"103 Sea Parc St",
+    "sg:city":"Kingsland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 729 7980",
+    "sg:postcode":"31548",
+    "sg:province":"GA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937043,
+        102081693,
+        85812807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UZDOAOsQx0pgP3il2URmw_30.796105_-81.675481@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461894549,
+    "wof:geomhash":"6e98f586e149bd0992375207012efceb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081693,
+            "locality_id":85937043,
+            "neighbourhood_id":85812807,
+            "region_id":85688535,
+            "venue_id":723073531
+        }
+    ],
+    "wof:id":723073531,
+    "wof:lastmodified":1461894549,
+    "wof:name":"L & S Wrecker Svc",
+    "wof:parent_id":85812807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -81.675481,
+    30.796105,
+    -81.675481,
+    30.796105
+],
+  "geometry": {"coordinates":[-81.675481,30.796105],"type":"Point"}
+}

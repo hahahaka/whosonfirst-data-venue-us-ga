@@ -1,0 +1,82 @@
+{
+  "id": 740073385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.971843,32.523326,-84.971843,32.523326",
+    "geom:latitude":32.523326,
+    "geom:longitude":-84.971843,
+    "iso:country":"US",
+    "sg:address":"9 Steve Mar Ct",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 323 0637",
+    "sg:postcode":"31904",
+    "sg:province":"GA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85820405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Uuqg01PQHJyD15ezCQ4RW_32.523326_-84.971843@1303262646"
+    },
+    "wof:country":"US",
+    "wof:created":1461927106,
+    "wof:geomhash":"e79ac27df3f5b47ce79e8c761f9c6e75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85820405,
+            "region_id":85688535,
+            "venue_id":740073385
+        }
+    ],
+    "wof:id":740073385,
+    "wof:lastmodified":1461927106,
+    "wof:name":"Fowler Trucking",
+    "wof:parent_id":85820405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.971843,
+    32.523326,
+    -84.971843,
+    32.523326
+],
+  "geometry": {"coordinates":[-84.97184300000001,32.523326],"type":"Point"}
+}

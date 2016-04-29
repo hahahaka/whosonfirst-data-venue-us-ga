@@ -1,0 +1,73 @@
+{
+  "id": 739763975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.509402,33.95127,-84.509402,33.95127",
+    "geom:latitude":33.95127,
+    "geom:longitude":-84.509402,
+    "iso:country":"US",
+    "sg:address":"1495 Roswell Rd",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/marietta/203367-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30062",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936135,
+        102082313,
+        85857049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HJrYJkkecEhDDwYKnWdjW_33.951270_-84.509402@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914298,
+    "wof:geomhash":"d7bc853510e3e464f320cae7bbb34dca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936135,
+            "neighbourhood_id":85857049,
+            "region_id":85688535,
+            "venue_id":739763975
+        }
+    ],
+    "wof:id":739763975,
+    "wof:lastmodified":1461914298,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85857049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.509402,
+    33.95127,
+    -84.509402,
+    33.95127
+],
+  "geometry": {"coordinates":[-84.50940199999999,33.95127],"type":"Point"}
+}

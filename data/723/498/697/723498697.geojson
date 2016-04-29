@@ -1,0 +1,71 @@
+{
+  "id": 723498697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.973414,30.82495,-83.973414,30.82495",
+    "geom:latitude":30.82495,
+    "geom:longitude":-83.973414,
+    "iso:country":"US",
+    "sg:address":"915 Gordon Ave",
+    "sg:city":"Thomasville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 226 5103",
+    "sg:postcode":"31792",
+    "sg:province":"GA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85833309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mTRXxchgdMShJb3N1z0dE_30.824950_-83.973414@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461902936,
+    "wof:geomhash":"53b8dddcc998e090a058682c871e59b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85833309,
+            "region_id":85688535,
+            "venue_id":723498697
+        }
+    ],
+    "wof:id":723498697,
+    "wof:lastmodified":1461902936,
+    "wof:name":"Quest Diagnostics Inc",
+    "wof:parent_id":85833309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -83.973414,
+    30.82495,
+    -83.973414,
+    30.82495
+],
+  "geometry": {"coordinates":[-83.97341400000001,30.82495],"type":"Point"}
+}

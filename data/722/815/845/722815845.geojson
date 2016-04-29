@@ -1,0 +1,77 @@
+{
+  "id": 722815845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.979995,34.147987,-83.979995,34.147987",
+    "geom:latitude":34.147987,
+    "geom:longitude":-83.979995,
+    "iso:country":"US",
+    "sg:address":"5701 Holiday Rd",
+    "sg:city":"Buford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 945 4916",
+    "sg:postcode":"30518",
+    "sg:province":"GA",
+    "sg:tags":[
+        "machine",
+        "automotive",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936281,
+        102082967,
+        85846603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Hc9xvmmycR5ddsihs9n9Q_34.147987_-83.979995@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461889175,
+    "wof:geomhash":"c0cc21bd7238808b8f0538da2abc4cbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936281,
+            "neighbourhood_id":85846603,
+            "region_id":85688535,
+            "venue_id":722815845
+        }
+    ],
+    "wof:id":722815845,
+    "wof:lastmodified":1461889175,
+    "wof:name":"Buford Automotive Machine Shop",
+    "wof:parent_id":85846603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automotive",
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.979995,
+    34.147987,
+    -83.979995,
+    34.147987
+],
+  "geometry": {"coordinates":[-83.979995,34.147987],"type":"Point"}
+}

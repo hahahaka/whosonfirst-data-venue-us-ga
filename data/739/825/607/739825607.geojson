@@ -1,0 +1,70 @@
+{
+  "id": 739825607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.48135,34.025318,-84.48135,34.025318",
+    "geom:latitude":34.025318,
+    "geom:longitude":-84.48135,
+    "iso:country":"US",
+    "sg:address":"3051 Sandy Plains Rd",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 977 7661",
+    "sg:postcode":"30066",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.cvs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85803209,
+        102084635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Imvwbp7yTFOczZzrsCAQ8_34.025318_-84.481350@1303262582"
+    },
+    "wof:country":"US",
+    "wof:created":1461916921,
+    "wof:geomhash":"fd0418c255513e191215ad28ec025958",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084635,
+            "neighbourhood_id":85803209,
+            "region_id":85688535,
+            "venue_id":739825607
+        }
+    ],
+    "wof:id":739825607,
+    "wof:lastmodified":1461916921,
+    "wof:name":"Cvs Pharmacy",
+    "wof:parent_id":85803209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -84.48135,
+    34.025318,
+    -84.48135,
+    34.025318
+],
+  "geometry": {"coordinates":[-84.48135000000001,34.025318],"type":"Point"}
+}

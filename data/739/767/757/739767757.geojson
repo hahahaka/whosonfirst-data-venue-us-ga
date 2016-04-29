@@ -1,0 +1,75 @@
+{
+  "id": 739767757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.365228,33.647603,-84.365228,33.647603",
+    "geom:latitude":33.647603,
+    "geom:longitude":-84.365228,
+    "iso:country":"US",
+    "sg:address":"3907 Jonesboro Rd",
+    "sg:city":"Forest Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/forest-park-morrow/203293-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30297",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936965,
+        102082333,
+        420517671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zsm5aAdLPB2s5SVtEngip_33.647603_-84.365228@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914446,
+    "wof:geomhash":"b52e7c96ae1a019991be6ed826ca4007",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082333,
+            "locality_id":85936965,
+            "neighbourhood_id":420517671,
+            "region_id":85688535,
+            "venue_id":739767757
+        }
+    ],
+    "wof:id":739767757,
+    "wof:lastmodified":1461914446,
+    "wof:name":"McDonald's",
+    "wof:parent_id":420517671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.365228,
+    33.647603,
+    -84.365228,
+    33.647603
+],
+  "geometry": {"coordinates":[-84.365228,33.647603],"type":"Point"}
+}

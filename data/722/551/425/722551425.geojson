@@ -1,0 +1,73 @@
+{
+  "id": 722551425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.092361,33.825997,-84.092361,33.825997",
+    "geom:latitude":33.825997,
+    "geom:longitude":-84.092361,
+    "iso:country":"US",
+    "sg:address":"2225 Hudson Dr SW",
+    "sg:city":"Lilburn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 985 4084",
+    "sg:postcode":"30047",
+    "sg:province":"GA",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936303,
+        102082967,
+        85857829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SAE6lrg1d6PxTIIuj1zfc_33.825997_-84.092361@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461884031,
+    "wof:geomhash":"1859e61434b2f011f7896bf38e0095a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936303,
+            "neighbourhood_id":85857829,
+            "region_id":85688535,
+            "venue_id":722551425
+        }
+    ],
+    "wof:id":722551425,
+    "wof:lastmodified":1461884031,
+    "wof:name":"City Auto Rental Inc",
+    "wof:parent_id":85857829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -84.092361,
+    33.825997,
+    -84.092361,
+    33.825997
+],
+  "geometry": {"coordinates":[-84.092361,33.825997],"type":"Point"}
+}

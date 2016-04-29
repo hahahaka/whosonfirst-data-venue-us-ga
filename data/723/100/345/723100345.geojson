@@ -1,0 +1,71 @@
+{
+  "id": 723100345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.149803,34.251599,-84.149803,34.251599",
+    "geom:latitude":34.251599,
+    "geom:longitude":-84.149803,
+    "iso:country":"US",
+    "sg:address":"4515 Spot Rd",
+    "sg:city":"Cumming",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 887 0031",
+    "sg:postcode":"30040",
+    "sg:province":"GA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936811,
+        102082317,
+        85842073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vVYPY8WGXzOeTcVaTYYEe_34.251599_-84.149803@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461895126,
+    "wof:geomhash":"4844fa870eb09d626bf4d726fc41dcaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082317,
+            "locality_id":85936811,
+            "neighbourhood_id":85842073,
+            "region_id":85688535,
+            "venue_id":723100345
+        }
+    ],
+    "wof:id":723100345,
+    "wof:lastmodified":1461895126,
+    "wof:name":"Ingram's Renegade Towing",
+    "wof:parent_id":85842073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -84.149803,
+    34.251599,
+    -84.149803,
+    34.251599
+],
+  "geometry": {"coordinates":[-84.14980300000001,34.251599],"type":"Point"}
+}

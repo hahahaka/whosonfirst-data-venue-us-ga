@@ -1,0 +1,71 @@
+{
+  "id": 739774059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.232206,30.68001,-83.232206,30.68001",
+    "geom:latitude":30.68001,
+    "geom:longitude":-83.232206,
+    "iso:country":"US",
+    "sg:address":"7207 Lakes Blvd",
+    "sg:city":"Lake Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/valdosta/203332-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"31636",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85827233,
+        102083585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12jVIEydPV8Otgtk29A0pG_30.680010_-83.232206@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914712,
+    "wof:geomhash":"3ead88222cd62870d47c876a234a2e4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "neighbourhood_id":85827233,
+            "region_id":85688535,
+            "venue_id":739774059
+        }
+    ],
+    "wof:id":739774059,
+    "wof:lastmodified":1461914712,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85827233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.232206,
+    30.68001,
+    -83.232206,
+    30.68001
+],
+  "geometry": {"coordinates":[-83.23220600000001,30.68001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 739254685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.135804,32.094489,-81.135804,32.094489",
+    "geom:latitude":32.094489,
+    "geom:longitude":-81.135804,
+    "iso:country":"US",
+    "sg:address":"2909 W Bay St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 964 5825",
+    "sg:postcode":"31408",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        420517361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6n79VjiJ5YGVf60mcRJ5V2_32.094489_-81.135804@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461903594,
+    "wof:geomhash":"d630931404c2fdd516ec7152152cb324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":420517361,
+            "region_id":85688535,
+            "venue_id":739254685
+        }
+    ],
+    "wof:id":739254685,
+    "wof:lastmodified":1461903594,
+    "wof:name":"Motor Parts Co",
+    "wof:parent_id":420517361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "engine"
+    ]
+},
+  "bbox": [
+    -81.135804,
+    32.094489,
+    -81.135804,
+    32.094489
+],
+  "geometry": {"coordinates":[-81.13580399999999,32.094489],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 723159453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.947419,32.455178,-84.947419,32.455178",
+    "geom:latitude":32.455178,
+    "geom:longitude":-84.947419,
+    "iso:country":"US",
+    "sg:address":"606 Warehouse Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 571 0213",
+    "sg:postcode":"31906",
+    "sg:province":"GA",
+    "sg:tags":[
+        "transmission",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85803141,
+        420518159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53fmmf8LlNXC0qw7V5uZn6_32.455178_-84.947419@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896278,
+    "wof:geomhash":"e94108c9f63cf34bb95b7f986ce376f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85803141,
+            "region_id":85688535,
+            "venue_id":723159453
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":420518159,
+            "region_id":85688535,
+            "venue_id":723159453
+        }
+    ],
+    "wof:id":723159453,
+    "wof:lastmodified":1461896278,
+    "wof:name":"Warehouse Transmissions Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "general"
+    ]
+},
+  "bbox": [
+    -84.947419,
+    32.455178,
+    -84.947419,
+    32.455178
+],
+  "geometry": {"coordinates":[-84.947419,32.455178],"type":"Point"}
+}

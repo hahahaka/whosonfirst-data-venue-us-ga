@@ -1,0 +1,88 @@
+{
+  "id": 740042117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.141069,33.544072,-82.141069,33.544072",
+    "geom:latitude":33.544072,
+    "geom:longitude":-82.141069,
+    "iso:country":"US",
+    "sg:address":"4426 Washington Rd",
+    "sg:city":"Evans",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 868 1005",
+    "sg:postcode":"30809",
+    "sg:province":"GA",
+    "sg:tags":[
+        "rental",
+        "consultant",
+        "management",
+        "commercial"
+    ],
+    "sg:website":"http://www.mcbriderealty.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eJ4JcOv8fA1v8ovoP3R08_33.544072_-82.141069@1303262638"
+    },
+    "wof:country":"US",
+    "wof:created":1461925726,
+    "wof:geomhash":"09a4f91a4ae3d966e8e6c74700355ae5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":740042117
+        }
+    ],
+    "wof:id":740042117,
+    "wof:lastmodified":1461925726,
+    "wof:name":"McBride Realty",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental",
+        "consultant",
+        "management",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -82.141069,
+    33.544072,
+    -82.141069,
+    33.544072
+],
+  "geometry": {"coordinates":[-82.141069,33.544072],"type":"Point"}
+}

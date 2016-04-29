@@ -1,0 +1,71 @@
+{
+  "id": 722695589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.272288,30.753887,-83.272288,30.753887",
+    "geom:latitude":30.753887,
+    "geom:longitude":-83.272288,
+    "iso:country":"US",
+    "sg:address":"3471 Madison Hwy",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 244 6100",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85827233,
+        102083585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CqV7xMpd37EIwcu2ZKstS_30.753887_-83.272288@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886886,
+    "wof:geomhash":"2095f70f0f9638e2a6977d69137ebaec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "neighbourhood_id":85827233,
+            "region_id":85688535,
+            "venue_id":722695589
+        }
+    ],
+    "wof:id":722695589,
+    "wof:lastmodified":1461886886,
+    "wof:name":"Davis Transfer Co Inc",
+    "wof:parent_id":85827233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.272288,
+    30.753887,
+    -83.272288,
+    30.753887
+],
+  "geometry": {"coordinates":[-83.272288,30.753887],"type":"Point"}
+}

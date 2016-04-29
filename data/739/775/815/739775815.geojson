@@ -1,0 +1,84 @@
+{
+  "id": 739775815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.278807,33.899483,-84.278807,33.899483",
+    "geom:latitude":33.899483,
+    "geom:longitude":-84.278807,
+    "iso:country":"US",
+    "sg:address":"5406 Buford Hwy NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/chamblee-doraville/209492-monterrey-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 458 1179",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        420559931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nipGJE2wZiLbqKKCy5Xqo_33.899395_-84.278395@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461914775,
+    "wof:geomhash":"7286501d6e2954cd4f2eaf0102ad0796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":739775815
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":420559931,
+            "region_id":85688535,
+            "venue_id":739775815
+        }
+    ],
+    "wof:id":739775815,
+    "wof:lastmodified":1461914775,
+    "wof:name":"Monterrey Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -84.278807,
+    33.899483,
+    -84.278807,
+    33.899483
+],
+  "geometry": {"coordinates":[-84.278807,33.899483],"type":"Point"}
+}

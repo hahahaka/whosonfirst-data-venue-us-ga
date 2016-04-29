@@ -1,0 +1,83 @@
+{
+  "id": 739827113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.486159,33.904004,-84.486159,33.904004",
+    "geom:latitude":33.904004,
+    "geom:longitude":-84.486159,
+    "iso:country":"US",
+    "sg:address":"2311 Windy Hill Rd SE",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 953 8088",
+    "sg:postcode":"30067",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shipping"
+    ],
+    "sg:website":"www.fedex.com/Dropoff/start?FY11...",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818985,
+        102082313,
+        85845875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KFy1jrn3QnAig7hCyCRoj_33.904004_-84.486159@1303262582"
+    },
+    "wof:country":"US",
+    "wof:created":1461916970,
+    "wof:geomhash":"dcdd7a0b92af5cbbcf382b5e3129c530",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85818985,
+            "region_id":85688535,
+            "venue_id":739827113
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":739827113
+        }
+    ],
+    "wof:id":739827113,
+    "wof:lastmodified":1461916970,
+    "wof:name":"FedEx Office Print & Ship Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipping"
+    ]
+},
+  "bbox": [
+    -84.486159,
+    33.904004,
+    -84.486159,
+    33.904004
+],
+  "geometry": {"coordinates":[-84.486159,33.904004],"type":"Point"}
+}

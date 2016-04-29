@@ -1,0 +1,71 @@
+{
+  "id": 739895597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.129476,33.011697,-85.129476,33.011697",
+    "geom:latitude":33.011697,
+    "geom:longitude":-85.129476,
+    "iso:country":"US",
+    "sg:address":"116 Shady Oak Dr",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 884 3151",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85830157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JH5yUIxk6OR5DsQDyJleH_33.011697_-85.129476@1303262600"
+    },
+    "wof:country":"US",
+    "wof:created":1461919645,
+    "wof:geomhash":"16d1e3d7435b65f2e8542dcf635661de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85830157,
+            "region_id":85688535,
+            "venue_id":739895597
+        }
+    ],
+    "wof:id":739895597,
+    "wof:lastmodified":1461919645,
+    "wof:name":"Coley Electric",
+    "wof:parent_id":85830157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -85.129476,
+    33.011697,
+    -85.129476,
+    33.011697
+],
+  "geometry": {"coordinates":[-85.129476,33.011697],"type":"Point"}
+}

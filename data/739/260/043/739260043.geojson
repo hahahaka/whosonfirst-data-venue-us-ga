@@ -1,0 +1,75 @@
+{
+  "id": 739260043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.924537,32.47539,-84.924537,32.47539",
+    "geom:latitude":32.47539,
+    "geom:longitude":-84.924537,
+    "iso:country":"US",
+    "sg:address":"1412 Morris Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 563 9232",
+    "sg:postcode":"31907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        420518089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02uTDHSJFzlHnxrpM7cRC0_32.475390_-84.924537@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461903699,
+    "wof:geomhash":"eb38ba20a95b4cc641dc90eae7937139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":420518089,
+            "region_id":85688535,
+            "venue_id":739260043
+        }
+    ],
+    "wof:id":739260043,
+    "wof:lastmodified":1461903699,
+    "wof:name":"Jones Auto Svc",
+    "wof:parent_id":420518089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.924537,
+    32.47539,
+    -84.924537,
+    32.47539
+],
+  "geometry": {"coordinates":[-84.924537,32.47539],"type":"Point"}
+}

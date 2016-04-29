@@ -1,0 +1,75 @@
+{
+  "id": 722605987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.882487,32.3668,-81.882487,32.3668",
+    "geom:latitude":32.3668,
+    "geom:longitude":-81.882487,
+    "iso:country":"US",
+    "sg:address":"1 Church St",
+    "sg:city":"Register",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 852 5118",
+    "sg:postcode":"30452",
+    "sg:province":"GA",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935999,
+        102084405,
+        85821351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NHcO0xG6W5pfovUQKo4KT_32.366800_-81.882487@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461885095,
+    "wof:geomhash":"dd2c01965d251e7ddfe4fbf4824c19fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85821351,
+            "region_id":85688535,
+            "venue_id":722605987
+        }
+    ],
+    "wof:id":722605987,
+    "wof:lastmodified":1461885095,
+    "wof:name":"Double Barrel Kennel",
+    "wof:parent_id":85821351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -81.882487,
+    32.3668,
+    -81.882487,
+    32.3668
+],
+  "geometry": {"coordinates":[-81.882487,32.3668],"type":"Point"}
+}

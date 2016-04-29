@@ -1,0 +1,71 @@
+{
+  "id": 723243245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.267384,33.709819,-84.267384,33.709819",
+    "geom:latitude":33.709819,
+    "geom:longitude":-84.267384,
+    "iso:country":"US",
+    "sg:address":"2924 Rainbow Dr",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 328 0006",
+    "sg:postcode":"30034",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automobile",
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85816491,
+        102084539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3poWo1jzmE2Gzxr3YNq5mC_33.709819_-84.267384@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897969,
+    "wof:geomhash":"ab943a91840afc72660e927a29b46997",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":723243245
+        }
+    ],
+    "wof:id":723243245,
+    "wof:lastmodified":1461897969,
+    "wof:name":"Auto Action Emission Testing",
+    "wof:parent_id":85816491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -84.267384,
+    33.709819,
+    -84.267384,
+    33.709819
+],
+  "geometry": {"coordinates":[-84.26738400000001,33.709819],"type":"Point"}
+}

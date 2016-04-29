@@ -1,0 +1,69 @@
+{
+  "id": 723208795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.123338,33.942587,-84.123338,33.942587",
+    "geom:latitude":33.942587,
+    "geom:longitude":-84.123338,
+    "iso:country":"US",
+    "sg:address":"1500 Pleasant Hill Rd",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 206 2000",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_157TPXRVaLYEhhn7QQXy8f_33.942587_-84.123338@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897238,
+    "wof:geomhash":"033688a0c4afc309e810d2c354d28e8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":723208795
+        }
+    ],
+    "wof:id":723208795,
+    "wof:lastmodified":1461897238,
+    "wof:name":"Kumon Math & Reading Ctr",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -84.123338,
+    33.942587,
+    -84.123338,
+    33.942587
+],
+  "geometry": {"coordinates":[-84.123338,33.942587],"type":"Point"}
+}

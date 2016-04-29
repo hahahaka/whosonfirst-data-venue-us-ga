@@ -1,0 +1,71 @@
+{
+  "id": 723436345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.480937,33.585725,-84.480937,33.585725",
+    "geom:latitude":33.585725,
+    "geom:longitude":-84.480937,
+    "iso:country":"US",
+    "sg:address":"2858 Flat Shoals Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 285 3246",
+    "sg:postcode":"30349",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automotive",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889945,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zIDYpUaUMcz1M6nOxxkqd_33.585725_-84.480937@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901682,
+    "wof:geomhash":"be189cca51d4761a05834a9420d7ca2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85889945,
+            "region_id":85688535,
+            "venue_id":723436345
+        }
+    ],
+    "wof:id":723436345,
+    "wof:lastmodified":1461901682,
+    "wof:name":"Sinkfield Towing & Hauling",
+    "wof:parent_id":85889945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -84.480937,
+    33.585725,
+    -84.480937,
+    33.585725
+],
+  "geometry": {"coordinates":[-84.480937,33.585725],"type":"Point"}
+}

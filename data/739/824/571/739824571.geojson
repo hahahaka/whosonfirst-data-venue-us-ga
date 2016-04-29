@@ -1,0 +1,84 @@
+{
+  "id": 739824571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.522102,34.071899,-84.522102,34.071899",
+    "geom:latitude":34.071899,
+    "geom:longitude":-84.522102,
+    "iso:country":"US",
+    "sg:address":"4953 Canton Rd",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 926 8888",
+    "sg:postcode":"30066",
+    "sg:province":"GA",
+    "sg:tags":[
+        "sitting",
+        "hospital",
+        "specialty",
+        "clinic",
+        "veterinarian",
+        "boarding/pet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85858509,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62mG058H4a1HeFL0xhBvu2_34.071899_-84.522102@1303262581"
+    },
+    "wof:country":"US",
+    "wof:created":1461916875,
+    "wof:geomhash":"b0e33960fc6d9fe2c0ffb2bd59ca2551",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85858509,
+            "region_id":85688535,
+            "venue_id":739824571
+        }
+    ],
+    "wof:id":739824571,
+    "wof:lastmodified":1461916875,
+    "wof:name":"Etowah Veterinary Hospital",
+    "wof:parent_id":85858509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sitting",
+        "hospital",
+        "specialty",
+        "clinic",
+        "veterinarian",
+        "boarding/pet"
+    ]
+},
+  "bbox": [
+    -84.522102,
+    34.071899,
+    -84.522102,
+    34.071899
+],
+  "geometry": {"coordinates":[-84.522102,34.071899],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 723432341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.101361,33.99083,-84.101361,33.99083",
+    "geom:latitude":33.99083,
+    "geom:longitude":-84.101361,
+    "iso:country":"US",
+    "sg:address":"2025 Sugarloaf Club Dr",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 309 1926",
+    "sg:postcode":"30097",
+    "sg:province":"GA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OjDkWIxhlAJqzKNY7rWvU_33.990830_-84.101361@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901608,
+    "wof:geomhash":"771b5eb9788faf7fcf017f06b597d48b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":723432341
+        }
+    ],
+    "wof:id":723432341,
+    "wof:lastmodified":1461901608,
+    "wof:name":"Auto Unlimited",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -84.101361,
+    33.99083,
+    -84.101361,
+    33.99083
+],
+  "geometry": {"coordinates":[-84.101361,33.99083],"type":"Point"}
+}

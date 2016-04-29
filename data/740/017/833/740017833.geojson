@@ -1,0 +1,86 @@
+{
+  "id": 740017833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.284471,33.930613,-84.284471,33.930613",
+    "geom:latitude":33.930613,
+    "geom:longitude":-84.284471,
+    "iso:country":"US",
+    "sg:address":"2449 Cobb Dr",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 255 8903",
+    "sg:postcode":"30360",
+    "sg:province":"GA",
+    "sg:tags":[
+        "lock",
+        "key"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85936467,
+        85890023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TJ0A5IX3abk40vrana8Eg_33.930613_-84.284471@1303262631"
+    },
+    "wof:country":"US",
+    "wof:created":1461924610,
+    "wof:geomhash":"28ec61276ef505fc6c60686f6392a32d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":740017833
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890023,
+            "region_id":85688535,
+            "venue_id":740017833
+        }
+    ],
+    "wof:id":740017833,
+    "wof:lastmodified":1461924610,
+    "wof:name":"1 2 24 Hour AAA Locksmith",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "key"
+    ]
+},
+  "bbox": [
+    -84.284471,
+    33.930613,
+    -84.284471,
+    33.930613
+],
+  "geometry": {"coordinates":[-84.284471,33.930613],"type":"Point"}
+}

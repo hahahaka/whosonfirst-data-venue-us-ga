@@ -1,0 +1,82 @@
+{
+  "id": 739815901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.54483,33.902039,-84.54483,33.902039",
+    "geom:latitude":33.902039,
+    "geom:longitude":-84.54483,
+    "iso:country":"US",
+    "sg:address":"291 Pat Mell Rd SE",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 305 0526",
+    "sg:postcode":"30060",
+    "sg:province":"GA",
+    "sg:tags":[
+        "mail",
+        "container",
+        "broker",
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qMm6bb8eny4mKF06BhawH_33.902039_-84.544830@1303262579"
+    },
+    "wof:country":"US",
+    "wof:created":1461916542,
+    "wof:geomhash":"783062370aa1e78d8f0f5a5afe972d52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":739815901
+        }
+    ],
+    "wof:id":739815901,
+    "wof:lastmodified":1461916542,
+    "wof:name":"Shipping Logistics",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "container",
+        "broker",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -84.54483,
+    33.902039,
+    -84.54483,
+    33.902039
+],
+  "geometry": {"coordinates":[-84.54483,33.902039],"type":"Point"}
+}

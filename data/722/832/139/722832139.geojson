@@ -1,0 +1,83 @@
+{
+  "id": 722832139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.369072,33.762263,-84.369072,33.762263",
+    "geom:latitude":33.762263,
+    "geom:longitude":-84.369072,
+    "iso:country":"US",
+    "sg:address":"301 Prospect Pl NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 524 7744",
+    "sg:postcode":"30312",
+    "sg:province":"GA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872109,
+        85872065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aprQGhsgV8FthGGFzY0Io_33.762263_-84.369072@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461889482,
+    "wof:geomhash":"ad1411c479ea0439c4d7592527987e8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872109,
+            "region_id":85688535,
+            "venue_id":722832139
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872065,
+            "region_id":85688535,
+            "venue_id":722832139
+        }
+    ],
+    "wof:id":722832139,
+    "wof:lastmodified":1461889482,
+    "wof:name":"Air Conditioning Unlimited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.369072,
+    33.762263,
+    -84.369072,
+    33.762263
+],
+  "geometry": {"coordinates":[-84.369072,33.762263],"type":"Point"}
+}

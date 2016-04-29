@@ -1,0 +1,73 @@
+{
+  "id": 723480895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.008188,33.83325,-84.008188,33.83325",
+    "geom:latitude":33.83325,
+    "geom:longitude":-84.008188,
+    "iso:country":"US",
+    "sg:address":"3150 Lenora Church Rd",
+    "sg:city":"Snellville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 982 5222",
+    "sg:postcode":"30039",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936303,
+        102082967,
+        85890049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lCpcBCNOZchbrjfJTU70f_33.833250_-84.008188@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461902556,
+    "wof:geomhash":"b7360563c597524d50c52d71f6f3d73f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936303,
+            "neighbourhood_id":85890049,
+            "region_id":85688535,
+            "venue_id":723480895
+        }
+    ],
+    "wof:id":723480895,
+    "wof:lastmodified":1461902556,
+    "wof:name":"Your Mechanic",
+    "wof:parent_id":85890049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.008188,
+    33.83325,
+    -84.008188,
+    33.83325
+],
+  "geometry": {"coordinates":[-84.008188,33.83325],"type":"Point"}
+}

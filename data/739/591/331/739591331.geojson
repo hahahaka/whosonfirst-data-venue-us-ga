@@ -1,0 +1,71 @@
+{
+  "id": 739591331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.504619,34.210073,-84.504619,34.210073",
+    "geom:latitude":34.210073,
+    "geom:longitude":-84.504619,
+    "iso:country":"US",
+    "sg:address":"2731 Marietta Hwy",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 704 7626",
+    "sg:postcode":"30114",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936719,
+        102084635,
+        85896247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Xl1IpLnsvOoOBfHslBV2X_34.210073_-84.504619@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910227,
+    "wof:geomhash":"9b203c53a727e681c5773af2f13f944c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084635,
+            "locality_id":85936719,
+            "neighbourhood_id":85896247,
+            "region_id":85688535,
+            "venue_id":739591331
+        }
+    ],
+    "wof:id":739591331,
+    "wof:lastmodified":1461910227,
+    "wof:name":"Canton Fire Dept",
+    "wof:parent_id":85896247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.504619,
+    34.210073,
+    -84.504619,
+    34.210073
+],
+  "geometry": {"coordinates":[-84.50461900000001,34.210073],"type":"Point"}
+}

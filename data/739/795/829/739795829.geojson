@@ -1,0 +1,87 @@
+{
+  "id": 739795829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.283798,33.732498,-84.283798,33.732498",
+    "geom:latitude":33.732498,
+    "geom:longitude":-84.283798,
+    "iso:country":"US",
+    "sg:address":"2007 Candler Rd",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 286 0712",
+    "sg:postcode":"30032",
+    "sg:province":"GA",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "store",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937245,
+        102084539,
+        85816501,
+        85816491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Z10kE42ZP456kutXGk7cr_33.732498_-84.283798@1303262574"
+    },
+    "wof:country":"US",
+    "wof:created":1461915602,
+    "wof:geomhash":"25141d205b9d0a9b157bb9a5ce6551eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937245,
+            "neighbourhood_id":85816501,
+            "region_id":85688535,
+            "venue_id":739795829
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739795829
+        }
+    ],
+    "wof:id":739795829,
+    "wof:lastmodified":1461915602,
+    "wof:name":"Dee's & McAfee Package Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "store",
+        "wine"
+    ]
+},
+  "bbox": [
+    -84.283798,
+    33.732498,
+    -84.283798,
+    33.732498
+],
+  "geometry": {"coordinates":[-84.283798,33.732498],"type":"Point"}
+}

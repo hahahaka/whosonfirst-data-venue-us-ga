@@ -1,0 +1,88 @@
+{
+  "id": 739907591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.326202,32.890474,-84.326202,32.890474",
+    "geom:latitude":32.890474,
+    "geom:longitude":-84.326202,
+    "iso:country":"US",
+    "sg:address":"304 N Center St",
+    "sg:city":"Thomaston",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 647 4420",
+    "sg:postcode":"30286",
+    "sg:province":"GA",
+    "sg:tags":[
+        "frozen",
+        "dessert",
+        "american",
+        "take"
+    ],
+    "sg:website":"http://www.dairyqueen.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936343,
+        102084425,
+        85816847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4H0mCGtxv07VaNdNJO5MPE_32.890474_-84.326202@1303262603"
+    },
+    "wof:country":"US",
+    "wof:created":1461920107,
+    "wof:geomhash":"6fcd507bc2700e59269b686aaf336825",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084425,
+            "locality_id":85936343,
+            "neighbourhood_id":85816847,
+            "region_id":85688535,
+            "venue_id":739907591
+        }
+    ],
+    "wof:id":739907591,
+    "wof:lastmodified":1461920107,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85816847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert",
+        "american",
+        "take"
+    ]
+},
+  "bbox": [
+    -84.326202,
+    32.890474,
+    -84.326202,
+    32.890474
+],
+  "geometry": {"coordinates":[-84.32620199999999,32.890474],"type":"Point"}
+}

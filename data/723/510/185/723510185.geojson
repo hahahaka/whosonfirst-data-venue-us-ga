@@ -1,0 +1,69 @@
+{
+  "id": 723510185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.561039,32.814396,-83.561039,32.814396",
+    "geom:latitude":32.814396,
+    "geom:longitude":-83.561039,
+    "iso:country":"US",
+    "sg:address":"2600 Weaver Rd",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 464 8526",
+    "sg:postcode":"31217",
+    "sg:province":"GA",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85835279,
+        102084373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7a0CU72ahue7BOFo5WZJup_32.814396_-83.561039@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461903199,
+    "wof:geomhash":"5aa233ae628d36a3ae34459a84e0721e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084373,
+            "neighbourhood_id":85835279,
+            "region_id":85688535,
+            "venue_id":723510185
+        }
+    ],
+    "wof:id":723510185,
+    "wof:lastmodified":1461903199,
+    "wof:name":"General Building Maintenance",
+    "wof:parent_id":85835279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -83.561039,
+    32.814396,
+    -83.561039,
+    32.814396
+],
+  "geometry": {"coordinates":[-83.56103899999999,32.814396],"type":"Point"}
+}

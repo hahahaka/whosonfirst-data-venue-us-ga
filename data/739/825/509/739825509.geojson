@@ -1,0 +1,70 @@
+{
+  "id": 739825509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.528353,34.038668,-84.528353,34.038668",
+    "geom:latitude":34.038668,
+    "geom:longitude":-84.528353,
+    "iso:country":"US",
+    "sg:address":"3544 Canton Rd",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 926 6616",
+    "sg:postcode":"30066",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.cvs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85858509,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ORPhk32KvIPmhimdrqvRc_34.038668_-84.528353@1303262582"
+    },
+    "wof:country":"US",
+    "wof:created":1461916917,
+    "wof:geomhash":"27fd14b396f847f635e1d485273f8fb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85858509,
+            "region_id":85688535,
+            "venue_id":739825509
+        }
+    ],
+    "wof:id":739825509,
+    "wof:lastmodified":1461916917,
+    "wof:name":"Cvs Pharmacy",
+    "wof:parent_id":85858509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -84.528353,
+    34.038668,
+    -84.528353,
+    34.038668
+],
+  "geometry": {"coordinates":[-84.528353,34.038668],"type":"Point"}
+}

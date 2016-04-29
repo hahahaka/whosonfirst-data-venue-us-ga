@@ -1,0 +1,74 @@
+{
+  "id": 722725405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.524619,33.894318,-84.524619,33.894318",
+    "geom:latitude":33.894318,
+    "geom:longitude":-84.524619,
+    "iso:country":"US",
+    "sg:address":"969 Windy Hill Rd SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 438 8360",
+    "sg:postcode":"30082",
+    "sg:province":"GA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85845875,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UR9d2Kxq2XcZbXFHF72Qv_33.894318_-84.524619@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461887441,
+    "wof:geomhash":"db0c46d2e94094204de62a22a3836657",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":722725405
+        }
+    ],
+    "wof:id":722725405,
+    "wof:lastmodified":1461887441,
+    "wof:name":"Clinical Laboratory Services",
+    "wof:parent_id":85845875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -84.524619,
+    33.894318,
+    -84.524619,
+    33.894318
+],
+  "geometry": {"coordinates":[-84.524619,33.894318],"type":"Point"}
+}

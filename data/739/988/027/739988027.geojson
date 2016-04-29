@@ -1,0 +1,86 @@
+{
+  "id": 739988027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.302492,33.958444,-84.302492,33.958444",
+    "geom:latitude":33.958444,
+    "geom:longitude":-84.302492,
+    "iso:country":"US",
+    "sg:address":"2472 Jett Ferry Road Suite 410",
+    "sg:city":"Dunwoody",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 698 4242",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "sg:tags":[
+        "bookstore"
+    ],
+    "sg:website":"www.smythebooks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        420517731,
+        85937165,
+        102083603,
+        420517933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vNkMMbG6IFPKGadymjXAE_33.958444_-84.302492@1303262624"
+    },
+    "wof:country":"US",
+    "wof:created":1461923478,
+    "wof:geomhash":"15eeedde418557a19f9d0fac37344d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":420517731,
+            "region_id":85688535,
+            "venue_id":739988027
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937165,
+            "neighbourhood_id":420517933,
+            "region_id":85688535,
+            "venue_id":739988027
+        }
+    ],
+    "wof:id":739988027,
+    "wof:lastmodified":1461923478,
+    "wof:name":"Smythe Books, LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore"
+    ]
+},
+  "bbox": [
+    -84.302492,
+    33.958444,
+    -84.302492,
+    33.958444
+],
+  "geometry": {"coordinates":[-84.302492,33.958444],"type":"Point"}
+}

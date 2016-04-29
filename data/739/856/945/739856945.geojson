@@ -1,0 +1,76 @@
+{
+  "id": 739856945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.139198,33.9505,-84.139198,33.9505",
+    "geom:latitude":33.9505,
+    "geom:longitude":-84.139198,
+    "iso:country":"US",
+    "sg:address":"3450 Steve Reynolds Blvd",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Optician",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 497 0077",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "eyewear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SnLvSyAKaG31g9ZKEyyhM_33.950500_-84.139198@1303262590"
+    },
+    "wof:country":"US",
+    "wof:created":1461918183,
+    "wof:geomhash":"1af567fbc4ecf5a1d2b54b84709d7373",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":739856945
+        }
+    ],
+    "wof:id":739856945,
+    "wof:lastmodified":1461918183,
+    "wof:name":"Sam's Optical",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eyewear"
+    ]
+},
+  "bbox": [
+    -84.139198,
+    33.9505,
+    -84.139198,
+    33.9505
+],
+  "geometry": {"coordinates":[-84.13919799999999,33.9505],"type":"Point"}
+}

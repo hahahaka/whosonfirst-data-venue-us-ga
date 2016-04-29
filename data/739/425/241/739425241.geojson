@@ -1,0 +1,71 @@
+{
+  "id": 739425241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.03294,33.040871,-85.03294,33.040871",
+    "geom:latitude":33.040871,
+    "geom:longitude":-85.03294,
+    "iso:country":"US",
+    "sg:address":"208 W Haralson St",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 812 1224",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "legal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IWpElzofN83TeY9uAaEPR_33.040871_-85.032940@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907076,
+    "wof:geomhash":"e0be01a67b97b14cb5f8db75cac40e18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739425241
+        }
+    ],
+    "wof:id":739425241,
+    "wof:lastmodified":1461907076,
+    "wof:name":"Daniels Office",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "legal"
+    ]
+},
+  "bbox": [
+    -85.03294,
+    33.040871,
+    -85.03294,
+    33.040871
+],
+  "geometry": {"coordinates":[-85.03294,33.040871],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 739895455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.079332,33.019186,-85.079332,33.019186",
+    "geom:latitude":33.019186,
+    "geom:longitude":-85.079332,
+    "iso:country":"US",
+    "sg:address":"1980 Lukken Industrial Dr W",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 443 5050",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "rope",
+        "cable-non-electric",
+        "wire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85830157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ii9qSDT1GIeuYTDlwLgD4_33.019186_-85.079332@1303262600"
+    },
+    "wof:country":"US",
+    "wof:created":1461919640,
+    "wof:geomhash":"27e7358e3885fa3e79a415d082e404f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85830157,
+            "region_id":85688535,
+            "venue_id":739895455
+        }
+    ],
+    "wof:id":739895455,
+    "wof:lastmodified":1461919640,
+    "wof:name":"Wiretech Inc",
+    "wof:parent_id":85830157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rope",
+        "cable-non-electric",
+        "wire"
+    ]
+},
+  "bbox": [
+    -85.079332,
+    33.019186,
+    -85.079332,
+    33.019186
+],
+  "geometry": {"coordinates":[-85.07933199999999,33.019186],"type":"Point"}
+}

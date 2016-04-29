@@ -1,0 +1,82 @@
+{
+  "id": 740075431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.673229,31.013271,-84.673229,31.013271",
+    "geom:latitude":31.013271,
+    "geom:longitude":-84.673229,
+    "iso:country":"US",
+    "sg:address":"146 George Cloud Ln",
+    "sg:city":"Brinson",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 246 6205",
+    "sg:postcode":"39825",
+    "sg:province":"GA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688651,
+        102191575,
+        85633793,
+        85933451,
+        102084747,
+        420517717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ub2YEH5MkwVRZoMm0IEoe_31.013271_-84.673229@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1461927195,
+    "wof:geomhash":"d5e085fc146b1d2600a1fb4f682ba7f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084747,
+            "locality_id":85933451,
+            "neighbourhood_id":420517717,
+            "region_id":85688651,
+            "venue_id":740075431
+        }
+    ],
+    "wof:id":740075431,
+    "wof:lastmodified":1461927195,
+    "wof:name":"H D Trucking",
+    "wof:parent_id":420517717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.673229,
+    31.013271,
+    -84.673229,
+    31.013271
+],
+  "geometry": {"coordinates":[-84.67322900000001,31.013271],"type":"Point"}
+}

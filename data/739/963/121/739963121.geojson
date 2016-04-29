@@ -1,0 +1,82 @@
+{
+  "id": 739963121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.454759,33.816254,-84.454759,33.816254",
+    "geom:latitude":33.816254,
+    "geom:longitude":-84.454759,
+    "iso:country":"US",
+    "sg:address":"2225 Adams Dr NW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 351 0024",
+    "sg:postcode":"30318",
+    "sg:province":"GA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        420517865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lHy4loj3qTLn6c4Xki3Ow_33.816254_-84.454759@1303262617"
+    },
+    "wof:country":"US",
+    "wof:created":1461922482,
+    "wof:geomhash":"783973bf03f691c61b053c2571d1c281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":420517865,
+            "region_id":85688535,
+            "venue_id":739963121
+        }
+    ],
+    "wof:id":739963121,
+    "wof:lastmodified":1461922482,
+    "wof:name":"My Friends Trucking Inc",
+    "wof:parent_id":420517865,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.454759,
+    33.816254,
+    -84.454759,
+    33.816254
+],
+  "geometry": {"coordinates":[-84.454759,33.816254],"type":"Point"}
+}

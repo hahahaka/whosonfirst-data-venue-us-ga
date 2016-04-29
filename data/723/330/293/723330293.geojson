@@ -1,0 +1,69 @@
+{
+  "id": 723330293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.464346,34.067003,-84.464346,34.067003",
+    "geom:latitude":34.067003,
+    "geom:longitude":-84.464346,
+    "iso:country":"US",
+    "sg:address":"2936 Summitop Rd",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 662 3433",
+    "sg:postcode":"30066",
+    "sg:province":"GA",
+    "sg:tags":[
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85803209,
+        102084635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eGXZ8xb4EPWB8gTVw25mk_34.067003_-84.464346@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899631,
+    "wof:geomhash":"4ef9bc78e5b64180740bde3952e39c6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084635,
+            "neighbourhood_id":85803209,
+            "region_id":85688535,
+            "venue_id":723330293
+        }
+    ],
+    "wof:id":723330293,
+    "wof:lastmodified":1461899631,
+    "wof:name":"UPS",
+    "wof:parent_id":85803209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier"
+    ]
+},
+  "bbox": [
+    -84.464346,
+    34.067003,
+    -84.464346,
+    34.067003
+],
+  "geometry": {"coordinates":[-84.46434600000001,34.067003],"type":"Point"}
+}

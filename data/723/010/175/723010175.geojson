@@ -1,0 +1,75 @@
+{
+  "id": 723010175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.557538,30.730822,-81.557538,30.730822",
+    "geom:latitude":30.730822,
+    "geom:longitude":-81.557538,
+    "iso:country":"US",
+    "sg:address":"805 Dilworth St",
+    "sg:city":"St Marys",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 882 4281",
+    "sg:postcode":"31558",
+    "sg:province":"GA",
+    "sg:tags":[
+        "home",
+        "skilled",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937043,
+        102081693,
+        85852055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fmifbgPT7Y0ZP6sb9Niz2_30.730822_-81.557538@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461893145,
+    "wof:geomhash":"1773f729bbe5b963e90a68c462da39fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081693,
+            "locality_id":85937043,
+            "neighbourhood_id":85852055,
+            "region_id":85688535,
+            "venue_id":723010175
+        }
+    ],
+    "wof:id":723010175,
+    "wof:lastmodified":1461893145,
+    "wof:name":"St Marys Convalescent Center",
+    "wof:parent_id":85852055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "skilled",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -81.557538,
+    30.730822,
+    -81.557538,
+    30.730822
+],
+  "geometry": {"coordinates":[-81.55753799999999,30.730822],"type":"Point"}
+}

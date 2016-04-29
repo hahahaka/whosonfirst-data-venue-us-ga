@@ -1,0 +1,81 @@
+{
+  "id": 739979203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.333641,33.803638,-84.333641,33.803638",
+    "geom:latitude":33.803638,
+    "geom:longitude":-84.333641,
+    "iso:country":"US",
+    "sg:address":"1841 Clifton Rd NE Fl 4",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 728 6302",
+    "sg:postcode":"30329",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical",
+        "college"
+    ],
+    "sg:website":"http://www.houstonmillhouse.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937251,
+        102084539,
+        85889951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jffSXsoQR3oEStEePqxgV_33.803638_-84.333641@1303262621"
+    },
+    "wof:country":"US",
+    "wof:created":1461923101,
+    "wof:geomhash":"0e761243076e08a368e1b261feead00c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937251,
+            "neighbourhood_id":85889951,
+            "region_id":85688535,
+            "venue_id":739979203
+        }
+    ],
+    "wof:id":739979203,
+    "wof:lastmodified":1461923101,
+    "wof:name":"Emory University",
+    "wof:parent_id":85889951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "college"
+    ]
+},
+  "bbox": [
+    -84.333641,
+    33.803638,
+    -84.333641,
+    33.803638
+],
+  "geometry": {"coordinates":[-84.333641,33.803638],"type":"Point"}
+}

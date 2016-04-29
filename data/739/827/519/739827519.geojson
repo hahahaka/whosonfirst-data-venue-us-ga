@@ -1,0 +1,87 @@
+{
+  "id": 739827519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.48291,33.903614,-84.48291,33.903614",
+    "geom:latitude":33.903614,
+    "geom:longitude":-84.48291,
+    "iso:country":"US",
+    "sg:address":"2361 Windy Hill Rd SE Ste 1100",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 952 0019",
+    "sg:postcode":"30067",
+    "sg:province":"GA",
+    "sg:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818985,
+        102082313,
+        85845875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bK8CxYcLl3SR8rYjpzYJo_33.903614_-84.482910@1303262582"
+    },
+    "wof:country":"US",
+    "wof:created":1461916985,
+    "wof:geomhash":"d9f79a33a683c15c747b4cb178716022",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85818985,
+            "region_id":85688535,
+            "venue_id":739827519
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":739827519
+        }
+    ],
+    "wof:id":739827519,
+    "wof:lastmodified":1461916985,
+    "wof:name":"Enterprise Rent-A Car",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ]
+},
+  "bbox": [
+    -84.48291,
+    33.903614,
+    -84.48291,
+    33.903614
+],
+  "geometry": {"coordinates":[-84.48291,33.903614],"type":"Point"}
+}

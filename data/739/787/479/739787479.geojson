@@ -1,0 +1,83 @@
+{
+  "id": 739787479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.277604,34.019692,-84.277604,34.019692",
+    "geom:latitude":34.019692,
+    "geom:longitude":-84.277604,
+    "iso:country":"US",
+    "sg:address":"9850 Nesbit Ferry Rd Ste 2",
+    "sg:city":"Alpharetta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 642 8522",
+    "sg:postcode":"30022",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.ahnfc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937169,
+        102083603,
+        85836903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kqtFbDucN2jJqtSvPjANA_34.019692_-84.277604@1303262572"
+    },
+    "wof:country":"US",
+    "wof:created":1461915240,
+    "wof:geomhash":"6773441046635497c64cc01f8d5d1d86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937169,
+            "neighbourhood_id":85836903,
+            "region_id":85688535,
+            "venue_id":739787479
+        }
+    ],
+    "wof:id":739787479,
+    "wof:lastmodified":1461915240,
+    "wof:name":"Animal Hospital of Nesbit Ferry Crossing Inc",
+    "wof:parent_id":85836903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.277604,
+    34.019692,
+    -84.277604,
+    34.019692
+],
+  "geometry": {"coordinates":[-84.277604,34.019692],"type":"Point"}
+}

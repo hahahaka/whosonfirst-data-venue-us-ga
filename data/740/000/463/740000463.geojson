@@ -1,0 +1,85 @@
+{
+  "id": 740000463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.289601,33.904455,-84.289601,33.904455",
+    "geom:latitude":33.904455,
+    "geom:longitude":-84.289601,
+    "iso:country":"US",
+    "sg:address":"5976 Peachtree Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 274 1010",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "churches-vineyard"
+    ],
+    "sg:website":"http://www.atlantavineyard.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85936435,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43CaNFNRDioxi5XtYLx7zp_33.904455_-84.289601@1303262627"
+    },
+    "wof:country":"US",
+    "wof:created":1461923946,
+    "wof:geomhash":"254a4f4e23d934dcf439168fd7789865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":740000463
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":740000463
+        }
+    ],
+    "wof:id":740000463,
+    "wof:lastmodified":1461923946,
+    "wof:name":"Atlanta Vineyard Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-vineyard"
+    ]
+},
+  "bbox": [
+    -84.289601,
+    33.904455,
+    -84.289601,
+    33.904455
+],
+  "geometry": {"coordinates":[-84.289601,33.904455],"type":"Point"}
+}

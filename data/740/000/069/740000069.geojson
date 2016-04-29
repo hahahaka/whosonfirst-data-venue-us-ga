@@ -1,0 +1,68 @@
+{
+  "id": 740000069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.309601,33.867699,-84.309601,33.867699",
+    "geom:latitude":33.867699,
+    "geom:longitude":-84.309601,
+    "iso:country":"US",
+    "sg:address":"3693 Clairmont Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 451 2277",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102525899,
+        85688535,
+        85633793,
+        85937255,
+        102084539,
+        85807835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yA29UaSLAXttIB9qTpNbP_33.867699_-84.309601@1303262627"
+    },
+    "wof:country":"US",
+    "wof:created":1461923933,
+    "wof:geomhash":"6eda1da833b814c6ad1d255d089b2e41",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525899,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937255,
+            "neighbourhood_id":85807835,
+            "region_id":85688535,
+            "venue_id":740000069
+        }
+    ],
+    "wof:id":740000069,
+    "wof:lastmodified":1461923933,
+    "wof:name":"Auto Delta Inc",
+    "wof:parent_id":102525899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.309601,
+    33.867699,
+    -84.309601,
+    33.867699
+],
+  "geometry": {"coordinates":[-84.309601,33.867699],"type":"Point"}
+}

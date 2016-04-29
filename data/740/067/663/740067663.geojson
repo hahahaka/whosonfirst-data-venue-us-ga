@@ -1,0 +1,85 @@
+{
+  "id": 740067663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.136857,31.576222,-84.136857,31.576222",
+    "geom:latitude":31.576222,
+    "geom:longitude":-84.136857,
+    "iso:country":"US",
+    "sg:address":"705 E Broad Ave",
+    "sg:city":"Albany",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 888 6572",
+    "sg:postcode":"31705",
+    "sg:province":"GA",
+    "sg:tags":[
+        "grocers-specialty",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85935991,
+        102084427,
+        420517757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SCUdUMqtZwMBXHTVvVm2p_31.576222_-84.136857@1303262644"
+    },
+    "wof:country":"US",
+    "wof:created":1461926855,
+    "wof:geomhash":"07a23a28ac5bd1c268d88bba883ace49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":420517757,
+            "region_id":85688535,
+            "venue_id":740067663
+        }
+    ],
+    "wof:id":740067663,
+    "wof:lastmodified":1461926855,
+    "wof:name":"M & G Grocer's",
+    "wof:parent_id":420517757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocers-specialty",
+        "market"
+    ]
+},
+  "bbox": [
+    -84.136857,
+    31.576222,
+    -84.136857,
+    31.576222
+],
+  "geometry": {"coordinates":[-84.13685700000001,31.576222],"type":"Point"}
+}

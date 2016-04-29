@@ -1,0 +1,76 @@
+{
+  "id": 739271689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.03076,33.04559,-85.03076,33.04559",
+    "geom:latitude":33.04559,
+    "geom:longitude":-85.03076,
+    "iso:country":"US",
+    "sg:address":"516 Ridley Ave",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 845 1601",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6na8IV23vGKRkLidTBdBI1_33.045590_-85.030760@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461903950,
+    "wof:geomhash":"d531afb12868db201ab39a381d09fb22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739271689
+        }
+    ],
+    "wof:id":739271689,
+    "wof:lastmodified":1461903950,
+    "wof:name":"Family Psychology Associates",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -85.03076,
+    33.04559,
+    -85.03076,
+    33.04559
+],
+  "geometry": {"coordinates":[-85.03076,33.04559],"type":"Point"}
+}

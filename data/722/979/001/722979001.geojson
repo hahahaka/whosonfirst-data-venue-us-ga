@@ -1,0 +1,71 @@
+{
+  "id": 722979001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.731904,32.457875,-83.731904,32.457875",
+    "geom:latitude":32.457875,
+    "geom:longitude":-83.731904,
+    "iso:country":"US",
+    "sg:address":"910 Main St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 987 5224",
+    "sg:postcode":"31069",
+    "sg:province":"GA",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fGk7GHR2fpHJUejcieaGR_32.457875_-83.731904@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461892436,
+    "wof:geomhash":"a15610976fc8e481e341b1868df455a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":722979001
+        }
+    ],
+    "wof:id":722979001,
+    "wof:lastmodified":1461892436,
+    "wof:name":"General Telephone",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -83.731904,
+    32.457875,
+    -83.731904,
+    32.457875
+],
+  "geometry": {"coordinates":[-83.731904,32.457875],"type":"Point"}
+}

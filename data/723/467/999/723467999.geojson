@@ -1,0 +1,71 @@
+{
+  "id": 723467999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.803498,34.17141,-84.803498,34.17141",
+    "geom:latitude":34.17141,
+    "geom:longitude":-84.803498,
+    "iso:country":"US",
+    "sg:address":"152 Jones St",
+    "sg:city":"Cartersville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 382 7886",
+    "sg:postcode":"30120",
+    "sg:province":"GA",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936223,
+        102082937,
+        85837697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3G2iT3t7KimmerJCmoCPm1_34.171410_-84.803498@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461902285,
+    "wof:geomhash":"49c3a1b1d150ac5f37448231521d746c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082937,
+            "locality_id":85936223,
+            "neighbourhood_id":85837697,
+            "region_id":85688535,
+            "venue_id":723467999
+        }
+    ],
+    "wof:id":723467999,
+    "wof:lastmodified":1461902285,
+    "wof:name":"Wilco Deliveries",
+    "wof:parent_id":85837697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -84.803498,
+    34.17141,
+    -84.803498,
+    34.17141
+],
+  "geometry": {"coordinates":[-84.803498,34.17141],"type":"Point"}
+}

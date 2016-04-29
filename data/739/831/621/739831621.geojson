@@ -1,0 +1,81 @@
+{
+  "id": 739831621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.188305,33.957869,-84.188305,33.957869",
+    "geom:latitude":33.957869,
+    "geom:longitude":-84.188305,
+    "iso:country":"US",
+    "sg:address":"4895A Buford Hwy",
+    "sg:city":"Norcross",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 448 6021",
+    "sg:postcode":"30071",
+    "sg:province":"GA",
+    "sg:tags":[
+        "batteries-storage-wholesale",
+        "batteries-storage",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.voltex.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hRGDfEtoQjwC1VZXfBHaM_33.957869_-84.188305@1303262583"
+    },
+    "wof:country":"US",
+    "wof:created":1461917139,
+    "wof:geomhash":"7a533dc89d1dd7a79a98ab10c88703ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":739831621
+        }
+    ],
+    "wof:id":739831621,
+    "wof:lastmodified":1461917139,
+    "wof:name":"Voltex Batteries Inc",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "batteries-storage-wholesale",
+        "batteries-storage",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -84.188305,
+    33.957869,
+    -84.188305,
+    33.957869
+],
+  "geometry": {"coordinates":[-84.188305,33.957869],"type":"Point"}
+}

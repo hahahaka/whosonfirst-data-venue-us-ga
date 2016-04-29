@@ -1,0 +1,71 @@
+{
+  "id": 722821669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.982239,30.836123,-83.982239,30.836123",
+    "geom:latitude":30.836123,
+    "geom:longitude":-83.982239,
+    "iso:country":"US",
+    "sg:address":"300 W Jackson St",
+    "sg:city":"Thomasville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 228 6600",
+    "sg:postcode":"31792",
+    "sg:province":"GA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85833309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2REqQlUzHgMV7okKzooLKD_30.836123_-83.982239@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461889297,
+    "wof:geomhash":"7158bbbb3aa35badbf4c240ec0d8eb3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85833309,
+            "region_id":85688535,
+            "venue_id":722821669
+        }
+    ],
+    "wof:id":722821669,
+    "wof:lastmodified":1461889297,
+    "wof:name":"National Nephrology Associates",
+    "wof:parent_id":85833309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -83.982239,
+    30.836123,
+    -83.982239,
+    30.836123
+],
+  "geometry": {"coordinates":[-83.98223900000001,30.836123],"type":"Point"}
+}

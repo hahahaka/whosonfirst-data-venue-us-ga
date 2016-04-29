@@ -1,0 +1,93 @@
+{
+  "id": 739826221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.476754,33.912281,-84.476754,33.912281",
+    "geom:latitude":33.912281,
+    "geom:longitude":-84.476754,
+    "iso:country":"US",
+    "sg:address":"1600 Terrell Mill Rd SE",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Mobile Phones",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 850 3823",
+    "sg:postcode":"30067",
+    "sg:province":"GA",
+    "sg:tags":[
+        "telecommunication",
+        "supply",
+        "system",
+        "equipment",
+        "cellular"
+    ],
+    "sg:website":"http://www.att.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818985,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kr2A8F0dYVGcdfSDDU7sh_33.912281_-84.476754@1303262582"
+    },
+    "wof:country":"US",
+    "wof:created":1461916940,
+    "wof:geomhash":"3ce654aae709ac4d8cb14ea0a0256190",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85818985,
+            "region_id":85688535,
+            "venue_id":739826221
+        }
+    ],
+    "wof:id":739826221,
+    "wof:lastmodified":1461916940,
+    "wof:name":"AT&T",
+    "wof:parent_id":85818985,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication",
+        "supply",
+        "system",
+        "equipment",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -84.476754,
+    33.912281,
+    -84.476754,
+    33.912281
+],
+  "geometry": {"coordinates":[-84.476754,33.912281],"type":"Point"}
+}

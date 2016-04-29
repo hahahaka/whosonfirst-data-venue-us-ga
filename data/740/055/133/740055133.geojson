@@ -1,0 +1,82 @@
+{
+  "id": 740055133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.697197,32.8983,-83.697197,32.8983",
+    "geom:latitude":32.8983,
+    "geom:longitude":-83.697197,
+    "iso:country":"US",
+    "sg:address":"3901 Northside Dr",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 474 5300",
+    "sg:postcode":"31210",
+    "sg:province":"GA",
+    "sg:tags":[
+        "apartment",
+        "vacancy",
+        "listing",
+        "rental",
+        "finder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85833281,
+        102084373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kgFs1RmF96DfQOdwrBlAw_32.898300_-83.697197@1303262641"
+    },
+    "wof:country":"US",
+    "wof:created":1461926320,
+    "wof:geomhash":"002f9f15dda30c481890841b5b46d2bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084373,
+            "neighbourhood_id":85833281,
+            "region_id":85688535,
+            "venue_id":740055133
+        }
+    ],
+    "wof:id":740055133,
+    "wof:lastmodified":1461926320,
+    "wof:name":"The Arbor Apartment Homes",
+    "wof:parent_id":85833281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "vacancy",
+        "listing",
+        "rental",
+        "finder"
+    ]
+},
+  "bbox": [
+    -83.697197,
+    32.8983,
+    -83.697197,
+    32.8983
+],
+  "geometry": {"coordinates":[-83.697197,32.8983],"type":"Point"}
+}

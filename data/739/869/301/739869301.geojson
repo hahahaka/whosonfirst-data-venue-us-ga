@@ -1,0 +1,75 @@
+{
+  "id": 739869301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.074448,33.584841,-85.074448,33.584841",
+    "geom:latitude":33.584841,
+    "geom:longitude":-85.074448,
+    "iso:country":"US",
+    "sg:address":"710 Rome St",
+    "sg:city":"Carrollton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 836 6711",
+    "sg:postcode":"30117",
+    "sg:province":"GA",
+    "sg:tags":[
+        "parish",
+        "government-county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937055,
+        102081719,
+        85829651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zl7JiYZRO1vPhZ3Ql9TR0_33.584841_-85.074448@1303262593"
+    },
+    "wof:country":"US",
+    "wof:created":1461918656,
+    "wof:geomhash":"b980021607a61fe1d0f02385c9e53300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081719,
+            "locality_id":85937055,
+            "neighbourhood_id":85829651,
+            "region_id":85688535,
+            "venue_id":739869301
+        }
+    ],
+    "wof:id":739869301,
+    "wof:lastmodified":1461918656,
+    "wof:name":"Carroll County",
+    "wof:parent_id":85829651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parish",
+        "government-county"
+    ]
+},
+  "bbox": [
+    -85.074448,
+    33.584841,
+    -85.074448,
+    33.584841
+],
+  "geometry": {"coordinates":[-85.074448,33.584841],"type":"Point"}
+}

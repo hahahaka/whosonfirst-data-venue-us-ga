@@ -1,0 +1,73 @@
+{
+  "id": 723060019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.584477,30.771285,-81.584477,30.771285",
+    "geom:latitude":30.771285,
+    "geom:longitude":-81.584477,
+    "iso:country":"US",
+    "sg:address":"216 Hunt Club Rd",
+    "sg:city":"St Marys",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 882 1248",
+    "sg:postcode":"31558",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937043,
+        102081693,
+        85852055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2v8yWSK1mawzAHByYdOuPx_30.771285_-81.584477@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461894219,
+    "wof:geomhash":"d3d90c0f7555d254d1b2a11ec6e1c3e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081693,
+            "locality_id":85937043,
+            "neighbourhood_id":85852055,
+            "region_id":85688535,
+            "venue_id":723060019
+        }
+    ],
+    "wof:id":723060019,
+    "wof:lastmodified":1461894219,
+    "wof:name":"DSH Automotive",
+    "wof:parent_id":85852055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -81.584477,
+    30.771285,
+    -81.584477,
+    30.771285
+],
+  "geometry": {"coordinates":[-81.58447700000001,30.771285],"type":"Point"}
+}

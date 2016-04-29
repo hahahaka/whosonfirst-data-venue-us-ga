@@ -1,0 +1,71 @@
+{
+  "id": 723377775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.424261,31.886948,-81.424261,31.886948",
+    "geom:latitude":31.886948,
+    "geom:longitude":-81.424261,
+    "iso:country":"US",
+    "sg:address":"76 Allie Blount Rd",
+    "sg:city":"Fleming",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 884 9320",
+    "sg:postcode":"31309",
+    "sg:province":"GA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936767,
+        102082901,
+        85820995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CDvUVDGt9AFpEzVJ4pnNH_31.886948_-81.424261@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900539,
+    "wof:geomhash":"e9220c21da3d31d07eb9a82b25632a2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082901,
+            "locality_id":85936767,
+            "neighbourhood_id":85820995,
+            "region_id":85688535,
+            "venue_id":723377775
+        }
+    ],
+    "wof:id":723377775,
+    "wof:lastmodified":1461900539,
+    "wof:name":"Blount's Wrecker Svc",
+    "wof:parent_id":85820995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -81.424261,
+    31.886948,
+    -81.424261,
+    31.886948
+],
+  "geometry": {"coordinates":[-81.424261,31.886948],"type":"Point"}
+}

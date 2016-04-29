@@ -1,0 +1,71 @@
+{
+  "id": 739404713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.0192,32.93581,-85.0192,32.93581",
+    "geom:latitude":32.93581,
+    "geom:longitude":-85.0192,
+    "iso:country":"US",
+    "sg:address":"4217 Whitesville St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 883 7111",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "tractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lfB8rxFyNuCSJKrA01CwB_32.935810_-85.019200@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461906667,
+    "wof:geomhash":"1ca1ee31bd891555674767432388b759",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739404713
+        }
+    ],
+    "wof:id":739404713,
+    "wof:lastmodified":1461906667,
+    "wof:name":"Alvin Truck & Tractor Repair",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tractor"
+    ]
+},
+  "bbox": [
+    -85.0192,
+    32.93581,
+    -85.0192,
+    32.93581
+],
+  "geometry": {"coordinates":[-85.0192,32.93581],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 739877903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.590897,34.027802,-84.590897,34.027802",
+    "geom:latitude":34.027802,
+    "geom:longitude":-84.590897,
+    "iso:country":"US",
+    "sg:address":"1360 Lockhart Dr NW",
+    "sg:city":"Kennesaw",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 422 4700",
+    "sg:postcode":"30144",
+    "sg:province":"GA",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85821545,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fyEOvUPpsOBr5zzLYCU1r_34.027802_-84.590897@1303262595"
+    },
+    "wof:country":"US",
+    "wof:created":1461918986,
+    "wof:geomhash":"bdaf9f3373dae21543fc263f6043c4fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85821545,
+            "region_id":85688535,
+            "venue_id":739877903
+        }
+    ],
+    "wof:id":739877903,
+    "wof:lastmodified":1461918986,
+    "wof:name":"Creekside Kennels",
+    "wof:parent_id":85821545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.590897,
+    34.027802,
+    -84.590897,
+    34.027802
+],
+  "geometry": {"coordinates":[-84.590897,34.027802],"type":"Point"}
+}

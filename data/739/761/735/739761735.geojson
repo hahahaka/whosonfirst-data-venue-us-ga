@@ -1,0 +1,87 @@
+{
+  "id": 739761735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.291971,33.916654,-84.291971,33.916654",
+    "geom:latitude":33.916654,
+    "geom:longitude":-84.291971,
+    "iso:country":"US",
+    "sg:address":"22 Perimeter Park Dr",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 457 7833",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "surgical",
+        "hospitalization",
+        "plan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        420559931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Qpd3n6alOiEUN3BbMD7FN_33.916204_-84.291249@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461914212,
+    "wof:geomhash":"1d4dbd02fad00b664cb2e4a567cb29b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":739761735
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":420559931,
+            "region_id":85688535,
+            "venue_id":739761735
+        }
+    ],
+    "wof:id":739761735,
+    "wof:lastmodified":1461914212,
+    "wof:name":"Vertex Surgical",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgical",
+        "hospitalization",
+        "plan"
+    ]
+},
+  "bbox": [
+    -84.291971,
+    33.916654,
+    -84.291971,
+    33.916654
+],
+  "geometry": {"coordinates":[-84.291971,33.916654],"type":"Point"}
+}

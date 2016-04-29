@@ -1,0 +1,82 @@
+{
+  "id": 739873225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.826103,34.06263,-84.826103,34.06263",
+    "geom:latitude":34.06263,
+    "geom:longitude":-84.826103,
+    "iso:country":"US",
+    "sg:address":"10852 Cartersville Hwy",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Recycling",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 505 2675",
+    "sg:postcode":"30132",
+    "sg:province":"GA",
+    "sg:tags":[
+        "rubbish",
+        "container",
+        "collection",
+        "garbage",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85835699,
+        102084665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kobtvij1aIO2Cwxdo5aqj_34.062630_-84.826103@1303262594"
+    },
+    "wof:country":"US",
+    "wof:created":1461918803,
+    "wof:geomhash":"e11433b6e2372efd7a9334c4bc299f52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "neighbourhood_id":85835699,
+            "region_id":85688535,
+            "venue_id":739873225
+        }
+    ],
+    "wof:id":739873225,
+    "wof:lastmodified":1461918803,
+    "wof:name":"Wilson Waste & Disposal",
+    "wof:parent_id":85835699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rubbish",
+        "container",
+        "collection",
+        "garbage",
+        "removal"
+    ]
+},
+  "bbox": [
+    -84.826103,
+    34.06263,
+    -84.826103,
+    34.06263
+],
+  "geometry": {"coordinates":[-84.826103,34.06263],"type":"Point"}
+}

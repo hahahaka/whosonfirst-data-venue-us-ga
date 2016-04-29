@@ -1,0 +1,87 @@
+{
+  "id": 740030583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.483179,34.694195,-84.483179,34.694195",
+    "geom:latitude":34.694195,
+    "geom:longitude":-84.483179,
+    "iso:country":"US",
+    "sg:address":"45 S Main St Ste 101",
+    "sg:city":"Ellijay",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 635 5337",
+    "sg:postcode":"30540",
+    "sg:province":"GA",
+    "sg:tags":[
+        "hair",
+        "perfume",
+        "salons-equipment",
+        "stylist",
+        "supply"
+    ],
+    "sg:website":"http://www.laguanasalon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936157,
+        102082325,
+        85859453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gNHDq9q3Z47sgOnYdjN5j_34.694195_-84.483179@1303262635"
+    },
+    "wof:country":"US",
+    "wof:created":1461925181,
+    "wof:geomhash":"5d1dfa21477d0135c1e3079fbbe3b363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082325,
+            "locality_id":85936157,
+            "neighbourhood_id":85859453,
+            "region_id":85688535,
+            "venue_id":740030583
+        }
+    ],
+    "wof:id":740030583,
+    "wof:lastmodified":1461925181,
+    "wof:name":"La Guana's Salon",
+    "wof:parent_id":85859453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "perfume",
+        "salons-equipment",
+        "stylist",
+        "supply"
+    ]
+},
+  "bbox": [
+    -84.483179,
+    34.694195,
+    -84.483179,
+    34.694195
+],
+  "geometry": {"coordinates":[-84.48317900000001,34.694195],"type":"Point"}
+}

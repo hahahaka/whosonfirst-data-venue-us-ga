@@ -1,0 +1,71 @@
+{
+  "id": 739643375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.025463,33.041735,-85.025463,33.041735",
+    "geom:latitude":33.041735,
+    "geom:longitude":-85.025463,
+    "iso:country":"US",
+    "sg:address":"118 Hill St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 884 0606",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MmlVR6O7Z7XdYccNnnoE5_33.041735_-85.025463@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461911328,
+    "wof:geomhash":"c0d16dea105fff12b3224717e8b97e22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739643375
+        }
+    ],
+    "wof:id":739643375,
+    "wof:lastmodified":1461911328,
+    "wof:name":"Bob's Pick Up & Delivery Svc",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -85.025463,
+    33.041735,
+    -85.025463,
+    33.041735
+],
+  "geometry": {"coordinates":[-85.025463,33.041735],"type":"Point"}
+}

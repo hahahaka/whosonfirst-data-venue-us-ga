@@ -1,0 +1,71 @@
+{
+  "id": 739823199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.655289,33.953892,-84.655289,33.953892",
+    "geom:latitude":33.953892,
+    "geom:longitude":-84.655289,
+    "iso:country":"US",
+    "sg:address":"3600 Dallas Hwy SW",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 426 1422",
+    "sg:postcode":"30064",
+    "sg:province":"GA",
+    "sg:tags":[
+        "grill",
+        "bar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QWGpSgUQ0jZ5jFnPR6PYO_33.953892_-84.655289@1303262581"
+    },
+    "wof:country":"US",
+    "wof:created":1461916827,
+    "wof:geomhash":"9e0396c3402bb264f79dc159163d9760",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739823199
+        }
+    ],
+    "wof:id":739823199,
+    "wof:lastmodified":1461916827,
+    "wof:name":"El Caporal",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grill",
+        "bar"
+    ]
+},
+  "bbox": [
+    -84.655289,
+    33.953892,
+    -84.655289,
+    33.953892
+],
+  "geometry": {"coordinates":[-84.655289,33.953892],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 740042407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.162779,33.558464,-82.162779,33.558464",
+    "geom:latitude":33.558464,
+    "geom:longitude":-82.162779,
+    "iso:country":"US",
+    "sg:address":"4755 Washington Rd",
+    "sg:city":"Evans",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 863 3778",
+    "sg:postcode":"30809",
+    "sg:province":"GA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BycAvN120c6GB5ShjDaIi_33.558464_-82.162779@1303262638"
+    },
+    "wof:country":"US",
+    "wof:created":1461925742,
+    "wof:geomhash":"95b5110d49dabb52bd865a3d834db113",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":740042407
+        }
+    ],
+    "wof:id":740042407,
+    "wof:lastmodified":1461925742,
+    "wof:name":"Dennis' Place",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.162779,
+    33.558464,
+    -82.162779,
+    33.558464
+],
+  "geometry": {"coordinates":[-82.162779,33.558464],"type":"Point"}
+}

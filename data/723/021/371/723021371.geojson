@@ -1,0 +1,71 @@
+{
+  "id": 723021371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.326008,30.897517,-83.326008,30.897517",
+    "geom:latitude":30.897517,
+    "geom:longitude":-83.326008,
+    "iso:country":"US",
+    "sg:address":"4007 US Hwy 41",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 333 0190",
+    "sg:postcode":"31602",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85815713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5B7OYBxgHROjbAhEmwAweO_30.897517_-83.326008@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461893401,
+    "wof:geomhash":"bfd47b570c4b7674795bb3633a488c3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85815713,
+            "region_id":85688535,
+            "venue_id":723021371
+        }
+    ],
+    "wof:id":723021371,
+    "wof:lastmodified":1461893401,
+    "wof:name":"Lowndes County Fire Dept",
+    "wof:parent_id":85815713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -83.326008,
+    30.897517,
+    -83.326008,
+    30.897517
+],
+  "geometry": {"coordinates":[-83.326008,30.897517],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 723399809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.326295,34.087103,-84.326295,34.087103",
+    "geom:latitude":34.087103,
+    "geom:longitude":-84.326295,
+    "iso:country":"US",
+    "sg:address":"1255 Mid Broadwell Rd",
+    "sg:city":"Alpharetta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 442 0078",
+    "sg:postcode":"30004",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937171,
+        102083603,
+        85803137,
+        85937153,
+        85851631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6698NpFa6YoYnZSHFLvBHs_34.087103_-84.326295@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900965,
+    "wof:geomhash":"14d1532594ab651e408829c58ae8ebbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937171,
+            "neighbourhood_id":85803137,
+            "region_id":85688535,
+            "venue_id":723399809
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937153,
+            "neighbourhood_id":85851631,
+            "region_id":85688535,
+            "venue_id":723399809
+        }
+    ],
+    "wof:id":723399809,
+    "wof:lastmodified":1461900965,
+    "wof:name":"American Physician Specialty",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.326295,
+    34.087103,
+    -84.326295,
+    34.087103
+],
+  "geometry": {"coordinates":[-84.326295,34.087103],"type":"Point"}
+}

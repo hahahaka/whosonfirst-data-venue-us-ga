@@ -1,0 +1,75 @@
+{
+  "id": 740033317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.290406,33.927293,-83.290406,33.927293",
+    "geom:latitude":33.927293,
+    "geom:longitude":-83.290406,
+    "iso:country":"US",
+    "sg:address":"4990 Lexington Rd",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 546 8282",
+    "sg:postcode":"30605",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936177,
+        102081713,
+        85817037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aj6YAD1YSTn69O8rqbteL_33.927293_-83.290406@1303262635"
+    },
+    "wof:country":"US",
+    "wof:created":1461925300,
+    "wof:geomhash":"5f30ced6e448e279252d5d147f9695ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081713,
+            "locality_id":85936177,
+            "neighbourhood_id":85817037,
+            "region_id":85688535,
+            "venue_id":740033317
+        }
+    ],
+    "wof:id":740033317,
+    "wof:lastmodified":1461925300,
+    "wof:name":"Athens Regional Veterinary Svc",
+    "wof:parent_id":85817037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -83.290406,
+    33.927293,
+    -83.290406,
+    33.927293
+],
+  "geometry": {"coordinates":[-83.290406,33.927293],"type":"Point"}
+}

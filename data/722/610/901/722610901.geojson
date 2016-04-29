@@ -1,0 +1,86 @@
+{
+  "id": 722610901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.089988,32.076946,-81.089988,32.076946",
+    "geom:latitude":32.076946,
+    "geom:longitude":-81.089988,
+    "iso:country":"US",
+    "sg:address":"205 E York St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 236 1325",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "mall",
+        "shopping",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85880901,
+        85880917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hSPtv4B7Gp0eSJWmM8t8c_32.076946_-81.089988@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461885190,
+    "wof:geomhash":"18b71926636d81ad5719d9f6192483d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880901,
+            "region_id":85688535,
+            "venue_id":722610901
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880917,
+            "region_id":85688535,
+            "venue_id":722610901
+        }
+    ],
+    "wof:id":722610901,
+    "wof:lastmodified":1461885190,
+    "wof:name":"Crossroads Shopping Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mall",
+        "shopping",
+        "center"
+    ]
+},
+  "bbox": [
+    -81.089988,
+    32.076946,
+    -81.089988,
+    32.076946
+],
+  "geometry": {"coordinates":[-81.08998800000001,32.076946],"type":"Point"}
+}

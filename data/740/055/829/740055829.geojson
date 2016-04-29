@@ -1,0 +1,81 @@
+{
+  "id": 740055829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.716031,32.743755,-83.716031,32.743755",
+    "geom:latitude":32.743755,
+    "geom:longitude":-83.716031,
+    "iso:country":"US",
+    "sg:address":"4397 Hartley Bridge Rd",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 788 3050",
+    "sg:postcode":"31216",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "hot",
+        "hamburger",
+        "dog"
+    ],
+    "sg:website":"http://www.wendys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85833479,
+        102084373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_029qgP3Z6YMewpuVy5PRaw_32.743755_-83.716031@1303262641"
+    },
+    "wof:country":"US",
+    "wof:created":1461926349,
+    "wof:geomhash":"76bce54aaa22b0e296859c35331527e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084373,
+            "neighbourhood_id":85833479,
+            "region_id":85688535,
+            "venue_id":740055829
+        }
+    ],
+    "wof:id":740055829,
+    "wof:lastmodified":1461926349,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85833479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "hot",
+        "hamburger",
+        "dog"
+    ]
+},
+  "bbox": [
+    -83.716031,
+    32.743755,
+    -83.716031,
+    32.743755
+],
+  "geometry": {"coordinates":[-83.716031,32.743755],"type":"Point"}
+}

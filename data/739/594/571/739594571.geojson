@@ -1,0 +1,71 @@
+{
+  "id": 739594571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.305164,30.879493,-83.305164,30.879493",
+    "geom:latitude":30.879493,
+    "geom:longitude":-83.305164,
+    "iso:country":"US",
+    "sg:address":"3207 Country Club Dr",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 244 9095",
+    "sg:postcode":"31602",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85815713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4E7keK3F8E0GYKTrek18ds_30.879493_-83.305164@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910288,
+    "wof:geomhash":"1f5ab03d3476ca106a558dde0e3b9544",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85815713,
+            "region_id":85688535,
+            "venue_id":739594571
+        }
+    ],
+    "wof:id":739594571,
+    "wof:lastmodified":1461910288,
+    "wof:name":"William R Grow MD",
+    "wof:parent_id":85815713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.305164,
+    30.879493,
+    -83.305164,
+    30.879493
+],
+  "geometry": {"coordinates":[-83.305164,30.879493],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 740000847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.29084,33.905209,-84.29084,33.905209",
+    "geom:latitude":33.905209,
+    "geom:longitude":-84.29084,
+    "iso:country":"US",
+    "sg:address":"2381 John Glenn Dr # 110",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 455 9504",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "seafood-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85936435,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12Js0D3ZsUv0EhP5EkU2C8_33.905209_-84.290840@1303262627"
+    },
+    "wof:country":"US",
+    "wof:created":1461923959,
+    "wof:geomhash":"08b7675a8fb06254f60585c903b92748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":740000847
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":740000847
+        }
+    ],
+    "wof:id":740000847,
+    "wof:lastmodified":1461923959,
+    "wof:name":"I O E Atlanta",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood-wholesale"
+    ]
+},
+  "bbox": [
+    -84.29084,
+    33.905209,
+    -84.29084,
+    33.905209
+],
+  "geometry": {"coordinates":[-84.29084,33.905209],"type":"Point"}
+}

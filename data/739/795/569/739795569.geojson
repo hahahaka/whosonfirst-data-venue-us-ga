@@ -1,0 +1,80 @@
+{
+  "id": 739795569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.255107,33.75708,-84.255107,33.75708",
+    "geom:latitude":33.75708,
+    "geom:longitude":-84.255107,
+    "iso:country":"US",
+    "sg:address":"3278 Beech Dr",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 284 0169",
+    "sg:postcode":"30032",
+    "sg:province":"GA",
+    "sg:tags":[
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937263,
+        102084539,
+        85890037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fW3yI6FeNZgFFLmrCuztf_33.757080_-84.255107@1303262574"
+    },
+    "wof:country":"US",
+    "wof:created":1461915587,
+    "wof:geomhash":"68eeeb8ed45bb8377df7f6261b8fe299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937263,
+            "neighbourhood_id":85890037,
+            "region_id":85688535,
+            "venue_id":739795569
+        }
+    ],
+    "wof:id":739795569,
+    "wof:lastmodified":1461915587,
+    "wof:name":"American Way Hauling",
+    "wof:parent_id":85890037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.255107,
+    33.75708,
+    -84.255107,
+    33.75708
+],
+  "geometry": {"coordinates":[-84.255107,33.75708],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 739766225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.577849,34.030479,-84.577849,34.030479",
+    "geom:latitude":34.030479,
+    "geom:longitude":-84.577849,
+    "iso:country":"US",
+    "sg:address":"3250 Barrett Lakes Blvd NW",
+    "sg:city":"Kennesaw",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/acworth-kennesaw/158723-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 428 4599",
+    "sg:postcode":"30144",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85821545,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KxPtzPhC2yc3K0hztVj0w_34.030479_-84.577849@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914389,
+    "wof:geomhash":"5a6bdb2e6b871013819d1c7df5e5dda3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85821545,
+            "region_id":85688535,
+            "venue_id":739766225
+        }
+    ],
+    "wof:id":739766225,
+    "wof:lastmodified":1461914389,
+    "wof:name":"Arby's",
+    "wof:parent_id":85821545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.577849,
+    34.030479,
+    -84.577849,
+    34.030479
+],
+  "geometry": {"coordinates":[-84.577849,34.030479],"type":"Point"}
+}

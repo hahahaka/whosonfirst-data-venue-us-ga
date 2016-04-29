@@ -1,0 +1,85 @@
+{
+  "id": 739831201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.211609,33.942446,-84.211609,33.942446",
+    "geom:latitude":33.942446,
+    "geom:longitude":-84.211609,
+    "iso:country":"US",
+    "sg:address":"65 Lawrenceville St",
+    "sg:city":"Norcross",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"City Hall",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 448 2122",
+    "sg:postcode":"30071",
+    "sg:province":"GA",
+    "sg:tags":[
+        "town",
+        "township",
+        "planner",
+        "government-city",
+        "village"
+    ],
+    "sg:website":"http://www.norcrosspd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BxjguiTB64MlvtwAIU1RR_33.942446_-84.211609@1303262583"
+    },
+    "wof:country":"US",
+    "wof:created":1461917125,
+    "wof:geomhash":"36c9ff9ae944089c1e09299998f2ae2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":739831201
+        }
+    ],
+    "wof:id":739831201,
+    "wof:lastmodified":1461917125,
+    "wof:name":"City Hall",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "town",
+        "township",
+        "planner",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -84.211609,
+    33.942446,
+    -84.211609,
+    33.942446
+],
+  "geometry": {"coordinates":[-84.211609,33.942446],"type":"Point"}
+}

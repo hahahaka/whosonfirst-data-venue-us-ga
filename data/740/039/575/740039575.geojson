@@ -1,0 +1,89 @@
+{
+  "id": 740039575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.988342,34.75222,-84.988342,34.75222",
+    "geom:latitude":34.75222,
+    "geom:longitude":-84.988342,
+    "iso:country":"US",
+    "sg:address":"1500 Rio Vista Dr",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 278 3470",
+    "sg:postcode":"30720",
+    "sg:province":"GA",
+    "sg:tags":[
+        "small",
+        "major",
+        "equipment-repair",
+        "appliances-small",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_284zB4TfW0P7ZoHD51gZAi_34.752220_-84.988342@1303262637"
+    },
+    "wof:country":"US",
+    "wof:created":1461925564,
+    "wof:geomhash":"4024e58e680730881078ae95c48fc205",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":740039575
+        }
+    ],
+    "wof:id":740039575,
+    "wof:lastmodified":1461925564,
+    "wof:name":"Greg Townsend Appliance",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "small",
+        "major",
+        "equipment-repair",
+        "appliances-small",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -84.988342,
+    34.75222,
+    -84.988342,
+    34.75222
+],
+  "geometry": {"coordinates":[-84.988342,34.75222],"type":"Point"}
+}

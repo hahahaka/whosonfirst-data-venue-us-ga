@@ -1,0 +1,73 @@
+{
+  "id": 723083789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.79011,30.791458,-83.79011,30.791458",
+    "geom:latitude":30.791458,
+    "geom:longitude":-83.79011,
+    "iso:country":"US",
+    "sg:address":"115 S Main St",
+    "sg:city":"Boston",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 498 2741",
+    "sg:postcode":"31626",
+    "sg:province":"GA",
+    "sg:tags":[
+        "bulb",
+        "seed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85833309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5faSA0qkhpNRmi1OillMno_30.791458_-83.790110@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461894790,
+    "wof:geomhash":"52c46231286126b9fe269bb4b8744bcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85833309,
+            "region_id":85688535,
+            "venue_id":723083789
+        }
+    ],
+    "wof:id":723083789,
+    "wof:lastmodified":1461894790,
+    "wof:name":"Boston Seed Co",
+    "wof:parent_id":85833309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulb",
+        "seed"
+    ]
+},
+  "bbox": [
+    -83.79011,
+    30.791458,
+    -83.79011,
+    30.791458
+],
+  "geometry": {"coordinates":[-83.79011,30.791458],"type":"Point"}
+}

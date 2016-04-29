@@ -1,0 +1,86 @@
+{
+  "id": 739900177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.799026,33.379027,-84.799026,33.379027",
+    "geom:latitude":33.379027,
+    "geom:longitude":-84.799026,
+    "iso:country":"US",
+    "sg:address":"56 Jefferson St",
+    "sg:city":"Newnan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 253 2802",
+    "sg:postcode":"30263",
+    "sg:province":"GA",
+    "sg:tags":[
+        "dentists-oral",
+        "physician",
+        "maxillofacial",
+        "surgeons",
+        "surgery",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936351,
+        102084443,
+        85833133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Bha9qiBNmXkihWT1j3yjy_33.379027_-84.799026@1303262601"
+    },
+    "wof:country":"US",
+    "wof:created":1461919831,
+    "wof:geomhash":"4d09a6f87a486f8de8be91d85906c2c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084443,
+            "locality_id":85936351,
+            "neighbourhood_id":85833133,
+            "region_id":85688535,
+            "venue_id":739900177
+        }
+    ],
+    "wof:id":739900177,
+    "wof:lastmodified":1461919831,
+    "wof:name":"Griffies Matthew G DMD",
+    "wof:parent_id":85833133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentists-oral",
+        "physician",
+        "maxillofacial",
+        "surgeons",
+        "surgery",
+        "oral"
+    ]
+},
+  "bbox": [
+    -84.799026,
+    33.379027,
+    -84.799026,
+    33.379027
+],
+  "geometry": {"coordinates":[-84.799026,33.379027],"type":"Point"}
+}

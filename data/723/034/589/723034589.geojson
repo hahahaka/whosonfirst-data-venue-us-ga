@@ -1,0 +1,76 @@
+{
+  "id": 723034589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.495324,33.906203,-84.495324,33.906203",
+    "geom:latitude":33.906203,
+    "geom:longitude":-84.495324,
+    "iso:country":"US",
+    "sg:address":"1905 Airport Ind Park Dr",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Painting Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 956 7508",
+    "sg:postcode":"30060",
+    "sg:province":"GA",
+    "sg:tags":[
+        "paint",
+        "auto"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85845875,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VKWgNpVZmIdWquEZaRuXt_33.906203_-84.495324@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461893697,
+    "wof:geomhash":"96d0b7a99ee039bfe46767f0492f1db2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":723034589
+        }
+    ],
+    "wof:id":723034589,
+    "wof:lastmodified":1461893697,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85845875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "auto"
+    ]
+},
+  "bbox": [
+    -84.495324,
+    33.906203,
+    -84.495324,
+    33.906203
+],
+  "geometry": {"coordinates":[-84.495324,33.906203],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 739772161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.75933,32.490072,-83.75933,32.490072",
+    "geom:latitude":32.490072,
+    "geom:longitude":-83.75933,
+    "iso:country":"US",
+    "sg:address":"322 Perry Pkwy",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/perry/80917-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 987 7272",
+    "sg:postcode":"31069",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45lbeUImjaz3sEOgAxUqoO_32.490072_-83.759330@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914628,
+    "wof:geomhash":"546ee9cfd698f7469068040c39fe596d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":739772161
+        }
+    ],
+    "wof:id":739772161,
+    "wof:lastmodified":1461914628,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.75933,
+    32.490072,
+    -83.75933,
+    32.490072
+],
+  "geometry": {"coordinates":[-83.75933000000001,32.490072],"type":"Point"}
+}

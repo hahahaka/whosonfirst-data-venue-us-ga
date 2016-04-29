@@ -1,0 +1,90 @@
+{
+  "id": 739943681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.38192,33.786496,-84.38192,33.786496",
+    "geom:latitude":33.786496,
+    "geom:longitude":-84.38192,
+    "iso:country":"US",
+    "sg:address":"173 14th St NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 318 1400",
+    "sg:postcode":"30309",
+    "sg:province":"GA",
+    "sg:tags":[
+        "ticket",
+        "sale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85866909,
+        85872127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4opMpId1E8Swsr9sNn0FIE_33.786496_-84.381920@1303262612"
+    },
+    "wof:country":"US",
+    "wof:created":1461921646,
+    "wof:geomhash":"458fb3665c38884aaeb8bbab628282ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85866909,
+            "region_id":85688535,
+            "venue_id":739943681
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872127,
+            "region_id":85688535,
+            "venue_id":739943681
+        }
+    ],
+    "wof:id":739943681,
+    "wof:lastmodified":1461921646,
+    "wof:name":"Atlantix Ticket Services",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ticket",
+        "sale"
+    ]
+},
+  "bbox": [
+    -84.38192,
+    33.786496,
+    -84.38192,
+    33.786496
+],
+  "geometry": {"coordinates":[-84.38191999999999,33.786496],"type":"Point"}
+}

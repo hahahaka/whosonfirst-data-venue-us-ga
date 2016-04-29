@@ -1,0 +1,71 @@
+{
+  "id": 739842239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.53619,33.888293,-84.53619,33.888293",
+    "geom:latitude":33.888293,
+    "geom:longitude":-84.53619,
+    "iso:country":"US",
+    "sg:address":"2650 S Cobb Dr SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 305 9090",
+    "sg:postcode":"30080",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shuttle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KZBkWBEZrOmCOmjzPttfb_33.888293_-84.536190@1303262586"
+    },
+    "wof:country":"US",
+    "wof:created":1461917581,
+    "wof:geomhash":"2541ae5fda21e7d00783329ba713020f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":739842239
+        }
+    ],
+    "wof:id":739842239,
+    "wof:lastmodified":1461917581,
+    "wof:name":"Amigo Taxi Cab",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle"
+    ]
+},
+  "bbox": [
+    -84.53619,
+    33.888293,
+    -84.53619,
+    33.888293
+],
+  "geometry": {"coordinates":[-84.53619,33.888293],"type":"Point"}
+}

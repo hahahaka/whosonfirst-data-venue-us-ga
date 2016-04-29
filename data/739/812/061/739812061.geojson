@@ -1,0 +1,78 @@
+{
+  "id": 739812061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.113036,33.910007,-84.113036,33.910007",
+    "geom:latitude":33.910007,
+    "geom:longitude":-84.113036,
+    "iso:country":"US",
+    "sg:address":"470 Pleasant Hill Rd NW",
+    "sg:city":"Lilburn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 923 7474",
+    "sg:postcode":"30047",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oH3ZBhST3Ji2ocbnLXse6_33.910007_-84.113036@1303262578"
+    },
+    "wof:country":"US",
+    "wof:created":1461916392,
+    "wof:geomhash":"2d7b55605a79eda9707799fe64653725",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":739812061
+        }
+    ],
+    "wof:id":739812061,
+    "wof:lastmodified":1461916392,
+    "wof:name":"Veterinary Management Group Llc",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.113036,
+    33.910007,
+    -84.113036,
+    33.910007
+],
+  "geometry": {"coordinates":[-84.11303599999999,33.910007],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 739824807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.57629,33.990843,-84.57629,33.990843",
+    "geom:latitude":33.990843,
+    "geom:longitude":-84.57629,
+    "iso:country":"US",
+    "sg:address":"800 Progressive Way",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 425 0015",
+    "sg:postcode":"30066",
+    "sg:province":"GA",
+    "sg:tags":[
+        "car",
+        "truck"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W0cyGchSOXUYDC4q9NZL8_33.990843_-84.576290@1303262581"
+    },
+    "wof:country":"US",
+    "wof:created":1461916883,
+    "wof:geomhash":"f9895dfa5bbb023bfe822f78d5ad5e5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739824807
+        }
+    ],
+    "wof:id":739824807,
+    "wof:lastmodified":1461916883,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "truck"
+    ]
+},
+  "bbox": [
+    -84.57629,
+    33.990843,
+    -84.57629,
+    33.990843
+],
+  "geometry": {"coordinates":[-84.57629,33.990843],"type":"Point"}
+}

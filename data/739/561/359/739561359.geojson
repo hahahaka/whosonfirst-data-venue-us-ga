@@ -1,0 +1,79 @@
+{
+  "id": 739561359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.546347,33.570389,-84.546347,33.570389",
+    "geom:latitude":33.570389,
+    "geom:longitude":-84.546347,
+    "iso:country":"US",
+    "sg:address":"4791 Jonesboro Rd",
+    "sg:city":"Union City",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 306 2233",
+    "sg:postcode":"30291",
+    "sg:province":"GA",
+    "sg:tags":[
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85848007,
+        102083603,
+        85937159,
+        85848001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2thYLyVrmP3Y2PooD99nrg_33.570389_-84.546347@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461909586,
+    "wof:geomhash":"1cdeebecd7880502f876dd9cd85d86ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85848007,
+            "region_id":85688535,
+            "venue_id":739561359
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937159,
+            "neighbourhood_id":85848001,
+            "region_id":85688535,
+            "venue_id":739561359
+        }
+    ],
+    "wof:id":739561359,
+    "wof:lastmodified":1461909586,
+    "wof:name":"Air Page",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication"
+    ]
+},
+  "bbox": [
+    -84.546347,
+    33.570389,
+    -84.546347,
+    33.570389
+],
+  "geometry": {"coordinates":[-84.546347,33.570389],"type":"Point"}
+}

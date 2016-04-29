@@ -1,0 +1,80 @@
+{
+  "id": 739843089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.537758,33.891972,-84.537758,33.891972",
+    "geom:latitude":33.891972,
+    "geom:longitude":-84.537758,
+    "iso:country":"US",
+    "sg:address":"2500 S Cobb Dr SE Ste C",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 434 9999",
+    "sg:postcode":"30080",
+    "sg:province":"GA",
+    "sg:tags":[
+        "chicken",
+        "mexican",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VY1ryJDlYX8iTg1mcffK9_33.891972_-84.537758@1303262586"
+    },
+    "wof:country":"US",
+    "wof:created":1461917616,
+    "wof:geomhash":"8fe84425c2d7e1cd784a7c0d43046e7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":739843089
+        }
+    ],
+    "wof:id":739843089,
+    "wof:lastmodified":1461917616,
+    "wof:name":"Wings Fiesta",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken",
+        "mexican",
+        "wing"
+    ]
+},
+  "bbox": [
+    -84.537758,
+    33.891972,
+    -84.537758,
+    33.891972
+],
+  "geometry": {"coordinates":[-84.537758,33.891972],"type":"Point"}
+}

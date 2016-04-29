@@ -1,0 +1,73 @@
+{
+  "id": 739864499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.601972,33.856013,-84.601972,33.856013",
+    "geom:latitude":33.856013,
+    "geom:longitude":-84.601972,
+    "iso:country":"US",
+    "sg:address":"1700 Hospital South Dr Ste 500",
+    "sg:city":"Austell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 941 7717",
+    "sg:postcode":"30106",
+    "sg:province":"GA",
+    "sg:tags":[
+        "obstetrician",
+        "gynecologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Tevu1h7Qv5B5o7Fl0FCIM_33.856013_-84.601972@1303262592"
+    },
+    "wof:country":"US",
+    "wof:created":1461918476,
+    "wof:geomhash":"67b78949a93cf4fbe80d0cd4b7a9dc07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":739864499
+        }
+    ],
+    "wof:id":739864499,
+    "wof:lastmodified":1461918476,
+    "wof:name":"South Cobb OB Gyn",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "obstetrician",
+        "gynecologist"
+    ]
+},
+  "bbox": [
+    -84.601972,
+    33.856013,
+    -84.601972,
+    33.856013
+],
+  "geometry": {"coordinates":[-84.601972,33.856013],"type":"Point"}
+}

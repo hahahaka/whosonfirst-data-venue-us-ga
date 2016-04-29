@@ -1,0 +1,76 @@
+{
+  "id": 739984657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.540247,33.759597,-84.540247,33.759597",
+    "geom:latitude":33.759597,
+    "geom:longitude":-84.540247,
+    "iso:country":"US",
+    "sg:address":"4707 Fulton Industrial Blvd SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 696 2026",
+    "sg:postcode":"30336",
+    "sg:province":"GA",
+    "sg:tags":[
+        "self",
+        "warehouses-public-commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85872053,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72L84hfZeSLaAmXqneWDGV_33.759597_-84.540247@1303262623"
+    },
+    "wof:country":"US",
+    "wof:created":1461923329,
+    "wof:geomhash":"a19b46af0bdbe637e32c0a0eca996884",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85872053,
+            "region_id":85688535,
+            "venue_id":739984657
+        }
+    ],
+    "wof:id":739984657,
+    "wof:lastmodified":1461923329,
+    "wof:name":"Fibre-Metal Atlanta",
+    "wof:parent_id":85872053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "warehouses-public-commercial"
+    ]
+},
+  "bbox": [
+    -84.540247,
+    33.759597,
+    -84.540247,
+    33.759597
+],
+  "geometry": {"coordinates":[-84.54024699999999,33.759597],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 723212553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.446907,34.454599,-84.446907,34.454599",
+    "geom:latitude":34.454599,
+    "geom:longitude":-84.446907,
+    "iso:country":"US",
+    "sg:address":"2985 Camp Rd",
+    "sg:city":"Jasper",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 253 8927",
+    "sg:postcode":"30143",
+    "sg:province":"GA",
+    "sg:tags":[
+        "county",
+        "govt",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85846359,
+        102083619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fNwoYFQ0sI60W8UVlHcKN_34.454599_-84.446907@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897319,
+    "wof:geomhash":"6e3788609d6810724e951869386b9601",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083619,
+            "neighbourhood_id":85846359,
+            "region_id":85688535,
+            "venue_id":723212553
+        }
+    ],
+    "wof:id":723212553,
+    "wof:lastmodified":1461897319,
+    "wof:name":"Pickens County Jail",
+    "wof:parent_id":85846359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "govt",
+        "institution"
+    ]
+},
+  "bbox": [
+    -84.446907,
+    34.454599,
+    -84.446907,
+    34.454599
+],
+  "geometry": {"coordinates":[-84.446907,34.454599],"type":"Point"}
+}

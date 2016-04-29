@@ -1,0 +1,71 @@
+{
+  "id": 739247393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.123338,33.942587,-84.123338,33.942587",
+    "geom:latitude":33.942587,
+    "geom:longitude":-84.123338,
+    "iso:country":"US",
+    "sg:address":"1500 Pleasant Hill Rd",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 925 4166",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wURbeaJWsPwFcocNzqHEK_33.942587_-84.123338@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461903424,
+    "wof:geomhash":"033688a0c4afc309e810d2c354d28e8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":739247393
+        }
+    ],
+    "wof:id":739247393,
+    "wof:lastmodified":1461903424,
+    "wof:name":"Eckerd",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -84.123338,
+    33.942587,
+    -84.123338,
+    33.942587
+],
+  "geometry": {"coordinates":[-84.123338,33.942587],"type":"Point"}
+}

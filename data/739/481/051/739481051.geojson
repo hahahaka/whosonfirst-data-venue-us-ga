@@ -1,0 +1,71 @@
+{
+  "id": 739481051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.569476,33.408205,-84.569476,33.408205",
+    "geom:latitude":33.408205,
+    "geom:longitude":-84.569476,
+    "iso:country":"US",
+    "sg:address":"105 N Peachtree Pkwy",
+    "sg:city":"Peachtree City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 631 2526",
+    "sg:postcode":"30269",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936021,
+        102081687,
+        85847943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cGU0E8DXODYj57BduqUOW_33.408205_-84.569476@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461908090,
+    "wof:geomhash":"e85f4269559c383c913ddabda4c5cbad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081687,
+            "locality_id":85936021,
+            "neighbourhood_id":85847943,
+            "region_id":85688535,
+            "venue_id":739481051
+        }
+    ],
+    "wof:id":739481051,
+    "wof:lastmodified":1461908090,
+    "wof:name":"Peachtree City Fire Dept",
+    "wof:parent_id":85847943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.569476,
+    33.408205,
+    -84.569476,
+    33.408205
+],
+  "geometry": {"coordinates":[-84.56947599999999,33.408205],"type":"Point"}
+}

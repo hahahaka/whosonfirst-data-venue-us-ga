@@ -1,0 +1,81 @@
+{
+  "id": 739859671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.078389,34.001373,-84.078389,34.001373",
+    "geom:latitude":34.001373,
+    "geom:longitude":-84.078389,
+    "iso:country":"US",
+    "sg:address":"1140 Old Peachtree Rd Ste A",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 622 2112",
+    "sg:postcode":"30097",
+    "sg:province":"GA",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KRz4QubRzMxs8uKpXRtu3_34.001373_-84.078389@1303262591"
+    },
+    "wof:country":"US",
+    "wof:created":1461918297,
+    "wof:geomhash":"c68e47208c93c6261f26a7dcf76fd3b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":739859671
+        }
+    ],
+    "wof:id":739859671,
+    "wof:lastmodified":1461918297,
+    "wof:name":"Discovery Point",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -84.078389,
+    34.001373,
+    -84.078389,
+    34.001373
+],
+  "geometry": {"coordinates":[-84.078389,34.001373],"type":"Point"}
+}

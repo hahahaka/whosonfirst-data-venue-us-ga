@@ -1,0 +1,74 @@
+{
+  "id": 739764127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.509348,33.99407,-84.509348,33.99407",
+    "geom:latitude":33.99407,
+    "geom:longitude":-84.509348,
+    "iso:country":"US",
+    "sg:address":"1860 Sandy Plains Rd",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/marietta/80815-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 565 3599",
+    "sg:postcode":"30066",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936135,
+        102082313,
+        85857049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ahyEjb8rSGJbB10XVOLbg_33.994070_-84.509348@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914304,
+    "wof:geomhash":"cf6b19d210d0ca15f20aaee2bf2c186f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936135,
+            "neighbourhood_id":85857049,
+            "region_id":85688535,
+            "venue_id":739764127
+        }
+    ],
+    "wof:id":739764127,
+    "wof:lastmodified":1461914304,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85857049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.509348,
+    33.99407,
+    -84.509348,
+    33.99407
+],
+  "geometry": {"coordinates":[-84.509348,33.99407],"type":"Point"}
+}

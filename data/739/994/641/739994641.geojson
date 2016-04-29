@@ -1,0 +1,84 @@
+{
+  "id": 739994641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.272308,33.90414,-84.272308,33.90414",
+    "geom:latitude":33.90414,
+    "geom:longitude":-84.272308,
+    "iso:country":"US",
+    "sg:address":"5597 Buford Hwy NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 451 4088",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "sg:tags":[
+        "toys-wholesale",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4A9EFvH9AGfBJVPibZyeis_33.904140_-84.272308@1303262625"
+    },
+    "wof:country":"US",
+    "wof:created":1461923729,
+    "wof:geomhash":"4579cc7f09a29cf3594cd14a653cfe35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":739994641
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":739994641
+        }
+    ],
+    "wof:id":739994641,
+    "wof:lastmodified":1461923729,
+    "wof:name":"E-Mart Wholesale",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "toys-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -84.272308,
+    33.90414,
+    -84.272308,
+    33.90414
+],
+  "geometry": {"coordinates":[-84.272308,33.90414],"type":"Point"}
+}

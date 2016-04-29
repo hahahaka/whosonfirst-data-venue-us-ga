@@ -1,0 +1,73 @@
+{
+  "id": 722925111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.830874,33.870689,-84.830874,33.870689",
+    "geom:latitude":33.870689,
+    "geom:longitude":-84.830874,
+    "iso:country":"US",
+    "sg:address":"267 King Henry Rd",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 853 8173",
+    "sg:postcode":"30157",
+    "sg:province":"GA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936335,
+        102084665,
+        85835843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cC8icPBB98ZcwGHW4cuPX_33.870689_-84.830874@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461891308,
+    "wof:geomhash":"5fe13ba835dc1ce4475090fb5916f78f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "locality_id":85936335,
+            "neighbourhood_id":85835843,
+            "region_id":85688535,
+            "venue_id":722925111
+        }
+    ],
+    "wof:id":722925111,
+    "wof:lastmodified":1461891308,
+    "wof:name":"Walters Electric",
+    "wof:parent_id":85835843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.830874,
+    33.870689,
+    -84.830874,
+    33.870689
+],
+  "geometry": {"coordinates":[-84.83087399999999,33.870689],"type":"Point"}
+}

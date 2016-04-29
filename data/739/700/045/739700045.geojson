@@ -1,0 +1,83 @@
+{
+  "id": 739700045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.114827,32.031149,-81.114827,32.031149",
+    "geom:latitude":32.031149,
+    "geom:longitude":-81.114827,
+    "iso:country":"US",
+    "sg:address":"5303 Montgomery St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 352 1354",
+    "sg:postcode":"31405",
+    "sg:province":"GA",
+    "sg:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ],
+    "sg:website":"www.gambro.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        420517339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7108dyOHunV68lBVRbazsv_32.031149_-81.114827@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461912564,
+    "wof:geomhash":"21e75394224bb302e7da634c8b3de4ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":420517339,
+            "region_id":85688535,
+            "venue_id":739700045
+        }
+    ],
+    "wof:id":739700045,
+    "wof:lastmodified":1461912564,
+    "wof:name":"Gambro Healthcare Inc",
+    "wof:parent_id":420517339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ]
+},
+  "bbox": [
+    -81.114827,
+    32.031149,
+    -81.114827,
+    32.031149
+],
+  "geometry": {"coordinates":[-81.11482700000001,32.031149],"type":"Point"}
+}

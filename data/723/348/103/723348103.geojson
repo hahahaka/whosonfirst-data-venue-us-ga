@@ -1,0 +1,71 @@
+{
+  "id": 723348103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.314118,30.858619,-83.314118,30.858619",
+    "geom:latitude":30.858619,
+    "geom:longitude":-83.314118,
+    "iso:country":"US",
+    "sg:address":"2311 Lakeview Dr",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 247 5064",
+    "sg:postcode":"31602",
+    "sg:province":"GA",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85814215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T3PMOkpjnolRDgJ4DLaGX_30.858619_-83.314118@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899962,
+    "wof:geomhash":"0903568343dce98abe698ebc43a084d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85814215,
+            "region_id":85688535,
+            "venue_id":723348103
+        }
+    ],
+    "wof:id":723348103,
+    "wof:lastmodified":1461899962,
+    "wof:name":"AAA Cleaning Service",
+    "wof:parent_id":85814215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -83.314118,
+    30.858619,
+    -83.314118,
+    30.858619
+],
+  "geometry": {"coordinates":[-83.31411799999999,30.858619],"type":"Point"}
+}

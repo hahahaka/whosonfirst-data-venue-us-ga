@@ -1,0 +1,80 @@
+{
+  "id": 739889587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.430287,33.456269,-84.430287,33.456269",
+    "geom:latitude":33.456269,
+    "geom:longitude":-84.430287,
+    "iso:country":"US",
+    "sg:address":"200A Robinson Dr",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 719 0101",
+    "sg:postcode":"30214",
+    "sg:province":"GA",
+    "sg:tags":[
+        "compressor",
+        "compressors-repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936019,
+        102081687,
+        85819123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_472P1paa1VDvqZAZppWtor_33.456269_-84.430287@1303262598"
+    },
+    "wof:country":"US",
+    "wof:created":1461919417,
+    "wof:geomhash":"ce3f9dd3f41d27adda0205499cdfb54c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081687,
+            "locality_id":85936019,
+            "neighbourhood_id":85819123,
+            "region_id":85688535,
+            "venue_id":739889587
+        }
+    ],
+    "wof:id":739889587,
+    "wof:lastmodified":1461919417,
+    "wof:name":"Green's Compressor Service",
+    "wof:parent_id":85819123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compressor",
+        "compressors-repair"
+    ]
+},
+  "bbox": [
+    -84.430287,
+    33.456269,
+    -84.430287,
+    33.456269
+],
+  "geometry": {"coordinates":[-84.43028700000001,33.456269],"type":"Point"}
+}

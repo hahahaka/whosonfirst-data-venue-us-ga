@@ -1,0 +1,71 @@
+{
+  "id": 723324857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.745487,33.907576,-84.745487,33.907576",
+    "geom:latitude":33.907576,
+    "geom:longitude":-84.745487,
+    "iso:country":"US",
+    "sg:address":"255 Cindy Ln",
+    "sg:city":"Hiram",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 439 4217",
+    "sg:postcode":"30141",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936335,
+        102084665,
+        85835843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oKAnw3K9K3zpfEixlfYw6_33.907576_-84.745487@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899538,
+    "wof:geomhash":"a07dbd8d11800af075c5867f0078b516",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "locality_id":85936335,
+            "neighbourhood_id":85835843,
+            "region_id":85688535,
+            "venue_id":723324857
+        }
+    ],
+    "wof:id":723324857,
+    "wof:lastmodified":1461899538,
+    "wof:name":"S&S Towing",
+    "wof:parent_id":85835843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -84.745487,
+    33.907576,
+    -84.745487,
+    33.907576
+],
+  "geometry": {"coordinates":[-84.745487,33.907576],"type":"Point"}
+}

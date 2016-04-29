@@ -1,0 +1,85 @@
+{
+  "id": 739860647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.126399,34.016181,-84.126399,34.016181",
+    "geom:latitude":34.016181,
+    "geom:longitude":-84.126399,
+    "iso:country":"US",
+    "sg:address":"2450 Chattahoochee Dr",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 476 2454",
+    "sg:postcode":"30097",
+    "sg:province":"GA",
+    "sg:tags":[
+        "maintenance",
+        "cleaners-interior"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936291,
+        102082967,
+        85845653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lo4BAkGBrskoemMpcEFT1_34.016181_-84.126399@1303262591"
+    },
+    "wof:country":"US",
+    "wof:created":1461918335,
+    "wof:geomhash":"099ae4cf36d5cc4510a0e775466292f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936291,
+            "neighbourhood_id":85845653,
+            "region_id":85688535,
+            "venue_id":739860647
+        }
+    ],
+    "wof:id":739860647,
+    "wof:lastmodified":1461918335,
+    "wof:name":"Duluth Maintenance Dept",
+    "wof:parent_id":85845653,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "cleaners-interior"
+    ]
+},
+  "bbox": [
+    -84.126399,
+    34.016181,
+    -84.126399,
+    34.016181
+],
+  "geometry": {"coordinates":[-84.12639900000001,34.016181],"type":"Point"}
+}

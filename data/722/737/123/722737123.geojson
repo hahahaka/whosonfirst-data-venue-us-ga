@@ -1,0 +1,75 @@
+{
+  "id": 722737123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.096383,32.029404,-81.096383,32.029404",
+    "geom:latitude":32.029404,
+    "geom:longitude":-81.096383,
+    "iso:country":"US",
+    "sg:address":"5001 Paulsen St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 355 9786",
+    "sg:postcode":"31405",
+    "sg:province":"GA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85880913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PLMSPKr7EaevOQQ7z70Fv_32.029404_-81.096383@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461887686,
+    "wof:geomhash":"f1b02d5338ecfda1ee2d60e2f912373e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880913,
+            "region_id":85688535,
+            "venue_id":722737123
+        }
+    ],
+    "wof:id":722737123,
+    "wof:lastmodified":1461887686,
+    "wof:name":"Murray Plumbing Inc",
+    "wof:parent_id":85880913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.096383,
+    32.029404,
+    -81.096383,
+    32.029404
+],
+  "geometry": {"coordinates":[-81.096383,32.029404],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 739887857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.533092,33.557932,-84.533092,33.557932",
+    "geom:latitude":33.557932,
+    "geom:longitude":-84.533092,
+    "iso:country":"US",
+    "sg:address":"7320 Oakley Industrial Blvd",
+    "sg:city":"Fairburn",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 306 3430",
+    "sg:postcode":"30213",
+    "sg:province":"GA",
+    "sg:tags":[
+        "self",
+        "warehouses-public-commercial"
+    ],
+    "sg:website":"http://www.exellogistics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85848007,
+        102083603,
+        85937159,
+        85848001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46yMofP7DKnRrJpR5kNtFe_33.557932_-84.533092@1303262598"
+    },
+    "wof:country":"US",
+    "wof:created":1461919358,
+    "wof:geomhash":"5fe7ff9570324df4897b675ebef2445c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85848007,
+            "region_id":85688535,
+            "venue_id":739887857
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937159,
+            "neighbourhood_id":85848001,
+            "region_id":85688535,
+            "venue_id":739887857
+        }
+    ],
+    "wof:id":739887857,
+    "wof:lastmodified":1461919358,
+    "wof:name":"Exel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "warehouses-public-commercial"
+    ]
+},
+  "bbox": [
+    -84.533092,
+    33.557932,
+    -84.533092,
+    33.557932
+],
+  "geometry": {"coordinates":[-84.533092,33.557932],"type":"Point"}
+}

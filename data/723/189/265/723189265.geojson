@@ -1,0 +1,71 @@
+{
+  "id": 723189265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.689546,30.796664,-81.689546,30.796664",
+    "geom:latitude":30.796664,
+    "geom:longitude":-81.689546,
+    "iso:country":"US",
+    "sg:address":"503 S Lee St",
+    "sg:city":"Kingsland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 673 8221",
+    "sg:postcode":"31548",
+    "sg:province":"GA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937043,
+        102081693,
+        85812807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Pm1SqO4Jq2G1o8Fw6mVkO_30.796664_-81.689546@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896866,
+    "wof:geomhash":"946c70fb82d8725ccffe826a1aa5c96d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081693,
+            "locality_id":85937043,
+            "neighbourhood_id":85812807,
+            "region_id":85688535,
+            "venue_id":723189265
+        }
+    ],
+    "wof:id":723189265,
+    "wof:lastmodified":1461896866,
+    "wof:name":"AAA Transmissions",
+    "wof:parent_id":85812807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -81.689546,
+    30.796664,
+    -81.689546,
+    30.796664
+],
+  "geometry": {"coordinates":[-81.68954600000001,30.796664],"type":"Point"}
+}

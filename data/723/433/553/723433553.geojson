@@ -1,0 +1,71 @@
+{
+  "id": 723433553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.883339,32.545851,-83.883339,32.545851",
+    "geom:latitude":32.545851,
+    "geom:longitude":-83.883339,
+    "iso:country":"US",
+    "sg:address":"700 Spruce St",
+    "sg:city":"Fort Valley",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 825 2060",
+    "sg:postcode":"31030",
+    "sg:province":"GA",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936251,
+        102082339,
+        85840991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pk63BVH0zMIj8EU3F86V2_32.545851_-83.883339@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901630,
+    "wof:geomhash":"8b22496f0138d65ab8c35986f99afc42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082339,
+            "locality_id":85936251,
+            "neighbourhood_id":85840991,
+            "region_id":85688535,
+            "venue_id":723433553
+        }
+    ],
+    "wof:id":723433553,
+    "wof:lastmodified":1461901630,
+    "wof:name":"Peach County Magistrate Court",
+    "wof:parent_id":85840991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -83.883339,
+    32.545851,
+    -83.883339,
+    32.545851
+],
+  "geometry": {"coordinates":[-83.88333900000001,32.545851],"type":"Point"}
+}

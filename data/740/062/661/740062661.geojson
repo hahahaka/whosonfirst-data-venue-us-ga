@@ -1,0 +1,83 @@
+{
+  "id": 740062661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.495343,31.149136,-81.495343,31.149136",
+    "geom:latitude":31.149136,
+    "geom:longitude":-81.495343,
+    "iso:country":"US",
+    "sg:address":"1505 Newcastle St",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 264 1730",
+    "sg:postcode":"31520",
+    "sg:province":"GA",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"https://www.wachovia.com/?DCMP=KNL-CPS-DS-Directory-0703&HBX_PK=Banks&HBX_OU=71",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85822091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MeOlGQBeRrdYEpz6wk1nh_31.149136_-81.495343@1303262643"
+    },
+    "wof:country":"US",
+    "wof:created":1461926644,
+    "wof:geomhash":"8b4ddbc5d26cd7b39fbe86b0a6ab5269",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85822091,
+            "region_id":85688535,
+            "venue_id":740062661
+        }
+    ],
+    "wof:id":740062661,
+    "wof:lastmodified":1461926644,
+    "wof:name":"Wachovia Bank",
+    "wof:parent_id":85822091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -81.495343,
+    31.149136,
+    -81.495343,
+    31.149136
+],
+  "geometry": {"coordinates":[-81.49534300000001,31.149136],"type":"Point"}
+}

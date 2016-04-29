@@ -1,0 +1,83 @@
+{
+  "id": 740018401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.274837,33.924421,-84.274837,33.924421",
+    "geom:latitude":33.924421,
+    "geom:longitude":-84.274837,
+    "iso:country":"US",
+    "sg:address":"2707 Peachtree Sq",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 530 0034",
+    "sg:postcode":"30360",
+    "sg:province":"GA",
+    "sg:tags":[
+        "marketing"
+    ],
+    "sg:website":"www.ddirect.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xbMLXmFba4F2M5BgWPh8G_33.924421_-84.274837@1303262632"
+    },
+    "wof:country":"US",
+    "wof:created":1461924636,
+    "wof:geomhash":"a08d9b70567205aae8e960a3b4d34d61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":740018401
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":740018401
+        }
+    ],
+    "wof:id":740018401,
+    "wof:lastmodified":1461924636,
+    "wof:name":"Datadirect",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marketing"
+    ]
+},
+  "bbox": [
+    -84.274837,
+    33.924421,
+    -84.274837,
+    33.924421
+],
+  "geometry": {"coordinates":[-84.27483700000001,33.924421],"type":"Point"}
+}

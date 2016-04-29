@@ -1,0 +1,73 @@
+{
+  "id": 722649529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.937809,34.480707,-84.937809,34.480707",
+    "geom:latitude":34.480707,
+    "geom:longitude":-84.937809,
+    "iso:country":"US",
+    "sg:address":"1131 S Wall St",
+    "sg:city":"Calhoun",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 629 7264",
+    "sg:postcode":"30701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936609,
+        102084679,
+        85817247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mpJWzuZfaMwVoCMg9q3am_34.480707_-84.937809@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886011,
+    "wof:geomhash":"b0bf506d39e84b3c1f6bacfe2a86032f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084679,
+            "locality_id":85936609,
+            "neighbourhood_id":85817247,
+            "region_id":85688535,
+            "venue_id":722649529
+        }
+    ],
+    "wof:id":722649529,
+    "wof:lastmodified":1461886011,
+    "wof:name":"Proctor Garage & Wrecker Svc",
+    "wof:parent_id":85817247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.937809,
+    34.480707,
+    -84.937809,
+    34.480707
+],
+  "geometry": {"coordinates":[-84.937809,34.480707],"type":"Point"}
+}

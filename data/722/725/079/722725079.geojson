@@ -1,0 +1,71 @@
+{
+  "id": 722725079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.540026,33.907139,-84.540026,33.907139",
+    "geom:latitude":33.907139,
+    "geom:longitude":-84.540026,
+    "iso:country":"US",
+    "sg:address":"1868 Old Concord Rd SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 309 0057",
+    "sg:postcode":"30080",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85845875,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pZWUGfoEahMBev6K9Kkog_33.907139_-84.540026@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461887436,
+    "wof:geomhash":"2fcde13002c998fae7150f3e42d14936",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":722725079
+        }
+    ],
+    "wof:id":722725079,
+    "wof:lastmodified":1461887436,
+    "wof:name":"Millwood Auto Svc",
+    "wof:parent_id":85845875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.540026,
+    33.907139,
+    -84.540026,
+    33.907139
+],
+  "geometry": {"coordinates":[-84.540026,33.907139],"type":"Point"}
+}

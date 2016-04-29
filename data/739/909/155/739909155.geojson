@@ -1,0 +1,76 @@
+{
+  "id": 739909155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.229258,33.653599,-84.229258,33.653599",
+    "geom:latitude":33.653599,
+    "geom:longitude":-84.229258,
+    "iso:country":"US",
+    "sg:address":"4257 Holly Hill Blvd",
+    "sg:city":"Ellenwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 644 3720",
+    "sg:postcode":"30294",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shuttle",
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85816491,
+        102084539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46rJ9TPSRT9Y3xvRBhitmw_33.653599_-84.229258@1303262604"
+    },
+    "wof:country":"US",
+    "wof:created":1461920165,
+    "wof:geomhash":"b05e8a627aeb0106db1e4b2b9e99c559",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739909155
+        }
+    ],
+    "wof:id":739909155,
+    "wof:lastmodified":1461920165,
+    "wof:name":"Bradley's Limousine",
+    "wof:parent_id":85816491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "limousine"
+    ]
+},
+  "bbox": [
+    -84.229258,
+    33.653599,
+    -84.229258,
+    33.653599
+],
+  "geometry": {"coordinates":[-84.229258,33.653599],"type":"Point"}
+}

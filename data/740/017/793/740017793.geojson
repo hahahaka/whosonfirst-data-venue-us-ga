@@ -1,0 +1,84 @@
+{
+  "id": 740017793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.278618,33.924685,-84.278618,33.924685",
+    "geom:latitude":33.924685,
+    "geom:longitude":-84.278618,
+    "iso:country":"US",
+    "sg:address":"6487 Peachtree Industrial Blvd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 478 4372",
+    "sg:postcode":"30360",
+    "sg:province":"GA",
+    "sg:tags":[
+        "recording",
+        "service-sound"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39laDYiRnJeuiCQfjEPzJm_33.924685_-84.278618@1303262631"
+    },
+    "wof:country":"US",
+    "wof:created":1461924609,
+    "wof:geomhash":"c8e9d760e966cf993c3c3fbf84fa0267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":740017793
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":740017793
+        }
+    ],
+    "wof:id":740017793,
+    "wof:lastmodified":1461924609,
+    "wof:name":"ESP Studios",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recording",
+        "service-sound"
+    ]
+},
+  "bbox": [
+    -84.278618,
+    33.924685,
+    -84.278618,
+    33.924685
+],
+  "geometry": {"coordinates":[-84.27861799999999,33.924685],"type":"Point"}
+}

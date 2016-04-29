@@ -1,0 +1,86 @@
+{
+  "id": 740074255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.921167,32.482452,-84.921167,32.482452",
+    "geom:latitude":32.482452,
+    "geom:longitude":-84.921167,
+    "iso:country":"US",
+    "sg:address":"2107 Avalon Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Recreational Vehicle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 890 4156",
+    "sg:postcode":"31907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automotive",
+        "diagnostic",
+        "automobile",
+        "tune",
+        "equipment-service"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        420518089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ILe3I8h4AN41qxqP7fDqi_32.482452_-84.921167@1303262646"
+    },
+    "wof:country":"US",
+    "wof:created":1461927149,
+    "wof:geomhash":"62c20943281fbcf47586fe9ea53e9b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":420518089,
+            "region_id":85688535,
+            "venue_id":740074255
+        }
+    ],
+    "wof:id":740074255,
+    "wof:lastmodified":1461927149,
+    "wof:name":"Raymond's Repairs",
+    "wof:parent_id":420518089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "diagnostic",
+        "automobile",
+        "tune",
+        "equipment-service"
+    ]
+},
+  "bbox": [
+    -84.921167,
+    32.482452,
+    -84.921167,
+    32.482452
+],
+  "geometry": {"coordinates":[-84.921167,32.482452],"type":"Point"}
+}

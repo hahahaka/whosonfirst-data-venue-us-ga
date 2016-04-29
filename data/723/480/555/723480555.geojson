@@ -1,0 +1,73 @@
+{
+  "id": 723480555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.799371,33.370056,-84.799371,33.370056",
+    "geom:latitude":33.370056,
+    "geom:longitude":-84.799371,
+    "iso:country":"US",
+    "sg:address":"65 Greenville St S",
+    "sg:city":"Newnan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 253 3010",
+    "sg:postcode":"30263",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936351,
+        102084443,
+        85833133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ztao8zWYo8ZVbmJM2SnkB_33.370056_-84.799371@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461902550,
+    "wof:geomhash":"816ac4cd562e670a7f56180d06862433",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084443,
+            "locality_id":85936351,
+            "neighbourhood_id":85833133,
+            "region_id":85688535,
+            "venue_id":723480555
+        }
+    ],
+    "wof:id":723480555,
+    "wof:lastmodified":1461902550,
+    "wof:name":"Classic Cleaners",
+    "wof:parent_id":85833133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -84.799371,
+    33.370056,
+    -84.799371,
+    33.370056
+],
+  "geometry": {"coordinates":[-84.79937099999999,33.370056],"type":"Point"}
+}

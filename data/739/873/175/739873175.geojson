@@ -1,0 +1,78 @@
+{
+  "id": 739873175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.840334,33.921789,-84.840334,33.921789",
+    "geom:latitude":33.921789,
+    "geom:longitude":-84.840334,
+    "iso:country":"US",
+    "sg:address":"403 Main St",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 445 0130",
+    "sg:postcode":"30132",
+    "sg:province":"GA",
+    "sg:tags":[
+        "churches-baptist-general",
+        "churches-baptist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936335,
+        102084665,
+        85835843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Iuhfv3HdIhdlbZak7WAxp_33.921789_-84.840334@1303262594"
+    },
+    "wof:country":"US",
+    "wof:created":1461918801,
+    "wof:geomhash":"d643458592519051bf504a7cf2680b36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "locality_id":85936335,
+            "neighbourhood_id":85835843,
+            "region_id":85688535,
+            "venue_id":739873175
+        }
+    ],
+    "wof:id":739873175,
+    "wof:lastmodified":1461918801,
+    "wof:name":"First Baptist Church Of Dallas",
+    "wof:parent_id":85835843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-baptist-general",
+        "churches-baptist"
+    ]
+},
+  "bbox": [
+    -84.840334,
+    33.921789,
+    -84.840334,
+    33.921789
+],
+  "geometry": {"coordinates":[-84.840334,33.921789],"type":"Point"}
+}

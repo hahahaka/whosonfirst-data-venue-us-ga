@@ -1,0 +1,73 @@
+{
+  "id": 723317699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.003397,34.78299,-85.003397,34.78299",
+    "geom:latitude":34.78299,
+    "geom:longitude":-85.003397,
+    "iso:country":"US",
+    "sg:address":"100 Park Canyon Dr",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 226 6054",
+    "sg:postcode":"30720",
+    "sg:province":"GA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jh3xr3Dw4tVtNBL2xVC4C_34.782990_-85.003397@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899409,
+    "wof:geomhash":"c5f7569af315ae59f990079d91760adb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":723317699
+        }
+    ],
+    "wof:id":723317699,
+    "wof:lastmodified":1461899409,
+    "wof:name":"Park Canyons Apartments",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.003397,
+    34.78299,
+    -85.003397,
+    34.78299
+],
+  "geometry": {"coordinates":[-85.00339700000001,34.78299],"type":"Point"}
+}

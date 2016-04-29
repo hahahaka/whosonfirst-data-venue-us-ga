@@ -1,0 +1,90 @@
+{
+  "id": 722539851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.311493,33.720107,-84.311493,33.720107",
+    "geom:latitude":33.720107,
+    "geom:longitude":-84.311493,
+    "iso:country":"US",
+    "sg:address":"2345 Flat Shoals Rd SE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 212 0249",
+    "sg:postcode":"30316",
+    "sg:province":"GA",
+    "sg:tags":[
+        "station",
+        "gasoline",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937253,
+        102084539,
+        85866911,
+        85816491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3X19AVX9wHoWa8d7EK6rY6_33.720107_-84.311493@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461883799,
+    "wof:geomhash":"ee088130a125c5e8c388eb6cf6bf8e8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937253,
+            "neighbourhood_id":85866911,
+            "region_id":85688535,
+            "venue_id":722539851
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":722539851
+        }
+    ],
+    "wof:id":722539851,
+    "wof:lastmodified":1461883799,
+    "wof:name":"Phillips 66 Food Mart",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline",
+        "oil"
+    ]
+},
+  "bbox": [
+    -84.311493,
+    33.720107,
+    -84.311493,
+    33.720107
+],
+  "geometry": {"coordinates":[-84.311493,33.720107],"type":"Point"}
+}

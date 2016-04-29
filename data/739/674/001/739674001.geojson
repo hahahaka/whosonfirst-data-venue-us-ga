@@ -1,0 +1,73 @@
+{
+  "id": 739674001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.051248,33.835423,-84.051248,33.835423",
+    "geom:latitude":33.835423,
+    "geom:longitude":-84.051248,
+    "iso:country":"US",
+    "sg:address":"3044 Wildflower Ln",
+    "sg:city":"Snellville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 985 8874",
+    "sg:postcode":"30039",
+    "sg:province":"GA",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936303,
+        102082967,
+        85857829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JMrBZoVCSSvMzZGeDS35c_33.835423_-84.051248@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461912028,
+    "wof:geomhash":"a61275572d3ce6b482bac35f650efb69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936303,
+            "neighbourhood_id":85857829,
+            "region_id":85688535,
+            "venue_id":739674001
+        }
+    ],
+    "wof:id":739674001,
+    "wof:lastmodified":1461912028,
+    "wof:name":"Locktech Security Svc Inc",
+    "wof:parent_id":85857829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -84.051248,
+    33.835423,
+    -84.051248,
+    33.835423
+],
+  "geometry": {"coordinates":[-84.051248,33.835423],"type":"Point"}
+}

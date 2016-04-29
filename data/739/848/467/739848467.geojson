@@ -1,0 +1,80 @@
+{
+  "id": 739848467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.198662,33.838276,-84.198662,33.838276",
+    "geom:latitude":33.838276,
+    "geom:longitude":-84.198662,
+    "iso:country":"US",
+    "sg:address":"1878 Forge St",
+    "sg:city":"Tucker",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 270 6433",
+    "sg:postcode":"30084",
+    "sg:province":"GA",
+    "sg:tags":[
+        "cargo",
+        "container"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937263,
+        102084539,
+        85890037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lGqov5IePnVLM079QcNpu_33.838276_-84.198662@1303262588"
+    },
+    "wof:country":"US",
+    "wof:created":1461917839,
+    "wof:geomhash":"ec354a4153ca32a8e36691654cb5d0d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937263,
+            "neighbourhood_id":85890037,
+            "region_id":85688535,
+            "venue_id":739848467
+        }
+    ],
+    "wof:id":739848467,
+    "wof:lastmodified":1461917839,
+    "wof:name":"Global Liners Inc",
+    "wof:parent_id":85890037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "container"
+    ]
+},
+  "bbox": [
+    -84.198662,
+    33.838276,
+    -84.198662,
+    33.838276
+],
+  "geometry": {"coordinates":[-84.198662,33.838276],"type":"Point"}
+}

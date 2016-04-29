@@ -1,0 +1,72 @@
+{
+  "id": 739965047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.44304,33.64612,-84.44304,33.64612",
+    "geom:latitude":33.64612,
+    "geom:longitude":-84.44304,
+    "iso:country":"US",
+    "sg:address":"6000 N Terminal Pkwy Ste 435",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Passenger",
+            "type":"Transportation"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 530 6674",
+    "sg:postcode":"30320",
+    "sg:province":"GA",
+    "sg:website":"www.atlanta-airport.com/Default....",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526927,
+        85688535,
+        85633793,
+        102082333,
+        85815707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MXT9isMc2vWrrM8kEumEt_33.646120_-84.443040@1303262617"
+    },
+    "wof:country":"US",
+    "wof:created":1461922564,
+    "wof:geomhash":"e3fe549ec539d5edb73cb1311ed72c3a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526927,
+            "country_id":85633793,
+            "county_id":102082333,
+            "neighbourhood_id":85815707,
+            "region_id":85688535,
+            "venue_id":739965047
+        }
+    ],
+    "wof:id":739965047,
+    "wof:lastmodified":1461922564,
+    "wof:name":"Airport Park & Ride",
+    "wof:parent_id":102526927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.44304,
+    33.64612,
+    -84.44304,
+    33.64612
+],
+  "geometry": {"coordinates":[-84.44304,33.64612],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 739433299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.029281,32.997085,-85.029281,32.997085",
+    "geom:latitude":32.997085,
+    "geom:longitude":-85.029281,
+    "iso:country":"US",
+    "sg:address":"2201 Whitesville St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Dairy",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 884 9114",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3N3Uv3OTvKQfbocXTW1QuF_32.997085_-85.029281@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907230,
+    "wof:geomhash":"c3351fbee02bb2d0a4b23b72d343a890",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739433299
+        }
+    ],
+    "wof:id":739433299,
+    "wof:lastmodified":1461907230,
+    "wof:name":"LA Grange Dairy Products",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -85.029281,
+    32.997085,
+    -85.029281,
+    32.997085
+],
+  "geometry": {"coordinates":[-85.029281,32.997085],"type":"Point"}
+}

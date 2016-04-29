@@ -1,0 +1,71 @@
+{
+  "id": 723135125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.954447,30.855244,-83.954447,30.855244",
+    "geom:latitude":30.855244,
+    "geom:longitude":-83.954447,
+    "iso:country":"US",
+    "sg:address":"1524 E Jackson St",
+    "sg:city":"Thomasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 228 1058",
+    "sg:postcode":"31792",
+    "sg:province":"GA",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85833309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46qUhSLpTEeeA5YNT0SiKB_30.855244_-83.954447@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461895795,
+    "wof:geomhash":"e35a018cd4a053d5ba9be45d65365d50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85833309,
+            "region_id":85688535,
+            "venue_id":723135125
+        }
+    ],
+    "wof:id":723135125,
+    "wof:lastmodified":1461895795,
+    "wof:name":"Water Works Car Wash",
+    "wof:parent_id":85833309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -83.954447,
+    30.855244,
+    -83.954447,
+    30.855244
+],
+  "geometry": {"coordinates":[-83.954447,30.855244],"type":"Point"}
+}

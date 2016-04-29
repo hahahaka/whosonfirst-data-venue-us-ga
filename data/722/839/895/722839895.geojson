@@ -1,0 +1,76 @@
+{
+  "id": 722839895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.748913,33.951927,-84.748913,33.951927",
+    "geom:latitude":33.951927,
+    "geom:longitude":-84.748913,
+    "iso:country":"US",
+    "sg:address":"103 Laurel Ct",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 363 0270",
+    "sg:postcode":"30157",
+    "sg:province":"GA",
+    "sg:tags":[
+        "development",
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85835699,
+        102084665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54DdiTyklEC6t3wE5vdViB_33.951927_-84.748913@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461889626,
+    "wof:geomhash":"db053527c01ab9b8dfcab1af5ba0344e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "neighbourhood_id":85835699,
+            "region_id":85688535,
+            "venue_id":722839895
+        }
+    ],
+    "wof:id":722839895,
+    "wof:lastmodified":1461889626,
+    "wof:name":"Blue Ridge Park",
+    "wof:parent_id":85835699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "parks"
+    ]
+},
+  "bbox": [
+    -84.748913,
+    33.951927,
+    -84.748913,
+    33.951927
+],
+  "geometry": {"coordinates":[-84.748913,33.951927],"type":"Point"}
+}

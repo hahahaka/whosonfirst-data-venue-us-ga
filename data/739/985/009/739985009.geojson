@@ -1,0 +1,73 @@
+{
+  "id": 739985009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.526001,33.77459,-84.526001,33.77459",
+    "geom:latitude":33.77459,
+    "geom:longitude":-84.526001,
+    "iso:country":"US",
+    "sg:address":"4240 Martin Luther King Jr Dr SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 696 9356",
+    "sg:postcode":"30336",
+    "sg:province":"GA",
+    "sg:tags":[
+        "supply",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937189,
+        102082313,
+        85809641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Z58ONOESqWMCC7UsnEfaE_33.774590_-84.526001@1303262623"
+    },
+    "wof:country":"US",
+    "wof:created":1461923347,
+    "wof:geomhash":"7dfe4c880b9635ff614c7021eb958d4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85937189,
+            "neighbourhood_id":85809641,
+            "region_id":85688535,
+            "venue_id":739985009
+        }
+    ],
+    "wof:id":739985009,
+    "wof:lastmodified":1461923347,
+    "wof:name":"Future Rental Service",
+    "wof:parent_id":85809641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.526001,
+    33.77459,
+    -84.526001,
+    33.77459
+],
+  "geometry": {"coordinates":[-84.52600099999999,33.77459],"type":"Point"}
+}

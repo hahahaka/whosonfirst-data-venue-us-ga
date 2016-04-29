@@ -1,0 +1,71 @@
+{
+  "id": 739602743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.386752,31.830685,-81.386752,31.830685",
+    "geom:latitude":31.830685,
+    "geom:longitude":-81.386752,
+    "iso:country":"US",
+    "sg:address":"124 Lake Dr",
+    "sg:city":"Midway",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 884 2090",
+    "sg:postcode":"31320",
+    "sg:province":"GA",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936767,
+        102082901,
+        85820995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3q4Nh4SCUgpKqjzhLx00vG_31.830685_-81.386752@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910468,
+    "wof:geomhash":"77838ccc5aba9587b116e24bb208429f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082901,
+            "locality_id":85936767,
+            "neighbourhood_id":85820995,
+            "region_id":85688535,
+            "venue_id":739602743
+        }
+    ],
+    "wof:id":739602743,
+    "wof:lastmodified":1461910468,
+    "wof:name":"Davis Painting",
+    "wof:parent_id":85820995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -81.386752,
+    31.830685,
+    -81.386752,
+    31.830685
+],
+  "geometry": {"coordinates":[-81.386752,31.830685],"type":"Point"}
+}

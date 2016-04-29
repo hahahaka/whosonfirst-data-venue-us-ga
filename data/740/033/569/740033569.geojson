@@ -1,0 +1,94 @@
+{
+  "id": 740033569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.31405,33.934198,-83.31405,33.934198",
+    "geom:latitude":33.934198,
+    "geom:longitude":-83.31405,
+    "iso:country":"US",
+    "sg:address":"4310 Lexington Rd",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 542 9233",
+    "sg:postcode":"30605",
+    "sg:province":"GA",
+    "sg:tags":[
+        "government-state",
+        "soil",
+        "water",
+        "conservation",
+        "treatment",
+        "waste"
+    ],
+    "sg:website":"http://www.gaswcc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936177,
+        102081713,
+        85817037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rMBXV68w5TKXdYbZM3k6q_33.934198_-83.314050@1303262635"
+    },
+    "wof:country":"US",
+    "wof:created":1461925313,
+    "wof:geomhash":"fc8b5a36ca386d4ecd20dfe7980b4074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081713,
+            "locality_id":85936177,
+            "neighbourhood_id":85817037,
+            "region_id":85688535,
+            "venue_id":740033569
+        }
+    ],
+    "wof:id":740033569,
+    "wof:lastmodified":1461925313,
+    "wof:name":"Region 2",
+    "wof:parent_id":85817037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-state",
+        "soil",
+        "water",
+        "conservation",
+        "treatment",
+        "waste"
+    ]
+},
+  "bbox": [
+    -83.31405,
+    33.934198,
+    -83.31405,
+    33.934198
+],
+  "geometry": {"coordinates":[-83.31404999999999,33.934198],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 722705451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.543665,33.746862,-84.543665,33.746862",
+    "geom:latitude":33.746862,
+    "geom:longitude":-84.543665,
+    "iso:country":"US",
+    "sg:address":"5060 Bakers Ferry Rd SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 472 0048",
+    "sg:postcode":"30336",
+    "sg:province":"GA",
+    "sg:tags":[
+        "warehouse",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85872053,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ijZElbbdRGoYfQ9B19HFO_33.746862_-84.543665@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461887069,
+    "wof:geomhash":"e6421bd4ad15f9440fa218395b0e9908",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85872053,
+            "region_id":85688535,
+            "venue_id":722705451
+        }
+    ],
+    "wof:id":722705451,
+    "wof:lastmodified":1461887069,
+    "wof:name":"Engine Parts Warehouse",
+    "wof:parent_id":85872053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "general"
+    ]
+},
+  "bbox": [
+    -84.543665,
+    33.746862,
+    -84.543665,
+    33.746862
+],
+  "geometry": {"coordinates":[-84.543665,33.746862],"type":"Point"}
+}

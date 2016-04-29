@@ -1,0 +1,76 @@
+{
+  "id": 739862201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.614038,34.05814,-84.614038,34.05814",
+    "geom:latitude":34.05814,
+    "geom:longitude":-84.614038,
+    "iso:country":"US",
+    "sg:address":"2153 Sugar Maple Ln NW",
+    "sg:city":"Acworth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 867 1590",
+    "sg:postcode":"30101",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shuttle",
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85821545,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BYIynqHypwJJR7oPVVyH4_34.058140_-84.614038@1303262591"
+    },
+    "wof:country":"US",
+    "wof:created":1461918398,
+    "wof:geomhash":"0fc17a57ebdab9519f5452c47a1406c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85821545,
+            "region_id":85688535,
+            "venue_id":739862201
+        }
+    ],
+    "wof:id":739862201,
+    "wof:lastmodified":1461918398,
+    "wof:name":"Zack's Limo Svc",
+    "wof:parent_id":85821545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "limousine"
+    ]
+},
+  "bbox": [
+    -84.614038,
+    34.05814,
+    -84.614038,
+    34.05814
+],
+  "geometry": {"coordinates":[-84.61403799999999,34.05814],"type":"Point"}
+}

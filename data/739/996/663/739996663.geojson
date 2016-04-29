@@ -1,0 +1,78 @@
+{
+  "id": 739996663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.254425,33.910469,-84.254425,33.910469",
+    "geom:latitude":33.910469,
+    "geom:longitude":-84.254425,
+    "iso:country":"US",
+    "sg:address":"4039 Shady Oak Ct",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 242 7115",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "sg:tags":[
+        "books-wholesale",
+        "store",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qNozkS5imLZfijLmt1Kb7_33.910469_-84.254425@1303262626"
+    },
+    "wof:country":"US",
+    "wof:created":1461923804,
+    "wof:geomhash":"3b221606ce374c690acf0098c82f7b5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":739996663
+        }
+    ],
+    "wof:id":739996663,
+    "wof:lastmodified":1461923804,
+    "wof:name":"Atl Books",
+    "wof:parent_id":85889941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "books-wholesale",
+        "store",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -84.254425,
+    33.910469,
+    -84.254425,
+    33.910469
+],
+  "geometry": {"coordinates":[-84.254425,33.910469],"type":"Point"}
+}

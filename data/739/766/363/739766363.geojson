@@ -1,0 +1,86 @@
+{
+  "id": 739766363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.164676,34.246591,-85.164676,34.246591",
+    "geom:latitude":34.246591,
+    "geom:longitude":-85.164676,
+    "iso:country":"US",
+    "sg:address":"35 Riverbend Dr SW",
+    "sg:city":"Rome",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/rome/95586-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 295 2172",
+    "sg:postcode":"30161",
+    "sg:province":"GA",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936575,
+        102084577,
+        85890045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KhVcQLvEV8ri84ngGFVsj_34.246591_-85.164676@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914396,
+    "wof:geomhash":"47bb5629f835982969daf8eb0607edee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084577,
+            "locality_id":85936575,
+            "neighbourhood_id":85890045,
+            "region_id":85688535,
+            "venue_id":739766363
+        }
+    ],
+    "wof:id":739766363,
+    "wof:lastmodified":1461914396,
+    "wof:name":"IHOP",
+    "wof:parent_id":85890045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -85.164676,
+    34.246591,
+    -85.164676,
+    34.246591
+],
+  "geometry": {"coordinates":[-85.164676,34.246591],"type":"Point"}
+}

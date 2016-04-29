@@ -1,0 +1,73 @@
+{
+  "id": 722950059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.927188,34.766126,-84.927188,34.766126",
+    "geom:latitude":34.766126,
+    "geom:longitude":-84.927188,
+    "iso:country":"US",
+    "sg:address":"122 Downing St",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 278 3200",
+    "sg:postcode":"30721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automotive",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IRcuBElaSVsHWksRD2Gl0_34.766126_-84.927188@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461891825,
+    "wof:geomhash":"847466681ebf6f5101c623759409f811",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":722950059
+        }
+    ],
+    "wof:id":722950059,
+    "wof:lastmodified":1461891825,
+    "wof:name":"Dalton Automotive",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.927188,
+    34.766126,
+    -84.927188,
+    34.766126
+],
+  "geometry": {"coordinates":[-84.927188,34.766126],"type":"Point"}
+}

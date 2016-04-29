@@ -1,0 +1,74 @@
+{
+  "id": 739857477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.125133,33.944749,-84.125133,33.944749",
+    "geom:latitude":33.944749,
+    "geom:longitude":-84.125133,
+    "iso:country":"US",
+    "sg:address":"1625 Pleasant Hill Rd",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 806 2787",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Hxo7WyqDpDZrD9wndA2Ah_33.944749_-84.125133@1303262590"
+    },
+    "wof:country":"US",
+    "wof:created":1461918202,
+    "wof:geomhash":"93dc0353c3db2a0817717f4df282301e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":739857477
+        }
+    ],
+    "wof:id":739857477,
+    "wof:lastmodified":1461918202,
+    "wof:name":"Publix Super Markets",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -84.125133,
+    33.944749,
+    -84.125133,
+    33.944749
+],
+  "geometry": {"coordinates":[-84.12513300000001,33.944749],"type":"Point"}
+}

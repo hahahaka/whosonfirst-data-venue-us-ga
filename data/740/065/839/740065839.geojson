@@ -1,0 +1,88 @@
+{
+  "id": 740065839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.350571,30.895281,-83.350571,30.895281",
+    "geom:latitude":30.895281,
+    "geom:longitude":-83.350571,
+    "iso:country":"US",
+    "sg:address":"4550 N Valdosta Rd",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 242 3311",
+    "sg:postcode":"31602",
+    "sg:province":"GA",
+    "sg:tags":[
+        "new",
+        "part",
+        "used",
+        "car"
+    ],
+    "sg:website":"http://www.princeauto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85815713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DskMwgUj8k5eG2eihf8re_30.895281_-83.350571@1303262644"
+    },
+    "wof:country":"US",
+    "wof:created":1461926788,
+    "wof:geomhash":"d4341f863f887dc8e1b71de7a31c551c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85815713,
+            "region_id":85688535,
+            "venue_id":740065839
+        }
+    ],
+    "wof:id":740065839,
+    "wof:lastmodified":1461926788,
+    "wof:name":"Prince Automotive Of Valdosta Inc",
+    "wof:parent_id":85815713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "part",
+        "used",
+        "car"
+    ]
+},
+  "bbox": [
+    -83.350571,
+    30.895281,
+    -83.350571,
+    30.895281
+],
+  "geometry": {"coordinates":[-83.350571,30.895281],"type":"Point"}
+}

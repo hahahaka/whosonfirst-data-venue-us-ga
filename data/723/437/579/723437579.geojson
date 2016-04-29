@@ -1,0 +1,73 @@
+{
+  "id": 723437579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.217522,34.287833,-85.217522,34.287833",
+    "geom:latitude":34.287833,
+    "geom:longitude":-85.217522,
+    "iso:country":"US",
+    "sg:address":"45 Rogers Dr NW",
+    "sg:city":"Rome",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 233 9311",
+    "sg:postcode":"30165",
+    "sg:province":"GA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936575,
+        102084577,
+        85821049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1r9XgeSiRsgus39Chl3oX5_34.287833_-85.217522@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901703,
+    "wof:geomhash":"a5c294905db13b540b5d8a6384b8c819",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084577,
+            "locality_id":85936575,
+            "neighbourhood_id":85821049,
+            "region_id":85688535,
+            "venue_id":723437579
+        }
+    ],
+    "wof:id":723437579,
+    "wof:lastmodified":1461901703,
+    "wof:name":"Safe Storage",
+    "wof:parent_id":85821049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -85.217522,
+    34.287833,
+    -85.217522,
+    34.287833
+],
+  "geometry": {"coordinates":[-85.217522,34.287833],"type":"Point"}
+}

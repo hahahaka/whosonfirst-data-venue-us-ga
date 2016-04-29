@@ -1,0 +1,90 @@
+{
+  "id": 739944363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.384834,33.781402,-84.384834,33.781402",
+    "geom:latitude":33.781402,
+    "geom:longitude":-84.384834,
+    "iso:country":"US",
+    "sg:address":"979 Crescent Ave NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Historic",
+            "type":"Public Place"
+        },
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 853 1903",
+    "sg:postcode":"30309",
+    "sg:province":"GA",
+    "sg:tags":[
+        "attraction",
+        "historical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85866909,
+        85889947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pAVcvtqGs4TwtXABnKzQx_33.781402_-84.384834@1303262612"
+    },
+    "wof:country":"US",
+    "wof:created":1461921674,
+    "wof:geomhash":"ae233d2c0f99d8e7d6c257c79c81b4f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85866909,
+            "region_id":85688535,
+            "venue_id":739944363
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85889947,
+            "region_id":85688535,
+            "venue_id":739944363
+        }
+    ],
+    "wof:id":739944363,
+    "wof:lastmodified":1461921674,
+    "wof:name":"Atlanta Historical Society Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attraction",
+        "historical"
+    ]
+},
+  "bbox": [
+    -84.384834,
+    33.781402,
+    -84.384834,
+    33.781402
+],
+  "geometry": {"coordinates":[-84.384834,33.781402],"type":"Point"}
+}

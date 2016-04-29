@@ -1,0 +1,89 @@
+{
+  "id": 739796269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.248869,33.737868,-84.248869,33.737868",
+    "geom:latitude":33.737868,
+    "geom:longitude":-84.248869,
+    "iso:country":"US",
+    "sg:address":"4115 Glenwood Rd",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospice",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 284 6414",
+    "sg:postcode":"30032",
+    "sg:province":"GA",
+    "sg:tags":[
+        "convalescent",
+        "homes-intermediate",
+        "homes-skilled"
+    ],
+    "sg:website":"http://www.goldenlivingcenters.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85816491,
+        102084539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AvkROFb871R3DonHtrE9s_33.737868_-84.248869@1303262574"
+    },
+    "wof:country":"US",
+    "wof:created":1461915618,
+    "wof:geomhash":"cb2aa01af222a1bef23c521186c6aa51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739796269
+        }
+    ],
+    "wof:id":739796269,
+    "wof:lastmodified":1461915618,
+    "wof:name":"GLCtr - Glenwood",
+    "wof:parent_id":85816491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convalescent",
+        "homes-intermediate",
+        "homes-skilled"
+    ]
+},
+  "bbox": [
+    -84.248869,
+    33.737868,
+    -84.248869,
+    33.737868
+],
+  "geometry": {"coordinates":[-84.248869,33.737868],"type":"Point"}
+}

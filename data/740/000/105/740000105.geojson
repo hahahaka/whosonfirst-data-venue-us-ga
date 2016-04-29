@@ -1,0 +1,89 @@
+{
+  "id": 740000105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.287308,33.885681,-84.287308,33.885681",
+    "geom:latitude":33.885681,
+    "geom:longitude":-84.287308,
+    "iso:country":"US",
+    "sg:address":"2482 Chamblee Tucker Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 220 0902",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "jeweler",
+        "designer",
+        "clock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936435,
+        102084539,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FoRQHwrmGvrUZhmMSXcLv_33.885681_-84.287308@1303262627"
+    },
+    "wof:country":"US",
+    "wof:created":1461923935,
+    "wof:geomhash":"495741b53e6fe70edea0c6b5c946a2b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":740000105
+        }
+    ],
+    "wof:id":740000105,
+    "wof:lastmodified":1461923935,
+    "wof:name":"Latinos Jewelers",
+    "wof:parent_id":85889955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "jeweler",
+        "designer",
+        "clock"
+    ]
+},
+  "bbox": [
+    -84.287308,
+    33.885681,
+    -84.287308,
+    33.885681
+],
+  "geometry": {"coordinates":[-84.287308,33.885681],"type":"Point"}
+}

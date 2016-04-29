@@ -1,0 +1,77 @@
+{
+  "id": 739861709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.682443,34.035874,-84.682443,34.035874",
+    "geom:latitude":34.035874,
+    "geom:longitude":-84.682443,
+    "iso:country":"US",
+    "sg:address":"3378 Cobb Pkwy NW",
+    "sg:city":"Acworth",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 202 0997",
+    "sg:postcode":"30101",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.target.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936129,
+        102082313,
+        85829479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Uro0TnX7gr7Z7pFIRkgVv_34.035874_-84.682443@1303262591"
+    },
+    "wof:country":"US",
+    "wof:created":1461918381,
+    "wof:geomhash":"9e6db8a8604950db2c2c906f1aaeed79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936129,
+            "neighbourhood_id":85829479,
+            "region_id":85688535,
+            "venue_id":739861709
+        }
+    ],
+    "wof:id":739861709,
+    "wof:lastmodified":1461918381,
+    "wof:name":"Target Stores",
+    "wof:parent_id":85829479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -84.682443,
+    34.035874,
+    -84.682443,
+    34.035874
+],
+  "geometry": {"coordinates":[-84.68244300000001,34.035874],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 740064647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.683188,30.774619,-81.683188,30.774619",
+    "geom:latitude":30.774619,
+    "geom:longitude":-81.683188,
+    "iso:country":"US",
+    "sg:address":"166 Juniper St",
+    "sg:city":"Kingsland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 729 1268",
+    "sg:postcode":"31548",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937043,
+        102081693,
+        85852055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I9sCyPMHyajQO6MhpMRMZ_30.774619_-81.683188@1303262643"
+    },
+    "wof:country":"US",
+    "wof:created":1461926729,
+    "wof:geomhash":"87962e7156ab49f2cf06e83ed74994df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081693,
+            "locality_id":85937043,
+            "neighbourhood_id":85852055,
+            "region_id":85688535,
+            "venue_id":740064647
+        }
+    ],
+    "wof:id":740064647,
+    "wof:lastmodified":1461926729,
+    "wof:name":"Dr Watso",
+    "wof:parent_id":85852055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.683188,
+    30.774619,
+    -81.683188,
+    30.774619
+],
+  "geometry": {"coordinates":[-81.683188,30.774619],"type":"Point"}
+}

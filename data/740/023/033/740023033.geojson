@@ -1,0 +1,83 @@
+{
+  "id": 740023033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.855694,34.277676,-83.855694,34.277676",
+    "geom:latitude":34.277676,
+    "geom:longitude":-83.855694,
+    "iso:country":"US",
+    "sg:address":"2325 Browns Bridge Rd",
+    "sg:city":"Gainesville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 532 7371",
+    "sg:postcode":"30504",
+    "sg:province":"GA",
+    "sg:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ],
+    "sg:website":"http://www.enterprise.com/car_rental/deeplinkmap.do?gpbr=0362&bid=004&cnty=US&arc=YPTRL01&cm_mmc=Yellowpages.com-_-IYP-_-Tradelisting-_-branch",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936861,
+        102083629,
+        85810837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mWr6LsXUe6INnMmjuM6T2_34.277676_-83.855694@1303262633"
+    },
+    "wof:country":"US",
+    "wof:created":1461924818,
+    "wof:geomhash":"da93061145de8ec871f54ebbc0428d5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083629,
+            "locality_id":85936861,
+            "neighbourhood_id":85810837,
+            "region_id":85688535,
+            "venue_id":740023033
+        }
+    ],
+    "wof:id":740023033,
+    "wof:lastmodified":1461924818,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85810837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ]
+},
+  "bbox": [
+    -83.855694,
+    34.277676,
+    -83.855694,
+    34.277676
+],
+  "geometry": {"coordinates":[-83.855694,34.277676],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 740065375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.255043,30.69569,-83.255043,30.69569",
+    "geom:latitude":30.69569,
+    "geom:longitude":-83.255043,
+    "iso:country":"US",
+    "sg:address":"4881 Newton Cir",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 559 8598",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85827233,
+        102083585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BI1DsgHNlYsGcTSQWxsCp_30.695690_-83.255043@1303262644"
+    },
+    "wof:country":"US",
+    "wof:created":1461926765,
+    "wof:geomhash":"e8b214c7ed4f58b9bc563130a6045bb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "neighbourhood_id":85827233,
+            "region_id":85688535,
+            "venue_id":740065375
+        }
+    ],
+    "wof:id":740065375,
+    "wof:lastmodified":1461926765,
+    "wof:name":"Wills Electric",
+    "wof:parent_id":85827233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -83.255043,
+    30.69569,
+    -83.255043,
+    30.69569
+],
+  "geometry": {"coordinates":[-83.255043,30.69569],"type":"Point"}
+}

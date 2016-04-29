@@ -1,0 +1,81 @@
+{
+  "id": 739756985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.305518,33.724152,-84.305518,33.724152",
+    "geom:latitude":33.724152,
+    "geom:longitude":-84.305518,
+    "iso:country":"US",
+    "sg:address":"2073 Samuel Pl",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 381 6625",
+    "sg:postcode":"30032",
+    "sg:province":"GA",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937253,
+        102084539,
+        85866911,
+        85816491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Rw2MCKAvoUmSEi9uaJRkv_33.724167_-84.305328@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461913987,
+    "wof:geomhash":"8134a61bba109f853050e2af1cc968d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937253,
+            "neighbourhood_id":85866911,
+            "region_id":85688535,
+            "venue_id":739756985
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739756985
+        }
+    ],
+    "wof:id":739756985,
+    "wof:lastmodified":1461913987,
+    "wof:name":"Bryant Transportation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -84.305518,
+    33.724152,
+    -84.305518,
+    33.724152
+],
+  "geometry": {"coordinates":[-84.30551800000001,33.724152],"type":"Point"}
+}

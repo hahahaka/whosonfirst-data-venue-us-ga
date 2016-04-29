@@ -1,0 +1,75 @@
+{
+  "id": 739771951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.38722,33.324425,-83.38722,33.324425",
+    "geom:latitude":33.324425,
+    "geom:longitude":-83.38722,
+    "iso:country":"US",
+    "sg:address":"105 S Oak St",
+    "sg:city":"Eatonton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/eatonton/203281-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"31024",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936877,
+        102084585,
+        85826761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xMeEHMcAH2RQk2LlzeP7f_33.324425_-83.387220@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914616,
+    "wof:geomhash":"55322a749df0c722477e13eb451cfa83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084585,
+            "locality_id":85936877,
+            "neighbourhood_id":85826761,
+            "region_id":85688535,
+            "venue_id":739771951
+        }
+    ],
+    "wof:id":739771951,
+    "wof:lastmodified":1461914616,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85826761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.38722,
+    33.324425,
+    -83.38722,
+    33.324425
+],
+  "geometry": {"coordinates":[-83.38722,33.324425],"type":"Point"}
+}

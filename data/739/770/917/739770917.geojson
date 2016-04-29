@@ -1,0 +1,74 @@
+{
+  "id": 739770917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.997021,34.689074,-84.997021,34.689074",
+    "geom:latitude":34.689074,
+    "geom:longitude":-84.997021,
+    "iso:country":"US",
+    "sg:address":"244 Connector 3 SW",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/dalton/158386-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 277 3002",
+    "sg:postcode":"30720",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NLClBa3z2nbMbTUzqawYm_34.689074_-84.997021@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914581,
+    "wof:geomhash":"ed26b87a28141dfd8a7f237bf6a67746",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":739770917
+        }
+    ],
+    "wof:id":739770917,
+    "wof:lastmodified":1461914581,
+    "wof:name":"Arby's",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.997021,
+    34.689074,
+    -84.997021,
+    34.689074
+],
+  "geometry": {"coordinates":[-84.997021,34.689074],"type":"Point"}
+}

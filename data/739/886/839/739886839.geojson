@@ -1,0 +1,78 @@
+{
+  "id": 739886839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.58503,34.1245,-84.58503,34.1245",
+    "geom:latitude":34.1245,
+    "geom:longitude":-84.58503,
+    "iso:country":"US",
+    "sg:address":"105 Southfork Dr",
+    "sg:city":"Woodstock",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 924 9261",
+    "sg:postcode":"30189",
+    "sg:province":"GA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85896293,
+        102084635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qOfkaG9jCf2G3tMImj5uG_34.124500_-84.585030@1303262598"
+    },
+    "wof:country":"US",
+    "wof:created":1461919319,
+    "wof:geomhash":"b5087e5c72b5e0a5b642bd175afb5b8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084635,
+            "neighbourhood_id":85896293,
+            "region_id":85688535,
+            "venue_id":739886839
+        }
+    ],
+    "wof:id":739886839,
+    "wof:lastmodified":1461919319,
+    "wof:name":"P S G Trucking Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.58503,
+    34.1245,
+    -84.58503,
+    34.1245
+],
+  "geometry": {"coordinates":[-84.58503,34.1245],"type":"Point"}
+}

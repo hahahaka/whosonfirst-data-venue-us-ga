@@ -1,0 +1,83 @@
+{
+  "id": 740018035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.279469,33.919252,-84.279469,33.919252",
+    "geom:latitude":33.919252,
+    "geom:longitude":-84.279469,
+    "iso:country":"US",
+    "sg:address":"2638 Woodwin Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 935 5000",
+    "sg:postcode":"30360",
+    "sg:province":"GA",
+    "sg:tags":[
+        "limo"
+    ],
+    "sg:website":"www.nplimo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vAH1GZBsV3O8BqSus4s2X_33.919252_-84.279469@1303262631"
+    },
+    "wof:country":"US",
+    "wof:created":1461924617,
+    "wof:geomhash":"a2fa9677849adb6343fb13a958b256b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":740018035
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":740018035
+        }
+    ],
+    "wof:id":740018035,
+    "wof:lastmodified":1461924617,
+    "wof:name":"North Point Transportation & Limousine",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limo"
+    ]
+},
+  "bbox": [
+    -84.279469,
+    33.919252,
+    -84.279469,
+    33.919252
+],
+  "geometry": {"coordinates":[-84.27946900000001,33.919252],"type":"Point"}
+}

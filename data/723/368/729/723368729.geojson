@@ -1,0 +1,85 @@
+{
+  "id": 723368729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.331877,33.94692,-84.331877,33.94692",
+    "geom:latitude":33.94692,
+    "geom:longitude":-84.331877,
+    "iso:country":"US",
+    "sg:address":"1610 Mount Vernon Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 671 2796",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85815577,
+        420560157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PJo5qTd07aQ4M6VzOs32E_33.946920_-84.331877@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900350,
+    "wof:geomhash":"133457dac51497b8e7c3b8c27a269710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85815577,
+            "region_id":85688535,
+            "venue_id":723368729
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":420560157,
+            "region_id":85688535,
+            "venue_id":723368729
+        }
+    ],
+    "wof:id":723368729,
+    "wof:lastmodified":1461900350,
+    "wof:name":"CVS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -84.331877,
+    33.94692,
+    -84.331877,
+    33.94692
+],
+  "geometry": {"coordinates":[-84.33187700000001,33.94692],"type":"Point"}
+}

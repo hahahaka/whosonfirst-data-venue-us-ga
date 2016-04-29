@@ -1,0 +1,82 @@
+{
+  "id": 740074721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.894197,32.52943,-84.894197,32.52943",
+    "geom:latitude":32.52943,
+    "geom:longitude":-84.894197,
+    "iso:country":"US",
+    "sg:address":"5133 Stonegate Dr",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 569 8399",
+    "sg:postcode":"31909",
+    "sg:province":"GA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        420518163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fL1LbSba1rh96jPju3vJr_32.529430_-84.894197@1303262646"
+    },
+    "wof:country":"US",
+    "wof:created":1461927167,
+    "wof:geomhash":"6a09311662e8b0e5d6b8dbbe99a8de0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":420518163,
+            "region_id":85688535,
+            "venue_id":740074721
+        }
+    ],
+    "wof:id":740074721,
+    "wof:lastmodified":1461927167,
+    "wof:name":"Big Grif Trucking Inc",
+    "wof:parent_id":420518163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.894197,
+    32.52943,
+    -84.894197,
+    32.52943
+],
+  "geometry": {"coordinates":[-84.89419700000001,32.52943],"type":"Point"}
+}

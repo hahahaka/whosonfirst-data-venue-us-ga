@@ -1,0 +1,76 @@
+{
+  "id": 739590091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.137745,34.210063,-84.137745,34.210063",
+    "geom:latitude":34.210063,
+    "geom:longitude":-84.137745,
+    "iso:country":"US",
+    "sg:address":"337 Dahlonega Rd",
+    "sg:city":"Cumming",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 781 3190",
+    "sg:postcode":"30040",
+    "sg:province":"GA",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936811,
+        102082317,
+        85842073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EmFQgPnHbkrPfK4XuMaDG_34.210063_-84.137745@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910201,
+    "wof:geomhash":"6c64a8f3b4946abdec9db175131ef6d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082317,
+            "locality_id":85936811,
+            "neighbourhood_id":85842073,
+            "region_id":85688535,
+            "venue_id":739590091
+        }
+    ],
+    "wof:id":739590091,
+    "wof:lastmodified":1461910201,
+    "wof:name":"European Bakery and More",
+    "wof:parent_id":85842073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -84.137745,
+    34.210063,
+    -84.137745,
+    34.210063
+],
+  "geometry": {"coordinates":[-84.137745,34.210063],"type":"Point"}
+}

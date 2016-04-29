@@ -1,0 +1,81 @@
+{
+  "id": 740049159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.390864,33.314514,-83.390864,33.314514",
+    "geom:latitude":33.314514,
+    "geom:longitude":-83.390864,
+    "iso:country":"US",
+    "sg:address":"120 Hambone Holle Dr",
+    "sg:city":"Eatonton",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Passenger",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 485 6355",
+    "sg:postcode":"31024",
+    "sg:province":"GA",
+    "sg:tags":[
+        "line",
+        "public"
+    ],
+    "sg:website":"http://www.putnamcountyga.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936877,
+        102084585,
+        85826761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17BAvU2GE2F1hgecjswixH_33.314514_-83.390864@1303262639"
+    },
+    "wof:country":"US",
+    "wof:created":1461926048,
+    "wof:geomhash":"92626048b23160a4bae297009de8b44d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084585,
+            "locality_id":85936877,
+            "neighbourhood_id":85826761,
+            "region_id":85688535,
+            "venue_id":740049159
+        }
+    ],
+    "wof:id":740049159,
+    "wof:lastmodified":1461926048,
+    "wof:name":"Transit Department",
+    "wof:parent_id":85826761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "line",
+        "public"
+    ]
+},
+  "bbox": [
+    -83.390864,
+    33.314514,
+    -83.390864,
+    33.314514
+],
+  "geometry": {"coordinates":[-83.39086399999999,33.314514],"type":"Point"}
+}

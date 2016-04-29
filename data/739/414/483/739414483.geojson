@@ -1,0 +1,85 @@
+{
+  "id": 739414483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.336351,33.814961,-84.336351,33.814961",
+    "geom:latitude":33.814961,
+    "geom:longitude":-84.336351,
+    "iso:country":"US",
+    "sg:address":"1620 Lavista Rd NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 636 0099",
+    "sg:postcode":"30329",
+    "sg:province":"GA",
+    "sg:tags":[
+        "garment",
+        "agent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937259,
+        102084539,
+        85866913,
+        420517723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FUU6FWQN97beeaHutI07X_33.814961_-84.336351@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461906847,
+    "wof:geomhash":"8b3fbc064d59b780885dd418abe5b9cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937259,
+            "neighbourhood_id":85866913,
+            "region_id":85688535,
+            "venue_id":739414483
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937259,
+            "neighbourhood_id":420517723,
+            "region_id":85688535,
+            "venue_id":739414483
+        }
+    ],
+    "wof:id":739414483,
+    "wof:lastmodified":1461906847,
+    "wof:name":"Briar Vista Cleaners",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "agent"
+    ]
+},
+  "bbox": [
+    -84.336351,
+    33.814961,
+    -84.336351,
+    33.814961
+],
+  "geometry": {"coordinates":[-84.33635099999999,33.814961],"type":"Point"}
+}

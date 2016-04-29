@@ -1,0 +1,78 @@
+{
+  "id": 740073983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.931938,32.461319,-84.931938,32.461319",
+    "geom:latitude":32.461319,
+    "geom:longitude":-84.931938,
+    "iso:country":"US",
+    "sg:address":"3661 Buena Vista Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 689 9191",
+    "sg:postcode":"31906",
+    "sg:province":"GA",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        420518155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aYcLNyQkixtI1w5nIS9do_32.461319_-84.931938@1303262646"
+    },
+    "wof:country":"US",
+    "wof:created":1461927138,
+    "wof:geomhash":"20e6544fdbceb5a5050fc7015ac4b680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":420518155,
+            "region_id":85688535,
+            "venue_id":740073983
+        }
+    ],
+    "wof:id":740073983,
+    "wof:lastmodified":1461927138,
+    "wof:name":"Joe's Auto Service",
+    "wof:parent_id":420518155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [
+    -84.931938,
+    32.461319,
+    -84.931938,
+    32.461319
+],
+  "geometry": {"coordinates":[-84.931938,32.461319],"type":"Point"}
+}

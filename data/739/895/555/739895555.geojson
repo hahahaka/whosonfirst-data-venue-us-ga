@@ -1,0 +1,82 @@
+{
+  "id": 739895555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.029694,32.98629,-85.029694,32.98629",
+    "geom:latitude":32.98629,
+    "geom:longitude":-85.029694,
+    "iso:country":"US",
+    "sg:address":"2560 Whitesville Rd",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 882 0176",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "stop",
+        "truck",
+        "agency",
+        "services-commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85830157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PuyCcpdPRAl3ni9wOswkw_32.986290_-85.029694@1303262600"
+    },
+    "wof:country":"US",
+    "wof:created":1461919644,
+    "wof:geomhash":"40e35b5f9566a05a2e594c672f2895ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85830157,
+            "region_id":85688535,
+            "venue_id":739895555
+        }
+    ],
+    "wof:id":739895555,
+    "wof:lastmodified":1461919644,
+    "wof:name":"Lagrange Travel Center",
+    "wof:parent_id":85830157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stop",
+        "truck",
+        "agency",
+        "services-commercial"
+    ]
+},
+  "bbox": [
+    -85.029694,
+    32.98629,
+    -85.029694,
+    32.98629
+],
+  "geometry": {"coordinates":[-85.02969400000001,32.98629],"type":"Point"}
+}

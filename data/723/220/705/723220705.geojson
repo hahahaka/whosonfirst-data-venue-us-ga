@@ -1,0 +1,66 @@
+{
+  "id": 723220705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.500517,33.883552,-84.500517,33.883552",
+    "geom:latitude":33.883552,
+    "geom:longitude":-84.500517,
+    "iso:country":"US",
+    "sg:address":"1828 Spring Rd SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 305 1030",
+    "sg:postcode":"30080",
+    "sg:province":"GA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dBlqVmXUdFjhrmMAzZKZY_33.883552_-84.500517@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897514,
+    "wof:geomhash":"bfc0f8dab3901ab1077b34fb35a0e5a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":723220705
+        }
+    ],
+    "wof:id":723220705,
+    "wof:lastmodified":1461897514,
+    "wof:name":"Smyrna Food Mart",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.500517,
+    33.883552,
+    -84.500517,
+    33.883552
+],
+  "geometry": {"coordinates":[-84.500517,33.883552],"type":"Point"}
+}

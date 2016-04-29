@@ -1,0 +1,71 @@
+{
+  "id": 739564445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.575575,33.569817,-84.575575,33.569817",
+    "geom:latitude":33.569817,
+    "geom:longitude":-84.575575,
+    "iso:country":"US",
+    "sg:address":"80 NW Broad St",
+    "sg:city":"Fairburn",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 306 2822",
+    "sg:postcode":"30213",
+    "sg:province":"GA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937159,
+        102083603,
+        85848001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zrfbMMUwpcIUtjkSxFtt2_33.569817_-84.575575@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461909654,
+    "wof:geomhash":"3dca3deda22baa92b5f4aadd533c7315",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937159,
+            "neighbourhood_id":85848001,
+            "region_id":85688535,
+            "venue_id":739564445
+        }
+    ],
+    "wof:id":739564445,
+    "wof:lastmodified":1461909654,
+    "wof:name":"Food Depot",
+    "wof:parent_id":85848001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -84.575575,
+    33.569817,
+    -84.575575,
+    33.569817
+],
+  "geometry": {"coordinates":[-84.575575,33.569817],"type":"Point"}
+}

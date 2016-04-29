@@ -1,0 +1,79 @@
+{
+  "id": 739816603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.495522,33.911742,-84.495522,33.911742",
+    "geom:latitude":33.911742,
+    "geom:longitude":-84.495522,
+    "iso:country":"US",
+    "sg:address":"1669 Cobb Pkwy S",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 618 8030",
+    "sg:postcode":"30060",
+    "sg:province":"GA",
+    "sg:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ],
+    "sg:website":"http://www.enterprise.com/car_rental/deeplinkmap.do?gpbr=0303&bid=004&cnty=US&arc=YPTRL01&cm_mmc=Yellowpages.com-_-IYP-_-Tradelisting-_-branch",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85845875,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HYbCXr61iM5bVFix1mIfG_33.911742_-84.495522@1303262579"
+    },
+    "wof:country":"US",
+    "wof:created":1461916566,
+    "wof:geomhash":"291c1d7f91f641606f0384c77ee4b9e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":739816603
+        }
+    ],
+    "wof:id":739816603,
+    "wof:lastmodified":1461916566,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85845875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ]
+},
+  "bbox": [
+    -84.495522,
+    33.911742,
+    -84.495522,
+    33.911742
+],
+  "geometry": {"coordinates":[-84.49552199999999,33.911742],"type":"Point"}
+}

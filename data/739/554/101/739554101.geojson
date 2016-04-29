@@ -1,0 +1,83 @@
+{
+  "id": 739554101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.425081,33.81621,-84.425081,33.81621",
+    "geom:latitude":33.81621,
+    "geom:longitude":-84.425081,
+    "iso:country":"US",
+    "sg:address":"123 Maison Pl NW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 339 8825",
+    "sg:postcode":"30327",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872135,
+        85872079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jchYY6pKDl6oEQvWvwd7B_33.816210_-84.425081@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461909425,
+    "wof:geomhash":"3052e4a62b253c7802c69848c3f375a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872135,
+            "region_id":85688535,
+            "venue_id":739554101
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872079,
+            "region_id":85688535,
+            "venue_id":739554101
+        }
+    ],
+    "wof:id":739554101,
+    "wof:lastmodified":1461909425,
+    "wof:name":"Reeve Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -84.425081,
+    33.81621,
+    -84.425081,
+    33.81621
+],
+  "geometry": {"coordinates":[-84.42508100000001,33.81621],"type":"Point"}
+}

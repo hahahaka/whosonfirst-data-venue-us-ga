@@ -1,0 +1,71 @@
+{
+  "id": 739412787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.018442,30.802342,-84.018442,30.802342",
+    "geom:latitude":30.802342,
+    "geom:longitude":-84.018442,
+    "iso:country":"US",
+    "sg:address":"180 Pettigrew Ln",
+    "sg:city":"Thomasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 226 2533",
+    "sg:postcode":"31792",
+    "sg:province":"GA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85852137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Nu5x1a4lQLi1ot8lBnV2b_30.802342_-84.018442@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461906818,
+    "wof:geomhash":"15da3e47e5963cf83c0893bbacfff63c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85852137,
+            "region_id":85688535,
+            "venue_id":739412787
+        }
+    ],
+    "wof:id":739412787,
+    "wof:lastmodified":1461906818,
+    "wof:name":"Pettigrews Garage",
+    "wof:parent_id":85852137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -84.018442,
+    30.802342,
+    -84.018442,
+    30.802342
+],
+  "geometry": {"coordinates":[-84.01844199999999,30.802342],"type":"Point"}
+}

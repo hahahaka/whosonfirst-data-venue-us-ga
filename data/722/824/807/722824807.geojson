@@ -1,0 +1,84 @@
+{
+  "id": 722824807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.275826,33.923493,-84.275826,33.923493",
+    "geom:latitude":33.923493,
+    "geom:longitude":-84.275826,
+    "iso:country":"US",
+    "sg:address":"2700 Peachtree Sq",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 455 0041",
+    "sg:postcode":"30360",
+    "sg:province":"GA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FOY9aBsUmDbXRPyh4W6FM_33.923493_-84.275826@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461889349,
+    "wof:geomhash":"403736754ae92b051d2cf2a59d3ddd8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":722824807
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":722824807
+        }
+    ],
+    "wof:id":722824807,
+    "wof:lastmodified":1461889349,
+    "wof:name":"Auto Clearinghouse",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -84.275826,
+    33.923493,
+    -84.275826,
+    33.923493
+],
+  "geometry": {"coordinates":[-84.275826,33.923493],"type":"Point"}
+}

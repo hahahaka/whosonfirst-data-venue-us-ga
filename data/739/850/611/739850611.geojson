@@ -1,0 +1,83 @@
+{
+  "id": 739850611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.222642,33.967455,-84.222642,33.967455",
+    "geom:latitude":33.967455,
+    "geom:longitude":-84.222642,
+    "iso:country":"US",
+    "sg:address":"5525 Peachtree Pkwy",
+    "sg:city":"Norcross",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 865 2840",
+    "sg:postcode":"30092",
+    "sg:province":"GA",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"https://www.wachovia.com/?DCMP=KNL-CPS-DS-Directory-0703&HBX_PK=Banks&HBX_OU=71",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EAM39snq6QFrIr1tFvNEN_33.967455_-84.222642@1303262588"
+    },
+    "wof:country":"US",
+    "wof:created":1461917939,
+    "wof:geomhash":"9e3c17dcae1c52a53826fd32be60eb85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":739850611
+        }
+    ],
+    "wof:id":739850611,
+    "wof:lastmodified":1461917939,
+    "wof:name":"Wachovia Bank",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -84.222642,
+    33.967455,
+    -84.222642,
+    33.967455
+],
+  "geometry": {"coordinates":[-84.22264199999999,33.967455],"type":"Point"}
+}

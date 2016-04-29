@@ -1,0 +1,86 @@
+{
+  "id": 740058231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.087142,32.075352,-81.087142,32.075352",
+    "geom:latitude":32.075352,
+    "geom:longitude":-81.087142,
+    "iso:country":"US",
+    "sg:address":"513 E Oglethorpe Ave Ste B",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 495 0123",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "sg:website":"http://www.atmospheressalon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85880901,
+        85811497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KbLpMdNMxkTBHpyGjMmz2_32.075352_-81.087142@1303262642"
+    },
+    "wof:country":"US",
+    "wof:created":1461926459,
+    "wof:geomhash":"2d6f03c6177a8f4ccbf90614325a1050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880901,
+            "region_id":85688535,
+            "venue_id":740058231
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85811497,
+            "region_id":85688535,
+            "venue_id":740058231
+        }
+    ],
+    "wof:id":740058231,
+    "wof:lastmodified":1461926459,
+    "wof:name":"Atmospheres Salon",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [
+    -81.087142,
+    32.075352,
+    -81.087142,
+    32.075352
+],
+  "geometry": {"coordinates":[-81.087142,32.075352],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 740013257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.502531,33.590203,-84.502531,33.590203",
+    "geom:latitude":33.590203,
+    "geom:longitude":-84.502531,
+    "iso:country":"US",
+    "sg:address":"6145 Buffington Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 774 3247",
+    "sg:postcode":"30349",
+    "sg:province":"GA",
+    "sg:tags":[
+        "industrial",
+        "supply",
+        "work",
+        "contractor",
+        "water",
+        "equipment",
+        "sewer",
+        "contractors-commercial",
+        "engineer"
+    ],
+    "sg:website":"http://www.ferguson.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85848007,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Z1VpEaV4J45AlbiV6a7Hf_33.590203_-84.502531@1303262630"
+    },
+    "wof:country":"US",
+    "wof:created":1461924441,
+    "wof:geomhash":"31723d4832dc0899bc8914e727103f06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85848007,
+            "region_id":85688535,
+            "venue_id":740013257
+        }
+    ],
+    "wof:id":740013257,
+    "wof:lastmodified":1461924441,
+    "wof:name":"Ferguson Waterworks",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "supply",
+        "work",
+        "contractor",
+        "water",
+        "equipment",
+        "sewer",
+        "contractors-commercial",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -84.502531,
+    33.590203,
+    -84.502531,
+    33.590203
+],
+  "geometry": {"coordinates":[-84.502531,33.590203],"type":"Point"}
+}

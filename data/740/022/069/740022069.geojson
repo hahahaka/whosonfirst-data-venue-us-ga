@@ -1,0 +1,85 @@
+{
+  "id": 740022069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.840553,34.286569,-83.840553,34.286569",
+    "geom:latitude":34.286569,
+    "geom:longitude":-83.840553,
+    "iso:country":"US",
+    "sg:address":"1368 Browns Bridge Rd",
+    "sg:city":"Gainesville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 531 5365",
+    "sg:postcode":"30501",
+    "sg:province":"GA",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"https://www.wachovia.com/?DCMP=KNL-CPS-DS-Directory-0703&HBX_PK=Banks&HBX_OU=71",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936861,
+        102083629,
+        420518035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TotIdvDt77Pw5NCrghgHf_34.286569_-83.840553@1303262632"
+    },
+    "wof:country":"US",
+    "wof:created":1461924779,
+    "wof:geomhash":"52bd8ca201677ebf7d4b9294664870c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083629,
+            "locality_id":85936861,
+            "neighbourhood_id":420518035,
+            "region_id":85688535,
+            "venue_id":740022069
+        }
+    ],
+    "wof:id":740022069,
+    "wof:lastmodified":1461924779,
+    "wof:name":"Wachovia Bank",
+    "wof:parent_id":420518035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -83.840553,
+    34.286569,
+    -83.840553,
+    34.286569
+],
+  "geometry": {"coordinates":[-83.840553,34.286569],"type":"Point"}
+}

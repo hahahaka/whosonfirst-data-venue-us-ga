@@ -1,0 +1,79 @@
+{
+  "id": 740010293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.340932,33.921746,-84.340932,33.921746",
+    "geom:latitude":33.921746,
+    "geom:longitude":-84.340932,
+    "iso:country":"US",
+    "sg:address":"4400 Ashford Dunwoody Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 551 8900",
+    "sg:postcode":"30346",
+    "sg:province":"GA",
+    "sg:website":"www.jcrew.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85890003,
+        85889963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eMDR3f9MLKAs749HKGwDb_33.921746_-84.340932@1303262629"
+    },
+    "wof:country":"US",
+    "wof:created":1461924324,
+    "wof:geomhash":"67c64d355ef8f1347e3f074ba70c196a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890003,
+            "region_id":85688535,
+            "venue_id":740010293
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85889963,
+            "region_id":85688535,
+            "venue_id":740010293
+        }
+    ],
+    "wof:id":740010293,
+    "wof:lastmodified":1461924324,
+    "wof:name":"J Crew",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.340932,
+    33.921746,
+    -84.340932,
+    33.921746
+],
+  "geometry": {"coordinates":[-84.340932,33.921746],"type":"Point"}
+}

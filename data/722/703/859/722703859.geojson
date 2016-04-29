@@ -1,0 +1,73 @@
+{
+  "id": 722703859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.512049,33.599782,-84.512049,33.599782",
+    "geom:latitude":33.599782,
+    "geom:longitude":-84.512049,
+    "iso:country":"US",
+    "sg:address":"3745 Benchmark Dr",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 765 0023",
+    "sg:postcode":"30349",
+    "sg:province":"GA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85848007,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vi1vu1uQa4ZSF9MNB70LY_33.599782_-84.512049@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461887040,
+    "wof:geomhash":"5b256976942b8f3de3b35c5702b5c164",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85848007,
+            "region_id":85688535,
+            "venue_id":722703859
+        }
+    ],
+    "wof:id":722703859,
+    "wof:lastmodified":1461887040,
+    "wof:name":"Zeigler Trucking Inc",
+    "wof:parent_id":85848007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.512049,
+    33.599782,
+    -84.512049,
+    33.599782
+],
+  "geometry": {"coordinates":[-84.512049,33.599782],"type":"Point"}
+}

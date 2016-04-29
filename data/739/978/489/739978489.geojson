@@ -1,0 +1,83 @@
+{
+  "id": 739978489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.365552,33.945503,-84.365552,33.945503",
+    "geom:latitude":33.945503,
+    "geom:longitude":-84.365552,
+    "iso:country":"US",
+    "sg:address":"10 Messina Way NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 761 2992",
+    "sg:postcode":"30328",
+    "sg:province":"GA",
+    "sg:tags":[
+        "satellite",
+        "radio-service",
+        "cable"
+    ],
+    "sg:website":"http://www.localsat.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937165,
+        102083603,
+        85889995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YHBsvbyonX2gJmudtXHCg_33.945503_-84.365552@1303262621"
+    },
+    "wof:country":"US",
+    "wof:created":1461923077,
+    "wof:geomhash":"596d507dda0b0b83e0acb937b6a75329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937165,
+            "neighbourhood_id":85889995,
+            "region_id":85688535,
+            "venue_id":739978489
+        }
+    ],
+    "wof:id":739978489,
+    "wof:lastmodified":1461923077,
+    "wof:name":"Direct Sat Tv Activation & Installation",
+    "wof:parent_id":85889995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "radio-service",
+        "cable"
+    ]
+},
+  "bbox": [
+    -84.365552,
+    33.945503,
+    -84.365552,
+    33.945503
+],
+  "geometry": {"coordinates":[-84.36555199999999,33.945503],"type":"Point"}
+}

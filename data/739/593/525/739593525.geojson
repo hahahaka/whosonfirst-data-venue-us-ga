@@ -1,0 +1,73 @@
+{
+  "id": 739593525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.239705,33.689495,-84.239705,33.689495",
+    "geom:latitude":33.689495,
+    "geom:longitude":-84.239705,
+    "iso:country":"US",
+    "sg:address":"3244 Harbor Woods Rd",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 328 9090",
+    "sg:postcode":"30034",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automotive",
+        "trade",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85816491,
+        102084539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Pw6hrqoavTCJLANIodwyK_33.689495_-84.239705@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910266,
+    "wof:geomhash":"09281826e648193ca487447a6dfb63bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739593525
+        }
+    ],
+    "wof:id":739593525,
+    "wof:lastmodified":1461910266,
+    "wof:name":"Super Cool Customs",
+    "wof:parent_id":85816491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "trade",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.239705,
+    33.689495,
+    -84.239705,
+    33.689495
+],
+  "geometry": {"coordinates":[-84.239705,33.689495],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 739805919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.987413,34.035023,-83.987413,34.035023",
+    "geom:latitude":34.035023,
+    "geom:longitude":-83.987413,
+    "iso:country":"US",
+    "sg:address":"2365 Buford Dr",
+    "sg:city":"Lawrenceville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 339 4749",
+    "sg:postcode":"30043",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936281,
+        102082967,
+        85858547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dA5BNOekTcIwvjNH4qhm0_34.035023_-83.987413@1303262576"
+    },
+    "wof:country":"US",
+    "wof:created":1461916101,
+    "wof:geomhash":"27d8af080d24c6f5d0c64bba580fe5f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936281,
+            "neighbourhood_id":85858547,
+            "region_id":85688535,
+            "venue_id":739805919
+        }
+    ],
+    "wof:id":739805919,
+    "wof:lastmodified":1461916101,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85858547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -83.987413,
+    34.035023,
+    -83.987413,
+    34.035023
+],
+  "geometry": {"coordinates":[-83.987413,34.035023],"type":"Point"}
+}

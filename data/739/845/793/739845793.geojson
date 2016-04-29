@@ -1,0 +1,83 @@
+{
+  "id": 739845793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.220412,33.880801,-84.220412,33.880801",
+    "geom:latitude":33.880801,
+    "geom:longitude":-84.220412,
+    "iso:country":"US",
+    "sg:address":"4317 Chamblee Tucker Rd",
+    "sg:city":"Tucker",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 938 6146",
+    "sg:postcode":"30084",
+    "sg:province":"GA",
+    "sg:tags":[
+        "photo",
+        "finishing",
+        "first",
+        "aid",
+        "supply"
+    ],
+    "sg:website":"http://www.cvs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kHMQidVTihQcLyoL7nT0a_33.880801_-84.220412@1303262587"
+    },
+    "wof:country":"US",
+    "wof:created":1461917734,
+    "wof:geomhash":"3b5b55295ee276dd05648d14355a6ccd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":739845793
+        }
+    ],
+    "wof:id":739845793,
+    "wof:lastmodified":1461917734,
+    "wof:name":"CVS/pharmacy",
+    "wof:parent_id":85889941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "finishing",
+        "first",
+        "aid",
+        "supply"
+    ]
+},
+  "bbox": [
+    -84.220412,
+    33.880801,
+    -84.220412,
+    33.880801
+],
+  "geometry": {"coordinates":[-84.220412,33.880801],"type":"Point"}
+}

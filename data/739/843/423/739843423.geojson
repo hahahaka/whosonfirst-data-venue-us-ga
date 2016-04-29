@@ -1,0 +1,73 @@
+{
+  "id": 739843423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.505096,33.883701,-84.505096,33.883701",
+    "geom:latitude":33.883701,
+    "geom:longitude":-84.505096,
+    "iso:country":"US",
+    "sg:address":"1701 Spring St SE Ste A",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 309 5931",
+    "sg:postcode":"30080",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XFapJT8btTLN3vYhpcLxK_33.883701_-84.505096@1303262586"
+    },
+    "wof:country":"US",
+    "wof:created":1461917637,
+    "wof:geomhash":"811a5acccda26475c6dcc760b32537f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":739843423
+        }
+    ],
+    "wof:id":739843423,
+    "wof:lastmodified":1461917637,
+    "wof:name":"Cobb Collision Specialist",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.505096,
+    33.883701,
+    -84.505096,
+    33.883701
+],
+  "geometry": {"coordinates":[-84.50509599999999,33.883701],"type":"Point"}
+}

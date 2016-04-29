@@ -1,0 +1,73 @@
+{
+  "id": 739631999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.285448,30.828252,-83.285448,30.828252",
+    "geom:latitude":30.828252,
+    "geom:longitude":-83.285448,
+    "iso:country":"US",
+    "sg:address":"608 W Hill Ave",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 247 9106",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MAu6lQhoKWn3GVyaIV8eT_30.828252_-83.285448@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461911067,
+    "wof:geomhash":"8698f2d1789488112cd2a471108921a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843077,
+            "region_id":85688535,
+            "venue_id":739631999
+        }
+    ],
+    "wof:id":739631999,
+    "wof:lastmodified":1461911067,
+    "wof:name":"Auto Tech Unlimited",
+    "wof:parent_id":85843077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.285448,
+    30.828252,
+    -83.285448,
+    30.828252
+],
+  "geometry": {"coordinates":[-83.285448,30.828252],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 739766761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.57701,33.544279,-84.57701,33.544279",
+    "geom:latitude":33.544279,
+    "geom:longitude":-84.57701,
+    "iso:country":"US",
+    "sg:address":"7804 Senoia Rd",
+    "sg:city":"Fairburn",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/fairburn-union-city/130386-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 774 0318",
+    "sg:postcode":"30213",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937159,
+        102083603,
+        85848001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Vpk024CI4JwbYgKhrdiMj_33.544279_-84.577010@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914410,
+    "wof:geomhash":"6b8f37c9f6ceaaf50f14668431981fc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937159,
+            "neighbourhood_id":85848001,
+            "region_id":85688535,
+            "venue_id":739766761
+        }
+    ],
+    "wof:id":739766761,
+    "wof:lastmodified":1461914410,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85848001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -84.57701,
+    33.544279,
+    -84.57701,
+    33.544279
+],
+  "geometry": {"coordinates":[-84.57701,33.544279],"type":"Point"}
+}

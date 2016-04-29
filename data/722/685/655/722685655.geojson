@@ -1,0 +1,73 @@
+{
+  "id": 722685655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.130703,32.068535,-81.130703,32.068535",
+    "geom:latitude":32.068535,
+    "geom:longitude":-81.130703,
+    "iso:country":"US",
+    "sg:address":"1617 Sylvester Dr",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 234 8469",
+    "sg:postcode":"31415",
+    "sg:province":"GA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        420517373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DGoDPFwR4xEM63GqfL443_32.068535_-81.130703@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886692,
+    "wof:geomhash":"a8278eee044f7d293b94f9f0e2c2abfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":420517373,
+            "region_id":85688535,
+            "venue_id":722685655
+        }
+    ],
+    "wof:id":722685655,
+    "wof:lastmodified":1461886692,
+    "wof:name":"DBD Cleaning Svc",
+    "wof:parent_id":420517373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -81.130703,
+    32.068535,
+    -81.130703,
+    32.068535
+],
+  "geometry": {"coordinates":[-81.130703,32.068535],"type":"Point"}
+}

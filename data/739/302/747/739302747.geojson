@@ -1,0 +1,71 @@
+{
+  "id": 739302747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.453753,33.446435,-84.453753,33.446435",
+    "geom:latitude":33.446435,
+    "geom:longitude":-84.453753,
+    "iso:country":"US",
+    "sg:address":"105 Johnson Ave",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 461 4441",
+    "sg:postcode":"30214",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936019,
+        102081687,
+        85833669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eY4uMivkQ90fjwLe4lSiy_33.446435_-84.453753@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461904629,
+    "wof:geomhash":"ca1d7cf6f5f16249507b53056d602a63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081687,
+            "locality_id":85936019,
+            "neighbourhood_id":85833669,
+            "region_id":85688535,
+            "venue_id":739302747
+        }
+    ],
+    "wof:id":739302747,
+    "wof:lastmodified":1461904629,
+    "wof:name":"Fayetteville Police Dept",
+    "wof:parent_id":85833669,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.453753,
+    33.446435,
+    -84.453753,
+    33.446435
+],
+  "geometry": {"coordinates":[-84.45375300000001,33.446435],"type":"Point"}
+}

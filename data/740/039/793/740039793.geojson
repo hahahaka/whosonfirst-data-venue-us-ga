@@ -1,0 +1,81 @@
+{
+  "id": 740039793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.944343,34.761213,-84.944343,34.761213",
+    "geom:latitude":34.761213,
+    "geom:longitude":-84.944343,
+    "iso:country":"US",
+    "sg:address":"1503 E Walnut Ave",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 226 7770",
+    "sg:postcode":"30721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ],
+    "sg:website":"http://www.enterprise.com/car_rental/deeplinkmap.do?gpbr=5634&bid=004&cnty=US&arc=YPTRL01&cm_mmc=Yellowpages.com-_-IYP-_-Tradelisting-_-branch",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2u7g0KYuaIpX9YdJAToiCN_34.761213_-84.944343@1303262637"
+    },
+    "wof:country":"US",
+    "wof:created":1461925594,
+    "wof:geomhash":"7ecd1d92b0b320a5ed738a07670b6364",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":740039793
+        }
+    ],
+    "wof:id":740039793,
+    "wof:lastmodified":1461925594,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ]
+},
+  "bbox": [
+    -84.944343,
+    34.761213,
+    -84.944343,
+    34.761213
+],
+  "geometry": {"coordinates":[-84.944343,34.761213],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 739907463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.286186,32.812718,-84.286186,32.812718",
+    "geom:latitude":32.812718,
+    "geom:longitude":-84.286186,
+    "iso:country":"US",
+    "sg:address":"3948 Highway 19 S",
+    "sg:city":"Thomaston",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 647 0100",
+    "sg:postcode":"30286",
+    "sg:province":"GA",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "machinery-rebuild"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936343,
+        102084425,
+        85816847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yeMXz8CIJFJ1NUOpEGHXy_32.812718_-84.286186@1303262603"
+    },
+    "wof:country":"US",
+    "wof:created":1461920102,
+    "wof:geomhash":"e6650913a9c05f2a5be8b5639e97ff2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084425,
+            "locality_id":85936343,
+            "neighbourhood_id":85816847,
+            "region_id":85688535,
+            "venue_id":739907463
+        }
+    ],
+    "wof:id":739907463,
+    "wof:lastmodified":1461920102,
+    "wof:name":"Sewell Machine Shop",
+    "wof:parent_id":85816847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "machinery-rebuild"
+    ]
+},
+  "bbox": [
+    -84.286186,
+    32.812718,
+    -84.286186,
+    32.812718
+],
+  "geometry": {"coordinates":[-84.286186,32.812718],"type":"Point"}
+}

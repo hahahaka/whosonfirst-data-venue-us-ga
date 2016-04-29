@@ -1,0 +1,106 @@
+{
+  "id": 739999541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.293959,33.906241,-84.293959,33.906241",
+    "geom:latitude":33.906241,
+    "geom:longitude":-84.293959,
+    "iso:country":"US",
+    "sg:address":"5800 Peachtree Industrial Blvd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 972 2277",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body",
+        "car",
+        "accessory",
+        "part",
+        "new",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85936435,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2U1EX5zCs0qUl9qSkqbaMh_33.906241_-84.293959@1303262627"
+    },
+    "wof:country":"US",
+    "wof:created":1461923911,
+    "wof:geomhash":"bf12b3550d7960ed85a49b42f108fc3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":739999541
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":739999541
+        }
+    ],
+    "wof:id":739999541,
+    "wof:lastmodified":1461923911,
+    "wof:name":"Group 1",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "car",
+        "accessory",
+        "part",
+        "new",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -84.293959,
+    33.906241,
+    -84.293959,
+    33.906241
+],
+  "geometry": {"coordinates":[-84.293959,33.906241],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 739985341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.542443,33.750784,-84.542443,33.750784",
+    "geom:latitude":33.750784,
+    "geom:longitude":-84.542443,
+    "iso:country":"US",
+    "sg:address":"160 Mendel Drive SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 751 9900",
+    "sg:postcode":"30336",
+    "sg:province":"GA",
+    "sg:tags":[
+        "detailing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85872053,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77dqiOkieu3i1zYyhVaU8t_33.750784_-84.542443@1303262623"
+    },
+    "wof:country":"US",
+    "wof:created":1461923364,
+    "wof:geomhash":"b743a452b06c006b6e5904233849a5a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85872053,
+            "region_id":85688535,
+            "venue_id":739985341
+        }
+    ],
+    "wof:id":739985341,
+    "wof:lastmodified":1461923364,
+    "wof:name":"Executive Auto Detailing and Hand Car Wash",
+    "wof:parent_id":85872053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detailing"
+    ]
+},
+  "bbox": [
+    -84.542443,
+    33.750784,
+    -84.542443,
+    33.750784
+],
+  "geometry": {"coordinates":[-84.54244300000001,33.750784],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 739742777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.271928,33.906191,-84.271928,33.906191",
+    "geom:latitude":33.906191,
+    "geom:longitude":-84.271928,
+    "iso:country":"US",
+    "sg:address":"3753 Longmire Way",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 534 7148",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "painting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        420559931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0roaZUltLbv9DebY0w8t5O_33.906403_-84.271993@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461913491,
+    "wof:geomhash":"ddd610b2ee15c0b4d17021d492dbe576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":739742777
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":420559931,
+            "region_id":85688535,
+            "venue_id":739742777
+        }
+    ],
+    "wof:id":739742777,
+    "wof:lastmodified":1461913491,
+    "wof:name":"Kelley Automotive Collision and Towing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "painting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.271928,
+    33.906191,
+    -84.271928,
+    33.906191
+],
+  "geometry": {"coordinates":[-84.271928,33.906191],"type":"Point"}
+}

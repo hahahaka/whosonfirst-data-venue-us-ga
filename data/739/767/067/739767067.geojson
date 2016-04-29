@@ -1,0 +1,82 @@
+{
+  "id": 739767067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.033755,33.038722,-85.033755,33.038722",
+    "geom:latitude":33.038722,
+    "geom:longitude":-85.033755,
+    "iso:country":"US",
+    "sg:address":"211 Vernon St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/lagrange/163316-rallys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 845 8600",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "sandwich",
+        "dog",
+        "burger",
+        "hot",
+        "wrap",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6joMeJeI823Abps8EGegg8_33.038722_-85.033755@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914423,
+    "wof:geomhash":"cfc1d2769d042127f98eedb2968a7e81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739767067
+        }
+    ],
+    "wof:id":739767067,
+    "wof:lastmodified":1461914423,
+    "wof:name":"Rally's",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "dog",
+        "burger",
+        "hot",
+        "wrap",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.033755,
+    33.038722,
+    -85.033755,
+    33.038722
+],
+  "geometry": {"coordinates":[-85.033755,33.038722],"type":"Point"}
+}

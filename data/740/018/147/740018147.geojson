@@ -1,0 +1,82 @@
+{
+  "id": 740018147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.27327,33.940759,-84.27327,33.940759",
+    "geom:latitude":33.940759,
+    "geom:longitude":-84.27327,
+    "iso:country":"US",
+    "sg:address":"3017 Peeler Road",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 394 0030",
+    "sg:postcode":"30360",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85854693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W3bxFh5XvAMJEZwoRfp28_33.940759_-84.273270@1303262631"
+    },
+    "wof:country":"US",
+    "wof:created":1461924621,
+    "wof:geomhash":"fc3f92986d5f124da928a887e331d537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85854693,
+            "region_id":85688535,
+            "venue_id":740018147
+        }
+    ],
+    "wof:id":740018147,
+    "wof:lastmodified":1461924621,
+    "wof:name":"Winters Chapel Animal Hospital",
+    "wof:parent_id":85854693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.27327,
+    33.940759,
+    -84.27327,
+    33.940759
+],
+  "geometry": {"coordinates":[-84.27327,33.940759],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 739987805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.297931,33.927555,-84.297931,33.927555",
+    "geom:latitude":33.927555,
+    "geom:longitude":-84.297931,
+    "iso:country":"US",
+    "sg:address":"2300 Peachford Road",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 458 2804",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85936467,
+        85890023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4P7RCYlJ9PBP1d3X61Gosv_33.927555_-84.297931@1303262623"
+    },
+    "wof:country":"US",
+    "wof:created":1461923470,
+    "wof:geomhash":"cee526fd1f24d7e672a3d4d4fbee7ed8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":739987805
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890023,
+            "region_id":85688535,
+            "venue_id":739987805
+        }
+    ],
+    "wof:id":739987805,
+    "wof:lastmodified":1461923470,
+    "wof:name":"The Providence Group Sales Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.297931,
+    33.927555,
+    -84.297931,
+    33.927555
+],
+  "geometry": {"coordinates":[-84.29793100000001,33.927555],"type":"Point"}
+}

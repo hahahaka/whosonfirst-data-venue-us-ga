@@ -1,0 +1,83 @@
+{
+  "id": 739927707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.369548,33.839988,-84.369548,33.839988",
+    "geom:latitude":33.839988,
+    "geom:longitude":-84.369548,
+    "iso:country":"US",
+    "sg:address":"3088 Piedmont Rd NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 261 7337",
+    "sg:postcode":"30305",
+    "sg:province":"GA",
+    "sg:tags":[
+        "car",
+        "leasing",
+        "truck"
+    ],
+    "sg:website":"http://www.enterprise.com/car_rental/deeplinkmap.do?gpbr=0301&bid=004&cnty=US&arc=YPTRL01&cm_mmc=Yellowpages.com-_-IYP-_-Tradelisting-_-branch",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XB1pViwszUt1O9nCDfi8T_33.839988_-84.369548@1303262608"
+    },
+    "wof:country":"US",
+    "wof:created":1461920926,
+    "wof:geomhash":"2837d0a6a097e1751abd5cb0af9c9946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872063,
+            "region_id":85688535,
+            "venue_id":739927707
+        }
+    ],
+    "wof:id":739927707,
+    "wof:lastmodified":1461920926,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85872063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "leasing",
+        "truck"
+    ]
+},
+  "bbox": [
+    -84.369548,
+    33.839988,
+    -84.369548,
+    33.839988
+],
+  "geometry": {"coordinates":[-84.36954799999999,33.839988],"type":"Point"}
+}

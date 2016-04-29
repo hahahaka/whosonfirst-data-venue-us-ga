@@ -1,0 +1,85 @@
+{
+  "id": 722875197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.292315,33.748747,-84.292315,33.748747",
+    "geom:latitude":33.748747,
+    "geom:longitude":-84.292315,
+    "iso:country":"US",
+    "sg:address":"47 Candler Rd SE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 378 3012",
+    "sg:postcode":"30317",
+    "sg:province":"GA",
+    "sg:tags":[
+        "assisted",
+        "health",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937245,
+        102084539,
+        85816501,
+        85816491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ye6gIMqJqBxAkdWtgU8Bq_33.748747_-84.292315@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461890297,
+    "wof:geomhash":"9e7d982d33c79bd1fb30b9fe6b3a6f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937245,
+            "neighbourhood_id":85816501,
+            "region_id":85688535,
+            "venue_id":722875197
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":722875197
+        }
+    ],
+    "wof:id":722875197,
+    "wof:lastmodified":1461890297,
+    "wof:name":"Pam Dobbs Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assisted",
+        "health",
+        "family"
+    ]
+},
+  "bbox": [
+    -84.292315,
+    33.748747,
+    -84.292315,
+    33.748747
+],
+  "geometry": {"coordinates":[-84.292315,33.748747],"type":"Point"}
+}

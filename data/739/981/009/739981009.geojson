@@ -1,0 +1,91 @@
+{
+  "id": 739981009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.314857,33.817581,-84.314857,33.817581",
+    "geom:latitude":33.817581,
+    "geom:longitude":-84.314857,
+    "iso:country":"US",
+    "sg:address":"2166 Lavista Rd NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 459 8554",
+    "sg:postcode":"30329",
+    "sg:province":"GA",
+    "sg:tags":[
+        "loan",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937259,
+        102084539,
+        85866913,
+        85937257,
+        85890013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eZlMCCSXGXoxJvK37enSU_33.817581_-84.314857@1303262622"
+    },
+    "wof:country":"US",
+    "wof:created":1461923167,
+    "wof:geomhash":"841567e46fd713413ebfc555bae9bd29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937259,
+            "neighbourhood_id":85866913,
+            "region_id":85688535,
+            "venue_id":739981009
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937257,
+            "neighbourhood_id":85890013,
+            "region_id":85688535,
+            "venue_id":739981009
+        }
+    ],
+    "wof:id":739981009,
+    "wof:lastmodified":1461923167,
+    "wof:name":"Taylor Bean & Whitaker Mortgage Corp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -84.314857,
+    33.817581,
+    -84.314857,
+    33.817581
+],
+  "geometry": {"coordinates":[-84.314857,33.817581],"type":"Point"}
+}

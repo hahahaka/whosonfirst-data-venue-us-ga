@@ -1,0 +1,84 @@
+{
+  "id": 739840845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.501931,33.852669,-84.501931,33.852669",
+    "geom:latitude":33.852669,
+    "geom:longitude":-84.501931,
+    "iso:country":"US",
+    "sg:address":"2206 Iron Gate Dr SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 432 9326",
+    "sg:postcode":"30080",
+    "sg:province":"GA",
+    "sg:tags":[
+        "candles-wholesale",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936139,
+        102082313,
+        85812573,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rNABm2O6Kp0SnO5bJTy5V_33.852669_-84.501931@1303262586"
+    },
+    "wof:country":"US",
+    "wof:created":1461917524,
+    "wof:geomhash":"8fd2d7973c9762d0ad4c95a2f0e753fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85812573,
+            "region_id":85688535,
+            "venue_id":739840845
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":739840845
+        }
+    ],
+    "wof:id":739840845,
+    "wof:lastmodified":1461917524,
+    "wof:name":"Candlehill",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "candles-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -84.501931,
+    33.852669,
+    -84.501931,
+    33.852669
+],
+  "geometry": {"coordinates":[-84.501931,33.852669],"type":"Point"}
+}

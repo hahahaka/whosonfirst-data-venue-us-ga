@@ -1,0 +1,79 @@
+{
+  "id": 739918877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.387561,33.759573,-84.387561,33.759573",
+    "geom:latitude":33.759573,
+    "geom:longitude":-84.387561,
+    "iso:country":"US",
+    "sg:address":"Westin Hotel Peachtree Plaza - Lobby 210 Peachtree Street NW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 659 1400",
+    "sg:postcode":"30303",
+    "sg:province":"GA",
+    "sg:website":"www.starbucks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85819463,
+        85866901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TRfXwsjBFM5NfdeQRYvsg_33.759573_-84.387561@1303262606"
+    },
+    "wof:country":"US",
+    "wof:created":1461920545,
+    "wof:geomhash":"616fde0b855ce38f97aa1fce5d489122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85819463,
+            "region_id":85688535,
+            "venue_id":739918877
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85866901,
+            "region_id":85688535,
+            "venue_id":739918877
+        }
+    ],
+    "wof:id":739918877,
+    "wof:lastmodified":1461920545,
+    "wof:name":"Starbucks",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.387561,
+    33.759573,
+    -84.387561,
+    33.759573
+],
+  "geometry": {"coordinates":[-84.38756100000001,33.759573],"type":"Point"}
+}

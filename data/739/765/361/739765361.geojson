@@ -1,0 +1,73 @@
+{
+  "id": 739765361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.677303,34.066583,-84.677303,34.066583",
+    "geom:latitude":34.066583,
+    "geom:longitude":-84.677303,
+    "iso:country":"US",
+    "sg:address":"5080 Cherokee St",
+    "sg:city":"Acworth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/acworth-kennesaw/195944-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30101",
+    "sg:province":"GA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936129,
+        102082313,
+        85834659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_464ddMbXiSpn483ewkCS6K_34.066583_-84.677303@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914357,
+    "wof:geomhash":"2aa9706acdabb1704c447b8730f56478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936129,
+            "neighbourhood_id":85834659,
+            "region_id":85688535,
+            "venue_id":739765361
+        }
+    ],
+    "wof:id":739765361,
+    "wof:lastmodified":1461914357,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85834659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -84.677303,
+    34.066583,
+    -84.677303,
+    34.066583
+],
+  "geometry": {"coordinates":[-84.67730299999999,34.066583],"type":"Point"}
+}

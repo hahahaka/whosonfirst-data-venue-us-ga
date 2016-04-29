@@ -1,0 +1,91 @@
+{
+  "id": 740065143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.291,30.8223,-83.291,30.8223",
+    "geom:latitude":30.8223,
+    "geom:longitude":-83.291,
+    "iso:country":"US",
+    "sg:address":"1101 Hawkins St",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Recycling",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 238 1019",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "container",
+        "dumpster",
+        "garbage",
+        "hauling",
+        "collection",
+        "removal",
+        "rubbish",
+        "trash"
+    ],
+    "sg:website":"http://www.VeoliaES-SW.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aehkrC4TNGf4IpuOruoEf_30.822300_-83.291000@1303262643"
+    },
+    "wof:country":"US",
+    "wof:created":1461926757,
+    "wof:geomhash":"51db8605207e5795b1bf856910f2e5aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843077,
+            "region_id":85688535,
+            "venue_id":740065143
+        }
+    ],
+    "wof:id":740065143,
+    "wof:lastmodified":1461926757,
+    "wof:name":"Veolia Environmental Services",
+    "wof:parent_id":85843077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "container",
+        "dumpster",
+        "garbage",
+        "hauling",
+        "collection",
+        "removal",
+        "rubbish",
+        "trash"
+    ]
+},
+  "bbox": [
+    -83.291,
+    30.8223,
+    -83.291,
+    30.8223
+],
+  "geometry": {"coordinates":[-83.291,30.8223],"type":"Point"}
+}

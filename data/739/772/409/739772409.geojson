@@ -1,0 +1,86 @@
+{
+  "id": 739772409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.660298,32.813918,-83.660298,32.813918",
+    "geom:latitude":32.813918,
+    "geom:longitude":-83.660298,
+    "iso:country":"US",
+    "sg:address":"1224 Eisenhower Pkwy",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/macon/95579-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 784 0800",
+    "sg:postcode":"31206",
+    "sg:province":"GA",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936517,
+        102084373,
+        85803227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SlTPPAZ2Q0xNziLRUrOMJ_32.813918_-83.660298@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914643,
+    "wof:geomhash":"c0110447290e6628191836c0ecf63734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084373,
+            "locality_id":85936517,
+            "neighbourhood_id":85803227,
+            "region_id":85688535,
+            "venue_id":739772409
+        }
+    ],
+    "wof:id":739772409,
+    "wof:lastmodified":1461914643,
+    "wof:name":"IHOP",
+    "wof:parent_id":85803227,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -83.660298,
+    32.813918,
+    -83.660298,
+    32.813918
+],
+  "geometry": {"coordinates":[-83.660298,32.813918],"type":"Point"}
+}

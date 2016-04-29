@@ -1,0 +1,71 @@
+{
+  "id": 722813483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.422462,31.373039,-81.422462,31.373039",
+    "geom:latitude":31.373039,
+    "geom:longitude":-81.422462,
+    "iso:country":"US",
+    "sg:address":"1006 Pine St",
+    "sg:city":"Darien",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 437 4543",
+    "sg:postcode":"31305",
+    "sg:province":"GA",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936669,
+        102084461,
+        85805337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iXk0ps3XPGfjBbg3jkZhX_31.373039_-81.422462@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461889132,
+    "wof:geomhash":"db27d956459d4332622ce025d5ecf7c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084461,
+            "locality_id":85936669,
+            "neighbourhood_id":85805337,
+            "region_id":85688535,
+            "venue_id":722813483
+        }
+    ],
+    "wof:id":722813483,
+    "wof:lastmodified":1461889132,
+    "wof:name":"Pete's Appliance Repair",
+    "wof:parent_id":85805337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -81.422462,
+    31.373039,
+    -81.422462,
+    31.373039
+],
+  "geometry": {"coordinates":[-81.422462,31.373039],"type":"Point"}
+}

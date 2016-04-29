@@ -1,0 +1,73 @@
+{
+  "id": 722644269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.976055,32.482541,-84.976055,32.482541",
+    "geom:latitude":32.482541,
+    "geom:longitude":-84.976055,
+    "iso:country":"US",
+    "sg:address":"1120 21st St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 322 1616",
+    "sg:postcode":"31901",
+    "sg:province":"GA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85882101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01CVYX0rBWc6PU6OiK75Ry_32.482541_-84.976055@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461885915,
+    "wof:geomhash":"73d04bb8942cb0208ff792cb6ae4bf97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85882101,
+            "region_id":85688535,
+            "venue_id":722644269
+        }
+    ],
+    "wof:id":722644269,
+    "wof:lastmodified":1461885915,
+    "wof:name":"Yellow Cab Co",
+    "wof:parent_id":85882101,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -84.976055,
+    32.482541,
+    -84.976055,
+    32.482541
+],
+  "geometry": {"coordinates":[-84.976055,32.482541],"type":"Point"}
+}

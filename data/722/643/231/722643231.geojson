@@ -1,0 +1,85 @@
+{
+  "id": 722643231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.28167,33.900199,-84.28167,33.900199",
+    "geom:latitude":33.900199,
+    "geom:longitude":-84.28167,
+    "iso:country":"US",
+    "sg:address":"5921 New Peachtree Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 451 3100",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        420559931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ygCJFy0mVCIB2RUk4sXO0_33.900199_-84.281670@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461885898,
+    "wof:geomhash":"798dae9a0e4e562413047e1a175748f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":722643231
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":420559931,
+            "region_id":85688535,
+            "venue_id":722643231
+        }
+    ],
+    "wof:id":722643231,
+    "wof:lastmodified":1461885898,
+    "wof:name":"Centro Internacional De Matern",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.28167,
+    33.900199,
+    -84.28167,
+    33.900199
+],
+  "geometry": {"coordinates":[-84.28167000000001,33.900199],"type":"Point"}
+}

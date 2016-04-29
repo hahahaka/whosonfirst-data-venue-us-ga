@@ -1,0 +1,77 @@
+{
+  "id": 723325011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.652481,32.787173,-83.652481,32.787173",
+    "geom:latitude":32.787173,
+    "geom:longitude":-83.652481,
+    "iso:country":"US",
+    "sg:address":"4274 Broadway",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 788 3696",
+    "sg:postcode":"31206",
+    "sg:province":"GA",
+    "sg:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936517,
+        102084373,
+        420517203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2z7N3bkpjqVWnwsbPAjtME_32.787173_-83.652481@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899541,
+    "wof:geomhash":"bcf499f9452b2997ee2cbf8a8d88309b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084373,
+            "locality_id":85936517,
+            "neighbourhood_id":420517203,
+            "region_id":85688535,
+            "venue_id":723325011
+        }
+    ],
+    "wof:id":723325011,
+    "wof:lastmodified":1461899541,
+    "wof:name":"Automated Tellers Of Macon",
+    "wof:parent_id":420517203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ]
+},
+  "bbox": [
+    -83.652481,
+    32.787173,
+    -83.652481,
+    32.787173
+],
+  "geometry": {"coordinates":[-83.65248099999999,32.787173],"type":"Point"}
+}

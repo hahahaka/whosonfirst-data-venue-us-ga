@@ -1,0 +1,69 @@
+{
+  "id": 739263965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.263461,30.781789,-83.263461,30.781789",
+    "geom:latitude":30.781789,
+    "geom:longitude":-83.263461,
+    "iso:country":"US",
+    "sg:address":"2709 Alexandria St",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 241 1042",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85827233,
+        102083585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZmVGfiJEvTtzoJtCE1HFU_30.781789_-83.263461@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461903795,
+    "wof:geomhash":"a419a44952ee2d59e318e3e4ef534bd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "neighbourhood_id":85827233,
+            "region_id":85688535,
+            "venue_id":739263965
+        }
+    ],
+    "wof:id":739263965,
+    "wof:lastmodified":1461903795,
+    "wof:name":"John's Appliance Repair",
+    "wof:parent_id":85827233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -83.263461,
+    30.781789,
+    -83.263461,
+    30.781789
+],
+  "geometry": {"coordinates":[-83.26346100000001,30.781789],"type":"Point"}
+}

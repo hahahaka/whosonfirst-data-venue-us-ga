@@ -1,0 +1,93 @@
+{
+  "id": 740017911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.280261,33.928876,-84.280261,33.928876",
+    "geom:latitude":33.928876,
+    "geom:longitude":-84.280261,
+    "iso:country":"US",
+    "sg:address":"2585 Amberly Dr",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 457 7947",
+    "sg:postcode":"30360",
+    "sg:province":"GA",
+    "sg:tags":[
+        "employee",
+        "benefit",
+        "commercial",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wvnxiL9vXYbjW5Lun0MWy_33.928876_-84.280261@1303262631"
+    },
+    "wof:country":"US",
+    "wof:created":1461924613,
+    "wof:geomhash":"b3e883775a00d3f2790898d94d59603e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":740017911
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":740017911
+        }
+    ],
+    "wof:id":740017911,
+    "wof:lastmodified":1461924613,
+    "wof:name":"Murphy Insurance Services",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "employee",
+        "benefit",
+        "commercial",
+        "business"
+    ]
+},
+  "bbox": [
+    -84.280261,
+    33.928876,
+    -84.280261,
+    33.928876
+],
+  "geometry": {"coordinates":[-84.280261,33.928876],"type":"Point"}
+}

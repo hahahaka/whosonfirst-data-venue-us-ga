@@ -1,0 +1,73 @@
+{
+  "id": 722834881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.367976,30.991676,-83.367976,30.991676",
+    "geom:latitude":30.991676,
+    "geom:longitude":-83.367976,
+    "iso:country":"US",
+    "sg:address":"207 E Main St",
+    "sg:city":"Hahira",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 794 1037",
+    "sg:postcode":"31632",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85815713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7i0ZPQpOw2pXYf3uWoJx7S_30.991676_-83.367976@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461889537,
+    "wof:geomhash":"3800f55d1b01107976992fb5e7247514",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85815713,
+            "region_id":85688535,
+            "venue_id":722834881
+        }
+    ],
+    "wof:id":722834881,
+    "wof:lastmodified":1461889537,
+    "wof:name":"Physician Diagnostic Solutions",
+    "wof:parent_id":85815713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.367976,
+    30.991676,
+    -83.367976,
+    30.991676
+],
+  "geometry": {"coordinates":[-83.367976,30.991676],"type":"Point"}
+}

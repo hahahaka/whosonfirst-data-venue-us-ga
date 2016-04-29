@@ -1,0 +1,69 @@
+{
+  "id": 723443673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.764609,32.859344,-83.764609,32.859344",
+    "geom:latitude":32.859344,
+    "geom:longitude":-83.764609,
+    "iso:country":"US",
+    "sg:address":"114 Fordham Ct",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 475 9009",
+    "sg:postcode":"31220",
+    "sg:province":"GA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85848313,
+        102084373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Drbp38UoWmhtgxKcoYp8q_32.859344_-83.764609@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901831,
+    "wof:geomhash":"8494d350682308accdbec48b1c31925d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084373,
+            "neighbourhood_id":85848313,
+            "region_id":85688535,
+            "venue_id":723443673
+        }
+    ],
+    "wof:id":723443673,
+    "wof:lastmodified":1461901831,
+    "wof:name":"Janitor Service",
+    "wof:parent_id":85848313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -83.764609,
+    32.859344,
+    -83.764609,
+    32.859344
+],
+  "geometry": {"coordinates":[-83.76460899999999,32.859344],"type":"Point"}
+}

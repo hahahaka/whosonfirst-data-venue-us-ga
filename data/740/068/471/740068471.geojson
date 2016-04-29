@@ -1,0 +1,89 @@
+{
+  "id": 740068471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.178165,31.582712,-84.178165,31.582712",
+    "geom:latitude":31.582712,
+    "geom:longitude":-84.178165,
+    "iso:country":"US",
+    "sg:address":"1144 Dawson Rd",
+    "sg:city":"Albany",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 888 1005",
+    "sg:postcode":"31707",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon",
+        "chiropractic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85935991,
+        102084427,
+        85857715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ziOkMSW76FXLzesmavSLG_31.582712_-84.178165@1303262644"
+    },
+    "wof:country":"US",
+    "wof:created":1461926901,
+    "wof:geomhash":"12998d6543339b824f73bb2fa605757b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":85857715,
+            "region_id":85688535,
+            "venue_id":740068471
+        }
+    ],
+    "wof:id":740068471,
+    "wof:lastmodified":1461926901,
+    "wof:name":"Holistic Healthcare In Albany",
+    "wof:parent_id":85857715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon",
+        "chiropractic"
+    ]
+},
+  "bbox": [
+    -84.178165,
+    31.582712,
+    -84.178165,
+    31.582712
+],
+  "geometry": {"coordinates":[-84.17816500000001,31.582712],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 722992387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.135023,34.197465,-84.135023,34.197465",
+    "geom:latitude":34.197465,
+    "geom:longitude":-84.135023,
+    "iso:country":"US",
+    "sg:address":"502 Atlanta Rd",
+    "sg:city":"Cumming",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 513 7159",
+    "sg:postcode":"30040",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automobile",
+        "testing",
+        "emission"
+    ],
+    "sg:website":"www.herbertautomotive.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936811,
+        102082317,
+        85842073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cmvBTeZ3s6kCqEUC1vBZN_34.197465_-84.135023@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461892734,
+    "wof:geomhash":"26d71f10ef5a5c10779a26614e03149c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082317,
+            "locality_id":85936811,
+            "neighbourhood_id":85842073,
+            "region_id":85688535,
+            "venue_id":722992387
+        }
+    ],
+    "wof:id":722992387,
+    "wof:lastmodified":1461892734,
+    "wof:name":"Herbert Emissions",
+    "wof:parent_id":85842073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "testing",
+        "emission"
+    ]
+},
+  "bbox": [
+    -84.135023,
+    34.197465,
+    -84.135023,
+    34.197465
+],
+  "geometry": {"coordinates":[-84.135023,34.197465],"type":"Point"}
+}

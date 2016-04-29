@@ -1,0 +1,72 @@
+{
+  "id": 739773595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.581228,31.139572,-81.581228,31.139572",
+    "geom:latitude":31.139572,
+    "geom:longitude":-81.581228,
+    "iso:country":"US",
+    "sg:address":"125 Palisade Dr",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/thalmann/140398-waffle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 439 0894",
+    "sg:postcode":"31523",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85822091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gmFIcrmJavhYBzzYSqyFU_31.139572_-81.581228@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914687,
+    "wof:geomhash":"b43bd7baebd6bbf6603936f97142e55a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85822091,
+            "region_id":85688535,
+            "venue_id":739773595
+        }
+    ],
+    "wof:id":739773595,
+    "wof:lastmodified":1461914687,
+    "wof:name":"Waffle House",
+    "wof:parent_id":85822091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -81.581228,
+    31.139572,
+    -81.581228,
+    31.139572
+],
+  "geometry": {"coordinates":[-81.581228,31.139572],"type":"Point"}
+}

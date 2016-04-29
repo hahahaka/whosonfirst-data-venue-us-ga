@@ -1,0 +1,74 @@
+{
+  "id": 723100969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.734799,32.463389,-83.734799,32.463389",
+    "geom:latitude":32.463389,
+    "geom:longitude":-83.734799,
+    "iso:country":"US",
+    "sg:address":"1301 Washington St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 988 8058",
+    "sg:postcode":"31069",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.lubefast.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eCG2tikg663DcUKeFoDa6_32.463389_-83.734799@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461895143,
+    "wof:geomhash":"7ef5c48aa8e5e5988d18d1a5546875b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":723100969
+        }
+    ],
+    "wof:id":723100969,
+    "wof:lastmodified":1461895143,
+    "wof:name":"Amercan Lubes Fast",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.734799,
+    32.463389,
+    -83.734799,
+    32.463389
+],
+  "geometry": {"coordinates":[-83.734799,32.463389],"type":"Point"}
+}

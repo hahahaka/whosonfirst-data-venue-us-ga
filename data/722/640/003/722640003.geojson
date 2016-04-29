@@ -1,0 +1,71 @@
+{
+  "id": 722640003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.119875,34.004638,-84.119875,34.004638",
+    "geom:latitude":34.004638,
+    "geom:longitude":-84.119875,
+    "iso:country":"US",
+    "sg:address":"3016 Canter Way",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 476 1658",
+    "sg:postcode":"30097",
+    "sg:province":"GA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sgfA1yWByFx3s8iX57zwc_34.004638_-84.119875@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461885839,
+    "wof:geomhash":"fc9cc629ccf8e3111ec3b8b60e564b94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":722640003
+        }
+    ],
+    "wof:id":722640003,
+    "wof:lastmodified":1461885839,
+    "wof:name":"FNS Electric",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.119875,
+    34.004638,
+    -84.119875,
+    34.004638
+],
+  "geometry": {"coordinates":[-84.11987499999999,34.004638],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 740072339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.873544,32.753964,-84.873544,32.753964",
+    "geom:latitude":32.753964,
+    "geom:longitude":-84.873544,
+    "iso:country":"US",
+    "sg:address":"133 S College St",
+    "sg:city":"Hamilton",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 801 0090",
+    "sg:postcode":"31811",
+    "sg:province":"GA",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936099,
+        102084477,
+        85835873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZcCjehMPAR8afC2aU1aPG_32.753964_-84.873544@1303262645"
+    },
+    "wof:country":"US",
+    "wof:created":1461927067,
+    "wof:geomhash":"9522ad938bc12493831ed9bf0638d0f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084477,
+            "locality_id":85936099,
+            "neighbourhood_id":85835873,
+            "region_id":85688535,
+            "venue_id":740072339
+        }
+    ],
+    "wof:id":740072339,
+    "wof:lastmodified":1461927067,
+    "wof:name":"JP Auto Care",
+    "wof:parent_id":85835873,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [
+    -84.873544,
+    32.753964,
+    -84.873544,
+    32.753964
+],
+  "geometry": {"coordinates":[-84.873544,32.753964],"type":"Point"}
+}

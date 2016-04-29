@@ -1,0 +1,73 @@
+{
+  "id": 722742533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.497222,33.951708,-84.497222,33.951708",
+    "geom:latitude":33.951708,
+    "geom:longitude":-84.497222,
+    "iso:country":"US",
+    "sg:address":"1923 Lower Roswell Rd",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 822 0680",
+    "sg:postcode":"30068",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936135,
+        102082313,
+        85857049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AJb5aIG1QVAQfJpda2lU0_33.951708_-84.497222@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461887801,
+    "wof:geomhash":"def0c55965e7d505bad83ec71c8ad21e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936135,
+            "neighbourhood_id":85857049,
+            "region_id":85688535,
+            "venue_id":722742533
+        }
+    ],
+    "wof:id":722742533,
+    "wof:lastmodified":1461887801,
+    "wof:name":"Malone's Automotive",
+    "wof:parent_id":85857049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.497222,
+    33.951708,
+    -84.497222,
+    33.951708
+],
+  "geometry": {"coordinates":[-84.49722199999999,33.951708],"type":"Point"}
+}

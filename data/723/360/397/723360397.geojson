@@ -1,0 +1,87 @@
+{
+  "id": 723360397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.271494,33.905057,-84.271494,33.905057",
+    "geom:latitude":33.905057,
+    "geom:longitude":-84.271494,
+    "iso:country":"US",
+    "sg:address":"5600 Buford Hwy NE",
+    "sg:city":"Doraville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 936 0037",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automobile",
+        "testing",
+        "emission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        420559931,
+        85889959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4A6kxSBiuiKuswC7KpMCg5_33.905057_-84.271494@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900186,
+    "wof:geomhash":"2ac0b27570a4138168da332c75ed2c8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":420559931,
+            "region_id":85688535,
+            "venue_id":723360397
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":723360397
+        }
+    ],
+    "wof:id":723360397,
+    "wof:lastmodified":1461900186,
+    "wof:name":"O K Emission",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "testing",
+        "emission"
+    ]
+},
+  "bbox": [
+    -84.271494,
+    33.905057,
+    -84.271494,
+    33.905057
+],
+  "geometry": {"coordinates":[-84.271494,33.905057],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 739796185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.245773,33.76109,-84.245773,33.76109",
+    "geom:latitude":33.76109,
+    "geom:longitude":-84.245773,
+    "iso:country":"US",
+    "sg:address":"3757 Covington Hwy",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 288 4555",
+    "sg:postcode":"30032",
+    "sg:province":"GA",
+    "sg:tags":[
+        "leasing",
+        "tools-renting",
+        "yard",
+        "saw",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937263,
+        102084539,
+        85890037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_023lxCVF3G5JtH2yNzKwBr_33.761090_-84.245773@1303262574"
+    },
+    "wof:country":"US",
+    "wof:created":1461915615,
+    "wof:geomhash":"7667ad2b1edc66d3d66cabb8e479fc4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937263,
+            "neighbourhood_id":85890037,
+            "region_id":85688535,
+            "venue_id":739796185
+        }
+    ],
+    "wof:id":739796185,
+    "wof:lastmodified":1461915615,
+    "wof:name":"Dekalb Tool Rental Inc",
+    "wof:parent_id":85890037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "tools-renting",
+        "yard",
+        "saw",
+        "store"
+    ]
+},
+  "bbox": [
+    -84.245773,
+    33.76109,
+    -84.245773,
+    33.76109
+],
+  "geometry": {"coordinates":[-84.245773,33.76109],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 723413649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.811527,33.948287,-84.811527,33.948287",
+    "geom:latitude":33.948287,
+    "geom:longitude":-84.811527,
+    "iso:country":"US",
+    "sg:address":"1511 Industrial Blvd N",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 445 5864",
+    "sg:postcode":"30132",
+    "sg:province":"GA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85835699,
+        102084665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0L4QRcUjID09DvfCWctg4m_33.948287_-84.811527@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901237,
+    "wof:geomhash":"bb2b0b59f4046286c1fccd7cf53cbd3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "neighbourhood_id":85835699,
+            "region_id":85688535,
+            "venue_id":723413649
+        }
+    ],
+    "wof:id":723413649,
+    "wof:lastmodified":1461901237,
+    "wof:name":"Mc Kinzie Trucking Inc",
+    "wof:parent_id":85835699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.811527,
+    33.948287,
+    -84.811527,
+    33.948287
+],
+  "geometry": {"coordinates":[-84.811527,33.948287],"type":"Point"}
+}

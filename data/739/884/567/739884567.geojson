@@ -1,0 +1,80 @@
+{
+  "id": 739884567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.718938,34.322785,-84.718938,34.322785",
+    "geom:latitude":34.322785,
+    "geom:longitude":-84.718938,
+    "iso:country":"US",
+    "sg:address":"4093 Highway 411 NE",
+    "sg:city":"Rydal",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 606 0068",
+    "sg:postcode":"30171",
+    "sg:province":"GA",
+    "sg:tags":[
+        "self",
+        "commercial",
+        "warehouses-public-commercial",
+        "household"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85823399,
+        102082937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xuTPQ6YJhvXPeWD5nKoEQ_34.322785_-84.718938@1303262597"
+    },
+    "wof:country":"US",
+    "wof:created":1461919229,
+    "wof:geomhash":"c85783fe188e5f49496778cbe0090fbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082937,
+            "neighbourhood_id":85823399,
+            "region_id":85688535,
+            "venue_id":739884567
+        }
+    ],
+    "wof:id":739884567,
+    "wof:lastmodified":1461919229,
+    "wof:name":"Rydal Storage",
+    "wof:parent_id":85823399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "commercial",
+        "warehouses-public-commercial",
+        "household"
+    ]
+},
+  "bbox": [
+    -84.718938,
+    34.322785,
+    -84.718938,
+    34.322785
+],
+  "geometry": {"coordinates":[-84.71893799999999,34.322785],"type":"Point"}
+}

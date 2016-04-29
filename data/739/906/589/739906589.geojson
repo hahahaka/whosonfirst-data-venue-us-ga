@@ -1,0 +1,75 @@
+{
+  "id": 739906589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.256648,33.553097,-84.256648,33.553097",
+    "geom:latitude":33.553097,
+    "geom:longitude":-84.256648,
+    "iso:country":"US",
+    "sg:address":"5600 N Henry Blvd",
+    "sg:city":"Stockbridge",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Mobile Phones",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 389 1709",
+    "sg:postcode":"30281",
+    "sg:province":"GA",
+    "sg:website":"www.walmart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85811519,
+        102082899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16hN8UBdpqthZnLa98Lp2z_33.553097_-84.256648@1303262603"
+    },
+    "wof:country":"US",
+    "wof:created":1461920061,
+    "wof:geomhash":"7da67ba73a3238f68b072f378fe0acd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082899,
+            "neighbourhood_id":85811519,
+            "region_id":85688535,
+            "venue_id":739906589
+        }
+    ],
+    "wof:id":739906589,
+    "wof:lastmodified":1461920061,
+    "wof:name":"Walmart",
+    "wof:parent_id":85811519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.256648,
+    33.553097,
+    -84.256648,
+    33.553097
+],
+  "geometry": {"coordinates":[-84.256648,33.553097],"type":"Point"}
+}

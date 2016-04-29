@@ -1,0 +1,80 @@
+{
+  "id": 740008445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.489853,33.650157,-84.489853,33.650157",
+    "geom:latitude":33.650157,
+    "geom:longitude":-84.489853,
+    "iso:country":"US",
+    "sg:address":"3865 Washington Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Driving School",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Kindergarten",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 766 9000",
+    "sg:postcode":"30344",
+    "sg:province":"GA",
+    "sg:tags":[
+        "instruction",
+        "traffic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937155,
+        102083603,
+        85844099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SPu8JAATXSBjx6epz0XVv_33.650157_-84.489853@1303262629"
+    },
+    "wof:country":"US",
+    "wof:created":1461924250,
+    "wof:geomhash":"3dbd01d9a83de02fbade60efb8be8cc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937155,
+            "neighbourhood_id":85844099,
+            "region_id":85688535,
+            "venue_id":740008445
+        }
+    ],
+    "wof:id":740008445,
+    "wof:lastmodified":1461924250,
+    "wof:name":"Aegis Defensive Driving Clinic",
+    "wof:parent_id":85844099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "traffic"
+    ]
+},
+  "bbox": [
+    -84.489853,
+    33.650157,
+    -84.489853,
+    33.650157
+],
+  "geometry": {"coordinates":[-84.489853,33.650157],"type":"Point"}
+}

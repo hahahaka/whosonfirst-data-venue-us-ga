@@ -1,0 +1,77 @@
+{
+  "id": 723234839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.115373,33.498914,-82.115373,33.498914",
+    "geom:latitude":33.498914,
+    "geom:longitude":-82.115373,
+    "iso:country":"US",
+    "sg:address":"113 Redbud Ln",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 860 8127",
+    "sg:postcode":"30907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"www.abca.info",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DEcukH3kXAHxvtcERwYWt_33.498914_-82.115373@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897806,
+    "wof:geomhash":"4f0cc9f3108a33fa9ebdd30bbdca6c2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":723234839
+        }
+    ],
+    "wof:id":723234839,
+    "wof:lastmodified":1461897806,
+    "wof:name":"American Breast Cancer Assoc",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -82.115373,
+    33.498914,
+    -82.115373,
+    33.498914
+],
+  "geometry": {"coordinates":[-82.11537300000001,33.498914],"type":"Point"}
+}

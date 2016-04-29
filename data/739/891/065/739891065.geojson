@@ -1,0 +1,80 @@
+{
+  "id": 739891065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.797813,33.24084,-84.797813,33.24084",
+    "geom:latitude":33.24084,
+    "geom:longitude":-84.797813,
+    "iso:country":"US",
+    "sg:address":"226 Lowry Rd",
+    "sg:city":"Grantville",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 583 3033",
+    "sg:postcode":"30220",
+    "sg:province":"GA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936351,
+        102084443,
+        85816617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7b76487wbTiOnCj0Drsn9l_33.240840_-84.797813@1303262599"
+    },
+    "wof:country":"US",
+    "wof:created":1461919471,
+    "wof:geomhash":"f72ab48c527f5775a16a3b33d0bd7e8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084443,
+            "locality_id":85936351,
+            "neighbourhood_id":85816617,
+            "region_id":85688535,
+            "venue_id":739891065
+        }
+    ],
+    "wof:id":739891065,
+    "wof:lastmodified":1461919471,
+    "wof:name":"Mrs. K Trucking Inc.",
+    "wof:parent_id":85816617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.797813,
+    33.24084,
+    -84.797813,
+    33.24084
+],
+  "geometry": {"coordinates":[-84.797813,33.24084],"type":"Point"}
+}

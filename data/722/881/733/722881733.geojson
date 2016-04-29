@@ -1,0 +1,71 @@
+{
+  "id": 722881733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.735282,32.469245,-83.735282,32.469245",
+    "geom:latitude":32.469245,
+    "geom:longitude":-83.735282,
+    "iso:country":"US",
+    "sg:address":"130 Perimeter Rd",
+    "sg:city":"Eatonton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 484 0123",
+    "sg:postcode":"31069",
+    "sg:province":"GA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iHNfkN2328OgmlIbNEb0l_32.469245_-83.735282@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461890427,
+    "wof:geomhash":"a284298921941a5a9aa772e8e40a24c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":722881733
+        }
+    ],
+    "wof:id":722881733,
+    "wof:lastmodified":1461890427,
+    "wof:name":"Putnam Dialysis Ctr",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -83.735282,
+    32.469245,
+    -83.735282,
+    32.469245
+],
+  "geometry": {"coordinates":[-83.735282,32.469245],"type":"Point"}
+}

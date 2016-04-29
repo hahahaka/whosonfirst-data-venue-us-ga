@@ -1,0 +1,71 @@
+{
+  "id": 739873145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.844266,33.93673,-84.844266,33.93673",
+    "geom:latitude":33.93673,
+    "geom:longitude":-84.844266,
+    "iso:country":"US",
+    "sg:address":"68 Westminster Way",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 778 3164",
+    "sg:postcode":"30132",
+    "sg:province":"GA",
+    "sg:tags":[
+        "pet",
+        "grooming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85835699,
+        102084665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aUDDPQDwXhkLzfvfxTHJt_33.936730_-84.844266@1303262594"
+    },
+    "wof:country":"US",
+    "wof:created":1461918800,
+    "wof:geomhash":"8f03949986ca20174af1535bf68cfe34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "neighbourhood_id":85835699,
+            "region_id":85688535,
+            "venue_id":739873145
+        }
+    ],
+    "wof:id":739873145,
+    "wof:lastmodified":1461918800,
+    "wof:name":"Little Rascals Pet Grooming",
+    "wof:parent_id":85835699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming"
+    ]
+},
+  "bbox": [
+    -84.844266,
+    33.93673,
+    -84.844266,
+    33.93673
+],
+  "geometry": {"coordinates":[-84.844266,33.93673],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 740040101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.953682,34.785709,-84.953682,34.785709",
+    "geom:latitude":34.785709,
+    "geom:longitude":-84.953682,
+    "iso:country":"US",
+    "sg:address":"901 Veterans Dr",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 278 4042",
+    "sg:postcode":"30721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "churches-methodist"
+    ],
+    "sg:website":"http://www.trinityumc-dalton.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CPWy4BWJOskyBox85ltOF_34.785709_-84.953682@1303262637"
+    },
+    "wof:country":"US",
+    "wof:created":1461925608,
+    "wof:geomhash":"a70cc28fb6dc2217b183fc3bcb36bd52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":740040101
+        }
+    ],
+    "wof:id":740040101,
+    "wof:lastmodified":1461925608,
+    "wof:name":"Trinity United Methodist Church",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-methodist"
+    ]
+},
+  "bbox": [
+    -84.953682,
+    34.785709,
+    -84.953682,
+    34.785709
+],
+  "geometry": {"coordinates":[-84.953682,34.785709],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 740030547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.49039,34.679552,-84.49039,34.679552",
+    "geom:latitude":34.679552,
+    "geom:longitude":-84.49039,
+    "iso:country":"US",
+    "sg:address":"258 Maddox Dr",
+    "sg:city":"Ellijay",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 635 5551",
+    "sg:postcode":"30540",
+    "sg:province":"GA",
+    "sg:tags":[
+        "government-united",
+        "state"
+    ],
+    "sg:website":"http://www.dor.ga.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936157,
+        102082325,
+        85859453,
+        85828281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PMGmkG3ffCNltTo1M9GzQ_34.679552_-84.490390@1303262635"
+    },
+    "wof:country":"US",
+    "wof:created":1461925180,
+    "wof:geomhash":"3df99c79548508c7e6d6c0dd786df84c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082325,
+            "locality_id":85936157,
+            "neighbourhood_id":85859453,
+            "region_id":85688535,
+            "venue_id":740030547
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082325,
+            "neighbourhood_id":85828281,
+            "region_id":85688535,
+            "venue_id":740030547
+        }
+    ],
+    "wof:id":740030547,
+    "wof:lastmodified":1461925180,
+    "wof:name":"State Road Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-united",
+        "state"
+    ]
+},
+  "bbox": [
+    -84.49039,
+    34.679552,
+    -84.49039,
+    34.679552
+],
+  "geometry": {"coordinates":[-84.49039,34.679552],"type":"Point"}
+}

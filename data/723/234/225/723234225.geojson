@@ -1,0 +1,73 @@
+{
+  "id": 723234225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.362861,33.842375,-84.362861,33.842375",
+    "geom:latitude":33.842375,
+    "geom:longitude":-84.362861,
+    "iso:country":"US",
+    "sg:address":"3171 Peachtree Dr NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 261 3023",
+    "sg:postcode":"30305",
+    "sg:province":"GA",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69TcHiyfAvmcJITA3TD3BW_33.842375_-84.362861@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897794,
+    "wof:geomhash":"f255ae474ba3880c2aba0575f032c618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872117,
+            "region_id":85688535,
+            "venue_id":723234225
+        }
+    ],
+    "wof:id":723234225,
+    "wof:lastmodified":1461897794,
+    "wof:name":"Light Bulbs Unlimited",
+    "wof:parent_id":85872117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -84.362861,
+    33.842375,
+    -84.362861,
+    33.842375
+],
+  "geometry": {"coordinates":[-84.362861,33.842375],"type":"Point"}
+}

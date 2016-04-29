@@ -1,0 +1,71 @@
+{
+  "id": 739895831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.027596,33.035429,-85.027596,33.035429",
+    "geom:latitude":33.035429,
+    "geom:longitude":-85.027596,
+    "iso:country":"US",
+    "sg:address":"200 E Depot St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 882 2010",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Gobvl4HEi5sizilBYX6i0_33.035429_-85.027596@1303262600"
+    },
+    "wof:country":"US",
+    "wof:created":1461919654,
+    "wof:geomhash":"7005457bc61e2057db5bf37c456c8581",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739895831
+        }
+    ],
+    "wof:id":739895831,
+    "wof:lastmodified":1461919654,
+    "wof:name":"Ideal Electric Co",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -85.027596,
+    33.035429,
+    -85.027596,
+    33.035429
+],
+  "geometry": {"coordinates":[-85.027596,33.035429],"type":"Point"}
+}

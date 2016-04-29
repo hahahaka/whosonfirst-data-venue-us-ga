@@ -1,0 +1,87 @@
+{
+  "id": 740017685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.276838,33.918143,-84.276838,33.918143",
+    "geom:latitude":33.918143,
+    "geom:longitude":-84.276838,
+    "iso:country":"US",
+    "sg:address":"2719 Woodwin Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 457 2338",
+    "sg:postcode":"30360",
+    "sg:province":"GA",
+    "sg:tags":[
+        "bulk",
+        "petroleum-bottled",
+        "gas-liquefied"
+    ],
+    "sg:website":"http://www.amerigas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fgHhUoT1Hq8rtDZCcnF8L_33.918143_-84.276838@1303262631"
+    },
+    "wof:country":"US",
+    "wof:created":1461924604,
+    "wof:geomhash":"12d033b38b4bf3410ecbdaae9fd93017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":740017685
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":740017685
+        }
+    ],
+    "wof:id":740017685,
+    "wof:lastmodified":1461924604,
+    "wof:name":"AmeriGas /Ppx",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk",
+        "petroleum-bottled",
+        "gas-liquefied"
+    ]
+},
+  "bbox": [
+    -84.276838,
+    33.918143,
+    -84.276838,
+    33.918143
+],
+  "geometry": {"coordinates":[-84.276838,33.918143],"type":"Point"}
+}

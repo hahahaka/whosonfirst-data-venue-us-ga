@@ -1,0 +1,78 @@
+{
+  "id": 739809231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.000397,33.917599,-84.000397,33.917599",
+    "geom:latitude":33.917599,
+    "geom:longitude":-84.000397,
+    "iso:country":"US",
+    "sg:address":"3010 Sugarloaf Pkwy",
+    "sg:city":"Lawrenceville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 962 5112",
+    "sg:postcode":"30045",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85808181,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iCK4bfKM6rK9UJ6222gZ8_33.917599_-84.000397@1303262577"
+    },
+    "wof:country":"US",
+    "wof:created":1461916253,
+    "wof:geomhash":"6448a1ae565e14860a07a7c33c974627",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85808181,
+            "region_id":85688535,
+            "venue_id":739809231
+        }
+    ],
+    "wof:id":739809231,
+    "wof:lastmodified":1461916253,
+    "wof:name":"Sugarloaf Animal Hospital",
+    "wof:parent_id":85808181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.000397,
+    33.917599,
+    -84.000397,
+    33.917599
+],
+  "geometry": {"coordinates":[-84.00039700000001,33.917599],"type":"Point"}
+}

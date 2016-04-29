@@ -1,0 +1,76 @@
+{
+  "id": 739994883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.254495,33.905418,-84.254495,33.905418",
+    "geom:latitude":33.905418,
+    "geom:longitude":-84.254495,
+    "iso:country":"US",
+    "sg:address":"3406 Oakcliff Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 451 7948",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical",
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4q4gIScdrS9IbxJwmhZtBQ_33.905418_-84.254495@1303262625"
+    },
+    "wof:country":"US",
+    "wof:created":1461923742,
+    "wof:geomhash":"af4cfb51c15ec4b1cbe10947338cfae2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":739994883
+        }
+    ],
+    "wof:id":739994883,
+    "wof:lastmodified":1461923742,
+    "wof:name":"Emergency Medical Services",
+    "wof:parent_id":85889941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -84.254495,
+    33.905418,
+    -84.254495,
+    33.905418
+],
+  "geometry": {"coordinates":[-84.25449500000001,33.905418],"type":"Point"}
+}

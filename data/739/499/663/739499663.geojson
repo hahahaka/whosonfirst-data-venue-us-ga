@@ -1,0 +1,71 @@
+{
+  "id": 739499663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.034055,33.038806,-85.034055,33.038806",
+    "geom:latitude":33.038806,
+    "geom:longitude":-85.034055,
+    "iso:country":"US",
+    "sg:address":"300 Vernon St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 883 9557",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "dock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RVwIEcLVeCpQ9bs4oT2cN_33.038806_-85.034055@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461908420,
+    "wof:geomhash":"cc7ba8ef89be3cdb5b9a345ade4ec7bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739499663
+        }
+    ],
+    "wof:id":739499663,
+    "wof:lastmodified":1461908420,
+    "wof:name":"Barefoot Docks",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dock"
+    ]
+},
+  "bbox": [
+    -85.034055,
+    33.038806,
+    -85.034055,
+    33.038806
+],
+  "geometry": {"coordinates":[-85.034055,33.038806],"type":"Point"}
+}

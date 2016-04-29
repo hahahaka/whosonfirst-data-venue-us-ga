@@ -1,0 +1,75 @@
+{
+  "id": 739673609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.052027,33.448282,-82.052027,33.448282",
+    "geom:latitude":33.448282,
+    "geom:longitude":-82.052027,
+    "iso:country":"US",
+    "sg:address":"3318 Milledgeville Rd",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 798 2807",
+    "sg:postcode":"30909",
+    "sg:province":"GA",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936989,
+        102082951,
+        420558603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zLmWi7ylTT5TDtJuZ3uym_33.448282_-82.052027@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461912022,
+    "wof:geomhash":"17610f7a6e00bd4d68f66175d51ba6e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082951,
+            "locality_id":85936989,
+            "neighbourhood_id":420558603,
+            "region_id":85688535,
+            "venue_id":739673609
+        }
+    ],
+    "wof:id":739673609,
+    "wof:lastmodified":1461912022,
+    "wof:name":"Metropolitan Waste",
+    "wof:parent_id":420558603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -82.052027,
+    33.448282,
+    -82.052027,
+    33.448282
+],
+  "geometry": {"coordinates":[-82.052027,33.448282],"type":"Point"}
+}

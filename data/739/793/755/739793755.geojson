@@ -1,0 +1,87 @@
+{
+  "id": 739793755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.284804,33.773085,-84.284804,33.773085",
+    "geom:latitude":33.773085,
+    "geom:longitude":-84.284804,
+    "iso:country":"US",
+    "sg:address":"121 New St Ste 4",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 377 6332",
+    "sg:postcode":"30030",
+    "sg:province":"GA",
+    "sg:tags":[
+        "theatres-concert",
+        "theatre",
+        "performing",
+        "venue",
+        "hall"
+    ],
+    "sg:website":"www.pushpushtheater.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936441,
+        102084539,
+        85890031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5p5UuCL4xWWDyFUFx5kLxC_33.773085_-84.284804@1303262573"
+    },
+    "wof:country":"US",
+    "wof:created":1461915512,
+    "wof:geomhash":"e05718f14ca801e50c75794b9a613397",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936441,
+            "neighbourhood_id":85890031,
+            "region_id":85688535,
+            "venue_id":739793755
+        }
+    ],
+    "wof:id":739793755,
+    "wof:lastmodified":1461915512,
+    "wof:name":"PushPush Theater",
+    "wof:parent_id":85890031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "theatres-concert",
+        "theatre",
+        "performing",
+        "venue",
+        "hall"
+    ]
+},
+  "bbox": [
+    -84.284804,
+    33.773085,
+    -84.284804,
+    33.773085
+],
+  "geometry": {"coordinates":[-84.28480399999999,33.773085],"type":"Point"}
+}

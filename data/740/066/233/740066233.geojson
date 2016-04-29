@@ -1,0 +1,80 @@
+{
+  "id": 740066233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.299384,30.883826,-83.299384,30.883826",
+    "geom:latitude":30.883826,
+    "geom:longitude":-83.299384,
+    "iso:country":"US",
+    "sg:address":"3632 Arbor Run Dr",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 247 4222",
+    "sg:postcode":"31605",
+    "sg:province":"GA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85815713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YM3l7wzDIO4LzbbzGSVNC_30.883826_-83.299384@1303262644"
+    },
+    "wof:country":"US",
+    "wof:created":1461926801,
+    "wof:geomhash":"679ba5250bb7c016756857ab8bafd6d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85815713,
+            "region_id":85688535,
+            "venue_id":740066233
+        }
+    ],
+    "wof:id":740066233,
+    "wof:lastmodified":1461926801,
+    "wof:name":"H S Trucking",
+    "wof:parent_id":85815713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.299384,
+    30.883826,
+    -83.299384,
+    30.883826
+],
+  "geometry": {"coordinates":[-83.299384,30.883826],"type":"Point"}
+}

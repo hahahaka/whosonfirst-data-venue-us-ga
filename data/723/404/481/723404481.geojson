@@ -1,0 +1,71 @@
+{
+  "id": 723404481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.995584,33.056365,-84.995584,33.056365",
+    "geom:latitude":33.056365,
+    "geom:longitude":-84.995584,
+    "iso:country":"US",
+    "sg:address":"1318 Hogansville Rd",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 884 3310",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dnD0fGFeVmDF9h55sXmVZ_33.056365_-84.995584@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901062,
+    "wof:geomhash":"300b8df36ced7f9aebfdbbee521a598f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":723404481
+        }
+    ],
+    "wof:id":723404481,
+    "wof:lastmodified":1461901062,
+    "wof:name":"Upholstery Workroom",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -84.995584,
+    33.056365,
+    -84.995584,
+    33.056365
+],
+  "geometry": {"coordinates":[-84.99558399999999,33.056365],"type":"Point"}
+}

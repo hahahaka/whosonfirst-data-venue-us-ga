@@ -1,0 +1,75 @@
+{
+  "id": 723165161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.133791,33.486789,-82.133791,33.486789",
+    "geom:latitude":33.486789,
+    "geom:longitude":-82.133791,
+    "iso:country":"US",
+    "sg:address":"408 S Belair Rd",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 733 1886",
+    "sg:postcode":"30907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eBah3c2dqyLVMD7p25JQZ_33.486789_-82.133791@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896390,
+    "wof:geomhash":"771ff12bce10ecec54e5cb3753bcea31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":723165161
+        }
+    ],
+    "wof:id":723165161,
+    "wof:lastmodified":1461896390,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -82.133791,
+    33.486789,
+    -82.133791,
+    33.486789
+],
+  "geometry": {"coordinates":[-82.133791,33.486789],"type":"Point"}
+}

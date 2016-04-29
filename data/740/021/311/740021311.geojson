@@ -1,0 +1,86 @@
+{
+  "id": 740021311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.764481,32.439812,-81.764481,32.439812",
+    "geom:latitude":32.439812,
+    "geom:longitude":-81.764481,
+    "iso:country":"US",
+    "sg:address":"2 Lester Ct",
+    "sg:city":"Statesboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 489 1386",
+    "sg:postcode":"30458",
+    "sg:province":"GA",
+    "sg:tags":[
+        "dentists-oral",
+        "physician",
+        "maxillofacial",
+        "surgeons",
+        "surgery",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935999,
+        102084405,
+        85823149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13oFjE70NrynYCrtKTXDsr_32.439812_-81.764481@1303262632"
+    },
+    "wof:country":"US",
+    "wof:created":1461924753,
+    "wof:geomhash":"32deed041d12a9d25b6d9076a2b1079f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85823149,
+            "region_id":85688535,
+            "venue_id":740021311
+        }
+    ],
+    "wof:id":740021311,
+    "wof:lastmodified":1461924753,
+    "wof:name":"Bray Cecil B DMD",
+    "wof:parent_id":85823149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentists-oral",
+        "physician",
+        "maxillofacial",
+        "surgeons",
+        "surgery",
+        "oral"
+    ]
+},
+  "bbox": [
+    -81.764481,
+    32.439812,
+    -81.764481,
+    32.439812
+],
+  "geometry": {"coordinates":[-81.764481,32.439812],"type":"Point"}
+}

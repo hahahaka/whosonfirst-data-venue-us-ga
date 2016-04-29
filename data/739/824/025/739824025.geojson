@@ -1,0 +1,88 @@
+{
+  "id": 739824025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.492679,33.91147,-84.492679,33.91147",
+    "geom:latitude":33.91147,
+    "geom:longitude":-84.492679,
+    "iso:country":"US",
+    "sg:address":"P.O. Box 669323",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 256 4478",
+    "sg:postcode":"30066",
+    "sg:province":"GA",
+    "sg:tags":[
+        "product",
+        "condiment",
+        "juice",
+        "sauce",
+        "spice"
+    ],
+    "sg:website":"http://www.mrpepper.biz",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85845875,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xdHkdlXuQTHlb4OKpLlvc_33.911470_-84.492679@1303262581"
+    },
+    "wof:country":"US",
+    "wof:created":1461916857,
+    "wof:geomhash":"99bd0a515054a04039f4a0cb7222fa5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":739824025
+        }
+    ],
+    "wof:id":739824025,
+    "wof:lastmodified":1461916857,
+    "wof:name":"Mr. Pepper & Much More",
+    "wof:parent_id":85845875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "condiment",
+        "juice",
+        "sauce",
+        "spice"
+    ]
+},
+  "bbox": [
+    -84.492679,
+    33.91147,
+    -84.492679,
+    33.91147
+],
+  "geometry": {"coordinates":[-84.492679,33.91147],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 723445247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.629477,32.830769,-83.629477,32.830769",
+    "geom:latitude":32.830769,
+    "geom:longitude":-83.629477,
+    "iso:country":"US",
+    "sg:address":"448 Pine St",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 746 6441",
+    "sg:postcode":"31201",
+    "sg:province":"GA",
+    "sg:tags":[
+        "bus",
+        "line",
+        "chartering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936517,
+        102084373,
+        85837705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YTRLeKdiIDA5sGHV7KZbG_32.830769_-83.629477@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901857,
+    "wof:geomhash":"c924a86f304bcd79b59acd01f30e773d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084373,
+            "locality_id":85936517,
+            "neighbourhood_id":85837705,
+            "region_id":85688535,
+            "venue_id":723445247
+        }
+    ],
+    "wof:id":723445247,
+    "wof:lastmodified":1461901857,
+    "wof:name":"Georgia Trailways Ltd",
+    "wof:parent_id":85837705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line",
+        "chartering"
+    ]
+},
+  "bbox": [
+    -83.629477,
+    32.830769,
+    -83.629477,
+    32.830769
+],
+  "geometry": {"coordinates":[-83.62947699999999,32.830769],"type":"Point"}
+}

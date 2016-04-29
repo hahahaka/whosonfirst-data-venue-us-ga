@@ -1,0 +1,73 @@
+{
+  "id": 739763589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.00999,33.965963,-84.00999,33.965963",
+    "geom:latitude":33.965963,
+    "geom:longitude":-84.00999,
+    "iso:country":"US",
+    "sg:address":"685 Duluth Hwy",
+    "sg:city":"Lawrenceville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/lawrenceville/196034-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30045",
+    "sg:province":"GA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936297,
+        102082967,
+        85847023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4q17YArovrDWNMs12mhjM7_33.965963_-84.009990@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914285,
+    "wof:geomhash":"80811721db5fe5c987f8bdaceef95403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936297,
+            "neighbourhood_id":85847023,
+            "region_id":85688535,
+            "venue_id":739763589
+        }
+    ],
+    "wof:id":739763589,
+    "wof:lastmodified":1461914285,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85847023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -84.00999,
+    33.965963,
+    -84.00999,
+    33.965963
+],
+  "geometry": {"coordinates":[-84.00999,33.965963],"type":"Point"}
+}

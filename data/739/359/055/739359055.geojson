@@ -1,0 +1,81 @@
+{
+  "id": 739359055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.310426,33.712774,-84.310426,33.712774",
+    "geom:latitude":33.712774,
+    "geom:longitude":-84.310426,
+    "iso:country":"US",
+    "sg:address":"2646 Gresham Rd SE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 244 1234",
+    "sg:postcode":"30316",
+    "sg:province":"GA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937253,
+        102084539,
+        85866911,
+        85816491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aoDYMzfzlxsWqyTDV6amd_33.712774_-84.310426@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461905798,
+    "wof:geomhash":"c962201539ab704ebe58ca2540889571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937253,
+            "neighbourhood_id":85866911,
+            "region_id":85688535,
+            "venue_id":739359055
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739359055
+        }
+    ],
+    "wof:id":739359055,
+    "wof:lastmodified":1461905798,
+    "wof:name":"Gresham Dental Assoc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -84.310426,
+    33.712774,
+    -84.310426,
+    33.712774
+],
+  "geometry": {"coordinates":[-84.31042600000001,33.712774],"type":"Point"}
+}

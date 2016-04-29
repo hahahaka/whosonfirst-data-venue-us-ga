@@ -1,0 +1,88 @@
+{
+  "id": 740055975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.514519,32.82169,-83.514519,32.82169",
+    "geom:latitude":32.82169,
+    "geom:longitude":-83.514519,
+    "iso:country":"US",
+    "sg:address":"4200 Davis Rd",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Recycling",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landfill",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 750 0265",
+    "sg:postcode":"31217",
+    "sg:province":"GA",
+    "sg:tags":[
+        "disposal",
+        "waste",
+        "collection",
+        "garbage",
+        "equipment"
+    ],
+    "sg:website":"http://www.republicservices.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85835279,
+        102084373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JRzJc8JKFQWrK56WzAlJh_32.821690_-83.514519@1303262641"
+    },
+    "wof:country":"US",
+    "wof:created":1461926354,
+    "wof:geomhash":"ce34f9be44c8097c805eb0bbcf0e4ac3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084373,
+            "neighbourhood_id":85835279,
+            "region_id":85688535,
+            "venue_id":740055975
+        }
+    ],
+    "wof:id":740055975,
+    "wof:lastmodified":1461926354,
+    "wof:name":"Swift Creek Environmental",
+    "wof:parent_id":85835279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disposal",
+        "waste",
+        "collection",
+        "garbage",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -83.514519,
+    32.82169,
+    -83.514519,
+    32.82169
+],
+  "geometry": {"coordinates":[-83.51451900000001,32.82169],"type":"Point"}
+}

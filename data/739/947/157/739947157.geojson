@@ -1,0 +1,82 @@
+{
+  "id": 739947157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.442416,33.740991,-84.442416,33.740991",
+    "geom:latitude":33.740991,
+    "geom:longitude":-84.442416,
+    "iso:country":"US",
+    "sg:address":"1685 Stokes Ave SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 755 7497",
+    "sg:postcode":"30310",
+    "sg:province":"GA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85804751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Gk4WS6St9sEJalUDjllFA_33.740991_-84.442416@1303262613"
+    },
+    "wof:country":"US",
+    "wof:created":1461921816,
+    "wof:geomhash":"00bb64bf063d59869de1c2965fe67ac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85804751,
+            "region_id":85688535,
+            "venue_id":739947157
+        }
+    ],
+    "wof:id":739947157,
+    "wof:lastmodified":1461921816,
+    "wof:name":"Er Zanders Trucking",
+    "wof:parent_id":85804751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.442416,
+    33.740991,
+    -84.442416,
+    33.740991
+],
+  "geometry": {"coordinates":[-84.44241599999999,33.740991],"type":"Point"}
+}

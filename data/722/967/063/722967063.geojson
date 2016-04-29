@@ -1,0 +1,83 @@
+{
+  "id": 722967063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.101211,32.069663,-81.101211,32.069663",
+    "geom:latitude":32.069663,
+    "geom:longitude":-81.101211,
+    "iso:country":"US",
+    "sg:address":"608 Martin Luther King Jr Blvd",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 232 6121",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85880909,
+        85880921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73qaImJVVVbZ0CpSRY23Nr_32.069663_-81.101211@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461892172,
+    "wof:geomhash":"30bf26f1bbeb37ca1fc34965f03a523c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880909,
+            "region_id":85688535,
+            "venue_id":722967063
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880921,
+            "region_id":85688535,
+            "venue_id":722967063
+        }
+    ],
+    "wof:id":722967063,
+    "wof:lastmodified":1461892172,
+    "wof:name":"Great Wall Restaurant Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -81.101211,
+    32.069663,
+    -81.101211,
+    32.069663
+],
+  "geometry": {"coordinates":[-81.10121100000001,32.069663],"type":"Point"}
+}

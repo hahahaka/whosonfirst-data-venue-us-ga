@@ -1,0 +1,84 @@
+{
+  "id": 739895419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.058289,33.031158,-85.058289,33.031158",
+    "geom:latitude":33.031158,
+    "geom:longitude":-85.058289,
+    "iso:country":"US",
+    "sg:address":"301 Medical Dr Ste 503",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 882 8128",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "surgeons",
+        "outpatient",
+        "surgery-general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85830157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0I1mlVvhED5cLCSsvZ0dUy_33.031158_-85.058289@1303262600"
+    },
+    "wof:country":"US",
+    "wof:created":1461919639,
+    "wof:geomhash":"73705d8810240065bdac3b845b27dc10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85830157,
+            "region_id":85688535,
+            "venue_id":739895419
+        }
+    ],
+    "wof:id":739895419,
+    "wof:lastmodified":1461919639,
+    "wof:name":"West Georgia Multi Specialty Clinic Inc",
+    "wof:parent_id":85830157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "surgeons",
+        "outpatient",
+        "surgery-general"
+    ]
+},
+  "bbox": [
+    -85.058289,
+    33.031158,
+    -85.058289,
+    33.031158
+],
+  "geometry": {"coordinates":[-85.058289,33.031158],"type":"Point"}
+}

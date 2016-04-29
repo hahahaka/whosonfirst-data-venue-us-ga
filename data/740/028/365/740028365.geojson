@@ -1,0 +1,88 @@
+{
+  "id": 740028365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.396928,34.878467,-83.396928,34.878467",
+    "geom:latitude":34.878467,
+    "geom:longitude":-83.396928,
+    "iso:country":"US",
+    "sg:address":"33 Highway 441 N",
+    "sg:city":"Clayton",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 782 5598",
+    "sg:postcode":"30525",
+    "sg:province":"GA",
+    "sg:tags":[
+        "frozen",
+        "dessert",
+        "american",
+        "take"
+    ],
+    "sg:website":"http://www.dairyqueen.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936141,
+        102081683,
+        85821415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1En0hISsz3VHVR3a7UgvRx_34.878467_-83.396928@1303262634"
+    },
+    "wof:country":"US",
+    "wof:created":1461925094,
+    "wof:geomhash":"80f39428d452be0bf34be6ff6515571c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081683,
+            "locality_id":85936141,
+            "neighbourhood_id":85821415,
+            "region_id":85688535,
+            "venue_id":740028365
+        }
+    ],
+    "wof:id":740028365,
+    "wof:lastmodified":1461925094,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85821415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert",
+        "american",
+        "take"
+    ]
+},
+  "bbox": [
+    -83.396928,
+    34.878467,
+    -83.396928,
+    34.878467
+],
+  "geometry": {"coordinates":[-83.396928,34.878467],"type":"Point"}
+}

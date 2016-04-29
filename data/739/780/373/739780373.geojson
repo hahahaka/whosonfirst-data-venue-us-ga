@@ -1,0 +1,72 @@
+{
+  "id": 739780373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.58211,33.913906,-84.58211,33.913906",
+    "geom:latitude":33.913906,
+    "geom:longitude":-84.58211,
+    "iso:country":"US",
+    "sg:address":"1605 County Services Pkwy SW",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Department Of Motor Vehicles",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 528 3251",
+    "sg:postcode":"30008",
+    "sg:province":"GA",
+    "sg:tags":[
+        "license",
+        "registration"
+    ],
+    "sg:website":"http://www.dor.ga.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JPEi4qAQ8N3I5hmDi8Wrq_33.913906_-84.582110@1303262570"
+    },
+    "wof:country":"US",
+    "wof:created":1461914960,
+    "wof:geomhash":"f201a9d8b6ff2328310eb810d529c1d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739780373
+        }
+    ],
+    "wof:id":739780373,
+    "wof:lastmodified":1461914960,
+    "wof:name":"Drivers License Station",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "license",
+        "registration"
+    ]
+},
+  "bbox": [
+    -84.58211,
+    33.913906,
+    -84.58211,
+    33.913906
+],
+  "geometry": {"coordinates":[-84.58211,33.913906],"type":"Point"}
+}

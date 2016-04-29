@@ -1,0 +1,78 @@
+{
+  "id": 739997337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.277322,33.900125,-84.277322,33.900125",
+    "geom:latitude":33.900125,
+    "geom:longitude":-84.277322,
+    "iso:country":"US",
+    "sg:address":"5432 Buford Hwy NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 451 0520",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        420559931,
+        85889959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q5UFPjhWWaLMhSODvb5CN_33.900125_-84.277322@1303262626"
+    },
+    "wof:country":"US",
+    "wof:created":1461923826,
+    "wof:geomhash":"b915480df66cdbdcd46e27e556246a84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":420559931,
+            "region_id":85688535,
+            "venue_id":739997337
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":739997337
+        }
+    ],
+    "wof:id":739997337,
+    "wof:lastmodified":1461923826,
+    "wof:name":"Carnetts Car Wash",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.277322,
+    33.900125,
+    -84.277322,
+    33.900125
+],
+  "geometry": {"coordinates":[-84.277322,33.900125],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 740077127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.281291,33.931442,-84.281291,33.931442",
+    "geom:latitude":33.931442,
+    "geom:longitude":-84.281291,
+    "iso:country":"US",
+    "sg:address":"4611 Brierwood Pl",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 998 6175",
+    "sg:postcode":"30360",
+    "sg:province":"GA",
+    "sg:tags":[
+        "clinical-documentation-improvement-program"
+    ],
+    "sg:website":"http://www.dcbainc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xp9NEfT0iRsremmgJAON1_33.931442_-84.281291@1308186501"
+    },
+    "wof:country":"US",
+    "wof:created":1461927260,
+    "wof:geomhash":"b29459b0976cf23adbe38b5b96638a06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":740077127
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":740077127
+        }
+    ],
+    "wof:id":740077127,
+    "wof:lastmodified":1461927260,
+    "wof:name":"DCBA ",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinical-documentation-improvement-program"
+    ]
+},
+  "bbox": [
+    -84.281291,
+    33.931442,
+    -84.281291,
+    33.931442
+],
+  "geometry": {"coordinates":[-84.281291,33.931442],"type":"Point"}
+}

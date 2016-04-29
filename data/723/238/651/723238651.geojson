@@ -1,0 +1,73 @@
+{
+  "id": 723238651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.30279,30.834374,-83.30279,30.834374",
+    "geom:latitude":30.834374,
+    "geom:longitude":-83.30279,
+    "iso:country":"US",
+    "sg:address":"1209 Tracy Ln",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 251 4877",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZVdTxfypQF5WOvYrtozJg_30.834374_-83.302790@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897885,
+    "wof:geomhash":"a45e902135059a3aad8546785e6fd061",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843241,
+            "region_id":85688535,
+            "venue_id":723238651
+        }
+    ],
+    "wof:id":723238651,
+    "wof:lastmodified":1461897885,
+    "wof:name":"B & B Electric Contractors",
+    "wof:parent_id":85843241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.30279,
+    30.834374,
+    -83.30279,
+    30.834374
+],
+  "geometry": {"coordinates":[-83.30279,30.834374],"type":"Point"}
+}

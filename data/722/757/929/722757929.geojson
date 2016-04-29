@@ -1,0 +1,74 @@
+{
+  "id": 722757929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.170437,33.80638,-84.170437,33.80638",
+    "geom:latitude":33.80638,
+    "geom:longitude":-84.170437,
+    "iso:country":"US",
+    "sg:address":"922 Main St",
+    "sg:city":"Stone Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 879 4980",
+    "sg:postcode":"30083",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.stonemountainpd.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937263,
+        102084539,
+        85890037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43jCbBW6csofSpg744pZRR_33.806380_-84.170437@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888082,
+    "wof:geomhash":"df402d9819e32f5dc1fd7ad59fdccb99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937263,
+            "neighbourhood_id":85890037,
+            "region_id":85688535,
+            "venue_id":722757929
+        }
+    ],
+    "wof:id":722757929,
+    "wof:lastmodified":1461888082,
+    "wof:name":"Stone Mountain Police Dept",
+    "wof:parent_id":85890037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.170437,
+    33.80638,
+    -84.170437,
+    33.80638
+],
+  "geometry": {"coordinates":[-84.17043700000001,33.80638],"type":"Point"}
+}

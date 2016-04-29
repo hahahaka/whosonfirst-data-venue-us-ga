@@ -1,0 +1,87 @@
+{
+  "id": 739439457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.278421,33.903176,-84.278421,33.903176",
+    "geom:latitude":33.903176,
+    "geom:longitude":-84.278421,
+    "iso:country":"US",
+    "sg:address":"6037 New Peachtree Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 458 9567",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "sg:tags":[
+        "general",
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        420559931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60gKlng4Od4opI8WW8QvM5_33.903176_-84.278421@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907344,
+    "wof:geomhash":"5819cbb590c4cca3078baa78d6bcaf94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":739439457
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":420559931,
+            "region_id":85688535,
+            "venue_id":739439457
+        }
+    ],
+    "wof:id":739439457,
+    "wof:lastmodified":1461907344,
+    "wof:name":"Giesecke Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.278421,
+    33.903176,
+    -84.278421,
+    33.903176
+],
+  "geometry": {"coordinates":[-84.27842099999999,33.903176],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 739993403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.47865,33.901417,-84.47865,33.901417",
+    "geom:latitude":33.901417,
+    "geom:longitude":-84.47865,
+    "iso:country":"US",
+    "sg:address":"2070 S Park Pl SE Suite 300",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 917 5234",
+    "sg:postcode":"30339",
+    "sg:province":"GA",
+    "sg:tags":[
+        "clinic",
+        "dental",
+        "hygienist"
+    ],
+    "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a8715590%3a13%3a4859924%3a14%3a0%3a7",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818985,
+        102082313,
+        102191575,
+        85936139,
+        85813197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i0E31bgJCOhmKwVOEg9H3_33.901417_-84.478650@1303262625"
+    },
+    "wof:country":"US",
+    "wof:created":1461923674,
+    "wof:geomhash":"d4f0064899ec83e26debf29b178eb5d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85818985,
+            "region_id":85688535,
+            "venue_id":739993403
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85813197,
+            "region_id":85688535,
+            "venue_id":739993403
+        }
+    ],
+    "wof:id":739993403,
+    "wof:lastmodified":1461923674,
+    "wof:name":"The Szikman Dental Group",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "dental",
+        "hygienist"
+    ]
+},
+  "bbox": [
+    -84.47865,
+    33.901417,
+    -84.47865,
+    33.901417
+],
+  "geometry": {"coordinates":[-84.47865,33.901417],"type":"Point"}
+}

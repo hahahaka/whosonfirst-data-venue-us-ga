@@ -1,0 +1,84 @@
+{
+  "id": 739915775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.389881,33.759689,-84.389881,33.759689",
+    "geom:latitude":33.759689,
+    "geom:longitude":-84.389881,
+    "iso:country":"US",
+    "sg:address":"285 Andrew Young International Blvd NW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 223 4412",
+    "sg:postcode":"30303",
+    "sg:province":"GA",
+    "sg:tags":[
+        "recreation"
+    ],
+    "sg:website":"http://www.gwcc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85819463,
+        85866901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Y7YymWOrYjDKeBdUAnWMd_33.759689_-84.389881@1303262605"
+    },
+    "wof:country":"US",
+    "wof:created":1461920424,
+    "wof:geomhash":"1cb2e8f167a56f9e4c5e1a7ff6898bc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85819463,
+            "region_id":85688535,
+            "venue_id":739915775
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85866901,
+            "region_id":85688535,
+            "venue_id":739915775
+        }
+    ],
+    "wof:id":739915775,
+    "wof:lastmodified":1461920424,
+    "wof:name":"Centennial Olympic Park",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreation"
+    ]
+},
+  "bbox": [
+    -84.389881,
+    33.759689,
+    -84.389881,
+    33.759689
+],
+  "geometry": {"coordinates":[-84.389881,33.759689],"type":"Point"}
+}

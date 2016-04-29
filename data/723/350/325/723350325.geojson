@@ -1,0 +1,78 @@
+{
+  "id": 723350325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.441095,34.500947,-84.441095,34.500947",
+    "geom:latitude":34.500947,
+    "geom:longitude":-84.441095,
+    "iso:country":"US",
+    "sg:address":"100 Colt Ct",
+    "sg:city":"Jasper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 493 8192",
+    "sg:postcode":"30143",
+    "sg:province":"GA",
+    "sg:tags":[
+        "portable",
+        "septic",
+        "restroom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85846359,
+        102083619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5l2PJ3nCu9mYKpgDWIYvER_34.500947_-84.441095@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900001,
+    "wof:geomhash":"cc463d7499a91c1f3bb3ab26ddfd37be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083619,
+            "neighbourhood_id":85846359,
+            "region_id":85688535,
+            "venue_id":723350325
+        }
+    ],
+    "wof:id":723350325,
+    "wof:lastmodified":1461900001,
+    "wof:name":"Pot Of Gold Port A Potties",
+    "wof:parent_id":85846359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "portable",
+        "septic",
+        "restroom"
+    ]
+},
+  "bbox": [
+    -84.441095,
+    34.500947,
+    -84.441095,
+    34.500947
+],
+  "geometry": {"coordinates":[-84.441095,34.500947],"type":"Point"}
+}

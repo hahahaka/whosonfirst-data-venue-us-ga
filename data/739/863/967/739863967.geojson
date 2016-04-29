@@ -1,0 +1,83 @@
+{
+  "id": 739863967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.602967,33.854626,-84.602967,33.854626",
+    "geom:latitude":33.854626,
+    "geom:longitude":-84.602967,
+    "iso:country":"US",
+    "sg:address":"4046 Austell Rd",
+    "sg:city":"Austell",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 865 3060",
+    "sg:postcode":"30106",
+    "sg:province":"GA",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"https://www.wachovia.com/?DCMP=KNL-CPS-DS-Directory-0703&HBX_PK=Banks&HBX_OU=71",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NL3DJKhT79kUKTE90xLZR_33.854626_-84.602967@1303262592"
+    },
+    "wof:country":"US",
+    "wof:created":1461918458,
+    "wof:geomhash":"cab01d35548d66f2b993bf3f76e702e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":739863967
+        }
+    ],
+    "wof:id":739863967,
+    "wof:lastmodified":1461918458,
+    "wof:name":"Wachovia Bank",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -84.602967,
+    33.854626,
+    -84.602967,
+    33.854626
+],
+  "geometry": {"coordinates":[-84.60296700000001,33.854626],"type":"Point"}
+}

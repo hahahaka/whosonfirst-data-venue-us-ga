@@ -1,0 +1,80 @@
+{
+  "id": 740056777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.62931,31.829302,-81.62931,31.829302",
+    "geom:latitude":31.829302,
+    "geom:longitude":-81.62931,
+    "iso:country":"US",
+    "sg:address":"804 Jay St",
+    "sg:city":"Hinesville",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 604 7573",
+    "sg:postcode":"31313",
+    "sg:province":"GA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937305,
+        102082901,
+        85806839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IsJm4R7OouMDwwIJfHhMk_31.829302_-81.629310@1303262641"
+    },
+    "wof:country":"US",
+    "wof:created":1461926383,
+    "wof:geomhash":"52a6e00dd7774e2b7249c034aac852f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082901,
+            "locality_id":85937305,
+            "neighbourhood_id":85806839,
+            "region_id":85688535,
+            "venue_id":740056777
+        }
+    ],
+    "wof:id":740056777,
+    "wof:lastmodified":1461926383,
+    "wof:name":"Mickel's Trucking Company, Incorporated",
+    "wof:parent_id":85806839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.62931,
+    31.829302,
+    -81.62931,
+    31.829302
+],
+  "geometry": {"coordinates":[-81.62931,31.829302],"type":"Point"}
+}

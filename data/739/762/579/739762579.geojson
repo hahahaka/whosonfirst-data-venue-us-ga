@@ -1,0 +1,71 @@
+{
+  "id": 739762579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.961235,33.898448,-83.961235,33.898448",
+    "geom:latitude":33.898448,
+    "geom:longitude":-83.961235,
+    "iso:country":"US",
+    "sg:address":"1881 Grayson Hwy",
+    "sg:city":"Grayson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/snellville-grayson/203301-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30017",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85854851,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66vTUopfDkYItoMZIkg5Ny_33.898448_-83.961235@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914240,
+    "wof:geomhash":"c3b67c0de73efb3889ed24f55f7b189a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85854851,
+            "region_id":85688535,
+            "venue_id":739762579
+        }
+    ],
+    "wof:id":739762579,
+    "wof:lastmodified":1461914240,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85854851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.961235,
+    33.898448,
+    -83.961235,
+    33.898448
+],
+  "geometry": {"coordinates":[-83.961235,33.898448],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 739447825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.207726,30.690811,-83.207726,30.690811",
+    "geom:latitude":30.690811,
+    "geom:longitude":-83.207726,
+    "iso:country":"US",
+    "sg:address":"3018 US Hwy 41",
+    "sg:city":"Lake Park",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 559 3000",
+    "sg:postcode":"31636",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85827233,
+        102083585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NAcXUo2ECbEykV759omFB_30.690811_-83.207726@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907501,
+    "wof:geomhash":"190c6a9680417df80f293d968767e792",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "neighbourhood_id":85827233,
+            "region_id":85688535,
+            "venue_id":739447825
+        }
+    ],
+    "wof:id":739447825,
+    "wof:lastmodified":1461907501,
+    "wof:name":"Holly Hodges DVM",
+    "wof:parent_id":85827233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.207726,
+    30.690811,
+    -83.207726,
+    30.690811
+],
+  "geometry": {"coordinates":[-83.20772599999999,30.690811],"type":"Point"}
+}

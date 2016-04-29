@@ -1,0 +1,88 @@
+{
+  "id": 740049619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.687405,32.618196,-83.687405,32.618196",
+    "geom:latitude":32.618196,
+    "geom:longitude":-83.687405,
+    "iso:country":"US",
+    "sg:address":"2940 Watson Blvd",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 953 7999",
+    "sg:postcode":"31028",
+    "sg:province":"GA",
+    "sg:tags":[
+        "furniture",
+        "clothing",
+        "gear",
+        "women's"
+    ],
+    "sg:website":"www.JCPenney.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GUxZru1CJKPlXI36uYUQJ_32.618196_-83.687405@1303262639"
+    },
+    "wof:country":"US",
+    "wof:created":1461926072,
+    "wof:geomhash":"91a3631597fac816c485566272d50d82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":740049619
+        }
+    ],
+    "wof:id":740049619,
+    "wof:lastmodified":1461926072,
+    "wof:name":"JCPenney",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furniture",
+        "clothing",
+        "gear",
+        "women's"
+    ]
+},
+  "bbox": [
+    -83.687405,
+    32.618196,
+    -83.687405,
+    32.618196
+],
+  "geometry": {"coordinates":[-83.687405,32.618196],"type":"Point"}
+}

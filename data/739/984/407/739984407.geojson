@@ -1,0 +1,76 @@
+{
+  "id": 739984407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.550286,33.743391,-84.550286,33.743391",
+    "geom:latitude":33.743391,
+    "geom:longitude":-84.550286,
+    "iso:country":"US",
+    "sg:address":"605 Selig Dr SW Ste C",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 505 7769",
+    "sg:postcode":"30336",
+    "sg:province":"GA",
+    "sg:tags":[
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85872053,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2p9dE3kzwfFejmNXSLZD4a_33.743391_-84.550286@1303262623"
+    },
+    "wof:country":"US",
+    "wof:created":1461923320,
+    "wof:geomhash":"99db85097f37e8b29b05c64a648b2700",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85872053,
+            "region_id":85688535,
+            "venue_id":739984407
+        }
+    ],
+    "wof:id":739984407,
+    "wof:lastmodified":1461923320,
+    "wof:name":"Logi Trans Express",
+    "wof:parent_id":85872053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.550286,
+    33.743391,
+    -84.550286,
+    33.743391
+],
+  "geometry": {"coordinates":[-84.550286,33.743391],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 739396981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.134764,33.488013,-82.134764,33.488013",
+    "geom:latitude":33.488013,
+    "geom:longitude":-82.134764,
+    "iso:country":"US",
+    "sg:address":"345 S Belair Rd",
+    "sg:city":"Martinez",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 650 2285",
+    "sg:postcode":"30907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uBADnSxbFHQ1oaMZy8oVy_33.488013_-82.134764@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461906519,
+    "wof:geomhash":"a2995da3cb5f1d65e36683dc5af259dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":739396981
+        }
+    ],
+    "wof:id":739396981,
+    "wof:lastmodified":1461906519,
+    "wof:name":"Belair Dental Assoc",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -82.134764,
+    33.488013,
+    -82.134764,
+    33.488013
+],
+  "geometry": {"coordinates":[-82.134764,33.488013],"type":"Point"}
+}

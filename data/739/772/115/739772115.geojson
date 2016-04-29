@@ -1,0 +1,72 @@
+{
+  "id": 739772115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.261982,33.120562,-83.261982,33.120562",
+    "geom:latitude":33.120562,
+    "geom:longitude":-83.261982,
+    "iso:country":"US",
+    "sg:address":"2600 N Columbia St",
+    "sg:city":"Milledgeville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/milledgeville-midway-hardwick/132600-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 804 9976",
+    "sg:postcode":"31061",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85806411,
+        102082319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0X4oDOMu1jBPvwFseBKUFt_33.120562_-83.261982@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914622,
+    "wof:geomhash":"19565c405859e3ea72c3b33c329e0388",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082319,
+            "neighbourhood_id":85806411,
+            "region_id":85688535,
+            "venue_id":739772115
+        }
+    ],
+    "wof:id":739772115,
+    "wof:lastmodified":1461914622,
+    "wof:name":"Subway",
+    "wof:parent_id":85806411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.261982,
+    33.120562,
+    -83.261982,
+    33.120562
+],
+  "geometry": {"coordinates":[-83.261982,33.120562],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 723515647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.593536,31.166188,-81.593536,31.166188",
+    "geom:latitude":31.166188,
+    "geom:longitude":-81.593536,
+    "iso:country":"US",
+    "sg:address":"319 Emanuel Church Rd",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 264 6506",
+    "sg:postcode":"31523",
+    "sg:province":"GA",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85833275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JpgTA2VsNsQ1OF87M4gse_31.166188_-81.593536@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461903342,
+    "wof:geomhash":"82287ea0c5544e602c04978d50ba8f0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85833275,
+            "region_id":85688535,
+            "venue_id":723515647
+        }
+    ],
+    "wof:id":723515647,
+    "wof:lastmodified":1461903342,
+    "wof:name":"Adams Wrecker",
+    "wof:parent_id":85833275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [
+    -81.593536,
+    31.166188,
+    -81.593536,
+    31.166188
+],
+  "geometry": {"coordinates":[-81.593536,31.166188],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 723162379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.285689,30.832169,-83.285689,30.832169",
+    "geom:latitude":30.832169,
+    "geom:longitude":-83.285689,
+    "iso:country":"US",
+    "sg:address":"517 Jl Lomax Dr",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 259 9559",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29XCoMPgNKzJf0KWlqeTyA_30.832169_-83.285689@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896329,
+    "wof:geomhash":"7697b3fdd093061c4bc05bf272cdde3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843077,
+            "region_id":85688535,
+            "venue_id":723162379
+        }
+    ],
+    "wof:id":723162379,
+    "wof:lastmodified":1461896329,
+    "wof:name":"C & B Cleaning",
+    "wof:parent_id":85843077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -83.285689,
+    30.832169,
+    -83.285689,
+    30.832169
+],
+  "geometry": {"coordinates":[-83.285689,30.832169],"type":"Point"}
+}

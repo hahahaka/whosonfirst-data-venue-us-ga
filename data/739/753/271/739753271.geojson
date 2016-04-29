@@ -1,0 +1,71 @@
+{
+  "id": 739753271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.168542,34.241119,-84.168542,34.241119",
+    "geom:latitude":34.241119,
+    "geom:longitude":-84.168542,
+    "iso:country":"US",
+    "sg:address":"1655 Gordon Rd",
+    "sg:city":"Cumming",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 619 9086",
+    "sg:postcode":"30040",
+    "sg:province":"GA",
+    "sg:tags":[
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936811,
+        102082317,
+        85842073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4D9OBRkfwg625QeH5y2ncM_34.241408_-84.168269@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461913840,
+    "wof:geomhash":"13f0e47e71be1a69b78a6b3f9d678434",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082317,
+            "locality_id":85936811,
+            "neighbourhood_id":85842073,
+            "region_id":85688535,
+            "venue_id":739753271
+        }
+    ],
+    "wof:id":739753271,
+    "wof:lastmodified":1461913840,
+    "wof:name":"Greater Atlanta Shuttle Inc",
+    "wof:parent_id":85842073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -84.168542,
+    34.241119,
+    -84.168542,
+    34.241119
+],
+  "geometry": {"coordinates":[-84.168542,34.241119],"type":"Point"}
+}

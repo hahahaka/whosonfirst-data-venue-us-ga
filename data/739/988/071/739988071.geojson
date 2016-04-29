@@ -1,0 +1,86 @@
+{
+  "id": 739988071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.332566,33.949248,-84.332566,33.949248",
+    "geom:latitude":33.949248,
+    "geom:longitude":-84.332566,
+    "iso:country":"US",
+    "sg:address":"1432 Dunwoody Village Pkwy",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 350 9080",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "sg:tags":[
+        "frozen",
+        "yogurt"
+    ],
+    "sg:website":"www.brusters.com/localstores/ind...",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85815577,
+        420560157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0O98w9BGQ8U4hUR2XafNjr_33.949248_-84.332566@1303262624"
+    },
+    "wof:country":"US",
+    "wof:created":1461923480,
+    "wof:geomhash":"1abc668cc2d13412ea874ed8399c34b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85815577,
+            "region_id":85688535,
+            "venue_id":739988071
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":420560157,
+            "region_id":85688535,
+            "venue_id":739988071
+        }
+    ],
+    "wof:id":739988071,
+    "wof:lastmodified":1461923480,
+    "wof:name":"Bruster's Ice Cream",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "yogurt"
+    ]
+},
+  "bbox": [
+    -84.332566,
+    33.949248,
+    -84.332566,
+    33.949248
+],
+  "geometry": {"coordinates":[-84.332566,33.949248],"type":"Point"}
+}

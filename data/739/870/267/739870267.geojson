@@ -1,0 +1,86 @@
+{
+  "id": 739870267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.751085,34.216956,-84.751085,34.216956",
+    "geom:latitude":34.216956,
+    "geom:longitude":-84.751085,
+    "iso:country":"US",
+    "sg:address":"5698 Highway 20 SE Ste D",
+    "sg:city":"Cartersville",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 721 0001",
+    "sg:postcode":"30121",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ],
+    "sg:website":"http://www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85808389,
+        102082937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4X576wWBmDJCJ0I2Qq0ZxL_34.216956_-84.751085@1303262593"
+    },
+    "wof:country":"US",
+    "wof:created":1461918703,
+    "wof:geomhash":"e2d1d9050077b8d933440fb3848175c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082937,
+            "neighbourhood_id":85808389,
+            "region_id":85688535,
+            "venue_id":739870267
+        }
+    ],
+    "wof:id":739870267,
+    "wof:lastmodified":1461918703,
+    "wof:name":"Subway",
+    "wof:parent_id":85808389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ]
+},
+  "bbox": [
+    -84.751085,
+    34.216956,
+    -84.751085,
+    34.216956
+],
+  "geometry": {"coordinates":[-84.751085,34.216956],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 723463703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.805584,33.375332,-84.805584,33.375332",
+    "geom:latitude":33.375332,
+    "geom:longitude":-84.805584,
+    "iso:country":"US",
+    "sg:address":"6 Saint Clair St",
+    "sg:city":"Newnan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 423 3889",
+    "sg:postcode":"30263",
+    "sg:province":"GA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936351,
+        102084443,
+        85833133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IG7WSbm3g5C59EJzigGGt_33.375332_-84.805584@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461902203,
+    "wof:geomhash":"0c7e7a80fe729d3a796f4c65add96dd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084443,
+            "locality_id":85936351,
+            "neighbourhood_id":85833133,
+            "region_id":85688535,
+            "venue_id":723463703
+        }
+    ],
+    "wof:id":723463703,
+    "wof:lastmodified":1461902203,
+    "wof:name":"St Clair Apartment",
+    "wof:parent_id":85833133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.805584,
+    33.375332,
+    -84.805584,
+    33.375332
+],
+  "geometry": {"coordinates":[-84.805584,33.375332],"type":"Point"}
+}

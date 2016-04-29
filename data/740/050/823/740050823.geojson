@@ -1,0 +1,79 @@
+{
+  "id": 740050823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.27066,33.138489,-83.27066,33.138489",
+    "geom:latitude":33.138489,
+    "geom:longitude":-83.27066,
+    "iso:country":"US",
+    "sg:address":"2485 N Columbia St Ste 109",
+    "sg:city":"Milledgeville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 454 6520",
+    "sg:postcode":"31061",
+    "sg:province":"GA",
+    "sg:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ],
+    "sg:website":"http://www.enterprise.com/car_rental/deeplinkmap.do?gpbr=5508&bid=004&cnty=US&arc=YPTRL01&cm_mmc=Yellowpages.com-_-IYP-_-Tradelisting-_-branch",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85806411,
+        102082319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OW8j3WLTWgi8L1CgAmsyu_33.138489_-83.270660@1303262640"
+    },
+    "wof:country":"US",
+    "wof:created":1461926136,
+    "wof:geomhash":"c4f2398627f2228123a2be40c289d0b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082319,
+            "neighbourhood_id":85806411,
+            "region_id":85688535,
+            "venue_id":740050823
+        }
+    ],
+    "wof:id":740050823,
+    "wof:lastmodified":1461926136,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85806411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ]
+},
+  "bbox": [
+    -83.27066,
+    33.138489,
+    -83.27066,
+    33.138489
+],
+  "geometry": {"coordinates":[-83.27066000000001,33.138489],"type":"Point"}
+}

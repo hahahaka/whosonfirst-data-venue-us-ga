@@ -1,0 +1,84 @@
+{
+  "id": 740000505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.309446,33.872545,-84.309446,33.872545",
+    "geom:latitude":33.872545,
+    "geom:longitude":-84.309446,
+    "iso:country":"US",
+    "sg:address":"3826 Clairmont Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 696 5169",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "dealers-used",
+        "used",
+        "cars-wholesale",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102525899,
+        85688535,
+        85633793,
+        85937255,
+        102084539,
+        85807835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ifQZ59mhJmoDuDCBEzTNZ_33.872545_-84.309446@1303262627"
+    },
+    "wof:country":"US",
+    "wof:created":1461923948,
+    "wof:geomhash":"2df771770fa96c304eb7d7af68eb267e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525899,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937255,
+            "neighbourhood_id":85807835,
+            "region_id":85688535,
+            "venue_id":740000505
+        }
+    ],
+    "wof:id":740000505,
+    "wof:lastmodified":1461923948,
+    "wof:name":"Capital Auto",
+    "wof:parent_id":102525899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealers-used",
+        "used",
+        "cars-wholesale",
+        "car"
+    ]
+},
+  "bbox": [
+    -84.309446,
+    33.872545,
+    -84.309446,
+    33.872545
+],
+  "geometry": {"coordinates":[-84.30944599999999,33.872545],"type":"Point"}
+}

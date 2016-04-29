@@ -1,0 +1,81 @@
+{
+  "id": 739996001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.227287,33.877609,-84.227287,33.877609",
+    "geom:latitude":33.877609,
+    "geom:longitude":-84.227287,
+    "iso:country":"US",
+    "sg:address":"3000 Wanda Woods Dr",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 458 8568",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "sg:tags":[
+        "propane",
+        "bulk",
+        "petroleum-bottled",
+        "gas-liquefied"
+    ],
+    "sg:website":"http://www.amerigas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LZ1EVlBGnz0jbm8xzLGsR_33.877609_-84.227287@1303262626"
+    },
+    "wof:country":"US",
+    "wof:created":1461923781,
+    "wof:geomhash":"255c7c997f61c4e8037b643f989aa09f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":739996001
+        }
+    ],
+    "wof:id":739996001,
+    "wof:lastmodified":1461923781,
+    "wof:name":"AmeriGas",
+    "wof:parent_id":85889941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "propane",
+        "bulk",
+        "petroleum-bottled",
+        "gas-liquefied"
+    ]
+},
+  "bbox": [
+    -84.227287,
+    33.877609,
+    -84.227287,
+    33.877609
+],
+  "geometry": {"coordinates":[-84.227287,33.877609],"type":"Point"}
+}

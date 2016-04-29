@@ -1,0 +1,80 @@
+{
+  "id": 740056251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.414619,31.393744,-81.414619,31.393744",
+    "geom:latitude":31.393744,
+    "geom:longitude":-81.414619,
+    "iso:country":"US",
+    "sg:address":"1157 Black Rd",
+    "sg:city":"Darien",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 437 3301",
+    "sg:postcode":"31305",
+    "sg:province":"GA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936669,
+        102084461,
+        85805337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Kl0HJWuUicr85YMicivv4_31.393744_-81.414619@1303262641"
+    },
+    "wof:country":"US",
+    "wof:created":1461926364,
+    "wof:geomhash":"cb3275bf9cd1b1f23f219f894c7837d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084461,
+            "locality_id":85936669,
+            "neighbourhood_id":85805337,
+            "region_id":85688535,
+            "venue_id":740056251
+        }
+    ],
+    "wof:id":740056251,
+    "wof:lastmodified":1461926364,
+    "wof:name":"Roberts Trucking",
+    "wof:parent_id":85805337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.414619,
+    31.393744,
+    -81.414619,
+    31.393744
+],
+  "geometry": {"coordinates":[-81.414619,31.393744],"type":"Point"}
+}

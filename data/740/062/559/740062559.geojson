@@ -1,0 +1,78 @@
+{
+  "id": 740062559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.493229,31.158465,-81.493229,31.158465",
+    "geom:latitude":31.158465,
+    "geom:longitude":-81.493229,
+    "iso:country":"US",
+    "sg:address":"2104 Wolfe St",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 265 1347",
+    "sg:postcode":"31520",
+    "sg:province":"GA",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85833275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QWLpx7XN6YlvarcvVfNFP_31.158465_-81.493229@1303262643"
+    },
+    "wof:country":"US",
+    "wof:created":1461926639,
+    "wof:geomhash":"eeb94e2335b2c7c6d92968088dc5924c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85833275,
+            "region_id":85688535,
+            "venue_id":740062559
+        }
+    ],
+    "wof:id":740062559,
+    "wof:lastmodified":1461926639,
+    "wof:name":"Holmes Beauty Shop",
+    "wof:parent_id":85833275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [
+    -81.493229,
+    31.158465,
+    -81.493229,
+    31.158465
+],
+  "geometry": {"coordinates":[-81.493229,31.158465],"type":"Point"}
+}

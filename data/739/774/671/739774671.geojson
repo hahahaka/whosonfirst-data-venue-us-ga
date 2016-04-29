@@ -1,0 +1,76 @@
+{
+  "id": 739774671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.970781,32.53212,-84.970781,32.53212",
+    "geom:latitude":32.53212,
+    "geom:longitude":-84.970781,
+    "iso:country":"US",
+    "sg:address":"1591 Bradley Park Dr",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/columbus/56034-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 324 6882",
+    "sg:postcode":"31904",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85820405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nic2YSdj10rniP6CE86Rm_32.532120_-84.970781@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914735,
+    "wof:geomhash":"f2e65ec2d206e0bc82a074e1e34329ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85820405,
+            "region_id":85688535,
+            "venue_id":739774671
+        }
+    ],
+    "wof:id":739774671,
+    "wof:lastmodified":1461914735,
+    "wof:name":"Subway",
+    "wof:parent_id":85820405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.970781,
+    32.53212,
+    -84.970781,
+    32.53212
+],
+  "geometry": {"coordinates":[-84.970781,32.53212],"type":"Point"}
+}

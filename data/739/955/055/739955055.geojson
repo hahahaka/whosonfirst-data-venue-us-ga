@@ -1,0 +1,88 @@
+{
+  "id": 739955055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.384823,33.718587,-84.384823,33.718587",
+    "geom:latitude":33.718587,
+    "geom:longitude":-84.384823,
+    "iso:country":"US",
+    "sg:address":"1297 Jonesboro Rd SE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 222 0454",
+    "sg:postcode":"30315",
+    "sg:province":"GA",
+    "sg:tags":[
+        "grocers-specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85841265,
+        85872129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4encFHJ5UbOV1942GibOMK_33.718587_-84.384823@1303262615"
+    },
+    "wof:country":"US",
+    "wof:created":1461922186,
+    "wof:geomhash":"9f595830526f0c7b2840c2f1a95045fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85841265,
+            "region_id":85688535,
+            "venue_id":739955055
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872129,
+            "region_id":85688535,
+            "venue_id":739955055
+        }
+    ],
+    "wof:id":739955055,
+    "wof:lastmodified":1461922186,
+    "wof:name":"L & M Grocery Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocers-specialty"
+    ]
+},
+  "bbox": [
+    -84.384823,
+    33.718587,
+    -84.384823,
+    33.718587
+],
+  "geometry": {"coordinates":[-84.384823,33.718587],"type":"Point"}
+}

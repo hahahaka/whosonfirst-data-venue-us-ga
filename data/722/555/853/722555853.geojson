@@ -1,0 +1,71 @@
+{
+  "id": 722555853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.582172,33.565401,-84.582172,33.565401",
+    "geom:latitude":33.565401,
+    "geom:longitude":-84.582172,
+    "iso:country":"US",
+    "sg:address":"19 SE Broad St",
+    "sg:city":"Fairburn",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 969 4708",
+    "sg:postcode":"30213",
+    "sg:province":"GA",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937159,
+        102083603,
+        85848001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oYnVwEGgnydcuJZYgx7I2_33.565401_-84.582172@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461884127,
+    "wof:geomhash":"e0d264080aff7de369ccc5b257e53902",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937159,
+            "neighbourhood_id":85848001,
+            "region_id":85688535,
+            "venue_id":722555853
+        }
+    ],
+    "wof:id":722555853,
+    "wof:lastmodified":1461884127,
+    "wof:name":"Fulton County Fire Station",
+    "wof:parent_id":85848001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -84.582172,
+    33.565401,
+    -84.582172,
+    33.565401
+],
+  "geometry": {"coordinates":[-84.582172,33.565401],"type":"Point"}
+}

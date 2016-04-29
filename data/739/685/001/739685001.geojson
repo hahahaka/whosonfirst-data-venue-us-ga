@@ -1,0 +1,73 @@
+{
+  "id": 739685001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.870201,32.644015,-84.870201,32.644015",
+    "geom:latitude":32.644015,
+    "geom:longitude":-84.870201,
+    "iso:country":"US",
+    "sg:address":"322 Chambliss Rd",
+    "sg:city":"Hamilton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 628 4952",
+    "sg:postcode":"31804",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936099,
+        102084477,
+        85835873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qkhaK0g80cPUcESGWRuDx_32.644015_-84.870201@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461912246,
+    "wof:geomhash":"42945717672581fb47e525d254ac548b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084477,
+            "locality_id":85936099,
+            "neighbourhood_id":85835873,
+            "region_id":85688535,
+            "venue_id":739685001
+        }
+    ],
+    "wof:id":739685001,
+    "wof:lastmodified":1461912246,
+    "wof:name":"Chambless Clinic",
+    "wof:parent_id":85835873,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.870201,
+    32.644015,
+    -84.870201,
+    32.644015
+],
+  "geometry": {"coordinates":[-84.87020099999999,32.644015],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 739773941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.282005,30.859477,-83.282005,30.859477",
+    "geom:latitude":30.859477,
+    "geom:longitude":-83.282005,
+    "iso:country":"US",
+    "sg:address":"2172 N Ashley St",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/valdosta/56073-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 242 2477",
+    "sg:postcode":"31602",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936921,
+        102083585,
+        85827633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4r6HGA2DLIpQv8Lk0iagch_30.859477_-83.282005@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914708,
+    "wof:geomhash":"50f15c52506963843cb4981c7813169d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85827633,
+            "region_id":85688535,
+            "venue_id":739773941
+        }
+    ],
+    "wof:id":739773941,
+    "wof:lastmodified":1461914708,
+    "wof:name":"Subway",
+    "wof:parent_id":85827633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.282005,
+    30.859477,
+    -83.282005,
+    30.859477
+],
+  "geometry": {"coordinates":[-83.282005,30.859477],"type":"Point"}
+}

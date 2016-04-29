@@ -1,0 +1,76 @@
+{
+  "id": 739844401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.53059,33.872883,-84.53059,33.872883",
+    "geom:latitude":33.872883,
+    "geom:longitude":-84.53059,
+    "iso:country":"US",
+    "sg:address":"3316-A South Cobb Dr",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 412 1882",
+    "sg:postcode":"30082",
+    "sg:province":"GA",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iZ3ru2gqa1LMWD2I9G0p1_33.872883_-84.530590@1303262587"
+    },
+    "wof:country":"US",
+    "wof:created":1461917671,
+    "wof:geomhash":"b81639af130d8f29a4430825752ca941",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":739844401
+        }
+    ],
+    "wof:id":739844401,
+    "wof:lastmodified":1461917671,
+    "wof:name":"LOCAL TOW",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [
+    -84.53059,
+    33.872883,
+    -84.53059,
+    33.872883
+],
+  "geometry": {"coordinates":[-84.53059,33.872883],"type":"Point"}
+}

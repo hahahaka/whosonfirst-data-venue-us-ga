@@ -1,0 +1,83 @@
+{
+  "id": 739796097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.235029,33.785325,-84.235029,33.785325",
+    "geom:latitude":33.785325,
+    "geom:longitude":-84.235029,
+    "iso:country":"US",
+    "sg:address":"4760 Memorial Dr",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 292 6111",
+    "sg:postcode":"30032",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shop",
+        "espresso",
+        "restaurant"
+    ],
+    "sg:website":"http://www.dunkindonuts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937263,
+        102084539,
+        85890037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ScPaSsn9FHCAc3lOboOoF_33.785325_-84.235029@1303262574"
+    },
+    "wof:country":"US",
+    "wof:created":1461915612,
+    "wof:geomhash":"c3f0de0bf99e21babf822b64418eff2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937263,
+            "neighbourhood_id":85890037,
+            "region_id":85688535,
+            "venue_id":739796097
+        }
+    ],
+    "wof:id":739796097,
+    "wof:lastmodified":1461915612,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85890037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "espresso",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -84.235029,
+    33.785325,
+    -84.235029,
+    33.785325
+],
+  "geometry": {"coordinates":[-84.235029,33.785325],"type":"Point"}
+}

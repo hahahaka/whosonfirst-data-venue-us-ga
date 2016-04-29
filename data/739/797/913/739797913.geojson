@@ -1,0 +1,80 @@
+{
+  "id": 739797913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.293198,33.811501,-84.293198,33.811501",
+    "geom:latitude":33.811501,
+    "geom:longitude":-84.293198,
+    "iso:country":"US",
+    "sg:address":"2077 N Decatur Rd",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 633 5995",
+    "sg:postcode":"30033",
+    "sg:province":"GA",
+    "sg:website":"www.mcdonalds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937259,
+        102084539,
+        85866913,
+        85937257,
+        85890013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79fY6omst29rgC0kuK2VIM_33.811501_-84.293198@1303262574"
+    },
+    "wof:country":"US",
+    "wof:created":1461915687,
+    "wof:geomhash":"9e0d8ffcb32771fee15e9db19f7c60b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937259,
+            "neighbourhood_id":85866913,
+            "region_id":85688535,
+            "venue_id":739797913
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937257,
+            "neighbourhood_id":85890013,
+            "region_id":85688535,
+            "venue_id":739797913
+        }
+    ],
+    "wof:id":739797913,
+    "wof:lastmodified":1461915687,
+    "wof:name":"McDonald's Restaurants",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.293198,
+    33.811501,
+    -84.293198,
+    33.811501
+],
+  "geometry": {"coordinates":[-84.293198,33.811501],"type":"Point"}
+}

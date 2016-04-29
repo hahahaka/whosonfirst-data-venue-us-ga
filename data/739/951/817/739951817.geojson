@@ -1,0 +1,74 @@
+{
+  "id": 739951817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.372285,33.763596,-84.372285,33.763596",
+    "geom:latitude":33.763596,
+    "geom:longitude":-84.372285,
+    "iso:country":"US",
+    "sg:address":"Atlanta Medical Center 340 Boulevard NE, Ste 143",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 525 8256",
+    "sg:postcode":"30312",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.walgreens.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BS2S3V0feJJrxxvoH5sEj_33.763596_-84.372285@1303262614"
+    },
+    "wof:country":"US",
+    "wof:created":1461922030,
+    "wof:geomhash":"f083880f63262306f14eddc3a24c3109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872065,
+            "region_id":85688535,
+            "venue_id":739951817
+        }
+    ],
+    "wof:id":739951817,
+    "wof:lastmodified":1461922030,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85872065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -84.372285,
+    33.763596,
+    -84.372285,
+    33.763596
+],
+  "geometry": {"coordinates":[-84.37228500000001,33.763596],"type":"Point"}
+}

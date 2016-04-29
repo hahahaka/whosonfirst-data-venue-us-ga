@@ -1,0 +1,73 @@
+{
+  "id": 722768401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.025233,33.040189,-85.025233,33.040189",
+    "geom:latitude":33.040189,
+    "geom:longitude":-85.025233,
+    "iso:country":"US",
+    "sg:address":"321 Greenville St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 884 1080",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jhfitCxwADUjHaGObqxKj_33.040189_-85.025233@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888286,
+    "wof:geomhash":"a598fa3f1a6440693af2f05d87f7871b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":722768401
+        }
+    ],
+    "wof:id":722768401,
+    "wof:lastmodified":1461888286,
+    "wof:name":"Center For Creative Growth",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.025233,
+    33.040189,
+    -85.025233,
+    33.040189
+],
+  "geometry": {"coordinates":[-85.025233,33.040189],"type":"Point"}
+}

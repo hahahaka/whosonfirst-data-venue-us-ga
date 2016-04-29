@@ -1,0 +1,71 @@
+{
+  "id": 723192837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.195063,34.926202,-85.195063,34.926202",
+    "geom:latitude":34.926202,
+    "geom:longitude":-85.195063,
+    "iso:country":"US",
+    "sg:address":"273 Mason Dr",
+    "sg:city":"Ringgold",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 861 1607",
+    "sg:postcode":"30736",
+    "sg:province":"GA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936055,
+        102084401,
+        85818561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67pmS8trFfzrqkW8TPipi3_34.926202_-85.195063@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896934,
+    "wof:geomhash":"48cacdc613e4c63cea3b80cdc7f14ec8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084401,
+            "locality_id":85936055,
+            "neighbourhood_id":85818561,
+            "region_id":85688535,
+            "venue_id":723192837
+        }
+    ],
+    "wof:id":723192837,
+    "wof:lastmodified":1461896934,
+    "wof:name":"Pathologists Lab",
+    "wof:parent_id":85818561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -85.195063,
+    34.926202,
+    -85.195063,
+    34.926202
+],
+  "geometry": {"coordinates":[-85.195063,34.926202],"type":"Point"}
+}

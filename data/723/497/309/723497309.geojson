@@ -1,0 +1,75 @@
+{
+  "id": 723497309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.125728,34.171946,-84.125728,34.171946",
+    "geom:latitude":34.171946,
+    "geom:longitude":-84.125728,
+    "iso:country":"US",
+    "sg:address":"1246 Buford Hwy",
+    "sg:city":"Cumming",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 888 8815",
+    "sg:postcode":"30041",
+    "sg:province":"GA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936811,
+        102082317,
+        85842073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Kd6BzqYPE4tP9LozsYmpB_34.171946_-84.125728@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461902903,
+    "wof:geomhash":"0d6b11364fd5189279069905528ef73d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082317,
+            "locality_id":85936811,
+            "neighbourhood_id":85842073,
+            "region_id":85688535,
+            "venue_id":723497309
+        }
+    ],
+    "wof:id":723497309,
+    "wof:lastmodified":1461902903,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85842073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -84.125728,
+    34.171946,
+    -84.125728,
+    34.171946
+],
+  "geometry": {"coordinates":[-84.125728,34.171946],"type":"Point"}
+}

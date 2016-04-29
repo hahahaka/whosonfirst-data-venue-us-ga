@@ -1,0 +1,71 @@
+{
+  "id": 723272349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.460262,34.502947,-84.460262,34.502947",
+    "geom:latitude":34.502947,
+    "geom:longitude":-84.460262,
+    "iso:country":"US",
+    "sg:address":"208 Oaklands Dr",
+    "sg:city":"Jasper",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 301 1021",
+    "sg:postcode":"30175",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85846359,
+        102083619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RzwHSSCVGe4VPjLbcCm6R_34.502947_-84.460262@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461898546,
+    "wof:geomhash":"011b8b12bec192c22ce5bb9b27f74c54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083619,
+            "neighbourhood_id":85846359,
+            "region_id":85688535,
+            "venue_id":723272349
+        }
+    ],
+    "wof:id":723272349,
+    "wof:lastmodified":1461898546,
+    "wof:name":"Internal Medicine Of Jasper",
+    "wof:parent_id":85846359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.460262,
+    34.502947,
+    -84.460262,
+    34.502947
+],
+  "geometry": {"coordinates":[-84.460262,34.502947],"type":"Point"}
+}

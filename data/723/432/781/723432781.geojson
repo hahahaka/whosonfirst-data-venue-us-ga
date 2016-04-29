@@ -1,0 +1,71 @@
+{
+  "id": 723432781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.032018,33.040801,-85.032018,33.040801",
+    "geom:latitude":33.040801,
+    "geom:longitude":-85.032018,
+    "iso:country":"US",
+    "sg:address":"100 W Haralson St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 883 2630",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6emnMrdDS92zDK6QXkII0r_33.040801_-85.032018@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901616,
+    "wof:geomhash":"ec111b17d9ba390fdded78a024f6dc1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":723432781
+        }
+    ],
+    "wof:id":723432781,
+    "wof:lastmodified":1461901616,
+    "wof:name":"LA Grange City Crime Prvntn",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.032018,
+    33.040801,
+    -85.032018,
+    33.040801
+],
+  "geometry": {"coordinates":[-85.03201799999999,33.040801],"type":"Point"}
+}

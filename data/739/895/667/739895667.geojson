@@ -1,0 +1,82 @@
+{
+  "id": 739895667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.029592,33.03952,-85.029592,33.03952",
+    "geom:latitude":33.03952,
+    "geom:longitude":-85.029592,
+    "iso:country":"US",
+    "sg:address":"202 Greenville St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 884 7471",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "decoration",
+        "planning",
+        "rental",
+        "event"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YoQhIiulAZwOs6uXrfzRf_33.039520_-85.029592@1303262600"
+    },
+    "wof:country":"US",
+    "wof:created":1461919648,
+    "wof:geomhash":"e64f2cb66482fe9391340ce33fff970a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739895667
+        }
+    ],
+    "wof:id":739895667,
+    "wof:lastmodified":1461919648,
+    "wof:name":"Space Walk Of Lagrange",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "decoration",
+        "planning",
+        "rental",
+        "event"
+    ]
+},
+  "bbox": [
+    -85.029592,
+    33.03952,
+    -85.029592,
+    33.03952
+],
+  "geometry": {"coordinates":[-85.02959199999999,33.03952],"type":"Point"}
+}

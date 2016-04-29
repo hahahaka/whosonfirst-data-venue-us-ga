@@ -1,0 +1,71 @@
+{
+  "id": 723118079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.699561,34.431554,-84.699561,34.431554",
+    "geom:latitude":34.431554,
+    "geom:longitude":-84.699561,
+    "iso:country":"US",
+    "sg:address":"429 Tennessee St",
+    "sg:city":"Fairmount",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 337 5340",
+    "sg:postcode":"30139",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85836757,
+        102084679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XpxRn9RTuNiYOF9WpaW31_34.431554_-84.699561@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461895476,
+    "wof:geomhash":"5611c20e80ed244c92488c0dbcd99866",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084679,
+            "neighbourhood_id":85836757,
+            "region_id":85688535,
+            "venue_id":723118079
+        }
+    ],
+    "wof:id":723118079,
+    "wof:lastmodified":1461895476,
+    "wof:name":"Fairmount Family Practice",
+    "wof:parent_id":85836757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.699561,
+    34.431554,
+    -84.699561,
+    34.431554
+],
+  "geometry": {"coordinates":[-84.699561,34.431554],"type":"Point"}
+}

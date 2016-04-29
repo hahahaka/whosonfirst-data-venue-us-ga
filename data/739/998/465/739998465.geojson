@@ -1,0 +1,80 @@
+{
+  "id": 739998465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.294115,33.906384,-84.294115,33.906384",
+    "geom:latitude":33.906384,
+    "geom:longitude":-84.294115,
+    "iso:country":"US",
+    "sg:address":"5800 Peachtree Industrial Blvd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 263 2020",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:website":"www.wingatehotels.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85936435,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JlzkY1tjurpeSLRZzMJ7b_33.906384_-84.294115@1303262626"
+    },
+    "wof:country":"US",
+    "wof:created":1461923869,
+    "wof:geomhash":"30298cec5b7f79c410e4f52458607e1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":739998465
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":739998465
+        }
+    ],
+    "wof:id":739998465,
+    "wof:lastmodified":1461923869,
+    "wof:name":"Wingate Inn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.294115,
+    33.906384,
+    -84.294115,
+    33.906384
+],
+  "geometry": {"coordinates":[-84.29411500000001,33.906384],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 739768127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.38894,33.78123,-84.38894,33.78123",
+    "geom:latitude":33.78123,
+    "geom:longitude":-84.38894,
+    "iso:country":"US",
+    "sg:address":"44 10th St NW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/atlanta/76117-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 872 3000",
+    "sg:postcode":"30309",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85866909,
+        85805581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4r4YuZFwjx5931BQma6hcS_33.781230_-84.388940@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914464,
+    "wof:geomhash":"e22fac4d1a9e30cfd4e493a434547cb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85866909,
+            "region_id":85688535,
+            "venue_id":739768127
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85805581,
+            "region_id":85688535,
+            "venue_id":739768127
+        }
+    ],
+    "wof:id":739768127,
+    "wof:lastmodified":1461914464,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.38894,
+    33.78123,
+    -84.38894,
+    33.78123
+],
+  "geometry": {"coordinates":[-84.38894000000001,33.78123],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 740065137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.265548,30.791083,-83.265548,30.791083",
+    "geom:latitude":30.791083,
+    "geom:longitude":-83.265548,
+    "iso:country":"US",
+    "sg:address":"2239 Copeland Mill Dr",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 245 0540",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "trucking-light",
+        "hauling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85827233,
+        102083585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2llvjcTpOdUPtHBTQA7vyE_30.791083_-83.265548@1303262643"
+    },
+    "wof:country":"US",
+    "wof:created":1461926756,
+    "wof:geomhash":"7f4c51ae42e7453ae0a189083b4647f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "neighbourhood_id":85827233,
+            "region_id":85688535,
+            "venue_id":740065137
+        }
+    ],
+    "wof:id":740065137,
+    "wof:lastmodified":1461926756,
+    "wof:name":"Tnt Contract Hauling",
+    "wof:parent_id":85827233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-light",
+        "hauling"
+    ]
+},
+  "bbox": [
+    -83.265548,
+    30.791083,
+    -83.265548,
+    30.791083
+],
+  "geometry": {"coordinates":[-83.265548,30.791083],"type":"Point"}
+}

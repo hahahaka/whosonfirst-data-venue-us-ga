@@ -1,0 +1,72 @@
+{
+  "id": 739772575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.765833,32.879952,-83.765833,32.879952",
+    "geom:latitude":32.879952,
+    "geom:longitude":-83.765833,
+    "iso:country":"US",
+    "sg:address":"6225 Zebulon Rd",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/macon/246117-krystal/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 474 9280",
+    "sg:postcode":"31210",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85848313,
+        102084373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bfPgYavHlQxbXtJU7slcm_32.879952_-83.765833@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914648,
+    "wof:geomhash":"3261a140e91c9f99c215d9c5fd99cc83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084373,
+            "neighbourhood_id":85848313,
+            "region_id":85688535,
+            "venue_id":739772575
+        }
+    ],
+    "wof:id":739772575,
+    "wof:lastmodified":1461914648,
+    "wof:name":"Krystal",
+    "wof:parent_id":85848313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.765833,
+    32.879952,
+    -83.765833,
+    32.879952
+],
+  "geometry": {"coordinates":[-83.765833,32.879952],"type":"Point"}
+}

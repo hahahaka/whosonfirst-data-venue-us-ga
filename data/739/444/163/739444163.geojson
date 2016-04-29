@@ -1,0 +1,83 @@
+{
+  "id": 739444163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.099936,32.073556,-81.099936,32.073556",
+    "geom:latitude":32.073556,
+    "geom:longitude":-81.099936,
+    "iso:country":"US",
+    "sg:address":"355 Martin Luther King Jr Blvd",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 236 1911",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85880921,
+        85880901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XdFB0n1lvNbcqRDmcHmPk_32.073556_-81.099936@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907441,
+    "wof:geomhash":"a175699ff29597cb9921a0c871793706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880921,
+            "region_id":85688535,
+            "venue_id":739444163
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880901,
+            "region_id":85688535,
+            "venue_id":739444163
+        }
+    ],
+    "wof:id":739444163,
+    "wof:lastmodified":1461907441,
+    "wof:name":"Just Cuzzins",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -81.099936,
+    32.073556,
+    -81.099936,
+    32.073556
+],
+  "geometry": {"coordinates":[-81.099936,32.073556],"type":"Point"}
+}

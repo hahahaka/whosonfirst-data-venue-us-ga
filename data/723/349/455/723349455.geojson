@@ -1,0 +1,73 @@
+{
+  "id": 723349455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.946286,34.481291,-84.946286,34.481291",
+    "geom:latitude":34.481291,
+    "geom:longitude":-84.946286,
+    "iso:country":"US",
+    "sg:address":"615 W Belmont Dr",
+    "sg:city":"Calhoun",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 629 6484",
+    "sg:postcode":"30701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936609,
+        102084679,
+        85817247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1he7Der5RSBng3vJIrBjt1_34.481291_-84.946286@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899985,
+    "wof:geomhash":"9b6ba52659fee81bccc1084a831fcebc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084679,
+            "locality_id":85936609,
+            "neighbourhood_id":85817247,
+            "region_id":85688535,
+            "venue_id":723349455
+        }
+    ],
+    "wof:id":723349455,
+    "wof:lastmodified":1461899985,
+    "wof:name":"Cherokee Auto Repair & Muffler",
+    "wof:parent_id":85817247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.946286,
+    34.481291,
+    -84.946286,
+    34.481291
+],
+  "geometry": {"coordinates":[-84.946286,34.481291],"type":"Point"}
+}

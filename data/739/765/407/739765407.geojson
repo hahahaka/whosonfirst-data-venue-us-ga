@@ -1,0 +1,74 @@
+{
+  "id": 739765407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.601756,33.85519,-84.601756,33.85519",
+    "geom:latitude":33.85519,
+    "geom:longitude":-84.601756,
+    "iso:country":"US",
+    "sg:address":"4111 Austell Rd",
+    "sg:city":"Austell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/austell/203179-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 941 2934",
+    "sg:postcode":"30106",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49scHtmkX09ZR2CfigS4JX_33.855190_-84.601756@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914358,
+    "wof:geomhash":"3741b5d6ec33bf04729daf3a8706aeca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":739765407
+        }
+    ],
+    "wof:id":739765407,
+    "wof:lastmodified":1461914358,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.601756,
+    33.85519,
+    -84.601756,
+    33.85519
+],
+  "geometry": {"coordinates":[-84.60175599999999,33.85519],"type":"Point"}
+}

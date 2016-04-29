@@ -1,0 +1,74 @@
+{
+  "id": 739771033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.928619,34.765582,-84.928619,34.765582",
+    "geom:latitude":34.765582,
+    "geom:longitude":-84.928619,
+    "iso:country":"US",
+    "sg:address":"2135 E Walnut Ave",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/dalton/71006-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 278 7188",
+    "sg:postcode":"30721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45VF88FE7QTr2FsdbBLFCe_34.765582_-84.928619@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914585,
+    "wof:geomhash":"cf9243a7a60cffdbeb34adf07bfe93c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":739771033
+        }
+    ],
+    "wof:id":739771033,
+    "wof:lastmodified":1461914585,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.928619,
+    34.765582,
+    -84.928619,
+    34.765582
+],
+  "geometry": {"coordinates":[-84.928619,34.765582],"type":"Point"}
+}

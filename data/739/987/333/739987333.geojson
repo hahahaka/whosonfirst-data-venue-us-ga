@@ -1,0 +1,73 @@
+{
+  "id": 739987333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.300879,33.925224,-84.300879,33.925224",
+    "geom:latitude":33.925224,
+    "geom:longitude":-84.300879,
+    "iso:country":"US",
+    "sg:address":"4402 Chowning Way",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 559 4789",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "sg:tags":[
+        "laboratories-veterinary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85890023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sm5wZhlpijDiuFGpBVQES_33.925224_-84.300879@1303262623"
+    },
+    "wof:country":"US",
+    "wof:created":1461923449,
+    "wof:geomhash":"8cecdba8a11b98179c5aa18d3cb58d85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890023,
+            "region_id":85688535,
+            "venue_id":739987333
+        }
+    ],
+    "wof:id":739987333,
+    "wof:lastmodified":1461923449,
+    "wof:name":"Atlanta Veterinary Imaging and Diagnostics",
+    "wof:parent_id":85890023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratories-veterinary"
+    ]
+},
+  "bbox": [
+    -84.300879,
+    33.925224,
+    -84.300879,
+    33.925224
+],
+  "geometry": {"coordinates":[-84.30087899999999,33.925224],"type":"Point"}
+}

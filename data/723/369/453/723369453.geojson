@@ -1,0 +1,76 @@
+{
+  "id": 723369453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.251853,30.743226,-83.251853,30.743226",
+    "geom:latitude":30.743226,
+    "geom:longitude":-83.251853,
+    "iso:country":"US",
+    "sg:address":"3140 Loch Laurel Rd",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 244 0502",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "welding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85827233,
+        102083585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3coKkZZNTogBQyZxBnWtBk_30.743226_-83.251853@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900363,
+    "wof:geomhash":"1c6db93bcd0ef63a0583da4482166026",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "neighbourhood_id":85827233,
+            "region_id":85688535,
+            "venue_id":723369453
+        }
+    ],
+    "wof:id":723369453,
+    "wof:lastmodified":1461900363,
+    "wof:name":"Bush's Welding & Fabrication",
+    "wof:parent_id":85827233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.251853,
+    30.743226,
+    -83.251853,
+    30.743226
+],
+  "geometry": {"coordinates":[-83.251853,30.743226],"type":"Point"}
+}

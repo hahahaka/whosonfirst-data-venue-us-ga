@@ -1,0 +1,73 @@
+{
+  "id": 722738665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.689773,32.615884,-83.689773,32.615884",
+    "geom:latitude":32.615884,
+    "geom:longitude":-83.689773,
+    "iso:country":"US",
+    "sg:address":"312 Margie Dr",
+    "sg:city":"Warner Robins",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 971 7420",
+    "sg:postcode":"31088",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pU9N1FGAd1ssEYi3DXYTo_32.615884_-83.689773@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461887712,
+    "wof:geomhash":"afecb1da425bd6cad8846201250a7e8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":722738665
+        }
+    ],
+    "wof:id":722738665,
+    "wof:lastmodified":1461887712,
+    "wof:name":"Georgia Heart & Vascular Ctr",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.689773,
+    32.615884,
+    -83.689773,
+    32.615884
+],
+  "geometry": {"coordinates":[-83.689773,32.615884],"type":"Point"}
+}

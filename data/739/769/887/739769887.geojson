@@ -1,0 +1,73 @@
+{
+  "id": 739769887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.991094,34.063854,-83.991094,34.063854",
+    "geom:latitude":34.063854,
+    "geom:longitude":-83.991094,
+    "iso:country":"US",
+    "sg:address":"3210 Buford Dr",
+    "sg:city":"Buford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/buford/203195-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30519",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936281,
+        102082967,
+        85858547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TcloqfNvVRGNnaNc138Ef_34.063854_-83.991094@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914537,
+    "wof:geomhash":"06c4b93bfc463dc250d79fd65efb3ec7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936281,
+            "neighbourhood_id":85858547,
+            "region_id":85688535,
+            "venue_id":739769887
+        }
+    ],
+    "wof:id":739769887,
+    "wof:lastmodified":1461914537,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85858547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.991094,
+    34.063854,
+    -83.991094,
+    34.063854
+],
+  "geometry": {"coordinates":[-83.991094,34.063854],"type":"Point"}
+}

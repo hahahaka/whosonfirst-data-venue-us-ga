@@ -1,0 +1,88 @@
+{
+  "id": 740021285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.777993,32.423138,-81.777993,32.423138",
+    "geom:latitude":32.423138,
+    "geom:longitude":-81.777993,
+    "iso:country":"US",
+    "sg:address":"1550 Chandler Rd Ste A",
+    "sg:city":"Statesboro",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 681 6423",
+    "sg:postcode":"30458",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ],
+    "sg:website":"http://www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935999,
+        102084405,
+        85821351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jEiYcpZPfyuZe9pEndHP2_32.423138_-81.777993@1303262632"
+    },
+    "wof:country":"US",
+    "wof:created":1461924752,
+    "wof:geomhash":"ff19a3c599d30f0062ec487453f080ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85821351,
+            "region_id":85688535,
+            "venue_id":740021285
+        }
+    ],
+    "wof:id":740021285,
+    "wof:lastmodified":1461924752,
+    "wof:name":"Subway",
+    "wof:parent_id":85821351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ]
+},
+  "bbox": [
+    -81.777993,
+    32.423138,
+    -81.777993,
+    32.423138
+],
+  "geometry": {"coordinates":[-81.777993,32.423138],"type":"Point"}
+}

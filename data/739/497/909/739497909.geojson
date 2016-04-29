@@ -1,0 +1,75 @@
+{
+  "id": 739497909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.475847,31.222399,-81.475847,31.222399",
+    "geom:latitude":31.222399,
+    "geom:longitude":-81.475847,
+    "iso:country":"US",
+    "sg:address":"118 Yorktown Dr",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 264 4115",
+    "sg:postcode":"31525",
+    "sg:province":"GA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85814297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OENSa0SEjFgMLbVr1bPEh_31.222399_-81.475847@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461908391,
+    "wof:geomhash":"ae9b9496e6c43ec1c5ee5351519cc6bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85814297,
+            "region_id":85688535,
+            "venue_id":739497909
+        }
+    ],
+    "wof:id":739497909,
+    "wof:lastmodified":1461908391,
+    "wof:name":"RR Trucking",
+    "wof:parent_id":85814297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.475847,
+    31.222399,
+    -81.475847,
+    31.222399
+],
+  "geometry": {"coordinates":[-81.475847,31.222399],"type":"Point"}
+}

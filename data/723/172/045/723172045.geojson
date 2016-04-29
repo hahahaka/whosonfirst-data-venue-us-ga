@@ -1,0 +1,73 @@
+{
+  "id": 723172045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.485345,31.154453,-81.485345,31.154453",
+    "geom:latitude":31.154453,
+    "geom:longitude":-81.485345,
+    "iso:country":"US",
+    "sg:address":"1619 Johnston St",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 264 8244",
+    "sg:postcode":"31520",
+    "sg:province":"GA",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85822091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5066TR6ioaTyZpetJWqRUT_31.154453_-81.485345@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896520,
+    "wof:geomhash":"9b2bb855b16c6c70526758a466ffb647",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85822091,
+            "region_id":85688535,
+            "venue_id":723172045
+        }
+    ],
+    "wof:id":723172045,
+    "wof:lastmodified":1461896520,
+    "wof:name":"G&S Concrete",
+    "wof:parent_id":85822091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.485345,
+    31.154453,
+    -81.485345,
+    31.154453
+],
+  "geometry": {"coordinates":[-81.485345,31.154453],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 723124601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.544401,33.75138,-84.544401,33.75138",
+    "geom:latitude":33.75138,
+    "geom:longitude":-84.544401,
+    "iso:country":"US",
+    "sg:address":"4820 Mendel Ct SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 472 0286",
+    "sg:postcode":"30336",
+    "sg:province":"GA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85872053,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7h13VmFtMsOAJmmAtUSrz9_33.751380_-84.544401@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461895597,
+    "wof:geomhash":"bd6e4921bff02a1fd6daae3d329980a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85872053,
+            "region_id":85688535,
+            "venue_id":723124601
+        }
+    ],
+    "wof:id":723124601,
+    "wof:lastmodified":1461895597,
+    "wof:name":"Billings Freight System",
+    "wof:parent_id":85872053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.544401,
+    33.75138,
+    -84.544401,
+    33.75138
+],
+  "geometry": {"coordinates":[-84.54440099999999,33.75138],"type":"Point"}
+}

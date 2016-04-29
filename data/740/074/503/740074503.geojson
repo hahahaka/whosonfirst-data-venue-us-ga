@@ -1,0 +1,69 @@
+{
+  "id": 740074503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.945058,32.506649,-84.945058,32.506649",
+    "geom:latitude":32.506649,
+    "geom:longitude":-84.945058,
+    "iso:country":"US",
+    "sg:address":"3091 Manchester Expy",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 478 2300",
+    "sg:postcode":"31909",
+    "sg:province":"GA",
+    "sg:website":"http://www.macys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85856927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ta3mZk0ctQ3PeIbyl5OP4_32.506649_-84.945058@1303262646"
+    },
+    "wof:country":"US",
+    "wof:created":1461927158,
+    "wof:geomhash":"96c2810ed220b8d78c35937e7225ef79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85856927,
+            "region_id":85688535,
+            "venue_id":740074503
+        }
+    ],
+    "wof:id":740074503,
+    "wof:lastmodified":1461927158,
+    "wof:name":"Macy's",
+    "wof:parent_id":85856927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.945058,
+    32.506649,
+    -84.945058,
+    32.506649
+],
+  "geometry": {"coordinates":[-84.945058,32.506649],"type":"Point"}
+}

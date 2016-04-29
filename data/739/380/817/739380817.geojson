@@ -1,0 +1,71 @@
+{
+  "id": 739380817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.085918,33.019089,-85.085918,33.019089",
+    "geom:latitude":33.019089,
+    "geom:longitude":-85.085918,
+    "iso:country":"US",
+    "sg:address":"2470 Westpoint Rd",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 837 9111",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85830157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xeFhCF96cWekShF5LUKpn_33.019089_-85.085918@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461906212,
+    "wof:geomhash":"77b9852147755b4c1287a1b5306e8196",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85830157,
+            "region_id":85688535,
+            "venue_id":739380817
+        }
+    ],
+    "wof:id":739380817,
+    "wof:lastmodified":1461906212,
+    "wof:name":"Hospital Ambulance Svc",
+    "wof:parent_id":85830157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -85.085918,
+    33.019089,
+    -85.085918,
+    33.019089
+],
+  "geometry": {"coordinates":[-85.08591800000001,33.019089],"type":"Point"}
+}

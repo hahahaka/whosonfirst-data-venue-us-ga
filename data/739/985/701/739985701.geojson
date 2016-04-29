@@ -1,0 +1,79 @@
+{
+  "id": 739985701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.44964,33.651575,-84.44964,33.651575",
+    "geom:latitude":33.651575,
+    "geom:longitude":-84.44964,
+    "iso:country":"US",
+    "sg:address":"3799 Main St",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"30337",
+    "sg:province":"GA",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526927,
+        85688535,
+        85633793,
+        102082333,
+        85815707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gzYWRp0jZheWUzMrIh0rb_33.651575_-84.449640@1303262623"
+    },
+    "wof:country":"US",
+    "wof:created":1461923385,
+    "wof:geomhash":"9c8dd8db2c270f8a8b187a193e1d22f9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526927,
+            "country_id":85633793,
+            "county_id":102082333,
+            "neighbourhood_id":85815707,
+            "region_id":85688535,
+            "venue_id":739985701
+        }
+    ],
+    "wof:id":739985701,
+    "wof:lastmodified":1461923385,
+    "wof:name":"USPS - United States Post Office - College Park Post Office",
+    "wof:parent_id":102526927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -84.44964,
+    33.651575,
+    -84.44964,
+    33.651575
+],
+  "geometry": {"coordinates":[-84.44964,33.651575],"type":"Point"}
+}

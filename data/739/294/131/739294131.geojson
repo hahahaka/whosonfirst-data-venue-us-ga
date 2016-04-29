@@ -1,0 +1,83 @@
+{
+  "id": 739294131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.961836,32.442876,-84.961836,32.442876",
+    "geom:latitude":32.442876,
+    "geom:longitude":-84.961836,
+    "iso:country":"US",
+    "sg:address":"2223 Blanchard Blvd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 653 0620",
+    "sg:postcode":"31901",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        420518159,
+        85803141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ObHI6mkb6cvbdxW7gGiP7_32.442876_-84.961836@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461904450,
+    "wof:geomhash":"fd3a29947f7a355e9647444bfaad7049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":420518159,
+            "region_id":85688535,
+            "venue_id":739294131
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85803141,
+            "region_id":85688535,
+            "venue_id":739294131
+        }
+    ],
+    "wof:id":739294131,
+    "wof:lastmodified":1461904450,
+    "wof:name":"Bass Auto & Body Shop Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -84.961836,
+    32.442876,
+    -84.961836,
+    32.442876
+],
+  "geometry": {"coordinates":[-84.96183600000001,32.442876],"type":"Point"}
+}

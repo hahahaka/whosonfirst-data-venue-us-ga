@@ -1,0 +1,82 @@
+{
+  "id": 739787071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.265396,34.062054,-84.265396,34.062054",
+    "geom:latitude":34.062054,
+    "geom:longitude":-84.265396,
+    "iso:country":"US",
+    "sg:address":"4300 N Point Pkwy Ste 202",
+    "sg:city":"Alpharetta",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 825 5500",
+    "sg:postcode":"30022",
+    "sg:province":"GA",
+    "sg:tags":[
+        "container",
+        "broker",
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937153,
+        102083603,
+        85843117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jNOGiwnnn9QFz2z9g31zh_34.062054_-84.265396@1303262571"
+    },
+    "wof:country":"US",
+    "wof:created":1461915221,
+    "wof:geomhash":"bd28933f3a5c8028f3ec088422187f95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937153,
+            "neighbourhood_id":85843117,
+            "region_id":85688535,
+            "venue_id":739787071
+        }
+    ],
+    "wof:id":739787071,
+    "wof:lastmodified":1461915221,
+    "wof:name":"Hanjin Shipping",
+    "wof:parent_id":85843117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "container",
+        "broker",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -84.265396,
+    34.062054,
+    -84.265396,
+    34.062054
+],
+  "geometry": {"coordinates":[-84.265396,34.062054],"type":"Point"}
+}

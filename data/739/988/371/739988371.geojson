@@ -1,0 +1,85 @@
+{
+  "id": 739988371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.30091,33.957856,-84.30091,33.957856",
+    "geom:latitude":33.957856,
+    "geom:longitude":-84.30091,
+    "iso:country":"US",
+    "sg:address":"5555 N Peachtree Rd",
+    "sg:city":"Dunwoody",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 394 2900",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "sg:tags":[
+        "dermatologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        420517731,
+        85937165,
+        102083603,
+        420517933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hsgNyzbyaXcCx1xkN8gPf_33.957856_-84.300910@1303262624"
+    },
+    "wof:country":"US",
+    "wof:created":1461923490,
+    "wof:geomhash":"eee5c62e7456db533d2e89b96277a857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":420517731,
+            "region_id":85688535,
+            "venue_id":739988371
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937165,
+            "neighbourhood_id":420517933,
+            "region_id":85688535,
+            "venue_id":739988371
+        }
+    ],
+    "wof:id":739988371,
+    "wof:lastmodified":1461923490,
+    "wof:name":"Georgia Dermatologic Surgery Center MD PC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dermatologist"
+    ]
+},
+  "bbox": [
+    -84.30091,
+    33.957856,
+    -84.30091,
+    33.957856
+],
+  "geometry": {"coordinates":[-84.30091,33.957856],"type":"Point"}
+}

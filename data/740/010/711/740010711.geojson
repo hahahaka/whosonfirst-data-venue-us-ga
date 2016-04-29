@@ -1,0 +1,90 @@
+{
+  "id": 740010711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.338703,33.926668,-84.338703,33.926668",
+    "geom:latitude":33.926668,
+    "geom:longitude":-84.338703,
+    "iso:country":"US",
+    "sg:address":"120 Perimeter Center W",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Newspaper",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 396 1200",
+    "sg:postcode":"30346",
+    "sg:province":"GA",
+    "sg:tags":[
+        "magazine",
+        "bookstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85890003,
+        420559945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yA7PMBPaeD81JNPxo73Ri_33.926668_-84.338703@1303262629"
+    },
+    "wof:country":"US",
+    "wof:created":1461924342,
+    "wof:geomhash":"cd75181a9e60abfa155259a00c9a6f37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890003,
+            "region_id":85688535,
+            "venue_id":740010711
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":420559945,
+            "region_id":85688535,
+            "venue_id":740010711
+        }
+    ],
+    "wof:id":740010711,
+    "wof:lastmodified":1461924342,
+    "wof:name":"Barnes & Noble Booksellers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "magazine",
+        "bookstore"
+    ]
+},
+  "bbox": [
+    -84.338703,
+    33.926668,
+    -84.338703,
+    33.926668
+],
+  "geometry": {"coordinates":[-84.338703,33.926668],"type":"Point"}
+}

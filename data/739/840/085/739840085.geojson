@@ -1,0 +1,77 @@
+{
+  "id": 739840085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.003026,33.855579,-84.003026,33.855579",
+    "geom:latitude":33.855579,
+    "geom:longitude":-84.003026,
+    "iso:country":"US",
+    "sg:address":"2145 Main St",
+    "sg:city":"Snellville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 979 0440",
+    "sg:postcode":"30078",
+    "sg:province":"GA",
+    "sg:tags":[
+        "detailing"
+    ],
+    "sg:website":"www.autobell.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936303,
+        102082967,
+        85890049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60TDK6bRW4cT37NM2yr7pI_33.855579_-84.003026@1303262585"
+    },
+    "wof:country":"US",
+    "wof:created":1461917493,
+    "wof:geomhash":"828175eb480443556db29da963cf41f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936303,
+            "neighbourhood_id":85890049,
+            "region_id":85688535,
+            "venue_id":739840085
+        }
+    ],
+    "wof:id":739840085,
+    "wof:lastmodified":1461917493,
+    "wof:name":"Autobell",
+    "wof:parent_id":85890049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detailing"
+    ]
+},
+  "bbox": [
+    -84.003026,
+    33.855579,
+    -84.003026,
+    33.855579
+],
+  "geometry": {"coordinates":[-84.00302600000001,33.855579],"type":"Point"}
+}

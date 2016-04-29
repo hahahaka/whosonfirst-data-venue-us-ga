@@ -1,0 +1,87 @@
+{
+  "id": 739995779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.243523,33.89949,-84.243523,33.89949",
+    "geom:latitude":33.89949,
+    "geom:longitude":-84.243523,
+    "iso:country":"US",
+    "sg:address":"4025 Pleasantdale Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 966 9100",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "sg:tags":[
+        "washing",
+        "chemical",
+        "pressure",
+        "systems-pressure",
+        "steam"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZI1j2tv8D8X2m7PCOLIVv_33.899490_-84.243523@1303262626"
+    },
+    "wof:country":"US",
+    "wof:created":1461923774,
+    "wof:geomhash":"82b525915627cdd9a6e3f29806e165e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":739995779
+        }
+    ],
+    "wof:id":739995779,
+    "wof:lastmodified":1461923774,
+    "wof:name":"Sutherlin's Pressure Washing",
+    "wof:parent_id":85889941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "washing",
+        "chemical",
+        "pressure",
+        "systems-pressure",
+        "steam"
+    ]
+},
+  "bbox": [
+    -84.243523,
+    33.89949,
+    -84.243523,
+    33.89949
+],
+  "geometry": {"coordinates":[-84.243523,33.89949],"type":"Point"}
+}

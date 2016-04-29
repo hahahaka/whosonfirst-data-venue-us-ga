@@ -1,0 +1,96 @@
+{
+  "id": 739960255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.46225,33.818989,-84.46225,33.818989",
+    "geom:latitude":33.818989,
+    "geom:longitude":-84.46225,
+    "iso:country":"US",
+    "sg:address":"2329 Bolton Rd NW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 351 9618",
+    "sg:postcode":"30318",
+    "sg:province":"GA",
+    "sg:tags":[
+        "renting",
+        "moving-self",
+        "leasing",
+        "truck",
+        "van",
+        "moving",
+        "trailer"
+    ],
+    "sg:website":"http://www.budgettruck.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        420517865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79jH9zVBlUIizWx5v1LlI8_33.818989_-84.462250@1303262616"
+    },
+    "wof:country":"US",
+    "wof:created":1461922377,
+    "wof:geomhash":"0d5432ba5e427129cea16547e31ec9b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":420517865,
+            "region_id":85688535,
+            "venue_id":739960255
+        }
+    ],
+    "wof:id":739960255,
+    "wof:lastmodified":1461922377,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":420517865,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "moving-self",
+        "leasing",
+        "truck",
+        "van",
+        "moving",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -84.46225,
+    33.818989,
+    -84.46225,
+    33.818989
+],
+  "geometry": {"coordinates":[-84.46225,33.818989],"type":"Point"}
+}

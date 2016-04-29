@@ -1,0 +1,88 @@
+{
+  "id": 739808651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.95806,33.934286,-83.95806,33.934286",
+    "geom:latitude":33.934286,
+    "geom:longitude":-83.95806,
+    "iso:country":"US",
+    "sg:address":"930 New Hope Rd",
+    "sg:city":"Lawrenceville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 513 0103",
+    "sg:postcode":"30045",
+    "sg:province":"GA",
+    "sg:tags":[
+        "grooming",
+        "cat",
+        "specialty",
+        "kennel",
+        "dog"
+    ],
+    "sg:website":"http://www.shampoochpalace.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85854851,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02FcdaIWiu8D5DktvIxQo0_33.934286_-83.958060@1303262577"
+    },
+    "wof:country":"US",
+    "wof:created":1461916230,
+    "wof:geomhash":"0bc3d963aee2949711a1a05dd39106b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85854851,
+            "region_id":85688535,
+            "venue_id":739808651
+        }
+    ],
+    "wof:id":739808651,
+    "wof:lastmodified":1461916230,
+    "wof:name":"Shampooch Palace",
+    "wof:parent_id":85854851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grooming",
+        "cat",
+        "specialty",
+        "kennel",
+        "dog"
+    ]
+},
+  "bbox": [
+    -83.95806,
+    33.934286,
+    -83.95806,
+    33.934286
+],
+  "geometry": {"coordinates":[-83.95806,33.934286],"type":"Point"}
+}

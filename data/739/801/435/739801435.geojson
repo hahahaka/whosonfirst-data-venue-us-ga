@@ -1,0 +1,84 @@
+{
+  "id": 739801435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.0886,33.701698,-84.0886,33.701698",
+    "geom:latitude":33.701698,
+    "geom:longitude":-84.0886,
+    "iso:country":"US",
+    "sg:address":"2940 Turner Hill Rd",
+    "sg:city":"Lithonia",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 526 8199",
+    "sg:postcode":"30038",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repair"
+    ],
+    "sg:website":"www.bestbuy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937263,
+        102084539,
+        85890037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v8F1NSo6uSwKTVPdIrHl3_33.701698_-84.088600@1303262575"
+    },
+    "wof:country":"US",
+    "wof:created":1461915843,
+    "wof:geomhash":"45b0bd1bfd739ed1384ff701ccf35689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937263,
+            "neighbourhood_id":85890037,
+            "region_id":85688535,
+            "venue_id":739801435
+        }
+    ],
+    "wof:id":739801435,
+    "wof:lastmodified":1461915843,
+    "wof:name":"Best Buy",
+    "wof:parent_id":85890037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -84.0886,
+    33.701698,
+    -84.0886,
+    33.701698
+],
+  "geometry": {"coordinates":[-84.0886,33.701698],"type":"Point"}
+}

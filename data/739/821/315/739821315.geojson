@@ -1,0 +1,83 @@
+{
+  "id": 739821315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.477699,33.983101,-84.477699,33.983101",
+    "geom:latitude":33.983101,
+    "geom:longitude":-84.477699,
+    "iso:country":"US",
+    "sg:address":"2550 Sewell Mill Rd",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 971 3746",
+    "sg:postcode":"30062",
+    "sg:province":"GA",
+    "sg:tags":[
+        "elementary",
+        "churches-baptist-southern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936135,
+        102082313,
+        85857049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gXxWOPNaU2d4lfpESOB8q_33.983101_-84.477699@1303262580"
+    },
+    "wof:country":"US",
+    "wof:created":1461916749,
+    "wof:geomhash":"319f560da7515b79a976b7c06b1cff38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936135,
+            "neighbourhood_id":85857049,
+            "region_id":85688535,
+            "venue_id":739821315
+        }
+    ],
+    "wof:id":739821315,
+    "wof:lastmodified":1461916749,
+    "wof:name":"Sewell Mill Baptist Church-Kindergarten Preschool",
+    "wof:parent_id":85857049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "churches-baptist-southern"
+    ]
+},
+  "bbox": [
+    -84.477699,
+    33.983101,
+    -84.477699,
+    33.983101
+],
+  "geometry": {"coordinates":[-84.477699,33.983101],"type":"Point"}
+}

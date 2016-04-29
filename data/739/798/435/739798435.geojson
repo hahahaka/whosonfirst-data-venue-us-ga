@@ -1,0 +1,78 @@
+{
+  "id": 739798435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.240782,33.70951,-84.240782,33.70951",
+    "geom:latitude":33.70951,
+    "geom:longitude":-84.240782,
+    "iso:country":"US",
+    "sg:address":"3676 Rainbow Dr",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 288 8331",
+    "sg:postcode":"30034",
+    "sg:province":"GA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85816491,
+        102084539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6m634oTopnsPyO8bxiaSDh_33.709510_-84.240782@1303262574"
+    },
+    "wof:country":"US",
+    "wof:created":1461915712,
+    "wof:geomhash":"be341fbcd7d0ea2374fe458975d2248e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739798435
+        }
+    ],
+    "wof:id":739798435,
+    "wof:lastmodified":1461915712,
+    "wof:name":"Bramwell Trucking",
+    "wof:parent_id":85816491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.240782,
+    33.70951,
+    -84.240782,
+    33.70951
+],
+  "geometry": {"coordinates":[-84.240782,33.70951],"type":"Point"}
+}

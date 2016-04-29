@@ -1,0 +1,83 @@
+{
+  "id": 740017369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.428147,33.658985,-84.428147,33.658985",
+    "geom:latitude":33.658985,
+    "geom:longitude":-84.428147,
+    "iso:country":"US",
+    "sg:address":"1155 Virginia Ave",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 765 0280",
+    "sg:postcode":"30354",
+    "sg:province":"GA",
+    "sg:tags":[
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85890001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79jct35tmduO8yg2hPtj1L_33.658985_-84.428147@1303262631"
+    },
+    "wof:country":"US",
+    "wof:created":1461924593,
+    "wof:geomhash":"71523e0462ef5bd4a06a21cd3269bccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85890001,
+            "region_id":85688535,
+            "venue_id":740017369
+        }
+    ],
+    "wof:id":740017369,
+    "wof:lastmodified":1461924593,
+    "wof:name":"Irish Bred Pub",
+    "wof:parent_id":85890001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -84.428147,
+    33.658985,
+    -84.428147,
+    33.658985
+],
+  "geometry": {"coordinates":[-84.428147,33.658985],"type":"Point"}
+}

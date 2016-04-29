@@ -1,0 +1,78 @@
+{
+  "id": 740042459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.135315,33.480015,-82.135315,33.480015",
+    "geom:latitude":33.480015,
+    "geom:longitude":-82.135315,
+    "iso:country":"US",
+    "sg:address":"430 Park 20 W",
+    "sg:city":"Grovetown",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 869 9696",
+    "sg:postcode":"30813",
+    "sg:province":"GA",
+    "sg:tags":[
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IDUSGvg4vNXCokiyZC5lS_33.480015_-82.135315@1303262638"
+    },
+    "wof:country":"US",
+    "wof:created":1461925744,
+    "wof:geomhash":"32f297043a7615d5f80c90e09cd79ac2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":740042459
+        }
+    ],
+    "wof:id":740042459,
+    "wof:lastmodified":1461925744,
+    "wof:name":"Bill Thompson Transport",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -82.135315,
+    33.480015,
+    -82.135315,
+    33.480015
+],
+  "geometry": {"coordinates":[-82.13531500000001,33.480015],"type":"Point"}
+}

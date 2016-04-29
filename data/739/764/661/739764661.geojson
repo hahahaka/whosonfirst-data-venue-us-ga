@@ -1,0 +1,91 @@
+{
+  "id": 739764661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.530598,33.873901,-84.530598,33.873901",
+    "geom:latitude":33.873901,
+    "geom:longitude":-84.530598,
+    "iso:country":"US",
+    "sg:address":"3300 S Cobb Dr SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/smyrna/130423-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 436 6350",
+    "sg:postcode":"30080",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Jlc96ftMOyxh6Plh1qoKt_33.873901_-84.530598@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914327,
+    "wof:geomhash":"b34c3ccc90e6b51590a9a70293ece733",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":739764661
+        }
+    ],
+    "wof:id":739764661,
+    "wof:lastmodified":1461914327,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -84.530598,
+    33.873901,
+    -84.530598,
+    33.873901
+],
+  "geometry": {"coordinates":[-84.530598,33.873901],"type":"Point"}
+}

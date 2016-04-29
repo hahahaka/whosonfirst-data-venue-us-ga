@@ -1,0 +1,78 @@
+{
+  "id": 739822821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.621763,33.945209,-84.621763,33.945209",
+    "geom:latitude":33.945209,
+    "geom:longitude":-84.621763,
+    "iso:country":"US",
+    "sg:address":"365 Villa Rica Way SW Ste 100A",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 528 6363",
+    "sg:postcode":"30064",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mbhcnYwwWV9yoOFwCKCBo_33.945209_-84.621763@1303262581"
+    },
+    "wof:country":"US",
+    "wof:created":1461916803,
+    "wof:geomhash":"4cb441a11095a822b891e92248958f4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739822821
+        }
+    ],
+    "wof:id":739822821,
+    "wof:lastmodified":1461916803,
+    "wof:name":"Egins Jan DVM",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.621763,
+    33.945209,
+    -84.621763,
+    33.945209
+],
+  "geometry": {"coordinates":[-84.621763,33.945209],"type":"Point"}
+}

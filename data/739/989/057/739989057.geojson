@@ -1,0 +1,79 @@
+{
+  "id": 739989057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.336529,33.951771,-84.336529,33.951771",
+    "geom:latitude":33.951771,
+    "geom:longitude":-84.336529,
+    "iso:country":"US",
+    "sg:address":"5590 Chamblee Dunwoody Road",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 817 1361",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "sg:website":"www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85815577,
+        420560157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QrUNWomw0aIJFRFdaBZHs_33.951771_-84.336529@1303262624"
+    },
+    "wof:country":"US",
+    "wof:created":1461923517,
+    "wof:geomhash":"5821350e8bdb5ad1a21c3ba725fe4ecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85815577,
+            "region_id":85688535,
+            "venue_id":739989057
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":420560157,
+            "region_id":85688535,
+            "venue_id":739989057
+        }
+    ],
+    "wof:id":739989057,
+    "wof:lastmodified":1461923517,
+    "wof:name":"Subway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.336529,
+    33.951771,
+    -84.336529,
+    33.951771
+],
+  "geometry": {"coordinates":[-84.336529,33.951771],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 739789305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.053381,34.039542,-84.053381,34.039542",
+    "geom:latitude":34.039542,
+    "geom:longitude":-84.053381,
+    "iso:country":"US",
+    "sg:address":"3370 Lawrenceville Suwanee Rd Ste 124",
+    "sg:city":"Suwanee",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 945 7979",
+    "sg:postcode":"30024",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shipping"
+    ],
+    "sg:website":"www.fedex.com/us/office/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936305,
+        102082967,
+        85802315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mEhRmz5i8DIGssl7ot0fB_34.039542_-84.053381@1303262572"
+    },
+    "wof:country":"US",
+    "wof:created":1461915336,
+    "wof:geomhash":"4e4b229b0ccb518303fdd216a9f5b2a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936305,
+            "neighbourhood_id":85802315,
+            "region_id":85688535,
+            "venue_id":739789305
+        }
+    ],
+    "wof:id":739789305,
+    "wof:lastmodified":1461915336,
+    "wof:name":"FedEx Office Print & Ship Center",
+    "wof:parent_id":85802315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipping"
+    ]
+},
+  "bbox": [
+    -84.053381,
+    34.039542,
+    -84.053381,
+    34.039542
+],
+  "geometry": {"coordinates":[-84.053381,34.039542],"type":"Point"}
+}

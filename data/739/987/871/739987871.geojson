@@ -1,0 +1,90 @@
+{
+  "id": 739987871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.300517,33.958842,-84.300517,33.958842",
+    "geom:latitude":33.958842,
+    "geom:longitude":-84.300517,
+    "iso:country":"US",
+    "sg:address":"2526 Mount Vernon Rd B345",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 966 9896",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "sg:tags":[
+        "outdoor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        420517731,
+        85937165,
+        102083603,
+        420517933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WKnYNuvlQkH7lDve14Qq5_33.958842_-84.300517@1303262624"
+    },
+    "wof:country":"US",
+    "wof:created":1461923473,
+    "wof:geomhash":"9958cedf8e72ba2fa12e408472550b97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":420517731,
+            "region_id":85688535,
+            "venue_id":739987871
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937165,
+            "neighbourhood_id":420517933,
+            "region_id":85688535,
+            "venue_id":739987871
+        }
+    ],
+    "wof:id":739987871,
+    "wof:lastmodified":1461923473,
+    "wof:name":"Wheels America Advertising Of Atlanta",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outdoor"
+    ]
+},
+  "bbox": [
+    -84.300517,
+    33.958842,
+    -84.300517,
+    33.958842
+],
+  "geometry": {"coordinates":[-84.300517,33.958842],"type":"Point"}
+}

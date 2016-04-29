@@ -1,0 +1,83 @@
+{
+  "id": 740011277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.331001,33.9216,-84.331001,33.9216",
+    "geom:latitude":33.9216,
+    "geom:longitude":-84.331001,
+    "iso:country":"US",
+    "sg:address":"40 Perimeter Ctr E",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 671 1742",
+    "sg:postcode":"30346",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85890003,
+        85889963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4w603Wm4fUjoBR4TYy3jOb_33.921600_-84.331001@1303262630"
+    },
+    "wof:country":"US",
+    "wof:created":1461924366,
+    "wof:geomhash":"bd43d9d3d30aa3343578e0405a7b252b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890003,
+            "region_id":85688535,
+            "venue_id":740011277
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85889963,
+            "region_id":85688535,
+            "venue_id":740011277
+        }
+    ],
+    "wof:id":740011277,
+    "wof:lastmodified":1461924366,
+    "wof:name":"Honeybaked Ham",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.331001,
+    33.9216,
+    -84.331001,
+    33.9216
+],
+  "geometry": {"coordinates":[-84.331001,33.9216],"type":"Point"}
+}

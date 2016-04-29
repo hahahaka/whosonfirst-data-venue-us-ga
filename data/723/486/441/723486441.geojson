@@ -1,0 +1,71 @@
+{
+  "id": 723486441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.561627,33.889087,-84.561627,33.889087",
+    "geom:latitude":33.889087,
+    "geom:longitude":-84.561627,
+    "iso:country":"US",
+    "sg:address":"146 Long Dr",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 431 4848",
+    "sg:postcode":"30060",
+    "sg:province":"GA",
+    "sg:tags":[
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7j4GjLcuJWt2tBb2DVHmgu_33.889087_-84.561627@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461902663,
+    "wof:geomhash":"827fda18476e998bd59d9c550247dedb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":723486441
+        }
+    ],
+    "wof:id":723486441,
+    "wof:lastmodified":1461902663,
+    "wof:name":"Atlanta Repair Svc",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "road"
+    ]
+},
+  "bbox": [
+    -84.561627,
+    33.889087,
+    -84.561627,
+    33.889087
+],
+  "geometry": {"coordinates":[-84.561627,33.889087],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 723401213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.786046,32.457245,-81.786046,32.457245",
+    "geom:latitude":32.457245,
+    "geom:longitude":-81.786046,
+    "iso:country":"US",
+    "sg:address":"111 Cone St",
+    "sg:city":"Statesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 489 8838",
+    "sg:postcode":"30458",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85935999,
+        102084405,
+        85828471,
+        85838297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4G44vO4LHtTiJy0gGDdblr_32.457245_-81.786046@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900991,
+    "wof:geomhash":"d9ea15c98d59093b59a1d5bbdf50d7d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85828471,
+            "region_id":85688535,
+            "venue_id":723401213
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85838297,
+            "region_id":85688535,
+            "venue_id":723401213
+        }
+    ],
+    "wof:id":723401213,
+    "wof:lastmodified":1461900991,
+    "wof:name":"De Loach Mechanical Services",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "welding"
+    ]
+},
+  "bbox": [
+    -81.786046,
+    32.457245,
+    -81.786046,
+    32.457245
+],
+  "geometry": {"coordinates":[-81.786046,32.457245],"type":"Point"}
+}

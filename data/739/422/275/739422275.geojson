@@ -1,0 +1,71 @@
+{
+  "id": 739422275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.745434,32.914974,-83.745434,32.914974",
+    "geom:latitude":32.914974,
+    "geom:longitude":-83.745434,
+    "iso:country":"US",
+    "sg:address":"1190 Bass Rd",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 741 9007",
+    "sg:postcode":"31210",
+    "sg:province":"GA",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85848313,
+        102084373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FKICw6e9EoBFLwQel69Ld_32.914974_-83.745434@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907013,
+    "wof:geomhash":"844dc0d2e51c774b8194454ae1951412",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084373,
+            "neighbourhood_id":85848313,
+            "region_id":85688535,
+            "venue_id":739422275
+        }
+    ],
+    "wof:id":739422275,
+    "wof:lastmodified":1461907013,
+    "wof:name":"Georgia Agape",
+    "wof:parent_id":85848313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -83.745434,
+    32.914974,
+    -83.745434,
+    32.914974
+],
+  "geometry": {"coordinates":[-83.745434,32.914974],"type":"Point"}
+}

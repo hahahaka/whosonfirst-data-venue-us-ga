@@ -1,0 +1,71 @@
+{
+  "id": 723398543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.591883,34.055354,-84.591883,34.055354",
+    "geom:latitude":34.055354,
+    "geom:longitude":-84.591883,
+    "iso:country":"US",
+    "sg:address":"1480 George Busbee Pkwy NW",
+    "sg:city":"Kennesaw",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 426 0231",
+    "sg:postcode":"30144",
+    "sg:province":"GA",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85821545,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XEKM3kfgYjhuqwfQAPZlZ_34.055354_-84.591883@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900941,
+    "wof:geomhash":"23106a924bc51506ef2d5764d44b9a19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85821545,
+            "region_id":85688535,
+            "venue_id":723398543
+        }
+    ],
+    "wof:id":723398543,
+    "wof:lastmodified":1461900941,
+    "wof:name":"BP",
+    "wof:parent_id":85821545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -84.591883,
+    34.055354,
+    -84.591883,
+    34.055354
+],
+  "geometry": {"coordinates":[-84.591883,34.055354],"type":"Point"}
+}

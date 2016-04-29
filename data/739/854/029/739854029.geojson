@@ -1,0 +1,77 @@
+{
+  "id": 739854029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.137914,33.925316,-84.137914,33.925316",
+    "geom:latitude":33.925316,
+    "geom:longitude":-84.137914,
+    "iso:country":"US",
+    "sg:address":"1234 Beaver Ruin Rd",
+    "sg:city":"Norcross",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 923 7956",
+    "sg:postcode":"30093",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shuttle",
+        "airport"
+    ],
+    "sg:website":"abc786limo.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3trgMdSGdo11Q09A6tPGd1_33.925316_-84.137914@1303262589"
+    },
+    "wof:country":"US",
+    "wof:created":1461918073,
+    "wof:geomhash":"260311357980a1d175c1b6b0d27d5b8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":739854029
+        }
+    ],
+    "wof:id":739854029,
+    "wof:lastmodified":1461918073,
+    "wof:name":"ABC Limo & Taxi",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "airport"
+    ]
+},
+  "bbox": [
+    -84.137914,
+    33.925316,
+    -84.137914,
+    33.925316
+],
+  "geometry": {"coordinates":[-84.13791399999999,33.925316],"type":"Point"}
+}

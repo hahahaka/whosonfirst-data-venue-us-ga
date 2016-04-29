@@ -1,0 +1,76 @@
+{
+  "id": 739984641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.54316,33.753461,-84.54316,33.753461",
+    "geom:latitude":33.753461,
+    "geom:longitude":-84.54316,
+    "iso:country":"US",
+    "sg:address":"75 Mendel Dr SW Ste A",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 640 0449",
+    "sg:postcode":"30336",
+    "sg:province":"GA",
+    "sg:tags":[
+        "self",
+        "warehouses-public-commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85872053,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vrgczSyleKpTHOSybq4GY_33.753461_-84.543160@1303262623"
+    },
+    "wof:country":"US",
+    "wof:created":1461923328,
+    "wof:geomhash":"d2ce55b19adc195145dd82d084c35fa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85872053,
+            "region_id":85688535,
+            "venue_id":739984641
+        }
+    ],
+    "wof:id":739984641,
+    "wof:lastmodified":1461923328,
+    "wof:name":"Scooter Lift Mfg",
+    "wof:parent_id":85872053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "warehouses-public-commercial"
+    ]
+},
+  "bbox": [
+    -84.54316,
+    33.753461,
+    -84.54316,
+    33.753461
+],
+  "geometry": {"coordinates":[-84.54316,33.753461],"type":"Point"}
+}

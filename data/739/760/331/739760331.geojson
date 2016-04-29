@@ -1,0 +1,72 @@
+{
+  "id": 739760331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.454244,33.647639,-84.454244,33.647639",
+    "geom:latitude":33.647639,
+    "geom:longitude":-84.454244,
+    "iso:country":"US",
+    "sg:address":"3945 Conley St",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 669 3800",
+    "sg:postcode":"30337",
+    "sg:province":"GA",
+    "sg:tags":[
+        "garage"
+    ],
+    "sg:website":"www.parknticket.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526927,
+        85688535,
+        85633793,
+        102082333,
+        85815707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74xrldFkKjtTJreTbXgSug_33.647761_-84.454328@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461914149,
+    "wof:geomhash":"2e97eacdaa11901e065058ed83b36eb6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526927,
+            "country_id":85633793,
+            "county_id":102082333,
+            "neighbourhood_id":85815707,
+            "region_id":85688535,
+            "venue_id":739760331
+        }
+    ],
+    "wof:id":739760331,
+    "wof:lastmodified":1461914149,
+    "wof:name":"Park N Ticket",
+    "wof:parent_id":102526927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    -84.454244,
+    33.647639,
+    -84.454244,
+    33.647639
+],
+  "geometry": {"coordinates":[-84.454244,33.647639],"type":"Point"}
+}

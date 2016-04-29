@@ -1,0 +1,73 @@
+{
+  "id": 739609095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.307003,30.879001,-83.307003,30.879001",
+    "geom:latitude":30.879001,
+    "geom:longitude":-83.307003,
+    "iso:country":"US",
+    "sg:address":"3537 N Crossing Cir",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 333 0095",
+    "sg:postcode":"31602",
+    "sg:province":"GA",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85815713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ePVYqPLthh9S616fAzdff_30.879001_-83.307003@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910587,
+    "wof:geomhash":"0202d29980f64df187b2a417c05cfc08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85815713,
+            "region_id":85688535,
+            "venue_id":739609095
+        }
+    ],
+    "wof:id":739609095,
+    "wof:lastmodified":1461910587,
+    "wof:name":"Center For Physcl Rhbilitation",
+    "wof:parent_id":85815713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -83.307003,
+    30.879001,
+    -83.307003,
+    30.879001
+],
+  "geometry": {"coordinates":[-83.30700299999999,30.879001],"type":"Point"}
+}

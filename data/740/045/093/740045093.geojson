@@ -1,0 +1,80 @@
+{
+  "id": 740045093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.018957,33.40174,-82.018957,33.40174",
+    "geom:latitude":33.40174,
+    "geom:longitude":-82.018957,
+    "iso:country":"US",
+    "sg:address":"1823 Melrose Dr",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 790 3449",
+    "sg:postcode":"30906",
+    "sg:province":"GA",
+    "sg:tags":[
+        "delivery",
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936989,
+        102082951,
+        420518199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zGrWk69zlnOcYe4052Jfo_33.401740_-82.018957@1303262638"
+    },
+    "wof:country":"US",
+    "wof:created":1461925843,
+    "wof:geomhash":"45c01a990b617b59a60ee3b5c4cb7de2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082951,
+            "locality_id":85936989,
+            "neighbourhood_id":420518199,
+            "region_id":85688535,
+            "venue_id":740045093
+        }
+    ],
+    "wof:id":740045093,
+    "wof:lastmodified":1461925843,
+    "wof:name":"R & I Delivery Service Inc",
+    "wof:parent_id":420518199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "courier"
+    ]
+},
+  "bbox": [
+    -82.018957,
+    33.40174,
+    -82.018957,
+    33.40174
+],
+  "geometry": {"coordinates":[-82.018957,33.40174],"type":"Point"}
+}

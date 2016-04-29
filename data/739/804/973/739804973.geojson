@@ -1,0 +1,79 @@
+{
+  "id": 739804973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.036311,33.969519,-84.036311,33.969519",
+    "geom:latitude":33.969519,
+    "geom:longitude":-84.036311,
+    "iso:country":"US",
+    "sg:address":"2003 Riverside Pkwy Ste 203",
+    "sg:city":"Lawrenceville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 442 1884",
+    "sg:postcode":"30043",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shipping"
+    ],
+    "sg:website":"www.fedex.com/us/office/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936297,
+        102082967,
+        85851103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q6n8FiB1Jw3NnA07JmTXh_33.969519_-84.036311@1303262576"
+    },
+    "wof:country":"US",
+    "wof:created":1461916039,
+    "wof:geomhash":"0fc50a226e5f31fc9488717acbd4ea67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936297,
+            "neighbourhood_id":85851103,
+            "region_id":85688535,
+            "venue_id":739804973
+        }
+    ],
+    "wof:id":739804973,
+    "wof:lastmodified":1461916039,
+    "wof:name":"FedEx Office Print & Ship Center",
+    "wof:parent_id":85851103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipping"
+    ]
+},
+  "bbox": [
+    -84.036311,
+    33.969519,
+    -84.036311,
+    33.969519
+],
+  "geometry": {"coordinates":[-84.036311,33.969519],"type":"Point"}
+}

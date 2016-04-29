@@ -1,0 +1,79 @@
+{
+  "id": 740034187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.444542,33.916426,-83.444542,33.916426",
+    "geom:latitude":33.916426,
+    "geom:longitude":-83.444542,
+    "iso:country":"US",
+    "sg:address":"1850 Epps Bridge Pkwy",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 425 8550",
+    "sg:postcode":"30606",
+    "sg:province":"GA",
+    "sg:tags":[
+        "party",
+        "planning"
+    ],
+    "sg:website":"http://www.thegardengateflorist.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936177,
+        102081713,
+        85805309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5odi5kFI5LPAfmBTrtkSGy_33.916426_-83.444542@1303262636"
+    },
+    "wof:country":"US",
+    "wof:created":1461925334,
+    "wof:geomhash":"bfd7d5db88d333622b76ce3fe4b2b949",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081713,
+            "locality_id":85936177,
+            "neighbourhood_id":85805309,
+            "region_id":85688535,
+            "venue_id":740034187
+        }
+    ],
+    "wof:id":740034187,
+    "wof:lastmodified":1461925334,
+    "wof:name":"Garden Gate Florist",
+    "wof:parent_id":85805309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "party",
+        "planning"
+    ]
+},
+  "bbox": [
+    -83.444542,
+    33.916426,
+    -83.444542,
+    33.916426
+],
+  "geometry": {"coordinates":[-83.444542,33.916426],"type":"Point"}
+}

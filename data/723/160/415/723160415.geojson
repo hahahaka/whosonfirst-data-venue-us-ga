@@ -1,0 +1,71 @@
+{
+  "id": 723160415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.88527,32.369139,-81.88527,32.369139",
+    "geom:latitude":32.369139,
+    "geom:longitude":-81.88527,
+    "iso:country":"US",
+    "sg:address":"37 Foster Rd",
+    "sg:city":"Register",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 488 2500",
+    "sg:postcode":"30452",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935999,
+        102084405,
+        85821351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CtN7ZqFoYEUHmPZtCry4P_32.369139_-81.885270@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896296,
+    "wof:geomhash":"8ef9593c339c5e5f669a9d6eab1fccf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85821351,
+            "region_id":85688535,
+            "venue_id":723160415
+        }
+    ],
+    "wof:id":723160415,
+    "wof:lastmodified":1461896296,
+    "wof:name":"Register Police Dept",
+    "wof:parent_id":85821351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -81.88527,
+    32.369139,
+    -81.88527,
+    32.369139
+],
+  "geometry": {"coordinates":[-81.88527000000001,32.369139],"type":"Point"}
+}

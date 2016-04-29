@@ -1,0 +1,85 @@
+{
+  "id": 739776583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.208252,31.607244,-84.208252,31.607244",
+    "geom:latitude":31.607244,
+    "geom:longitude":-84.208252,
+    "iso:country":"US",
+    "sg:address":"2401 Dawson Rd",
+    "sg:city":"Albany",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/west-dougherty/172494-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 435 4841",
+    "sg:postcode":"31707",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85935991,
+        102084427,
+        420517795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GQeoJdovEaoTRvbI8YBF0_31.607110_-84.208124@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461914801,
+    "wof:geomhash":"ec71cf122d80420f3f3fa52eee5eeafe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":420517795,
+            "region_id":85688535,
+            "venue_id":739776583
+        }
+    ],
+    "wof:id":739776583,
+    "wof:lastmodified":1461914801,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":420517795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -84.208252,
+    31.607244,
+    -84.208252,
+    31.607244
+],
+  "geometry": {"coordinates":[-84.208252,31.607244],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 739463685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.110586,32.048277,-81.110586,32.048277",
+    "geom:latitude":32.048277,
+    "geom:longitude":-81.110586,
+    "iso:country":"US",
+    "sg:address":"606 W 51st St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 234 2636",
+    "sg:postcode":"31405",
+    "sg:province":"GA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85880893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ucUGts2HL845fpWfEW5oY_32.048277_-81.110586@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907777,
+    "wof:geomhash":"efe27cad548b2cbe8d22b0fd9de1f85b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880893,
+            "region_id":85688535,
+            "venue_id":739463685
+        }
+    ],
+    "wof:id":739463685,
+    "wof:lastmodified":1461907777,
+    "wof:name":"John Mock Plumbing",
+    "wof:parent_id":85880893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.110586,
+    32.048277,
+    -81.110586,
+    32.048277
+],
+  "geometry": {"coordinates":[-81.110586,32.048277],"type":"Point"}
+}

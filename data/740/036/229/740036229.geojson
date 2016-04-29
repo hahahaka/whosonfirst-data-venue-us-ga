@@ -1,0 +1,83 @@
+{
+  "id": 740036229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.477186,33.573552,-83.477186,33.573552",
+    "geom:latitude":33.573552,
+    "geom:longitude":-83.477186,
+    "iso:country":"US",
+    "sg:address":"1462 Eatonton Rd Ste A",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 342 4410",
+    "sg:postcode":"30650",
+    "sg:province":"GA",
+    "sg:tags":[
+        "car",
+        "leasing",
+        "truck"
+    ],
+    "sg:website":"http://www.enterprise.com/car_rental/deeplinkmap.do?gpbr=03G1&bid=004&cnty=US&arc=YPTRL01&cm_mmc=Yellowpages.com-_-IYP-_-Tradelisting-_-branch",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937061,
+        102081701,
+        85805009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bjKZeW6eIC87QuiOij9Y4_33.573552_-83.477186@1303262636"
+    },
+    "wof:country":"US",
+    "wof:created":1461925422,
+    "wof:geomhash":"8c4fa9c7e1c028cce8e6be43fae195be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081701,
+            "locality_id":85937061,
+            "neighbourhood_id":85805009,
+            "region_id":85688535,
+            "venue_id":740036229
+        }
+    ],
+    "wof:id":740036229,
+    "wof:lastmodified":1461925422,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85805009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "leasing",
+        "truck"
+    ]
+},
+  "bbox": [
+    -83.477186,
+    33.573552,
+    -83.477186,
+    33.573552
+],
+  "geometry": {"coordinates":[-83.477186,33.573552],"type":"Point"}
+}

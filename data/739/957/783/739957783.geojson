@@ -1,0 +1,83 @@
+{
+  "id": 739957783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.291211,33.745233,-84.291211,33.745233",
+    "geom:latitude":33.745233,
+    "geom:longitude":-84.291211,
+    "iso:country":"US",
+    "sg:address":"267 Candler Rd SE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 373 0769",
+    "sg:postcode":"30317",
+    "sg:province":"GA",
+    "sg:tags":[
+        "nursery",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937245,
+        102084539,
+        85816501,
+        85816491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0I3IPW1qfmGQkN6fbzSOdb_33.745233_-84.291211@1303262616"
+    },
+    "wof:country":"US",
+    "wof:created":1461922288,
+    "wof:geomhash":"a7e5361f167d34a93580c57c2e72f9a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937245,
+            "neighbourhood_id":85816501,
+            "region_id":85688535,
+            "venue_id":739957783
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739957783
+        }
+    ],
+    "wof:id":739957783,
+    "wof:lastmodified":1461922288,
+    "wof:name":"Smith Group Day Care Home",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "day"
+    ]
+},
+  "bbox": [
+    -84.291211,
+    33.745233,
+    -84.291211,
+    33.745233
+],
+  "geometry": {"coordinates":[-84.291211,33.745233],"type":"Point"}
+}

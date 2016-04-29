@@ -1,0 +1,75 @@
+{
+  "id": 723127183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.225853,31.990397,-81.225853,31.990397",
+    "geom:latitude":31.990397,
+    "geom:longitude":-81.225853,
+    "iso:country":"US",
+    "sg:address":"15002 Abercorn St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 925 2030",
+    "sg:postcode":"31419",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936939,
+        102082337,
+        85858259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gbJIYovNOo5QFJqeqUFUe_31.990397_-81.225853@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461895647,
+    "wof:geomhash":"05e94c89a5a3f82b71d6a6db42becfa7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85858259,
+            "region_id":85688535,
+            "venue_id":723127183
+        }
+    ],
+    "wof:id":723127183,
+    "wof:lastmodified":1461895647,
+    "wof:name":"Ward's Towing",
+    "wof:parent_id":85858259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -81.225853,
+    31.990397,
+    -81.225853,
+    31.990397
+],
+  "geometry": {"coordinates":[-81.225853,31.990397],"type":"Point"}
+}

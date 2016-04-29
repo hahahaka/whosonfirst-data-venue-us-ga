@@ -1,0 +1,81 @@
+{
+  "id": 739824869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.494841,34.008291,-84.494841,34.008291",
+    "geom:latitude":34.008291,
+    "geom:longitude":-84.494841,
+    "iso:country":"US",
+    "sg:address":"2440 Sandy Plains Rd Building 16",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 973 6369",
+    "sg:postcode":"30066",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.CatClinicOfCobb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936135,
+        102082313,
+        85857049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lPXbc34MhdhX3dUthRYBf_34.008291_-84.494841@1303262581"
+    },
+    "wof:country":"US",
+    "wof:created":1461916886,
+    "wof:geomhash":"5542b44bff6a0d349ad7f631ad066172",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936135,
+            "neighbourhood_id":85857049,
+            "region_id":85688535,
+            "venue_id":739824869
+        }
+    ],
+    "wof:id":739824869,
+    "wof:lastmodified":1461916886,
+    "wof:name":"Cat Clinic of Cobb",
+    "wof:parent_id":85857049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.494841,
+    34.008291,
+    -84.494841,
+    34.008291
+],
+  "geometry": {"coordinates":[-84.49484099999999,34.008291],"type":"Point"}
+}

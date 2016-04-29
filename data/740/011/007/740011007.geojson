@@ -1,0 +1,83 @@
+{
+  "id": 740011007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.342247,33.920582,-84.342247,33.920582",
+    "geom:latitude":33.920582,
+    "geom:longitude":-84.342247,
+    "iso:country":"US",
+    "sg:address":"1201 Hammond Dr NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 804 0025",
+    "sg:postcode":"30346",
+    "sg:province":"GA",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85890003,
+        85889963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iiXVcsdgmiX0FMhJ2IgAY_33.920582_-84.342247@1303262630"
+    },
+    "wof:country":"US",
+    "wof:created":1461924352,
+    "wof:geomhash":"77785f2fe3c6ec8a91169df68f7b84ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890003,
+            "region_id":85688535,
+            "venue_id":740011007
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85889963,
+            "region_id":85688535,
+            "venue_id":740011007
+        }
+    ],
+    "wof:id":740011007,
+    "wof:lastmodified":1461924352,
+    "wof:name":"Rooms To Go",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -84.342247,
+    33.920582,
+    -84.342247,
+    33.920582
+],
+  "geometry": {"coordinates":[-84.342247,33.920582],"type":"Point"}
+}

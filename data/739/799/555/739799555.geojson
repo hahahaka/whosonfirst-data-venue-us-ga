@@ -1,0 +1,69 @@
+{
+  "id": 739799555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.21653,33.69305,-84.21653,33.69305",
+    "geom:latitude":33.69305,
+    "geom:longitude":-84.21653,
+    "iso:country":"US",
+    "sg:address":"3151 Robinwood Trl",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 314 4587",
+    "sg:postcode":"30034",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85816491,
+        102084539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RHhcoO3UyhsUfhrltIshV_33.693050_-84.216530@1303262575"
+    },
+    "wof:country":"US",
+    "wof:created":1461915761,
+    "wof:geomhash":"252a0458a80cf11eb09f25ede6228a6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739799555
+        }
+    ],
+    "wof:id":739799555,
+    "wof:lastmodified":1461915761,
+    "wof:name":"Dekalb County Police Dept.",
+    "wof:parent_id":85816491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.21653,
+    33.69305,
+    -84.21653,
+    33.69305
+],
+  "geometry": {"coordinates":[-84.21653000000001,33.69305],"type":"Point"}
+}

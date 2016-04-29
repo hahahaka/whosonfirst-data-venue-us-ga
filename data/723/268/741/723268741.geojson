@@ -1,0 +1,73 @@
+{
+  "id": 723268741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.966707,34.765898,-84.966707,34.765898",
+    "geom:latitude":34.765898,
+    "geom:longitude":-84.966707,
+    "iso:country":"US",
+    "sg:address":"120 E Emory St",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 428 0538",
+    "sg:postcode":"30721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical",
+        "examination"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tSChznEpwJ0Y9c36oeKNI_34.765898_-84.966707@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461898474,
+    "wof:geomhash":"4b464673b7cf38110326ffd687c7953d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":723268741
+        }
+    ],
+    "wof:id":723268741,
+    "wof:lastmodified":1461898474,
+    "wof:name":"Portamedic",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "examination"
+    ]
+},
+  "bbox": [
+    -84.966707,
+    34.765898,
+    -84.966707,
+    34.765898
+],
+  "geometry": {"coordinates":[-84.966707,34.765898],"type":"Point"}
+}

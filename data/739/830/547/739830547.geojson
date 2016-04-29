@@ -1,0 +1,79 @@
+{
+  "id": 739830547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.212853,33.937587,-84.212853,33.937587",
+    "geom:latitude":33.937587,
+    "geom:longitude":-84.212853,
+    "iso:country":"US",
+    "sg:address":"5856 Buford Hwy",
+    "sg:city":"Norcross",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 263 7803",
+    "sg:postcode":"30071",
+    "sg:province":"GA",
+    "sg:tags":[
+        "communication",
+        "cellular"
+    ],
+    "sg:website":"http://www.att.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Eqgjt9rKMf0TiFfK1E8W2_33.937587_-84.212853@1303262583"
+    },
+    "wof:country":"US",
+    "wof:created":1461917103,
+    "wof:geomhash":"fa7fc2c1a0e806694c89bd062070c4c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":739830547
+        }
+    ],
+    "wof:id":739830547,
+    "wof:lastmodified":1461917103,
+    "wof:name":"AT&T Communications",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -84.212853,
+    33.937587,
+    -84.212853,
+    33.937587
+],
+  "geometry": {"coordinates":[-84.212853,33.937587],"type":"Point"}
+}

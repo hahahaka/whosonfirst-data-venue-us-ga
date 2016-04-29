@@ -1,0 +1,74 @@
+{
+  "id": 722778675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.453997,33.443944,-84.453997,33.443944",
+    "geom:latitude":33.443944,
+    "geom:longitude":-84.453997,
+    "iso:country":"US",
+    "sg:address":"307 Lee St",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 719 5337",
+    "sg:postcode":"30214",
+    "sg:province":"GA",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "sg:website":"www.hospitalambulance.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936019,
+        102081687,
+        85819123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qArOD5z4c8ABLdk78BYUj_33.443944_-84.453997@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888472,
+    "wof:geomhash":"835c51f158f398de692a9b9831177142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081687,
+            "locality_id":85936019,
+            "neighbourhood_id":85819123,
+            "region_id":85688535,
+            "venue_id":722778675
+        }
+    ],
+    "wof:id":722778675,
+    "wof:lastmodified":1461888472,
+    "wof:name":"Hospital Ambulance",
+    "wof:parent_id":85819123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -84.453997,
+    33.443944,
+    -84.453997,
+    33.443944
+],
+  "geometry": {"coordinates":[-84.453997,33.443944],"type":"Point"}
+}

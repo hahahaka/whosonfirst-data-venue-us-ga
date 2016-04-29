@@ -1,0 +1,71 @@
+{
+  "id": 739341679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.005905,33.823975,-84.005905,33.823975",
+    "geom:latitude":33.823975,
+    "geom:longitude":-84.005905,
+    "iso:country":"US",
+    "sg:address":"2838 Kingstream Dr",
+    "sg:city":"Snellville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 241 2825",
+    "sg:postcode":"30039",
+    "sg:province":"GA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936303,
+        102082967,
+        85890049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fgyXuB5eLuAEa2pFSOKmD_33.823975_-84.005905@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461905413,
+    "wof:geomhash":"ed7911685cd127911bdd762ffb5deaba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936303,
+            "neighbourhood_id":85890049,
+            "region_id":85688535,
+            "venue_id":739341679
+        }
+    ],
+    "wof:id":739341679,
+    "wof:lastmodified":1461905413,
+    "wof:name":"Brown Cleaning Svc",
+    "wof:parent_id":85890049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -84.005905,
+    33.823975,
+    -84.005905,
+    33.823975
+],
+  "geometry": {"coordinates":[-84.005905,33.823975],"type":"Point"}
+}

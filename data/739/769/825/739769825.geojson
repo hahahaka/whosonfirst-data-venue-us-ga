@@ -1,0 +1,72 @@
+{
+  "id": 739769825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.990453,34.063364,-83.990453,34.063364",
+    "geom:latitude":34.063364,
+    "geom:longitude":-83.990453,
+    "iso:country":"US",
+    "sg:address":"3270 Buford Dr",
+    "sg:city":"Buford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/buford/55095-waffle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 546 6853",
+    "sg:postcode":"30519",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936281,
+        102082967,
+        85858547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01oK17o2pnQECInFrf2sBs_34.063364_-83.990453@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914535,
+    "wof:geomhash":"38f64c56216833da11f71d5d5a09ca94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936281,
+            "neighbourhood_id":85858547,
+            "region_id":85688535,
+            "venue_id":739769825
+        }
+    ],
+    "wof:id":739769825,
+    "wof:lastmodified":1461914535,
+    "wof:name":"Waffle House",
+    "wof:parent_id":85858547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -83.990453,
+    34.063364,
+    -83.990453,
+    34.063364
+],
+  "geometry": {"coordinates":[-83.990453,34.063364],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 739838779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.016998,33.8596,-84.016998,33.8596",
+    "geom:latitude":33.8596,
+    "geom:longitude":-84.016998,
+    "iso:country":"US",
+    "sg:address":"2295 Oak Rd",
+    "sg:city":"Snellville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 972 0700",
+    "sg:postcode":"30078",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936303,
+        102082967,
+        85890049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YqygLhNTRCJ2kWIqxSYCk_33.859600_-84.016998@1303262585"
+    },
+    "wof:country":"US",
+    "wof:created":1461917440,
+    "wof:geomhash":"36637d5a2ce7f2371149c36e69b8f5da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936303,
+            "neighbourhood_id":85890049,
+            "region_id":85688535,
+            "venue_id":739838779
+        }
+    ],
+    "wof:id":739838779,
+    "wof:lastmodified":1461917440,
+    "wof:name":"Snell's Pharmacy",
+    "wof:parent_id":85890049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -84.016998,
+    33.8596,
+    -84.016998,
+    33.8596
+],
+  "geometry": {"coordinates":[-84.016998,33.8596],"type":"Point"}
+}

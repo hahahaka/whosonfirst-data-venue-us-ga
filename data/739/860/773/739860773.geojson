@@ -1,0 +1,74 @@
+{
+  "id": 739860773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.083719,34.000204,-84.083719,34.000204",
+    "geom:latitude":34.000204,
+    "geom:longitude":-84.083719,
+    "iso:country":"US",
+    "sg:address":"1611 Satellite Blvd",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 476 2344",
+    "sg:postcode":"30097",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ShhyLHWxtDy5qA3NBN0oz_34.000204_-84.083719@1303262591"
+    },
+    "wof:country":"US",
+    "wof:created":1461918345,
+    "wof:geomhash":"401a16d672cfd4a662e6e52569a13026",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":739860773
+        }
+    ],
+    "wof:id":739860773,
+    "wof:lastmodified":1461918345,
+    "wof:name":"Travis Jeanne M DMD",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.083719,
+    34.000204,
+    -84.083719,
+    34.000204
+],
+  "geometry": {"coordinates":[-84.083719,34.000204],"type":"Point"}
+}

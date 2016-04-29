@@ -1,0 +1,71 @@
+{
+  "id": 722876725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.966736,34.757369,-84.966736,34.757369",
+    "geom:latitude":34.757369,
+    "geom:longitude":-84.966736,
+    "iso:country":"US",
+    "sg:address":"1022 S Hamilton St",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 278 1113",
+    "sg:postcode":"30720",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1t2sYIwte7ESV7Svs9cHw5_34.757369_-84.966736@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461890324,
+    "wof:geomhash":"dfea74dd9c92f44973ac45c2b4e0a73e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":722876725
+        }
+    ],
+    "wof:id":722876725,
+    "wof:lastmodified":1461890324,
+    "wof:name":"Dalton Animal Care Inc",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.966736,
+    34.757369,
+    -84.966736,
+    34.757369
+],
+  "geometry": {"coordinates":[-84.966736,34.757369],"type":"Point"}
+}

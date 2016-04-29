@@ -1,0 +1,73 @@
+{
+  "id": 723024555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.320691,34.06243,-84.320691,34.06243",
+    "geom:latitude":34.06243,
+    "geom:longitude":-84.320691,
+    "iso:country":"US",
+    "sg:address":"3000 Hospital Blvd",
+    "sg:city":"Roswell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 751 2529",
+    "sg:postcode":"30076",
+    "sg:province":"GA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937153,
+        102083603,
+        85851631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MXhEnQk8VQe13Q7v31X3T_34.062430_-84.320691@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461893484,
+    "wof:geomhash":"442504d013663bf78f3d891f2a963ec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937153,
+            "neighbourhood_id":85851631,
+            "region_id":85688535,
+            "venue_id":723024555
+        }
+    ],
+    "wof:id":723024555,
+    "wof:lastmodified":1461893484,
+    "wof:name":"Pathology Dept",
+    "wof:parent_id":85851631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -84.320691,
+    34.06243,
+    -84.320691,
+    34.06243
+],
+  "geometry": {"coordinates":[-84.320691,34.06243],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 739378355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.616738,33.948083,-84.616738,33.948083",
+    "geom:latitude":33.948083,
+    "geom:longitude":-84.616738,
+    "iso:country":"US",
+    "sg:address":"238 Martin Ridge Dr",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 421 8009",
+    "sg:postcode":"30064",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automobile",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74l1JXqBpWnS83hjP6iyfi_33.948083_-84.616738@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461906157,
+    "wof:geomhash":"246e5f390a7ad2f5efa30731c6768034",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739378355
+        }
+    ],
+    "wof:id":739378355,
+    "wof:lastmodified":1461906157,
+    "wof:name":"Rentalease",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -84.616738,
+    33.948083,
+    -84.616738,
+    33.948083
+],
+  "geometry": {"coordinates":[-84.616738,33.948083],"type":"Point"}
+}

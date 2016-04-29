@@ -1,0 +1,80 @@
+{
+  "id": 740023273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.998811,34.288553,-83.998811,34.288553",
+    "geom:latitude":34.288553,
+    "geom:longitude":-83.998811,
+    "iso:country":"US",
+    "sg:address":"7910 Jot Em Down Rd",
+    "sg:city":"Gainesville",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 794 9415",
+    "sg:postcode":"30506",
+    "sg:province":"GA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936811,
+        102082317,
+        85842073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QmRbJXvOp9JzhTliefPT6_34.288553_-83.998811@1303262633"
+    },
+    "wof:country":"US",
+    "wof:created":1461924826,
+    "wof:geomhash":"dc94dd9bbdf01c8f551f28093e52199e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082317,
+            "locality_id":85936811,
+            "neighbourhood_id":85842073,
+            "region_id":85688535,
+            "venue_id":740023273
+        }
+    ],
+    "wof:id":740023273,
+    "wof:lastmodified":1461924826,
+    "wof:name":"S.E.C. Trucking Inc",
+    "wof:parent_id":85842073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.998811,
+    34.288553,
+    -83.998811,
+    34.288553
+],
+  "geometry": {"coordinates":[-83.998811,34.288553],"type":"Point"}
+}

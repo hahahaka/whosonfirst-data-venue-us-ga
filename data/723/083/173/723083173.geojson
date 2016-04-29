@@ -1,0 +1,88 @@
+{
+  "id": 723083173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.484335,33.909245,-84.484335,33.909245",
+    "geom:latitude":33.909245,
+    "geom:longitude":-84.484335,
+    "iso:country":"US",
+    "sg:address":"1700 Water Pl NW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 956 0091",
+    "sg:postcode":"30339",
+    "sg:province":"GA",
+    "sg:tags":[
+        "equipment",
+        "computer",
+        "rooms",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818985,
+        102082313,
+        85845875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dlIMKjSFaXVyrSQJlXKfZ_33.909245_-84.484335@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461894779,
+    "wof:geomhash":"e8e1d23eb1fef2491ae0845edba2788f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85818985,
+            "region_id":85688535,
+            "venue_id":723083173
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":723083173
+        }
+    ],
+    "wof:id":723083173,
+    "wof:lastmodified":1461894779,
+    "wof:name":"Computer Environmental Systems",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "computer",
+        "rooms",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.484335,
+    33.909245,
+    -84.484335,
+    33.909245
+],
+  "geometry": {"coordinates":[-84.484335,33.909245],"type":"Point"}
+}

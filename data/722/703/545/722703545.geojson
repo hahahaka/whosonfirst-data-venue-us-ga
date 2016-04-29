@@ -1,0 +1,75 @@
+{
+  "id": 722703545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.949282,34.819388,-84.949282,34.819388",
+    "geom:latitude":34.819388,
+    "geom:longitude":-84.949282,
+    "iso:country":"US",
+    "sg:address":"2306 2nd St",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 259 6834",
+    "sg:postcode":"30721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QaG2W5jVzUseoq0cuCWWm_34.819388_-84.949282@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461887035,
+    "wof:geomhash":"2ca460a08fda96c24cba9d2449a9c029",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":722703545
+        }
+    ],
+    "wof:id":722703545,
+    "wof:lastmodified":1461887035,
+    "wof:name":"Guy With A Truck",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.949282,
+    34.819388,
+    -84.949282,
+    34.819388
+],
+  "geometry": {"coordinates":[-84.949282,34.819388],"type":"Point"}
+}

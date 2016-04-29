@@ -1,0 +1,72 @@
+{
+  "id": 739765021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.110097,33.958779,-84.110097,33.958779",
+    "geom:latitude":33.958779,
+    "geom:longitude":-84.110097,
+    "iso:country":"US",
+    "sg:address":"3083 Breckinridge Blvd",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/lawrenceville/132417-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 638 3221",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5P2M1m28FszV3o0NQhk2TN_33.958779_-84.110097@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914339,
+    "wof:geomhash":"5e4324737f4c5ae6f8561836cbcfc51c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":739765021
+        }
+    ],
+    "wof:id":739765021,
+    "wof:lastmodified":1461914339,
+    "wof:name":"Subway",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.110097,
+    33.958779,
+    -84.110097,
+    33.958779
+],
+  "geometry": {"coordinates":[-84.110097,33.958779],"type":"Point"}
+}

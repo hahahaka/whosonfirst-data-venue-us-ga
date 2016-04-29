@@ -1,0 +1,88 @@
+{
+  "id": 739780249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.576824,33.894318,-84.576824,33.894318",
+    "geom:latitude":33.894318,
+    "geom:longitude":-84.576824,
+    "iso:country":"US",
+    "sg:address":"2445 Austell Rd SW",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Gun Range",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 436 2218",
+    "sg:postcode":"30008",
+    "sg:province":"GA",
+    "sg:tags":[
+        "safety",
+        "instruction",
+        "marksmanship",
+        "gunsmith"
+    ],
+    "sg:website":"http://www.wwtguns.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EARWoottFIIWUzj8nL6AM_33.894318_-84.576824@1303262570"
+    },
+    "wof:country":"US",
+    "wof:created":1461914956,
+    "wof:geomhash":"6ed3a2f8567c992e2618c73b3f439b3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":739780249
+        }
+    ],
+    "wof:id":739780249,
+    "wof:lastmodified":1461914956,
+    "wof:name":"Wild West Traders",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "safety",
+        "instruction",
+        "marksmanship",
+        "gunsmith"
+    ]
+},
+  "bbox": [
+    -84.576824,
+    33.894318,
+    -84.576824,
+    33.894318
+],
+  "geometry": {"coordinates":[-84.576824,33.894318],"type":"Point"}
+}

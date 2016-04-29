@@ -1,0 +1,73 @@
+{
+  "id": 723387347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.829515,34.16525,-83.829515,34.16525",
+    "geom:latitude":34.16525,
+    "geom:longitude":-83.829515,
+    "iso:country":"US",
+    "sg:address":"4962 State Rte 53",
+    "sg:city":"Braselton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 654 3300",
+    "sg:postcode":"30517",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936863,
+        102083629,
+        85850511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q8ycBsuotyg0hav406KrJ_34.165250_-83.829515@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900720,
+    "wof:geomhash":"5fc2ba172a91cc5b4942328db4893150",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083629,
+            "locality_id":85936863,
+            "neighbourhood_id":85850511,
+            "region_id":85688535,
+            "venue_id":723387347
+        }
+    ],
+    "wof:id":723387347,
+    "wof:lastmodified":1461900720,
+    "wof:name":"Neighborhood Healthcare-Brsltn",
+    "wof:parent_id":85850511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.829515,
+    34.16525,
+    -83.829515,
+    34.16525
+],
+  "geometry": {"coordinates":[-83.829515,34.16525],"type":"Point"}
+}

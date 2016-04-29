@@ -1,0 +1,71 @@
+{
+  "id": 722550401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.135979,33.021791,-85.135979,33.021791",
+    "geom:latitude":33.021791,
+    "geom:longitude":-85.135979,
+    "iso:country":"US",
+    "sg:address":"563 Pyne Rd",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 882 7549",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85830157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HN9bQt1avPbtHQ41Koe3b_33.021791_-85.135979@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461884011,
+    "wof:geomhash":"88272776aa8c537f0503ca9ad23ede86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85830157,
+            "region_id":85688535,
+            "venue_id":722550401
+        }
+    ],
+    "wof:id":722550401,
+    "wof:lastmodified":1461884011,
+    "wof:name":"Custom Cleaning",
+    "wof:parent_id":85830157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -85.135979,
+    33.021791,
+    -85.135979,
+    33.021791
+],
+  "geometry": {"coordinates":[-85.13597900000001,33.021791],"type":"Point"}
+}

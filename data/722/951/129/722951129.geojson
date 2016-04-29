@@ -1,0 +1,71 @@
+{
+  "id": 722951129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.485812,33.914392,-84.485812,33.914392",
+    "geom:latitude":33.914392,
+    "geom:longitude":-84.485812,
+    "iso:country":"US",
+    "sg:address":"920 Windcliff Dr SE",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 956 9712",
+    "sg:postcode":"30067",
+    "sg:province":"GA",
+    "sg:tags":[
+        "towing",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85845875,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RFuzZedXDvCbPZkUivWpt_33.914392_-84.485812@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461891843,
+    "wof:geomhash":"7b4c5b8406b87037a08b5645fba52145",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":722951129
+        }
+    ],
+    "wof:id":722951129,
+    "wof:lastmodified":1461891843,
+    "wof:name":"Edward's Towing",
+    "wof:parent_id":85845875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -84.485812,
+    33.914392,
+    -84.485812,
+    33.914392
+],
+  "geometry": {"coordinates":[-84.485812,33.914392],"type":"Point"}
+}

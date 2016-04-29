@@ -1,0 +1,85 @@
+{
+  "id": 739520013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.33728,33.712622,-84.33728,33.712622",
+    "geom:latitude":33.712622,
+    "geom:longitude":-84.33728,
+    "iso:country":"US",
+    "sg:address":"2587 Crestdale Cir SE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 343 0231",
+    "sg:postcode":"30316",
+    "sg:province":"GA",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937253,
+        102084539,
+        85866911,
+        85936429,
+        102083603,
+        420517923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aUke5y4bCGxa3OS2uTidO_33.712622_-84.337280@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461908788,
+    "wof:geomhash":"6399a02c579483299983fa6c8febea19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937253,
+            "neighbourhood_id":85866911,
+            "region_id":85688535,
+            "venue_id":739520013
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":420517923,
+            "region_id":85688535,
+            "venue_id":739520013
+        }
+    ],
+    "wof:id":739520013,
+    "wof:lastmodified":1461908788,
+    "wof:name":"R & H",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -84.33728,
+    33.712622,
+    -84.33728,
+    33.712622
+],
+  "geometry": {"coordinates":[-84.33728000000001,33.712622],"type":"Point"}
+}

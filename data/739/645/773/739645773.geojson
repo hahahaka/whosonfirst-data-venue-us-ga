@@ -1,0 +1,73 @@
+{
+  "id": 739645773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.974405,32.476442,-84.974405,32.476442",
+    "geom:latitude":32.476442,
+    "geom:longitude":-84.974405,
+    "iso:country":"US",
+    "sg:address":"1605 13th Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 322 1104",
+    "sg:postcode":"31901",
+    "sg:province":"GA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        420518119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DbJs8JT1T4v5xWRuAFGGu_32.476442_-84.974405@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461911391,
+    "wof:geomhash":"b578fe1c2d5d00753616701dd24309fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":420518119,
+            "region_id":85688535,
+            "venue_id":739645773
+        }
+    ],
+    "wof:id":739645773,
+    "wof:lastmodified":1461911391,
+    "wof:name":"Dave's Horn Shop",
+    "wof:parent_id":420518119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.974405,
+    32.476442,
+    -84.974405,
+    32.476442
+],
+  "geometry": {"coordinates":[-84.974405,32.476442],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 739317527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.134755,34.203264,-84.134755,34.203264",
+    "geom:latitude":34.203264,
+    "geom:longitude":-84.134755,
+    "iso:country":"US",
+    "sg:address":"281 Allen St",
+    "sg:city":"Roswell",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 641 7271",
+    "sg:postcode":"30040",
+    "sg:province":"GA",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936811,
+        102082317,
+        85842073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a4sHZT5SpN40cHNfbED2i_34.203264_-84.134755@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461904920,
+    "wof:geomhash":"aa8a366c4bf91895e5dd2177bf56c4d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082317,
+            "locality_id":85936811,
+            "neighbourhood_id":85842073,
+            "region_id":85688535,
+            "venue_id":739317527
+        }
+    ],
+    "wof:id":739317527,
+    "wof:lastmodified":1461904920,
+    "wof:name":"Corporate Transportation",
+    "wof:parent_id":85842073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -84.134755,
+    34.203264,
+    -84.134755,
+    34.203264
+],
+  "geometry": {"coordinates":[-84.134755,34.203264],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 739985385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.544594,33.756171,-84.544594,33.756171",
+    "geom:latitude":33.756171,
+    "geom:longitude":-84.544594,
+    "iso:country":"US",
+    "sg:address":"4785 Fulton Industrial Blvd SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Recycling",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 891 0012",
+    "sg:postcode":"30336",
+    "sg:province":"GA",
+    "sg:tags":[
+        "container",
+        "garbage",
+        "collection",
+        "removal",
+        "rubbish"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85872053,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jUhElPppdIrD4qOHz99im_33.756171_-84.544594@1303262623"
+    },
+    "wof:country":"US",
+    "wof:created":1461923372,
+    "wof:geomhash":"8119c38e0b32f6f104977380516e52b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85872053,
+            "region_id":85688535,
+            "venue_id":739985385
+        }
+    ],
+    "wof:id":739985385,
+    "wof:lastmodified":1461923372,
+    "wof:name":"Waste Pro USA",
+    "wof:parent_id":85872053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "container",
+        "garbage",
+        "collection",
+        "removal",
+        "rubbish"
+    ]
+},
+  "bbox": [
+    -84.544594,
+    33.756171,
+    -84.544594,
+    33.756171
+],
+  "geometry": {"coordinates":[-84.544594,33.756171],"type":"Point"}
+}

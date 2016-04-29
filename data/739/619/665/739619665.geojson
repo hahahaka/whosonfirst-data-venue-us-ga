@@ -1,0 +1,75 @@
+{
+  "id": 739619665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.983363,32.481215,-84.983363,32.481215",
+    "geom:latitude":32.481215,
+    "geom:longitude":-84.983363,
+    "iso:country":"US",
+    "sg:address":"1905 7th Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 324 3325",
+    "sg:postcode":"31901",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85882101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0P1O3QH31Be1umtMwMXo6t_32.481215_-84.983363@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910826,
+    "wof:geomhash":"35a28df3c78e923b1850b6bd749b0440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85882101,
+            "region_id":85688535,
+            "venue_id":739619665
+        }
+    ],
+    "wof:id":739619665,
+    "wof:lastmodified":1461910826,
+    "wof:name":"Richard S Robbins MD",
+    "wof:parent_id":85882101,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.983363,
+    32.481215,
+    -84.983363,
+    32.481215
+],
+  "geometry": {"coordinates":[-84.983363,32.481215],"type":"Point"}
+}

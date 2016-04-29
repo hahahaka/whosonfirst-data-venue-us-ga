@@ -1,0 +1,84 @@
+{
+  "id": 740070223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.787598,31.178942,-83.787598,31.178942",
+    "geom:latitude":31.178942,
+    "geom:longitude":-83.787598,
+    "iso:country":"US",
+    "sg:address":"101 1st St SE",
+    "sg:city":"Moultrie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 985 1006",
+    "sg:postcode":"31768",
+    "sg:province":"GA",
+    "sg:tags":[
+        "clothing"
+    ],
+    "sg:website":"http://www.lazarusdepartmentstore.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936781,
+        102084501,
+        420517709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1i6RNlttgbzdbyN0IhWLBn_31.178942_-83.787598@1303262645"
+    },
+    "wof:country":"US",
+    "wof:created":1461926980,
+    "wof:geomhash":"d8b950a815e0794074f002f560c89a7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084501,
+            "locality_id":85936781,
+            "neighbourhood_id":420517709,
+            "region_id":85688535,
+            "venue_id":740070223
+        }
+    ],
+    "wof:id":740070223,
+    "wof:lastmodified":1461926980,
+    "wof:name":"Lazarus Department Store",
+    "wof:parent_id":420517709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing"
+    ]
+},
+  "bbox": [
+    -83.787598,
+    31.178942,
+    -83.787598,
+    31.178942
+],
+  "geometry": {"coordinates":[-83.787598,31.178942],"type":"Point"}
+}

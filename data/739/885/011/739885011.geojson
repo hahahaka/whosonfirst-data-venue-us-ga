@@ -1,0 +1,78 @@
+{
+  "id": 739885011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.807753,34.3033,-84.807753,34.3033",
+    "geom:latitude":34.3033,
+    "geom:longitude":-84.807753,
+    "iso:country":"US",
+    "sg:address":"340 Spring Place Rd NE",
+    "sg:city":"White",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 387 2304",
+    "sg:postcode":"30184",
+    "sg:province":"GA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85823399,
+        102082937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zpW6QNm1wWav87Z4cJJLx_34.303300_-84.807753@1303262597"
+    },
+    "wof:country":"US",
+    "wof:created":1461919244,
+    "wof:geomhash":"8ca190decbe6e8036ff02f24d8ba9aef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082937,
+            "neighbourhood_id":85823399,
+            "region_id":85688535,
+            "venue_id":739885011
+        }
+    ],
+    "wof:id":739885011,
+    "wof:lastmodified":1461919244,
+    "wof:name":"Westmoreland Trucking",
+    "wof:parent_id":85823399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.807753,
+    34.3033,
+    -84.807753,
+    34.3033
+],
+  "geometry": {"coordinates":[-84.80775300000001,34.3033],"type":"Point"}
+}

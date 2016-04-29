@@ -1,0 +1,71 @@
+{
+  "id": 723101599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.275445,30.834423,-83.275445,30.834423",
+    "geom:latitude":30.834423,
+    "geom:longitude":-83.275445,
+    "iso:country":"US",
+    "sg:address":"214 N Troup St",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 241 7840",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tz8evSgD2YPERVFi08oex_30.834423_-83.275445@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461895154,
+    "wof:geomhash":"5f3e0121ea90f5d0f007d223b7832b04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843077,
+            "region_id":85688535,
+            "venue_id":723101599
+        }
+    ],
+    "wof:id":723101599,
+    "wof:lastmodified":1461895154,
+    "wof:name":"Brothers Two Residential Ctr",
+    "wof:parent_id":85843077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -83.275445,
+    30.834423,
+    -83.275445,
+    30.834423
+],
+  "geometry": {"coordinates":[-83.275445,30.834423],"type":"Point"}
+}

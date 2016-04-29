@@ -1,0 +1,73 @@
+{
+  "id": 739611721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.020443,33.887367,-84.020443,33.887367",
+    "geom:latitude":33.887367,
+    "geom:longitude":-84.020443,
+    "iso:country":"US",
+    "sg:address":"1435 Jay Ct",
+    "sg:city":"Snellville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 972 0999",
+    "sg:postcode":"30078",
+    "sg:province":"GA",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936303,
+        102082967,
+        85857829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52ujP0ulGcGwCYFgXC3f30_33.887367_-84.020443@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910633,
+    "wof:geomhash":"f413be5de6e5266febecbe22a15e4a5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936303,
+            "neighbourhood_id":85857829,
+            "region_id":85688535,
+            "venue_id":739611721
+        }
+    ],
+    "wof:id":739611721,
+    "wof:lastmodified":1461910633,
+    "wof:name":"Latham Home Sanitation",
+    "wof:parent_id":85857829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -84.020443,
+    33.887367,
+    -84.020443,
+    33.887367
+],
+  "geometry": {"coordinates":[-84.020443,33.887367],"type":"Point"}
+}

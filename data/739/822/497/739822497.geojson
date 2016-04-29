@@ -1,0 +1,71 @@
+{
+  "id": 739822497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.654734,33.953769,-84.654734,33.953769",
+    "geom:latitude":33.953769,
+    "geom:longitude":-84.654734,
+    "iso:country":"US",
+    "sg:address":"3515 Dallas Hwy SW Ste B",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 499 7005",
+    "sg:postcode":"30064",
+    "sg:province":"GA",
+    "sg:tags":[
+        "dental",
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7muyr1thqcUMjIg9FiiKy2_33.953769_-84.654734@1303262581"
+    },
+    "wof:country":"US",
+    "wof:created":1461916791,
+    "wof:geomhash":"79b34059cb268ae071db792bf028b0df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739822497
+        }
+    ],
+    "wof:id":739822497,
+    "wof:lastmodified":1461916791,
+    "wof:name":"Westside Dental",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dental",
+        "clinic"
+    ]
+},
+  "bbox": [
+    -84.654734,
+    33.953769,
+    -84.654734,
+    33.953769
+],
+  "geometry": {"coordinates":[-84.654734,33.953769],"type":"Point"}
+}

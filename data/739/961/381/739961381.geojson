@@ -1,0 +1,87 @@
+{
+  "id": 739961381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.480988,33.769637,-84.480988,33.769637",
+    "geom:latitude":33.769637,
+    "geom:longitude":-84.480988,
+    "iso:country":"US",
+    "sg:address":"2827 Engle Rd NW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 963 2538",
+    "sg:postcode":"30318",
+    "sg:province":"GA",
+    "sg:tags":[
+        "yard",
+        "leasing",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872073,
+        85872143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Yq4cvIJJf2ECBQoisSCWr_33.769637_-84.480988@1303262616"
+    },
+    "wof:country":"US",
+    "wof:created":1461922417,
+    "wof:geomhash":"dc179707313d3ff6f58dd4451ef5df76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872073,
+            "region_id":85688535,
+            "venue_id":739961381
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872143,
+            "region_id":85688535,
+            "venue_id":739961381
+        }
+    ],
+    "wof:id":739961381,
+    "wof:lastmodified":1461922417,
+    "wof:name":"Property Rental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard",
+        "leasing",
+        "store"
+    ]
+},
+  "bbox": [
+    -84.480988,
+    33.769637,
+    -84.480988,
+    33.769637
+],
+  "geometry": {"coordinates":[-84.480988,33.769637],"type":"Point"}
+}

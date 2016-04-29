@@ -1,0 +1,71 @@
+{
+  "id": 723418363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.109567,33.518992,-82.109567,33.518992",
+    "geom:latitude":33.518992,
+    "geom:longitude":-82.109567,
+    "iso:country":"US",
+    "sg:address":"339 Marshall St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 860 4751",
+    "sg:postcode":"30907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GH75pknf2MSpg5ImXohk5_33.518992_-82.109567@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901330,
+    "wof:geomhash":"e1dd471ea9f7735205332541e40f0428",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":723418363
+        }
+    ],
+    "wof:id":723418363,
+    "wof:lastmodified":1461901330,
+    "wof:name":"Living Care",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -82.109567,
+    33.518992,
+    -82.109567,
+    33.518992
+],
+  "geometry": {"coordinates":[-82.109567,33.518992],"type":"Point"}
+}

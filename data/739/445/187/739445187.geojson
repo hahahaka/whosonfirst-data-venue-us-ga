@@ -1,0 +1,71 @@
+{
+  "id": 739445187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.213133,30.6855,-83.213133,30.6855",
+    "geom:latitude":30.6855,
+    "geom:longitude":-83.213133,
+    "iso:country":"US",
+    "sg:address":"663 Johnston Way",
+    "sg:city":"Lake Park",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 559 1222",
+    "sg:postcode":"31636",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85827233,
+        102083585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pej4hLxFGcQarT8TFYIYv_30.685500_-83.213133@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907458,
+    "wof:geomhash":"c750826f320739d2360c95672ad5742b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "neighbourhood_id":85827233,
+            "region_id":85688535,
+            "venue_id":739445187
+        }
+    ],
+    "wof:id":739445187,
+    "wof:lastmodified":1461907458,
+    "wof:name":"Realcare Medical Svc",
+    "wof:parent_id":85827233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.213133,
+    30.6855,
+    -83.213133,
+    30.6855
+],
+  "geometry": {"coordinates":[-83.213133,30.6855],"type":"Point"}
+}

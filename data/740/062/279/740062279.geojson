@@ -1,0 +1,81 @@
+{
+  "id": 740062279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.49621,31.203365,-81.49621,31.203365",
+    "geom:latitude":31.203365,
+    "geom:longitude":-81.49621,
+    "iso:country":"US",
+    "sg:address":"123 Benedict Rd Brun",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 280 0088",
+    "sg:postcode":"31520",
+    "sg:province":"GA",
+    "sg:tags":[
+        "buyer",
+        "rental",
+        "broker"
+    ],
+    "sg:website":"http://www.juliechapman.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85814297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3E8Rk5numU9DrOOo8xpkpv_31.203365_-81.496210@1303262643"
+    },
+    "wof:country":"US",
+    "wof:created":1461926629,
+    "wof:geomhash":"f49e28661ff8fd09d31b192a67ee4b11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85814297,
+            "region_id":85688535,
+            "venue_id":740062279
+        }
+    ],
+    "wof:id":740062279,
+    "wof:lastmodified":1461926629,
+    "wof:name":"Chapman Realty",
+    "wof:parent_id":85814297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "rental",
+        "broker"
+    ]
+},
+  "bbox": [
+    -81.49621,
+    31.203365,
+    -81.49621,
+    31.203365
+],
+  "geometry": {"coordinates":[-81.49621,31.203365],"type":"Point"}
+}

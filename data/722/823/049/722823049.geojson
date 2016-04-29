@@ -1,0 +1,71 @@
+{
+  "id": 722823049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.475558,33.589106,-84.475558,33.589106",
+    "geom:latitude":33.589106,
+    "geom:longitude":-84.475558,
+    "iso:country":"US",
+    "sg:address":"2549 Flat Shoals Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 212 2450",
+    "sg:postcode":"30349",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889945,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YIuBjDOAclu0wMNkVxEpC_33.589106_-84.475558@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461889320,
+    "wof:geomhash":"9153b6757edbbeab8f37c552fb66e14f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85889945,
+            "region_id":85688535,
+            "venue_id":722823049
+        }
+    ],
+    "wof:id":722823049,
+    "wof:lastmodified":1461889320,
+    "wof:name":"Flat Shoals Auto Repair",
+    "wof:parent_id":85889945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.475558,
+    33.589106,
+    -84.475558,
+    33.589106
+],
+  "geometry": {"coordinates":[-84.47555800000001,33.589106],"type":"Point"}
+}

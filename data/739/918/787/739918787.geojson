@@ -1,0 +1,88 @@
+{
+  "id": 739918787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.387549,33.762124,-84.387549,33.762124",
+    "geom:latitude":33.762124,
+    "geom:longitude":-84.387549,
+    "iso:country":"US",
+    "sg:address":"270 Peachtree St",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 245 4256",
+    "sg:postcode":"30303",
+    "sg:province":"GA",
+    "sg:tags":[
+        "consultant",
+        "transportation",
+        "limousine"
+    ],
+    "sg:website":"http://www.clearpathlimo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85866901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eAXd2D7WKqA9aIPigy8J0_33.762124_-84.387549@1303262606"
+    },
+    "wof:country":"US",
+    "wof:created":1461920540,
+    "wof:geomhash":"2be221c26d2bffe350e518586d8a6e47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85866901,
+            "region_id":85688535,
+            "venue_id":739918787
+        }
+    ],
+    "wof:id":739918787,
+    "wof:lastmodified":1461920540,
+    "wof:name":"Clear Path Transportation",
+    "wof:parent_id":85866901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "transportation",
+        "limousine"
+    ]
+},
+  "bbox": [
+    -84.387549,
+    33.762124,
+    -84.387549,
+    33.762124
+],
+  "geometry": {"coordinates":[-84.38754900000001,33.762124],"type":"Point"}
+}

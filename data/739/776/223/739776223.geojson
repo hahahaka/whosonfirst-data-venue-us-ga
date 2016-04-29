@@ -1,0 +1,74 @@
+{
+  "id": 739776223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.739168,32.467365,-83.739168,32.467365",
+    "geom:latitude":32.467365,
+    "geom:longitude":-83.739168,
+    "iso:country":"US",
+    "sg:address":"1344 Sam Nunn Blvd",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/perry/70693-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 987 0359",
+    "sg:postcode":"31069",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YyPsb6Bs7fXzk8FUS2siH_32.466852_-83.738778@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461914789,
+    "wof:geomhash":"525c12bec5134e2d19075d07b19b59ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":739776223
+        }
+    ],
+    "wof:id":739776223,
+    "wof:lastmodified":1461914789,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.739168,
+    32.467365,
+    -83.739168,
+    32.467365
+],
+  "geometry": {"coordinates":[-83.73916800000001,32.467365],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 739794579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.309158,33.718842,-84.309158,33.718842",
+    "geom:latitude":33.718842,
+    "geom:longitude":-84.309158,
+    "iso:country":"US",
+    "sg:address":"2400 Flat Shoals Rd",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 243 9547",
+    "sg:postcode":"30032",
+    "sg:province":"GA",
+    "sg:tags":[
+        "churches-united",
+        "methodist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937253,
+        102084539,
+        85866911,
+        85816491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a2fUzbNhCxYulzrrlT5do_33.718842_-84.309158@1303262573"
+    },
+    "wof:country":"US",
+    "wof:created":1461915549,
+    "wof:geomhash":"51cd8e73efaa76645ba16988e22aaff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937253,
+            "neighbourhood_id":85866911,
+            "region_id":85688535,
+            "venue_id":739794579
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739794579
+        }
+    ],
+    "wof:id":739794579,
+    "wof:lastmodified":1461915549,
+    "wof:name":"Flat Shoals United Methodist Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-united",
+        "methodist"
+    ]
+},
+  "bbox": [
+    -84.309158,
+    33.718842,
+    -84.309158,
+    33.718842
+],
+  "geometry": {"coordinates":[-84.309158,33.718842],"type":"Point"}
+}

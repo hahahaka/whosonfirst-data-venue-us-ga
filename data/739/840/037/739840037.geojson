@@ -1,0 +1,84 @@
+{
+  "id": 739840037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.032981,33.859804,-84.032981,33.859804",
+    "geom:latitude":33.859804,
+    "geom:longitude":-84.032981,
+    "iso:country":"US",
+    "sg:address":"2016 Crescent Drive",
+    "sg:city":"Snellville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Antiques",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Skin Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 602 451 1772",
+    "sg:postcode":"30078",
+    "sg:province":"GA",
+    "sg:tags":[
+        "perfume",
+        "african-american"
+    ],
+    "sg:website":"http://www.marysessence.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936303,
+        102082967,
+        85857829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Exziup1XyThpZkHbIFbJ8_33.859804_-84.032981@1303262585"
+    },
+    "wof:country":"US",
+    "wof:created":1461917492,
+    "wof:geomhash":"9aa82e9ea12eb81f3bf2364d3aa8aaee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936303,
+            "neighbourhood_id":85857829,
+            "region_id":85688535,
+            "venue_id":739840037
+        }
+    ],
+    "wof:id":739840037,
+    "wof:lastmodified":1461917492,
+    "wof:name":"Mary's Essence",
+    "wof:parent_id":85857829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "perfume",
+        "african-american"
+    ]
+},
+  "bbox": [
+    -84.032981,
+    33.859804,
+    -84.032981,
+    33.859804
+],
+  "geometry": {"coordinates":[-84.03298100000001,33.859804],"type":"Point"}
+}

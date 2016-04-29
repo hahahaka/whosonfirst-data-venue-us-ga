@@ -1,0 +1,75 @@
+{
+  "id": 723291965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.295191,33.770575,-84.295191,33.770575",
+    "geom:latitude":33.770575,
+    "geom:longitude":-84.295191,
+    "iso:country":"US",
+    "sg:address":"116 E Howard Ave",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 373 7677",
+    "sg:postcode":"30030",
+    "sg:province":"GA",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936441,
+        102084539,
+        85890035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dzTXZRyjJMdpFB1JJnA0p_33.770575_-84.295191@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461898912,
+    "wof:geomhash":"6cc993631f28b15f64ff8f1a2d8f2f13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936441,
+            "neighbourhood_id":85890035,
+            "region_id":85688535,
+            "venue_id":723291965
+        }
+    ],
+    "wof:id":723291965,
+    "wof:lastmodified":1461898912,
+    "wof:name":"Howard Ave Properties",
+    "wof:parent_id":85890035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -84.295191,
+    33.770575,
+    -84.295191,
+    33.770575
+],
+  "geometry": {"coordinates":[-84.295191,33.770575],"type":"Point"}
+}

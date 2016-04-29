@@ -1,0 +1,84 @@
+{
+  "id": 723197697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.161973,31.971293,-81.161973,31.971293",
+    "geom:latitude":31.971293,
+    "geom:longitude":-81.161973,
+    "iso:country":"US",
+    "sg:address":"12705 Sunnybrook Rd",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 925 2458",
+    "sg:postcode":"31419",
+    "sg:province":"GA",
+    "sg:tags":[
+        "appliance",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85858231,
+        85858259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ssMkURplFUrchmskm5x8r_31.971293_-81.161973@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897029,
+    "wof:geomhash":"c6388470eaa375830c3cc0a671aa13d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85858231,
+            "region_id":85688535,
+            "venue_id":723197697
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85858259,
+            "region_id":85688535,
+            "venue_id":723197697
+        }
+    ],
+    "wof:id":723197697,
+    "wof:lastmodified":1461897029,
+    "wof:name":"Jims Appliance Home Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -81.161973,
+    31.971293,
+    -81.161973,
+    31.971293
+],
+  "geometry": {"coordinates":[-81.161973,31.971293],"type":"Point"}
+}

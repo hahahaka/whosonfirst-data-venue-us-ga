@@ -1,0 +1,80 @@
+{
+  "id": 740030655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.490991,34.688253,-84.490991,34.688253",
+    "geom:latitude":34.688253,
+    "geom:longitude":-84.490991,
+    "iso:country":"US",
+    "sg:address":"630 S Main St",
+    "sg:city":"Ellijay",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 635 2102",
+    "sg:postcode":"30540",
+    "sg:province":"GA",
+    "sg:tags":[
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936157,
+        102082325,
+        85859453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3E7E0AghKjCFymORAgxHtf_34.688253_-84.490991@1303262635"
+    },
+    "wof:country":"US",
+    "wof:created":1461925184,
+    "wof:geomhash":"f05995bac5df52d2937d48642ad9a980",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082325,
+            "locality_id":85936157,
+            "neighbourhood_id":85859453,
+            "region_id":85688535,
+            "venue_id":740030655
+        }
+    ],
+    "wof:id":740030655,
+    "wof:lastmodified":1461925184,
+    "wof:name":"Department of Transportation",
+    "wof:parent_id":85859453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.490991,
+    34.688253,
+    -84.490991,
+    34.688253
+],
+  "geometry": {"coordinates":[-84.49099099999999,34.688253],"type":"Point"}
+}

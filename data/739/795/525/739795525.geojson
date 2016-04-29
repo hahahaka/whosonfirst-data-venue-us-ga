@@ -1,0 +1,87 @@
+{
+  "id": 739795525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.244564,33.776532,-84.244564,33.776532",
+    "geom:latitude":33.776532,
+    "geom:longitude":-84.244564,
+    "iso:country":"US",
+    "sg:address":"4425 Memorial Dr",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 298 8100",
+    "sg:postcode":"30032",
+    "sg:province":"GA",
+    "sg:tags":[
+        "enforcement",
+        "agencies-government",
+        "parish",
+        "government-county",
+        "law"
+    ],
+    "sg:website":"http://www.dekalbpubsafety.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937263,
+        102084539,
+        85890037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02CeQwjotebPmGbVoDDMVo_33.776532_-84.244564@1303262574"
+    },
+    "wof:country":"US",
+    "wof:created":1461915586,
+    "wof:geomhash":"18724916e4cb94d3c198bbbacaf3e6b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937263,
+            "neighbourhood_id":85890037,
+            "region_id":85688535,
+            "venue_id":739795525
+        }
+    ],
+    "wof:id":739795525,
+    "wof:lastmodified":1461915586,
+    "wof:name":"Sheriff's Dept",
+    "wof:parent_id":85890037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "enforcement",
+        "agencies-government",
+        "parish",
+        "government-county",
+        "law"
+    ]
+},
+  "bbox": [
+    -84.244564,
+    33.776532,
+    -84.244564,
+    33.776532
+],
+  "geometry": {"coordinates":[-84.244564,33.776532],"type":"Point"}
+}

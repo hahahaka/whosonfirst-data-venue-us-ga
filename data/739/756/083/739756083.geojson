@@ -1,0 +1,87 @@
+{
+  "id": 739756083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.285151,33.734164,-84.285151,33.734164",
+    "geom:latitude":33.734164,
+    "geom:longitude":-84.285151,
+    "iso:country":"US",
+    "sg:address":"1944 Candler Rd",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 288 3173",
+    "sg:postcode":"30032",
+    "sg:province":"GA",
+    "sg:tags":[
+        "tape",
+        "video",
+        "sale",
+        "dvds-rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937245,
+        102084539,
+        85816501,
+        85816491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gQEKXbUV3jlIbCrzsJbHT_33.734445_-84.285230@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461913943,
+    "wof:geomhash":"b165380cdd2c0e6f54847cb7457d27d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937245,
+            "neighbourhood_id":85816501,
+            "region_id":85688535,
+            "venue_id":739756083
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739756083
+        }
+    ],
+    "wof:id":739756083,
+    "wof:lastmodified":1461913943,
+    "wof:name":"Hollywood Video",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tape",
+        "video",
+        "sale",
+        "dvds-rental"
+    ]
+},
+  "bbox": [
+    -84.285151,
+    33.734164,
+    -84.285151,
+    33.734164
+],
+  "geometry": {"coordinates":[-84.285151,33.734164],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 739762995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.273406,33.750872,-84.273406,33.750872",
+    "geom:latitude":33.750872,
+    "geom:longitude":-84.273406,
+    "iso:country":"US",
+    "sg:address":"3385 Memorial Dr",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/atlanta-decatur/186209-wings-avenue/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 288 9299",
+    "sg:postcode":"30032",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937245,
+        102084539,
+        85811997,
+        85937263,
+        85890037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xQfvf5TiMUBzwi7SSevCv_33.750872_-84.273406@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914258,
+    "wof:geomhash":"0b48aaf4b12b1c36d36b73037a2cb296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937245,
+            "neighbourhood_id":85811997,
+            "region_id":85688535,
+            "venue_id":739762995
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937263,
+            "neighbourhood_id":85890037,
+            "region_id":85688535,
+            "venue_id":739762995
+        }
+    ],
+    "wof:id":739762995,
+    "wof:lastmodified":1461914258,
+    "wof:name":"Wings Avenue",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -84.273406,
+    33.750872,
+    -84.273406,
+    33.750872
+],
+  "geometry": {"coordinates":[-84.27340599999999,33.750872],"type":"Point"}
+}

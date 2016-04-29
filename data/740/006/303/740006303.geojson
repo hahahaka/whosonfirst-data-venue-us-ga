@@ -1,0 +1,100 @@
+{
+  "id": 740006303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.469585,33.685419,-84.469585,33.685419",
+    "geom:latitude":33.685419,
+    "geom:longitude":-84.469585,
+    "iso:country":"US",
+    "sg:address":"2485 Old Colony Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 287 6647",
+    "sg:postcode":"30344",
+    "sg:province":"GA",
+    "sg:tags":[
+        "washing",
+        "pressure",
+        "cleaning-exterior",
+        "equipment",
+        "window",
+        "janitorial",
+        "cleaners-interior"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85822133,
+        420517887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6e2O4iXnqJLFTs30Fmc6qc_33.685419_-84.469585@1303262628"
+    },
+    "wof:country":"US",
+    "wof:created":1461924168,
+    "wof:geomhash":"52da1b6c7b656e5fd0abd4821361a2c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85822133,
+            "region_id":85688535,
+            "venue_id":740006303
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":420517887,
+            "region_id":85688535,
+            "venue_id":740006303
+        }
+    ],
+    "wof:id":740006303,
+    "wof:lastmodified":1461924168,
+    "wof:name":"T & A Cleaning Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "washing",
+        "pressure",
+        "cleaning-exterior",
+        "equipment",
+        "window",
+        "janitorial",
+        "cleaners-interior"
+    ]
+},
+  "bbox": [
+    -84.469585,
+    33.685419,
+    -84.469585,
+    33.685419
+],
+  "geometry": {"coordinates":[-84.469585,33.685419],"type":"Point"}
+}

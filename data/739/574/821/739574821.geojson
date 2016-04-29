@@ -1,0 +1,73 @@
+{
+  "id": 739574821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.099778,33.977908,-84.099778,33.977908",
+    "geom:latitude":33.977908,
+    "geom:longitude":-84.099778,
+    "iso:country":"US",
+    "sg:address":"2180 Boggs Rd",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 957 0885",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3udzkP8aKFSVl5eTJCBgtu_33.977908_-84.099778@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461909890,
+    "wof:geomhash":"cc7ed43cdd7ab66dce9b589c5396cf74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":739574821
+        }
+    ],
+    "wof:id":739574821,
+    "wof:lastmodified":1461909890,
+    "wof:name":"Hardball Warehouse",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ]
+},
+  "bbox": [
+    -84.099778,
+    33.977908,
+    -84.099778,
+    33.977908
+],
+  "geometry": {"coordinates":[-84.099778,33.977908],"type":"Point"}
+}

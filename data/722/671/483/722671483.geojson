@@ -1,0 +1,71 @@
+{
+  "id": 722671483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.153747,31.578255,-84.153747,31.578255",
+    "geom:latitude":31.578255,
+    "geom:longitude":-84.153747,
+    "iso:country":"US",
+    "sg:address":"111 N Jackson St",
+    "sg:city":"Albany",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 883 4134",
+    "sg:postcode":"31701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935991,
+        102084427,
+        85822061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4A54NA82qF9ddU8HIhsAj2_31.578255_-84.153747@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886425,
+    "wof:geomhash":"7915cba3b23e07617bbec49c7db1ce25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":85822061,
+            "region_id":85688535,
+            "venue_id":722671483
+        }
+    ],
+    "wof:id":722671483,
+    "wof:lastmodified":1461886425,
+    "wof:name":"Union Dry Cleaners",
+    "wof:parent_id":85822061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -84.153747,
+    31.578255,
+    -84.153747,
+    31.578255
+],
+  "geometry": {"coordinates":[-84.153747,31.578255],"type":"Point"}
+}

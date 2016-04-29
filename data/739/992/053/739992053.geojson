@@ -1,0 +1,86 @@
+{
+  "id": 739992053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.427976,33.906603,-84.427976,33.906603",
+    "geom:latitude":33.906603,
+    "geom:longitude":-84.427976,
+    "iso:country":"US",
+    "sg:address":"6300 Powers Ferry Rd NW Ste 100",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 955 1291",
+    "sg:postcode":"30339",
+    "sg:province":"GA",
+    "sg:tags":[
+        "pet",
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937165,
+        102083603,
+        85890005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wvz1bsKZTS6WyYig2qax3_33.906603_-84.427976@1303262625"
+    },
+    "wof:country":"US",
+    "wof:created":1461923628,
+    "wof:geomhash":"7e497ac270653f237ac44d82e804dfb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937165,
+            "neighbourhood_id":85890005,
+            "region_id":85688535,
+            "venue_id":739992053
+        }
+    ],
+    "wof:id":739992053,
+    "wof:lastmodified":1461923628,
+    "wof:name":"Berkowitz, Felicia, Dvm - Powers Ferry Animal Hospital",
+    "wof:parent_id":85890005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -84.427976,
+    33.906603,
+    -84.427976,
+    33.906603
+],
+  "geometry": {"coordinates":[-84.427976,33.906603],"type":"Point"}
+}

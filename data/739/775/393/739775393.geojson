@@ -1,0 +1,85 @@
+{
+  "id": 739775393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.130829,33.958916,-84.130829,33.958916",
+    "geom:latitude":33.958916,
+    "geom:longitude":-84.130829,
+    "iso:country":"US",
+    "sg:address":"3505 Mall Blvd",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/suwanee-duluth/56084-sweet-tomatoes/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 418 1148",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "soup",
+        "bakery",
+        "american",
+        "salad",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LAwWlR4GK4uY5i495NfZ8_33.958545_-84.131395@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461914761,
+    "wof:geomhash":"b92281599b8b1c698b0f214523767682",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":739775393
+        }
+    ],
+    "wof:id":739775393,
+    "wof:lastmodified":1461914761,
+    "wof:name":"Sweet Tomatoes",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "soup",
+        "bakery",
+        "american",
+        "salad",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -84.130829,
+    33.958916,
+    -84.130829,
+    33.958916
+],
+  "geometry": {"coordinates":[-84.13082900000001,33.958916],"type":"Point"}
+}

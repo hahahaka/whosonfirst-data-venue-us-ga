@@ -1,0 +1,73 @@
+{
+  "id": 739656501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.029005,33.012442,-85.029005,33.012442",
+    "geom:latitude":33.012442,
+    "geom:longitude":-85.029005,
+    "iso:country":"US",
+    "sg:address":"1619 Whitesville St",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 812 8531",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "courier",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Azs716vy7xX5xxhRq7uNl_33.012442_-85.029005@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461911665,
+    "wof:geomhash":"88b1fbc9a71810391746e29c22e8da97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739656501
+        }
+    ],
+    "wof:id":739656501,
+    "wof:lastmodified":1461911665,
+    "wof:name":"Fedex",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier",
+        "air"
+    ]
+},
+  "bbox": [
+    -85.029005,
+    33.012442,
+    -85.029005,
+    33.012442
+],
+  "geometry": {"coordinates":[-85.029005,33.012442],"type":"Point"}
+}

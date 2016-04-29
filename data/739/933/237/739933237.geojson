@@ -1,0 +1,81 @@
+{
+  "id": 739933237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.31855,33.789808,-84.31855,33.789808",
+    "geom:latitude":33.789808,
+    "geom:longitude":-84.31855,
+    "iso:country":"US",
+    "sg:address":"1767 N Decatur Rd NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 999 6634",
+    "sg:postcode":"30307",
+    "sg:province":"GA",
+    "sg:tags":[
+        "inn",
+        "lodging"
+    ],
+    "sg:website":"http://atlanta.citysearch.com/profile/external/2998292/atlanta_ga/the_university_inn_at_emory.html?publisher=yellowpages&reference_id=15&placement=ypwebsitemip",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937251,
+        102084539,
+        85889951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3s0PvjKfb2gcagapCXeJiL_33.789808_-84.318550@1303262609"
+    },
+    "wof:country":"US",
+    "wof:created":1461921157,
+    "wof:geomhash":"d909a7fe9370844222869b4c9ae50740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937251,
+            "neighbourhood_id":85889951,
+            "region_id":85688535,
+            "venue_id":739933237
+        }
+    ],
+    "wof:id":739933237,
+    "wof:lastmodified":1461921157,
+    "wof:name":"The University Inn at Emory",
+    "wof:parent_id":85889951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inn",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -84.31855,
+    33.789808,
+    -84.31855,
+    33.789808
+],
+  "geometry": {"coordinates":[-84.31855,33.789808],"type":"Point"}
+}

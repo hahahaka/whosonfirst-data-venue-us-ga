@@ -1,0 +1,71 @@
+{
+  "id": 739547341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.149472,33.559312,-82.149472,33.559312",
+    "geom:latitude":33.559312,
+    "geom:longitude":-82.149472,
+    "iso:country":"US",
+    "sg:address":"11 Woodside Cir",
+    "sg:city":"Evans",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 855 7343",
+    "sg:postcode":"30809",
+    "sg:province":"GA",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15SmTJPrxk6amlWAVISU8g_33.559312_-82.149472@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461909304,
+    "wof:geomhash":"4d2c8d238afb637968a13b3fa991edce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":739547341
+        }
+    ],
+    "wof:id":739547341,
+    "wof:lastmodified":1461909304,
+    "wof:name":"Augusta Delivery Svc",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -82.149472,
+    33.559312,
+    -82.149472,
+    33.559312
+],
+  "geometry": {"coordinates":[-82.149472,33.559312],"type":"Point"}
+}

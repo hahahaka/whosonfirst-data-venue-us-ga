@@ -1,0 +1,73 @@
+{
+  "id": 739400521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.479047,33.448892,-84.479047,33.448892",
+    "geom:latitude":33.448892,
+    "geom:longitude":-84.479047,
+    "iso:country":"US",
+    "sg:address":"105 Yorktown Dr",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 797 6100",
+    "sg:postcode":"30214",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936019,
+        102081687,
+        85833669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UMfphteRoLDxnnO8KJzVO_33.448892_-84.479047@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461906591,
+    "wof:geomhash":"70aa23b4f4a6a6518642b1a414648535",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081687,
+            "locality_id":85936019,
+            "neighbourhood_id":85833669,
+            "region_id":85688535,
+            "venue_id":739400521
+        }
+    ],
+    "wof:id":739400521,
+    "wof:lastmodified":1461906591,
+    "wof:name":"David J Bennett DO",
+    "wof:parent_id":85833669,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.479047,
+    33.448892,
+    -84.479047,
+    33.448892
+],
+  "geometry": {"coordinates":[-84.47904699999999,33.448892],"type":"Point"}
+}

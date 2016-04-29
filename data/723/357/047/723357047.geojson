@@ -1,0 +1,73 @@
+{
+  "id": 723357047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.96716,30.846493,-83.96716,30.846493",
+    "geom:latitude":30.846493,
+    "geom:longitude":-83.96716,
+    "iso:country":"US",
+    "sg:address":"1012 E Jackson St",
+    "sg:city":"Thomasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 228 6466",
+    "sg:postcode":"31792",
+    "sg:province":"GA",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85833309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D47uJ5ctqa9312Z0Z6jDs_30.846493_-83.967160@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900125,
+    "wof:geomhash":"453bad698589fbff0a64d65c878c749a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85833309,
+            "region_id":85688535,
+            "venue_id":723357047
+        }
+    ],
+    "wof:id":723357047,
+    "wof:lastmodified":1461900125,
+    "wof:name":"Liberty Rent-A-Car",
+    "wof:parent_id":85833309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.96716,
+    30.846493,
+    -83.96716,
+    30.846493
+],
+  "geometry": {"coordinates":[-83.96716000000001,30.846493],"type":"Point"}
+}

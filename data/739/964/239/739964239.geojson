@@ -1,0 +1,75 @@
+{
+  "id": 739964239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.353418,33.881173,-84.353418,33.881173",
+    "geom:latitude":33.881173,
+    "geom:longitude":-84.353418,
+    "iso:country":"US",
+    "sg:address":"1045 Angelo Ct NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 816 9208",
+    "sg:postcode":"30319",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85807835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HSxexhNV3LSfUl9BGNxf0_33.881173_-84.353418@1303262617"
+    },
+    "wof:country":"US",
+    "wof:created":1461922531,
+    "wof:geomhash":"5e6cca0eef68ad4027c2271a8755affd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85807835,
+            "region_id":85688535,
+            "venue_id":739964239
+        }
+    ],
+    "wof:id":739964239,
+    "wof:lastmodified":1461922531,
+    "wof:name":"Feiber Surgical Inc",
+    "wof:parent_id":85807835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.353418,
+    33.881173,
+    -84.353418,
+    33.881173
+],
+  "geometry": {"coordinates":[-84.353418,33.881173],"type":"Point"}
+}

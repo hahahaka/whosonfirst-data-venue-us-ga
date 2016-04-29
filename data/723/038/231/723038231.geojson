@@ -1,0 +1,75 @@
+{
+  "id": 723038231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.799359,34.320654,-83.799359,34.320654",
+    "geom:latitude":34.320654,
+    "geom:longitude":-83.799359,
+    "iso:country":"US",
+    "sg:address":"690 Medical Park Ln",
+    "sg:city":"Gainesville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 531 0093",
+    "sg:postcode":"30501",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936861,
+        102083629,
+        85836659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0q0kN3EIXFoldYu12DDlcG_34.320654_-83.799359@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461893774,
+    "wof:geomhash":"9d476da95377312a649ae6a0eaa0da72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083629,
+            "locality_id":85936861,
+            "neighbourhood_id":85836659,
+            "region_id":85688535,
+            "venue_id":723038231
+        }
+    ],
+    "wof:id":723038231,
+    "wof:lastmodified":1461893774,
+    "wof:name":"Surgical Oncology Northeast",
+    "wof:parent_id":85836659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.799359,
+    34.320654,
+    -83.799359,
+    34.320654
+],
+  "geometry": {"coordinates":[-83.799359,34.320654],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 722886169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.063594,32.839773,-85.063594,32.839773",
+    "geom:latitude":32.839773,
+    "geom:longitude":-85.063594,
+    "iso:country":"US",
+    "sg:address":"547 Oneal Rd",
+    "sg:city":"Waverly Hall",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 582 2473",
+    "sg:postcode":"31833",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688675,
+        85633793,
+        85914191,
+        102085637,
+        85848065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71qjvhl0F2KmOTUZKxfIOl_32.839773_-85.063594@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461890507,
+    "wof:geomhash":"9059f9f327bc8ef1fc9f994e49c67d87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085637,
+            "locality_id":85914191,
+            "neighbourhood_id":85848065,
+            "region_id":85688675,
+            "venue_id":722886169
+        }
+    ],
+    "wof:id":722886169,
+    "wof:lastmodified":1461890507,
+    "wof:name":"Waverly Hall Fire Dept",
+    "wof:parent_id":85848065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.063594,
+    32.839773,
+    -85.063594,
+    32.839773
+],
+  "geometry": {"coordinates":[-85.06359399999999,32.839773],"type":"Point"}
+}

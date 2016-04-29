@@ -1,0 +1,86 @@
+{
+  "id": 739966079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.353109,33.815141,-84.353109,33.815141",
+    "geom:latitude":33.815141,
+    "geom:longitude":-84.353109,
+    "iso:country":"US",
+    "sg:address":"2205 Cheshire Bridge Road N",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Adult",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 728 0701",
+    "sg:postcode":"30324",
+    "sg:province":"GA",
+    "sg:tags":[
+        "game",
+        "video"
+    ],
+    "sg:website":"www.southernnights.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85889987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RiCAIHyS8p1t9WyAyAEnn_33.815141_-84.353109@1303262618"
+    },
+    "wof:country":"US",
+    "wof:created":1461922599,
+    "wof:geomhash":"c17605e10f6ae351cb208ede6cb3b92f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85889987,
+            "region_id":85688535,
+            "venue_id":739966079
+        }
+    ],
+    "wof:id":739966079,
+    "wof:lastmodified":1461922599,
+    "wof:name":"Southern Nights Videos",
+    "wof:parent_id":85889987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "video"
+    ]
+},
+  "bbox": [
+    -84.353109,
+    33.815141,
+    -84.353109,
+    33.815141
+],
+  "geometry": {"coordinates":[-84.353109,33.815141],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 739887971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.549057,33.551659,-84.549057,33.551659",
+    "geom:latitude":33.551659,
+    "geom:longitude":-84.549057,
+    "iso:country":"US",
+    "sg:address":"5001 Fayetteville Rd",
+    "sg:city":"Fairburn",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 479 3510",
+    "sg:postcode":"30213",
+    "sg:province":"GA",
+    "sg:tags":[
+        "dog",
+        "specialty",
+        "cat",
+        "furnishing",
+        "foods-wholesale",
+        "store",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.purina.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937159,
+        102083603,
+        85848001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EiEK9Ro95UiASN9MrTF8S_33.551659_-84.549057@1303262598"
+    },
+    "wof:country":"US",
+    "wof:created":1461919362,
+    "wof:geomhash":"860e2bd2210e3d1a6864d4319d62709b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937159,
+            "neighbourhood_id":85848001,
+            "region_id":85688535,
+            "venue_id":739887971
+        }
+    ],
+    "wof:id":739887971,
+    "wof:lastmodified":1461919362,
+    "wof:name":"Nestle Purina Petcare Company",
+    "wof:parent_id":85848001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dog",
+        "specialty",
+        "cat",
+        "furnishing",
+        "foods-wholesale",
+        "store",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -84.549057,
+    33.551659,
+    -84.549057,
+    33.551659
+],
+  "geometry": {"coordinates":[-84.549057,33.551659],"type":"Point"}
+}

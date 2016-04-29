@@ -1,0 +1,76 @@
+{
+  "id": 739774715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.955263,32.50693,-84.955263,32.50693",
+    "geom:latitude":32.50693,
+    "geom:longitude":-84.955263,
+    "iso:country":"US",
+    "sg:address":"2627 Manchester Expy",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/columbus/158430-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 323 1520",
+    "sg:postcode":"31904",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85828445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AAkJ6I3uw1GKE46VGtZgu_32.506930_-84.955263@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914737,
+    "wof:geomhash":"25679e9e3f93c69936711ea74ad29e6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85828445,
+            "region_id":85688535,
+            "venue_id":739774715
+        }
+    ],
+    "wof:id":739774715,
+    "wof:lastmodified":1461914737,
+    "wof:name":"Arby's",
+    "wof:parent_id":85828445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.955263,
+    32.50693,
+    -84.955263,
+    32.50693
+],
+  "geometry": {"coordinates":[-84.955263,32.50693],"type":"Point"}
+}

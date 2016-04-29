@@ -1,0 +1,85 @@
+{
+  "id": 739817155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.506728,33.925137,-84.506728,33.925137",
+    "geom:latitude":33.925137,
+    "geom:longitude":-84.506728,
+    "iso:country":"US",
+    "sg:address":"1095 Cobb Pkwy S",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 422 2786",
+    "sg:postcode":"30060",
+    "sg:province":"GA",
+    "sg:tags":[
+        "supplies-wholesale",
+        "manufacturer",
+        "electronic",
+        "consumer",
+        "equipment"
+    ],
+    "sg:website":"http://www.aedusa.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102528627,
+        85688535,
+        85633793,
+        102082313,
+        85845875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7En22HpDEByEQORjmdIjhn_33.925137_-84.506728@1303262579"
+    },
+    "wof:country":"US",
+    "wof:created":1461916585,
+    "wof:geomhash":"4511701513161b7c91bb91c6b32a1aee",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528627,
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":739817155
+        }
+    ],
+    "wof:id":739817155,
+    "wof:lastmodified":1461916585,
+    "wof:name":"Aed",
+    "wof:parent_id":102528627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supplies-wholesale",
+        "manufacturer",
+        "electronic",
+        "consumer",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -84.506728,
+    33.925137,
+    -84.506728,
+    33.925137
+],
+  "geometry": {"coordinates":[-84.506728,33.925137],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 740033651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.400926,33.950962,-83.400926,33.950962",
+    "geom:latitude":33.950962,
+    "geom:longitude":-83.400926,
+    "iso:country":"US",
+    "sg:address":"440 Dearing Ext",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 543 8865",
+    "sg:postcode":"30606",
+    "sg:province":"GA",
+    "sg:tags":[
+        "parish",
+        "k-",
+        "private",
+        "government-county"
+    ],
+    "sg:website":"http://www.clarke.k12.ga.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936177,
+        102081713,
+        85807659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yDr1MrQprV0PovGb1AyAb_33.950962_-83.400926@1303262635"
+    },
+    "wof:country":"US",
+    "wof:created":1461925316,
+    "wof:geomhash":"679021ba1a301bbadb199572c1845c90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081713,
+            "locality_id":85936177,
+            "neighbourhood_id":85807659,
+            "region_id":85688535,
+            "venue_id":740033651
+        }
+    ],
+    "wof:id":740033651,
+    "wof:lastmodified":1461925316,
+    "wof:name":"Alternative Placement Program",
+    "wof:parent_id":85807659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parish",
+        "k-",
+        "private",
+        "government-county"
+    ]
+},
+  "bbox": [
+    -83.400926,
+    33.950962,
+    -83.400926,
+    33.950962
+],
+  "geometry": {"coordinates":[-83.400926,33.950962],"type":"Point"}
+}

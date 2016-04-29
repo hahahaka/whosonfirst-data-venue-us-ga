@@ -1,0 +1,75 @@
+{
+  "id": 739842653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.509902,33.851925,-84.509902,33.851925",
+    "geom:latitude":33.851925,
+    "geom:longitude":-84.509902,
+    "iso:country":"US",
+    "sg:address":"4188 S Cobb Dr SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 438 2694",
+    "sg:postcode":"30080",
+    "sg:province":"GA",
+    "sg:tags":[
+        "clinic",
+        "hospital",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZVTTdm1blFHfiRgI3PEHv_33.851925_-84.509902@1303262586"
+    },
+    "wof:country":"US",
+    "wof:created":1461917601,
+    "wof:geomhash":"6dcf74d6305f5b0542035bba5bfede14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":739842653
+        }
+    ],
+    "wof:id":739842653,
+    "wof:lastmodified":1461917601,
+    "wof:name":"Animal Care Center",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "hospital",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -84.509902,
+    33.851925,
+    -84.509902,
+    33.851925
+],
+  "geometry": {"coordinates":[-84.509902,33.851925],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 740058053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.084917,32.079249,-81.084917,32.079249",
+    "geom:latitude":32.079249,
+    "geom:longitude":-81.084917,
+    "iso:country":"US",
+    "sg:address":"555 W Bay St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 235 5844",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "government-united",
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936939,
+        102082337,
+        85880917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GHBXJvcq4iGGn37rb76kb_32.079249_-81.084917@1303262642"
+    },
+    "wof:country":"US",
+    "wof:created":1461926448,
+    "wof:geomhash":"d3b175c76544c189ddb2f17116e0216c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880917,
+            "region_id":85688535,
+            "venue_id":740058053
+        }
+    ],
+    "wof:id":740058053,
+    "wof:lastmodified":1461926448,
+    "wof:name":"Housing Authority Of Savannah",
+    "wof:parent_id":85880917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-united",
+        "state"
+    ]
+},
+  "bbox": [
+    -81.084917,
+    32.079249,
+    -81.084917,
+    32.079249
+],
+  "geometry": {"coordinates":[-81.084917,32.079249],"type":"Point"}
+}

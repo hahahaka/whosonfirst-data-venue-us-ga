@@ -1,0 +1,71 @@
+{
+  "id": 739612945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.972427,34.784579,-84.972427,34.784579",
+    "geom:latitude":34.784579,
+    "geom:longitude":-84.972427,
+    "iso:country":"US",
+    "sg:address":"46 Mountain View St",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 226 8703",
+    "sg:postcode":"30720",
+    "sg:province":"GA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I3UPQoEWSiLfvJLd9XQmp_34.784579_-84.972427@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910660,
+    "wof:geomhash":"b29c08d4b752dd2cf6186704caf12aef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":739612945
+        }
+    ],
+    "wof:id":739612945,
+    "wof:lastmodified":1461910660,
+    "wof:name":"American Cab",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -84.972427,
+    34.784579,
+    -84.972427,
+    34.784579
+],
+  "geometry": {"coordinates":[-84.972427,34.784579],"type":"Point"}
+}

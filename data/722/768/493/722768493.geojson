@@ -1,0 +1,73 @@
+{
+  "id": 722768493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.904083,32.43109,-84.904083,32.43109",
+    "geom:latitude":32.43109,
+    "geom:longitude":-84.904083,
+    "iso:country":"US",
+    "sg:address":"5231 Argonne Dr",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 682 2274",
+    "sg:postcode":"31907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85804745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54zbQRoEj569n3LkOK54m9_32.431090_-84.904083@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888288,
+    "wof:geomhash":"4d4f3e383a72484127fced6439abc74a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85804745,
+            "region_id":85688535,
+            "venue_id":722768493
+        }
+    ],
+    "wof:id":722768493,
+    "wof:lastmodified":1461888288,
+    "wof:name":"Car Spa",
+    "wof:parent_id":85804745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -84.904083,
+    32.43109,
+    -84.904083,
+    32.43109
+],
+  "geometry": {"coordinates":[-84.904083,32.43109],"type":"Point"}
+}

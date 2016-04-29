@@ -1,0 +1,85 @@
+{
+  "id": 739843937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.542149,33.842948,-84.542149,33.842948",
+    "geom:latitude":33.842948,
+    "geom:longitude":-84.542149,
+    "iso:country":"US",
+    "sg:address":"438 Oak Valley Cir SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 444 3274",
+    "sg:postcode":"30082",
+    "sg:province":"GA",
+    "sg:tags":[
+        "pharmaceutical",
+        "medicines-patent",
+        "proprietary",
+        "products-wholesale",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.amgen.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oj2NHVrUU0yn7AD8P41eT_33.842948_-84.542149@1303262586"
+    },
+    "wof:country":"US",
+    "wof:created":1461917656,
+    "wof:geomhash":"02f2ca449c44997f45d79409e91db930",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":739843937
+        }
+    ],
+    "wof:id":739843937,
+    "wof:lastmodified":1461917656,
+    "wof:name":"Amgen",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "medicines-patent",
+        "proprietary",
+        "products-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -84.542149,
+    33.842948,
+    -84.542149,
+    33.842948
+],
+  "geometry": {"coordinates":[-84.54214899999999,33.842948],"type":"Point"}
+}

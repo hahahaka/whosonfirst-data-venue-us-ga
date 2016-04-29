@@ -1,0 +1,83 @@
+{
+  "id": 740038289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.949792,34.515849,-84.949792,34.515849",
+    "geom:latitude":34.515849,
+    "geom:longitude":-84.949792,
+    "iso:country":"US",
+    "sg:address":"125 Red Bud Rd NE Suite 1",
+    "sg:city":"Calhoun",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 624 9292",
+    "sg:postcode":"30701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ],
+    "sg:website":"http://www.glassusa.com/safety",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936609,
+        102084679,
+        85817247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ehQEQ4TKnkk2mgRqbricy_34.515849_-84.949792@1303262637"
+    },
+    "wof:country":"US",
+    "wof:created":1461925499,
+    "wof:geomhash":"ffbdc5ccc43bde4c873d3d7ad055d0e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084679,
+            "locality_id":85936609,
+            "neighbourhood_id":85817247,
+            "region_id":85688535,
+            "venue_id":740038289
+        }
+    ],
+    "wof:id":740038289,
+    "wof:lastmodified":1461925499,
+    "wof:name":"Glass America",
+    "wof:parent_id":85817247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ]
+},
+  "bbox": [
+    -84.949792,
+    34.515849,
+    -84.949792,
+    34.515849
+],
+  "geometry": {"coordinates":[-84.949792,34.515849],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 722856445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.492313,33.856067,-84.492313,33.856067",
+    "geom:latitude":33.856067,
+    "geom:longitude":-84.492313,
+    "iso:country":"US",
+    "sg:address":"3990 Atlanta Rd SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 435 3647",
+    "sg:postcode":"30080",
+    "sg:province":"GA",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936139,
+        102082313,
+        85812573,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aMk8y8n1lYGMZ31xa4fnh_33.856067_-84.492313@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461889945,
+    "wof:geomhash":"18b5e4a9b6b1c6c104d5101876055c45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85812573,
+            "region_id":85688535,
+            "venue_id":722856445
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":722856445
+        }
+    ],
+    "wof:id":722856445,
+    "wof:lastmodified":1461889945,
+    "wof:name":"Happy Paws Pet Camp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -84.492313,
+    33.856067,
+    -84.492313,
+    33.856067
+],
+  "geometry": {"coordinates":[-84.492313,33.856067],"type":"Point"}
+}

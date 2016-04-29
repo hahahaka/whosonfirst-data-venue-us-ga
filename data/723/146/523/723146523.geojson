@@ -1,0 +1,75 @@
+{
+  "id": 723146523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.986995,30.828197,-83.986995,30.828197",
+    "geom:latitude":30.828197,
+    "geom:longitude":-83.986995,
+    "iso:country":"US",
+    "sg:address":"800 W Jackson St",
+    "sg:city":"Thomasville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 225 4025",
+    "sg:postcode":"31792",
+    "sg:province":"GA",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85852137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_672qW908p1iDCFyzLbJ8KY_30.828197_-83.986995@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896028,
+    "wof:geomhash":"7e618f1cb9be7ca50c333f82c450d070",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85852137,
+            "region_id":85688535,
+            "venue_id":723146523
+        }
+    ],
+    "wof:id":723146523,
+    "wof:lastmodified":1461896028,
+    "wof:name":"Corrections Dept Diversion Ctr",
+    "wof:parent_id":85852137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -83.986995,
+    30.828197,
+    -83.986995,
+    30.828197
+],
+  "geometry": {"coordinates":[-83.98699499999999,30.828197],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 723424249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.765329,32.440461,-81.765329,32.440461",
+    "geom:latitude":32.440461,
+    "geom:longitude":-81.765329,
+    "iso:country":"US",
+    "sg:address":"412 Northside Dr E",
+    "sg:city":"Statesboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 681 8500",
+    "sg:postcode":"30458",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935999,
+        102084405,
+        85823149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BNVEOCLxvXU5LP5IVNt0D_32.440461_-81.765329@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901453,
+    "wof:geomhash":"dd5db66d318dc3dcf7f0c1e1fa666247",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85823149,
+            "region_id":85688535,
+            "venue_id":723424249
+        }
+    ],
+    "wof:id":723424249,
+    "wof:lastmodified":1461901453,
+    "wof:name":"Herringtons Family Practice",
+    "wof:parent_id":85823149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -81.765329,
+    32.440461,
+    -81.765329,
+    32.440461
+],
+  "geometry": {"coordinates":[-81.76532899999999,32.440461],"type":"Point"}
+}

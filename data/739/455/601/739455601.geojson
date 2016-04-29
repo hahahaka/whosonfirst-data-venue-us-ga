@@ -1,0 +1,75 @@
+{
+  "id": 739455601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.945123,34.485872,-84.945123,34.485872",
+    "geom:latitude":34.485872,
+    "geom:longitude":-84.945123,
+    "iso:country":"US",
+    "sg:address":"102 W May St",
+    "sg:city":"Calhoun",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 629 1859",
+    "sg:postcode":"30701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "transmission",
+        "automotive",
+        "exhaust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936609,
+        102084679,
+        85817247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61tDK7AM2F9YT815qhb8Nz_34.485872_-84.945123@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907638,
+    "wof:geomhash":"81f0e0a1c5733621eae377d89d076ad4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084679,
+            "locality_id":85936609,
+            "neighbourhood_id":85817247,
+            "region_id":85688535,
+            "venue_id":739455601
+        }
+    ],
+    "wof:id":739455601,
+    "wof:lastmodified":1461907638,
+    "wof:name":"Gordons Transmission Shop",
+    "wof:parent_id":85817247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "automotive",
+        "exhaust"
+    ]
+},
+  "bbox": [
+    -84.945123,
+    34.485872,
+    -84.945123,
+    34.485872
+],
+  "geometry": {"coordinates":[-84.945123,34.485872],"type":"Point"}
+}

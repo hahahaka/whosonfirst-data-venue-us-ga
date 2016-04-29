@@ -1,0 +1,76 @@
+{
+  "id": 740013321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.491488,33.576156,-84.491488,33.576156",
+    "geom:latitude":33.576156,
+    "geom:longitude":-84.491488,
+    "iso:country":"US",
+    "sg:address":"170 Glace Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 991 2253",
+    "sg:postcode":"30349",
+    "sg:province":"GA",
+    "sg:tags":[
+        "concierge",
+        "assistant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889945,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_023FYVxb73hhOigItrcv8C_33.576156_-84.491488@1303262630"
+    },
+    "wof:country":"US",
+    "wof:created":1461924444,
+    "wof:geomhash":"7b713f53403feffc4ccc07640b1ae189",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85889945,
+            "region_id":85688535,
+            "venue_id":740013321
+        }
+    ],
+    "wof:id":740013321,
+    "wof:lastmodified":1461924444,
+    "wof:name":"Washington, Rodriguez",
+    "wof:parent_id":85889945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concierge",
+        "assistant"
+    ]
+},
+  "bbox": [
+    -84.491488,
+    33.576156,
+    -84.491488,
+    33.576156
+],
+  "geometry": {"coordinates":[-84.491488,33.576156],"type":"Point"}
+}

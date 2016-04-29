@@ -1,0 +1,74 @@
+{
+  "id": 739595905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.093378,33.511123,-82.093378,33.511123",
+    "geom:latitude":33.511123,
+    "geom:longitude":-82.093378,
+    "iso:country":"US",
+    "sg:address":"3849 Washington Rd",
+    "sg:city":"Martinez",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 860 6303",
+    "sg:postcode":"30907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.tiresplus.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AXYM9DT033EWXeVOFaEf0_33.511123_-82.093378@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910314,
+    "wof:geomhash":"3e31e692305054d46daeff4ae9280965",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":739595905
+        }
+    ],
+    "wof:id":739595905,
+    "wof:lastmodified":1461910314,
+    "wof:name":"Tires Plus",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -82.093378,
+    33.511123,
+    -82.093378,
+    33.511123
+],
+  "geometry": {"coordinates":[-82.093378,33.511123],"type":"Point"}
+}

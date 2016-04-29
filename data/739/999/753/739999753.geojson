@@ -1,0 +1,81 @@
+{
+  "id": 739999753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.301399,33.867599,-84.301399,33.867599",
+    "geom:latitude":33.867599,
+    "geom:longitude":-84.301399,
+    "iso:country":"US",
+    "sg:address":"4321 Buford Hwy",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 636 3832",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body",
+        "shop",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102525899,
+        85688535,
+        85633793,
+        85937255,
+        102084539,
+        85807835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xfpY4jiFIXBrdmNU3YHH4_33.867599_-84.301399@1303262627"
+    },
+    "wof:country":"US",
+    "wof:created":1461923918,
+    "wof:geomhash":"bf17efe917def2b7566fa58005e2c326",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525899,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937255,
+            "neighbourhood_id":85807835,
+            "region_id":85688535,
+            "venue_id":739999753
+        }
+    ],
+    "wof:id":739999753,
+    "wof:lastmodified":1461923918,
+    "wof:name":"Crabtree's Auto Painting",
+    "wof:parent_id":102525899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -84.301399,
+    33.867599,
+    -84.301399,
+    33.867599
+],
+  "geometry": {"coordinates":[-84.301399,33.867599],"type":"Point"}
+}

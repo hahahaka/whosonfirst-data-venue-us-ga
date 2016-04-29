@@ -1,0 +1,71 @@
+{
+  "id": 739765559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.359122,34.254255,-84.359122,34.254255",
+    "geom:latitude":34.254255,
+    "geom:longitude":-84.359122,
+    "iso:country":"US",
+    "sg:address":"8008 Cumming Hwy",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/lathemtown/203208-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30115",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85896251,
+        102084635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Jkcrts1eSmOyO3FXFuHYd_34.254255_-84.359122@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914363,
+    "wof:geomhash":"087c7981d3d235afe68aaec1a0bddf9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084635,
+            "neighbourhood_id":85896251,
+            "region_id":85688535,
+            "venue_id":739765559
+        }
+    ],
+    "wof:id":739765559,
+    "wof:lastmodified":1461914363,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85896251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.359122,
+    34.254255,
+    -84.359122,
+    34.254255
+],
+  "geometry": {"coordinates":[-84.359122,34.254255],"type":"Point"}
+}

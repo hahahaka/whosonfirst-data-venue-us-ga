@@ -1,0 +1,72 @@
+{
+  "id": 739765183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.110097,33.958779,-84.110097,33.958779",
+    "geom:latitude":33.958779,
+    "geom:longitude":-84.110097,
+    "iso:country":"US",
+    "sg:address":"3083 Breckinridge Blvd",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/lawrenceville/71356-ledo-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 924 0087",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5q5fIFIzOBYmoBFj64ORMN_33.958779_-84.110097@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914345,
+    "wof:geomhash":"5e4324737f4c5ae6f8561836cbcfc51c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":739765183
+        }
+    ],
+    "wof:id":739765183,
+    "wof:lastmodified":1461914345,
+    "wof:name":"Ledo Pizza",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.110097,
+    33.958779,
+    -84.110097,
+    33.958779
+],
+  "geometry": {"coordinates":[-84.110097,33.958779],"type":"Point"}
+}

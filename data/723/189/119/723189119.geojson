@@ -1,0 +1,71 @@
+{
+  "id": 723189119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.951757,33.854787,-84.951757,33.854787",
+    "geom:latitude":33.854787,
+    "geom:longitude":-84.951757,
+    "iso:country":"US",
+    "sg:address":"346 Bullock Farm Rd",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 443 8208",
+    "sg:postcode":"30157",
+    "sg:province":"GA",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85814589,
+        102084665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iIru7lv25d9d6T3G2QT9c_33.854787_-84.951757@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896863,
+    "wof:geomhash":"b2a49a6f0985327029c454d3698cc42b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "neighbourhood_id":85814589,
+            "region_id":85688535,
+            "venue_id":723189119
+        }
+    ],
+    "wof:id":723189119,
+    "wof:lastmodified":1461896863,
+    "wof:name":"Davis Disposal",
+    "wof:parent_id":85814589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -84.951757,
+    33.854787,
+    -84.951757,
+    33.854787
+],
+  "geometry": {"coordinates":[-84.951757,33.854787],"type":"Point"}
+}

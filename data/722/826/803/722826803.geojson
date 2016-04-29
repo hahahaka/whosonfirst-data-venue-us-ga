@@ -1,0 +1,73 @@
+{
+  "id": 722826803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.990174,34.085027,-83.990174,34.085027",
+    "geom:latitude":34.085027,
+    "geom:longitude":-83.990174,
+    "iso:country":"US",
+    "sg:address":"3699 Buford Dr",
+    "sg:city":"Buford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 904 4942",
+    "sg:postcode":"30052",
+    "sg:province":"GA",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936281,
+        102082967,
+        85858547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2udlugIY4NsL4jgiDSaoo0_34.085027_-83.990174@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461889389,
+    "wof:geomhash":"02160621a3044dff89283ff012908608",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936281,
+            "neighbourhood_id":85858547,
+            "region_id":85688535,
+            "venue_id":722826803
+        }
+    ],
+    "wof:id":722826803,
+    "wof:lastmodified":1461889389,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85858547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.990174,
+    34.085027,
+    -83.990174,
+    34.085027
+],
+  "geometry": {"coordinates":[-83.990174,34.085027],"type":"Point"}
+}

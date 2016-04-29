@@ -1,0 +1,73 @@
+{
+  "id": 722762999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.020649,33.045372,-85.020649,33.045372",
+    "geom:latitude":33.045372,
+    "geom:longitude":-85.020649,
+    "iso:country":"US",
+    "sg:address":"539 Bacon St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 884 0404",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hGRzrTmiH4x3KKd4LF6n1_33.045372_-85.020649@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888176,
+    "wof:geomhash":"6697e1578740cc0ce822fb07a7eef68d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":722762999
+        }
+    ],
+    "wof:id":722762999,
+    "wof:lastmodified":1461888176,
+    "wof:name":"Lagrange Reconditioning Ctr",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -85.020649,
+    33.045372,
+    -85.020649,
+    33.045372
+],
+  "geometry": {"coordinates":[-85.02064900000001,33.045372],"type":"Point"}
+}

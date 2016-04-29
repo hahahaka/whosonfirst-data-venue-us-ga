@@ -1,0 +1,84 @@
+{
+  "id": 739888809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.45723,33.431753,-84.45723,33.431753",
+    "geom:latitude":33.431753,
+    "geom:longitude":-84.45723,
+    "iso:country":"US",
+    "sg:address":"840 Glynn St S",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 817 5415",
+    "sg:postcode":"30214",
+    "sg:province":"GA",
+    "sg:tags":[
+        "super",
+        "drugstore"
+    ],
+    "sg:website":"http://www.publix.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936019,
+        102081687,
+        85833669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LqqAUJq8dGbndrdKQtVCh_33.431753_-84.457230@1303262598"
+    },
+    "wof:country":"US",
+    "wof:created":1461919390,
+    "wof:geomhash":"7bca78b25135373bdf463815c254d238",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081687,
+            "locality_id":85936019,
+            "neighbourhood_id":85833669,
+            "region_id":85688535,
+            "venue_id":739888809
+        }
+    ],
+    "wof:id":739888809,
+    "wof:lastmodified":1461919390,
+    "wof:name":"Publix Super Markets",
+    "wof:parent_id":85833669,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "super",
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -84.45723,
+    33.431753,
+    -84.45723,
+    33.431753
+],
+  "geometry": {"coordinates":[-84.45723,33.431753],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 739824265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.556285,34.02606,-84.556285,34.02606",
+    "geom:latitude":34.02606,
+    "geom:longitude":-84.556285,
+    "iso:country":"US",
+    "sg:address":"3045 Chastain Meadows Pkwy",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 290 3104",
+    "sg:postcode":"30066",
+    "sg:province":"GA",
+    "sg:tags":[
+        "cleaner",
+        "disaster",
+        "recovery",
+        "rug",
+        "relief",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_276PafYqzTtOF3Mn8QhRRW_34.026060_-84.556285@1303262581"
+    },
+    "wof:country":"US",
+    "wof:created":1461916865,
+    "wof:geomhash":"87d61cf6a85421f70077f7a9fb8753b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739824265
+        }
+    ],
+    "wof:id":739824265,
+    "wof:lastmodified":1461916865,
+    "wof:name":"Epic Response",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "disaster",
+        "recovery",
+        "rug",
+        "relief",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -84.556285,
+    34.02606,
+    -84.556285,
+    34.02606
+],
+  "geometry": {"coordinates":[-84.556285,34.02606],"type":"Point"}
+}

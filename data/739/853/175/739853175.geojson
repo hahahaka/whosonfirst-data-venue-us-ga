@@ -1,0 +1,77 @@
+{
+  "id": 739853175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.153382,33.937584,-84.153382,33.937584",
+    "geom:latitude":33.937584,
+    "geom:longitude":-84.153382,
+    "iso:country":"US",
+    "sg:address":"1805 Shackleford Ct Ste 200",
+    "sg:city":"Norcross",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 924 1919",
+    "sg:postcode":"30093",
+    "sg:province":"GA",
+    "sg:tags":[
+        "college"
+    ],
+    "sg:website":"www.shc.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YzvhD973stopEoXS9crOk_33.937584_-84.153382@1303262589"
+    },
+    "wof:country":"US",
+    "wof:created":1461918043,
+    "wof:geomhash":"685618aa9269250fa6a9a6bbabe7f72a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":739853175
+        }
+    ],
+    "wof:id":739853175,
+    "wof:lastmodified":1461918043,
+    "wof:name":"Spring Hill College",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [
+    -84.153382,
+    33.937584,
+    -84.153382,
+    33.937584
+],
+  "geometry": {"coordinates":[-84.15338199999999,33.937584],"type":"Point"}
+}

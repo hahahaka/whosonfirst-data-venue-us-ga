@@ -1,0 +1,77 @@
+{
+  "id": 739826151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.48143,33.903118,-84.48143,33.903118",
+    "geom:latitude":33.903118,
+    "geom:longitude":-84.48143,
+    "iso:country":"US",
+    "sg:address":"2470 Windy Hill Rd SE",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 964 5648",
+    "sg:postcode":"30067",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shuttle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818985,
+        102082313,
+        85845875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aAeRdmhjMD62yTtsxStgl_33.903118_-84.481430@1303262582"
+    },
+    "wof:country":"US",
+    "wof:created":1461916938,
+    "wof:geomhash":"1e58883b514a34fe9f8db11a27482cc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85818985,
+            "region_id":85688535,
+            "venue_id":739826151
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":739826151
+        }
+    ],
+    "wof:id":739826151,
+    "wof:lastmodified":1461916938,
+    "wof:name":"Heritage Transport Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle"
+    ]
+},
+  "bbox": [
+    -84.48143,
+    33.903118,
+    -84.48143,
+    33.903118
+],
+  "geometry": {"coordinates":[-84.48143,33.903118],"type":"Point"}
+}

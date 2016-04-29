@@ -1,0 +1,75 @@
+{
+  "id": 739409613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.961393,30.850625,-83.961393,30.850625",
+    "geom:latitude":30.850625,
+    "geom:longitude":-83.961393,
+    "iso:country":"US",
+    "sg:address":"1221 E Jackson St",
+    "sg:city":"Thomasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 551 9996",
+    "sg:postcode":"31792",
+    "sg:province":"GA",
+    "sg:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85833309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZA0XOFKNQNAUnm4txEr6d_30.850625_-83.961393@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461906760,
+    "wof:geomhash":"4e3ba1b03e593b36930d169d87b9f8ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85833309,
+            "region_id":85688535,
+            "venue_id":739409613
+        }
+    ],
+    "wof:id":739409613,
+    "wof:lastmodified":1461906760,
+    "wof:name":"Tint Works",
+    "wof:parent_id":85833309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ]
+},
+  "bbox": [
+    -83.961393,
+    30.850625,
+    -83.961393,
+    30.850625
+],
+  "geometry": {"coordinates":[-83.961393,30.850625],"type":"Point"}
+}

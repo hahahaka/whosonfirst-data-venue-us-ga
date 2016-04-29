@@ -1,0 +1,73 @@
+{
+  "id": 722960435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.066329,33.578226,-85.066329,33.578226",
+    "geom:latitude":33.578226,
+    "geom:longitude":-85.066329,
+    "iso:country":"US",
+    "sg:address":"420 West Ave",
+    "sg:city":"Carrollton",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 214 5854",
+    "sg:postcode":"30117",
+    "sg:province":"GA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937055,
+        102081719,
+        85829651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6N7xqWT4zWaqzzbr6PQoH7_33.578226_-85.066329@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461892045,
+    "wof:geomhash":"a9da6c6b86f7544c02a025149e28d4ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081719,
+            "locality_id":85937055,
+            "neighbourhood_id":85829651,
+            "region_id":85688535,
+            "venue_id":722960435
+        }
+    ],
+    "wof:id":722960435,
+    "wof:lastmodified":1461892045,
+    "wof:name":"Lokal Taxi",
+    "wof:parent_id":85829651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -85.066329,
+    33.578226,
+    -85.066329,
+    33.578226
+],
+  "geometry": {"coordinates":[-85.066329,33.578226],"type":"Point"}
+}

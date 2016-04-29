@@ -1,0 +1,85 @@
+{
+  "id": 722840449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.153894,31.609388,-84.153894,31.609388",
+    "geom:latitude":31.609388,
+    "geom:longitude":-84.153894,
+    "iso:country":"US",
+    "sg:address":"104 Philema Rd",
+    "sg:city":"Albany",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 883 6114",
+    "sg:postcode":"31701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "filling",
+        "station",
+        "liquor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85829381,
+        102084427,
+        102191575,
+        85935991,
+        85825749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OmycVZ9TvRPEC2vrCoXEG_31.609388_-84.153894@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461889637,
+    "wof:geomhash":"a640584d1decd286f5fb925bac7cb5c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084427,
+            "neighbourhood_id":85829381,
+            "region_id":85688535,
+            "venue_id":722840449
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":85825749,
+            "region_id":85688535,
+            "venue_id":722840449
+        }
+    ],
+    "wof:id":722840449,
+    "wof:lastmodified":1461889637,
+    "wof:name":"Stocks Market & Package Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "filling",
+        "station",
+        "liquor"
+    ]
+},
+  "bbox": [
+    -84.153894,
+    31.609388,
+    -84.153894,
+    31.609388
+],
+  "geometry": {"coordinates":[-84.15389399999999,31.609388],"type":"Point"}
+}

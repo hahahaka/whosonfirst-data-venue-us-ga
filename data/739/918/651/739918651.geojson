@@ -1,0 +1,85 @@
+{
+  "id": 739918651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.395263,33.748091,-84.395263,33.748091",
+    "geom:latitude":33.748091,
+    "geom:longitude":-84.395263,
+    "iso:country":"US",
+    "sg:address":"233 Peachtree St NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 688 3355",
+    "sg:postcode":"30303",
+    "sg:province":"GA",
+    "sg:tags":[
+        "wi-fi",
+        "espresso",
+        "hotspot",
+        "restaurant"
+    ],
+    "sg:website":"http://www.cariboucoffee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gTF9T8ELCNKtckUnWsGB4_33.748091_-84.395263@1303262606"
+    },
+    "wof:country":"US",
+    "wof:created":1461920535,
+    "wof:geomhash":"8b6ab5f5deacead6a80f98bbbb2b462d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872071,
+            "region_id":85688535,
+            "venue_id":739918651
+        }
+    ],
+    "wof:id":739918651,
+    "wof:lastmodified":1461920535,
+    "wof:name":"Caribou Coffee Company",
+    "wof:parent_id":85872071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wi-fi",
+        "espresso",
+        "hotspot",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -84.395263,
+    33.748091,
+    -84.395263,
+    33.748091
+],
+  "geometry": {"coordinates":[-84.395263,33.748091],"type":"Point"}
+}

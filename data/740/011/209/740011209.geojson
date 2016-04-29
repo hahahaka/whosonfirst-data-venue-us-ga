@@ -1,0 +1,89 @@
+{
+  "id": 740011209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.343248,33.929397,-84.343248,33.929397",
+    "geom:latitude":33.929397,
+    "geom:longitude":-84.343248,
+    "iso:country":"US",
+    "sg:address":"4531 Olde Perimeter Way",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 352 9323",
+    "sg:postcode":"30346",
+    "sg:province":"GA",
+    "sg:website":"www.panerabread.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85890003,
+        420559925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qBOX1TYCvwYHKJoMJiz2N_33.929397_-84.343248@1303262630"
+    },
+    "wof:country":"US",
+    "wof:created":1461924364,
+    "wof:geomhash":"cab9ceb3b37d911846db6b8205e504bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890003,
+            "region_id":85688535,
+            "venue_id":740011209
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":420559925,
+            "region_id":85688535,
+            "venue_id":740011209
+        }
+    ],
+    "wof:id":740011209,
+    "wof:lastmodified":1461924364,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.343248,
+    33.929397,
+    -84.343248,
+    33.929397
+],
+  "geometry": {"coordinates":[-84.343248,33.929397],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 739773907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.311297,30.820872,-83.311297,30.820872",
+    "geom:latitude":30.820872,
+    "geom:longitude":-83.311297,
+    "iso:country":"US",
+    "sg:address":"1840 W Hill Ave",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/valdosta/202604-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ia5njhY7OzYeCh3KSRABd_30.820872_-83.311297@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914706,
+    "wof:geomhash":"db61b34e2117797d55bcc92eaaf245eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843241,
+            "region_id":85688535,
+            "venue_id":739773907
+        }
+    ],
+    "wof:id":739773907,
+    "wof:lastmodified":1461914706,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85843241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.311297,
+    30.820872,
+    -83.311297,
+    30.820872
+],
+  "geometry": {"coordinates":[-83.311297,30.820872],"type":"Point"}
+}

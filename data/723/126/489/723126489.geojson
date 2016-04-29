@@ -1,0 +1,77 @@
+{
+  "id": 723126489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.988507,33.964154,-83.988507,33.964154",
+    "geom:latitude":33.964154,
+    "geom:longitude":-83.988507,
+    "iso:country":"US",
+    "sg:address":"783 N Clayton St",
+    "sg:city":"Lawrenceville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 682 4343",
+    "sg:postcode":"30045",
+    "sg:province":"GA",
+    "sg:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936297,
+        102082967,
+        85847023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZyirgFFJC14D4QGRajora_33.964154_-83.988507@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461895629,
+    "wof:geomhash":"0f0115fe5d9ca58783a00be449c71186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936297,
+            "neighbourhood_id":85847023,
+            "region_id":85688535,
+            "venue_id":723126489
+        }
+    ],
+    "wof:id":723126489,
+    "wof:lastmodified":1461895629,
+    "wof:name":"ACT Svc",
+    "wof:parent_id":85847023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ]
+},
+  "bbox": [
+    -83.988507,
+    33.964154,
+    -83.988507,
+    33.964154
+],
+  "geometry": {"coordinates":[-83.988507,33.964154],"type":"Point"}
+}

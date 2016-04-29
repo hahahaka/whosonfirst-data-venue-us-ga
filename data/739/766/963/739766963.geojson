@@ -1,0 +1,73 @@
+{
+  "id": 739766963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.900593,33.16673,-84.900593,33.16673",
+    "geom:latitude":33.16673,
+    "geom:longitude":-84.900593,
+    "iso:country":"US",
+    "sg:address":"1829 E Main St",
+    "sg:city":"Hogansville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/hogansville/203315-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30230",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EC6nxOj2iLe63IOZJJA9w_33.166730_-84.900593@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914420,
+    "wof:geomhash":"3002ea796e002be3af136026cf1318f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739766963
+        }
+    ],
+    "wof:id":739766963,
+    "wof:lastmodified":1461914420,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.900593,
+    33.16673,
+    -84.900593,
+    33.16673
+],
+  "geometry": {"coordinates":[-84.900593,33.16673],"type":"Point"}
+}

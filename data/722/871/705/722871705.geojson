@@ -1,0 +1,83 @@
+{
+  "id": 722871705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.091585,32.076591,-81.091585,32.076591",
+    "geom:latitude":32.076591,
+    "geom:longitude":-81.091585,
+    "iso:country":"US",
+    "sg:address":"109 E Oglethorpe Ave",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 447 5566",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85880901,
+        85811497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tO0txkKcngyFvT8GhNooQ_32.076591_-81.091585@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461890227,
+    "wof:geomhash":"4fc49121fbf127bc7c4a0b4f7e5ddde9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880901,
+            "region_id":85688535,
+            "venue_id":722871705
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85811497,
+            "region_id":85688535,
+            "venue_id":722871705
+        }
+    ],
+    "wof:id":722871705,
+    "wof:lastmodified":1461890227,
+    "wof:name":"Chemical Dependence Counseling",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -81.091585,
+    32.076591,
+    -81.091585,
+    32.076591
+],
+  "geometry": {"coordinates":[-81.09158499999999,32.076591],"type":"Point"}
+}

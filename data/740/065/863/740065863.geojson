@@ -1,0 +1,76 @@
+{
+  "id": 740065863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.310259,30.846895,-83.310259,30.846895",
+    "geom:latitude":30.846895,
+    "geom:longitude":-83.310259,
+    "iso:country":"US",
+    "sg:address":"1337 Baytree Rd",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Driving School",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 245 9300",
+    "sg:postcode":"31602",
+    "sg:province":"GA",
+    "sg:tags":[
+        "instruction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85814215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10T7IQHz1HmjM095lB3k1D_30.846895_-83.310259@1303262644"
+    },
+    "wof:country":"US",
+    "wof:created":1461926789,
+    "wof:geomhash":"26ee6cc67cdb6a2fcc382e761d8a986c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85814215,
+            "region_id":85688535,
+            "venue_id":740065863
+        }
+    ],
+    "wof:id":740065863,
+    "wof:lastmodified":1461926789,
+    "wof:name":"The Motorcycle Shop",
+    "wof:parent_id":85814215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction"
+    ]
+},
+  "bbox": [
+    -83.310259,
+    30.846895,
+    -83.310259,
+    30.846895
+],
+  "geometry": {"coordinates":[-83.310259,30.846895],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 739483797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.109259,32.045571,-81.109259,32.045571",
+    "geom:latitude":32.045571,
+    "geom:longitude":-81.109259,
+    "iso:country":"US",
+    "sg:address":"3713 Montgomery St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 232 9471",
+    "sg:postcode":"31405",
+    "sg:province":"GA",
+    "sg:tags":[
+        "plaza",
+        "truck",
+        "stops"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85880893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18saCzvOfJ0seOYkiwx7Fp_32.045571_-81.109259@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461908141,
+    "wof:geomhash":"8323ec89b6204892bdd485e5697312eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880893,
+            "region_id":85688535,
+            "venue_id":739483797
+        }
+    ],
+    "wof:id":739483797,
+    "wof:lastmodified":1461908141,
+    "wof:name":"Montgomery Plaza",
+    "wof:parent_id":85880893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plaza",
+        "truck",
+        "stops"
+    ]
+},
+  "bbox": [
+    -81.109259,
+    32.045571,
+    -81.109259,
+    32.045571
+],
+  "geometry": {"coordinates":[-81.10925899999999,32.045571],"type":"Point"}
+}

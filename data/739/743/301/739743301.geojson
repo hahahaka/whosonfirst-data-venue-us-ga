@@ -1,0 +1,77 @@
+{
+  "id": 739743301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.531502,33.980301,-84.531502,33.980301",
+    "geom:latitude":33.980301,
+    "geom:longitude":-84.531502,
+    "iso:country":"US",
+    "sg:address":"1267 Cobb Industrial Dr",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 428 5555",
+    "sg:postcode":"30066",
+    "sg:province":"GA",
+    "sg:tags":[
+        "tea",
+        "coffee",
+        "blend",
+        "package"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936135,
+        102082313,
+        85857049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UNhKGyz1uFxiolWz7zQil_33.980839_-84.531886@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461913500,
+    "wof:geomhash":"7dd03d1da32e03e37cd64a85468f5d3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936135,
+            "neighbourhood_id":85857049,
+            "region_id":85688535,
+            "venue_id":739743301
+        }
+    ],
+    "wof:id":739743301,
+    "wof:lastmodified":1461913500,
+    "wof:name":"Southern Tea",
+    "wof:parent_id":85857049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee",
+        "blend",
+        "package"
+    ]
+},
+  "bbox": [
+    -84.531502,
+    33.980301,
+    -84.531502,
+    33.980301
+],
+  "geometry": {"coordinates":[-84.531502,33.980301],"type":"Point"}
+}

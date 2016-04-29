@@ -1,0 +1,71 @@
+{
+  "id": 722555755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.167086,33.524825,-82.167086,33.524825",
+    "geom:latitude":33.524825,
+    "geom:longitude":-82.167086,
+    "iso:country":"US",
+    "sg:address":"4769 McGinty Dr",
+    "sg:city":"Evans",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 863 9102",
+    "sg:postcode":"30809",
+    "sg:province":"GA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DbJmANTUmKBwDavKCnsdp_33.524825_-82.167086@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461884125,
+    "wof:geomhash":"ca9795453deefdd71e922e513b4c11c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":722555755
+        }
+    ],
+    "wof:id":722555755,
+    "wof:lastmodified":1461884125,
+    "wof:name":"Pardues Plumbing",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.167086,
+    33.524825,
+    -82.167086,
+    33.524825
+],
+  "geometry": {"coordinates":[-82.167086,33.524825],"type":"Point"}
+}

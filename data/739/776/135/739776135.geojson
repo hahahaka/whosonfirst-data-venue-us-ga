@@ -1,0 +1,85 @@
+{
+  "id": 739776135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.057049,33.514089,-82.057049,33.514089",
+    "geom:latitude":33.514089,
+    "geom:longitude":-82.057049,
+    "iso:country":"US",
+    "sg:address":"3149 Washington Rd",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/augusta/172533-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 860 1400",
+    "sg:postcode":"30907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936989,
+        102082951,
+        85807617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jcoiM3AqiZB9iWaw1Fq4Y_33.514032_-82.056411@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461914786,
+    "wof:geomhash":"ca048ed70b1485a965e7cdf94c6c97c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082951,
+            "locality_id":85936989,
+            "neighbourhood_id":85807617,
+            "region_id":85688535,
+            "venue_id":739776135
+        }
+    ],
+    "wof:id":739776135,
+    "wof:lastmodified":1461914786,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85807617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -82.057049,
+    33.514089,
+    -82.057049,
+    33.514089
+],
+  "geometry": {"coordinates":[-82.05704900000001,33.514089],"type":"Point"}
+}

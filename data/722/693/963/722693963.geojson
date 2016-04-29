@@ -1,0 +1,75 @@
+{
+  "id": 722693963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.957525,32.535295,-84.957525,32.535295",
+    "geom:latitude":32.535295,
+    "geom:longitude":-84.957525,
+    "iso:country":"US",
+    "sg:address":"6440 W Hamilton Park Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 660 8435",
+    "sg:postcode":"31909",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85820405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ToAki9Hd8JyJ6UL2mLCKO_32.535295_-84.957525@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886853,
+    "wof:geomhash":"6448d0dad9892caa3cbe9ba6d56bd0d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85820405,
+            "region_id":85688535,
+            "venue_id":722693963
+        }
+    ],
+    "wof:id":722693963,
+    "wof:lastmodified":1461886853,
+    "wof:name":"Hughston Clinic",
+    "wof:parent_id":85820405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.957525,
+    32.535295,
+    -84.957525,
+    32.535295
+],
+  "geometry": {"coordinates":[-84.957525,32.535295],"type":"Point"}
+}

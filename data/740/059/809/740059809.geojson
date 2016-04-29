@@ -1,0 +1,85 @@
+{
+  "id": 740059809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.080393,31.989909,-81.080393,31.989909",
+    "geom:latitude":31.989909,
+    "geom:longitude":-81.080393,
+    "iso:country":"US",
+    "sg:address":"1955 E Montgomery Xrd",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 355 3335",
+    "sg:postcode":"31406",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85832945,
+        102082337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DEmv1sQsrB9QEXqFSbrDw_31.989909_-81.080393@1303262642"
+    },
+    "wof:country":"US",
+    "wof:created":1461926520,
+    "wof:geomhash":"5618b57536baabe6b4e42a7f2c4ca6f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "neighbourhood_id":85832945,
+            "region_id":85688535,
+            "venue_id":740059809
+        }
+    ],
+    "wof:id":740059809,
+    "wof:lastmodified":1461926520,
+    "wof:name":"Subway",
+    "wof:parent_id":85832945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ]
+},
+  "bbox": [
+    -81.080393,
+    31.989909,
+    -81.080393,
+    31.989909
+],
+  "geometry": {"coordinates":[-81.080393,31.989909],"type":"Point"}
+}

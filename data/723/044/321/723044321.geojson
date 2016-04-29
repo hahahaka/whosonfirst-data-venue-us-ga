@@ -1,0 +1,82 @@
+{
+  "id": 723044321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.096963,32.078028,-81.096963,32.078028",
+    "geom:latitude":32.078028,
+    "geom:longitude":-81.096963,
+    "iso:country":"US",
+    "sg:address":"152 Montgomery St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 231 8891",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85880901,
+        85880917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cG9hpfi0hDmEqD3guttfw_32.078028_-81.096963@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461893902,
+    "wof:geomhash":"f31481f33429a86d22ba2e439ae4ab8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880901,
+            "region_id":85688535,
+            "venue_id":723044321
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880917,
+            "region_id":85688535,
+            "venue_id":723044321
+        }
+    ],
+    "wof:id":723044321,
+    "wof:lastmodified":1461893902,
+    "wof:name":"Chao's Chinese Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -81.096963,
+    32.078028,
+    -81.096963,
+    32.078028
+],
+  "geometry": {"coordinates":[-81.096963,32.078028],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 739768919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.473201,33.888317,-84.473201,33.888317",
+    "geom:latitude":33.888317,
+    "geom:longitude":-84.473201,
+    "iso:country":"US",
+    "sg:address":"2651 Cobb Pkwy",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/northeast-cobb/243075-baskin-robbins/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 952 2009",
+    "sg:postcode":"30339",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818985,
+        102082313,
+        102191575,
+        85936139,
+        85813197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hUZ9AgzL3qYZZl7xeWx19_33.888317_-84.473201@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914504,
+    "wof:geomhash":"754a27e3f37992b3bed29e6b533e2316",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85818985,
+            "region_id":85688535,
+            "venue_id":739768919
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85813197,
+            "region_id":85688535,
+            "venue_id":739768919
+        }
+    ],
+    "wof:id":739768919,
+    "wof:lastmodified":1461914504,
+    "wof:name":"Baskin-Robbins",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -84.473201,
+    33.888317,
+    -84.473201,
+    33.888317
+],
+  "geometry": {"coordinates":[-84.473201,33.888317],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 739765235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.078769,34.001887,-84.078769,34.001887",
+    "geom:latitude":34.001887,
+    "geom:longitude":-84.078769,
+    "iso:country":"US",
+    "sg:address":"1160 Old Peachtree Rd",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/suwanee-duluth/233527-magnolia-bakery-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 584 1030",
+    "sg:postcode":"30097",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aXsPRngIdQcys9sICyhih_34.001887_-84.078769@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914347,
+    "wof:geomhash":"98fd815d0400d98425008a4cd773d790",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":739765235
+        }
+    ],
+    "wof:id":739765235,
+    "wof:lastmodified":1461914347,
+    "wof:name":"Magnolia Bakery Cafe",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -84.078769,
+    34.001887,
+    -84.078769,
+    34.001887
+],
+  "geometry": {"coordinates":[-84.07876899999999,34.001887],"type":"Point"}
+}

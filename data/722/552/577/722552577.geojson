@@ -1,0 +1,71 @@
+{
+  "id": 722552577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.682266,30.775367,-81.682266,30.775367",
+    "geom:latitude":30.775367,
+    "geom:longitude":-81.682266,
+    "iso:country":"US",
+    "sg:address":"165 Juniper St",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 554 4552",
+    "sg:postcode":"31548",
+    "sg:province":"GA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937043,
+        102081693,
+        85852055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tYQhOcMo55jy9LiPAIHVJ_30.775367_-81.682266@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461884057,
+    "wof:geomhash":"8a908ceec19e675e4498c6d23ac6723c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081693,
+            "locality_id":85937043,
+            "neighbourhood_id":85852055,
+            "region_id":85688535,
+            "venue_id":722552577
+        }
+    ],
+    "wof:id":722552577,
+    "wof:lastmodified":1461884057,
+    "wof:name":"Gentle Dental Care",
+    "wof:parent_id":85852055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -81.682266,
+    30.775367,
+    -81.682266,
+    30.775367
+],
+  "geometry": {"coordinates":[-81.682266,30.775367],"type":"Point"}
+}

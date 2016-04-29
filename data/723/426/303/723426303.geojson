@@ -1,0 +1,73 @@
+{
+  "id": 723426303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.181013,32.990386,-84.181013,32.990386",
+    "geom:latitude":32.990386,
+    "geom:longitude":-84.181013,
+    "iso:country":"US",
+    "sg:address":"107 Midway Rd",
+    "sg:city":"Barnesville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 358 8206",
+    "sg:postcode":"30204",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936343,
+        102084425,
+        85816847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YMrO7xQ8L1FYy6jWi2hKd_32.990386_-84.181013@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901502,
+    "wof:geomhash":"d8f7f50db0945523f47e418013b4e1a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084425,
+            "locality_id":85936343,
+            "neighbourhood_id":85816847,
+            "region_id":85688535,
+            "venue_id":723426303
+        }
+    ],
+    "wof:id":723426303,
+    "wof:lastmodified":1461901502,
+    "wof:name":"S & R Automotive Repair",
+    "wof:parent_id":85816847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.181013,
+    32.990386,
+    -84.181013,
+    32.990386
+],
+  "geometry": {"coordinates":[-84.18101299999999,32.990386],"type":"Point"}
+}

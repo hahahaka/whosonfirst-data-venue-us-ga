@@ -1,0 +1,73 @@
+{
+  "id": 739443821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.943967,34.480737,-84.943967,34.480737",
+    "geom:latitude":34.480737,
+    "geom:longitude":-84.943967,
+    "iso:country":"US",
+    "sg:address":"487 W Belmont Dr",
+    "sg:city":"Calhoun",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 602 1841",
+    "sg:postcode":"30701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936609,
+        102084679,
+        85817247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1izQ1F736seo6Hg6KYjWRd_34.480737_-84.943967@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907434,
+    "wof:geomhash":"e7794e5c14d5fc3edd5bbcbe93529935",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084679,
+            "locality_id":85936609,
+            "neighbourhood_id":85817247,
+            "region_id":85688535,
+            "venue_id":739443821
+        }
+    ],
+    "wof:id":739443821,
+    "wof:lastmodified":1461907434,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85817247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -84.943967,
+    34.480737,
+    -84.943967,
+    34.480737
+],
+  "geometry": {"coordinates":[-84.943967,34.480737],"type":"Point"}
+}

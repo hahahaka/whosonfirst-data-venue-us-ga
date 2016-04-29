@@ -1,0 +1,83 @@
+{
+  "id": 739798765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.24064,33.701661,-84.24064,33.701661",
+    "geom:latitude":33.701661,
+    "geom:longitude":-84.24064,
+    "iso:country":"US",
+    "sg:address":"3675 Calumet Rd Ste 1B",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 871 4808",
+    "sg:postcode":"30034",
+    "sg:province":"GA",
+    "sg:tags":[
+        "delivery",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85816491,
+        102084539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5N4g5z0SFbKgUuMNEvWxDp_33.701661_-84.240640@1303262575"
+    },
+    "wof:country":"US",
+    "wof:created":1461915729,
+    "wof:geomhash":"e227e1e2e52c7fa110e38e7b0d623112",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739798765
+        }
+    ],
+    "wof:id":739798765,
+    "wof:lastmodified":1461915729,
+    "wof:name":"Vacation Intrln Plnnrs, Trvl",
+    "wof:parent_id":85816491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.24064,
+    33.701661,
+    -84.24064,
+    33.701661
+],
+  "geometry": {"coordinates":[-84.24064,33.701661],"type":"Point"}
+}

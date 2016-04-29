@@ -1,0 +1,72 @@
+{
+  "id": 739776317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.688935,32.901678,-83.688935,32.901678",
+    "geom:latitude":32.901678,
+    "geom:longitude":-83.688935,
+    "iso:country":"US",
+    "sg:address":"105 Riverside Pkwy",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/macon/50949-back-yard-burgers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 471 7373",
+    "sg:postcode":"31210",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85833281,
+        102084373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DTuBrmTuO5dyMIVoLA22O_32.901749_-83.688845@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461914792,
+    "wof:geomhash":"fe2241f43f9b75b54b69030b6dddb85e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084373,
+            "neighbourhood_id":85833281,
+            "region_id":85688535,
+            "venue_id":739776317
+        }
+    ],
+    "wof:id":739776317,
+    "wof:lastmodified":1461914792,
+    "wof:name":"Back Yard Burgers",
+    "wof:parent_id":85833281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.688935,
+    32.901678,
+    -83.688935,
+    32.901678
+],
+  "geometry": {"coordinates":[-83.688935,32.901678],"type":"Point"}
+}

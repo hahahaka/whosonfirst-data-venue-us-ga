@@ -1,0 +1,90 @@
+{
+  "id": 739850547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.222284,33.973194,-84.222284,33.973194",
+    "geom:latitude":33.973194,
+    "geom:longitude":-84.222284,
+    "iso:country":"US",
+    "sg:address":"5550 Triangle Pkwy",
+    "sg:city":"Norcross",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 684 8700",
+    "sg:postcode":"30092",
+    "sg:province":"GA",
+    "sg:tags":[
+        "delivery",
+        "mail",
+        "container",
+        "broker",
+        "shipping"
+    ],
+    "sg:website":"http://www.dhl.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23tvnZcv6tonONyAFePaOl_33.973194_-84.222284@1303262588"
+    },
+    "wof:country":"US",
+    "wof:created":1461917937,
+    "wof:geomhash":"23d86948f54ee80be0e28b2fa499c1b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":739850547
+        }
+    ],
+    "wof:id":739850547,
+    "wof:lastmodified":1461917937,
+    "wof:name":"Worldwide Express",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "mail",
+        "container",
+        "broker",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -84.222284,
+    33.973194,
+    -84.222284,
+    33.973194
+],
+  "geometry": {"coordinates":[-84.222284,33.973194],"type":"Point"}
+}

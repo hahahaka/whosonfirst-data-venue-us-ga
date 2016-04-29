@@ -1,0 +1,74 @@
+{
+  "id": 739766965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.900922,33.166943,-84.900922,33.166943",
+    "geom:latitude":33.166943,
+    "geom:longitude":-84.900922,
+    "iso:country":"US",
+    "sg:address":"1790 E Main St",
+    "sg:city":"Hogansville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/hogansville/132476-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 637 8484",
+    "sg:postcode":"30230",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OrBAPzuRLIMXI3p3GowpY_33.166943_-84.900922@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914420,
+    "wof:geomhash":"3619c47c4099c8ec56653e04fdda6ec6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739766965
+        }
+    ],
+    "wof:id":739766965,
+    "wof:lastmodified":1461914420,
+    "wof:name":"Subway",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.900922,
+    33.166943,
+    -84.900922,
+    33.166943
+],
+  "geometry": {"coordinates":[-84.90092199999999,33.166943],"type":"Point"}
+}

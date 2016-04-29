@@ -1,0 +1,85 @@
+{
+  "id": 740022569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.828221,34.298269,-83.828221,34.298269",
+    "geom:latitude":34.298269,
+    "geom:longitude":-83.828221,
+    "iso:country":"US",
+    "sg:address":"332 Spring St SW",
+    "sg:city":"Gainesville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 534 4466",
+    "sg:postcode":"30501",
+    "sg:province":"GA",
+    "sg:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ],
+    "sg:website":"http://www.northgeorgiaautoglass.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936861,
+        102083629,
+        85836659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45UpdKtArzqf4DEbo5AIzr_34.298269_-83.828221@1303262633"
+    },
+    "wof:country":"US",
+    "wof:created":1461924796,
+    "wof:geomhash":"268fc9551e7db7ddcf58d076e6d15d90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083629,
+            "locality_id":85936861,
+            "neighbourhood_id":85836659,
+            "region_id":85688535,
+            "venue_id":740022569
+        }
+    ],
+    "wof:id":740022569,
+    "wof:lastmodified":1461924796,
+    "wof:name":"North Georgia Auto Glass",
+    "wof:parent_id":85836659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ]
+},
+  "bbox": [
+    -83.828221,
+    34.298269,
+    -83.828221,
+    34.298269
+],
+  "geometry": {"coordinates":[-83.828221,34.298269],"type":"Point"}
+}

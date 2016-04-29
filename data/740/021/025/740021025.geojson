@@ -1,0 +1,79 @@
+{
+  "id": 740021025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.765391,32.435581,-81.765391,32.435581",
+    "geom:latitude":32.435581,
+    "geom:longitude":-81.765391,
+    "iso:country":"US",
+    "sg:address":"600 Lovett St",
+    "sg:city":"Statesboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 764 2761",
+    "sg:postcode":"30458",
+    "sg:province":"GA",
+    "sg:tags":[
+        "frozen",
+        "dessert"
+    ],
+    "sg:website":"http://www.brustersicecream.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935999,
+        102084405,
+        85823149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lFlkFgvMV8xVSebSaYcPM_32.435581_-81.765391@1303262632"
+    },
+    "wof:country":"US",
+    "wof:created":1461924742,
+    "wof:geomhash":"86c493c168a2751d2c1d265251a6ccd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85823149,
+            "region_id":85688535,
+            "venue_id":740021025
+        }
+    ],
+    "wof:id":740021025,
+    "wof:lastmodified":1461924742,
+    "wof:name":"Bruster's Real Ice Cream",
+    "wof:parent_id":85823149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert"
+    ]
+},
+  "bbox": [
+    -81.765391,
+    32.435581,
+    -81.765391,
+    32.435581
+],
+  "geometry": {"coordinates":[-81.76539099999999,32.435581],"type":"Point"}
+}

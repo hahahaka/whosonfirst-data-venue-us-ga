@@ -1,0 +1,83 @@
+{
+  "id": 739877821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.445419,34.46574,-84.445419,34.46574",
+    "geom:latitude":34.46574,
+    "geom:longitude":-84.445419,
+    "iso:country":"US",
+    "sg:address":"938 W Church St",
+    "sg:city":"Jasper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 200 1082",
+    "sg:postcode":"30143",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgery",
+        "surgeons",
+        "oral",
+        "dentists-orthodontists"
+    ],
+    "sg:website":"http://atlanta.citysearch.com/profile/external/652479290/jasper_ga/jasper_dental_associates.html?publisher=yellowpages&reference_id=7&placement=ypwebsitemip",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85846359,
+        102083619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2J6uXDy0kHdgSKLoSP1voq_34.465740_-84.445419@1303262595"
+    },
+    "wof:country":"US",
+    "wof:created":1461918983,
+    "wof:geomhash":"85f809e6662187cf9bdcf5686a611448",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083619,
+            "neighbourhood_id":85846359,
+            "region_id":85688535,
+            "venue_id":739877821
+        }
+    ],
+    "wof:id":739877821,
+    "wof:lastmodified":1461918983,
+    "wof:name":"Jasper Dental Associates",
+    "wof:parent_id":85846359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgery",
+        "surgeons",
+        "oral",
+        "dentists-orthodontists"
+    ]
+},
+  "bbox": [
+    -84.445419,
+    34.46574,
+    -84.445419,
+    34.46574
+],
+  "geometry": {"coordinates":[-84.445419,34.46574],"type":"Point"}
+}

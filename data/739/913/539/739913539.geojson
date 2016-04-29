@@ -1,0 +1,84 @@
+{
+  "id": 739913539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.388275,33.756594,-84.388275,33.756594",
+    "geom:latitude":33.756594,
+    "geom:longitude":-84.388275,
+    "iso:country":"US",
+    "sg:address":"113 Peachtree St NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 222 0099",
+    "sg:postcode":"30303",
+    "sg:province":"GA",
+    "sg:tags":[
+        "employer"
+    ],
+    "sg:website":"http://www.aiaga.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85819463,
+        85866901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PfpphNtTNJ06dlsy5h763_33.756594_-84.388275@1303262605"
+    },
+    "wof:country":"US",
+    "wof:created":1461920344,
+    "wof:geomhash":"509551856e397e699f97445da9049905",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85819463,
+            "region_id":85688535,
+            "venue_id":739913539
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85866901,
+            "region_id":85688535,
+            "venue_id":739913539
+        }
+    ],
+    "wof:id":739913539,
+    "wof:lastmodified":1461920344,
+    "wof:name":"A I A Georgia",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "employer"
+    ]
+},
+  "bbox": [
+    -84.388275,
+    33.756594,
+    -84.388275,
+    33.756594
+],
+  "geometry": {"coordinates":[-84.38827499999999,33.756594],"type":"Point"}
+}

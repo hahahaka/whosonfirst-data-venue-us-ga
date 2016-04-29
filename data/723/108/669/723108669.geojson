@@ -1,0 +1,71 @@
+{
+  "id": 723108669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.79004,30.79141,-83.79004,30.79141",
+    "geom:latitude":30.79141,
+    "geom:longitude":-83.79004,
+    "iso:country":"US",
+    "sg:address":"120 S Main St",
+    "sg:city":"Boston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 498 2831",
+    "sg:postcode":"31626",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85833309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OS0NAzQ67GkjxZo3ZdLIG_30.791410_-83.790040@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461895288,
+    "wof:geomhash":"147461dc2b66bb176dc149c35450011f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85833309,
+            "region_id":85688535,
+            "venue_id":723108669
+        }
+    ],
+    "wof:id":723108669,
+    "wof:lastmodified":1461895288,
+    "wof:name":"Boston Police Station",
+    "wof:parent_id":85833309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -83.79004,
+    30.79141,
+    -83.79004,
+    30.79141
+],
+  "geometry": {"coordinates":[-83.79004,30.79141],"type":"Point"}
+}

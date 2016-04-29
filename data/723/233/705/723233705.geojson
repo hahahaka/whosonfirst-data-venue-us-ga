@@ -1,0 +1,85 @@
+{
+  "id": 723233705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.335844,33.956692,-84.335844,33.956692",
+    "geom:latitude":33.956692,
+    "geom:longitude":-84.335844,
+    "iso:country":"US",
+    "sg:address":"5345 Roberts Dr",
+    "sg:city":"Dunwoody",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 913 0511",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "sg:tags":[
+        "environmental",
+        "org"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85815577,
+        420560157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_467KCUAaC9HVoS08XbnQ8O_33.956692_-84.335844@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897784,
+    "wof:geomhash":"ccdec26d82dd41a2a3c83eb448313224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85815577,
+            "region_id":85688535,
+            "venue_id":723233705
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":420560157,
+            "region_id":85688535,
+            "venue_id":723233705
+        }
+    ],
+    "wof:id":723233705,
+    "wof:lastmodified":1461897784,
+    "wof:name":"Atlanta Audubon Society",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "environmental",
+        "org"
+    ]
+},
+  "bbox": [
+    -84.335844,
+    33.956692,
+    -84.335844,
+    33.956692
+],
+  "geometry": {"coordinates":[-84.33584399999999,33.956692],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 722775553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.09379,32.075527,-81.09379,32.075527",
+    "geom:latitude":32.075527,
+    "geom:longitude":-81.09379,
+    "iso:country":"US",
+    "sg:address":"3 W Perry St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 233 2727",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "home"
+    ],
+    "sg:website":"www.islandhealth.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85880901,
+        85811497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34WwdW0QVDAPVf1mc2UHXF_32.075527_-81.093790@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888419,
+    "wof:geomhash":"f27b040d55c82b9a091e1b0a614eafdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880901,
+            "region_id":85688535,
+            "venue_id":722775553
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85811497,
+            "region_id":85688535,
+            "venue_id":722775553
+        }
+    ],
+    "wof:id":722775553,
+    "wof:lastmodified":1461888419,
+    "wof:name":"Island Health Care",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -81.09379,
+    32.075527,
+    -81.09379,
+    32.075527
+],
+  "geometry": {"coordinates":[-81.09379,32.075527],"type":"Point"}
+}

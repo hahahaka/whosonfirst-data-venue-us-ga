@@ -1,0 +1,101 @@
+{
+  "id": 740000863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.293956,33.89969,-84.293956,33.89969",
+    "geom:latitude":33.89969,
+    "geom:longitude":-84.293956,
+    "iso:country":"US",
+    "sg:address":"3678 N Peachtree Road",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 455 1791",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "management",
+        "metal",
+        "designer",
+        "contractor"
+    ],
+    "sg:website":"www.probldgsystems.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85936435,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lhR7EXAKjCyrj6HZEDAyO_33.899690_-84.293956@1303262627"
+    },
+    "wof:country":"US",
+    "wof:created":1461923960,
+    "wof:geomhash":"a1670cb7d98478f8e95046a6dda2b452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":740000863
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":740000863
+        }
+    ],
+    "wof:id":740000863,
+    "wof:lastmodified":1461923960,
+    "wof:name":"Pro Building Systems",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management",
+        "metal",
+        "designer",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.293956,
+    33.89969,
+    -84.293956,
+    33.89969
+],
+  "geometry": {"coordinates":[-84.29395599999999,33.89969],"type":"Point"}
+}

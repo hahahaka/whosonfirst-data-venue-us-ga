@@ -1,0 +1,71 @@
+{
+  "id": 739564545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.966065,34.753867,-84.966065,34.753867",
+    "geom:latitude":34.753867,
+    "geom:longitude":-84.966065,
+    "iso:country":"US",
+    "sg:address":"1212 S Hamilton St",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 278 8615",
+    "sg:postcode":"30720",
+    "sg:province":"GA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04QeZ4sfCGm5RTNlt3YA4H_34.753867_-84.966065@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461909656,
+    "wof:geomhash":"c16f88f86eab7655415f67ada91cc4f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":739564545
+        }
+    ],
+    "wof:id":739564545,
+    "wof:lastmodified":1461909656,
+    "wof:name":"Dalton Wrecker Svc",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -84.966065,
+    34.753867,
+    -84.966065,
+    34.753867
+],
+  "geometry": {"coordinates":[-84.966065,34.753867],"type":"Point"}
+}

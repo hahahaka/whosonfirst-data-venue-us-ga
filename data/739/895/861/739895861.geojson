@@ -1,0 +1,89 @@
+{
+  "id": 739895861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.007823,33.050805,-85.007823,33.050805",
+    "geom:latitude":33.050805,
+    "geom:longitude":-85.007823,
+    "iso:country":"US",
+    "sg:address":"1103 Hogansville Rd",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 884 2323",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "buyer",
+        "industrial",
+        "appraisers-commercial",
+        "broker",
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10rKbtRQ0C5ihY1wN3xueP_33.050805_-85.007823@1303262600"
+    },
+    "wof:country":"US",
+    "wof:created":1461919655,
+    "wof:geomhash":"046a57232cafc9be1c4fcf91c03a8da2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739895861
+        }
+    ],
+    "wof:id":739895861,
+    "wof:lastmodified":1461919655,
+    "wof:name":"Stribling-Dupree Realty & Appraisal Services Inc",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "industrial",
+        "appraisers-commercial",
+        "broker",
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -85.007823,
+    33.050805,
+    -85.007823,
+    33.050805
+],
+  "geometry": {"coordinates":[-85.007823,33.050805],"type":"Point"}
+}

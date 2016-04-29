@@ -1,0 +1,67 @@
+{
+  "id": 739859339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.174202,34.005001,-84.174202,34.005001",
+    "geom:latitude":34.005001,
+    "geom:longitude":-84.174202,
+    "iso:country":"US",
+    "sg:address":"4215 Pleasant Hill Rd",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 495 8322",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:website":"www.bostonmarket.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bEkuZokO4alBdPTVJLB73_34.005001_-84.174202@1303262591"
+    },
+    "wof:country":"US",
+    "wof:created":1461918286,
+    "wof:geomhash":"7d9896eeada287fa13009bb15b0e17cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":739859339
+        }
+    ],
+    "wof:id":739859339,
+    "wof:lastmodified":1461918286,
+    "wof:name":"Boston Market",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.174202,
+    34.005001,
+    -84.174202,
+    34.005001
+],
+  "geometry": {"coordinates":[-84.17420199999999,34.005001],"type":"Point"}
+}

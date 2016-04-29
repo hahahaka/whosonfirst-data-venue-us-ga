@@ -1,0 +1,80 @@
+{
+  "id": 739821367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.513082,33.959033,-84.513082,33.959033",
+    "geom:latitude":33.959033,
+    "geom:longitude":-84.513082,
+    "iso:country":"US",
+    "sg:address":"1343 Gresham Rd",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 971 1556",
+    "sg:postcode":"30062",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936135,
+        102082313,
+        85857049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DcO7QSCbSX9NSF61ksFad_33.959033_-84.513082@1303262580"
+    },
+    "wof:country":"US",
+    "wof:created":1461916751,
+    "wof:geomhash":"a4f10a3fde305036fd893a2af024eed0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936135,
+            "neighbourhood_id":85857049,
+            "region_id":85688535,
+            "venue_id":739821367
+        }
+    ],
+    "wof:id":739821367,
+    "wof:lastmodified":1461916751,
+    "wof:name":"Davis Michael DVM",
+    "wof:parent_id":85857049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.513082,
+    33.959033,
+    -84.513082,
+    33.959033
+],
+  "geometry": {"coordinates":[-84.513082,33.959033],"type":"Point"}
+}

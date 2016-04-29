@@ -1,0 +1,75 @@
+{
+  "id": 739321259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.110219,32.005223,-81.110219,32.005223",
+    "geom:latitude":32.005223,
+    "geom:longitude":-81.110219,
+    "iso:country":"US",
+    "sg:address":"304 Commercial Dr",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 351 0325",
+    "sg:postcode":"31406",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85890047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4W0YSFDKsyvBTkR69JQXC7_32.005223_-81.110219@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461905003,
+    "wof:geomhash":"27e8b5ab810e7a6c2c6f2ce83ef96b6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85890047,
+            "region_id":85688535,
+            "venue_id":739321259
+        }
+    ],
+    "wof:id":739321259,
+    "wof:lastmodified":1461905003,
+    "wof:name":"Arnold F Negrin MD",
+    "wof:parent_id":85890047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.110219,
+    32.005223,
+    -81.110219,
+    32.005223
+],
+  "geometry": {"coordinates":[-81.110219,32.005223],"type":"Point"}
+}

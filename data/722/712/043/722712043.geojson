@@ -1,0 +1,71 @@
+{
+  "id": 722712043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.400812,34.879547,-83.400812,34.879547",
+    "geom:latitude":34.879547,
+    "geom:longitude":-83.400812,
+    "iso:country":"US",
+    "sg:address":"50 N Main St",
+    "sg:city":"Clayton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 782 5438",
+    "sg:postcode":"30525",
+    "sg:province":"GA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936141,
+        102081683,
+        85821415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Iku8bLpsS1hAe4xe5ZBG9_34.879547_-83.400812@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461887192,
+    "wof:geomhash":"0dded4399a2930bfdf74c1e43542eafc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081683,
+            "locality_id":85936141,
+            "neighbourhood_id":85821415,
+            "region_id":85688535,
+            "venue_id":722712043
+        }
+    ],
+    "wof:id":722712043,
+    "wof:lastmodified":1461887192,
+    "wof:name":"Clayton Cafe",
+    "wof:parent_id":85821415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -83.400812,
+    34.879547,
+    -83.400812,
+    34.879547
+],
+  "geometry": {"coordinates":[-83.400812,34.879547],"type":"Point"}
+}

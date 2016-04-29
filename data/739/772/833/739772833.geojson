@@ -1,0 +1,90 @@
+{
+  "id": 739772833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.092978,32.075393,-81.092978,32.075393",
+    "geom:latitude":32.075393,
+    "geom:longitude":-81.092978,
+    "iso:country":"US",
+    "sg:address":"20 E Perry St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/savannah/29202-billys-place/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 231 9049",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "wrap",
+        "seafood",
+        "sandwich",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85880901,
+        85811497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_034aZoj7qYvwE5cVXN2qCY_32.075393_-81.092978@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914657,
+    "wof:geomhash":"684afd3f2288da5da303ac1dfc1b8591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880901,
+            "region_id":85688535,
+            "venue_id":739772833
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85811497,
+            "region_id":85688535,
+            "venue_id":739772833
+        }
+    ],
+    "wof:id":739772833,
+    "wof:lastmodified":1461914657,
+    "wof:name":"Billy's Place",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "seafood",
+        "sandwich",
+        "american"
+    ]
+},
+  "bbox": [
+    -81.092978,
+    32.075393,
+    -81.092978,
+    32.075393
+],
+  "geometry": {"coordinates":[-81.092978,32.075393],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 739857977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.167054,33.998493,-84.167054,33.998493",
+    "geom:latitude":33.998493,
+    "geom:longitude":-84.167054,
+    "iso:country":"US",
+    "sg:address":"3620 Peachtree Industrial Blvd",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 814 0523",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uSHVgeFDh6nZ4MeZHOzSc_33.998493_-84.167054@1303262590"
+    },
+    "wof:country":"US",
+    "wof:created":1461918225,
+    "wof:geomhash":"372348ac0a259883f3a5655650c122ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":739857977
+        }
+    ],
+    "wof:id":739857977,
+    "wof:lastmodified":1461918225,
+    "wof:name":"Duluth Diner",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diner"
+    ]
+},
+  "bbox": [
+    -84.167054,
+    33.998493,
+    -84.167054,
+    33.998493
+],
+  "geometry": {"coordinates":[-84.16705399999999,33.998493],"type":"Point"}
+}

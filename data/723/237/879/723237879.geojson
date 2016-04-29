@@ -1,0 +1,73 @@
+{
+  "id": 723237879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.473747,31.177077,-81.473747,31.177077",
+    "geom:latitude":31.177077,
+    "geom:longitude":-81.473747,
+    "iso:country":"US",
+    "sg:address":"3231 Glynn Ave",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 265 9006",
+    "sg:postcode":"31520",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85814297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mA8O55zayIamdJFxsWBV2_31.177077_-81.473747@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897871,
+    "wof:geomhash":"b2cc7c0be5e6139145a8844b27d7615c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85814297,
+            "region_id":85688535,
+            "venue_id":723237879
+        }
+    ],
+    "wof:id":723237879,
+    "wof:lastmodified":1461897871,
+    "wof:name":"Southern Orthopedics & Sports",
+    "wof:parent_id":85814297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.473747,
+    31.177077,
+    -81.473747,
+    31.177077
+],
+  "geometry": {"coordinates":[-81.473747,31.177077],"type":"Point"}
+}

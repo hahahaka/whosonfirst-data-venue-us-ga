@@ -1,0 +1,90 @@
+{
+  "id": 739794667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.283348,33.736599,-84.283348,33.736599",
+    "geom:latitude":33.736599,
+    "geom:longitude":-84.283348,
+    "iso:country":"US",
+    "sg:address":"2600 Glenvalley Dr",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 217 2504",
+    "sg:postcode":"30032",
+    "sg:province":"GA",
+    "sg:tags":[
+        "provider",
+        "broker",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937245,
+        102084539,
+        85816501,
+        85816491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qc3dQn0bUxltXuSfPkNa0_33.736599_-84.283348@1303262573"
+    },
+    "wof:country":"US",
+    "wof:created":1461915552,
+    "wof:geomhash":"717f9c05bbfd1cf7c62a3bd0a770e02e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937245,
+            "neighbourhood_id":85816501,
+            "region_id":85688535,
+            "venue_id":739794667
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739794667
+        }
+    ],
+    "wof:id":739794667,
+    "wof:lastmodified":1461915552,
+    "wof:name":"Rcs Trucking, Inc.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "provider",
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.283348,
+    33.736599,
+    -84.283348,
+    33.736599
+],
+  "geometry": {"coordinates":[-84.283348,33.736599],"type":"Point"}
+}

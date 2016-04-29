@@ -1,0 +1,73 @@
+{
+  "id": 722943853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.679883,32.613084,-83.679883,32.613084",
+    "geom:latitude":32.613084,
+    "geom:longitude":-83.679883,
+    "iso:country":"US",
+    "sg:address":"331 S Houston Lake Rd",
+    "sg:city":"Warner Robins",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 953 3900",
+    "sg:postcode":"31088",
+    "sg:province":"GA",
+    "sg:tags":[
+        "transmission",
+        "distribution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XP0gNQhG0MKlXQg0KIVID_32.613084_-83.679883@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461891708,
+    "wof:geomhash":"aa111c2fda1143d33f3e1182c409059a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":722943853
+        }
+    ],
+    "wof:id":722943853,
+    "wof:lastmodified":1461891708,
+    "wof:name":"Ameri Gas Inc",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "distribution"
+    ]
+},
+  "bbox": [
+    -83.679883,
+    32.613084,
+    -83.679883,
+    32.613084
+],
+  "geometry": {"coordinates":[-83.679883,32.613084],"type":"Point"}
+}

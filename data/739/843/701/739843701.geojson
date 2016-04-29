@@ -1,0 +1,83 @@
+{
+  "id": 739843701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.482569,33.893833,-84.482569,33.893833",
+    "geom:latitude":33.893833,
+    "geom:longitude":-84.482569,
+    "iso:country":"US",
+    "sg:address":"1675 Cumberland Pkwy SE Ste 104",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 319 1622",
+    "sg:postcode":"30080",
+    "sg:province":"GA",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818985,
+        102082313,
+        102191575,
+        85936139,
+        85813197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jH7oyVqtUKt9i31DaUBvb_33.893833_-84.482569@1303262586"
+    },
+    "wof:country":"US",
+    "wof:created":1461917648,
+    "wof:geomhash":"f07f455a3faf3367c330bfa56c5a461a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85818985,
+            "region_id":85688535,
+            "venue_id":739843701
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85813197,
+            "region_id":85688535,
+            "venue_id":739843701
+        }
+    ],
+    "wof:id":739843701,
+    "wof:lastmodified":1461917648,
+    "wof:name":"Sims Jeffrey D DDS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [
+    -84.482569,
+    33.893833,
+    -84.482569,
+    33.893833
+],
+  "geometry": {"coordinates":[-84.482569,33.893833],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 740021169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.834665,32.36615,-81.834665,32.36615",
+    "geom:latitude":32.36615,
+    "geom:longitude":-81.834665,
+    "iso:country":"US",
+    "sg:address":"350 Foye Wilson Rd",
+    "sg:city":"Statesboro",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"Aquarium",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 764 1936",
+    "sg:postcode":"30458",
+    "sg:province":"GA",
+    "sg:tags":[
+        "food",
+        "dog",
+        "cat",
+        "furnishing",
+        "grooming",
+        "store"
+    ],
+    "sg:website":"http://www.petco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935999,
+        102084405,
+        85821351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6T3jtm3FMPcBJdjbn6Gs4J_32.366150_-81.834665@1303262632"
+    },
+    "wof:country":"US",
+    "wof:created":1461924747,
+    "wof:geomhash":"41bbd618a897f6c168694cab289e7aee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85821351,
+            "region_id":85688535,
+            "venue_id":740021169
+        }
+    ],
+    "wof:id":740021169,
+    "wof:lastmodified":1461924747,
+    "wof:name":"PETCO",
+    "wof:parent_id":85821351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "dog",
+        "cat",
+        "furnishing",
+        "grooming",
+        "store"
+    ]
+},
+  "bbox": [
+    -81.834665,
+    32.36615,
+    -81.834665,
+    32.36615
+],
+  "geometry": {"coordinates":[-81.834665,32.36615],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 739792065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.284126,33.775288,-84.284126,33.775288",
+    "geom:latitude":33.775288,
+    "geom:longitude":-84.284126,
+    "iso:country":"US",
+    "sg:address":"101 Mountain View St",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 288 7112",
+    "sg:postcode":"30030",
+    "sg:province":"GA",
+    "sg:tags":[
+        "satellite",
+        "radio-service",
+        "cable"
+    ],
+    "sg:website":"http://www.localsat.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936441,
+        102084539,
+        85890031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DVO91EJool2PQ1XR8CBJb_33.775288_-84.284126@1303262573"
+    },
+    "wof:country":"US",
+    "wof:created":1461915448,
+    "wof:geomhash":"3519d913e82c72413237495690dda54d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936441,
+            "neighbourhood_id":85890031,
+            "region_id":85688535,
+            "venue_id":739792065
+        }
+    ],
+    "wof:id":739792065,
+    "wof:lastmodified":1461915448,
+    "wof:name":"Direct Sat Tv Activation & Installation",
+    "wof:parent_id":85890031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "radio-service",
+        "cable"
+    ]
+},
+  "bbox": [
+    -84.284126,
+    33.775288,
+    -84.284126,
+    33.775288
+],
+  "geometry": {"coordinates":[-84.284126,33.775288],"type":"Point"}
+}

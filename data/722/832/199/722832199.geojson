@@ -1,0 +1,71 @@
+{
+  "id": 722832199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.095669,33.886005,-84.095669,33.886005",
+    "geom:latitude":33.886005,
+    "geom:longitude":-84.095669,
+    "iso:country":"US",
+    "sg:address":"415 Brookshire Dr SW",
+    "sg:city":"Lilburn",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 923 8519",
+    "sg:postcode":"30047",
+    "sg:province":"GA",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cevVGPgQE8hlG8nqWBu5v_33.886005_-84.095669@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461889483,
+    "wof:geomhash":"0f9d716ac795898ac4fc9521857c0763",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":722832199
+        }
+    ],
+    "wof:id":722832199,
+    "wof:lastmodified":1461889483,
+    "wof:name":"Gray Line Trucking",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.095669,
+    33.886005,
+    -84.095669,
+    33.886005
+],
+  "geometry": {"coordinates":[-84.095669,33.886005],"type":"Point"}
+}

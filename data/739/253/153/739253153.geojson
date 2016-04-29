@@ -1,0 +1,73 @@
+{
+  "id": 739253153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.568589,33.360576,-84.568589,33.360576",
+    "geom:latitude":33.360576,
+    "geom:longitude":-84.568589,
+    "iso:country":"US",
+    "sg:address":"5 Falcon Dr",
+    "sg:city":"Peachtree City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 486 2181",
+    "sg:postcode":"30269",
+    "sg:province":"GA",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936021,
+        102081687,
+        85890039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sEoHYVJhGXN702rQk8bmP_33.360576_-84.568589@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461903559,
+    "wof:geomhash":"eff1554de8c49b4b877e0a1dc128b4c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081687,
+            "locality_id":85936021,
+            "neighbourhood_id":85890039,
+            "region_id":85688535,
+            "venue_id":739253153
+        }
+    ],
+    "wof:id":739253153,
+    "wof:lastmodified":1461903559,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85890039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.568589,
+    33.360576,
+    -84.568589,
+    33.360576
+],
+  "geometry": {"coordinates":[-84.568589,33.360576],"type":"Point"}
+}

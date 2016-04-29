@@ -1,0 +1,87 @@
+{
+  "id": 740059019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.164711,32.064289,-81.164711,32.064289",
+    "geom:latitude":32.064289,
+    "geom:longitude":-81.164711,
+    "iso:country":"US",
+    "sg:address":"141 Park Of Commerce Dr",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 644 7100",
+    "sg:postcode":"31405",
+    "sg:province":"GA",
+    "sg:tags":[
+        "satellite",
+        "isp",
+        "internet",
+        "cable",
+        "provider"
+    ],
+    "sg:website":"http://www.cablecomcast.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        420517397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4coQ2BkaD7IVzHTqCj6RjY_32.064289_-81.164711@1303262642"
+    },
+    "wof:country":"US",
+    "wof:created":1461926488,
+    "wof:geomhash":"3fe5e8a96e3a53c0318baff8a9f727d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":420517397,
+            "region_id":85688535,
+            "venue_id":740059019
+        }
+    ],
+    "wof:id":740059019,
+    "wof:lastmodified":1461926488,
+    "wof:name":"Comcast Cable Communications",
+    "wof:parent_id":420517397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "isp",
+        "internet",
+        "cable",
+        "provider"
+    ]
+},
+  "bbox": [
+    -81.164711,
+    32.064289,
+    -81.164711,
+    32.064289
+],
+  "geometry": {"coordinates":[-81.164711,32.064289],"type":"Point"}
+}

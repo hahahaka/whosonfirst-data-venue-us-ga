@@ -1,0 +1,71 @@
+{
+  "id": 739857101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.125603,33.970299,-84.125603,33.970299",
+    "geom:latitude":33.970299,
+    "geom:longitude":-84.125603,
+    "iso:country":"US",
+    "sg:address":"3400 McDaniel Rd",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 623 6300",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0j9vq5V2Qnj5p6B6kBGq2u_33.970299_-84.125603@1303262590"
+    },
+    "wof:country":"US",
+    "wof:created":1461918189,
+    "wof:geomhash":"9bf42ac9a826bf316ed5a92929e6ba3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":739857101
+        }
+    ],
+    "wof:id":739857101,
+    "wof:lastmodified":1461918189,
+    "wof:name":"Sports & Imports Collision",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.125603,
+    33.970299,
+    -84.125603,
+    33.970299
+],
+  "geometry": {"coordinates":[-84.125603,33.970299],"type":"Point"}
+}

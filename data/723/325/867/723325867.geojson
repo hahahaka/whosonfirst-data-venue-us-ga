@@ -1,0 +1,75 @@
+{
+  "id": 723325867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.020792,33.014374,-85.020792,33.014374",
+    "geom:latitude":33.014374,
+    "geom:longitude":-85.020792,
+    "iso:country":"US",
+    "sg:address":"1607 Hamilton Rd",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 884 0754",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4u6cCIun8xuu5qWklCD3PT_33.014374_-85.020792@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899555,
+    "wof:geomhash":"6cb1af33be5c18152d5f27eb1e25a743",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":723325867
+        }
+    ],
+    "wof:id":723325867,
+    "wof:lastmodified":1461899555,
+    "wof:name":"Lagrange Radiator Works",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -85.020792,
+    33.014374,
+    -85.020792,
+    33.014374
+],
+  "geometry": {"coordinates":[-85.020792,33.014374],"type":"Point"}
+}

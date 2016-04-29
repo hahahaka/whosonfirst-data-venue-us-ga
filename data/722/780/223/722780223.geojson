@@ -1,0 +1,73 @@
+{
+  "id": 722780223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.982492,34.742633,-84.982492,34.742633",
+    "geom:latitude":34.742633,
+    "geom:longitude":-84.982492,
+    "iso:country":"US",
+    "sg:address":"1822 Magnolia Ave",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 270 8736",
+    "sg:postcode":"30720",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77Gn33DgqPoy9kHjIS915h_34.742633_-84.982492@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888503,
+    "wof:geomhash":"5b83869d24a1e6d3389a6ae95ac31179",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":722780223
+        }
+    ],
+    "wof:id":722780223,
+    "wof:lastmodified":1461888503,
+    "wof:name":"Grant's",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.982492,
+    34.742633,
+    -84.982492,
+    34.742633
+],
+  "geometry": {"coordinates":[-84.98249199999999,34.742633],"type":"Point"}
+}

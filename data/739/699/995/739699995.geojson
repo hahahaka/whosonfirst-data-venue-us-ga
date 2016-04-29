@@ -1,0 +1,73 @@
+{
+  "id": 739699995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.984328,33.987349,-83.984328,33.987349",
+    "geom:latitude":33.987349,
+    "geom:longitude":-83.984328,
+    "iso:country":"US",
+    "sg:address":"919 Buford Dr",
+    "sg:city":"Lawrenceville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 682 5781",
+    "sg:postcode":"30043",
+    "sg:province":"GA",
+    "sg:tags":[
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936297,
+        102082967,
+        85853829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KvU2CxmbAFC7mFze9tkFl_33.987349_-83.984328@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461912563,
+    "wof:geomhash":"b654a351df84f50f65b273041081603f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936297,
+            "neighbourhood_id":85853829,
+            "region_id":85688535,
+            "venue_id":739699995
+        }
+    ],
+    "wof:id":739699995,
+    "wof:lastmodified":1461912563,
+    "wof:name":"U-Haul",
+    "wof:parent_id":85853829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -83.984328,
+    33.987349,
+    -83.984328,
+    33.987349
+],
+  "geometry": {"coordinates":[-83.984328,33.987349],"type":"Point"}
+}

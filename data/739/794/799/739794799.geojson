@@ -1,0 +1,90 @@
+{
+  "id": 739794799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.283483,33.732129,-84.283483,33.732129",
+    "geom:latitude":33.732129,
+    "geom:longitude":-84.283483,
+    "iso:country":"US",
+    "sg:address":"1999 Candler Rd",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Driving School",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 949 9318",
+    "sg:postcode":"30032",
+    "sg:province":"GA",
+    "sg:tags":[
+        "educational",
+        "instruction",
+        "traffic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937245,
+        102084539,
+        85816501,
+        85816491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lQoy4s0PONWwGIUrf9Vtb_33.732129_-84.283483@1303262573"
+    },
+    "wof:country":"US",
+    "wof:created":1461915557,
+    "wof:geomhash":"60b4f38f012bba1b6b23fee645c4c6e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937245,
+            "neighbourhood_id":85816501,
+            "region_id":85688535,
+            "venue_id":739794799
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739794799
+        }
+    ],
+    "wof:id":739794799,
+    "wof:lastmodified":1461915557,
+    "wof:name":"Andre Mathis Driver Training School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational",
+        "instruction",
+        "traffic"
+    ]
+},
+  "bbox": [
+    -84.283483,
+    33.732129,
+    -84.283483,
+    33.732129
+],
+  "geometry": {"coordinates":[-84.283483,33.732129],"type":"Point"}
+}

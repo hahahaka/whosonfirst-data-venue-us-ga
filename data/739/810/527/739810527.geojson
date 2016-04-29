@@ -1,0 +1,88 @@
+{
+  "id": 739810527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.130404,33.899635,-84.130404,33.899635",
+    "geom:latitude":33.899635,
+    "geom:longitude":-84.130404,
+    "iso:country":"US",
+    "sg:address":"4450-M Lawrenceville Hwy NW",
+    "sg:city":"Lilburn",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 923 2250",
+    "sg:postcode":"30047",
+    "sg:province":"GA",
+    "sg:tags":[
+        "smog",
+        "check",
+        "tire"
+    ],
+    "sg:website":"www.lilburnautocenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936299,
+        102082967,
+        85803655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XXsSrqWW7wqj6S1UVplKn_33.899635_-84.130404@1303262578"
+    },
+    "wof:country":"US",
+    "wof:created":1461916312,
+    "wof:geomhash":"2fc58929165987501173b14e45831d34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936299,
+            "neighbourhood_id":85803655,
+            "region_id":85688535,
+            "venue_id":739810527
+        }
+    ],
+    "wof:id":739810527,
+    "wof:lastmodified":1461916312,
+    "wof:name":"Lilburn Auto Center",
+    "wof:parent_id":85803655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smog",
+        "check",
+        "tire"
+    ]
+},
+  "bbox": [
+    -84.130404,
+    33.899635,
+    -84.130404,
+    33.899635
+],
+  "geometry": {"coordinates":[-84.130404,33.899635],"type":"Point"}
+}

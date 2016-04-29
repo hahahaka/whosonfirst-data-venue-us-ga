@@ -1,0 +1,75 @@
+{
+  "id": 723093581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.065899,33.025411,-85.065899,33.025411",
+    "geom:latitude":33.025411,
+    "geom:longitude":-85.065899,
+    "iso:country":"US",
+    "sg:address":"100 Swanson Dr",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 884 7387",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85830157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dmJimmM8ch5P4s2snPFN1_33.025411_-85.065899@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461894987,
+    "wof:geomhash":"839b59d06f4d45b0b2c8880d060a6f38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85830157,
+            "region_id":85688535,
+            "venue_id":723093581
+        }
+    ],
+    "wof:id":723093581,
+    "wof:lastmodified":1461894987,
+    "wof:name":"Pets",
+    "wof:parent_id":85830157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -85.065899,
+    33.025411,
+    -85.065899,
+    33.025411
+],
+  "geometry": {"coordinates":[-85.065899,33.025411],"type":"Point"}
+}

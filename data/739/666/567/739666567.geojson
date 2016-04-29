@@ -1,0 +1,80 @@
+{
+  "id": 739666567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.966048,34.753771,-84.966048,34.753771",
+    "geom:latitude":34.753771,
+    "geom:longitude":-84.966048,
+    "iso:country":"US",
+    "sg:address":"1216 S Hamilton St",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 226 3911",
+    "sg:postcode":"30720",
+    "sg:province":"GA",
+    "sg:tags":[
+        "electric",
+        "motor",
+        "rewinds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IJjl9DTXQXc89suA2oIYr_34.753771_-84.966048@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461911885,
+    "wof:geomhash":"53e1de7c6bffdfc89d1007cd0b9163d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":739666567
+        }
+    ],
+    "wof:id":739666567,
+    "wof:lastmodified":1461911885,
+    "wof:name":"Lance Electric Motor Service",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "motor",
+        "rewinds"
+    ]
+},
+  "bbox": [
+    -84.966048,
+    34.753771,
+    -84.966048,
+    34.753771
+],
+  "geometry": {"coordinates":[-84.966048,34.753771],"type":"Point"}
+}

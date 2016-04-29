@@ -1,0 +1,71 @@
+{
+  "id": 723314167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.491503,33.913107,-84.491503,33.913107",
+    "geom:latitude":33.913107,
+    "geom:longitude":-84.491503,
+    "iso:country":"US",
+    "sg:address":"1700 Enterprise Way",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 370 9401",
+    "sg:postcode":"30067",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85845875,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pcPwenDVgeUDrDr9afqMd_33.913107_-84.491503@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899339,
+    "wof:geomhash":"064978b04f3516afc92b74481417ba16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":723314167
+        }
+    ],
+    "wof:id":723314167,
+    "wof:lastmodified":1461899339,
+    "wof:name":"Comprehensive Care Med Group",
+    "wof:parent_id":85845875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.491503,
+    33.913107,
+    -84.491503,
+    33.913107
+],
+  "geometry": {"coordinates":[-84.49150299999999,33.913107],"type":"Point"}
+}

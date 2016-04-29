@@ -1,0 +1,71 @@
+{
+  "id": 723468669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.517262,33.777985,-84.517262,33.777985",
+    "geom:latitude":33.777985,
+    "geom:longitude":-84.517262,
+    "iso:country":"US",
+    "sg:address":"3965 Aero Dr NW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 505 5700",
+    "sg:postcode":"30336",
+    "sg:province":"GA",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937189,
+        102082313,
+        85809641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QLD8JP2AYT6lAvxyA2sly_33.777985_-84.517262@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461902296,
+    "wof:geomhash":"02fc01db5c80d26c6e0a8a71e5289547",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85937189,
+            "neighbourhood_id":85809641,
+            "region_id":85688535,
+            "venue_id":723468669
+        }
+    ],
+    "wof:id":723468669,
+    "wof:lastmodified":1461902296,
+    "wof:name":"Fire Dept- Battalion 3",
+    "wof:parent_id":85809641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -84.517262,
+    33.777985,
+    -84.517262,
+    33.777985
+],
+  "geometry": {"coordinates":[-84.517262,33.777985],"type":"Point"}
+}

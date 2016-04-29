@@ -1,0 +1,78 @@
+{
+  "id": 740040001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.943039,34.841579,-84.943039,34.841579",
+    "geom:latitude":34.841579,
+    "geom:longitude":-84.943039,
+    "iso:country":"US",
+    "sg:address":"2949 Cleveland Hwy",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 217 6055",
+    "sg:postcode":"30721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dzwBQu65qC1QDh5dlQAZl_34.841579_-84.943039@1303262637"
+    },
+    "wof:country":"US",
+    "wof:created":1461925604,
+    "wof:geomhash":"8b3117ff4592894bcbb804fb238ed279",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":740040001
+        }
+    ],
+    "wof:id":740040001,
+    "wof:lastmodified":1461925604,
+    "wof:name":"Hair Creations",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [
+    -84.943039,
+    34.841579,
+    -84.943039,
+    34.841579
+],
+  "geometry": {"coordinates":[-84.943039,34.841579],"type":"Point"}
+}

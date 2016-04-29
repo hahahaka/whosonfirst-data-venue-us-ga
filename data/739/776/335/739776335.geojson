@@ -1,0 +1,85 @@
+{
+  "id": 739776335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.616455,32.856549,-83.616455,32.856549",
+    "geom:latitude":32.856549,
+    "geom:longitude":-83.616455,
+    "iso:country":"US",
+    "sg:address":"1185 Gray Hwy",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/macon/172582-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 745 3075",
+    "sg:postcode":"31211",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936517,
+        102084373,
+        85837705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xrPRnFnxm9TGD0BSOttOg_32.856103_-83.616961@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461914793,
+    "wof:geomhash":"3f885e11971305b3f0e40dd7bd790075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084373,
+            "locality_id":85936517,
+            "neighbourhood_id":85837705,
+            "region_id":85688535,
+            "venue_id":739776335
+        }
+    ],
+    "wof:id":739776335,
+    "wof:lastmodified":1461914793,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85837705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -83.616455,
+    32.856549,
+    -83.616455,
+    32.856549
+],
+  "geometry": {"coordinates":[-83.616455,32.856549],"type":"Point"}
+}

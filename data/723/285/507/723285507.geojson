@@ -1,0 +1,80 @@
+{
+  "id": 723285507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.280264,30.830205,-83.280264,30.830205",
+    "geom:latitude":30.830205,
+    "geom:longitude":-83.280264,
+    "iso:country":"US",
+    "sg:address":"200 W Hill Ave",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 242 6028",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "brake",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R1mR6pfViKBT4l4Fl8sXN_30.830205_-83.280264@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461898784,
+    "wof:geomhash":"8e78a95b52d9e2a0d10be9cac3322dfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843077,
+            "region_id":85688535,
+            "venue_id":723285507
+        }
+    ],
+    "wof:id":723285507,
+    "wof:lastmodified":1461898784,
+    "wof:name":"Daughartys Service Station",
+    "wof:parent_id":85843077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brake",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -83.280264,
+    30.830205,
+    -83.280264,
+    30.830205
+],
+  "geometry": {"coordinates":[-83.280264,30.830205],"type":"Point"}
+}

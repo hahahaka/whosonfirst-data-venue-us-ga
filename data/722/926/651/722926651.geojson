@@ -1,0 +1,83 @@
+{
+  "id": 722926651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.229272,32.10702,-81.229272,32.10702",
+    "geom:latitude":32.10702,
+    "geom:longitude":-81.229272,
+    "iso:country":"US",
+    "sg:address":"1121 US Hwy 80",
+    "sg:city":"Pooler",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 748 4667",
+    "sg:postcode":"31322",
+    "sg:province":"GA",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936945,
+        102082337,
+        85857815,
+        420517409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LQEKe3QKbOj3yq7QN8hPO_32.107020_-81.229272@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461891335,
+    "wof:geomhash":"fc3b9012d75f1c88c0bf482521b80c70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936945,
+            "neighbourhood_id":85857815,
+            "region_id":85688535,
+            "venue_id":722926651
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936945,
+            "neighbourhood_id":420517409,
+            "region_id":85688535,
+            "venue_id":722926651
+        }
+    ],
+    "wof:id":722926651,
+    "wof:lastmodified":1461891335,
+    "wof:name":"Pooler Appliance",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -81.229272,
+    32.10702,
+    -81.229272,
+    32.10702
+],
+  "geometry": {"coordinates":[-81.22927199999999,32.10702],"type":"Point"}
+}

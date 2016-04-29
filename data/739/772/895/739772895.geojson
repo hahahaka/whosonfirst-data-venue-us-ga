@@ -1,0 +1,84 @@
+{
+  "id": 739772895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.092466,32.075606,-81.092466,32.075606",
+    "geom:latitude":32.075606,
+    "geom:longitude":-81.092466,
+    "iso:country":"US",
+    "sg:address":"21 E Mcdonough St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/savannah/33165-mcdonoughs/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 233 6136",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85880901,
+        85811497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TtVdGZUbQJwbgzJDt1X4c_32.075606_-81.092466@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914659,
+    "wof:geomhash":"bdfdf5c477e0ea8861cb1bdf0bfb2346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880901,
+            "region_id":85688535,
+            "venue_id":739772895
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85811497,
+            "region_id":85688535,
+            "venue_id":739772895
+        }
+    ],
+    "wof:id":739772895,
+    "wof:lastmodified":1461914659,
+    "wof:name":"McDonough's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -81.092466,
+    32.075606,
+    -81.092466,
+    32.075606
+],
+  "geometry": {"coordinates":[-81.092466,32.075606],"type":"Point"}
+}

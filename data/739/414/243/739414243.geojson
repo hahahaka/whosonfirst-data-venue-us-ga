@@ -1,0 +1,71 @@
+{
+  "id": 739414243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.270462,30.784936,-83.270462,30.784936",
+    "geom:latitude":30.784936,
+    "geom:longitude":-83.270462,
+    "iso:country":"US",
+    "sg:address":"2613 Madison Hwy",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 245 8401",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85827233,
+        102083585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mU4zvxTL9wFdSeNk991gH_30.784936_-83.270462@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461906843,
+    "wof:geomhash":"52ce54aa06b314f5b9e43d18439a67fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "neighbourhood_id":85827233,
+            "region_id":85688535,
+            "venue_id":739414243
+        }
+    ],
+    "wof:id":739414243,
+    "wof:lastmodified":1461906843,
+    "wof:name":"Wiggins Auto Repair",
+    "wof:parent_id":85827233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.270462,
+    30.784936,
+    -83.270462,
+    30.784936
+],
+  "geometry": {"coordinates":[-83.27046199999999,30.784936],"type":"Point"}
+}

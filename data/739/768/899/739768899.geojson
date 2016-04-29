@@ -1,0 +1,85 @@
+{
+  "id": 739768899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.297371,33.920999,-84.297371,33.920999",
+    "geom:latitude":33.920999,
+    "geom:longitude":-84.297371,
+    "iso:country":"US",
+    "sg:address":"2230 Cotillion Dr",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/chamblee-doraville/106199-waffle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 458 0331",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85936467,
+        85890023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Q9P9e9LSpmuCWHvHUBVeJ_33.920999_-84.297371@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914504,
+    "wof:geomhash":"3927a31cbb5663bd1d9dff0ca19bc630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":739768899
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890023,
+            "region_id":85688535,
+            "venue_id":739768899
+        }
+    ],
+    "wof:id":739768899,
+    "wof:lastmodified":1461914504,
+    "wof:name":"Waffle House",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -84.297371,
+    33.920999,
+    -84.297371,
+    33.920999
+],
+  "geometry": {"coordinates":[-84.297371,33.920999],"type":"Point"}
+}

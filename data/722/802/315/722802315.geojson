@@ -1,0 +1,73 @@
+{
+  "id": 722802315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.486102,31.151283,-81.486102,31.151283",
+    "geom:latitude":31.151283,
+    "geom:longitude":-81.486102,
+    "iso:country":"US",
+    "sg:address":"1421 Lee St",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 261 9229",
+    "sg:postcode":"31520",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85822091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uZqEPE3EQdOCioiNPOWyp_31.151283_-81.486102@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888929,
+    "wof:geomhash":"2da16ae14e330b992b400463c7ebc282",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85822091,
+            "region_id":85688535,
+            "venue_id":722802315
+        }
+    ],
+    "wof:id":722802315,
+    "wof:lastmodified":1461888929,
+    "wof:name":"Golden Isles Psychiatric Assoc",
+    "wof:parent_id":85822091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.486102,
+    31.151283,
+    -81.486102,
+    31.151283
+],
+  "geometry": {"coordinates":[-81.486102,31.151283],"type":"Point"}
+}

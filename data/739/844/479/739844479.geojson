@@ -1,0 +1,78 @@
+{
+  "id": 739844479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.556998,33.870592,-84.556998,33.870592",
+    "geom:latitude":33.870592,
+    "geom:longitude":-84.556998,
+    "iso:country":"US",
+    "sg:address":"3415 Mallard Glen Dr SW",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 433 1067",
+    "sg:postcode":"30082",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shuttle",
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LCqy88n67wfBxREIUfz2h_33.870592_-84.556998@1303262587"
+    },
+    "wof:country":"US",
+    "wof:created":1461917676,
+    "wof:geomhash":"20fea5c124718858a674f7864506ab87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":739844479
+        }
+    ],
+    "wof:id":739844479,
+    "wof:lastmodified":1461917676,
+    "wof:name":"Taxi International",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "airport"
+    ]
+},
+  "bbox": [
+    -84.556998,
+    33.870592,
+    -84.556998,
+    33.870592
+],
+  "geometry": {"coordinates":[-84.55699799999999,33.870592],"type":"Point"}
+}

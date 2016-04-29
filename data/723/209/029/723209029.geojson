@@ -1,0 +1,73 @@
+{
+  "id": 723209029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.471763,34.684382,-84.471763,34.684382",
+    "geom:latitude":34.684382,
+    "geom:longitude":-84.471763,
+    "iso:country":"US",
+    "sg:address":"107 Oak St",
+    "sg:city":"East Ellijay",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 276 3111",
+    "sg:postcode":"30540",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936157,
+        102082325,
+        85859453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QTUQfMvBCFwsYZiG9xJf0_34.684382_-84.471763@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897242,
+    "wof:geomhash":"df72a8d8f7cab7af76cb57fcd864df9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082325,
+            "locality_id":85936157,
+            "neighbourhood_id":85859453,
+            "region_id":85688535,
+            "venue_id":723209029
+        }
+    ],
+    "wof:id":723209029,
+    "wof:lastmodified":1461897242,
+    "wof:name":"East Ellijay Police Dept",
+    "wof:parent_id":85859453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.471763,
+    34.684382,
+    -84.471763,
+    34.684382
+],
+  "geometry": {"coordinates":[-84.471763,34.684382],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 722645165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.164523,33.90241,-84.164523,33.90241",
+    "geom:latitude":33.90241,
+    "geom:longitude":-84.164523,
+    "iso:country":"US",
+    "sg:address":"4982 Audubon Pl",
+    "sg:city":"Norcross",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 379 3161",
+    "sg:postcode":"30093",
+    "sg:province":"GA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936299,
+        102082967,
+        85803655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QyzxG9qGDt0E1oUutq0ak_33.902410_-84.164523@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461885930,
+    "wof:geomhash":"662de7959df1ff8e6adccac253879d58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936299,
+            "neighbourhood_id":85803655,
+            "region_id":85688535,
+            "venue_id":722645165
+        }
+    ],
+    "wof:id":722645165,
+    "wof:lastmodified":1461885930,
+    "wof:name":"Clark Electric",
+    "wof:parent_id":85803655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.164523,
+    33.90241,
+    -84.164523,
+    33.90241
+],
+  "geometry": {"coordinates":[-84.164523,33.90241],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 739746719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.109518,32.044644,-81.109518,32.044644",
+    "geom:latitude":32.044644,
+    "geom:longitude":-81.109518,
+    "iso:country":"US",
+    "sg:address":"3904 Montgomery St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 232 1325",
+    "sg:postcode":"31405",
+    "sg:province":"GA",
+    "sg:tags":[
+        "electrical",
+        "appliance",
+        "appliances-major-used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85880893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1R7XdZsAjV2HqqXaHUQEGv_32.044860_-81.109379@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461913584,
+    "wof:geomhash":"baf6b71de46a9b1c9e393af3344ecd59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880893,
+            "region_id":85688535,
+            "venue_id":739746719
+        }
+    ],
+    "wof:id":739746719,
+    "wof:lastmodified":1461913584,
+    "wof:name":"Appliance Sales & Service",
+    "wof:parent_id":85880893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "appliance",
+        "appliances-major-used"
+    ]
+},
+  "bbox": [
+    -81.109518,
+    32.044644,
+    -81.109518,
+    32.044644
+],
+  "geometry": {"coordinates":[-81.10951799999999,32.044644],"type":"Point"}
+}

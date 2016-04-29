@@ -1,0 +1,85 @@
+{
+  "id": 722579205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.927219,32.514646,-84.927219,32.514646",
+    "geom:latitude":32.514646,
+    "geom:longitude":-84.927219,
+    "iso:country":"US",
+    "sg:address":"5211 Moon Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 563 4255",
+    "sg:postcode":"31909",
+    "sg:province":"GA",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85838285,
+        85856927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XMCRXxy7L2sb8zPpqTcwh_32.514646_-84.927219@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461884587,
+    "wof:geomhash":"f074583e49dde14d8aa29695bcd6da3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85838285,
+            "region_id":85688535,
+            "venue_id":722579205
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85856927,
+            "region_id":85688535,
+            "venue_id":722579205
+        }
+    ],
+    "wof:id":722579205,
+    "wof:lastmodified":1461884587,
+    "wof:name":"Performance Dance Ctr LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -84.927219,
+    32.514646,
+    -84.927219,
+    32.514646
+],
+  "geometry": {"coordinates":[-84.92721899999999,32.514646],"type":"Point"}
+}

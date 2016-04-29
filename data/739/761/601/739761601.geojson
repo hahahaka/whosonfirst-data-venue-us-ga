@@ -1,0 +1,73 @@
+{
+  "id": 739761601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.831846,33.923615,-84.831846,33.923615",
+    "geom:latitude":33.923615,
+    "geom:longitude":-84.831846,
+    "iso:country":"US",
+    "sg:address":"259 Merchants Dr",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 443 1944",
+    "sg:postcode":"30132",
+    "sg:province":"GA",
+    "sg:tags":[
+        "produce",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936335,
+        102084665,
+        85835843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NJLSQ6BdsipdXMyBFxG2O_33.923086_-84.831662@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461914208,
+    "wof:geomhash":"2181595fd2e0bc0fe883d3aaaed0c6d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "locality_id":85936335,
+            "neighbourhood_id":85835843,
+            "region_id":85688535,
+            "venue_id":739761601
+        }
+    ],
+    "wof:id":739761601,
+    "wof:lastmodified":1461914208,
+    "wof:name":"Burgers Farm Fresh Market",
+    "wof:parent_id":85835843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce",
+        "market"
+    ]
+},
+  "bbox": [
+    -84.831846,
+    33.923615,
+    -84.831846,
+    33.923615
+],
+  "geometry": {"coordinates":[-84.831846,33.923615],"type":"Point"}
+}

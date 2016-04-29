@@ -1,0 +1,73 @@
+{
+  "id": 723311387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.409566,33.659207,-84.409566,33.659207",
+    "geom:latitude":33.659207,
+    "geom:longitude":-84.409566,
+    "iso:country":"US",
+    "sg:address":"641 Central Ave",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 761 7755",
+    "sg:postcode":"30354",
+    "sg:province":"GA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85890001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MmyVCt3Lz3v4PGzL2U0NI_33.659207_-84.409566@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899291,
+    "wof:geomhash":"2a2f5680825381e4dfdf6239e67f2d79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85890001,
+            "region_id":85688535,
+            "venue_id":723311387
+        }
+    ],
+    "wof:id":723311387,
+    "wof:lastmodified":1461899291,
+    "wof:name":"Woodco Transmission Service",
+    "wof:parent_id":85890001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -84.409566,
+    33.659207,
+    -84.409566,
+    33.659207
+],
+  "geometry": {"coordinates":[-84.409566,33.659207],"type":"Point"}
+}

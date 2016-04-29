@@ -1,0 +1,77 @@
+{
+  "id": 740026433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.984604,34.070255,-83.984604,34.070255",
+    "geom:latitude":34.070255,
+    "geom:longitude":-83.984604,
+    "iso:country":"US",
+    "sg:address":"3333 Buford Dr Mall of Georgia",
+    "sg:city":"Buford",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 482 4150",
+    "sg:postcode":"30519",
+    "sg:province":"GA",
+    "sg:tags":[
+        "bookstore"
+    ],
+    "sg:website":"storelocator.barnesandnoble.com/...",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936281,
+        102082967,
+        85858547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06eBxi7kzYDwMqRCVhY7fw_34.070255_-83.984604@1303262634"
+    },
+    "wof:country":"US",
+    "wof:created":1461924980,
+    "wof:geomhash":"f0c479427c4fb2af986cba49cc8a245e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936281,
+            "neighbourhood_id":85858547,
+            "region_id":85688535,
+            "venue_id":740026433
+        }
+    ],
+    "wof:id":740026433,
+    "wof:lastmodified":1461924980,
+    "wof:name":"Barnes & Noble Booksellers",
+    "wof:parent_id":85858547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore"
+    ]
+},
+  "bbox": [
+    -83.984604,
+    34.070255,
+    -83.984604,
+    34.070255
+],
+  "geometry": {"coordinates":[-83.984604,34.070255],"type":"Point"}
+}

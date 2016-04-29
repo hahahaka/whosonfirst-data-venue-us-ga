@@ -1,0 +1,80 @@
+{
+  "id": 739840165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.045233,33.882448,-84.045233,33.882448",
+    "geom:latitude":33.882448,
+    "geom:longitude":-84.045233,
+    "iso:country":"US",
+    "sg:address":"1205 Runnelwood Trl",
+    "sg:city":"Snellville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 231 6995",
+    "sg:postcode":"30078",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automobile",
+        "electrician",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936303,
+        102082967,
+        85857829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BXCXpqPIiSrFCP3BuYLc3_33.882448_-84.045233@1303262585"
+    },
+    "wof:country":"US",
+    "wof:created":1461917496,
+    "wof:geomhash":"1897d591d123975e52251ac2d295c9e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936303,
+            "neighbourhood_id":85857829,
+            "region_id":85688535,
+            "venue_id":739840165
+        }
+    ],
+    "wof:id":739840165,
+    "wof:lastmodified":1461917496,
+    "wof:name":"57 Company",
+    "wof:parent_id":85857829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "electrician",
+        "electric"
+    ]
+},
+  "bbox": [
+    -84.045233,
+    33.882448,
+    -84.045233,
+    33.882448
+],
+  "geometry": {"coordinates":[-84.045233,33.882448],"type":"Point"}
+}

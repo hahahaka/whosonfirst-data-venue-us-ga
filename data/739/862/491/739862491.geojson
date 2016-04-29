@@ -1,0 +1,99 @@
+{
+  "id": 739862491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.695127,34.041169,-84.695127,34.041169",
+    "geom:latitude":34.041169,
+    "geom:longitude":-84.695127,
+    "iso:country":"US",
+    "sg:address":"3671 Cobb Pkwy NW",
+    "sg:city":"Acworth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        },
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 974 3536",
+    "sg:postcode":"30101",
+    "sg:province":"GA",
+    "sg:tags":[
+        "sitting",
+        "hospital",
+        "specialty",
+        "clinic",
+        "veterinarian",
+        "boarding/pet",
+        "grooming",
+        "kennel"
+    ],
+    "sg:website":"www.lakecityanimal.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818265,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0y8Oewq6dxgYje9RCD8OVB_34.041169_-84.695127@1303262591"
+    },
+    "wof:country":"US",
+    "wof:created":1461918408,
+    "wof:geomhash":"103f0992f002bdea89551b5176aaf8fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85818265,
+            "region_id":85688535,
+            "venue_id":739862491
+        }
+    ],
+    "wof:id":739862491,
+    "wof:lastmodified":1461918408,
+    "wof:name":"Lake City Animal Hospital",
+    "wof:parent_id":85818265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sitting",
+        "hospital",
+        "specialty",
+        "clinic",
+        "veterinarian",
+        "boarding/pet",
+        "grooming",
+        "kennel"
+    ]
+},
+  "bbox": [
+    -84.695127,
+    34.041169,
+    -84.695127,
+    34.041169
+],
+  "geometry": {"coordinates":[-84.695127,34.041169],"type":"Point"}
+}

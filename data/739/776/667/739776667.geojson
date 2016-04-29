@@ -1,0 +1,76 @@
+{
+  "id": 739776667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.955321,32.518989,-84.955321,32.518989",
+    "geom:latitude":32.518989,
+    "geom:longitude":-84.955321,
+    "iso:country":"US",
+    "sg:address":"2550 Airport Thruway",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/columbus/160583-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 322 6393",
+    "sg:postcode":"31904",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85828445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60vZc86JMYcJln8r4yn9xW_32.519095_-84.955448@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461914805,
+    "wof:geomhash":"74efd89219b1161ec8c778e2c26291d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85828445,
+            "region_id":85688535,
+            "venue_id":739776667
+        }
+    ],
+    "wof:id":739776667,
+    "wof:lastmodified":1461914805,
+    "wof:name":"Burger King",
+    "wof:parent_id":85828445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.955321,
+    32.518989,
+    -84.955321,
+    32.518989
+],
+  "geometry": {"coordinates":[-84.955321,32.518989],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 739779797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.582139,33.914389,-84.582139,33.914389",
+    "geom:latitude":33.914389,
+    "geom:longitude":-84.582139,
+    "iso:country":"US",
+    "sg:address":"1585 County Services Pkwy SW",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"Youth",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 528 4240",
+    "sg:postcode":"30008",
+    "sg:province":"GA",
+    "sg:tags":[
+        "enforcement",
+        "law",
+        "agencies-government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wqyY9K4Wkway3y6q98dm4_33.914389_-84.582139@1303262570"
+    },
+    "wof:country":"US",
+    "wof:created":1461914939,
+    "wof:geomhash":"d321a452fb53d6598bd5ca4851b46d62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739779797
+        }
+    ],
+    "wof:id":739779797,
+    "wof:lastmodified":1461914939,
+    "wof:name":"Office Law Enforcement Svcs",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "enforcement",
+        "law",
+        "agencies-government"
+    ]
+},
+  "bbox": [
+    -84.582139,
+    33.914389,
+    -84.582139,
+    33.914389
+],
+  "geometry": {"coordinates":[-84.582139,33.914389],"type":"Point"}
+}

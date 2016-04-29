@@ -1,0 +1,76 @@
+{
+  "id": 739873139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.841422,33.940924,-84.841422,33.940924",
+    "geom:latitude":33.940924,
+    "geom:longitude":-84.841422,
+    "iso:country":"US",
+    "sg:address":"305 Old Cartersville Rd",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 445 1895",
+    "sg:postcode":"30132",
+    "sg:province":"GA",
+    "sg:tags":[
+        "machine",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85835699,
+        102084665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VnyodSvOV457TuhDB6hXf_33.940924_-84.841422@1303262594"
+    },
+    "wof:country":"US",
+    "wof:created":1461918800,
+    "wof:geomhash":"d436eee84e6cd9a49ccf5622221dc7cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "neighbourhood_id":85835699,
+            "region_id":85688535,
+            "venue_id":739873139
+        }
+    ],
+    "wof:id":739873139,
+    "wof:lastmodified":1461918800,
+    "wof:name":"Aaa Machine Works Inc",
+    "wof:parent_id":85835699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.841422,
+    33.940924,
+    -84.841422,
+    33.940924
+],
+  "geometry": {"coordinates":[-84.84142199999999,33.940924],"type":"Point"}
+}

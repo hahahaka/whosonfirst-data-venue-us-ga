@@ -1,0 +1,84 @@
+{
+  "id": 739775337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.475738,33.890079,-84.475738,33.890079",
+    "geom:latitude":33.890079,
+    "geom:longitude":-84.475738,
+    "iso:country":"US",
+    "sg:address":"2550 Cobb Pkwy SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/smyrna/132688-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 953 2126",
+    "sg:postcode":"30080",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818985,
+        102082313,
+        102191575,
+        85936139,
+        85813197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jqOhuDHaRqtiVimrOSmLj_33.890515_-84.476215@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461914759,
+    "wof:geomhash":"e98f7f6e8320afdf554204348c798228",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85818985,
+            "region_id":85688535,
+            "venue_id":739775337
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85813197,
+            "region_id":85688535,
+            "venue_id":739775337
+        }
+    ],
+    "wof:id":739775337,
+    "wof:lastmodified":1461914759,
+    "wof:name":"Subway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.475738,
+    33.890079,
+    -84.475738,
+    33.890079
+],
+  "geometry": {"coordinates":[-84.47573800000001,33.890079],"type":"Point"}
+}

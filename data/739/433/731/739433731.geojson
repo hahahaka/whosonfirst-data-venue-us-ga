@@ -1,0 +1,73 @@
+{
+  "id": 739433731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.110084,33.49011,-82.110084,33.49011",
+    "geom:latitude":33.49011,
+    "geom:longitude":-82.110084,
+    "iso:country":"US",
+    "sg:address":"4162 Wheeler Rd",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 869 8402",
+    "sg:postcode":"30907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RtYsoFEFMhdWCYmfGFpdW_33.490110_-82.110084@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907238,
+    "wof:geomhash":"80288e62b42a4657a10ab4196129936c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":739433731
+        }
+    ],
+    "wof:id":739433731,
+    "wof:lastmodified":1461907238,
+    "wof:name":"Martinez Auto Repair",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -82.110084,
+    33.49011,
+    -82.110084,
+    33.49011
+],
+  "geometry": {"coordinates":[-82.110084,33.49011],"type":"Point"}
+}

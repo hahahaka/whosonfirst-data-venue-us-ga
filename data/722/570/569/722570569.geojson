@@ -1,0 +1,71 @@
+{
+  "id": 722570569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.502212,31.171901,-81.502212,31.171901",
+    "geom:latitude":31.171901,
+    "geom:longitude":-81.502212,
+    "iso:country":"US",
+    "sg:address":"3108 Reynolds St",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 466 9494",
+    "sg:postcode":"31520",
+    "sg:province":"GA",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85833275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_652UjR2PMZMBAKWwVrLiq9_31.171901_-81.502212@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461884420,
+    "wof:geomhash":"32dfcee6e310c291e54d012109bbf0a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85833275,
+            "region_id":85688535,
+            "venue_id":722570569
+        }
+    ],
+    "wof:id":722570569,
+    "wof:lastmodified":1461884420,
+    "wof:name":"Super Clean Pressure Washing",
+    "wof:parent_id":85833275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -81.502212,
+    31.171901,
+    -81.502212,
+    31.171901
+],
+  "geometry": {"coordinates":[-81.502212,31.171901],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 722668057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.536704,33.913861,-84.536704,33.913861",
+    "geom:latitude":33.913861,
+    "geom:longitude":-84.536704,
+    "iso:country":"US",
+    "sg:address":"1650 Atlanta Rd SW",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 305 9890",
+    "sg:postcode":"30060",
+    "sg:province":"GA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85845875,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51bHCsdwBA5jcxpvUNsr3g_33.913861_-84.536704@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886360,
+    "wof:geomhash":"d40470ddbb8de5d59e0cb2eb5fc32306",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":722668057
+        }
+    ],
+    "wof:id":722668057,
+    "wof:lastmodified":1461886360,
+    "wof:name":"Discount Supermarket",
+    "wof:parent_id":85845875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -84.536704,
+    33.913861,
+    -84.536704,
+    33.913861
+],
+  "geometry": {"coordinates":[-84.536704,33.913861],"type":"Point"}
+}

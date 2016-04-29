@@ -1,0 +1,73 @@
+{
+  "id": 739515731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.617036,34.052146,-84.617036,34.052146",
+    "geom:latitude":34.052146,
+    "geom:longitude":-84.617036,
+    "iso:country":"US",
+    "sg:address":"4190 Jiles Rd",
+    "sg:city":"Kennesaw",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 429 1272",
+    "sg:postcode":"30144",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automobile",
+        "testing",
+        "emission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85821545,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R9nEbbiH9n3cDxkIbMqr4_34.052146_-84.617036@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461908716,
+    "wof:geomhash":"e96720478b61770968422a184903273a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85821545,
+            "region_id":85688535,
+            "venue_id":739515731
+        }
+    ],
+    "wof:id":739515731,
+    "wof:lastmodified":1461908716,
+    "wof:name":"Emissions Quick",
+    "wof:parent_id":85821545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "testing",
+        "emission"
+    ]
+},
+  "bbox": [
+    -84.617036,
+    34.052146,
+    -84.617036,
+    34.052146
+],
+  "geometry": {"coordinates":[-84.617036,34.052146],"type":"Point"}
+}

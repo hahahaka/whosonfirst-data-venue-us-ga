@@ -1,0 +1,80 @@
+{
+  "id": 739587277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.68351,32.613871,-83.68351,32.613871",
+    "geom:latitude":32.613871,
+    "geom:longitude":-83.68351,
+    "iso:country":"US",
+    "sg:address":"118 Osigian Blvd",
+    "sg:city":"Warner Robins",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 953 6556",
+    "sg:postcode":"31088",
+    "sg:province":"GA",
+    "sg:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58lQdnViSl0Jpi6trMndCp_32.613871_-83.683510@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910146,
+    "wof:geomhash":"b8e033727ca8ddb7d33aa5cd8a2199eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":739587277
+        }
+    ],
+    "wof:id":739587277,
+    "wof:lastmodified":1461910146,
+    "wof:name":"B M A Warner Robins",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ]
+},
+  "bbox": [
+    -83.68351,
+    32.613871,
+    -83.68351,
+    32.613871
+],
+  "geometry": {"coordinates":[-83.68351,32.613871],"type":"Point"}
+}

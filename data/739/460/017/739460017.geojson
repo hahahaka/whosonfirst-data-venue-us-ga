@@ -1,0 +1,75 @@
+{
+  "id": 739460017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.64028,32.830416,-83.64028,32.830416",
+    "geom:latitude":32.830416,
+    "geom:longitude":-83.64028,
+    "iso:country":"US",
+    "sg:address":"1166 Jackson St",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 751 9220",
+    "sg:postcode":"31201",
+    "sg:province":"GA",
+    "sg:tags":[
+        "academy",
+        "police"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936517,
+        102084373,
+        85853103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04BSQyH4Ykg8oeU9jmBLQC_32.830416_-83.640280@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907716,
+    "wof:geomhash":"f251a805353b76a0924f4c3d49916924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084373,
+            "locality_id":85936517,
+            "neighbourhood_id":85853103,
+            "region_id":85688535,
+            "venue_id":739460017
+        }
+    ],
+    "wof:id":739460017,
+    "wof:lastmodified":1461907716,
+    "wof:name":"Macon Police Training Academy",
+    "wof:parent_id":85853103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academy",
+        "police"
+    ]
+},
+  "bbox": [
+    -83.64028,
+    32.830416,
+    -83.64028,
+    32.830416
+],
+  "geometry": {"coordinates":[-83.64028,32.830416],"type":"Point"}
+}

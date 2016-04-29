@@ -1,0 +1,97 @@
+{
+  "id": 739901663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.740033,33.379214,-84.740033,33.379214",
+    "geom:latitude":33.379214,
+    "geom:longitude":-84.740033,
+    "iso:country":"US",
+    "sg:address":"51A Market Square Rd",
+    "sg:city":"Newnan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 304 8900",
+    "sg:postcode":"30265",
+    "sg:province":"GA",
+    "sg:tags":[
+        "hospital",
+        "specialty",
+        "clinic",
+        "veterinarian",
+        "grooming",
+        "kennel"
+    ],
+    "sg:website":"http://www.crescentvet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936351,
+        102084443,
+        85833133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qKleEBk8sDFRwySRT846d_33.379214_-84.740033@1303262602"
+    },
+    "wof:country":"US",
+    "wof:created":1461919887,
+    "wof:geomhash":"3417645c8983549e5bea66d5f7bed32a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084443,
+            "locality_id":85936351,
+            "neighbourhood_id":85833133,
+            "region_id":85688535,
+            "venue_id":739901663
+        }
+    ],
+    "wof:id":739901663,
+    "wof:lastmodified":1461919887,
+    "wof:name":"Crescent Veterinary Hospital",
+    "wof:parent_id":85833133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "specialty",
+        "clinic",
+        "veterinarian",
+        "grooming",
+        "kennel"
+    ]
+},
+  "bbox": [
+    -84.740033,
+    33.379214,
+    -84.740033,
+    33.379214
+],
+  "geometry": {"coordinates":[-84.740033,33.379214],"type":"Point"}
+}

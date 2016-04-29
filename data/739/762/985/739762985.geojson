@@ -1,0 +1,84 @@
+{
+  "id": 739762985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.268918,33.754136,-84.268918,33.754136",
+    "geom:latitude":33.754136,
+    "geom:longitude":-84.268918,
+    "iso:country":"US",
+    "sg:address":"3523 Memorial Dr",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/atlanta-decatur/70763-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 288 9800",
+    "sg:postcode":"30032",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937245,
+        102084539,
+        85811997,
+        85816491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Uji9e9uPu3fQO3ULZMKvk_33.754136_-84.268918@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914257,
+    "wof:geomhash":"9bd00c9324b85e44e916b95bc1105a78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937245,
+            "neighbourhood_id":85811997,
+            "region_id":85688535,
+            "venue_id":739762985
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739762985
+        }
+    ],
+    "wof:id":739762985,
+    "wof:lastmodified":1461914257,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.268918,
+    33.754136,
+    -84.268918,
+    33.754136
+],
+  "geometry": {"coordinates":[-84.268918,33.754136],"type":"Point"}
+}

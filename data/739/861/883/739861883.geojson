@@ -1,0 +1,83 @@
+{
+  "id": 739861883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.679779,34.03524,-84.679779,34.03524",
+    "geom:latitude":34.03524,
+    "geom:longitude":-84.679779,
+    "iso:country":"US",
+    "sg:address":"3334 Cobb Pkwy NW",
+    "sg:city":"Acworth",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 974 3912",
+    "sg:postcode":"30101",
+    "sg:province":"GA",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"https://www.wachovia.com/?DCMP=KNL-CPS-DS-Directory-0703&HBX_PK=Banks&HBX_OU=71",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936129,
+        102082313,
+        85829479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mfZ3vjR4kDYZSUm6xlcb6_34.035240_-84.679779@1303262591"
+    },
+    "wof:country":"US",
+    "wof:created":1461918387,
+    "wof:geomhash":"09c63d137cef3cfd492adec9573037cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936129,
+            "neighbourhood_id":85829479,
+            "region_id":85688535,
+            "venue_id":739861883
+        }
+    ],
+    "wof:id":739861883,
+    "wof:lastmodified":1461918387,
+    "wof:name":"Wachovia Bank",
+    "wof:parent_id":85829479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -84.679779,
+    34.03524,
+    -84.679779,
+    34.03524
+],
+  "geometry": {"coordinates":[-84.679779,34.03524],"type":"Point"}
+}

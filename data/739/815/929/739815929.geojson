@@ -1,0 +1,89 @@
+{
+  "id": 739815929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.583386,33.881762,-84.583386,33.881762",
+    "geom:latitude":33.881762,
+    "geom:longitude":-84.583386,
+    "iso:country":"US",
+    "sg:address":"1039 Hicksmil Dr SW",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 435 4900",
+    "sg:postcode":"30060",
+    "sg:province":"GA",
+    "sg:tags":[
+        "cleaner",
+        "cleaners-interior",
+        "janitorial",
+        "maintenance",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4B171W6RSlhZpkkmtLDQaa_33.881762_-84.583386@1303262579"
+    },
+    "wof:country":"US",
+    "wof:created":1461916543,
+    "wof:geomhash":"8aff8a9aa60e7bc4cda595e529002b5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":739815929
+        }
+    ],
+    "wof:id":739815929,
+    "wof:lastmodified":1461916543,
+    "wof:name":"It's Magic Cleaning Svc",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "cleaners-interior",
+        "janitorial",
+        "maintenance",
+        "house"
+    ]
+},
+  "bbox": [
+    -84.583386,
+    33.881762,
+    -84.583386,
+    33.881762
+],
+  "geometry": {"coordinates":[-84.583386,33.881762],"type":"Point"}
+}

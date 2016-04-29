@@ -1,0 +1,71 @@
+{
+  "id": 723508265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.522385,34.063958,-84.522385,34.063958",
+    "geom:latitude":34.063958,
+    "geom:longitude":-84.522385,
+    "iso:country":"US",
+    "sg:address":"840 Shallowford Rd NE",
+    "sg:city":"Kennesaw",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 445 8887",
+    "sg:postcode":"30144",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85858509,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32LZFVse5h4J9nNDjWTfKK_34.063958_-84.522385@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461903140,
+    "wof:geomhash":"655efc241e3405b291da7ec7d45f8f10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85858509,
+            "region_id":85688535,
+            "venue_id":723508265
+        }
+    ],
+    "wof:id":723508265,
+    "wof:lastmodified":1461903140,
+    "wof:name":"Faith Automotive",
+    "wof:parent_id":85858509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.522385,
+    34.063958,
+    -84.522385,
+    34.063958
+],
+  "geometry": {"coordinates":[-84.522385,34.063958],"type":"Point"}
+}

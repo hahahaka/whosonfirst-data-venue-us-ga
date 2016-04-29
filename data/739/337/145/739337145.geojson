@@ -1,0 +1,75 @@
+{
+  "id": 739337145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.979567,33.040747,-84.979567,33.040747",
+    "geom:latitude":33.040747,
+    "geom:longitude":-84.979567,
+    "iso:country":"US",
+    "sg:address":"112 Cotton Rd",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 883 7249",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4J9NP3K2CI6zteCZj3x6Ki_33.040747_-84.979567@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461905328,
+    "wof:geomhash":"0c7ba54b7ef218b09bedc2e48ea1994c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739337145
+        }
+    ],
+    "wof:id":739337145,
+    "wof:lastmodified":1461905328,
+    "wof:name":"Cotton's Collision Ctr",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -84.979567,
+    33.040747,
+    -84.979567,
+    33.040747
+],
+  "geometry": {"coordinates":[-84.979567,33.040747],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 722653037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.272509,34.687452,-85.272509,34.687452",
+    "geom:latitude":34.687452,
+    "geom:longitude":-85.272509,
+    "iso:country":"US",
+    "sg:address":"1005 S Main St",
+    "sg:city":"La Fayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 638 3507",
+    "sg:postcode":"30728",
+    "sg:province":"GA",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936063,
+        102082321,
+        85830807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45c5CAkvQcwjDsH39IghWv_34.687452_-85.272509@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886069,
+    "wof:geomhash":"5110d1fa24960c7233a9ed61645472a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082321,
+            "locality_id":85936063,
+            "neighbourhood_id":85830807,
+            "region_id":85688535,
+            "venue_id":722653037
+        }
+    ],
+    "wof:id":722653037,
+    "wof:lastmodified":1461886069,
+    "wof:name":"LA Fayette Animal Clinic",
+    "wof:parent_id":85830807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -85.272509,
+    34.687452,
+    -85.272509,
+    34.687452
+],
+  "geometry": {"coordinates":[-85.272509,34.687452],"type":"Point"}
+}

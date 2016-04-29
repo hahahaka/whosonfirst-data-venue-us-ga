@@ -1,0 +1,71 @@
+{
+  "id": 723312563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.546827,33.902134,-84.546827,33.902134",
+    "geom:latitude":33.902134,
+    "geom:longitude":-84.546827,
+    "iso:country":"US",
+    "sg:address":"379 Pat Mell Rd SE",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 435 5459",
+    "sg:postcode":"30060",
+    "sg:province":"GA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45D36EZFr1g5bJYVEBXw0Y_33.902134_-84.546827@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899311,
+    "wof:geomhash":"f83fd7b095703a548ba2c8b011f79c09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":723312563
+        }
+    ],
+    "wof:id":723312563,
+    "wof:lastmodified":1461899311,
+    "wof:name":"Lubin Trivino Automatic Trans",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -84.546827,
+    33.902134,
+    -84.546827,
+    33.902134
+],
+  "geometry": {"coordinates":[-84.54682699999999,33.902134],"type":"Point"}
+}

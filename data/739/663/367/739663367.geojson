@@ -1,0 +1,71 @@
+{
+  "id": 739663367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.155898,31.573815,-84.155898,31.573815",
+    "geom:latitude":31.573815,
+    "geom:longitude":-84.155898,
+    "iso:country":"US",
+    "sg:address":"301 W Highland Ave",
+    "sg:city":"Albany",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 436 7185",
+    "sg:postcode":"31701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935991,
+        102084427,
+        85822061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iLGYcpVi6ks11O9yYwxWU_31.573815_-84.155898@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461911816,
+    "wof:geomhash":"401ee2854d8f6b0a0c604a8bfff1178b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":85822061,
+            "region_id":85688535,
+            "venue_id":739663367
+        }
+    ],
+    "wof:id":739663367,
+    "wof:lastmodified":1461911816,
+    "wof:name":"Albany Cab Co",
+    "wof:parent_id":85822061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -84.155898,
+    31.573815,
+    -84.155898,
+    31.573815
+],
+  "geometry": {"coordinates":[-84.15589799999999,31.573815],"type":"Point"}
+}

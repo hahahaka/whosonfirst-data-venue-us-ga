@@ -1,0 +1,76 @@
+{
+  "id": 739984925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.560532,33.749161,-84.560532,33.749161",
+    "geom:latitude":33.749161,
+    "geom:longitude":-84.560532,
+    "iso:country":"US",
+    "sg:address":"5305 Tulane Dr SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 696 9330",
+    "sg:postcode":"30336",
+    "sg:province":"GA",
+    "sg:tags":[
+        "self",
+        "warehouses-public-commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85872053,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4a6upKUe0pLciAHSDeTa7H_33.749161_-84.560532@1303262623"
+    },
+    "wof:country":"US",
+    "wof:created":1461923344,
+    "wof:geomhash":"349569c22fed122b50349e633f80cb36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85872053,
+            "region_id":85688535,
+            "venue_id":739984925
+        }
+    ],
+    "wof:id":739984925,
+    "wof:lastmodified":1461923344,
+    "wof:name":"Southeastern Warehouse Services Inc",
+    "wof:parent_id":85872053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "warehouses-public-commercial"
+    ]
+},
+  "bbox": [
+    -84.560532,
+    33.749161,
+    -84.560532,
+    33.749161
+],
+  "geometry": {"coordinates":[-84.56053199999999,33.749161],"type":"Point"}
+}

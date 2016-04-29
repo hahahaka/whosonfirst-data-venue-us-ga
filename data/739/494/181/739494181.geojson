@@ -1,0 +1,73 @@
+{
+  "id": 739494181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.026385,33.028515,-85.026385,33.028515",
+    "geom:latitude":33.028515,
+    "geom:longitude":-85.026385,
+    "iso:country":"US",
+    "sg:address":"102 E Cannon St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 845 0031",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IpW3fLqr8AI9QW9ssbXTa_33.028515_-85.026385@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461908329,
+    "wof:geomhash":"0306816fe36e77287cbf80bc701456e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739494181
+        }
+    ],
+    "wof:id":739494181,
+    "wof:lastmodified":1461908329,
+    "wof:name":"Butler's Automotive Machine",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.026385,
+    33.028515,
+    -85.026385,
+    33.028515
+],
+  "geometry": {"coordinates":[-85.026385,33.028515],"type":"Point"}
+}

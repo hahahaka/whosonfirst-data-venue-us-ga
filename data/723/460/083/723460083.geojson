@@ -1,0 +1,69 @@
+{
+  "id": 723460083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.540365,33.747401,-84.540365,33.747401",
+    "geom:latitude":33.747401,
+    "geom:longitude":-84.540365,
+    "iso:country":"US",
+    "sg:address":"4675 Bakers Ferry Rd SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 699 5571",
+    "sg:postcode":"30331",
+    "sg:province":"GA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85872053,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2E8W6slJaCLP6NrJtFvipA_33.747401_-84.540365@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461902124,
+    "wof:geomhash":"b930a73f5ce0781e228c9c67a1a8ecd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85872053,
+            "region_id":85688535,
+            "venue_id":723460083
+        }
+    ],
+    "wof:id":723460083,
+    "wof:lastmodified":1461902124,
+    "wof:name":"Idealease",
+    "wof:parent_id":85872053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -84.540365,
+    33.747401,
+    -84.540365,
+    33.747401
+],
+  "geometry": {"coordinates":[-84.54036499999999,33.747401],"type":"Point"}
+}

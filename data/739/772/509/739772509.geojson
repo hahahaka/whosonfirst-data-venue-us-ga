@@ -1,0 +1,89 @@
+{
+  "id": 739772509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.687559,32.899906,-83.687559,32.899906",
+    "geom:latitude":32.899906,
+    "geom:longitude":-83.687559,
+    "iso:country":"US",
+    "sg:address":"121 Tom Hill Sr Blvd",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/macon/130402-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 475 0770",
+    "sg:postcode":"31210",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85833281,
+        102084373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2w0TPeO7wSH7M8geMn5Cuf_32.899906_-83.687559@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914646,
+    "wof:geomhash":"234b24ee2f9ddf0f82eea521064928ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084373,
+            "neighbourhood_id":85833281,
+            "region_id":85688535,
+            "venue_id":739772509
+        }
+    ],
+    "wof:id":739772509,
+    "wof:lastmodified":1461914646,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85833281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -83.687559,
+    32.899906,
+    -83.687559,
+    32.899906
+],
+  "geometry": {"coordinates":[-83.68755899999999,32.899906],"type":"Point"}
+}

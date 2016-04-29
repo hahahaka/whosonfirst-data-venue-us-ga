@@ -1,0 +1,71 @@
+{
+  "id": 722875847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.444055,31.25265,-81.444055,31.25265",
+    "geom:latitude":31.25265,
+    "geom:longitude":-81.444055,
+    "iso:country":"US",
+    "sg:address":"4627 US Hwy 17",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 264 1191",
+    "sg:postcode":"31525",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shelter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85814297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XWU4CvDbYUTY1W6Z8yAWU_31.252650_-81.444055@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461890308,
+    "wof:geomhash":"9b446be9fc01057e87433f0ede38c980",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85814297,
+            "region_id":85688535,
+            "venue_id":722875847
+        }
+    ],
+    "wof:id":722875847,
+    "wof:lastmodified":1461890308,
+    "wof:name":"Humane Society",
+    "wof:parent_id":85814297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter"
+    ]
+},
+  "bbox": [
+    -81.444055,
+    31.25265,
+    -81.444055,
+    31.25265
+],
+  "geometry": {"coordinates":[-81.44405500000001,31.25265],"type":"Point"}
+}

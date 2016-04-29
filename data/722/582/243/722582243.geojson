@@ -1,0 +1,83 @@
+{
+  "id": 722582243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.288838,33.734766,-84.288838,33.734766",
+    "geom:latitude":33.734766,
+    "geom:longitude":-84.288838,
+    "iso:country":"US",
+    "sg:address":"1949 Bonner St",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 286 5006",
+    "sg:postcode":"30032",
+    "sg:province":"GA",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937245,
+        102084539,
+        85816501,
+        85816491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VnvM6alxrOTlkwYkXxbRV_33.734766_-84.288838@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461884645,
+    "wof:geomhash":"8339652a05d02760c8f70a94d2377083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937245,
+            "neighbourhood_id":85816501,
+            "region_id":85688535,
+            "venue_id":722582243
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":722582243
+        }
+    ],
+    "wof:id":722582243,
+    "wof:lastmodified":1461884645,
+    "wof:name":"William J Hauling",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.288838,
+    33.734766,
+    -84.288838,
+    33.734766
+],
+  "geometry": {"coordinates":[-84.288838,33.734766],"type":"Point"}
+}

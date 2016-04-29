@@ -1,0 +1,91 @@
+{
+  "id": 740065475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.316058,30.826814,-83.316058,30.826814",
+    "geom:latitude":30.826814,
+    "geom:longitude":-83.316058,
+    "iso:country":"US",
+    "sg:address":"1724 Dow St",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 242 4980",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "plumber",
+        "industrial",
+        "builder",
+        "contractor",
+        "contractors-commercial",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_758xZSOpcKz1OFIIEC8KMg_30.826814_-83.316058@1303262644"
+    },
+    "wof:country":"US",
+    "wof:created":1461926768,
+    "wof:geomhash":"7549b325d347f32ca475e537b8c66781",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843241,
+            "region_id":85688535,
+            "venue_id":740065475
+        }
+    ],
+    "wof:id":740065475,
+    "wof:lastmodified":1461926768,
+    "wof:name":"G & M Plumbing",
+    "wof:parent_id":85843241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber",
+        "industrial",
+        "builder",
+        "contractor",
+        "contractors-commercial",
+        "home"
+    ]
+},
+  "bbox": [
+    -83.316058,
+    30.826814,
+    -83.316058,
+    30.826814
+],
+  "geometry": {"coordinates":[-83.316058,30.826814],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 723389399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.424568,33.962723,-83.424568,33.962723",
+    "geom:latitude":33.962723,
+    "geom:longitude":-83.424568,
+    "iso:country":"US",
+    "sg:address":"1500 Oglethorpe Ave",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 548 8600",
+    "sg:postcode":"30606",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936177,
+        102081713,
+        85828737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43bthZhWSChi9zrXtitgIl_33.962723_-83.424568@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900757,
+    "wof:geomhash":"7486521d6ded27232522f71c5a195bc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081713,
+            "locality_id":85936177,
+            "neighbourhood_id":85828737,
+            "region_id":85688535,
+            "venue_id":723389399
+        }
+    ],
+    "wof:id":723389399,
+    "wof:lastmodified":1461900757,
+    "wof:name":"Athens Internal Medicine Assoc",
+    "wof:parent_id":85828737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.424568,
+    33.962723,
+    -83.424568,
+    33.962723
+],
+  "geometry": {"coordinates":[-83.42456799999999,33.962723],"type":"Point"}
+}

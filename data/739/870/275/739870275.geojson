@@ -1,0 +1,84 @@
+{
+  "id": 739870275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.795795,34.216542,-84.795795,34.216542",
+    "geom:latitude":34.216542,
+    "geom:longitude":-84.795795,
+    "iso:country":"US",
+    "sg:address":"13 Dean Dr NE",
+    "sg:city":"Cartersville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 383 3355",
+    "sg:postcode":"30121",
+    "sg:province":"GA",
+    "sg:tags":[
+        "propane",
+        "bulk",
+        "petroleum-bottled",
+        "gas-liquefied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936223,
+        102082937,
+        85822917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3r4KUHYDv7ttaMamgTl0PE_34.216542_-84.795795@1303262593"
+    },
+    "wof:country":"US",
+    "wof:created":1461918703,
+    "wof:geomhash":"e253a5685a2d2291b576e1815a5e2289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082937,
+            "locality_id":85936223,
+            "neighbourhood_id":85822917,
+            "region_id":85688535,
+            "venue_id":739870275
+        }
+    ],
+    "wof:id":739870275,
+    "wof:lastmodified":1461918703,
+    "wof:name":"Platinum Propane",
+    "wof:parent_id":85822917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "propane",
+        "bulk",
+        "petroleum-bottled",
+        "gas-liquefied"
+    ]
+},
+  "bbox": [
+    -84.795795,
+    34.216542,
+    -84.795795,
+    34.216542
+],
+  "geometry": {"coordinates":[-84.795795,34.216542],"type":"Point"}
+}

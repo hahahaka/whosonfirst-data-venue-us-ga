@@ -1,0 +1,78 @@
+{
+  "id": 740042359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.130943,33.546719,-82.130943,33.546719",
+    "geom:latitude":33.546719,
+    "geom:longitude":-82.130943,
+    "iso:country":"US",
+    "sg:address":"7022 Evans Town Center Blvd",
+    "sg:city":"Evans",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 863 1946",
+    "sg:postcode":"30809",
+    "sg:province":"GA",
+    "sg:tags":[
+        "parish",
+        "government-county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cKd92rvQNua9Lf5aaTkhm_33.546719_-82.130943@1303262638"
+    },
+    "wof:country":"US",
+    "wof:created":1461925735,
+    "wof:geomhash":"48c2c43edf0efa5083762c4866143bc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":740042359
+        }
+    ],
+    "wof:id":740042359,
+    "wof:lastmodified":1461925735,
+    "wof:name":"Columbia County Libraries",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parish",
+        "government-county"
+    ]
+},
+  "bbox": [
+    -82.130943,
+    33.546719,
+    -82.130943,
+    33.546719
+],
+  "geometry": {"coordinates":[-82.130943,33.546719],"type":"Point"}
+}

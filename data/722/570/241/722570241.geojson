@@ -1,0 +1,73 @@
+{
+  "id": 722570241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.239948,34.94986,-85.239948,34.94986",
+    "geom:latitude":34.94986,
+    "geom:longitude":-85.239948,
+    "iso:country":"US",
+    "sg:address":"84 Stuart Rd",
+    "sg:city":"Fort Oglethorpe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 861 9001",
+    "sg:postcode":"30742",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936055,
+        102084401,
+        85818561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6th3hq6rqtnmrap4Dy6amp_34.949860_-85.239948@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461884414,
+    "wof:geomhash":"b2018f17a4b48ee029bb5de0c4739bd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084401,
+            "locality_id":85936055,
+            "neighbourhood_id":85818561,
+            "region_id":85688535,
+            "venue_id":722570241
+        }
+    ],
+    "wof:id":722570241,
+    "wof:lastmodified":1461884414,
+    "wof:name":"Pediatric Health Care",
+    "wof:parent_id":85818561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.239948,
+    34.94986,
+    -85.239948,
+    34.94986
+],
+  "geometry": {"coordinates":[-85.239948,34.94986],"type":"Point"}
+}

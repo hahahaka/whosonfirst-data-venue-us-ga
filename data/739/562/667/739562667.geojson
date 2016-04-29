@@ -1,0 +1,67 @@
+{
+  "id": 739562667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.60602,31.850556,-81.60602,31.850556",
+    "geom:latitude":31.850556,
+    "geom:longitude":-81.60602,
+    "iso:country":"US",
+    "sg:address":"300 W General Screven Way",
+    "sg:city":"Hinesville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 876 4444",
+    "sg:postcode":"31313",
+    "sg:province":"GA",
+    "sg:website":"www.burgerking.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937305,
+        102082901,
+        85806839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Kfg2SPGNyku0I1IKyISTP_31.850556_-81.606020@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461909619,
+    "wof:geomhash":"0af5676cbba73f1f566f647a3bc93b3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082901,
+            "locality_id":85937305,
+            "neighbourhood_id":85806839,
+            "region_id":85688535,
+            "venue_id":739562667
+        }
+    ],
+    "wof:id":739562667,
+    "wof:lastmodified":1461909619,
+    "wof:name":"Burger King",
+    "wof:parent_id":85806839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.60602,
+    31.850556,
+    -81.60602,
+    31.850556
+],
+  "geometry": {"coordinates":[-81.60602,31.850556],"type":"Point"}
+}

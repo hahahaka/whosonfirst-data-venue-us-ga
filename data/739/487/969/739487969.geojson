@@ -1,0 +1,71 @@
+{
+  "id": 739487969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.972883,30.831776,-83.972883,30.831776",
+    "geom:latitude":30.831776,
+    "geom:longitude":-83.972883,
+    "iso:country":"US",
+    "sg:address":"805 S Hansell St",
+    "sg:city":"Thomasville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 225 1357",
+    "sg:postcode":"31792",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85833309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cUuwxPr0mE9BdegjPt8AI_30.831776_-83.972883@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461908220,
+    "wof:geomhash":"645cf35679ec1c923fa1c3e19efa846f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85833309,
+            "region_id":85688535,
+            "venue_id":739487969
+        }
+    ],
+    "wof:id":739487969,
+    "wof:lastmodified":1461908220,
+    "wof:name":"Thomasville Obgyn",
+    "wof:parent_id":85833309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.972883,
+    30.831776,
+    -83.972883,
+    30.831776
+],
+  "geometry": {"coordinates":[-83.972883,30.831776],"type":"Point"}
+}

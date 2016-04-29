@@ -1,0 +1,73 @@
+{
+  "id": 740031085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.909857,34.176369,-83.909857,34.176369",
+    "geom:latitude":34.176369,
+    "geom:longitude":-83.909857,
+    "iso:country":"US",
+    "sg:address":"4841 Hog Mountain Rd Ste D",
+    "sg:city":"Flowery Branch",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 965 1733",
+    "sg:postcode":"30542",
+    "sg:province":"GA",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936863,
+        102083629,
+        85850511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Yk1zlqPJSt6RPYGBOE60Q_34.176369_-83.909857@1303262635"
+    },
+    "wof:country":"US",
+    "wof:created":1461925204,
+    "wof:geomhash":"c65eded50e94248469ce5f68d3b72ff5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083629,
+            "locality_id":85936863,
+            "neighbourhood_id":85850511,
+            "region_id":85688535,
+            "venue_id":740031085
+        }
+    ],
+    "wof:id":740031085,
+    "wof:lastmodified":1461925204,
+    "wof:name":"Pet Place",
+    "wof:parent_id":85850511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -83.909857,
+    34.176369,
+    -83.909857,
+    34.176369
+],
+  "geometry": {"coordinates":[-83.909857,34.176369],"type":"Point"}
+}

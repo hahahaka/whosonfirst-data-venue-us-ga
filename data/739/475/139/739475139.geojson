@@ -1,0 +1,75 @@
+{
+  "id": 739475139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-80.848992,32.015561,-80.848992,32.015561",
+    "geom:latitude":32.015561,
+    "geom:longitude":-80.848992,
+    "iso:country":"US",
+    "sg:address":"102 N Campbell Ave",
+    "sg:city":"Tybee Island",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 786 9632",
+    "sg:postcode":"31328",
+    "sg:province":"GA",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937331,
+        102082337,
+        85808955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jTYSKvSKV74oME6Sx1yxW_32.015561_-80.848992@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907980,
+    "wof:geomhash":"753682eeee87fb3a7c0b1e04b30e87eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85937331,
+            "neighbourhood_id":85808955,
+            "region_id":85688535,
+            "venue_id":739475139
+        }
+    ],
+    "wof:id":739475139,
+    "wof:lastmodified":1461907980,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85808955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -80.848992,
+    32.015561,
+    -80.848992,
+    32.015561
+],
+  "geometry": {"coordinates":[-80.848992,32.015561],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 739895479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.070065,33.03265,-85.070065,33.03265",
+    "geom:latitude":33.03265,
+    "geom:longitude":-85.070065,
+    "iso:country":"US",
+    "sg:address":"1861 Roanoke Rd Ste B",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 812 1004",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85830157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07cXx3dodrSkz5j93sqwEq_33.032650_-85.070065@1303262600"
+    },
+    "wof:country":"US",
+    "wof:created":1461919641,
+    "wof:geomhash":"52c07c47ed481cbdbf17a303d5d16388",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85830157,
+            "region_id":85688535,
+            "venue_id":739895479
+        }
+    ],
+    "wof:id":739895479,
+    "wof:lastmodified":1461919641,
+    "wof:name":"Ruby Nails",
+    "wof:parent_id":85830157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.070065,
+    33.03265,
+    -85.070065,
+    33.03265
+],
+  "geometry": {"coordinates":[-85.070065,33.03265],"type":"Point"}
+}

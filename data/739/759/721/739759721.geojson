@@ -1,0 +1,83 @@
+{
+  "id": 739759721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.281723,33.738579,-84.281723,33.738579",
+    "geom:latitude":33.738579,
+    "geom:longitude":-84.281723,
+    "iso:country":"US",
+    "sg:address":"3335 Glenwood Rd",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 288 0152",
+    "sg:postcode":"30032",
+    "sg:province":"GA",
+    "sg:tags":[
+        "car",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937245,
+        102084539,
+        85816501,
+        85816491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6urK4RMs60jnxVY0EfF9Wm_33.738488_-84.281325@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461914123,
+    "wof:geomhash":"facf1ecb820ceddee49c7af441de79a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937245,
+            "neighbourhood_id":85816501,
+            "region_id":85688535,
+            "venue_id":739759721
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739759721
+        }
+    ],
+    "wof:id":739759721,
+    "wof:lastmodified":1461914123,
+    "wof:name":"King & King Auto Sales",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used"
+    ]
+},
+  "bbox": [
+    -84.281723,
+    33.738579,
+    -84.281723,
+    33.738579
+],
+  "geometry": {"coordinates":[-84.281723,33.738579],"type":"Point"}
+}

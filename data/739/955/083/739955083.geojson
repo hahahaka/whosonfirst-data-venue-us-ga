@@ -1,0 +1,90 @@
+{
+  "id": 739955083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.396317,33.68111,-84.396317,33.68111",
+    "geom:latitude":33.68111,
+    "geom:longitude":-84.396317,
+    "iso:country":"US",
+    "sg:address":"221 Cleveland Ave SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 762 0405",
+    "sg:postcode":"30315",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ],
+    "sg:website":"http://www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vctfEJ0TAZq5w3NGcVNMT_33.681110_-84.396317@1303262615"
+    },
+    "wof:country":"US",
+    "wof:created":1461922186,
+    "wof:geomhash":"dcaa367911727ffdaaff68a2d5b01ae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872119,
+            "region_id":85688535,
+            "venue_id":739955083
+        }
+    ],
+    "wof:id":739955083,
+    "wof:lastmodified":1461922186,
+    "wof:name":"Subway",
+    "wof:parent_id":85872119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ]
+},
+  "bbox": [
+    -84.396317,
+    33.68111,
+    -84.396317,
+    33.68111
+],
+  "geometry": {"coordinates":[-84.396317,33.68111],"type":"Point"}
+}

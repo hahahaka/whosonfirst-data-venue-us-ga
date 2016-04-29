@@ -1,0 +1,83 @@
+{
+  "id": 739802963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.171783,34.160966,-84.171783,34.160966",
+    "geom:latitude":34.160966,
+    "geom:longitude":-84.171783,
+    "iso:country":"US",
+    "sg:address":"2271 Atlanta Hwy",
+    "sg:city":"Cumming",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 444 2343",
+    "sg:postcode":"30040",
+    "sg:province":"GA",
+    "sg:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ],
+    "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a10180874%3a13%3a4859924%3a14%3a0%3a7",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936811,
+        102082317,
+        85842073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ms9ECQO1ICnFRIflk43sv_34.160966_-84.171783@1303262576"
+    },
+    "wof:country":"US",
+    "wof:created":1461915917,
+    "wof:geomhash":"cb240505fa870a9d844e1dc7a21f754b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082317,
+            "locality_id":85936811,
+            "neighbourhood_id":85842073,
+            "region_id":85688535,
+            "venue_id":739802963
+        }
+    ],
+    "wof:id":739802963,
+    "wof:lastmodified":1461915917,
+    "wof:name":"Fas-break Auto Glass",
+    "wof:parent_id":85842073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ]
+},
+  "bbox": [
+    -84.171783,
+    34.160966,
+    -84.171783,
+    34.160966
+],
+  "geometry": {"coordinates":[-84.171783,34.160966],"type":"Point"}
+}

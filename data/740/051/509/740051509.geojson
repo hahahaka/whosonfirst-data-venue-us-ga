@@ -1,0 +1,85 @@
+{
+  "id": 740051509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.706501,32.476114,-83.706501,32.476114",
+    "geom:latitude":32.476114,
+    "geom:longitude":-83.706501,
+    "iso:country":"US",
+    "sg:address":"265 Perry Pkwy",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 218 2850",
+    "sg:postcode":"31069",
+    "sg:province":"GA",
+    "sg:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ],
+    "sg:website":"http://www.mcdonalds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85806619,
+        102083617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YIk3eheEN6LzDwT7qUSsm_32.476114_-83.706501@1303262640"
+    },
+    "wof:country":"US",
+    "wof:created":1461926174,
+    "wof:geomhash":"708a982bf1b86e0991faf4442e7783b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "neighbourhood_id":85806619,
+            "region_id":85688535,
+            "venue_id":740051509
+        }
+    ],
+    "wof:id":740051509,
+    "wof:lastmodified":1461926174,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85806619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -83.706501,
+    32.476114,
+    -83.706501,
+    32.476114
+],
+  "geometry": {"coordinates":[-83.706501,32.476114],"type":"Point"}
+}

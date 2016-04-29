@@ -1,0 +1,84 @@
+{
+  "id": 739995575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.253957,33.903868,-84.253957,33.903868",
+    "geom:latitude":33.903868,
+    "geom:longitude":-84.253957,
+    "iso:country":"US",
+    "sg:address":"3440 Oakcliff Rd NE Ste 110",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 451 0602",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "sg:tags":[
+        "publisher",
+        "medical",
+        "book"
+    ],
+    "sg:website":"www.p-h.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TXCIVPlqdYjnJaQC26Mv5_33.903868_-84.253957@1303262626"
+    },
+    "wof:country":"US",
+    "wof:created":1461923767,
+    "wof:geomhash":"1cb71cca81eef9ddabfb3dad2f72a1cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":739995575
+        }
+    ],
+    "wof:id":739995575,
+    "wof:lastmodified":1461923767,
+    "wof:name":"Pritchett & Hull Associates, Inc",
+    "wof:parent_id":85889941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher",
+        "medical",
+        "book"
+    ]
+},
+  "bbox": [
+    -84.253957,
+    33.903868,
+    -84.253957,
+    33.903868
+],
+  "geometry": {"coordinates":[-84.253957,33.903868],"type":"Point"}
+}

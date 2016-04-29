@@ -1,0 +1,83 @@
+{
+  "id": 739477061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.374057,33.781777,-84.374057,33.781777",
+    "geom:latitude":33.781777,
+    "geom:longitude":-84.374057,
+    "iso:country":"US",
+    "sg:address":"301 10th St NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 894 1386",
+    "sg:postcode":"30309",
+    "sg:province":"GA",
+    "sg:tags":[
+        "university"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85825631,
+        85866909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q6HQBERBSqUZkdItcz4Fb_33.781777_-84.374057@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461908015,
+    "wof:geomhash":"dcfe092809705c5d47aeda9fe2b34ece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85825631,
+            "region_id":85688535,
+            "venue_id":739477061
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85866909,
+            "region_id":85688535,
+            "venue_id":739477061
+        }
+    ],
+    "wof:id":739477061,
+    "wof:lastmodified":1461908015,
+    "wof:name":"Georgia Tech University",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "university"
+    ]
+},
+  "bbox": [
+    -84.374057,
+    33.781777,
+    -84.374057,
+    33.781777
+],
+  "geometry": {"coordinates":[-84.37405699999999,33.781777],"type":"Point"}
+}

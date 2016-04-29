@@ -1,0 +1,83 @@
+{
+  "id": 739844165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.517228,33.849211,-84.517228,33.849211",
+    "geom:latitude":33.849211,
+    "geom:longitude":-84.517228,
+    "iso:country":"US",
+    "sg:address":"1230 Laurel Summit Dr SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Parking",
+            "subcategory":"Bicycle",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 842 9886",
+    "sg:postcode":"30082",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shop",
+        "security",
+        "system",
+        "rack"
+    ],
+    "sg:website":"http://www.southernbikeworks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AYp8Aa1Lqby9Hk8lxHWky_33.849211_-84.517228@1303262587"
+    },
+    "wof:country":"US",
+    "wof:created":1461917663,
+    "wof:geomhash":"e5b101de3f289980a622ef23e547c8ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":739844165
+        }
+    ],
+    "wof:id":739844165,
+    "wof:lastmodified":1461917663,
+    "wof:name":"Southern Bike Works",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "security",
+        "system",
+        "rack"
+    ]
+},
+  "bbox": [
+    -84.517228,
+    33.849211,
+    -84.517228,
+    33.849211
+],
+  "geometry": {"coordinates":[-84.517228,33.849211],"type":"Point"}
+}

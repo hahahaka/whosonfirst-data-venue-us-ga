@@ -1,0 +1,71 @@
+{
+  "id": 723063001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.401952,30.748488,-83.401952,30.748488",
+    "geom:latitude":30.748488,
+    "geom:longitude":-83.401952,
+    "iso:country":"US",
+    "sg:address":"4848 Knights Ferry Rd",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 247 4240",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3m4jJrdOUpVy4vXeT2pjZR_30.748488_-83.401952@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461894278,
+    "wof:geomhash":"a6bd2d9f014340d11697370f035356bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843241,
+            "region_id":85688535,
+            "venue_id":723063001
+        }
+    ],
+    "wof:id":723063001,
+    "wof:lastmodified":1461894278,
+    "wof:name":"William W Broadfoot DDS",
+    "wof:parent_id":85843241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -83.401952,
+    30.748488,
+    -83.401952,
+    30.748488
+],
+  "geometry": {"coordinates":[-83.40195199999999,30.748488],"type":"Point"}
+}

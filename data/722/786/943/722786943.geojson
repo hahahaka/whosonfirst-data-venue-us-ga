@@ -1,0 +1,71 @@
+{
+  "id": 722786943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.726364,32.45992,-83.726364,32.45992",
+    "geom:latitude":32.45992,
+    "geom:longitude":-83.726364,
+    "iso:country":"US",
+    "sg:address":"1241 Houston Lake Rd",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 988 0625",
+    "sg:postcode":"31069",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kfQv4C3pFeDiGDsZhD3xG_32.459920_-83.726364@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888636,
+    "wof:geomhash":"24571ad2dc571e82e99cf5a86fac2f99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":722786943
+        }
+    ],
+    "wof:id":722786943,
+    "wof:lastmodified":1461888636,
+    "wof:name":"Town & Country Animal Clinic",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.726364,
+    32.45992,
+    -83.726364,
+    32.45992
+],
+  "geometry": {"coordinates":[-83.726364,32.45992],"type":"Point"}
+}

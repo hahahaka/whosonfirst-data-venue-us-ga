@@ -1,0 +1,78 @@
+{
+  "id": 739989665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.333618,33.945135,-84.333618,33.945135",
+    "geom:latitude":33.945135,
+    "geom:longitude":-84.333618,
+    "iso:country":"US",
+    "sg:address":"5397 Chamblee Dunwoody Road",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 481 0904",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        420517741,
+        85815577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gMWVgOiAkoP7xYkUpxCag_33.945135_-84.333618@1303262624"
+    },
+    "wof:country":"US",
+    "wof:created":1461923541,
+    "wof:geomhash":"a5002d53691920f776a5e8de75184f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":420517741,
+            "region_id":85688535,
+            "venue_id":739989665
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85815577,
+            "region_id":85688535,
+            "venue_id":739989665
+        }
+    ],
+    "wof:id":739989665,
+    "wof:lastmodified":1461923541,
+    "wof:name":"Dunwoody Auto Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.333618,
+    33.945135,
+    -84.333618,
+    33.945135
+],
+  "geometry": {"coordinates":[-84.333618,33.945135],"type":"Point"}
+}

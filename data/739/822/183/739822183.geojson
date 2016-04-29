@@ -1,0 +1,78 @@
+{
+  "id": 739822183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.605003,33.903702,-84.605003,33.903702",
+    "geom:latitude":33.903702,
+    "geom:longitude":-84.605003,
+    "iso:country":"US",
+    "sg:address":"1770 Powder Springs Rd SW",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 426 9144",
+    "sg:postcode":"30064",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3J4c46gCG9qTWJDbNt75vb_33.903702_-84.605003@1303262581"
+    },
+    "wof:country":"US",
+    "wof:created":1461916778,
+    "wof:geomhash":"82b19bc5315e169e92e5dd72ab0dabac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739822183
+        }
+    ],
+    "wof:id":739822183,
+    "wof:lastmodified":1461916778,
+    "wof:name":"Cobb West Veterinary Hospital",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.605003,
+    33.903702,
+    -84.605003,
+    33.903702
+],
+  "geometry": {"coordinates":[-84.605003,33.903702],"type":"Point"}
+}

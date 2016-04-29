@@ -1,0 +1,73 @@
+{
+  "id": 739460909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.012655,34.717323,-85.012655,34.717323",
+    "geom:latitude":34.717323,
+    "geom:longitude":-85.012655,
+    "iso:country":"US",
+    "sg:address":"2060 Eagle Pt",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 277 9920",
+    "sg:postcode":"30720",
+    "sg:province":"GA",
+    "sg:tags":[
+        "scheduled",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Hr7rfuQYnUCqAqBHGHQrF_34.717323_-85.012655@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907731,
+    "wof:geomhash":"4c8f5be9a2928281544a381ad5fae127",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":739460909
+        }
+    ],
+    "wof:id":739460909,
+    "wof:lastmodified":1461907731,
+    "wof:name":"International Helicopter",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scheduled",
+        "air"
+    ]
+},
+  "bbox": [
+    -85.012655,
+    34.717323,
+    -85.012655,
+    34.717323
+],
+  "geometry": {"coordinates":[-85.012655,34.717323],"type":"Point"}
+}

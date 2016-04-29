@@ -1,0 +1,80 @@
+{
+  "id": 739802593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.06174,33.841279,-84.06174,33.841279",
+    "geom:latitude":33.841279,
+    "geom:longitude":-84.06174,
+    "iso:country":"US",
+    "sg:address":"3801 Highway 78 W",
+    "sg:city":"Snellville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Thrift Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 979 6991",
+    "sg:postcode":"30039",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shop",
+        "second",
+        "hand"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936303,
+        102082967,
+        85857829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Z82avFCfmS24M0VPI2N2X_33.841279_-84.061740@1303262576"
+    },
+    "wof:country":"US",
+    "wof:created":1461915894,
+    "wof:geomhash":"80501542d7f99effa2134bee8764627e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936303,
+            "neighbourhood_id":85857829,
+            "region_id":85688535,
+            "venue_id":739802593
+        }
+    ],
+    "wof:id":739802593,
+    "wof:lastmodified":1461915894,
+    "wof:name":"Atlanta Area Thrift Stores",
+    "wof:parent_id":85857829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "second",
+        "hand"
+    ]
+},
+  "bbox": [
+    -84.06174,
+    33.841279,
+    -84.06174,
+    33.841279
+],
+  "geometry": {"coordinates":[-84.06174,33.841279],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 722744823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.439999,33.669082,-84.439999,33.669082",
+    "geom:latitude":33.669082,
+    "geom:longitude":-84.439999,
+    "iso:country":"US",
+    "sg:address":"1568 Willingham Dr",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 559 1483",
+    "sg:postcode":"30344",
+    "sg:province":"GA",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936967,
+        102083603,
+        420517879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28EPLKnbz1aTV9pmopGJON_33.669082_-84.439999@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461887838,
+    "wof:geomhash":"5da36dc489f62474100d8a1a74d8eb43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936967,
+            "neighbourhood_id":420517879,
+            "region_id":85688535,
+            "venue_id":722744823
+        }
+    ],
+    "wof:id":722744823,
+    "wof:lastmodified":1461887838,
+    "wof:name":"Rural Metro Ambulance",
+    "wof:parent_id":420517879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -84.439999,
+    33.669082,
+    -84.439999,
+    33.669082
+],
+  "geometry": {"coordinates":[-84.439999,33.669082],"type":"Point"}
+}

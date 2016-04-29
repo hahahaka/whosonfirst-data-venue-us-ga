@@ -1,0 +1,71 @@
+{
+  "id": 722968765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.618875,32.836427,-83.618875,32.836427",
+    "geom:latitude":32.836427,
+    "geom:longitude":-83.618875,
+    "iso:country":"US",
+    "sg:address":"167 Riverside Dr",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 746 9898",
+    "sg:postcode":"31201",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85813015,
+        102084373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_644ltImZZ5p51d44a61muv_32.836427_-83.618875@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461892207,
+    "wof:geomhash":"89ecfa699bb5d4b0881b95b3fd267000",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084373,
+            "neighbourhood_id":85813015,
+            "region_id":85688535,
+            "venue_id":722968765
+        }
+    ],
+    "wof:id":722968765,
+    "wof:lastmodified":1461892207,
+    "wof:name":"Caduceus Occupational Medicine",
+    "wof:parent_id":85813015,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.618875,
+    32.836427,
+    -83.618875,
+    32.836427
+],
+  "geometry": {"coordinates":[-83.618875,32.836427],"type":"Point"}
+}

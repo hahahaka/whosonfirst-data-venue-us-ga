@@ -1,0 +1,79 @@
+{
+  "id": 722575505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.281705,33.896578,-84.281705,33.896578",
+    "geom:latitude":33.896578,
+    "geom:longitude":-84.281705,
+    "iso:country":"US",
+    "sg:address":"5302 Buford Hwy NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 451 5568",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85936435,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5561cbUBRCnp6VX2s7Nnq6_33.896578_-84.281705@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461884519,
+    "wof:geomhash":"189aa4dcf9ee66d7e85709a23ec6bb6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":722575505
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":722575505
+        }
+    ],
+    "wof:id":722575505,
+    "wof:lastmodified":1461884519,
+    "wof:name":"Lotte Fashion",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.281705,
+    33.896578,
+    -84.281705,
+    33.896578
+],
+  "geometry": {"coordinates":[-84.281705,33.896578],"type":"Point"}
+}

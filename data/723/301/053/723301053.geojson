@@ -1,0 +1,75 @@
+{
+  "id": 723301053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.209608,33.083593,-83.209608,33.083593",
+    "geom:latitude":33.083593,
+    "geom:longitude":-83.209608,
+    "iso:country":"US",
+    "sg:address":"103 Kings Rd",
+    "sg:city":"Milledgeville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 453 2155",
+    "sg:postcode":"31061",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937347,
+        102082319,
+        85802835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47uSpV0mNF68ym9wwD11GE_33.083593_-83.209608@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899080,
+    "wof:geomhash":"bf1780c052c222b45c220f92d80b8f48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082319,
+            "locality_id":85937347,
+            "neighbourhood_id":85802835,
+            "region_id":85688535,
+            "venue_id":723301053
+        }
+    ],
+    "wof:id":723301053,
+    "wof:lastmodified":1461899080,
+    "wof:name":"Milledgeville Automotive",
+    "wof:parent_id":85802835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.209608,
+    33.083593,
+    -83.209608,
+    33.083593
+],
+  "geometry": {"coordinates":[-83.209608,33.083593],"type":"Point"}
+}

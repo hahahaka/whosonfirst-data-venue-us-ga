@@ -1,0 +1,94 @@
+{
+  "id": 740058193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.094235,32.079541,-81.094235,32.079541",
+    "geom:latitude":32.079541,
+    "geom:longitude":-81.094235,
+    "iso:country":"US",
+    "sg:address":"206 W Broughton St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Thrift Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 236 4111",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shop",
+        "resale",
+        "second",
+        "consignment",
+        "hand"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936939,
+        102082337,
+        85880917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Zf0JgQVxudcG9SYD4A7Sb_32.079541_-81.094235@1303262642"
+    },
+    "wof:country":"US",
+    "wof:created":1461926458,
+    "wof:geomhash":"dd9729cb49603b35c07a3a0b4959ffb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880917,
+            "region_id":85688535,
+            "venue_id":740058193
+        }
+    ],
+    "wof:id":740058193,
+    "wof:lastmodified":1461926458,
+    "wof:name":"My House",
+    "wof:parent_id":85880917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "resale",
+        "second",
+        "consignment",
+        "hand"
+    ]
+},
+  "bbox": [
+    -81.094235,
+    32.079541,
+    -81.094235,
+    32.079541
+],
+  "geometry": {"coordinates":[-81.094235,32.079541],"type":"Point"}
+}

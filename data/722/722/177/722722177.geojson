@@ -1,0 +1,71 @@
+{
+  "id": 722722177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.01168,33.049505,-85.01168,33.049505",
+    "geom:latitude":33.049505,
+    "geom:longitude":-85.01168,
+    "iso:country":"US",
+    "sg:address":"105 Madison Ave",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 883 6233",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f88gSxBh5Cxwg1xxVSgRF_33.049505_-85.011680@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461887386,
+    "wof:geomhash":"2e3e49516c7745db532f27397e553f1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":722722177
+        }
+    ],
+    "wof:id":722722177,
+    "wof:lastmodified":1461887386,
+    "wof:name":"Manning Transmission Repair",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -85.01168,
+    33.049505,
+    -85.01168,
+    33.049505
+],
+  "geometry": {"coordinates":[-85.01168,33.049505],"type":"Point"}
+}

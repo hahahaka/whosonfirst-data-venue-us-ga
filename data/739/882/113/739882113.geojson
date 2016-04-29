@@ -1,0 +1,75 @@
+{
+  "id": 739882113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.788274,33.95803,-84.788274,33.95803",
+    "geom:latitude":33.95803,
+    "geom:longitude":-84.788274,
+    "iso:country":"US",
+    "sg:address":"51 E Paulding Dr",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 505 5838",
+    "sg:postcode":"30157",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.publix.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85835699,
+        102084665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5v7L5q4GmVFaaFVm5mCpSQ_33.958030_-84.788274@1303262596"
+    },
+    "wof:country":"US",
+    "wof:created":1461919134,
+    "wof:geomhash":"9e02cb5d620025041e57a1a833b0a072",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "neighbourhood_id":85835699,
+            "region_id":85688535,
+            "venue_id":739882113
+        }
+    ],
+    "wof:id":739882113,
+    "wof:lastmodified":1461919134,
+    "wof:name":"Publix Super Markets",
+    "wof:parent_id":85835699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -84.788274,
+    33.95803,
+    -84.788274,
+    33.95803
+],
+  "geometry": {"coordinates":[-84.788274,33.95803],"type":"Point"}
+}

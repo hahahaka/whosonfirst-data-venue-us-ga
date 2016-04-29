@@ -1,0 +1,71 @@
+{
+  "id": 723346603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.477868,31.17711,-81.477868,31.17711",
+    "geom:latitude":31.17711,
+    "geom:longitude":-81.477868,
+    "iso:country":"US",
+    "sg:address":"3230 Wisteria Ave",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 264 3558",
+    "sg:postcode":"31520",
+    "sg:province":"GA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85814297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VHAMl9dj1uUSb74e1MXdA_31.177110_-81.477868@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899935,
+    "wof:geomhash":"8ee73af3161c9559ce7e5edfe69d67f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85814297,
+            "region_id":85688535,
+            "venue_id":723346603
+        }
+    ],
+    "wof:id":723346603,
+    "wof:lastmodified":1461899935,
+    "wof:name":"Yellow Cab Taxi Svc",
+    "wof:parent_id":85814297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -81.477868,
+    31.17711,
+    -81.477868,
+    31.17711
+],
+  "geometry": {"coordinates":[-81.477868,31.17711],"type":"Point"}
+}

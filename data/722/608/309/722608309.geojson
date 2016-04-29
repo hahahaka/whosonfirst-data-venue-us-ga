@@ -1,0 +1,73 @@
+{
+  "id": 722608309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.013957,32.958814,-85.013957,32.958814",
+    "geom:latitude":32.958814,
+    "geom:longitude":-85.013957,
+    "iso:country":"US",
+    "sg:address":"989 Bartley Rd",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 242 4927",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79OeD3fvZPCptDLW4GHdVD_32.958814_-85.013957@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461885139,
+    "wof:geomhash":"ea5312df0c51151072ce35d672c6f187",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":722608309
+        }
+    ],
+    "wof:id":722608309,
+    "wof:lastmodified":1461885139,
+    "wof:name":"Jamie's Automotive",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.013957,
+    32.958814,
+    -85.013957,
+    32.958814
+],
+  "geometry": {"coordinates":[-85.013957,32.958814],"type":"Point"}
+}

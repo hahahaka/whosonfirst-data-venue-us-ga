@@ -1,0 +1,101 @@
+{
+  "id": 739837283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.278693,34.024949,-84.278693,34.024949",
+    "geom:latitude":34.024949,
+    "geom:longitude":-84.278693,
+    "iso:country":"US",
+    "sg:address":"9940 Bankside Dr",
+    "sg:city":"Roswell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 255 2500",
+    "sg:postcode":"30076",
+    "sg:province":"GA",
+    "sg:tags":[
+        "industrial",
+        "electrician",
+        "electric",
+        "improvement",
+        "generators-electric-service",
+        "contractors-commercial",
+        "maintenance"
+    ],
+    "sg:website":"http://www.mrelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937169,
+        102083603,
+        85836903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cNv5yhnplCMVUSAHF2HzR_34.024949_-84.278693@1303262585"
+    },
+    "wof:country":"US",
+    "wof:created":1461917386,
+    "wof:geomhash":"22ea5054c04a5333407d7a04533417f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937169,
+            "neighbourhood_id":85836903,
+            "region_id":85688535,
+            "venue_id":739837283
+        }
+    ],
+    "wof:id":739837283,
+    "wof:lastmodified":1461917386,
+    "wof:name":"Mr. Electric Of Nashville",
+    "wof:parent_id":85836903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "electrician",
+        "electric",
+        "improvement",
+        "generators-electric-service",
+        "contractors-commercial",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -84.278693,
+    34.024949,
+    -84.278693,
+    34.024949
+],
+  "geometry": {"coordinates":[-84.278693,34.024949],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 722540589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.959553,34.797589,-84.959553,34.797589",
+    "geom:latitude":34.797589,
+    "geom:longitude":-84.959553,
+    "iso:country":"US",
+    "sg:address":"328 Northgate Dr",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 279 1802",
+    "sg:postcode":"30721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13QVqJM8M23KJhNFupheNu_34.797589_-84.959553@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461883812,
+    "wof:geomhash":"dcc2c3f40fae48ded66b8addf39f5327",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":722540589
+        }
+    ],
+    "wof:id":722540589,
+    "wof:lastmodified":1461883812,
+    "wof:name":"Dalton Dental Ctr",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -84.959553,
+    34.797589,
+    -84.959553,
+    34.797589
+],
+  "geometry": {"coordinates":[-84.959553,34.797589],"type":"Point"}
+}

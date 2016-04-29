@@ -1,0 +1,71 @@
+{
+  "id": 722834701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.917812,34.771697,-84.917812,34.771697",
+    "geom:latitude":34.771697,
+    "geom:longitude":-84.917812,
+    "iso:country":"US",
+    "sg:address":"2718 Pleasant Dr",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 226 8520",
+    "sg:postcode":"30721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_288dDKxe3JvFX62x7kWvW7_34.771697_-84.917812@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461889532,
+    "wof:geomhash":"896960077a0bc2e4cbe087cf44bb7f03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":722834701
+        }
+    ],
+    "wof:id":722834701,
+    "wof:lastmodified":1461889532,
+    "wof:name":"Mathis Automotive",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -84.917812,
+    34.771697,
+    -84.917812,
+    34.771697
+],
+  "geometry": {"coordinates":[-84.917812,34.771697],"type":"Point"}
+}

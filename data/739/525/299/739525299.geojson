@@ -1,0 +1,75 @@
+{
+  "id": 739525299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.02224,33.017779,-85.02224,33.017779",
+    "geom:latitude":33.017779,
+    "geom:longitude":-85.02224,
+    "iso:country":"US",
+    "sg:address":"1435 Hamilton Rd",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 884 3666",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YTtPyjdtfahYdIMFJPF3y_33.017779_-85.022240@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461908894,
+    "wof:geomhash":"5508cfd5babc02c95ebf66d955c11936",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739525299
+        }
+    ],
+    "wof:id":739525299,
+    "wof:lastmodified":1461908894,
+    "wof:name":"Paul's Auto Repair",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -85.02224,
+    33.017779,
+    -85.02224,
+    33.017779
+],
+  "geometry": {"coordinates":[-85.02224,33.017779],"type":"Point"}
+}

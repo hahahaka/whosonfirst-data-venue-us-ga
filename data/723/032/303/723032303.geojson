@@ -1,0 +1,71 @@
+{
+  "id": 723032303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.527597,34.034292,-84.527597,34.034292",
+    "geom:latitude":34.034292,
+    "geom:longitude":-84.527597,
+    "iso:country":"US",
+    "sg:address":"3354 Canton Rd",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 425 1215",
+    "sg:postcode":"30066",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85858509,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QAPb4XAObUYxVpXKwbC0w_34.034292_-84.527597@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461893648,
+    "wof:geomhash":"00fef3ce113dbb39a22cbef2593aaae0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85858509,
+            "region_id":85688535,
+            "venue_id":723032303
+        }
+    ],
+    "wof:id":723032303,
+    "wof:lastmodified":1461893648,
+    "wof:name":"Eckerd",
+    "wof:parent_id":85858509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -84.527597,
+    34.034292,
+    -84.527597,
+    34.034292
+],
+  "geometry": {"coordinates":[-84.527597,34.034292],"type":"Point"}
+}

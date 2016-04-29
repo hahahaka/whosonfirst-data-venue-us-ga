@@ -1,0 +1,87 @@
+{
+  "id": 740018015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.282884,33.920987,-84.282884,33.920987",
+    "geom:latitude":33.920987,
+    "geom:longitude":-84.282884,
+    "iso:country":"US",
+    "sg:address":"6247 Peachtree Industrial Blvd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 451 4585",
+    "sg:postcode":"30360",
+    "sg:province":"GA",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Om6XcBqM372byDgVDWh9Z_33.920987_-84.282884@1303262631"
+    },
+    "wof:country":"US",
+    "wof:created":1461924616,
+    "wof:geomhash":"febbdba9d338242711c714c39d165665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":740018015
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":740018015
+        }
+    ],
+    "wof:id":740018015,
+    "wof:lastmodified":1461924616,
+    "wof:name":"Manila Mart",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -84.282884,
+    33.920987,
+    -84.282884,
+    33.920987
+],
+  "geometry": {"coordinates":[-84.282884,33.920987],"type":"Point"}
+}

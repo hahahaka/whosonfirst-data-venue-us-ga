@@ -1,0 +1,80 @@
+{
+  "id": 739856711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.139503,33.9561,-84.139503,33.9561",
+    "geom:latitude":33.9561,
+    "geom:longitude":-84.139503,
+    "iso:country":"US",
+    "sg:address":"3772 Satellite Blvd Ste 100",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 623 4747",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "surgeon",
+        "oral",
+        "pediatric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gqjMaFX1zY0zSZkavOrGG_33.956100_-84.139503@1303262590"
+    },
+    "wof:country":"US",
+    "wof:created":1461918166,
+    "wof:geomhash":"299076136aba5d234d414ab5dd60babb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":739856711
+        }
+    ],
+    "wof:id":739856711,
+    "wof:lastmodified":1461918166,
+    "wof:name":"Dentistry 4 Kids",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral",
+        "pediatric"
+    ]
+},
+  "bbox": [
+    -84.139503,
+    33.9561,
+    -84.139503,
+    33.9561
+],
+  "geometry": {"coordinates":[-84.139503,33.9561],"type":"Point"}
+}

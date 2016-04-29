@@ -1,0 +1,86 @@
+{
+  "id": 723435711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.617104,32.848848,-83.617104,32.848848",
+    "geom:latitude":32.848848,
+    "geom:longitude":-83.617104,
+    "iso:country":"US",
+    "sg:address":"423 Astor St",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 742 4020",
+    "sg:postcode":"31217",
+    "sg:province":"GA",
+    "sg:tags":[
+        "armature",
+        "electric",
+        "merchandise",
+        "motor",
+        "rewinding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936517,
+        102084373,
+        85837705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UTHPDc6NAisLsCn8o8aQC_32.848848_-83.617104@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901670,
+    "wof:geomhash":"047034b2aa46f094e8559fb4146c4df7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084373,
+            "locality_id":85936517,
+            "neighbourhood_id":85837705,
+            "region_id":85688535,
+            "venue_id":723435711
+        }
+    ],
+    "wof:id":723435711,
+    "wof:lastmodified":1461901670,
+    "wof:name":"Bray Electric Motor Co",
+    "wof:parent_id":85837705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "armature",
+        "electric",
+        "merchandise",
+        "motor",
+        "rewinding"
+    ]
+},
+  "bbox": [
+    -83.617104,
+    32.848848,
+    -83.617104,
+    32.848848
+],
+  "geometry": {"coordinates":[-83.617104,32.848848],"type":"Point"}
+}

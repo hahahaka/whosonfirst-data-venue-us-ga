@@ -1,0 +1,73 @@
+{
+  "id": 723167203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.74234,32.474744,-83.74234,32.474744",
+    "geom:latitude":32.474744,
+    "geom:longitude":-83.74234,
+    "iso:country":"US",
+    "sg:address":"1241 Saint Patricks Dr",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 987 4213",
+    "sg:postcode":"31069",
+    "sg:province":"GA",
+    "sg:tags":[
+        "catholic",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qI47iFir3aQW6yBTlOATO_32.474744_-83.742340@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896429,
+    "wof:geomhash":"865010fd7aef737f76f90ff8523fbfed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":723167203
+        }
+    ],
+    "wof:id":723167203,
+    "wof:lastmodified":1461896429,
+    "wof:name":"St Patrick Church",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "catholic",
+        "church"
+    ]
+},
+  "bbox": [
+    -83.74234,
+    32.474744,
+    -83.74234,
+    32.474744
+],
+  "geometry": {"coordinates":[-83.74234,32.474744],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 739765237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.089811,33.99976,-84.089811,33.99976",
+    "geom:latitude":33.99976,
+    "geom:longitude":-84.089811,
+    "iso:country":"US",
+    "sg:address":"2741 Meadow Church Rd",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/suwanee-duluth/180721-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 418 1822",
+    "sg:postcode":"30097",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VUQWvQ3Thqc997Lg9bcUo_33.999760_-84.089811@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914347,
+    "wof:geomhash":"946cd11740355b0405a4e62d869cf193",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":739765237
+        }
+    ],
+    "wof:id":739765237,
+    "wof:lastmodified":1461914347,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -84.089811,
+    33.99976,
+    -84.089811,
+    33.99976
+],
+  "geometry": {"coordinates":[-84.089811,33.99976],"type":"Point"}
+}

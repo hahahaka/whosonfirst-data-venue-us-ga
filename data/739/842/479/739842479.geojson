@@ -1,0 +1,74 @@
+{
+  "id": 739842479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.506617,33.889822,-84.506617,33.889822",
+    "geom:latitude":33.889822,
+    "geom:longitude":-84.506617,
+    "iso:country":"US",
+    "sg:address":"1600 Roswell St SE Ste 9",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 436 7173",
+    "sg:postcode":"30080",
+    "sg:province":"GA",
+    "sg:tags":[
+        "bakers-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85845875,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29H5q4qck4ihLm9AKktmiC_33.889822_-84.506617@1303262586"
+    },
+    "wof:country":"US",
+    "wof:created":1461917595,
+    "wof:geomhash":"80e1707c39351e285565491a0ca36913",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":739842479
+        }
+    ],
+    "wof:id":739842479,
+    "wof:lastmodified":1461917595,
+    "wof:name":"The Baggel Bin",
+    "wof:parent_id":85845875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bakers-wholesale"
+    ]
+},
+  "bbox": [
+    -84.506617,
+    33.889822,
+    -84.506617,
+    33.889822
+],
+  "geometry": {"coordinates":[-84.50661700000001,33.889822],"type":"Point"}
+}

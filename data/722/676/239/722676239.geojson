@@ -1,0 +1,73 @@
+{
+  "id": 722676239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.825122,34.285575,-83.825122,34.285575",
+    "geom:latitude":34.285575,
+    "geom:longitude":-83.825122,
+    "iso:country":"US",
+    "sg:address":"711 Industrial Blvd",
+    "sg:city":"Gainesville",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 297 6666",
+    "sg:postcode":"30501",
+    "sg:province":"GA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936861,
+        102083629,
+        420518035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rhzQtQyVZ5WtFTs7LI5yD_34.285575_-83.825122@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886513,
+    "wof:geomhash":"4375716ae803ad075e08acc551fe1f58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083629,
+            "locality_id":85936861,
+            "neighbourhood_id":420518035,
+            "region_id":85688535,
+            "venue_id":722676239
+        }
+    ],
+    "wof:id":722676239,
+    "wof:lastmodified":1461886513,
+    "wof:name":"Taxi El Dorado",
+    "wof:parent_id":420518035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -83.825122,
+    34.285575,
+    -83.825122,
+    34.285575
+],
+  "geometry": {"coordinates":[-83.82512199999999,34.285575],"type":"Point"}
+}

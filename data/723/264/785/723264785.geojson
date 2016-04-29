@@ -1,0 +1,77 @@
+{
+  "id": 723264785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.484016,33.899095,-84.484016,33.899095",
+    "geom:latitude":33.899095,
+    "geom:longitude":-84.484016,
+    "iso:country":"US",
+    "sg:address":"2096 Cobb Pkwy S",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 951 0008",
+    "sg:postcode":"30080",
+    "sg:province":"GA",
+    "sg:tags":[
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818985,
+        102082313,
+        85845875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5D2iB54v71tYZMajDFiO7C_33.899095_-84.484016@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461898399,
+    "wof:geomhash":"c3d746d189a15f3de404676c9c8ea9f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85818985,
+            "region_id":85688535,
+            "venue_id":723264785
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":723264785
+        }
+    ],
+    "wof:id":723264785,
+    "wof:lastmodified":1461898399,
+    "wof:name":"Alamo Car Rental Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -84.484016,
+    33.899095,
+    -84.484016,
+    33.899095
+],
+  "geometry": {"coordinates":[-84.484016,33.899095],"type":"Point"}
+}

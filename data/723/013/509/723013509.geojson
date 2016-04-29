@@ -1,0 +1,73 @@
+{
+  "id": 723013509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.721649,30.967969,-81.721649,30.967969",
+    "geom:latitude":30.967969,
+    "geom:longitude":-81.721649,
+    "iso:country":"US",
+    "sg:address":"208 E 4th St",
+    "sg:city":"Woodbine",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 576 3248",
+    "sg:postcode":"31569",
+    "sg:province":"GA",
+    "sg:tags":[
+        "county",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937043,
+        102081693,
+        85812807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1w4F2OGSIwp4ocBppQT0T9_30.967969_-81.721649@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461893211,
+    "wof:geomhash":"c4fd3968faad97e19a09c2ae4ae82d1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081693,
+            "locality_id":85937043,
+            "neighbourhood_id":85812807,
+            "region_id":85688535,
+            "venue_id":723013509
+        }
+    ],
+    "wof:id":723013509,
+    "wof:lastmodified":1461893211,
+    "wof:name":"Camden County Tax Commissioner",
+    "wof:parent_id":85812807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -81.721649,
+    30.967969,
+    -81.721649,
+    30.967969
+],
+  "geometry": {"coordinates":[-81.721649,30.967969],"type":"Point"}
+}

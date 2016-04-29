@@ -1,0 +1,73 @@
+{
+  "id": 723232951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.95921,34.775162,-84.95921,34.775162",
+    "geom:latitude":34.775162,
+    "geom:longitude":-84.95921,
+    "iso:country":"US",
+    "sg:address":"311 Meeting St",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 272 9052",
+    "sg:postcode":"30721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49uMG0PqlSkuafcvzJCEuk_34.775162_-84.959210@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897770,
+    "wof:geomhash":"90d10fc6c5157c5fbad597fa7d27c08d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":723232951
+        }
+    ],
+    "wof:id":723232951,
+    "wof:lastmodified":1461897770,
+    "wof:name":"Meeting Street Apartment Cmplx",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.95921,
+    34.775162,
+    -84.95921,
+    34.775162
+],
+  "geometry": {"coordinates":[-84.95921,34.775162],"type":"Point"}
+}

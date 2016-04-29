@@ -1,0 +1,76 @@
+{
+  "id": 739772159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.741849,32.469511,-83.741849,32.469511",
+    "geom:latitude":32.469511,
+    "geom:longitude":-83.741849,
+    "iso:country":"US",
+    "sg:address":"1415 Sam Nunn Blvd",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/perry/156456-krystal-burgers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 987 0057",
+    "sg:postcode":"31069",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "chicken",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_495M7CRdutJL9roMkOLD21_32.469511_-83.741849@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914628,
+    "wof:geomhash":"c1d380629e64e3fb4bd0245c4991d64a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":739772159
+        }
+    ],
+    "wof:id":739772159,
+    "wof:lastmodified":1461914628,
+    "wof:name":"Krystal Burgers",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "chicken",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.741849,
+    32.469511,
+    -83.741849,
+    32.469511
+],
+  "geometry": {"coordinates":[-83.741849,32.469511],"type":"Point"}
+}

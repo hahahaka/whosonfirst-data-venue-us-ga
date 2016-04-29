@@ -1,0 +1,87 @@
+{
+  "id": 739918213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.392147,33.760712,-84.392147,33.760712",
+    "geom:latitude":33.760712,
+    "geom:longitude":-84.392147,
+    "iso:country":"US",
+    "sg:address":"THE EMORY CLINIC",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 727 9977",
+    "sg:postcode":"30303",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "college"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85807911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cJBiejcjfZwcwvip8eM5L_33.760712_-84.392147@1303262606"
+    },
+    "wof:country":"US",
+    "wof:created":1461920521,
+    "wof:geomhash":"139e7b755c98dd23e171ae2ca8ddc66e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85807911,
+            "region_id":85688535,
+            "venue_id":739918213
+        }
+    ],
+    "wof:id":739918213,
+    "wof:lastmodified":1461920521,
+    "wof:name":"Emory Dining",
+    "wof:parent_id":85807911,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "college"
+    ]
+},
+  "bbox": [
+    -84.392147,
+    33.760712,
+    -84.392147,
+    33.760712
+],
+  "geometry": {"coordinates":[-84.39214699999999,33.760712],"type":"Point"}
+}

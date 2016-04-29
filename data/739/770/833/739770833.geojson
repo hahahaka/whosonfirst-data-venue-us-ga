@@ -1,0 +1,74 @@
+{
+  "id": 739770833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.936091,34.479002,-84.936091,34.479002",
+    "geom:latitude":34.479002,
+    "geom:longitude":-84.936091,
+    "iso:country":"US",
+    "sg:address":"128 W Belmont Dr",
+    "sg:city":"Calhoun",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/calhoun/87315-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 629 0003",
+    "sg:postcode":"30701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936609,
+        102084679,
+        85817247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kCKxfSamgFsctsHyCMYa1_34.479002_-84.936091@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914578,
+    "wof:geomhash":"636a2b2827686a4e7e1e2def29cd86c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084679,
+            "locality_id":85936609,
+            "neighbourhood_id":85817247,
+            "region_id":85688535,
+            "venue_id":739770833
+        }
+    ],
+    "wof:id":739770833,
+    "wof:lastmodified":1461914578,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85817247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.936091,
+    34.479002,
+    -84.936091,
+    34.479002
+],
+  "geometry": {"coordinates":[-84.936091,34.479002],"type":"Point"}
+}

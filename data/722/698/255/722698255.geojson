@@ -1,0 +1,85 @@
+{
+  "id": 722698255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.358145,33.810662,-84.358145,33.810662",
+    "geom:latitude":33.810662,
+    "geom:longitude":-84.358145,
+    "iso:country":"US",
+    "sg:address":"1945 Cheshire Bridge Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 874 0880",
+    "sg:postcode":"30324",
+    "sg:province":"GA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85832987,
+        85889987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35qMDjLV3bIDhVb6eleqri_33.810662_-84.358145@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886938,
+    "wof:geomhash":"309901060bd0b703eeecc40773b6a3c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85832987,
+            "region_id":85688535,
+            "venue_id":722698255
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85889987,
+            "region_id":85688535,
+            "venue_id":722698255
+        }
+    ],
+    "wof:id":722698255,
+    "wof:lastmodified":1461886938,
+    "wof:name":"ATL Auto Sales Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -84.358145,
+    33.810662,
+    -84.358145,
+    33.810662
+],
+  "geometry": {"coordinates":[-84.35814499999999,33.810662],"type":"Point"}
+}

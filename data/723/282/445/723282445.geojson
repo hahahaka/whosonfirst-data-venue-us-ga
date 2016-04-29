@@ -1,0 +1,73 @@
+{
+  "id": 723282445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.503548,33.952162,-84.503548,33.952162",
+    "geom:latitude":33.952162,
+    "geom:longitude":-84.503548,
+    "iso:country":"US",
+    "sg:address":"1663 Lower Roswell Rd",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 509 2571",
+    "sg:postcode":"30068",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automotive",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936135,
+        102082313,
+        85857049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44uTUtcIENluHn5EyBHX9c_33.952162_-84.503548@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461898721,
+    "wof:geomhash":"d11f2b79778551e226d3bd4083bea97e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936135,
+            "neighbourhood_id":85857049,
+            "region_id":85688535,
+            "venue_id":723282445
+        }
+    ],
+    "wof:id":723282445,
+    "wof:lastmodified":1461898721,
+    "wof:name":"Alliance Automotive",
+    "wof:parent_id":85857049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -84.503548,
+    33.952162,
+    -84.503548,
+    33.952162
+],
+  "geometry": {"coordinates":[-84.50354799999999,33.952162],"type":"Point"}
+}

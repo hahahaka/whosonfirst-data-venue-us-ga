@@ -1,0 +1,71 @@
+{
+  "id": 723053729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.582088,33.911388,-84.582088,33.911388",
+    "geom:latitude":33.911388,
+    "geom:longitude":-84.582088,
+    "iso:country":"US",
+    "sg:address":"1650 County Services Pkwy",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 514 2322",
+    "sg:postcode":"30008",
+    "sg:province":"GA",
+    "sg:tags":[
+        "county",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02qw1dbs2qVG2znpdpKi8d_33.911388_-84.582088@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461894086,
+    "wof:geomhash":"5a8270b19a847eec2d52193b59154067",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":723053729
+        }
+    ],
+    "wof:id":723053729,
+    "wof:lastmodified":1461894086,
+    "wof:name":"Cobb County Environmental Hlth",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "program"
+    ]
+},
+  "bbox": [
+    -84.582088,
+    33.911388,
+    -84.582088,
+    33.911388
+],
+  "geometry": {"coordinates":[-84.582088,33.911388],"type":"Point"}
+}

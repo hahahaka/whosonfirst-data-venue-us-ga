@@ -1,0 +1,71 @@
+{
+  "id": 723391399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.169377,33.047348,-85.169377,33.047348",
+    "geom:latitude":33.047348,
+    "geom:longitude":-85.169377,
+    "iso:country":"US",
+    "sg:address":"305 Old School Rd",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 884 2019",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85830157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L26LZCXO4VGMQoHCqPzHL_33.047348_-85.169377@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900803,
+    "wof:geomhash":"d343b389ff1b7b186f15ab107f127dda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85830157,
+            "region_id":85688535,
+            "venue_id":723391399
+        }
+    ],
+    "wof:id":723391399,
+    "wof:lastmodified":1461900803,
+    "wof:name":"Abbotts Ford House",
+    "wof:parent_id":85830157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -85.169377,
+    33.047348,
+    -85.169377,
+    33.047348
+],
+  "geometry": {"coordinates":[-85.169377,33.047348],"type":"Point"}
+}

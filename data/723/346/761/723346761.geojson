@@ -1,0 +1,71 @@
+{
+  "id": 723346761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.934508,34.470605,-84.934508,34.470605",
+    "geom:latitude":34.470605,
+    "geom:longitude":-84.934508,
+    "iso:country":"US",
+    "sg:address":"1411 US Hwy 41 S",
+    "sg:city":"Calhoun",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 625 0999",
+    "sg:postcode":"30701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936609,
+        102084679,
+        85817247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17EnYky3BohADfMLBsl5RB_34.470605_-84.934508@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899938,
+    "wof:geomhash":"7699205ae720640740778ce1acf00a5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084679,
+            "locality_id":85936609,
+            "neighbourhood_id":85817247,
+            "region_id":85688535,
+            "venue_id":723346761
+        }
+    ],
+    "wof:id":723346761,
+    "wof:lastmodified":1461899938,
+    "wof:name":"Duck Creek Trucking",
+    "wof:parent_id":85817247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.934508,
+    34.470605,
+    -84.934508,
+    34.470605
+],
+  "geometry": {"coordinates":[-84.93450799999999,34.470605],"type":"Point"}
+}

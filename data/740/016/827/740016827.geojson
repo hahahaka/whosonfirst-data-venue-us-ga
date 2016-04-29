@@ -1,0 +1,74 @@
+{
+  "id": 740016827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.412959,33.640965,-84.412959,33.640965",
+    "geom:latitude":33.640965,
+    "geom:longitude":-84.412959,
+    "iso:country":"US",
+    "sg:address":"1600 Aviation Blvd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 221 1212",
+    "sg:postcode":"30354",
+    "sg:province":"GA",
+    "sg:tags":[
+        "ticket",
+        "agency"
+    ],
+    "sg:website":"http://www.delta.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526927,
+        85688535,
+        85633793,
+        102082333,
+        85815707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DSVVKjmExzQBiDvT3hXLK_33.640965_-84.412959@1303262631"
+    },
+    "wof:country":"US",
+    "wof:created":1461924575,
+    "wof:geomhash":"4c559903b35c07ce81a6bd838d40ba04",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526927,
+            "country_id":85633793,
+            "county_id":102082333,
+            "neighbourhood_id":85815707,
+            "region_id":85688535,
+            "venue_id":740016827
+        }
+    ],
+    "wof:id":740016827,
+    "wof:lastmodified":1461924575,
+    "wof:name":"Delta Air Lines",
+    "wof:parent_id":102526927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ticket",
+        "agency"
+    ]
+},
+  "bbox": [
+    -84.412959,
+    33.640965,
+    -84.412959,
+    33.640965
+],
+  "geometry": {"coordinates":[-84.412959,33.640965],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 740064513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.615803,30.783024,-81.615803,30.783024",
+    "geom:latitude":30.783024,
+    "geom:longitude":-81.615803,
+    "iso:country":"US",
+    "sg:address":"90 Andrews Way",
+    "sg:city":"Kingsland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 673 7752",
+    "sg:postcode":"31548",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937043,
+        102081693,
+        85852055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lMDjBHGqNGQPSfjiFioWY_30.783024_-81.615803@1303262643"
+    },
+    "wof:country":"US",
+    "wof:created":1461926724,
+    "wof:geomhash":"f293fc5420454a3540941d060b34df4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081693,
+            "locality_id":85937043,
+            "neighbourhood_id":85852055,
+            "region_id":85688535,
+            "venue_id":740064513
+        }
+    ],
+    "wof:id":740064513,
+    "wof:lastmodified":1461926724,
+    "wof:name":"Mitchell Bill MD",
+    "wof:parent_id":85852055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.615803,
+    30.783024,
+    -81.615803,
+    30.783024
+],
+  "geometry": {"coordinates":[-81.615803,30.783024],"type":"Point"}
+}

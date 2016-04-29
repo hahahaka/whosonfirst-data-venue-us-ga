@@ -1,0 +1,74 @@
+{
+  "id": 739769929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.389552,34.879638,-83.389552,34.879638",
+    "geom:latitude":34.879638,
+    "geom:longitude":-83.389552,
+    "iso:country":"US",
+    "sg:address":"73 Rickman St",
+    "sg:city":"Clayton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/clayton/160729-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 782 4576",
+    "sg:postcode":"30525",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936141,
+        102081683,
+        85821415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42PvkvEqclhkDJEiqyGiZT_34.879638_-83.389552@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914543,
+    "wof:geomhash":"90176762d4fde9cf0a9f600c4ac4f178",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081683,
+            "locality_id":85936141,
+            "neighbourhood_id":85821415,
+            "region_id":85688535,
+            "venue_id":739769929
+        }
+    ],
+    "wof:id":739769929,
+    "wof:lastmodified":1461914543,
+    "wof:name":"Burger King",
+    "wof:parent_id":85821415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.389552,
+    34.879638,
+    -83.389552,
+    34.879638
+],
+  "geometry": {"coordinates":[-83.38955199999999,34.879638],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 722995901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.256253,34.958005,-85.256253,34.958005",
+    "geom:latitude":34.958005,
+    "geom:longitude":-85.256253,
+    "iso:country":"US",
+    "sg:address":"109 Hays St",
+    "sg:city":"Fort Oglethorpe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 866 4722",
+    "sg:postcode":"30742",
+    "sg:province":"GA",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936055,
+        102084401,
+        85818561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rD7JHKutOLCI26TcH1u1E_34.958005_-85.256253@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461892801,
+    "wof:geomhash":"dd9190551dfbbea2677de8d9016bbd3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084401,
+            "locality_id":85936055,
+            "neighbourhood_id":85818561,
+            "region_id":85688535,
+            "venue_id":722995901
+        }
+    ],
+    "wof:id":722995901,
+    "wof:lastmodified":1461892801,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85818561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -85.256253,
+    34.958005,
+    -85.256253,
+    34.958005
+],
+  "geometry": {"coordinates":[-85.256253,34.958005],"type":"Point"}
+}

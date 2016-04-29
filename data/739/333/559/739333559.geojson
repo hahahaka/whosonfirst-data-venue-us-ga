@@ -1,0 +1,79 @@
+{
+  "id": 739333559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.167705,34.256494,-85.167705,34.256494",
+    "geom:latitude":34.256494,
+    "geom:longitude":-85.167705,
+    "iso:country":"US",
+    "sg:address":"610 Broad St",
+    "sg:city":"Rome",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 291 8481",
+    "sg:postcode":"30161",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automotive",
+        "station",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936575,
+        102084577,
+        85890045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NQ6kW79OQ16RXDXe1DO5X_34.256494_-85.167705@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461905244,
+    "wof:geomhash":"004a6699d8e1fb13ee493e62b63a8114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084577,
+            "locality_id":85936575,
+            "neighbourhood_id":85890045,
+            "region_id":85688535,
+            "venue_id":739333559
+        }
+    ],
+    "wof:id":739333559,
+    "wof:lastmodified":1461905244,
+    "wof:name":"Ratliff Conoco Service Center",
+    "wof:parent_id":85890045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "station",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -85.167705,
+    34.256494,
+    -85.167705,
+    34.256494
+],
+  "geometry": {"coordinates":[-85.167705,34.256494],"type":"Point"}
+}

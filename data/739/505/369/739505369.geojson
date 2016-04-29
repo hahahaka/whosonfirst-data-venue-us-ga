@@ -1,0 +1,80 @@
+{
+  "id": 739505369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.633542,31.772668,-81.633542,31.772668",
+    "geom:latitude":31.772668,
+    "geom:longitude":-81.633542,
+    "iso:country":"US",
+    "sg:address":"23 Talmadge Rd",
+    "sg:city":"Hinesville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 368 2425",
+    "sg:postcode":"31333",
+    "sg:province":"GA",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936767,
+        102082901,
+        85847075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71vY8CWwZwG7wnQHuvxMd9_31.772668_-81.633542@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461908525,
+    "wof:geomhash":"9926b8ee9cff28e0ea5013613ae58a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082901,
+            "locality_id":85936767,
+            "neighbourhood_id":85847075,
+            "region_id":85688535,
+            "venue_id":739505369
+        }
+    ],
+    "wof:id":739505369,
+    "wof:lastmodified":1461908525,
+    "wof:name":"Friendly Express",
+    "wof:parent_id":85847075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -81.633542,
+    31.772668,
+    -81.633542,
+    31.772668
+],
+  "geometry": {"coordinates":[-81.63354200000001,31.772668],"type":"Point"}
+}

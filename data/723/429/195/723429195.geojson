@@ -1,0 +1,74 @@
+{
+  "id": 723429195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.509972,33.450736,-84.509972,33.450736",
+    "geom:latitude":33.450736,
+    "geom:longitude":-84.509972,
+    "iso:country":"US",
+    "sg:address":"1265 State Rte 54",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 716 0051",
+    "sg:postcode":"30214",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.cdspc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936019,
+        102081687,
+        85833669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YjDDF1i8FsFjSDk1vGDRC_33.450736_-84.509972@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901554,
+    "wof:geomhash":"be55bdb3976a78414ad60fdef56f5f3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081687,
+            "locality_id":85936019,
+            "neighbourhood_id":85833669,
+            "region_id":85688535,
+            "venue_id":723429195
+        }
+    ],
+    "wof:id":723429195,
+    "wof:lastmodified":1461901554,
+    "wof:name":"Cardiac Disease Specialists",
+    "wof:parent_id":85833669,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.509972,
+    33.450736,
+    -84.509972,
+    33.450736
+],
+  "geometry": {"coordinates":[-84.509972,33.450736],"type":"Point"}
+}

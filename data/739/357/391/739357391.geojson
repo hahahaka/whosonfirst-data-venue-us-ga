@@ -1,0 +1,71 @@
+{
+  "id": 739357391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.028477,33.063334,-85.028477,33.063334",
+    "geom:latitude":33.063334,
+    "geom:longitude":-85.028477,
+    "iso:country":"US",
+    "sg:address":"506 New Franklin Rd",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 884 0200",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0N4igq7HvQ2Xqo9GK4YxTn_33.063334_-85.028477@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461905765,
+    "wof:geomhash":"630a632235913f6433c2c1d23f8c5fcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739357391
+        }
+    ],
+    "wof:id":739357391,
+    "wof:lastmodified":1461905765,
+    "wof:name":"Thrifty Car Rental",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -85.028477,
+    33.063334,
+    -85.028477,
+    33.063334
+],
+  "geometry": {"coordinates":[-85.028477,33.063334],"type":"Point"}
+}

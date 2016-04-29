@@ -1,0 +1,75 @@
+{
+  "id": 723044651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.50001,31.215055,-81.50001,31.215055",
+    "geom:latitude":31.215055,
+    "geom:longitude":-81.50001,
+    "iso:country":"US",
+    "sg:address":"150 Forrest Cir",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 267 7264",
+    "sg:postcode":"31520",
+    "sg:province":"GA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85814297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UaipZEPb5E5RofFTTBrUb_31.215055_-81.500010@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461893908,
+    "wof:geomhash":"c75cca619952e9949f5e789abd008250",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85814297,
+            "region_id":85688535,
+            "venue_id":723044651
+        }
+    ],
+    "wof:id":723044651,
+    "wof:lastmodified":1461893908,
+    "wof:name":"Jones & Jones Trucking Inc",
+    "wof:parent_id":85814297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.50001,
+    31.215055,
+    -81.50001,
+    31.215055
+],
+  "geometry": {"coordinates":[-81.50001,31.215055],"type":"Point"}
+}

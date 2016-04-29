@@ -1,0 +1,89 @@
+{
+  "id": 740063029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.488258,31.219179,-81.488258,31.219179",
+    "geom:latitude":31.219179,
+    "geom:longitude":-81.488258,
+    "iso:country":"US",
+    "sg:address":"100 Mall Blvd",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Mobile Phones",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 265 4779",
+    "sg:postcode":"31525",
+    "sg:province":"GA",
+    "sg:tags":[
+        "equipment",
+        "telecommunications-equipment",
+        "system",
+        "cellular",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85814297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yrCW81giA1cnQxlZLWQkf_31.219179_-81.488258@1303262643"
+    },
+    "wof:country":"US",
+    "wof:created":1461926661,
+    "wof:geomhash":"0f0d4cb0b229e66b95c5eb3478743ff5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85814297,
+            "region_id":85688535,
+            "venue_id":740063029
+        }
+    ],
+    "wof:id":740063029,
+    "wof:lastmodified":1461926661,
+    "wof:name":"Celltone",
+    "wof:parent_id":85814297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "telecommunications-equipment",
+        "system",
+        "cellular",
+        "supply"
+    ]
+},
+  "bbox": [
+    -81.488258,
+    31.219179,
+    -81.488258,
+    31.219179
+],
+  "geometry": {"coordinates":[-81.488258,31.219179],"type":"Point"}
+}

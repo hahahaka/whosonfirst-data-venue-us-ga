@@ -1,0 +1,73 @@
+{
+  "id": 740000473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.28917,33.884042,-84.28917,33.884042",
+    "geom:latitude":33.884042,
+    "geom:longitude":-84.28917,
+    "iso:country":"US",
+    "sg:address":"4858 Buford Hwy",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 249 9018",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "college"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102525899,
+        85688535,
+        85633793,
+        85937255,
+        102084539,
+        85807835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GFDsK6ibmygcicCCyJS6M_33.884042_-84.289170@1303262627"
+    },
+    "wof:country":"US",
+    "wof:created":1461923947,
+    "wof:geomhash":"1b75c32008c919204deffbac2523d8d9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525899,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937255,
+            "neighbourhood_id":85807835,
+            "region_id":85688535,
+            "venue_id":740000473
+        }
+    ],
+    "wof:id":740000473,
+    "wof:lastmodified":1461923947,
+    "wof:name":"Georgia State Ga Tech",
+    "wof:parent_id":102525899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [
+    -84.28917,
+    33.884042,
+    -84.28917,
+    33.884042
+],
+  "geometry": {"coordinates":[-84.28917,33.884042],"type":"Point"}
+}

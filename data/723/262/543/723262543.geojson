@@ -1,0 +1,74 @@
+{
+  "id": 723262543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.074449,33.030418,-85.074449,33.030418",
+    "geom:latitude":33.030418,
+    "geom:longitude":-85.074449,
+    "iso:country":"US",
+    "sg:address":"120 Reed Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 775 1001",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "sg:website":"www.advanceddisposal.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85830157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rAXgeUhEaIwNMJUEOGBft_33.030418_-85.074449@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461898351,
+    "wof:geomhash":"5ae0c996ca50074280bafcb75b81781d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85830157,
+            "region_id":85688535,
+            "venue_id":723262543
+        }
+    ],
+    "wof:id":723262543,
+    "wof:lastmodified":1461898351,
+    "wof:name":"Advanced Disposal",
+    "wof:parent_id":85830157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -85.074449,
+    33.030418,
+    -85.074449,
+    33.030418
+],
+  "geometry": {"coordinates":[-85.074449,33.030418],"type":"Point"}
+}

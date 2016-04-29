@@ -1,0 +1,75 @@
+{
+  "id": 723039123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.954001,34.499018,-84.954001,34.499018",
+    "geom:latitude":34.499018,
+    "geom:longitude":-84.954001,
+    "iso:country":"US",
+    "sg:address":"203 S King St",
+    "sg:city":"Calhoun",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 625 2405",
+    "sg:postcode":"30701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body",
+        "marina",
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936609,
+        102084679,
+        85817247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DXLz8OIa54WnYXNEMfy6j_34.499018_-84.954001@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461893791,
+    "wof:geomhash":"0ce5bfc4b57b50c52bf4f2afcc5aceac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084679,
+            "locality_id":85936609,
+            "neighbourhood_id":85817247,
+            "region_id":85688535,
+            "venue_id":723039123
+        }
+    ],
+    "wof:id":723039123,
+    "wof:lastmodified":1461893791,
+    "wof:name":"Defoors Body Shop",
+    "wof:parent_id":85817247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "marina",
+        "operation"
+    ]
+},
+  "bbox": [
+    -84.954001,
+    34.499018,
+    -84.954001,
+    34.499018
+],
+  "geometry": {"coordinates":[-84.95400100000001,34.499018],"type":"Point"}
+}

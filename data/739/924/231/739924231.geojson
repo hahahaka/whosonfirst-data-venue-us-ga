@@ -1,0 +1,84 @@
+{
+  "id": 739924231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.389305,33.753416,-84.389305,33.753416",
+    "geom:latitude":33.753416,
+    "geom:longitude":-84.389305,
+    "iso:country":"US",
+    "sg:address":"30 Pryor St SW Fl 10",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 651 1011",
+    "sg:postcode":"30303",
+    "sg:province":"GA",
+    "sg:tags":[
+        "college"
+    ],
+    "sg:website":"http://www.law.gsu.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85819463,
+        85866901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xsZgt6a2jFNqgIrkXs0es_33.753416_-84.389305@1303262607"
+    },
+    "wof:country":"US",
+    "wof:created":1461920756,
+    "wof:geomhash":"7a398fb570294fc0f0ed9c45be3ed236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85819463,
+            "region_id":85688535,
+            "venue_id":739924231
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85866901,
+            "region_id":85688535,
+            "venue_id":739924231
+        }
+    ],
+    "wof:id":739924231,
+    "wof:lastmodified":1461920756,
+    "wof:name":"Dean's Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [
+    -84.389305,
+    33.753416,
+    -84.389305,
+    33.753416
+],
+  "geometry": {"coordinates":[-84.38930499999999,33.753416],"type":"Point"}
+}

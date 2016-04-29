@@ -1,0 +1,80 @@
+{
+  "id": 739786349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.934212,34.061761,-83.934212,34.061761",
+    "geom:latitude":34.061761,
+    "geom:longitude":-83.934212,
+    "iso:country":"US",
+    "sg:address":"2410 Ashton Ridge Dr",
+    "sg:city":"Dacula",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 945 0951",
+    "sg:postcode":"30019",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automobile",
+        "inspection",
+        "diagnostic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936281,
+        102082967,
+        85858547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oswnQuD2m5nAumquIf2X8_34.061761_-83.934212@1303262571"
+    },
+    "wof:country":"US",
+    "wof:created":1461915185,
+    "wof:geomhash":"00063a4a9a48b90c507db658a9296e30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936281,
+            "neighbourhood_id":85858547,
+            "region_id":85688535,
+            "venue_id":739786349
+        }
+    ],
+    "wof:id":739786349,
+    "wof:lastmodified":1461915185,
+    "wof:name":"Service Net",
+    "wof:parent_id":85858547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "inspection",
+        "diagnostic"
+    ]
+},
+  "bbox": [
+    -83.934212,
+    34.061761,
+    -83.934212,
+    34.061761
+],
+  "geometry": {"coordinates":[-83.934212,34.061761],"type":"Point"}
+}

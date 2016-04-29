@@ -1,0 +1,83 @@
+{
+  "id": 739873105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.820316,33.908382,-84.820316,33.908382",
+    "geom:latitude":33.908382,
+    "geom:longitude":-84.820316,
+    "iso:country":"US",
+    "sg:address":"103 Thomas B Murphy Dr",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 445 5303",
+    "sg:postcode":"30132",
+    "sg:province":"GA",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"https://www.wachovia.com/?DCMP=KNL-CPS-DS-Directory-0703&HBX_PK=Banks&HBX_OU=71",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936335,
+        102084665,
+        85835843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Kv2wiyfkju3VOPC5dfQIu_33.908382_-84.820316@1303262594"
+    },
+    "wof:country":"US",
+    "wof:created":1461918799,
+    "wof:geomhash":"1466fce4b35692ea10b82fd81850f8ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "locality_id":85936335,
+            "neighbourhood_id":85835843,
+            "region_id":85688535,
+            "venue_id":739873105
+        }
+    ],
+    "wof:id":739873105,
+    "wof:lastmodified":1461918799,
+    "wof:name":"Wachovia Bank",
+    "wof:parent_id":85835843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -84.820316,
+    33.908382,
+    -84.820316,
+    33.908382
+],
+  "geometry": {"coordinates":[-84.82031600000001,33.908382],"type":"Point"}
+}

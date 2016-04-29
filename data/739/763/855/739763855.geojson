@@ -1,0 +1,72 @@
+{
+  "id": 739763855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.509645,33.929105,-84.509645,33.929105",
+    "geom:latitude":33.929105,
+    "geom:longitude":-84.509645,
+    "iso:country":"US",
+    "sg:address":"950 Cobb Pkwy S",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/marietta/215495-macs-pizza-and-pasta/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 499 7600",
+    "sg:postcode":"30060",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85845875,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57Q3l9fdaZOlr6IiYoXW77_33.929105_-84.509645@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914293,
+    "wof:geomhash":"96fbb5d1a7023060bf6fb6f5b87e84e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":739763855
+        }
+    ],
+    "wof:id":739763855,
+    "wof:lastmodified":1461914293,
+    "wof:name":"Mac's Pizza And Pasta",
+    "wof:parent_id":85845875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.509645,
+    33.929105,
+    -84.509645,
+    33.929105
+],
+  "geometry": {"coordinates":[-84.50964500000001,33.929105],"type":"Point"}
+}

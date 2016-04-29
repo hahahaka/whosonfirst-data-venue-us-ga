@@ -1,0 +1,92 @@
+{
+  "id": 740076789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.381694,33.854028,-84.381694,33.854028",
+    "geom:latitude":33.854028,
+    "geom:longitude":-84.381694,
+    "iso:country":"US",
+    "sg:address":"7 Piedmont Center, Suite 300  3525 Roswall Road",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+34 915 15 13 44",
+    "sg:postcode":"30305",
+    "sg:province":"GA",
+    "sg:tags":[
+        "ossim",
+        "siem",
+        "open-source",
+        "security",
+        "compliance",
+        "ids",
+        "ips",
+        "vulnerability-scanning",
+        "flows",
+        "pci"
+    ],
+    "sg:website":"http://www.alienvault.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4G9jcdvtZiisvfMFtKhbxg_33.854028_-84.381694@1308186499"
+    },
+    "wof:country":"US",
+    "wof:created":1461927248,
+    "wof:geomhash":"0b4e7007763a5b5bbe4815cb0599b3cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872063,
+            "region_id":85688535,
+            "venue_id":740076789
+        }
+    ],
+    "wof:id":740076789,
+    "wof:lastmodified":1461927248,
+    "wof:name":"AlienVault",
+    "wof:parent_id":85872063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ossim",
+        "siem",
+        "open-source",
+        "security",
+        "compliance",
+        "ids",
+        "ips",
+        "vulnerability-scanning",
+        "flows",
+        "pci"
+    ]
+},
+  "bbox": [
+    -84.381694,
+    33.854028,
+    -84.381694,
+    33.854028
+],
+  "geometry": {"coordinates":[-84.381694,33.854028],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 722652533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.433039,33.291432,-84.433039,33.291432",
+    "geom:latitude":33.291432,
+    "geom:longitude":-84.433039,
+    "iso:country":"US",
+    "sg:address":"909 Grant Rd",
+    "sg:city":"Brooks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 719 7700",
+    "sg:postcode":"30205",
+    "sg:province":"GA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936021,
+        102081687,
+        85890039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71yyWizN47iQLWXYoDofsi_33.291432_-84.433039@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886060,
+    "wof:geomhash":"735a0a0346e94ae781bc6dfc5d59b85a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081687,
+            "locality_id":85936021,
+            "neighbourhood_id":85890039,
+            "region_id":85688535,
+            "venue_id":722652533
+        }
+    ],
+    "wof:id":722652533,
+    "wof:lastmodified":1461886060,
+    "wof:name":"Ison Wrecker Svc",
+    "wof:parent_id":85890039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -84.433039,
+    33.291432,
+    -84.433039,
+    33.291432
+],
+  "geometry": {"coordinates":[-84.43303899999999,33.291432],"type":"Point"}
+}

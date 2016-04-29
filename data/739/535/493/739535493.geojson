@@ -1,0 +1,71 @@
+{
+  "id": 739535493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.234495,33.883597,-84.234495,33.883597",
+    "geom:latitude":33.883597,
+    "geom:longitude":-84.234495,
+    "iso:country":"US",
+    "sg:address":"3215 Northbrook Dr",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 414 0577",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "pharmaceutical",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01SgODL1yDWvq1aPhVHowd_33.883597_-84.234495@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461909078,
+    "wof:geomhash":"395d48094105a833bb3ddc82342248c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":739535493
+        }
+    ],
+    "wof:id":739535493,
+    "wof:lastmodified":1461909078,
+    "wof:name":"Eli Lilly & Co",
+    "wof:parent_id":85889941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "product"
+    ]
+},
+  "bbox": [
+    -84.234495,
+    33.883597,
+    -84.234495,
+    33.883597
+],
+  "geometry": {"coordinates":[-84.234495,33.883597],"type":"Point"}
+}

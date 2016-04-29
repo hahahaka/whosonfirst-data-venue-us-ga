@@ -1,0 +1,71 @@
+{
+  "id": 739328303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.971719,34.772582,-84.971719,34.772582",
+    "geom:latitude":34.772582,
+    "geom:longitude":-84.971719,
+    "iso:country":"US",
+    "sg:address":"114 N Thornton Ave",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 278 5897",
+    "sg:postcode":"30720",
+    "sg:province":"GA",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i11EFEPTo7Y10SG7RHDDJ_34.772582_-84.971719@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461905142,
+    "wof:geomhash":"7437ed61aba3f2647d5689614a4b71b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":739328303
+        }
+    ],
+    "wof:id":739328303,
+    "wof:lastmodified":1461905142,
+    "wof:name":"Whitfield Cnty Superior Court",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -84.971719,
+    34.772582,
+    -84.971719,
+    34.772582
+],
+  "geometry": {"coordinates":[-84.97171899999999,34.772582],"type":"Point"}
+}

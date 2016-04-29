@@ -1,0 +1,74 @@
+{
+  "id": 739771325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.207927,33.4541,-82.207927,33.4541",
+    "geom:latitude":33.4541,
+    "geom:longitude":-82.207927,
+    "iso:country":"US",
+    "sg:address":"104 Harlem Grovetown Rd",
+    "sg:city":"Grovetown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/harlem/70760-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 651 0022",
+    "sg:postcode":"30813",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936989,
+        102082951,
+        85820097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eq8cDU9uE3z9vNGlW2XVR_33.454100_-82.207927@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914595,
+    "wof:geomhash":"834a4ce2853707bc405900f472b04443",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082951,
+            "locality_id":85936989,
+            "neighbourhood_id":85820097,
+            "region_id":85688535,
+            "venue_id":739771325
+        }
+    ],
+    "wof:id":739771325,
+    "wof:lastmodified":1461914595,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85820097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -82.207927,
+    33.4541,
+    -82.207927,
+    33.4541
+],
+  "geometry": {"coordinates":[-82.207927,33.4541],"type":"Point"}
+}

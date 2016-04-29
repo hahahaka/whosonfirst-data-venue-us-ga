@@ -1,0 +1,83 @@
+{
+  "id": 739958735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.426032,33.809266,-84.426032,33.809266",
+    "geom:latitude":33.809266,
+    "geom:longitude":-84.426032,
+    "iso:country":"US",
+    "sg:address":"1990 Defoor Ave NW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 350 1800",
+    "sg:postcode":"30318",
+    "sg:province":"GA",
+    "sg:tags":[
+        "audio-visual"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872135,
+        85872079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TQRpKEZ1RPIrSW8DIkdXG_33.809266_-84.426032@1303262616"
+    },
+    "wof:country":"US",
+    "wof:created":1461922320,
+    "wof:geomhash":"da99b0e2d48f2f4f18b69251ec256ba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872135,
+            "region_id":85688535,
+            "venue_id":739958735
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872079,
+            "region_id":85688535,
+            "venue_id":739958735
+        }
+    ],
+    "wof:id":739958735,
+    "wof:lastmodified":1461922320,
+    "wof:name":"Total Audio Visual Services Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audio-visual"
+    ]
+},
+  "bbox": [
+    -84.426032,
+    33.809266,
+    -84.426032,
+    33.809266
+],
+  "geometry": {"coordinates":[-84.42603200000001,33.809266],"type":"Point"}
+}

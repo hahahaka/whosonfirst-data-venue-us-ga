@@ -1,0 +1,83 @@
+{
+  "id": 723483237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.94802,32.440717,-84.94802,32.440717",
+    "geom:latitude":32.440717,
+    "geom:longitude":-84.94802,
+    "iso:country":"US",
+    "sg:address":"3235 Cusseta Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 687 2040",
+    "sg:postcode":"31903",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85803141,
+        420518095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TncgTwkeAMMcZ0LxvklVm_32.440717_-84.948020@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461902599,
+    "wof:geomhash":"419fb158ef30ef4d64776873ffbe9fde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85803141,
+            "region_id":85688535,
+            "venue_id":723483237
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":420518095,
+            "region_id":85688535,
+            "venue_id":723483237
+        }
+    ],
+    "wof:id":723483237,
+    "wof:lastmodified":1461902599,
+    "wof:name":"Betty's Beauty Salon",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.94802,
+    32.440717,
+    -84.94802,
+    32.440717
+],
+  "geometry": {"coordinates":[-84.94802,32.440717],"type":"Point"}
+}

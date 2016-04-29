@@ -1,0 +1,71 @@
+{
+  "id": 739665325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.034765,33.043437,-85.034765,33.043437",
+    "geom:latitude":33.043437,
+    "geom:longitude":-85.034765,
+    "iso:country":"US",
+    "sg:address":"304 Smith St",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 812 4357",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EGhzA0cBn2H9tX6XGCLm6_33.043437_-85.034765@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461911852,
+    "wof:geomhash":"127c9078d323d8fd2ccac428c50f834e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739665325
+        }
+    ],
+    "wof:id":739665325,
+    "wof:lastmodified":1461911852,
+    "wof:name":"Smith J Connor MD",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -85.034765,
+    33.043437,
+    -85.034765,
+    33.043437
+],
+  "geometry": {"coordinates":[-85.03476499999999,33.043437],"type":"Point"}
+}

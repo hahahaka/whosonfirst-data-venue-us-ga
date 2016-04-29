@@ -1,0 +1,86 @@
+{
+  "id": 739998905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.288615,33.902732,-84.288615,33.902732",
+    "geom:latitude":33.902732,
+    "geom:longitude":-84.288615,
+    "iso:country":"US",
+    "sg:address":"5849B Peachtree Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 819 8939",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "sg:website":"www.jimelliscollision.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        420559931,
+        85889959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZnwImEst13oTymJCoV7xL_33.902732_-84.288615@1303262626"
+    },
+    "wof:country":"US",
+    "wof:created":1461923889,
+    "wof:geomhash":"161769535d2b2d99e4f769d12d06ede0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":420559931,
+            "region_id":85688535,
+            "venue_id":739998905
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":739998905
+        }
+    ],
+    "wof:id":739998905,
+    "wof:lastmodified":1461923889,
+    "wof:name":"Jim Ellis Collision Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.288615,
+    33.902732,
+    -84.288615,
+    33.902732
+],
+  "geometry": {"coordinates":[-84.28861499999999,33.902732],"type":"Point"}
+}

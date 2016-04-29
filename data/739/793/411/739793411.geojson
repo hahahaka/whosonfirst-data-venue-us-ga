@@ -1,0 +1,80 @@
+{
+  "id": 739793411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.269056,33.780915,-84.269056,33.780915",
+    "geom:latitude":33.780915,
+    "geom:longitude":-84.269056,
+    "iso:country":"US",
+    "sg:address":"227 Laredo Dr",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 377 8921",
+    "sg:postcode":"30030",
+    "sg:province":"GA",
+    "sg:tags":[
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937263,
+        102084539,
+        85890037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bNyxxfsZrTOXj9pVOmOry_33.780915_-84.269056@1303262573"
+    },
+    "wof:country":"US",
+    "wof:created":1461915500,
+    "wof:geomhash":"dea007e1b600e87d22eda4629903642c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937263,
+            "neighbourhood_id":85890037,
+            "region_id":85688535,
+            "venue_id":739793411
+        }
+    ],
+    "wof:id":739793411,
+    "wof:lastmodified":1461915500,
+    "wof:name":"Cubic Transportation",
+    "wof:parent_id":85890037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.269056,
+    33.780915,
+    -84.269056,
+    33.780915
+],
+  "geometry": {"coordinates":[-84.26905600000001,33.780915],"type":"Point"}
+}

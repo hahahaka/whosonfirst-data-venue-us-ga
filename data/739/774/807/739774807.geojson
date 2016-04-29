@@ -1,0 +1,76 @@
+{
+  "id": 739774807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.88826,32.523409,-84.88826,32.523409",
+    "geom:latitude":32.523409,
+    "geom:longitude":-84.88826,
+    "iso:country":"US",
+    "sg:address":"5600 Milgen Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/columbus/56029-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 568 7558",
+    "sg:postcode":"31907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85829321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1g5b31q2ERJKiMFt66mrwT_32.523409_-84.888260@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914740,
+    "wof:geomhash":"fd206fe678801bb106d01d51f11d1773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85829321,
+            "region_id":85688535,
+            "venue_id":739774807
+        }
+    ],
+    "wof:id":739774807,
+    "wof:lastmodified":1461914740,
+    "wof:name":"Subway",
+    "wof:parent_id":85829321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.88826,
+    32.523409,
+    -84.88826,
+    32.523409
+],
+  "geometry": {"coordinates":[-84.88826,32.523409],"type":"Point"}
+}

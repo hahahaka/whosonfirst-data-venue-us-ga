@@ -1,0 +1,73 @@
+{
+  "id": 739573327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.056791,33.028835,-85.056791,33.028835",
+    "geom:latitude":33.028835,
+    "geom:longitude":-85.056791,
+    "iso:country":"US",
+    "sg:address":"505 Jenkins St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 885 0444",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85830157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5L3qa3ZZ8McFILPPxPNniR_33.028835_-85.056791@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461909861,
+    "wof:geomhash":"922d0c80b47b0f4b261a266daa9c94d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85830157,
+            "region_id":85688535,
+            "venue_id":739573327
+        }
+    ],
+    "wof:id":739573327,
+    "wof:lastmodified":1461909861,
+    "wof:name":"Women's Healthcare Specialist",
+    "wof:parent_id":85830157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.056791,
+    33.028835,
+    -85.056791,
+    33.028835
+],
+  "geometry": {"coordinates":[-85.056791,33.028835],"type":"Point"}
+}

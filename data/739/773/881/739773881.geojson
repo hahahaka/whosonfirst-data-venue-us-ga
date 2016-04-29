@@ -1,0 +1,72 @@
+{
+  "id": 739773881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.331862,30.84557,-83.331862,30.84557",
+    "geom:latitude":30.84557,
+    "geom:longitude":-83.331862,
+    "iso:country":"US",
+    "sg:address":"1328 N Saint Augustine Rd",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/valdosta/11679-dennys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 253 9388",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85852681,
+        102083585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44YIoVLJC3eqmf0Gq8n4J1_30.845570_-83.331862@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914705,
+    "wof:geomhash":"c7a43fa54e9ff7e3e87c790837453607",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "neighbourhood_id":85852681,
+            "region_id":85688535,
+            "venue_id":739773881
+        }
+    ],
+    "wof:id":739773881,
+    "wof:lastmodified":1461914705,
+    "wof:name":"Denny's",
+    "wof:parent_id":85852681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -83.331862,
+    30.84557,
+    -83.331862,
+    30.84557
+],
+  "geometry": {"coordinates":[-83.331862,30.84557],"type":"Point"}
+}

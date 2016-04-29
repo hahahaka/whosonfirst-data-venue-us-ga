@@ -1,0 +1,71 @@
+{
+  "id": 722769539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.033462,33.039515,-85.033462,33.039515",
+    "geom:latitude":33.039515,
+    "geom:longitude":-85.033462,
+    "iso:country":"US",
+    "sg:address":"200 N Lewis St",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 882 5522",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xtOBQ5o0G7LDbFmVCgX7T_33.039515_-85.033462@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888305,
+    "wof:geomhash":"9833afdb48df3bc8b2fa35158ed3c50b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":722769539
+        }
+    ],
+    "wof:id":722769539,
+    "wof:lastmodified":1461888305,
+    "wof:name":"Sodexho USA",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -85.033462,
+    33.039515,
+    -85.033462,
+    33.039515
+],
+  "geometry": {"coordinates":[-85.033462,33.039515],"type":"Point"}
+}

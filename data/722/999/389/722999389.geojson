@@ -1,0 +1,71 @@
+{
+  "id": 722999389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.519271,33.774055,-84.519271,33.774055",
+    "geom:latitude":33.774055,
+    "geom:longitude":-84.519271,
+    "iso:country":"US",
+    "sg:address":"3979 Aviation Cir NW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 505 3244",
+    "sg:postcode":"30336",
+    "sg:province":"GA",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937189,
+        102082313,
+        85809641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vINXTZoMeDucgVzlzsMGp_33.774055_-84.519271@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461892893,
+    "wof:geomhash":"1b6256baa4603728795b232ead250b22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85937189,
+            "neighbourhood_id":85809641,
+            "region_id":85688535,
+            "venue_id":722999389
+        }
+    ],
+    "wof:id":722999389,
+    "wof:lastmodified":1461892893,
+    "wof:name":"Police Dept",
+    "wof:parent_id":85809641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -84.519271,
+    33.774055,
+    -84.519271,
+    33.774055
+],
+  "geometry": {"coordinates":[-84.519271,33.774055],"type":"Point"}
+}

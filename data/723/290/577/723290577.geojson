@@ -1,0 +1,69 @@
+{
+  "id": 723290577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.58259,33.9513,-84.58259,33.9513",
+    "geom:latitude":33.9513,
+    "geom:longitude":-84.58259,
+    "iso:country":"US",
+    "sg:address":"1012 Whitlock Ave NW",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 331 3108",
+    "sg:postcode":"30064",
+    "sg:province":"GA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42HFHyWLbS2syTguA0q9sM_33.951300_-84.582590@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461898886,
+    "wof:geomhash":"a090cce2ef761aee2c1434088bf81dee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":723290577
+        }
+    ],
+    "wof:id":723290577,
+    "wof:lastmodified":1461898886,
+    "wof:name":"Dry Clean City",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -84.58259,
+    33.9513,
+    -84.58259,
+    33.9513
+],
+  "geometry": {"coordinates":[-84.58259,33.9513],"type":"Point"}
+}

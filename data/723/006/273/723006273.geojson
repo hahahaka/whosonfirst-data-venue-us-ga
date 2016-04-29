@@ -1,0 +1,83 @@
+{
+  "id": 723006273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.150298,31.610231,-84.150298,31.610231",
+    "geom:latitude":31.610231,
+    "geom:longitude":-84.150298,
+    "iso:country":"US",
+    "sg:address":"2507 Lakeshore Dr",
+    "sg:city":"Albany",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 420 8027",
+    "sg:postcode":"31701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85829381,
+        102084427,
+        102191575,
+        85935991,
+        85825749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lbxQn99rrrRfezeoO4cjX_31.610231_-84.150298@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461893068,
+    "wof:geomhash":"4a45eb5424cb48c47c78b994f3b74a5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084427,
+            "neighbourhood_id":85829381,
+            "region_id":85688535,
+            "venue_id":723006273
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":85825749,
+            "region_id":85688535,
+            "venue_id":723006273
+        }
+    ],
+    "wof:id":723006273,
+    "wof:lastmodified":1461893068,
+    "wof:name":"Dental Art Associates",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -84.150298,
+    31.610231,
+    -84.150298,
+    31.610231
+],
+  "geometry": {"coordinates":[-84.15029800000001,31.610231],"type":"Point"}
+}

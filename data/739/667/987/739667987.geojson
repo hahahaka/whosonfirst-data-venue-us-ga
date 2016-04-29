@@ -1,0 +1,71 @@
+{
+  "id": 739667987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.27085,30.786201,-83.27085,30.786201",
+    "geom:latitude":30.786201,
+    "geom:longitude":-83.27085,
+    "iso:country":"US",
+    "sg:address":"2512 Madison Hwy",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 242 5223",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85827233,
+        102083585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Fb1N66unwu0hCMpmjzeAs_30.786201_-83.270850@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461911912,
+    "wof:geomhash":"60998fa749d98b78b2aeb52ad7078c72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "neighbourhood_id":85827233,
+            "region_id":85688535,
+            "venue_id":739667987
+        }
+    ],
+    "wof:id":739667987,
+    "wof:lastmodified":1461911912,
+    "wof:name":"Silvey Aviation",
+    "wof:parent_id":85827233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -83.27085,
+    30.786201,
+    -83.27085,
+    30.786201
+],
+  "geometry": {"coordinates":[-83.27085,30.786201],"type":"Point"}
+}

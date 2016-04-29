@@ -1,0 +1,75 @@
+{
+  "id": 723432313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.254641,33.89454,-84.254641,33.89454",
+    "geom:latitude":33.89454,
+    "geom:longitude":-84.254641,
+    "iso:country":"US",
+    "sg:address":"4231 Northeast Expy",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 270 0026",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "sg:tags":[
+        "renting",
+        "automobile",
+        "specialty",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OkRekc48szZn3ius739Ly_33.894540_-84.254641@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901608,
+    "wof:geomhash":"390866791950130fe3a5d369a3f93556",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":723432313
+        }
+    ],
+    "wof:id":723432313,
+    "wof:lastmodified":1461901608,
+    "wof:name":"American Van Rental",
+    "wof:parent_id":85889941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile",
+        "specialty",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -84.254641,
+    33.89454,
+    -84.254641,
+    33.89454
+],
+  "geometry": {"coordinates":[-84.25464100000001,33.89454],"type":"Point"}
+}

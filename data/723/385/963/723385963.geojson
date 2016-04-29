@@ -1,0 +1,76 @@
+{
+  "id": 723385963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.990564,32.962242,-84.990564,32.962242",
+    "geom:latitude":32.962242,
+    "geom:longitude":-84.990564,
+    "iso:country":"US",
+    "sg:address":"233 Hunt Rd",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 882 8469",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lAJm5imXrdhijBNzwE4g1_32.962242_-84.990564@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900696,
+    "wof:geomhash":"40c2871d306c346dc17a620a8cb058a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":723385963
+        }
+    ],
+    "wof:id":723385963,
+    "wof:lastmodified":1461900696,
+    "wof:name":"American Inspections",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -84.990564,
+    32.962242,
+    -84.990564,
+    32.962242
+],
+  "geometry": {"coordinates":[-84.99056400000001,32.962242],"type":"Point"}
+}

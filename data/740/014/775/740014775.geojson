@@ -1,0 +1,88 @@
+{
+  "id": 740014775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.347346,33.996786,-84.347346,33.996786",
+    "geom:latitude":33.996786,
+    "geom:longitude":-84.347346,
+    "iso:country":"US",
+    "sg:address":"330 Winding River Dr",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 914 6666",
+    "sg:postcode":"30350",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shuttle",
+        "limousine",
+        "provider"
+    ],
+    "sg:website":"http://atlantaclassictransportation.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937165,
+        102083603,
+        85889973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sU3HNPiH3gw4bmWcu8h3g_33.996786_-84.347346@1303262631"
+    },
+    "wof:country":"US",
+    "wof:created":1461924498,
+    "wof:geomhash":"c969378ccc03f0731f3a310bd6f04e52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937165,
+            "neighbourhood_id":85889973,
+            "region_id":85688535,
+            "venue_id":740014775
+        }
+    ],
+    "wof:id":740014775,
+    "wof:lastmodified":1461924498,
+    "wof:name":"Atlanta Classic Transportation",
+    "wof:parent_id":85889973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "limousine",
+        "provider"
+    ]
+},
+  "bbox": [
+    -84.347346,
+    33.996786,
+    -84.347346,
+    33.996786
+],
+  "geometry": {"coordinates":[-84.347346,33.996786],"type":"Point"}
+}

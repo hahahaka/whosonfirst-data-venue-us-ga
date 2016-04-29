@@ -1,0 +1,83 @@
+{
+  "id": 739693387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.545142,33.570328,-84.545142,33.570328",
+    "geom:latitude":33.570328,
+    "geom:longitude":-84.545142,
+    "iso:country":"US",
+    "sg:address":"4780 Jonesboro Rd",
+    "sg:city":"Union City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 969 6565",
+    "sg:postcode":"30291",
+    "sg:province":"GA",
+    "sg:tags":[
+        "cashing",
+        "agency",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85848007,
+        102083603,
+        85937159,
+        85848001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BL9vl5pSlmDSVYH9XeFLZ_33.570328_-84.545142@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461912407,
+    "wof:geomhash":"e27f20e2cbbb9e6d6ce58204b2ff5cd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85848007,
+            "region_id":85688535,
+            "venue_id":739693387
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937159,
+            "neighbourhood_id":85848001,
+            "region_id":85688535,
+            "venue_id":739693387
+        }
+    ],
+    "wof:id":739693387,
+    "wof:lastmodified":1461912407,
+    "wof:name":"Atlanta Check Cashers Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "agency",
+        "check"
+    ]
+},
+  "bbox": [
+    -84.545142,
+    33.570328,
+    -84.545142,
+    33.570328
+],
+  "geometry": {"coordinates":[-84.545142,33.570328],"type":"Point"}
+}

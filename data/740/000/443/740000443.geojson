@@ -1,0 +1,87 @@
+{
+  "id": 740000443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.292338,33.907923,-84.292338,33.907923",
+    "geom:latitude":33.907923,
+    "geom:longitude":-84.292338,
+    "iso:country":"US",
+    "sg:address":"5900 Peachtree Industrial Blvd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 457 8211",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "new",
+        "car"
+    ],
+    "sg:website":"http://jimellischevrolet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85936435,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hu467gIHQcDfzxrgqD1PG_33.907923_-84.292338@1303262627"
+    },
+    "wof:country":"US",
+    "wof:created":1461923946,
+    "wof:geomhash":"c0c868808d4c54ac997111b86ce84cc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":740000443
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":740000443
+        }
+    ],
+    "wof:id":740000443,
+    "wof:lastmodified":1461923946,
+    "wof:name":"Jim Ellis Chevrolet",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "car"
+    ]
+},
+  "bbox": [
+    -84.292338,
+    33.907923,
+    -84.292338,
+    33.907923
+],
+  "geometry": {"coordinates":[-84.292338,33.907923],"type":"Point"}
+}

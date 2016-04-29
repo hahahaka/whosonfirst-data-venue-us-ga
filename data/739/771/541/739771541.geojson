@@ -1,0 +1,75 @@
+{
+  "id": 739771541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.077368,33.419103,-82.077368,33.419103",
+    "geom:latitude":33.419103,
+    "geom:longitude":-82.077368,
+    "iso:country":"US",
+    "sg:address":"3357 Deans Bridge Rd",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/augusta/203174-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30906",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936989,
+        102082951,
+        420558603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3U6AnAxYurbxlr9lYbwDRp_33.419103_-82.077368@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914602,
+    "wof:geomhash":"ab1de96ce2f489b66a3ae2582ed58876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082951,
+            "locality_id":85936989,
+            "neighbourhood_id":420558603,
+            "region_id":85688535,
+            "venue_id":739771541
+        }
+    ],
+    "wof:id":739771541,
+    "wof:lastmodified":1461914602,
+    "wof:name":"McDonald's",
+    "wof:parent_id":420558603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -82.077368,
+    33.419103,
+    -82.077368,
+    33.419103
+],
+  "geometry": {"coordinates":[-82.07736800000001,33.419103],"type":"Point"}
+}

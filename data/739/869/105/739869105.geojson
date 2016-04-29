@@ -1,0 +1,80 @@
+{
+  "id": 739869105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.078482,33.580598,-85.078482,33.580598",
+    "geom:latitude":33.580598,
+    "geom:longitude":-85.078482,
+    "iso:country":"US",
+    "sg:address":"111 N Park St",
+    "sg:city":"Carrollton",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 830 8828",
+    "sg:postcode":"30117",
+    "sg:province":"GA",
+    "sg:tags":[
+        "barbecue",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937055,
+        102081719,
+        85890025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Yp3S9S35aAijKOLcCIhM4_33.580598_-85.078482@1303262593"
+    },
+    "wof:country":"US",
+    "wof:created":1461918645,
+    "wof:geomhash":"34196bbfb79a20edf56355acdebb3601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081719,
+            "locality_id":85937055,
+            "neighbourhood_id":85890025,
+            "region_id":85688535,
+            "venue_id":739869105
+        }
+    ],
+    "wof:id":739869105,
+    "wof:lastmodified":1461918645,
+    "wof:name":"Hot Wings Cafe",
+    "wof:parent_id":85890025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -85.078482,
+    33.580598,
+    -85.078482,
+    33.580598
+],
+  "geometry": {"coordinates":[-85.07848199999999,33.580598],"type":"Point"}
+}

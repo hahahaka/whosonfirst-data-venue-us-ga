@@ -1,0 +1,71 @@
+{
+  "id": 739307769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.409719,31.795236,-81.409719,31.795236",
+    "geom:latitude":31.795236,
+    "geom:longitude":-81.409719,
+    "iso:country":"US",
+    "sg:address":"66 Industrial Blvd",
+    "sg:city":"Pembroke",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 626 5018",
+    "sg:postcode":"31320",
+    "sg:province":"GA",
+    "sg:tags":[
+        "district"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936767,
+        102082901,
+        85820995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qVTgmhI37xCZ5TNi24OVE_31.795236_-81.409719@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461904730,
+    "wof:geomhash":"d952e7d261cb93b12d0d521057ff21d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082901,
+            "locality_id":85936767,
+            "neighbourhood_id":85820995,
+            "region_id":85688535,
+            "venue_id":739307769
+        }
+    ],
+    "wof:id":739307769,
+    "wof:lastmodified":1461904730,
+    "wof:name":"Bryan Co School District",
+    "wof:parent_id":85820995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "district"
+    ]
+},
+  "bbox": [
+    -81.409719,
+    31.795236,
+    -81.409719,
+    31.795236
+],
+  "geometry": {"coordinates":[-81.409719,31.795236],"type":"Point"}
+}

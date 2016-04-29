@@ -1,0 +1,79 @@
+{
+  "id": 739872635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.695099,33.848202,-84.695099,33.848202",
+    "geom:latitude":33.848202,
+    "geom:longitude":-84.695099,
+    "iso:country":"US",
+    "sg:address":"4327 Brownsville Rd Ste H",
+    "sg:city":"Powder Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 439 1996",
+    "sg:postcode":"30127",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.animalhealthservices.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QLUzdxpPEYDQ9PQEiq9DK_33.848202_-84.695099@1303262594"
+    },
+    "wof:country":"US",
+    "wof:created":1461918783,
+    "wof:geomhash":"c0e5ec25f735dec1df1018a4cbce6756",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739872635
+        }
+    ],
+    "wof:id":739872635,
+    "wof:lastmodified":1461918783,
+    "wof:name":"Animal Care Clinic",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.695099,
+    33.848202,
+    -84.695099,
+    33.848202
+],
+  "geometry": {"coordinates":[-84.695099,33.848202],"type":"Point"}
+}

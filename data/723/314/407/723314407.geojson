@@ -1,0 +1,73 @@
+{
+  "id": 723314407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.874889,32.312399,-81.874889,32.312399",
+    "geom:latitude":32.312399,
+    "geom:longitude":-81.874889,
+    "iso:country":"US",
+    "sg:address":"4795 US Hwy 301",
+    "sg:city":"Register",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 852 5700",
+    "sg:postcode":"30452",
+    "sg:province":"GA",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935999,
+        102084405,
+        85821351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0le3H4BIi9rL7afCilGWw6_32.312399_-81.874889@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899343,
+    "wof:geomhash":"dcd49d92d649495ffcc4024a3a49a809",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85821351,
+            "region_id":85688535,
+            "venue_id":723314407
+        }
+    ],
+    "wof:id":723314407,
+    "wof:lastmodified":1461899343,
+    "wof:name":"Southern Disposal Svc Inc",
+    "wof:parent_id":85821351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -81.874889,
+    32.312399,
+    -81.874889,
+    32.312399
+],
+  "geometry": {"coordinates":[-81.874889,32.312399],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 739900765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.798784,33.373675,-84.798784,33.373675",
+    "geom:latitude":33.373675,
+    "geom:longitude":-84.798784,
+    "iso:country":"US",
+    "sg:address":"19 Perry St",
+    "sg:city":"Newnan",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 502 1932",
+    "sg:postcode":"30263",
+    "sg:province":"GA",
+    "sg:tags":[
+        "equipment",
+        "manufacturer",
+        "supplies-wholesale",
+        "salons-equipment",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936351,
+        102084443,
+        85833133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HME18kO07066hCF0j3wPy_33.373675_-84.798784@1303262601"
+    },
+    "wof:country":"US",
+    "wof:created":1461919856,
+    "wof:geomhash":"62ba3035fa4b6ef311ef5356a6b539c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084443,
+            "locality_id":85936351,
+            "neighbourhood_id":85833133,
+            "region_id":85688535,
+            "venue_id":739900765
+        }
+    ],
+    "wof:id":739900765,
+    "wof:lastmodified":1461919856,
+    "wof:name":"Kim Neely Ofc",
+    "wof:parent_id":85833133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "manufacturer",
+        "supplies-wholesale",
+        "salons-equipment",
+        "supply"
+    ]
+},
+  "bbox": [
+    -84.798784,
+    33.373675,
+    -84.798784,
+    33.373675
+],
+  "geometry": {"coordinates":[-84.798784,33.373675],"type":"Point"}
+}

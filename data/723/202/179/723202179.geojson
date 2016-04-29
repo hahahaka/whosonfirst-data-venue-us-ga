@@ -1,0 +1,73 @@
+{
+  "id": 723202179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.493437,31.155385,-81.493437,31.155385",
+    "geom:latitude":31.155385,
+    "geom:longitude":-81.493437,
+    "iso:country":"US",
+    "sg:address":"1805 Norwich St",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 262 1039",
+    "sg:postcode":"31520",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85833275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nX0qxgRXN8UwKQOhUic8m_31.155385_-81.493437@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897116,
+    "wof:geomhash":"70b76efc29caf2d4683d3d7cc3985f0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85833275,
+            "region_id":85688535,
+            "venue_id":723202179
+        }
+    ],
+    "wof:id":723202179,
+    "wof:lastmodified":1461897116,
+    "wof:name":"Peds Rus",
+    "wof:parent_id":85833275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.493437,
+    31.155385,
+    -81.493437,
+    31.155385
+],
+  "geometry": {"coordinates":[-81.493437,31.155385],"type":"Point"}
+}

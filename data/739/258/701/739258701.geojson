@@ -1,0 +1,69 @@
+{
+  "id": 739258701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.641812,33.920783,-84.641812,33.920783",
+    "geom:latitude":33.920783,
+    "geom:longitude":-84.641812,
+    "iso:country":"US",
+    "sg:address":"1397 Wynford Gate",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 919 2404",
+    "sg:postcode":"30064",
+    "sg:province":"GA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZLSplQDt1FAAFvm9OW6hy_33.920783_-84.641812@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461903673,
+    "wof:geomhash":"fc1e6025eff3aa360860e10328b8bcda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739258701
+        }
+    ],
+    "wof:id":739258701,
+    "wof:lastmodified":1461903673,
+    "wof:name":"GHA Cleaning Svc",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -84.641812,
+    33.920783,
+    -84.641812,
+    33.920783
+],
+  "geometry": {"coordinates":[-84.641812,33.920783],"type":"Point"}
+}

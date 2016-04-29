@@ -1,0 +1,82 @@
+{
+  "id": 739775647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.541806,33.569436,-84.541806,33.569436",
+    "geom:latitude":33.569436,
+    "geom:longitude":-84.541806,
+    "iso:country":"US",
+    "sg:address":"4715 Jonesboro Rd",
+    "sg:city":"Union City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/fairburn-union-city/70764-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 969 0612",
+    "sg:postcode":"30291",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85848007,
+        102083603,
+        85937159,
+        85848001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xhvuQlwAp3apl4aj1SQUQ_33.569462_-84.542019@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461914770,
+    "wof:geomhash":"de77cd1c161ae95aa7f20a1dd8c8d0b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85848007,
+            "region_id":85688535,
+            "venue_id":739775647
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937159,
+            "neighbourhood_id":85848001,
+            "region_id":85688535,
+            "venue_id":739775647
+        }
+    ],
+    "wof:id":739775647,
+    "wof:lastmodified":1461914770,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.541806,
+    33.569436,
+    -84.541806,
+    33.569436
+],
+  "geometry": {"coordinates":[-84.54180599999999,33.569436],"type":"Point"}
+}

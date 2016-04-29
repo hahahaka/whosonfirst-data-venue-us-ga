@@ -1,0 +1,85 @@
+{
+  "id": 739985155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.526062,33.769241,-84.526062,33.769241",
+    "geom:latitude":33.769241,
+    "geom:longitude":-84.526062,
+    "iso:country":"US",
+    "sg:address":"500 Interchange Dr SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Food Court",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 699 5838",
+    "sg:postcode":"30336",
+    "sg:province":"GA",
+    "sg:tags":[
+        "grocers-wholesale",
+        "concession",
+        "management",
+        "concessionaire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85872053,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W4RgphzDe4d2RDIm2lonn_33.769241_-84.526062@1303262623"
+    },
+    "wof:country":"US",
+    "wof:created":1461923351,
+    "wof:geomhash":"e7cfbb11864ed1a56a248e63ea172341",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85872053,
+            "region_id":85688535,
+            "venue_id":739985155
+        }
+    ],
+    "wof:id":739985155,
+    "wof:lastmodified":1461923351,
+    "wof:name":"Parishable Food Service",
+    "wof:parent_id":85872053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocers-wholesale",
+        "concession",
+        "management",
+        "concessionaire"
+    ]
+},
+  "bbox": [
+    -84.526062,
+    33.769241,
+    -84.526062,
+    33.769241
+],
+  "geometry": {"coordinates":[-84.526062,33.769241],"type":"Point"}
+}

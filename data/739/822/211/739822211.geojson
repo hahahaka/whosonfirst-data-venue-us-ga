@@ -1,0 +1,79 @@
+{
+  "id": 739822211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.601463,33.90778,-84.601463,33.90778",
+    "geom:latitude":33.90778,
+    "geom:longitude":-84.601463,
+    "iso:country":"US",
+    "sg:address":"1651 Powder Springs Rd SW Ste",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 499 1803",
+    "sg:postcode":"30064",
+    "sg:province":"GA",
+    "sg:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ],
+    "sg:website":"http://www.enterprise.com/car_rental/deeplinkmap.do?gpbr=0385&bid=004&cnty=US&arc=YPTRL01&cm_mmc=Yellowpages.com-_-IYP-_-Tradelisting-_-branch",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gc4R5pLMjD61Pwa6uDr3Q_33.907780_-84.601463@1303262581"
+    },
+    "wof:country":"US",
+    "wof:created":1461916779,
+    "wof:geomhash":"e61ce9b381da9a2e3e0dd067990c3b3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739822211
+        }
+    ],
+    "wof:id":739822211,
+    "wof:lastmodified":1461916779,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ]
+},
+  "bbox": [
+    -84.601463,
+    33.90778,
+    -84.601463,
+    33.90778
+],
+  "geometry": {"coordinates":[-84.601463,33.90778],"type":"Point"}
+}

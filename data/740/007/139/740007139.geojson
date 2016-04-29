@@ -1,0 +1,84 @@
+{
+  "id": 740007139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.459495,33.671842,-84.459495,33.671842",
+    "geom:latitude":33.671842,
+    "geom:longitude":-84.459495,
+    "iso:country":"US",
+    "sg:address":"3069 Washington Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 767 5700",
+    "sg:postcode":"30344",
+    "sg:province":"GA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85822133,
+        85937155,
+        420517901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jIrRdO3vspUx9eaDkajfI_33.671842_-84.459495@1303262629"
+    },
+    "wof:country":"US",
+    "wof:created":1461924195,
+    "wof:geomhash":"16bc4d73eeefd81d3121175ec5bc3338",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85822133,
+            "region_id":85688535,
+            "venue_id":740007139
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937155,
+            "neighbourhood_id":420517901,
+            "region_id":85688535,
+            "venue_id":740007139
+        }
+    ],
+    "wof:id":740007139,
+    "wof:lastmodified":1461924195,
+    "wof:name":"Patron Mexican Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -84.459495,
+    33.671842,
+    -84.459495,
+    33.671842
+],
+  "geometry": {"coordinates":[-84.459495,33.671842],"type":"Point"}
+}

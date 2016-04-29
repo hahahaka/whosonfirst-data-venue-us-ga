@@ -1,0 +1,75 @@
+{
+  "id": 723125167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.596278,33.396553,-84.596278,33.396553",
+    "geom:latitude":33.396553,
+    "geom:longitude":-84.596278,
+    "iso:country":"US",
+    "sg:address":"123 Huddleston Rd",
+    "sg:city":"Peachtree City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 486 7650",
+    "sg:postcode":"30269",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936021,
+        102081687,
+        85802325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18ftMVf1KNhwfX4fmNiomQ_33.396553_-84.596278@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461895607,
+    "wof:geomhash":"ee3a219756b48a16cea1d3dff3e83501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081687,
+            "locality_id":85936021,
+            "neighbourhood_id":85802325,
+            "region_id":85688535,
+            "venue_id":723125167
+        }
+    ],
+    "wof:id":723125167,
+    "wof:lastmodified":1461895607,
+    "wof:name":"Mark & Theo's Auto Svc",
+    "wof:parent_id":85802325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.596278,
+    33.396553,
+    -84.596278,
+    33.396553
+],
+  "geometry": {"coordinates":[-84.596278,33.396553],"type":"Point"}
+}

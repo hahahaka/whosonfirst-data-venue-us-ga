@@ -1,0 +1,75 @@
+{
+  "id": 722943913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.857905,33.802779,-84.857905,33.802779",
+    "geom:latitude":33.802779,
+    "geom:longitude":-84.857905,
+    "iso:country":"US",
+    "sg:address":"1862 Ridge Rd",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 459 3615",
+    "sg:postcode":"30157",
+    "sg:province":"GA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936335,
+        102084665,
+        85835843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pCDGnQwFdsJxWyvMugyGh_33.802779_-84.857905@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461891709,
+    "wof:geomhash":"a18e82fe5afb277c8068166a593ee52a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "locality_id":85936335,
+            "neighbourhood_id":85835843,
+            "region_id":85688535,
+            "venue_id":722943913
+        }
+    ],
+    "wof:id":722943913,
+    "wof:lastmodified":1461891709,
+    "wof:name":"Owens Trucking",
+    "wof:parent_id":85835843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.857905,
+    33.802779,
+    -84.857905,
+    33.802779
+],
+  "geometry": {"coordinates":[-84.857905,33.802779],"type":"Point"}
+}

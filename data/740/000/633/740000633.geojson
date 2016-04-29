@@ -1,0 +1,83 @@
+{
+  "id": 740000633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.309285,33.869782,-84.309285,33.869782",
+    "geom:latitude":33.869782,
+    "geom:longitude":-84.309285,
+    "iso:country":"US",
+    "sg:address":"3759 Clairmont Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 547 1341",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "water",
+        "plumber",
+        "heater"
+    ],
+    "sg:website":"http://www.atlanta.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102525899,
+        85688535,
+        85633793,
+        85937255,
+        102084539,
+        85807835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EfAeNJBJKPx0n2Om63Rne_33.869782_-84.309285@1303262627"
+    },
+    "wof:country":"US",
+    "wof:created":1461923952,
+    "wof:geomhash":"c7d5ed9f088803e2c5fbd169f6efff13",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525899,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937255,
+            "neighbourhood_id":85807835,
+            "region_id":85688535,
+            "venue_id":740000633
+        }
+    ],
+    "wof:id":740000633,
+    "wof:lastmodified":1461923952,
+    "wof:name":"Ansley Park Plumbing Co",
+    "wof:parent_id":102525899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "plumber",
+        "heater"
+    ]
+},
+  "bbox": [
+    -84.309285,
+    33.869782,
+    -84.309285,
+    33.869782
+],
+  "geometry": {"coordinates":[-84.309285,33.869782],"type":"Point"}
+}

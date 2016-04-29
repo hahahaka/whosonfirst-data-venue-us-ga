@@ -1,0 +1,71 @@
+{
+  "id": 739464069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.49321,31.146618,-81.49321,31.146618",
+    "geom:latitude":31.146618,
+    "geom:longitude":-81.49321,
+    "iso:country":"US",
+    "sg:address":"508 Mansfield St",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 267 0044",
+    "sg:postcode":"31520",
+    "sg:province":"GA",
+    "sg:tags":[
+        "bottler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85822091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7g7hQSz63i8BL5c9dGQ1pQ_31.146618_-81.493210@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907783,
+    "wof:geomhash":"67ec23b0dc320fe9978444831cb6fb4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85822091,
+            "region_id":85688535,
+            "venue_id":739464069
+        }
+    ],
+    "wof:id":739464069,
+    "wof:lastmodified":1461907783,
+    "wof:name":"Coca-Cola Bottling Co",
+    "wof:parent_id":85822091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bottler"
+    ]
+},
+  "bbox": [
+    -81.49321,
+    31.146618,
+    -81.49321,
+    31.146618
+],
+  "geometry": {"coordinates":[-81.49321,31.146618],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 740033101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.376808,33.95734,-83.376808,33.95734",
+    "geom:latitude":33.95734,
+    "geom:longitude":-83.376808,
+    "iso:country":"US",
+    "sg:address":"101 N Lumpkin St",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 786 8787",
+    "sg:postcode":"30601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "loan",
+        "financing"
+    ],
+    "sg:website":"http://www.SunTrust.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936177,
+        102081713,
+        85851137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77dyDsoJZJgX1JxJEWPKYx_33.957340_-83.376808@1303262635"
+    },
+    "wof:country":"US",
+    "wof:created":1461925292,
+    "wof:geomhash":"b6c65b39609d977256e3cce53f3fb58d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081713,
+            "locality_id":85936177,
+            "neighbourhood_id":85851137,
+            "region_id":85688535,
+            "venue_id":740033101
+        }
+    ],
+    "wof:id":740033101,
+    "wof:lastmodified":1461925292,
+    "wof:name":"SunTrust Bank - Athens Main Office",
+    "wof:parent_id":85851137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "financing"
+    ]
+},
+  "bbox": [
+    -83.376808,
+    33.95734,
+    -83.376808,
+    33.95734
+],
+  "geometry": {"coordinates":[-83.376808,33.95734],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 739844059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.535568,33.863098,-84.535568,33.863098",
+    "geom:latitude":33.863098,
+    "geom:longitude":-84.535568,
+    "iso:country":"US",
+    "sg:address":"1504 Grace Meadows Ln SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 550 9830",
+    "sg:postcode":"30082",
+    "sg:province":"GA",
+    "sg:tags":[
+        "attraction",
+        "limousine"
+    ],
+    "sg:website":"http://www.corporatelinelimousine.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UhOVkduFPAH6dvZqOXVXf_33.863098_-84.535568@1303262586"
+    },
+    "wof:country":"US",
+    "wof:created":1461917659,
+    "wof:geomhash":"80e964f2f49c60ca099db0e5232ae318",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":739844059
+        }
+    ],
+    "wof:id":739844059,
+    "wof:lastmodified":1461917659,
+    "wof:name":"Corporate Line Car Service",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attraction",
+        "limousine"
+    ]
+},
+  "bbox": [
+    -84.535568,
+    33.863098,
+    -84.535568,
+    33.863098
+],
+  "geometry": {"coordinates":[-84.535568,33.863098],"type":"Point"}
+}

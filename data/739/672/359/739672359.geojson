@@ -1,0 +1,73 @@
+{
+  "id": 739672359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.51972,33.776307,-84.51972,33.776307",
+    "geom:latitude":33.776307,
+    "geom:longitude":-84.51972,
+    "iso:country":"US",
+    "sg:address":"3905 Aero Dr NW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 691 4805",
+    "sg:postcode":"30336",
+    "sg:province":"GA",
+    "sg:tags":[
+        "scheduled",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937189,
+        102082313,
+        85809641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I7X13zktSCyQL9IJTlUft_33.776307_-84.519720@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461911996,
+    "wof:geomhash":"7ed58305b9c248f1c33e774edd369c5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85937189,
+            "neighbourhood_id":85809641,
+            "region_id":85688535,
+            "venue_id":739672359
+        }
+    ],
+    "wof:id":739672359,
+    "wof:lastmodified":1461911996,
+    "wof:name":"Georgia-Pacific",
+    "wof:parent_id":85809641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scheduled",
+        "air"
+    ]
+},
+  "bbox": [
+    -84.51972,
+    33.776307,
+    -84.51972,
+    33.776307
+],
+  "geometry": {"coordinates":[-84.51972000000001,33.776307],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 739745701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.477715,33.664896,-84.477715,33.664896",
+    "geom:latitude":33.664896,
+    "geom:longitude":-84.477715,
+    "iso:country":"US",
+    "sg:address":"3353 Mount Olive Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 669 8050",
+    "sg:postcode":"30344",
+    "sg:province":"GA",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85822133,
+        85937155,
+        420517901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1evkuQ3r9RdWhtMZgPoqM7_33.665215_-84.477646@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461913545,
+    "wof:geomhash":"fcb555b600fe15a44214113a7a3362cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85822133,
+            "region_id":85688535,
+            "venue_id":739745701
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937155,
+            "neighbourhood_id":420517901,
+            "region_id":85688535,
+            "venue_id":739745701
+        }
+    ],
+    "wof:id":739745701,
+    "wof:lastmodified":1461913545,
+    "wof:name":"Mount Olive Elementary",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -84.477715,
+    33.664896,
+    -84.477715,
+    33.664896
+],
+  "geometry": {"coordinates":[-84.477715,33.664896],"type":"Point"}
+}

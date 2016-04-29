@@ -1,0 +1,80 @@
+{
+  "id": 739818465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.590401,33.868051,-84.590401,33.868051",
+    "geom:latitude":33.868051,
+    "geom:longitude":-84.590401,
+    "iso:country":"US",
+    "sg:address":"2901 Station Club Dr SW",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 437 3431",
+    "sg:postcode":"30060",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "nurse",
+        "assistant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Zt8xdmv3C3SXZy4Mp6GCa_33.868051_-84.590401@1303262580"
+    },
+    "wof:country":"US",
+    "wof:created":1461916630,
+    "wof:geomhash":"75b3e3a5ec50b45b2ef59357e8977b05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":739818465
+        }
+    ],
+    "wof:id":739818465,
+    "wof:lastmodified":1461916630,
+    "wof:name":"Nurse Aides On Call",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "nurse",
+        "assistant"
+    ]
+},
+  "bbox": [
+    -84.590401,
+    33.868051,
+    -84.590401,
+    33.868051
+],
+  "geometry": {"coordinates":[-84.590401,33.868051],"type":"Point"}
+}

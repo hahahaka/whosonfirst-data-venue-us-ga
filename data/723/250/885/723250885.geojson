@@ -1,0 +1,85 @@
+{
+  "id": 723250885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.285475,33.736827,-84.285475,33.736827",
+    "geom:latitude":33.736827,
+    "geom:longitude":-84.285475,
+    "iso:country":"US",
+    "sg:address":"1866 Eastfield St",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 289 5099",
+    "sg:postcode":"30032",
+    "sg:province":"GA",
+    "sg:tags":[
+        "hospital",
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937245,
+        102084539,
+        85816501,
+        85816491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jGlcooNoid7NGemSGnWAO_33.736827_-84.285475@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461898134,
+    "wof:geomhash":"b3ad08097efab03102d3a9e423c611e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937245,
+            "neighbourhood_id":85816501,
+            "region_id":85688535,
+            "venue_id":723250885
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":723250885
+        }
+    ],
+    "wof:id":723250885,
+    "wof:lastmodified":1461898134,
+    "wof:name":"Breakthru House Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -84.285475,
+    33.736827,
+    -84.285475,
+    33.736827
+],
+  "geometry": {"coordinates":[-84.28547500000001,33.736827],"type":"Point"}
+}

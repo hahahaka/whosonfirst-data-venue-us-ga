@@ -1,0 +1,73 @@
+{
+  "id": 723216965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.433101,34.848223,-83.433101,34.848223",
+    "geom:latitude":34.848223,
+    "geom:longitude":-83.433101,
+    "iso:country":"US",
+    "sg:address":"19 English St",
+    "sg:city":"Tiger",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 782 3572",
+    "sg:postcode":"30576",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936141,
+        102081683,
+        85821415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JdJm3t2MkF8Z6fr5WNeV1_34.848223_-83.433101@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897408,
+    "wof:geomhash":"8c24e5de35507503ba222da6574f2adb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081683,
+            "locality_id":85936141,
+            "neighbourhood_id":85821415,
+            "region_id":85688535,
+            "venue_id":723216965
+        }
+    ],
+    "wof:id":723216965,
+    "wof:lastmodified":1461897408,
+    "wof:name":"Tiger Urology Associates",
+    "wof:parent_id":85821415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.433101,
+    34.848223,
+    -83.433101,
+    34.848223
+],
+  "geometry": {"coordinates":[-83.43310099999999,34.848223],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 740065301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.306838,30.822915,-83.306838,30.822915",
+    "geom:latitude":30.822915,
+    "geom:longitude":-83.306838,
+    "iso:country":"US",
+    "sg:address":"1606 W Hill Ave",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 245 0451",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "industrial",
+        "electrician",
+        "contractors-commercial",
+        "equipment-testing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29HaOTaGqvdAxfIrKZuKR8_30.822915_-83.306838@1303262644"
+    },
+    "wof:country":"US",
+    "wof:created":1461926762,
+    "wof:geomhash":"1759a3b6ce0d3b48663f31969d615926",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843241,
+            "region_id":85688535,
+            "venue_id":740065301
+        }
+    ],
+    "wof:id":740065301,
+    "wof:lastmodified":1461926762,
+    "wof:name":"B & J Electric Company Inc",
+    "wof:parent_id":85843241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "electrician",
+        "contractors-commercial",
+        "equipment-testing"
+    ]
+},
+  "bbox": [
+    -83.306838,
+    30.822915,
+    -83.306838,
+    30.822915
+],
+  "geometry": {"coordinates":[-83.306838,30.822915],"type":"Point"}
+}

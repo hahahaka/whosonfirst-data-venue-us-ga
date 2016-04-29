@@ -1,0 +1,71 @@
+{
+  "id": 722572645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.310069,32.373916,-81.310069,32.373916",
+    "geom:latitude":32.373916,
+    "geom:longitude":-81.310069,
+    "iso:country":"US",
+    "sg:address":"601 N Ash St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 754 6361",
+    "sg:postcode":"31329",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85850535,
+        102083627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4feJS5DNStkmFz8xHEM5Nn_32.373916_-81.310069@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461884455,
+    "wof:geomhash":"cc6ef22a21860e180b8f64bf6dbce8fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083627,
+            "neighbourhood_id":85850535,
+            "region_id":85688535,
+            "venue_id":722572645
+        }
+    ],
+    "wof:id":722572645,
+    "wof:lastmodified":1461884455,
+    "wof:name":"Romualdo Laygo PC",
+    "wof:parent_id":85850535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.310069,
+    32.373916,
+    -81.310069,
+    32.373916
+],
+  "geometry": {"coordinates":[-81.310069,32.373916],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 723039585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.257843,30.761565,-83.257843,30.761565",
+    "geom:latitude":30.761565,
+    "geom:longitude":-83.257843,
+    "iso:country":"US",
+    "sg:address":"2765 Rita Cir",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 244 4205",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85827233,
+        102083585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hlOTswdtxdMXeXN1NCxxp_30.761565_-83.257843@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461893802,
+    "wof:geomhash":"318119605f8956cc4359ed2e9eecdda6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "neighbourhood_id":85827233,
+            "region_id":85688535,
+            "venue_id":723039585
+        }
+    ],
+    "wof:id":723039585,
+    "wof:lastmodified":1461893802,
+    "wof:name":"Robert Cook Trucking",
+    "wof:parent_id":85827233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.257843,
+    30.761565,
+    -83.257843,
+    30.761565
+],
+  "geometry": {"coordinates":[-83.25784299999999,30.761565],"type":"Point"}
+}

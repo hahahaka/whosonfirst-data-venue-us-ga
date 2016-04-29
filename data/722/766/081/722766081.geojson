@@ -1,0 +1,71 @@
+{
+  "id": 722766081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.900246,33.166347,-84.900246,33.166347",
+    "geom:latitude":33.166347,
+    "geom:longitude":-84.900246,
+    "iso:country":"US",
+    "sg:address":"1101 E Main St",
+    "sg:city":"Hogansville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 637 8059",
+    "sg:postcode":"30230",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6d464UdEKQ41JrjXdrs6jy_33.166347_-84.900246@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888230,
+    "wof:geomhash":"28c6fb89b9fc8b195adedabd51e187c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":722766081
+        }
+    ],
+    "wof:id":722766081,
+    "wof:lastmodified":1461888230,
+    "wof:name":"Troup County Fire Dept",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.900246,
+    33.166347,
+    -84.900246,
+    33.166347
+],
+  "geometry": {"coordinates":[-84.900246,33.166347],"type":"Point"}
+}

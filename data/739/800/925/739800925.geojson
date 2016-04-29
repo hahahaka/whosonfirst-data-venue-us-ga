@@ -1,0 +1,79 @@
+{
+  "id": 739800925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.172492,33.697456,-84.172492,33.697456",
+    "geom:latitude":33.697456,
+    "geom:longitude":-84.172492,
+    "iso:country":"US",
+    "sg:address":"3068 Panola Rd Ste 2",
+    "sg:city":"Lithonia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 323 3180",
+    "sg:postcode":"30038",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shipping"
+    ],
+    "sg:website":"www.fedex.com/us/office/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937263,
+        102084539,
+        85890037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bwxovQ67xG0WIIBd8sGOS_33.697456_-84.172492@1303262575"
+    },
+    "wof:country":"US",
+    "wof:created":1461915821,
+    "wof:geomhash":"53d9d47a5a8a8899e883283be4f3c623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937263,
+            "neighbourhood_id":85890037,
+            "region_id":85688535,
+            "venue_id":739800925
+        }
+    ],
+    "wof:id":739800925,
+    "wof:lastmodified":1461915821,
+    "wof:name":"FedEx Office Print & Ship Center",
+    "wof:parent_id":85890037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipping"
+    ]
+},
+  "bbox": [
+    -84.172492,
+    33.697456,
+    -84.172492,
+    33.697456
+],
+  "geometry": {"coordinates":[-84.17249200000001,33.697456],"type":"Point"}
+}

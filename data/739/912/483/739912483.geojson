@@ -1,0 +1,83 @@
+{
+  "id": 739912483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.384231,33.756517,-84.384231,33.756517",
+    "geom:latitude":33.756517,
+    "geom:longitude":-84.384231,
+    "iso:country":"US",
+    "sg:address":"70 Courtland St NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 529 7869",
+    "sg:postcode":"30303",
+    "sg:province":"GA",
+    "sg:tags":[
+        "teleconferencing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85819463,
+        85872043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_571Uc67cmB90skgire3YL4_33.756517_-84.384231@1303262604"
+    },
+    "wof:country":"US",
+    "wof:created":1461920300,
+    "wof:geomhash":"258efba64f3b8a8f6d91438cfda6db45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85819463,
+            "region_id":85688535,
+            "venue_id":739912483
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872043,
+            "region_id":85688535,
+            "venue_id":739912483
+        }
+    ],
+    "wof:id":739912483,
+    "wof:lastmodified":1461920300,
+    "wof:name":"Bracey Don H",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "teleconferencing"
+    ]
+},
+  "bbox": [
+    -84.384231,
+    33.756517,
+    -84.384231,
+    33.756517
+],
+  "geometry": {"coordinates":[-84.384231,33.756517],"type":"Point"}
+}

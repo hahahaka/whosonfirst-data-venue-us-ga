@@ -1,0 +1,85 @@
+{
+  "id": 739901165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.752617,33.402576,-84.752617,33.402576",
+    "geom:latitude":33.402576,
+    "geom:longitude":-84.752617,
+    "iso:country":"US",
+    "sg:address":"24 Herring Rd",
+    "sg:city":"Newnan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Train Station",
+            "subcategory":"Light Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 252 5525",
+    "sg:postcode":"30265",
+    "sg:province":"GA",
+    "sg:tags":[
+        "steel",
+        "wire",
+        "products-wholesale",
+        "processing",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.rettco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936351,
+        102084443,
+        85833133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49hxJn3mKXYqrE3cSQlPYX_33.402576_-84.752617@1303262601"
+    },
+    "wof:country":"US",
+    "wof:created":1461919870,
+    "wof:geomhash":"4dfe262e21ab7a5afb4bd93803c5c5d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084443,
+            "locality_id":85936351,
+            "neighbourhood_id":85833133,
+            "region_id":85688535,
+            "venue_id":739901165
+        }
+    ],
+    "wof:id":739901165,
+    "wof:lastmodified":1461919870,
+    "wof:name":"Rettco Steel",
+    "wof:parent_id":85833133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "wire",
+        "products-wholesale",
+        "processing",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -84.752617,
+    33.402576,
+    -84.752617,
+    33.402576
+],
+  "geometry": {"coordinates":[-84.752617,33.402576],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 739803165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.13939,34.206005,-84.13939,34.206005",
+    "geom:latitude":34.206005,
+    "geom:longitude":-84.13939,
+    "iso:country":"US",
+    "sg:address":"106 W Maple St",
+    "sg:city":"Cumming",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 781 6400",
+    "sg:postcode":"30040",
+    "sg:province":"GA",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"https://www.wachovia.com/?DCMP=KNL-CPS-DS-Directory-0703&HBX_PK=Banks&HBX_OU=71",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936811,
+        102082317,
+        85842073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OqwWtWHu0gwUT7VDzVNhs_34.206005_-84.139390@1303262576"
+    },
+    "wof:country":"US",
+    "wof:created":1461915925,
+    "wof:geomhash":"e81c452174c342ad4f28a0a42d918949",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082317,
+            "locality_id":85936811,
+            "neighbourhood_id":85842073,
+            "region_id":85688535,
+            "venue_id":739803165
+        }
+    ],
+    "wof:id":739803165,
+    "wof:lastmodified":1461915925,
+    "wof:name":"Wachovia Bank",
+    "wof:parent_id":85842073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -84.13939,
+    34.206005,
+    -84.13939,
+    34.206005
+],
+  "geometry": {"coordinates":[-84.13939000000001,34.206005],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 723273113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.951553,34.500136,-84.951553,34.500136",
+    "geom:latitude":34.500136,
+    "geom:longitude":-84.951553,
+    "iso:country":"US",
+    "sg:address":"311 S Wall St",
+    "sg:city":"Calhoun",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 625 1416",
+    "sg:postcode":"30701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936609,
+        102084679,
+        85817247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OzHRR3GJX2nusRpTciNys_34.500136_-84.951553@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461898559,
+    "wof:geomhash":"a271ce45bb0e250173b41af14ffb0ff1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084679,
+            "locality_id":85936609,
+            "neighbourhood_id":85817247,
+            "region_id":85688535,
+            "venue_id":723273113
+        }
+    ],
+    "wof:id":723273113,
+    "wof:lastmodified":1461898559,
+    "wof:name":"Dancers' Workshop",
+    "wof:parent_id":85817247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -84.951553,
+    34.500136,
+    -84.951553,
+    34.500136
+],
+  "geometry": {"coordinates":[-84.951553,34.500136],"type":"Point"}
+}

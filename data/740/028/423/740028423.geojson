@@ -1,0 +1,91 @@
+{
+  "id": 740028423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.399471,34.883202,-83.399471,34.883202",
+    "geom:latitude":34.883202,
+    "geom:longitude":-83.399471,
+    "iso:country":"US",
+    "sg:address":"323 N. Main St",
+    "sg:city":"Clayton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 782 3394",
+    "sg:postcode":"30525",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "automobile",
+        "truck",
+        "towing",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936141,
+        102081683,
+        85821415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1D7BH9eZZo6nG3nkl7rBiI_34.883202_-83.399471@1303262634"
+    },
+    "wof:country":"US",
+    "wof:created":1461925096,
+    "wof:geomhash":"e2b1ba26c714c95b76f022767fd501e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081683,
+            "locality_id":85936141,
+            "neighbourhood_id":85821415,
+            "region_id":85688535,
+            "venue_id":740028423
+        }
+    ],
+    "wof:id":740028423,
+    "wof:lastmodified":1461925096,
+    "wof:name":"James Paint & Body Shop Inc",
+    "wof:parent_id":85821415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "automobile",
+        "truck",
+        "towing",
+        "painting"
+    ]
+},
+  "bbox": [
+    -83.399471,
+    34.883202,
+    -83.399471,
+    34.883202
+],
+  "geometry": {"coordinates":[-83.39947100000001,34.883202],"type":"Point"}
+}

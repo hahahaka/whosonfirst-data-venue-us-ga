@@ -1,0 +1,76 @@
+{
+  "id": 739771001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.961929,34.789921,-84.961929,34.789921",
+    "geom:latitude":34.789921,
+    "geom:longitude":-84.961929,
+    "iso:country":"US",
+    "sg:address":"1140 N Glenwood Ave",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/dalton/180705-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 226 3215",
+    "sg:postcode":"30721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RYVq9FsdXtiWdaCfTTDRy_34.789921_-84.961929@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914584,
+    "wof:geomhash":"f613903b034c94d0bc2a9ad531c3af12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":739771001
+        }
+    ],
+    "wof:id":739771001,
+    "wof:lastmodified":1461914584,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -84.961929,
+    34.789921,
+    -84.961929,
+    34.789921
+],
+  "geometry": {"coordinates":[-84.961929,34.789921],"type":"Point"}
+}

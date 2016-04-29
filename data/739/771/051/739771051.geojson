@@ -1,0 +1,73 @@
+{
+  "id": 739771051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.962027,34.791009,-84.962027,34.791009",
+    "geom:latitude":34.791009,
+    "geom:longitude":-84.962027,
+    "iso:country":"US",
+    "sg:address":"1210 Cleveland Hwy",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/dalton/203257-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19bdj4kpG4Vcvne3odSz29_34.791009_-84.962027@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914586,
+    "wof:geomhash":"7c175783bfe408082e74fe30b867ffb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":739771051
+        }
+    ],
+    "wof:id":739771051,
+    "wof:lastmodified":1461914586,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.962027,
+    34.791009,
+    -84.962027,
+    34.791009
+],
+  "geometry": {"coordinates":[-84.96202700000001,34.791009],"type":"Point"}
+}

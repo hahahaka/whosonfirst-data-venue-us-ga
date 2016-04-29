@@ -1,0 +1,73 @@
+{
+  "id": 739622697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.980802,33.990849,-83.980802,33.990849",
+    "geom:latitude":33.990849,
+    "geom:longitude":-83.980802,
+    "iso:country":"US",
+    "sg:address":"950 Northside Dr NE",
+    "sg:city":"Cumming",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 455 7924",
+    "sg:postcode":"30043",
+    "sg:province":"GA",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936297,
+        102082967,
+        85853829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dDWBxFyOt2uzh3iBjuhMY_33.990849_-83.980802@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910891,
+    "wof:geomhash":"37db9b91be3fdcd875b6cbe3d9dc45b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936297,
+            "neighbourhood_id":85853829,
+            "region_id":85688535,
+            "venue_id":739622697
+        }
+    ],
+    "wof:id":739622697,
+    "wof:lastmodified":1461910891,
+    "wof:name":"Peachtree Residential Property",
+    "wof:parent_id":85853829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -83.980802,
+    33.990849,
+    -83.980802,
+    33.990849
+],
+  "geometry": {"coordinates":[-83.980802,33.990849],"type":"Point"}
+}

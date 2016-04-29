@@ -1,0 +1,100 @@
+{
+  "id": 740045255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.070462,33.515689,-82.070462,33.515689",
+    "geom:latitude":33.515689,
+    "geom:longitude":-82.070462,
+    "iso:country":"US",
+    "sg:address":"116 Pleasant Home Rd",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 868 9630",
+    "sg:postcode":"30907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "dentists-oral",
+        "physician",
+        "maxillofacial",
+        "surgeons",
+        "surgery",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936989,
+        102082951,
+        420518197,
+        85937177,
+        102082315,
+        420517711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63494afaRbvUFqJOQ14njf_33.515689_-82.070462@1303262638"
+    },
+    "wof:country":"US",
+    "wof:created":1461925849,
+    "wof:geomhash":"27e6260cbbd5820d75ffb00ecbf067f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082951,
+            "locality_id":85936989,
+            "neighbourhood_id":420518197,
+            "region_id":85688535,
+            "venue_id":740045255
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":420517711,
+            "region_id":85688535,
+            "venue_id":740045255
+        }
+    ],
+    "wof:id":740045255,
+    "wof:lastmodified":1461925849,
+    "wof:name":"Darryl R Tom Dds",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentists-oral",
+        "physician",
+        "maxillofacial",
+        "surgeons",
+        "surgery",
+        "oral"
+    ]
+},
+  "bbox": [
+    -82.070462,
+    33.515689,
+    -82.070462,
+    33.515689
+],
+  "geometry": {"coordinates":[-82.07046200000001,33.515689],"type":"Point"}
+}

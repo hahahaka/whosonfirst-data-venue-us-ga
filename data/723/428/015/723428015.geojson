@@ -1,0 +1,71 @@
+{
+  "id": 723428015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.973108,34.735507,-84.973108,34.735507",
+    "geom:latitude":34.735507,
+    "geom:longitude":-84.973108,
+    "iso:country":"US",
+    "sg:address":"290 Industrial Blvd",
+    "sg:city":"Trenton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 657 2355",
+    "sg:postcode":"30720",
+    "sg:province":"GA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3p1raTfp5QvKATyjank3Ju_34.735507_-84.973108@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901535,
+    "wof:geomhash":"8b756d9ef83073d57824e6574bcb870e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":723428015
+        }
+    ],
+    "wof:id":723428015,
+    "wof:lastmodified":1461901535,
+    "wof:name":"Bryson's Towing & Recovery",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -84.973108,
+    34.735507,
+    -84.973108,
+    34.735507
+],
+  "geometry": {"coordinates":[-84.973108,34.735507],"type":"Point"}
+}

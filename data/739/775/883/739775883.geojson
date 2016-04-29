@@ -1,0 +1,85 @@
+{
+  "id": 739775883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.783696,32.446177,-81.783696,32.446177",
+    "geom:latitude":32.446177,
+    "geom:longitude":-81.783696,
+    "iso:country":"US",
+    "sg:address":"129 S Main St",
+    "sg:city":"Statesboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/statesboro/70790-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 764 5489",
+    "sg:postcode":"30458",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935999,
+        102084405,
+        85823149,
+        102191575,
+        85828471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hQuXduZOlpjuScQUp1sja_32.446063_-81.783780@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461914777,
+    "wof:geomhash":"d2ddc89832e1b0d3d7b2e7f3296c45c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85823149,
+            "region_id":85688535,
+            "venue_id":739775883
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85828471,
+            "region_id":85688535,
+            "venue_id":739775883
+        }
+    ],
+    "wof:id":739775883,
+    "wof:lastmodified":1461914777,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.783696,
+    32.446177,
+    -81.783696,
+    32.446177
+],
+  "geometry": {"coordinates":[-81.78369600000001,32.446177],"type":"Point"}
+}

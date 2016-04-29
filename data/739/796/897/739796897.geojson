@@ -1,0 +1,89 @@
+{
+  "id": 739796897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.305393,33.790219,-84.305393,33.790219",
+    "geom:latitude":33.790219,
+    "geom:longitude":-84.305393,
+    "iso:country":"US",
+    "sg:address":"2122 N Decatur Rd",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 634 9500",
+    "sg:postcode":"30033",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shoes-wholesale",
+        "shoes-orthopedic",
+        "store",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936441,
+        102084539,
+        85890029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nnBHRsGcODLjqgJqi1uBV_33.790219_-84.305393@1303262574"
+    },
+    "wof:country":"US",
+    "wof:created":1461915645,
+    "wof:geomhash":"1f419354bd73c38a75cda80184e77a84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936441,
+            "neighbourhood_id":85890029,
+            "region_id":85688535,
+            "venue_id":739796897
+        }
+    ],
+    "wof:id":739796897,
+    "wof:lastmodified":1461915645,
+    "wof:name":"McMahan Shoes",
+    "wof:parent_id":85890029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shoes-wholesale",
+        "shoes-orthopedic",
+        "store",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -84.305393,
+    33.790219,
+    -84.305393,
+    33.790219
+],
+  "geometry": {"coordinates":[-84.305393,33.790219],"type":"Point"}
+}

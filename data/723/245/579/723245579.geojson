@@ -1,0 +1,71 @@
+{
+  "id": 723245579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.978935,30.838421,-83.978935,30.838421",
+    "geom:latitude":30.838421,
+    "geom:longitude":-83.978935,
+    "iso:country":"US",
+    "sg:address":"100 S Crawford St",
+    "sg:city":"Thomasville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 227 7015",
+    "sg:postcode":"31792",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85833309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gTHdyekDGFJhQ80bWNUE2_30.838421_-83.978935@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461898036,
+    "wof:geomhash":"75aecd05d36a0e7217b7461aecc3e2c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85833309,
+            "region_id":85688535,
+            "venue_id":723245579
+        }
+    ],
+    "wof:id":723245579,
+    "wof:lastmodified":1461898036,
+    "wof:name":"Thomasville Fire Dept",
+    "wof:parent_id":85833309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -83.978935,
+    30.838421,
+    -83.978935,
+    30.838421
+],
+  "geometry": {"coordinates":[-83.97893500000001,30.838421],"type":"Point"}
+}

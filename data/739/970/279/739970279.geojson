@@ -1,0 +1,85 @@
+{
+  "id": 739970279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.363951,33.849126,-84.363951,33.849126",
+    "geom:latitude":33.849126,
+    "geom:longitude":-84.363951,
+    "iso:country":"US",
+    "sg:address":"3399 Peachtree Road NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 842 0067",
+    "sg:postcode":"30326",
+    "sg:province":"GA",
+    "sg:tags":[
+        "espresso",
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OsPBfnj0RIJhiU3MgA1b1_33.849126_-84.363951@1303262619"
+    },
+    "wof:country":"US",
+    "wof:created":1461922763,
+    "wof:geomhash":"bb08d3644b2b3850033e11ad07bdfb4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872063,
+            "region_id":85688535,
+            "venue_id":739970279
+        }
+    ],
+    "wof:id":739970279,
+    "wof:lastmodified":1461922763,
+    "wof:name":"The Lenox Cafe",
+    "wof:parent_id":85872063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "espresso",
+        "caterer"
+    ]
+},
+  "bbox": [
+    -84.363951,
+    33.849126,
+    -84.363951,
+    33.849126
+],
+  "geometry": {"coordinates":[-84.363951,33.849126],"type":"Point"}
+}

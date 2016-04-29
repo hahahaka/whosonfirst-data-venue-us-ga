@@ -1,0 +1,73 @@
+{
+  "id": 739771855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.76023,31.961468,-83.76023,31.961468",
+    "geom:latitude":31.961468,
+    "geom:longitude":-83.76023,
+    "iso:country":"US",
+    "sg:address":"1416 E 16th Ave",
+    "sg:city":"Cordele",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/cordele/195991-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"31015",
+    "sg:province":"GA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936593,
+        102083615,
+        85868549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T1hn3Fs5KZhmtUMz4Wq34_31.961468_-83.760230@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914613,
+    "wof:geomhash":"063b89c1d67f1ccd5c7ed2de325655a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083615,
+            "locality_id":85936593,
+            "neighbourhood_id":85868549,
+            "region_id":85688535,
+            "venue_id":739771855
+        }
+    ],
+    "wof:id":739771855,
+    "wof:lastmodified":1461914613,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85868549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -83.76023,
+    31.961468,
+    -83.76023,
+    31.961468
+],
+  "geometry": {"coordinates":[-83.76023000000001,31.961468],"type":"Point"}
+}

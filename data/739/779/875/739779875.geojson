@@ -1,0 +1,88 @@
+{
+  "id": 739779875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.622205,33.864447,-84.622205,33.864447",
+    "geom:latitude":33.864447,
+    "geom:longitude":-84.622205,
+    "iso:country":"US",
+    "sg:address":"2285 Asquith Ave SW",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 433 0333",
+    "sg:postcode":"30008",
+    "sg:province":"GA",
+    "sg:tags":[
+        "buyer",
+        "consultant",
+        "management",
+        "relocation",
+        "broker"
+    ],
+    "sg:website":"http://www.remax.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kTkY8U6R9oAMv7IEyo0UD_33.864447_-84.622205@1303262570"
+    },
+    "wof:country":"US",
+    "wof:created":1461914942,
+    "wof:geomhash":"9355bfdb9e4e272a39405c25ac5f6910",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739779875
+        }
+    ],
+    "wof:id":739779875,
+    "wof:lastmodified":1461914942,
+    "wof:name":"Re/Max",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "consultant",
+        "management",
+        "relocation",
+        "broker"
+    ]
+},
+  "bbox": [
+    -84.622205,
+    33.864447,
+    -84.622205,
+    33.864447
+],
+  "geometry": {"coordinates":[-84.62220499999999,33.864447],"type":"Point"}
+}

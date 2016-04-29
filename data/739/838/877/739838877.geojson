@@ -1,0 +1,67 @@
+{
+  "id": 739838877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.000995,33.85606,-84.000995,33.85606",
+    "geom:latitude":33.85606,
+    "geom:longitude":-84.000995,
+    "iso:country":"US",
+    "sg:address":"2125 Main St E",
+    "sg:city":"Snellville",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 972 4072",
+    "sg:postcode":"30078",
+    "sg:province":"GA",
+    "sg:website":"http://www.regmovies.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936303,
+        102082967,
+        85890049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lvgrVND8ZHnYyUt6DE5Kk_33.856060_-84.000995@1303262585"
+    },
+    "wof:country":"US",
+    "wof:created":1461917443,
+    "wof:geomhash":"7bde7fb01e489def883c523009a1830d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936303,
+            "neighbourhood_id":85890049,
+            "region_id":85688535,
+            "venue_id":739838877
+        }
+    ],
+    "wof:id":739838877,
+    "wof:lastmodified":1461917443,
+    "wof:name":"Regal Cinema",
+    "wof:parent_id":85890049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.000995,
+    33.85606,
+    -84.000995,
+    33.85606
+],
+  "geometry": {"coordinates":[-84.000995,33.85606],"type":"Point"}
+}

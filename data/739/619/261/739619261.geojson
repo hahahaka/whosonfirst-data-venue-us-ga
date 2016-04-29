@@ -1,0 +1,85 @@
+{
+  "id": 739619261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.326909,33.947585,-84.326909,33.947585",
+    "geom:latitude":33.947585,
+    "geom:longitude":-84.326909,
+    "iso:country":"US",
+    "sg:address":"1779 Mount Vernon Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 396 1198",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85815577,
+        420560157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77MRpzDdNdxyXw2F8KGjQg_33.947585_-84.326909@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910816,
+    "wof:geomhash":"228d03eee1fae8979d0426c95d0f2aff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85815577,
+            "region_id":85688535,
+            "venue_id":739619261
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":420560157,
+            "region_id":85688535,
+            "venue_id":739619261
+        }
+    ],
+    "wof:id":739619261,
+    "wof:lastmodified":1461910816,
+    "wof:name":"Wang Music Studio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -84.326909,
+    33.947585,
+    -84.326909,
+    33.947585
+],
+  "geometry": {"coordinates":[-84.326909,33.947585],"type":"Point"}
+}

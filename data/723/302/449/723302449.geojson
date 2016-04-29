@@ -1,0 +1,82 @@
+{
+  "id": 723302449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.275627,34.734054,-85.275627,34.734054",
+    "geom:latitude":34.734054,
+    "geom:longitude":-85.275627,
+    "iso:country":"US",
+    "sg:address":"1716 N Main St",
+    "sg:city":"La Fayette",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 638 3000",
+    "sg:postcode":"30728",
+    "sg:province":"GA",
+    "sg:tags":[
+        "recycling",
+        "center",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936063,
+        102082321,
+        85830807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FhZpx1NRftDGsQvbJOBRr_34.734054_-85.275627@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899104,
+    "wof:geomhash":"9ff89468df2f2d5944823b38a001f06c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082321,
+            "locality_id":85936063,
+            "neighbourhood_id":85830807,
+            "region_id":85688535,
+            "venue_id":723302449
+        }
+    ],
+    "wof:id":723302449,
+    "wof:lastmodified":1461899104,
+    "wof:name":"Joe's Recycling",
+    "wof:parent_id":85830807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center",
+        "system"
+    ]
+},
+  "bbox": [
+    -85.275627,
+    34.734054,
+    -85.275627,
+    34.734054
+],
+  "geometry": {"coordinates":[-85.275627,34.734054],"type":"Point"}
+}

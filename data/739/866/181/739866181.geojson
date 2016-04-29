@@ -1,0 +1,72 @@
+{
+  "id": 739866181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.460669,34.238018,-84.460669,34.238018",
+    "geom:latitude":34.238018,
+    "geom:longitude":-84.460669,
+    "iso:country":"US",
+    "sg:address":"1810 Cumming Highway",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 704 7400",
+    "sg:postcode":"30114",
+    "sg:province":"GA",
+    "sg:tags":[
+        "store"
+    ],
+    "sg:website":"www.petsmart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936719,
+        102084635,
+        85896239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wFg8x8sp1zZntFOy7effQ_34.238018_-84.460669@1303262592"
+    },
+    "wof:country":"US",
+    "wof:created":1461918536,
+    "wof:geomhash":"f87d722983ee38281a56293ba60b0ba8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084635,
+            "locality_id":85936719,
+            "neighbourhood_id":85896239,
+            "region_id":85688535,
+            "venue_id":739866181
+        }
+    ],
+    "wof:id":739866181,
+    "wof:lastmodified":1461918536,
+    "wof:name":"PetSmart",
+    "wof:parent_id":85896239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -84.460669,
+    34.238018,
+    -84.460669,
+    34.238018
+],
+  "geometry": {"coordinates":[-84.460669,34.238018],"type":"Point"}
+}

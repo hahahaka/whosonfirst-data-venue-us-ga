@@ -1,0 +1,71 @@
+{
+  "id": 722704565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.574141,32.85271,-83.574141,32.85271",
+    "geom:latitude":32.85271,
+    "geom:longitude":-83.574141,
+    "iso:country":"US",
+    "sg:address":"1089 McCall Cir",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 743 9644",
+    "sg:postcode":"31217",
+    "sg:province":"GA",
+    "sg:tags":[
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85813015,
+        102084373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4C4vd3ibgz9LhcGzv7gdOH_32.852710_-83.574141@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461887054,
+    "wof:geomhash":"1a525047884327804af5e8c74a0bdf39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084373,
+            "neighbourhood_id":85813015,
+            "region_id":85688535,
+            "venue_id":722704565
+        }
+    ],
+    "wof:id":722704565,
+    "wof:lastmodified":1461887054,
+    "wof:name":"Mountain Maintenance Svc",
+    "wof:parent_id":85813015,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.574141,
+    32.85271,
+    -83.574141,
+    32.85271
+],
+  "geometry": {"coordinates":[-83.574141,32.85271],"type":"Point"}
+}

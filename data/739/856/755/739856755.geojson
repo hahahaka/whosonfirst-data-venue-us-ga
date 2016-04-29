@@ -1,0 +1,90 @@
+{
+  "id": 739856755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.136521,33.965528,-84.136521,33.965528",
+    "geom:latitude":33.965528,
+    "geom:longitude":-84.136521,
+    "iso:country":"US",
+    "sg:address":"3527 Old Norcross Rd",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 623 2955",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "tire",
+        "automobile",
+        "diagnostic",
+        "part",
+        "accessory",
+        "inspection"
+    ],
+    "sg:website":"http://www.pepboys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tlBwbjQAuIR0Yb7iw3ST4_33.965528_-84.136521@1303262590"
+    },
+    "wof:country":"US",
+    "wof:created":1461918167,
+    "wof:geomhash":"e1b59ac15d49194cf86b4f6842962358",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":739856755
+        }
+    ],
+    "wof:id":739856755,
+    "wof:lastmodified":1461918167,
+    "wof:name":"Pep Boys",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire",
+        "automobile",
+        "diagnostic",
+        "part",
+        "accessory",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -84.136521,
+    33.965528,
+    -84.136521,
+    33.965528
+],
+  "geometry": {"coordinates":[-84.136521,33.965528],"type":"Point"}
+}

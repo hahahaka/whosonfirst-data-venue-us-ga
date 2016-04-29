@@ -1,0 +1,71 @@
+{
+  "id": 739447513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.743328,32.889335,-83.743328,32.889335",
+    "geom:latitude":32.889335,
+    "geom:longitude":-83.743328,
+    "iso:country":"US",
+    "sg:address":"107 N Wellington",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 743 4545",
+    "sg:postcode":"31210",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85848313,
+        102084373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GIKOtEFAliyo2eLybKDWR_32.889335_-83.743328@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907496,
+    "wof:geomhash":"2b326b9becf3c4541e7b0b77cceec54b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084373,
+            "neighbourhood_id":85848313,
+            "region_id":85688535,
+            "venue_id":739447513
+        }
+    ],
+    "wof:id":739447513,
+    "wof:lastmodified":1461907496,
+    "wof:name":"Fleet Lube Inc",
+    "wof:parent_id":85848313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.743328,
+    32.889335,
+    -83.743328,
+    32.889335
+],
+  "geometry": {"coordinates":[-83.74332800000001,32.889335],"type":"Point"}
+}

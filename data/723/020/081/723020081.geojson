@@ -1,0 +1,73 @@
+{
+  "id": 723020081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.493958,31.14365,-81.493958,31.14365",
+    "geom:latitude":31.14365,
+    "geom:longitude":-81.493958,
+    "iso:country":"US",
+    "sg:address":"1307 Grant St",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 264 6611",
+    "sg:postcode":"31520",
+    "sg:province":"GA",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85822091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23hjFuP1zjJWOXVO8Gz2Ai_31.143650_-81.493958@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461893378,
+    "wof:geomhash":"3fd4d4611a2177ecf7057952071b9402",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85822091,
+            "region_id":85688535,
+            "venue_id":723020081
+        }
+    ],
+    "wof:id":723020081,
+    "wof:lastmodified":1461893378,
+    "wof:name":"Studio South",
+    "wof:parent_id":85822091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -81.493958,
+    31.14365,
+    -81.493958,
+    31.14365
+],
+  "geometry": {"coordinates":[-81.49395800000001,31.14365],"type":"Point"}
+}

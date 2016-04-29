@@ -1,0 +1,71 @@
+{
+  "id": 739775399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.134452,33.957967,-84.134452,33.957967",
+    "geom:latitude":33.957967,
+    "geom:longitude":-84.134452,
+    "iso:country":"US",
+    "sg:address":"2121 Pleasant Hill Rd",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/suwanee-duluth/196005-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rLJwGt4ftrLdrQuLunxfz_33.958257_-84.134247@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461914761,
+    "wof:geomhash":"dc7d498a0a80b51a8b3eafab1da168a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":739775399
+        }
+    ],
+    "wof:id":739775399,
+    "wof:lastmodified":1461914761,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -84.134452,
+    33.957967,
+    -84.134452,
+    33.957967
+],
+  "geometry": {"coordinates":[-84.134452,33.957967],"type":"Point"}
+}

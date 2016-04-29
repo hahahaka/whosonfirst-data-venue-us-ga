@@ -1,0 +1,73 @@
+{
+  "id": 723232501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.184561,34.240256,-84.184561,34.240256",
+    "geom:latitude":34.240256,
+    "geom:longitude":-84.184561,
+    "iso:country":"US",
+    "sg:address":"1980 Canton Hwy",
+    "sg:city":"Cumming",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 887 3267",
+    "sg:postcode":"30040",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936811,
+        102082317,
+        85842073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZBvkKDfGUzAgGyEydz9gE_34.240256_-84.184561@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897757,
+    "wof:geomhash":"fc228e8da8cb32f8583b0dfbceeb70fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082317,
+            "locality_id":85936811,
+            "neighbourhood_id":85842073,
+            "region_id":85688535,
+            "venue_id":723232501
+        }
+    ],
+    "wof:id":723232501,
+    "wof:lastmodified":1461897757,
+    "wof:name":"Harold Evans Garage & Wrecker",
+    "wof:parent_id":85842073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.184561,
+    34.240256,
+    -84.184561,
+    34.240256
+],
+  "geometry": {"coordinates":[-84.184561,34.240256],"type":"Point"}
+}

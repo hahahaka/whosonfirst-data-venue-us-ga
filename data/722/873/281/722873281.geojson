@@ -1,0 +1,71 @@
+{
+  "id": 722873281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.79102,33.381183,-84.79102,33.381183",
+    "geom:latitude":33.381183,
+    "geom:longitude":-84.79102,
+    "iso:country":"US",
+    "sg:address":"49 Farmer St",
+    "sg:city":"Newnan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 254 0161",
+    "sg:postcode":"30263",
+    "sg:province":"GA",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936351,
+        102084443,
+        85833133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5b1Y37FcBWOHf11aofDgop_33.381183_-84.791020@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461890261,
+    "wof:geomhash":"e45506470b8394290c9aa69c8468e793",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084443,
+            "locality_id":85936351,
+            "neighbourhood_id":85833133,
+            "region_id":85688535,
+            "venue_id":722873281
+        }
+    ],
+    "wof:id":722873281,
+    "wof:lastmodified":1461890261,
+    "wof:name":"Three Dollar Truck Rentals",
+    "wof:parent_id":85833133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -84.79102,
+    33.381183,
+    -84.79102,
+    33.381183
+],
+  "geometry": {"coordinates":[-84.79102,33.381183],"type":"Point"}
+}

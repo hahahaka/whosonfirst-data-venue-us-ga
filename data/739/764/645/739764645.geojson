@@ -1,0 +1,84 @@
+{
+  "id": 739764645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.47378,33.889215,-84.47378,33.889215",
+    "geom:latitude":33.889215,
+    "geom:longitude":-84.47378,
+    "iso:country":"US",
+    "sg:address":"2637 Cobb Pkwy SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/northeast-cobb/189983-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 850 0940",
+    "sg:postcode":"30080",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818985,
+        102082313,
+        102191575,
+        85936139,
+        85813197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JyMjJTNu94kIRndKxwr0Z_33.889215_-84.473780@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914326,
+    "wof:geomhash":"f0d8cab03f2d2d459f7a5c80eead29aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85818985,
+            "region_id":85688535,
+            "venue_id":739764645
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85813197,
+            "region_id":85688535,
+            "venue_id":739764645
+        }
+    ],
+    "wof:id":739764645,
+    "wof:lastmodified":1461914326,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -84.47378,
+    33.889215,
+    -84.47378,
+    33.889215
+],
+  "geometry": {"coordinates":[-84.47378,33.889215],"type":"Point"}
+}

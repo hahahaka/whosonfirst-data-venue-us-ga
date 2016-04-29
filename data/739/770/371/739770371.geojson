@@ -1,0 +1,82 @@
+{
+  "id": 739770371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.3873,33.937811,-83.3873,33.937811",
+    "geom:latitude":33.937811,
+    "geom:longitude":-83.3873,
+    "iso:country":"US",
+    "sg:address":"1661 S Lumpkin St",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/athens/65065-mellow-mushroom/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 613 0555",
+    "sg:postcode":"30606",
+    "sg:province":"GA",
+    "sg:tags":[
+        "calzones",
+        "american",
+        "hoagy",
+        "salad",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936177,
+        102081713,
+        85845017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eyrq34ELPCTuop52yQbkL_33.937811_-83.387300@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914558,
+    "wof:geomhash":"08b66e7a651f26a846cff645b764aec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081713,
+            "locality_id":85936177,
+            "neighbourhood_id":85845017,
+            "region_id":85688535,
+            "venue_id":739770371
+        }
+    ],
+    "wof:id":739770371,
+    "wof:lastmodified":1461914558,
+    "wof:name":"Mellow Mushroom",
+    "wof:parent_id":85845017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "calzones",
+        "american",
+        "hoagy",
+        "salad",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.3873,
+    33.937811,
+    -83.3873,
+    33.937811
+],
+  "geometry": {"coordinates":[-83.3873,33.937811],"type":"Point"}
+}

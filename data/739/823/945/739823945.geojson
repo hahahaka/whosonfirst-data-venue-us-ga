@@ -1,0 +1,75 @@
+{
+  "id": 739823945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.556274,34.020724,-84.556274,34.020724",
+    "geom:latitude":34.020724,
+    "geom:longitude":-84.556274,
+    "iso:country":"US",
+    "sg:address":"2795 Chastain Meadows Parkway NW",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Mobile Phones",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 427 4933",
+    "sg:postcode":"30066",
+    "sg:province":"GA",
+    "sg:website":"www.walmart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KrOSeJAEph8T3fDnEOHlt_34.020724_-84.556274@1303262581"
+    },
+    "wof:country":"US",
+    "wof:created":1461916854,
+    "wof:geomhash":"edcd58fd325f6ce63941ac02cfc39401",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739823945
+        }
+    ],
+    "wof:id":739823945,
+    "wof:lastmodified":1461916854,
+    "wof:name":"Walmart",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.556274,
+    34.020724,
+    -84.556274,
+    34.020724
+],
+  "geometry": {"coordinates":[-84.556274,34.020724],"type":"Point"}
+}

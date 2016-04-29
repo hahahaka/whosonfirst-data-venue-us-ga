@@ -1,0 +1,73 @@
+{
+  "id": 739268925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.137035,33.581634,-82.137035,33.581634",
+    "geom:latitude":33.581634,
+    "geom:longitude":-82.137035,
+    "iso:country":"US",
+    "sg:address":"1159 Oakton Trl",
+    "sg:city":"Evans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 854 9997",
+    "sg:postcode":"30809",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IvAJiSXPeNCq4BiGtnJXY_33.581634_-82.137035@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461903888,
+    "wof:geomhash":"0c7ec4f9100a517a7c6e967e24b416ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":739268925
+        }
+    ],
+    "wof:id":739268925,
+    "wof:lastmodified":1461903888,
+    "wof:name":"Southern Anesthesia Svc",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.137035,
+    33.581634,
+    -82.137035,
+    33.581634
+],
+  "geometry": {"coordinates":[-82.137035,33.581634],"type":"Point"}
+}

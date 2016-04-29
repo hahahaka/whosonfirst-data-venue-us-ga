@@ -1,0 +1,71 @@
+{
+  "id": 722819849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.556497,30.732118,-81.556497,30.732118",
+    "geom:latitude":30.732118,
+    "geom:longitude":-81.556497,
+    "iso:country":"US",
+    "sg:address":"705 Anne St",
+    "sg:city":"St Marys",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 729 8912",
+    "sg:postcode":"31558",
+    "sg:province":"GA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937043,
+        102081693,
+        85852055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47E2E65cHFCOkOAfOSyep1_30.732118_-81.556497@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461889255,
+    "wof:geomhash":"43021aeabc288341e195c3ff09bd0600",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081693,
+            "locality_id":85937043,
+            "neighbourhood_id":85852055,
+            "region_id":85688535,
+            "venue_id":722819849
+        }
+    ],
+    "wof:id":722819849,
+    "wof:lastmodified":1461889255,
+    "wof:name":"Mesa Commercial Cleaning Svc",
+    "wof:parent_id":85852055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -81.556497,
+    30.732118,
+    -81.556497,
+    30.732118
+],
+  "geometry": {"coordinates":[-81.55649699999999,30.732118],"type":"Point"}
+}

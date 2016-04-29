@@ -1,0 +1,83 @@
+{
+  "id": 723329249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.94329,32.446532,-84.94329,32.446532",
+    "geom:latitude":32.446532,
+    "geom:longitude":-84.94329,
+    "iso:country":"US",
+    "sg:address":"401 Brennan Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 687 8884",
+    "sg:postcode":"31903",
+    "sg:province":"GA",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        420560121,
+        85803141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jPsJ9FPhS0aROd0BXz6B8_32.446532_-84.943290@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899612,
+    "wof:geomhash":"925c4d6db3280e9536e8a0b529574662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":420560121,
+            "region_id":85688535,
+            "venue_id":723329249
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85803141,
+            "region_id":85688535,
+            "venue_id":723329249
+        }
+    ],
+    "wof:id":723329249,
+    "wof:lastmodified":1461899612,
+    "wof:name":"Columbus Tree Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -84.94329,
+    32.446532,
+    -84.94329,
+    32.446532
+],
+  "geometry": {"coordinates":[-84.94329,32.446532],"type":"Point"}
+}

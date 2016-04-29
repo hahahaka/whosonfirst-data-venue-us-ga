@@ -1,0 +1,85 @@
+{
+  "id": 739908667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.544098,33.570099,-84.544098,33.570099",
+    "geom:latitude":33.570099,
+    "geom:longitude":-84.544098,
+    "iso:country":"US",
+    "sg:address":"4753 Jonesboro Rd",
+    "sg:city":"Union City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 969 6311",
+    "sg:postcode":"30291",
+    "sg:province":"GA",
+    "sg:tags":[
+        "tire"
+    ],
+    "sg:website":"www.ntb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85848007,
+        102083603,
+        85937159,
+        85848001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IzdSMZNqvSCY9oce6Ffbl_33.570099_-84.544098@1303262603"
+    },
+    "wof:country":"US",
+    "wof:created":1461920143,
+    "wof:geomhash":"68150e9959fcffbeaf006ad5fc98699f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85848007,
+            "region_id":85688535,
+            "venue_id":739908667
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937159,
+            "neighbourhood_id":85848001,
+            "region_id":85688535,
+            "venue_id":739908667
+        }
+    ],
+    "wof:id":739908667,
+    "wof:lastmodified":1461920143,
+    "wof:name":"Ntb-National Tire & Battery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -84.544098,
+    33.570099,
+    -84.544098,
+    33.570099
+],
+  "geometry": {"coordinates":[-84.54409800000001,33.570099],"type":"Point"}
+}

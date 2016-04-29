@@ -1,0 +1,85 @@
+{
+  "id": 739889867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.449858,33.446899,-84.449858,33.446899",
+    "geom:latitude":33.446899,
+    "geom:longitude":-84.449858,
+    "iso:country":"US",
+    "sg:address":"105 S Jeff Davis Dr",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 461 6479",
+    "sg:postcode":"30214",
+    "sg:province":"GA",
+    "sg:tags":[
+        "wheel",
+        "servicing-automotive",
+        "balancing",
+        "axle",
+        "wheels-aligning",
+        "alignment-frame",
+        "brake"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936019,
+        102081687,
+        85819123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BAZXStFnlEStynIK1VfRL_33.446899_-84.449858@1303262598"
+    },
+    "wof:country":"US",
+    "wof:created":1461919426,
+    "wof:geomhash":"7767cc0be57eee1f16ef93f199535181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081687,
+            "locality_id":85936019,
+            "neighbourhood_id":85819123,
+            "region_id":85688535,
+            "venue_id":739889867
+        }
+    ],
+    "wof:id":739889867,
+    "wof:lastmodified":1461919426,
+    "wof:name":"Holt Alignment",
+    "wof:parent_id":85819123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "servicing-automotive",
+        "balancing",
+        "axle",
+        "wheels-aligning",
+        "alignment-frame",
+        "brake"
+    ]
+},
+  "bbox": [
+    -84.449858,
+    33.446899,
+    -84.449858,
+    33.446899
+],
+  "geometry": {"coordinates":[-84.44985800000001,33.446899],"type":"Point"}
+}

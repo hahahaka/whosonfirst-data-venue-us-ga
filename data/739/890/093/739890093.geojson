@@ -1,0 +1,69 @@
+{
+  "id": 739890093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.427299,33.453602,-84.427299,33.453602",
+    "geom:latitude":33.453602,
+    "geom:longitude":-84.427299,
+    "iso:country":"US",
+    "sg:address":"1145 Highway 54 E",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 461 4211",
+    "sg:postcode":"30214",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85823041,
+        102081687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ELxr0F6OXJqSji5NSeDdD_33.453602_-84.427299@1303262599"
+    },
+    "wof:country":"US",
+    "wof:created":1461919434,
+    "wof:geomhash":"bb7f05ec26b613b6fb4e3999e7d13b09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081687,
+            "neighbourhood_id":85823041,
+            "region_id":85688535,
+            "venue_id":739890093
+        }
+    ],
+    "wof:id":739890093,
+    "wof:lastmodified":1461919434,
+    "wof:name":"Fayetteville Animal Hospital",
+    "wof:parent_id":85823041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.427299,
+    33.453602,
+    -84.427299,
+    33.453602
+],
+  "geometry": {"coordinates":[-84.427299,33.453602],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 722790179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.309775,33.711603,-84.309775,33.711603",
+    "geom:latitude":33.711603,
+    "geom:longitude":-84.309775,
+    "iso:country":"US",
+    "sg:address":"2578 Gresham Rd SE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 241 2336",
+    "sg:postcode":"30316",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical",
+        "specialty",
+        "outpatient"
+    ],
+    "sg:website":"www.southsidemedical.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937253,
+        102084539,
+        85866911,
+        85816491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gY4MXZVnmTpLvQs3qvJQ6_33.711603_-84.309775@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888695,
+    "wof:geomhash":"56904b9317d7daa09d9262fe71a79c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937253,
+            "neighbourhood_id":85866911,
+            "region_id":85688535,
+            "venue_id":722790179
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":722790179
+        }
+    ],
+    "wof:id":722790179,
+    "wof:lastmodified":1461888695,
+    "wof:name":"Southside Health",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -84.309775,
+    33.711603,
+    -84.309775,
+    33.711603
+],
+  "geometry": {"coordinates":[-84.309775,33.711603],"type":"Point"}
+}

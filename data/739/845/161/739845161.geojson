@@ -1,0 +1,74 @@
+{
+  "id": 739845161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.196404,33.787021,-84.196404,33.787021",
+    "geom:latitude":33.787021,
+    "geom:longitude":-84.196404,
+    "iso:country":"US",
+    "sg:address":"4821 Rockbridge Rd Suite #1",
+    "sg:city":"Stone Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 299 5551",
+    "sg:postcode":"30083",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.atlantapetcare.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937263,
+        102084539,
+        85890037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29wgeVMRQ3AN11o55KeAj0_33.787021_-84.196404@1303262587"
+    },
+    "wof:country":"US",
+    "wof:created":1461917705,
+    "wof:geomhash":"edaa8bf85a9fc11573fff69fbc685105",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937263,
+            "neighbourhood_id":85890037,
+            "region_id":85688535,
+            "venue_id":739845161
+        }
+    ],
+    "wof:id":739845161,
+    "wof:lastmodified":1461917705,
+    "wof:name":"Atlanta Pet Care Center",
+    "wof:parent_id":85890037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.196404,
+    33.787021,
+    -84.196404,
+    33.787021
+],
+  "geometry": {"coordinates":[-84.196404,33.787021],"type":"Point"}
+}

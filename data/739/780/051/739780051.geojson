@@ -1,0 +1,81 @@
+{
+  "id": 739780051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.553652,33.925315,-84.553652,33.925315",
+    "geom:latitude":33.925315,
+    "geom:longitude":-84.553652,
+    "iso:country":"US",
+    "sg:address":"30 Booth Rd SW",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 608 8727",
+    "sg:postcode":"30008",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shuttle",
+        "airport"
+    ],
+    "sg:website":"www.legendstaxicab.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937191,
+        102082313,
+        85857593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BvhYrPtkQBphdzU2PIT3K_33.925315_-84.553652@1303262570"
+    },
+    "wof:country":"US",
+    "wof:created":1461914948,
+    "wof:geomhash":"5e81526bb22066962fb1161ef5593826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85937191,
+            "neighbourhood_id":85857593,
+            "region_id":85688535,
+            "venue_id":739780051
+        }
+    ],
+    "wof:id":739780051,
+    "wof:lastmodified":1461914948,
+    "wof:name":"Legends Taxi Cab Co",
+    "wof:parent_id":85857593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "airport"
+    ]
+},
+  "bbox": [
+    -84.553652,
+    33.925315,
+    -84.553652,
+    33.925315
+],
+  "geometry": {"coordinates":[-84.553652,33.925315],"type":"Point"}
+}

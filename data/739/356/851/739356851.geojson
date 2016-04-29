@@ -1,0 +1,73 @@
+{
+  "id": 739356851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.031181,33.039365,-85.031181,33.039365",
+    "geom:latitude":33.039365,
+    "geom:longitude":-85.031181,
+    "iso:country":"US",
+    "sg:address":"117 Main St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 883 3000",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "county",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GA4KVUxM4Hgqx4NuxBqIH_33.039365_-85.031181@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461905754,
+    "wof:geomhash":"073c09ed1462405bd038370242f43941",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739356851
+        }
+    ],
+    "wof:id":739356851,
+    "wof:lastmodified":1461905754,
+    "wof:name":"Troup County Public Defender",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "counsel"
+    ]
+},
+  "bbox": [
+    -85.031181,
+    33.039365,
+    -85.031181,
+    33.039365
+],
+  "geometry": {"coordinates":[-85.031181,33.039365],"type":"Point"}
+}

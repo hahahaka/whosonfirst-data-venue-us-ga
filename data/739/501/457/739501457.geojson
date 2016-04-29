@@ -1,0 +1,80 @@
+{
+  "id": 739501457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.676366,33.960346,-84.676366,33.960346",
+    "geom:latitude":33.960346,
+    "geom:longitude":-84.676366,
+    "iso:country":"US",
+    "sg:address":"72 Midway Rd",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 423 9400",
+    "sg:postcode":"30064",
+    "sg:province":"GA",
+    "sg:tags":[
+        "company",
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936129,
+        102082313,
+        85829479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xxHovwIWucDSGP4SUBhDM_33.960346_-84.676366@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461908457,
+    "wof:geomhash":"57bc9e3e5f67d1177ecc13271d7e2f2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936129,
+            "neighbourhood_id":85829479,
+            "region_id":85688535,
+            "venue_id":739501457
+        }
+    ],
+    "wof:id":739501457,
+    "wof:lastmodified":1461908457,
+    "wof:name":"TLC Electric Inc",
+    "wof:parent_id":85829479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.676366,
+    33.960346,
+    -84.676366,
+    33.960346
+],
+  "geometry": {"coordinates":[-84.676366,33.960346],"type":"Point"}
+}

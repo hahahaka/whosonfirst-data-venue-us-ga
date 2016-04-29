@@ -1,0 +1,81 @@
+{
+  "id": 739947961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.415496,33.735828,-84.415496,33.735828",
+    "geom:latitude":33.735828,
+    "geom:longitude":-84.415496,
+    "iso:country":"US",
+    "sg:address":"848 Oglethorpe Ave SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"30310",
+    "sg:province":"GA",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85855423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YWYDGbKjiYjox1dDYLadY_33.735828_-84.415496@1303262613"
+    },
+    "wof:country":"US",
+    "wof:created":1461921855,
+    "wof:geomhash":"9e8665e452fbf1eaa60461f785a08d42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85855423,
+            "region_id":85688535,
+            "venue_id":739947961
+        }
+    ],
+    "wof:id":739947961,
+    "wof:lastmodified":1461921855,
+    "wof:name":"USPS - United States Post Office - West End Post Office",
+    "wof:parent_id":85855423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -84.415496,
+    33.735828,
+    -84.415496,
+    33.735828
+],
+  "geometry": {"coordinates":[-84.415496,33.735828],"type":"Point"}
+}

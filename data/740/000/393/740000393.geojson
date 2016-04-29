@@ -1,0 +1,83 @@
+{
+  "id": 740000393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.294087,33.917293,-84.294087,33.917293",
+    "geom:latitude":33.917293,
+    "geom:longitude":-84.294087,
+    "iso:country":"US",
+    "sg:address":"2310 Perimeter Park Drive",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 205 4800",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        420559931,
+        85889959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54HTwpYU4PzeHdKxzhCs0A_33.917293_-84.294087@1303262627"
+    },
+    "wof:country":"US",
+    "wof:created":1461923944,
+    "wof:geomhash":"5527ea892a41f35fe3953f15aa2202ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":420559931,
+            "region_id":85688535,
+            "venue_id":740000393
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":740000393
+        }
+    ],
+    "wof:id":740000393,
+    "wof:lastmodified":1461923944,
+    "wof:name":"Pasa Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.294087,
+    33.917293,
+    -84.294087,
+    33.917293
+],
+  "geometry": {"coordinates":[-84.294087,33.917293],"type":"Point"}
+}

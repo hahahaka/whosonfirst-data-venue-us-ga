@@ -1,0 +1,83 @@
+{
+  "id": 739957813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.334731,33.753498,-84.334731,33.753498",
+    "geom:latitude":33.753498,
+    "geom:longitude":-84.334731,
+    "iso:country":"US",
+    "sg:address":"1617 Hosea L Williams Drive",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 373 1676",
+    "sg:postcode":"30317",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85817483,
+        85872093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47FUD5dUQkpGUgyiulnWiM_33.753498_-84.334731@1303262616"
+    },
+    "wof:country":"US",
+    "wof:created":1461922289,
+    "wof:geomhash":"dd6270d7094e3a543b165e5e903c95a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85817483,
+            "region_id":85688535,
+            "venue_id":739957813
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872093,
+            "region_id":85688535,
+            "venue_id":739957813
+        }
+    ],
+    "wof:id":739957813,
+    "wof:lastmodified":1461922289,
+    "wof:name":"Woodbine Pharmacy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -84.334731,
+    33.753498,
+    -84.334731,
+    33.753498
+],
+  "geometry": {"coordinates":[-84.334731,33.753498],"type":"Point"}
+}

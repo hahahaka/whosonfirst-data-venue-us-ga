@@ -1,0 +1,71 @@
+{
+  "id": 739851019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.234802,33.950699,-84.234802,33.950699",
+    "geom:latitude":33.950699,
+    "geom:longitude":-84.234802,
+    "iso:country":"US",
+    "sg:address":"6050 Peachtree Pkwy",
+    "sg:city":"Norcross",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 449 1986",
+    "sg:postcode":"30092",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mDoF05xQH38lB23fvxTo0_33.950699_-84.234802@1303262588"
+    },
+    "wof:country":"US",
+    "wof:created":1461917956,
+    "wof:geomhash":"9ac6a149da4a712a78b9a7c25af6cc17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":739851019
+        }
+    ],
+    "wof:id":739851019,
+    "wof:lastmodified":1461917956,
+    "wof:name":"Kroger Pharmacies",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -84.234802,
+    33.950699,
+    -84.234802,
+    33.950699
+],
+  "geometry": {"coordinates":[-84.234802,33.950699],"type":"Point"}
+}

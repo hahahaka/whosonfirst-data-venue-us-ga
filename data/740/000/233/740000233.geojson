@@ -1,0 +1,89 @@
+{
+  "id": 740000233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.299249,33.900779,-84.299249,33.900779",
+    "geom:latitude":33.900779,
+    "geom:longitude":-84.299249,
+    "iso:country":"US",
+    "sg:address":"5596 Peachtree Industrial",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Antiques",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 452 8397",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "flea",
+        "second",
+        "market",
+        "hand"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936435,
+        102084539,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Y4DSUNzA7U1ojcQFdHdRM_33.900779_-84.299249@1303262627"
+    },
+    "wof:country":"US",
+    "wof:created":1461923939,
+    "wof:geomhash":"d2ba4227d1309cd176f5b140a4ff18c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":740000233
+        }
+    ],
+    "wof:id":740000233,
+    "wof:lastmodified":1461923939,
+    "wof:name":"My Favorite Place",
+    "wof:parent_id":85889955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flea",
+        "second",
+        "market",
+        "hand"
+    ]
+},
+  "bbox": [
+    -84.299249,
+    33.900779,
+    -84.299249,
+    33.900779
+],
+  "geometry": {"coordinates":[-84.299249,33.900779],"type":"Point"}
+}

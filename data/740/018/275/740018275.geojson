@@ -1,0 +1,80 @@
+{
+  "id": 740018275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.282287,33.923077,-84.282287,33.923077",
+    "geom:latitude":33.923077,
+    "geom:longitude":-84.282287,
+    "iso:country":"US",
+    "sg:address":"6380 Peachtree Industrial Blvd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 452 1488",
+    "sg:postcode":"30360",
+    "sg:province":"GA",
+    "sg:website":"www.texaco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85936467,
+        85890023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KmHBAKEFuwZt06QEK5rsG_33.923077_-84.282287@1303262632"
+    },
+    "wof:country":"US",
+    "wof:created":1461924630,
+    "wof:geomhash":"de64917ad8be828b91a3469731cb532c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":740018275
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890023,
+            "region_id":85688535,
+            "venue_id":740018275
+        }
+    ],
+    "wof:id":740018275,
+    "wof:lastmodified":1461924630,
+    "wof:name":"Texaco Food Mart",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.282287,
+    33.923077,
+    -84.282287,
+    33.923077
+],
+  "geometry": {"coordinates":[-84.282287,33.923077],"type":"Point"}
+}

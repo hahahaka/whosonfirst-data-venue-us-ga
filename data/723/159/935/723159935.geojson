@@ -1,0 +1,78 @@
+{
+  "id": 723159935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.531507,33.760763,-84.531507,33.760763",
+    "geom:latitude":33.760763,
+    "geom:longitude":-84.531507,
+    "iso:country":"US",
+    "sg:address":"4465 Commerce Cir SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 699 0068",
+    "sg:postcode":"30336",
+    "sg:province":"GA",
+    "sg:tags":[
+        "food",
+        "product",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85872053,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53YAYA5gf48BD9mEequUNO_33.760763_-84.531507@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896288,
+    "wof:geomhash":"e789fbfd274ceb6d1224ce60eee0a64f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85872053,
+            "region_id":85688535,
+            "venue_id":723159935
+        }
+    ],
+    "wof:id":723159935,
+    "wof:lastmodified":1461896288,
+    "wof:name":"Commerce International Inc",
+    "wof:parent_id":85872053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product",
+        "general"
+    ]
+},
+  "bbox": [
+    -84.531507,
+    33.760763,
+    -84.531507,
+    33.760763
+],
+  "geometry": {"coordinates":[-84.531507,33.760763],"type":"Point"}
+}

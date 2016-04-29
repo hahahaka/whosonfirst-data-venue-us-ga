@@ -1,0 +1,73 @@
+{
+  "id": 723248481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.605269,31.839128,-81.605269,31.839128",
+    "geom:latitude":31.839128,
+    "geom:longitude":-81.605269,
+    "iso:country":"US",
+    "sg:address":"1001 Beatie Blvd",
+    "sg:city":"Hinesville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 368 4080",
+    "sg:postcode":"31313",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936767,
+        102082901,
+        85847075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GCr6hznzLwdrEFJYBlmHd_31.839128_-81.605269@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461898087,
+    "wof:geomhash":"40284e2843650682210dcd1127c8d4e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082901,
+            "locality_id":85936767,
+            "neighbourhood_id":85847075,
+            "region_id":85688535,
+            "venue_id":723248481
+        }
+    ],
+    "wof:id":723248481,
+    "wof:lastmodified":1461898087,
+    "wof:name":"David G Beatie DVM",
+    "wof:parent_id":85847075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -81.605269,
+    31.839128,
+    -81.605269,
+    31.839128
+],
+  "geometry": {"coordinates":[-81.60526900000001,31.839128],"type":"Point"}
+}

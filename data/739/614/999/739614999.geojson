@@ -1,0 +1,71 @@
+{
+  "id": 739614999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.573767,33.888523,-84.573767,33.888523",
+    "geom:latitude":33.888523,
+    "geom:longitude":-84.573767,
+    "iso:country":"US",
+    "sg:address":"719 Birchwood Ln",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 444 0944",
+    "sg:postcode":"30060",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cTCs7Lz69YwHi3wzVYpag_33.888523_-84.573767@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910719,
+    "wof:geomhash":"b6bfbd6bdff762d5b2394e282f3b5783",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":739614999
+        }
+    ],
+    "wof:id":739614999,
+    "wof:lastmodified":1461910719,
+    "wof:name":"Professional Medical Service",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -84.573767,
+    33.888523,
+    -84.573767,
+    33.888523
+],
+  "geometry": {"coordinates":[-84.573767,33.888523],"type":"Point"}
+}

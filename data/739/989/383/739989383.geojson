@@ -1,0 +1,87 @@
+{
+  "id": 739989383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.335629,33.947762,-84.335629,33.947762",
+    "geom:latitude":33.947762,
+    "geom:longitude":-84.335629,
+    "iso:country":"US",
+    "sg:address":"5479 Chamblee Dunwoody Road",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 394 3496",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85815577,
+        85844117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y7A3DhNOAabhD3uL9aC9R_33.947762_-84.335629@1303262624"
+    },
+    "wof:country":"US",
+    "wof:created":1461923530,
+    "wof:geomhash":"37bed8ec4949d6f9ca369c3586ff358c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85815577,
+            "region_id":85688535,
+            "venue_id":739989383
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85844117,
+            "region_id":85688535,
+            "venue_id":739989383
+        }
+    ],
+    "wof:id":739989383,
+    "wof:lastmodified":1461923530,
+    "wof:name":"Dunwoody Bottle Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -84.335629,
+    33.947762,
+    -84.335629,
+    33.947762
+],
+  "geometry": {"coordinates":[-84.335629,33.947762],"type":"Point"}
+}

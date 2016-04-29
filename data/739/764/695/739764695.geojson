@@ -1,0 +1,81 @@
+{
+  "id": 739764695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.475287,33.889088,-84.475287,33.889088",
+    "geom:latitude":33.889088,
+    "geom:longitude":-84.475287,
+    "iso:country":"US",
+    "sg:address":"2624 Cobb Pkwy SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/smyrna/196077-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30080",
+    "sg:province":"GA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818985,
+        102082313,
+        102191575,
+        85936139,
+        85813197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UcDTtFb2ageh4c08hEJuF_33.889088_-84.475287@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914328,
+    "wof:geomhash":"c4fb8828cdf437650f691dce9c13df93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85818985,
+            "region_id":85688535,
+            "venue_id":739764695
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85813197,
+            "region_id":85688535,
+            "venue_id":739764695
+        }
+    ],
+    "wof:id":739764695,
+    "wof:lastmodified":1461914328,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -84.475287,
+    33.889088,
+    -84.475287,
+    33.889088
+],
+  "geometry": {"coordinates":[-84.47528699999999,33.889088],"type":"Point"}
+}

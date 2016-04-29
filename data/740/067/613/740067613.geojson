@@ -1,0 +1,84 @@
+{
+  "id": 740067613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.166977,31.600845,-84.166977,31.600845",
+    "geom:latitude":31.600845,
+    "geom:longitude":-84.166977,
+    "iso:country":"US",
+    "sg:address":"1801 Palmyra Rd",
+    "sg:city":"Albany",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 434 1400",
+    "sg:postcode":"31701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "pediatrics",
+        "surgeons"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85935991,
+        102084427,
+        85857405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cOcjEYEk8o8sRsJZolLAu_31.600845_-84.166977@1303262644"
+    },
+    "wof:country":"US",
+    "wof:created":1461926853,
+    "wof:geomhash":"3842ccb87f3f3a6e1481c72ffdbd682a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":85857405,
+            "region_id":85688535,
+            "venue_id":740067613
+        }
+    ],
+    "wof:id":740067613,
+    "wof:lastmodified":1461926853,
+    "wof:name":"Albany Pediatrics",
+    "wof:parent_id":85857405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "pediatrics",
+        "surgeons"
+    ]
+},
+  "bbox": [
+    -84.166977,
+    31.600845,
+    -84.166977,
+    31.600845
+],
+  "geometry": {"coordinates":[-84.166977,31.600845],"type":"Point"}
+}

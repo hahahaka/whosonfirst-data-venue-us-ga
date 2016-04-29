@@ -1,0 +1,71 @@
+{
+  "id": 722884715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.271054,33.711326,-84.271054,33.711326",
+    "geom:latitude":33.711326,
+    "geom:longitude":-84.271054,
+    "iso:country":"US",
+    "sg:address":"2628 Rainbow Way",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 243 5000",
+    "sg:postcode":"30034",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85816491,
+        102084539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2asRC0iIOyfQv4W48eP14b_33.711326_-84.271054@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461890479,
+    "wof:geomhash":"1201d6e3b5ae9b1d9b23f567bded9769",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":722884715
+        }
+    ],
+    "wof:id":722884715,
+    "wof:lastmodified":1461890479,
+    "wof:name":"Eckerd",
+    "wof:parent_id":85816491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -84.271054,
+    33.711326,
+    -84.271054,
+    33.711326
+],
+  "geometry": {"coordinates":[-84.27105400000001,33.711326],"type":"Point"}
+}

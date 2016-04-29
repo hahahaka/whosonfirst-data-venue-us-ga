@@ -1,0 +1,71 @@
+{
+  "id": 739676221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.747927,32.830798,-83.747927,32.830798",
+    "geom:latitude":32.830798,
+    "geom:longitude":-83.747927,
+    "iso:country":"US",
+    "sg:address":"125 Heathwood Dr",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 471 7564",
+    "sg:postcode":"31206",
+    "sg:province":"GA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936517,
+        102084373,
+        85806435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bVmPHHsC582XTtvY2aPeh_32.830798_-83.747927@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461912075,
+    "wof:geomhash":"4b6bde47b7f9c99674b1ac579a8108ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084373,
+            "locality_id":85936517,
+            "neighbourhood_id":85806435,
+            "region_id":85688535,
+            "venue_id":739676221
+        }
+    ],
+    "wof:id":739676221,
+    "wof:lastmodified":1461912075,
+    "wof:name":"Westpointe Automotive LLC",
+    "wof:parent_id":85806435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -83.747927,
+    32.830798,
+    -83.747927,
+    32.830798
+],
+  "geometry": {"coordinates":[-83.747927,32.830798],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 723443341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.407923,33.708626,-84.407923,33.708626",
+    "geom:latitude":33.708626,
+    "geom:longitude":-84.407923,
+    "iso:country":"US",
+    "sg:address":"1630 Metropolitan Pkwy SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 756 4900",
+    "sg:postcode":"30310",
+    "sg:province":"GA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85809417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yMGc8uX6ZHG6GWBhQknBJ_33.708626_-84.407923@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901826,
+    "wof:geomhash":"f31ae74d8fa8bd970bcaae0d3628037f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85809417,
+            "region_id":85688535,
+            "venue_id":723443341
+        }
+    ],
+    "wof:id":723443341,
+    "wof:lastmodified":1461901826,
+    "wof:name":"AMC Bookstore",
+    "wof:parent_id":85809417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.407923,
+    33.708626,
+    -84.407923,
+    33.708626
+],
+  "geometry": {"coordinates":[-84.407923,33.708626],"type":"Point"}
+}

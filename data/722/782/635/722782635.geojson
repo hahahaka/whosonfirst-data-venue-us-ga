@@ -1,0 +1,71 @@
+{
+  "id": 722782635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.500958,34.044625,-84.500958,34.044625",
+    "geom:latitude":34.044625,
+    "geom:longitude":-84.500958,
+    "iso:country":"US",
+    "sg:address":"3810 Apple Way",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 565 1015",
+    "sg:postcode":"30066",
+    "sg:province":"GA",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85858509,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bmX3xCWxfuZaWw7YXzEYJ_34.044625_-84.500958@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888556,
+    "wof:geomhash":"78c9cca7b99361102da4cfbe96497c5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85858509,
+            "region_id":85688535,
+            "venue_id":722782635
+        }
+    ],
+    "wof:id":722782635,
+    "wof:lastmodified":1461888556,
+    "wof:name":"Paulick Properties",
+    "wof:parent_id":85858509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -84.500958,
+    34.044625,
+    -84.500958,
+    34.044625
+],
+  "geometry": {"coordinates":[-84.500958,34.044625],"type":"Point"}
+}

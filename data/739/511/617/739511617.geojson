@@ -1,0 +1,81 @@
+{
+  "id": 739511617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.477283,33.900525,-84.477283,33.900525",
+    "geom:latitude":33.900525,
+    "geom:longitude":-84.477283,
+    "iso:country":"US",
+    "sg:address":"2205 Corporate Plz SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 952 1807",
+    "sg:postcode":"30080",
+    "sg:province":"GA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818985,
+        102082313,
+        102191575,
+        85936139,
+        85813197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Zkdaf5SyrxirLFiBNZg0F_33.900525_-84.477283@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461908638,
+    "wof:geomhash":"55e9fe99e4f2b636b31de2afdeb1d97d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85818985,
+            "region_id":85688535,
+            "venue_id":739511617
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85813197,
+            "region_id":85688535,
+            "venue_id":739511617
+        }
+    ],
+    "wof:id":739511617,
+    "wof:lastmodified":1461908638,
+    "wof:name":"Dental One Assoc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -84.477283,
+    33.900525,
+    -84.477283,
+    33.900525
+],
+  "geometry": {"coordinates":[-84.477283,33.900525],"type":"Point"}
+}

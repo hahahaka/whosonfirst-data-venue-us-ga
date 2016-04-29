@@ -1,0 +1,82 @@
+{
+  "id": 739956269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.330739,33.71093,-84.330739,33.71093",
+    "geom:latitude":33.71093,
+    "geom:longitude":-84.330739,
+    "iso:country":"US",
+    "sg:address":"1472 Timms Cir SE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 241 5988",
+    "sg:postcode":"30316",
+    "sg:province":"GA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937253,
+        102084539,
+        85866911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vqGAqFSK0Au6yaFGE8LTp_33.710930_-84.330739@1303262615"
+    },
+    "wof:country":"US",
+    "wof:created":1461922233,
+    "wof:geomhash":"444e275e81a4db3768844c296c52548a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937253,
+            "neighbourhood_id":85866911,
+            "region_id":85688535,
+            "venue_id":739956269
+        }
+    ],
+    "wof:id":739956269,
+    "wof:lastmodified":1461922233,
+    "wof:name":"John Johnson Trucking Inc",
+    "wof:parent_id":85866911,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.330739,
+    33.71093,
+    -84.330739,
+    33.71093
+],
+  "geometry": {"coordinates":[-84.33073899999999,33.71093],"type":"Point"}
+}

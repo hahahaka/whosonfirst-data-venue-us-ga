@@ -1,0 +1,84 @@
+{
+  "id": 740011493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.338114,33.923774,-84.338114,33.923774",
+    "geom:latitude":33.923774,
+    "geom:longitude":-84.338114,
+    "iso:country":"US",
+    "sg:address":"4400 Ashford Dunwoody Rd #1035",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 396 4221",
+    "sg:postcode":"30346",
+    "sg:province":"GA",
+    "sg:tags":[
+        "store"
+    ],
+    "sg:website":"www.skechers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85890003,
+        85889963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rAIkimQ8QhYCWIKZxuoRU_33.923774_-84.338114@1303262630"
+    },
+    "wof:country":"US",
+    "wof:created":1461924373,
+    "wof:geomhash":"c145c7685c91c769fe660c2d02d7b151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890003,
+            "region_id":85688535,
+            "venue_id":740011493
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85889963,
+            "region_id":85688535,
+            "venue_id":740011493
+        }
+    ],
+    "wof:id":740011493,
+    "wof:lastmodified":1461924373,
+    "wof:name":"Skechers Shoes",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -84.338114,
+    33.923774,
+    -84.338114,
+    33.923774
+],
+  "geometry": {"coordinates":[-84.338114,33.923774],"type":"Point"}
+}

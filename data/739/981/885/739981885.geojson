@@ -1,0 +1,82 @@
+{
+  "id": 739981885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.43076,33.711614,-84.43076,33.711614",
+    "geom:latitude":33.711614,
+    "geom:longitude":-84.43076,
+    "iso:country":"US",
+    "sg:address":"1314 Cobb Street SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 973 2286",
+    "sg:postcode":"30330",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        420517931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hyiz6n461WXFPtbALEuqy_33.711614_-84.430760@1303262622"
+    },
+    "wof:country":"US",
+    "wof:created":1461923207,
+    "wof:geomhash":"063e75188bbf1f3550e468aab25e56db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":420517931,
+            "region_id":85688535,
+            "venue_id":739981885
+        }
+    ],
+    "wof:id":739981885,
+    "wof:lastmodified":1461923207,
+    "wof:name":"Bohn Henry E DVM",
+    "wof:parent_id":420517931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.43076,
+    33.711614,
+    -84.43076,
+    33.711614
+],
+  "geometry": {"coordinates":[-84.43076000000001,33.711614],"type":"Point"}
+}

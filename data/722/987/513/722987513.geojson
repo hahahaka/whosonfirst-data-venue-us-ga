@@ -1,0 +1,84 @@
+{
+  "id": 722987513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.282192,33.924251,-84.282192,33.924251",
+    "geom:latitude":33.924251,
+    "geom:longitude":-84.282192,
+    "iso:country":"US",
+    "sg:address":"4448 Tilly Mill Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 455 6878",
+    "sg:postcode":"30360",
+    "sg:province":"GA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85936467,
+        85890023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fKFbAx3blSk5m3Sh3uG3I_33.924251_-84.282192@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461892641,
+    "wof:geomhash":"337f728711ba8b3537bf048b6f02461d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":722987513
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890023,
+            "region_id":85688535,
+            "venue_id":722987513
+        }
+    ],
+    "wof:id":722987513,
+    "wof:lastmodified":1461892641,
+    "wof:name":"LA Raza Market",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -84.282192,
+    33.924251,
+    -84.282192,
+    33.924251
+],
+  "geometry": {"coordinates":[-84.28219199999999,33.924251],"type":"Point"}
+}

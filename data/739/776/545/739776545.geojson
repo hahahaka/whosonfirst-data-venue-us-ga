@@ -1,0 +1,76 @@
+{
+  "id": 739776545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.309647,30.821694,-83.309647,30.821694",
+    "geom:latitude":30.821694,
+    "geom:longitude":-83.309647,
+    "iso:country":"US",
+    "sg:address":"1812 W Hill Ave",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/valdosta/180847-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 245 9182",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RspcgZ9FAKOQjgFIfHwqq_30.821908_-83.309281@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461914800,
+    "wof:geomhash":"8d1e38e13ee960488df0054ecc2567fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843241,
+            "region_id":85688535,
+            "venue_id":739776545
+        }
+    ],
+    "wof:id":739776545,
+    "wof:lastmodified":1461914800,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85843241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -83.309647,
+    30.821694,
+    -83.309647,
+    30.821694
+],
+  "geometry": {"coordinates":[-83.309647,30.821694],"type":"Point"}
+}

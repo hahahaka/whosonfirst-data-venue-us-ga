@@ -1,0 +1,71 @@
+{
+  "id": 723004925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.149227,30.784299,-83.149227,30.784299",
+    "geom:latitude":30.784299,
+    "geom:longitude":-83.149227,
+    "iso:country":"US",
+    "sg:address":"4725 Boring Pond Rd",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 559 5670",
+    "sg:postcode":"31606",
+    "sg:province":"GA",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50JC31esIpSFKqrpaHmKWr_30.784299_-83.149227@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461893041,
+    "wof:geomhash":"c15abcab8222b98603fb055913225ffe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843077,
+            "region_id":85688535,
+            "venue_id":723004925
+        }
+    ],
+    "wof:id":723004925,
+    "wof:lastmodified":1461893041,
+    "wof:name":"Witherspoon Welding",
+    "wof:parent_id":85843077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -83.149227,
+    30.784299,
+    -83.149227,
+    30.784299
+],
+  "geometry": {"coordinates":[-83.149227,30.784299],"type":"Point"}
+}

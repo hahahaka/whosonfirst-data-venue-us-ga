@@ -1,0 +1,75 @@
+{
+  "id": 739283471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.998585,33.042631,-84.998585,33.042631",
+    "geom:latitude":33.042631,
+    "geom:longitude":-84.998585,
+    "iso:country":"US",
+    "sg:address":"1363 Greenville St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 885 0222",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25ByHQYtSFf85jy4RrRJ3V_33.042631_-84.998585@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461904229,
+    "wof:geomhash":"9085266fe5d8663c8319a0ad81dc2933",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739283471
+        }
+    ],
+    "wof:id":739283471,
+    "wof:lastmodified":1461904229,
+    "wof:name":"Parkway Lube",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -84.998585,
+    33.042631,
+    -84.998585,
+    33.042631
+],
+  "geometry": {"coordinates":[-84.99858500000001,33.042631],"type":"Point"}
+}

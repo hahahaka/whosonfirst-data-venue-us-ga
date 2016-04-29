@@ -1,0 +1,73 @@
+{
+  "id": 722753443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.028402,33.066884,-85.028402,33.066884",
+    "geom:latitude":33.066884,
+    "geom:longitude":-85.028402,
+    "iso:country":"US",
+    "sg:address":"803 New Franklin Rd",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 812 8448",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EzAIob8s2JoBmt7vGgkvy_33.066884_-85.028402@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888004,
+    "wof:geomhash":"8b3bbfca0b412fd331988bd5d98dc0a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":722753443
+        }
+    ],
+    "wof:id":722753443,
+    "wof:lastmodified":1461888004,
+    "wof:name":"Stephen Risik MD",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.028402,
+    33.066884,
+    -85.028402,
+    33.066884
+],
+  "geometry": {"coordinates":[-85.028402,33.066884],"type":"Point"}
+}

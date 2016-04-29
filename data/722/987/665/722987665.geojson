@@ -1,0 +1,73 @@
+{
+  "id": 722987665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.873324,33.186208,-84.873324,33.186208",
+    "geom:latitude":33.186208,
+    "geom:longitude":-84.873324,
+    "iso:country":"US",
+    "sg:address":"1824 Blue Creek Rd",
+    "sg:city":"Hogansville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 637 6336",
+    "sg:postcode":"30230",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2x8vsHAowDsj4Umd4wdgS4_33.186208_-84.873324@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461892643,
+    "wof:geomhash":"9da116259983e931701031e702fa2de1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":722987665
+        }
+    ],
+    "wof:id":722987665,
+    "wof:lastmodified":1461892643,
+    "wof:name":"Andy's Automotive Repair Shop",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.873324,
+    33.186208,
+    -84.873324,
+    33.186208
+],
+  "geometry": {"coordinates":[-84.873324,33.186208],"type":"Point"}
+}

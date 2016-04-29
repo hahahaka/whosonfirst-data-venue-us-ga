@@ -1,0 +1,69 @@
+{
+  "id": 723256001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.079088,33.917337,-84.079088,33.917337",
+    "geom:latitude":33.917337,
+    "geom:longitude":-84.079088,
+    "iso:country":"US",
+    "sg:address":"2954 Tatrice Ln NW",
+    "sg:city":"Lawrenceville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 758 2423",
+    "sg:postcode":"30044",
+    "sg:province":"GA",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yR5nfV0sKlc4u4ObZW2d3_33.917337_-84.079088@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461898234,
+    "wof:geomhash":"932dcaa5150b3e51188594329306ab6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":723256001
+        }
+    ],
+    "wof:id":723256001,
+    "wof:lastmodified":1461898234,
+    "wof:name":"Batting Cleanup Crew",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -84.079088,
+    33.917337,
+    -84.079088,
+    33.917337
+],
+  "geometry": {"coordinates":[-84.079088,33.917337],"type":"Point"}
+}

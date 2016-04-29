@@ -1,0 +1,71 @@
+{
+  "id": 723099903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.742629,34.280507,-84.742629,34.280507",
+    "geom:latitude":34.280507,
+    "geom:longitude":-84.742629,
+    "iso:country":"US",
+    "sg:address":"22 Oak St NE",
+    "sg:city":"White",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 382 9195",
+    "sg:postcode":"30184",
+    "sg:province":"GA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85823399,
+        102082937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RmTUNehg5rBa0lEEcsEs2_34.280507_-84.742629@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461895119,
+    "wof:geomhash":"7ea7f2b81bd030cc9dbf99623f3fa0fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082937,
+            "neighbourhood_id":85823399,
+            "region_id":85688535,
+            "venue_id":723099903
+        }
+    ],
+    "wof:id":723099903,
+    "wof:lastmodified":1461895119,
+    "wof:name":"B & B Storage",
+    "wof:parent_id":85823399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -84.742629,
+    34.280507,
+    -84.742629,
+    34.280507
+],
+  "geometry": {"coordinates":[-84.74262899999999,34.280507],"type":"Point"}
+}

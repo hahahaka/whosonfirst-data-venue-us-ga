@@ -1,0 +1,85 @@
+{
+  "id": 739855661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.170496,33.987817,-84.170496,33.987817",
+    "geom:latitude":33.987817,
+    "geom:longitude":-84.170496,
+    "iso:country":"US",
+    "sg:address":"3865 Peachtree Industrial Blvd",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 877 258 8230",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "self",
+        "full",
+        "commercial",
+        "mover",
+        "household"
+    ],
+    "sg:website":"http://www.publicstorage.com/?pid=ypcomCPCingenio",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cBlWLhL4UzG8qVsxHFbR2_33.987817_-84.170496@1303262590"
+    },
+    "wof:country":"US",
+    "wof:created":1461918129,
+    "wof:geomhash":"0f770eb6fd0224fd68c5b92cf585cb10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":739855661
+        }
+    ],
+    "wof:id":739855661,
+    "wof:lastmodified":1461918129,
+    "wof:name":"Public Storage",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "full",
+        "commercial",
+        "mover",
+        "household"
+    ]
+},
+  "bbox": [
+    -84.170496,
+    33.987817,
+    -84.170496,
+    33.987817
+],
+  "geometry": {"coordinates":[-84.170496,33.987817],"type":"Point"}
+}

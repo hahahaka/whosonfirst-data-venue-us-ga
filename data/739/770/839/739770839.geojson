@@ -1,0 +1,84 @@
+{
+  "id": 739770839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.953707,34.502703,-84.953707,34.502703",
+    "geom:latitude":34.502703,
+    "geom:longitude":-84.953707,
+    "iso:country":"US",
+    "sg:address":"408 Court St",
+    "sg:city":"Calhoun",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/calhoun/231080-daylight-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 625 2828",
+    "sg:postcode":"30701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936609,
+        102084679,
+        85817247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tA6y8AbkrYwQmyaF8XVTV_34.502703_-84.953707@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914578,
+    "wof:geomhash":"84b6fce417037b606378315507abaacc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084679,
+            "locality_id":85936609,
+            "neighbourhood_id":85817247,
+            "region_id":85688535,
+            "venue_id":739770839
+        }
+    ],
+    "wof:id":739770839,
+    "wof:lastmodified":1461914578,
+    "wof:name":"Daylight Donuts",
+    "wof:parent_id":85817247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -84.953707,
+    34.502703,
+    -84.953707,
+    34.502703
+],
+  "geometry": {"coordinates":[-84.95370699999999,34.502703],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 723407793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.884366,33.038615,-84.884366,33.038615",
+    "geom:latitude":33.038615,
+    "geom:longitude":-84.884366,
+    "iso:country":"US",
+    "sg:address":"4234 Greenville Rd",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 882 3358",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GLaKSsgkKL3oG0ngHm2Td_33.038615_-84.884366@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901125,
+    "wof:geomhash":"bc0cefb560acf987a6d077198f91816f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":723407793
+        }
+    ],
+    "wof:id":723407793,
+    "wof:lastmodified":1461901125,
+    "wof:name":"Auto Max Rental Car",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -84.884366,
+    33.038615,
+    -84.884366,
+    33.038615
+],
+  "geometry": {"coordinates":[-84.884366,33.038615],"type":"Point"}
+}

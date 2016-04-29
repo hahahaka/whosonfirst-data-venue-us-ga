@@ -1,0 +1,79 @@
+{
+  "id": 723114611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.438758,33.810463,-84.438758,33.810463",
+    "geom:latitude":33.810463,
+    "geom:longitude":-84.438758,
+    "iso:country":"US",
+    "sg:address":"2164 Marietta Blvd NW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 888 0646",
+    "sg:postcode":"30318",
+    "sg:province":"GA",
+    "sg:website":"www.gascoinc.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85852255,
+        420517865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CUQP7Qvi56dxjHxUlKkYS_33.810463_-84.438758@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461895411,
+    "wof:geomhash":"432482fd67504f0ae9a13b551b7951f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85852255,
+            "region_id":85688535,
+            "venue_id":723114611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":420517865,
+            "region_id":85688535,
+            "venue_id":723114611
+        }
+    ],
+    "wof:id":723114611,
+    "wof:lastmodified":1461895411,
+    "wof:name":"Greater Atlanta Signs",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.438758,
+    33.810463,
+    -84.438758,
+    33.810463
+],
+  "geometry": {"coordinates":[-84.43875800000001,33.810463],"type":"Point"}
+}

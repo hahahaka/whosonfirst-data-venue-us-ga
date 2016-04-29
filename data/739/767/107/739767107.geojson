@@ -1,0 +1,74 @@
+{
+  "id": 739767107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.029497,32.987321,-85.029497,32.987321",
+    "geom:latitude":32.987321,
+    "geom:longitude":-85.029497,
+    "iso:country":"US",
+    "sg:address":"2383 Whitesville Rd",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/lagrange/158337-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 882 4068",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wlJDR90493Gn08IQtwiWo_32.987321_-85.029497@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914424,
+    "wof:geomhash":"c5cfed376f1841e98fe8da0d10c34fde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739767107
+        }
+    ],
+    "wof:id":739767107,
+    "wof:lastmodified":1461914424,
+    "wof:name":"Arby's",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.029497,
+    32.987321,
+    -85.029497,
+    32.987321
+],
+  "geometry": {"coordinates":[-85.02949700000001,32.987321],"type":"Point"}
+}

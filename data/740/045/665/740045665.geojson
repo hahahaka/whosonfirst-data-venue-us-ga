@@ -1,0 +1,81 @@
+{
+  "id": 740045665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.104107,33.510855,-82.104107,33.510855",
+    "geom:latitude":33.510855,
+    "geom:longitude":-82.104107,
+    "iso:country":"US",
+    "sg:address":"4020 Washington Rd",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 869 0400",
+    "sg:postcode":"30907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "take",
+        "buffet",
+        "pizza"
+    ],
+    "sg:website":"http://www.cicispizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0n0ohhnfPWIORbVRyKcdPV_33.510855_-82.104107@1303262638"
+    },
+    "wof:country":"US",
+    "wof:created":1461925870,
+    "wof:geomhash":"6d6fdd3c739e6b4b37af3ba657be2fe5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":740045665
+        }
+    ],
+    "wof:id":740045665,
+    "wof:lastmodified":1461925870,
+    "wof:name":"CiCi's Pizza",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "take",
+        "buffet",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -82.104107,
+    33.510855,
+    -82.104107,
+    33.510855
+],
+  "geometry": {"coordinates":[-82.104107,33.510855],"type":"Point"}
+}

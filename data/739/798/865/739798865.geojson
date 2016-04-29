@@ -1,0 +1,78 @@
+{
+  "id": 739798865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.275597,33.690653,-84.275597,33.690653",
+    "geom:latitude":33.690653,
+    "geom:longitude":-84.275597,
+    "iso:country":"US",
+    "sg:address":"2946 Clifton Springs Rd",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 244 2183",
+    "sg:postcode":"30034",
+    "sg:province":"GA",
+    "sg:tags":[
+        "enforcement",
+        "law",
+        "agencies-government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85816491,
+        102084539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BzCo2RXt94GH9L4KV3YC4_33.690653_-84.275597@1303262575"
+    },
+    "wof:country":"US",
+    "wof:created":1461915733,
+    "wof:geomhash":"354805578158e8ff41494879c2e59240",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739798865
+        }
+    ],
+    "wof:id":739798865,
+    "wof:lastmodified":1461915733,
+    "wof:name":"Georgia Department Of Juvenile Justice",
+    "wof:parent_id":85816491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "enforcement",
+        "law",
+        "agencies-government"
+    ]
+},
+  "bbox": [
+    -84.275597,
+    33.690653,
+    -84.275597,
+    33.690653
+],
+  "geometry": {"coordinates":[-84.275597,33.690653],"type":"Point"}
+}

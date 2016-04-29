@@ -1,0 +1,84 @@
+{
+  "id": 722976613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.290045,33.897162,-84.290045,33.897162",
+    "geom:latitude":33.897162,
+    "geom:longitude":-84.290045,
+    "iso:country":"US",
+    "sg:address":"5667 Peachtree Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 256 5111",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85936435,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4klmDwcOmTpFnkxIGLgB2J_33.897162_-84.290045@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461892392,
+    "wof:geomhash":"817b26ebd7adddbf63f2d941c9be25eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":722976613
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":722976613
+        }
+    ],
+    "wof:id":722976613,
+    "wof:lastmodified":1461892392,
+    "wof:name":"Stuart S Katz MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -84.290045,
+    33.897162,
+    -84.290045,
+    33.897162
+],
+  "geometry": {"coordinates":[-84.29004500000001,33.897162],"type":"Point"}
+}

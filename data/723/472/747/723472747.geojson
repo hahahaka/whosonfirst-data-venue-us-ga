@@ -1,0 +1,71 @@
+{
+  "id": 723472747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.814758,33.974979,-84.814758,33.974979",
+    "geom:latitude":33.974979,
+    "geom:longitude":-84.814758,
+    "iso:country":"US",
+    "sg:address":"52 Tower Ct",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 445 2393",
+    "sg:postcode":"30132",
+    "sg:province":"GA",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85835699,
+        102084665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Av81XRVDryhscyLmKl6mt_33.974979_-84.814758@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461902369,
+    "wof:geomhash":"2d3d666a54aa543ff27185875e3a1732",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "neighbourhood_id":85835699,
+            "region_id":85688535,
+            "venue_id":723472747
+        }
+    ],
+    "wof:id":723472747,
+    "wof:lastmodified":1461902369,
+    "wof:name":"Cds Transport",
+    "wof:parent_id":85835699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.814758,
+    33.974979,
+    -84.814758,
+    33.974979
+],
+  "geometry": {"coordinates":[-84.814758,33.974979],"type":"Point"}
+}

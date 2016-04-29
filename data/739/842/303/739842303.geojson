@@ -1,0 +1,91 @@
+{
+  "id": 739842303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.540909,33.900286,-84.540909,33.900286",
+    "geom:latitude":33.900286,
+    "geom:longitude":-84.540909,
+    "iso:country":"US",
+    "sg:address":"2148 S Cobb Dr SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 805 0006",
+    "sg:postcode":"30080",
+    "sg:province":"GA",
+    "sg:tags":[
+        "super",
+        "delicatessen",
+        "drugstore"
+    ],
+    "sg:website":"www.publix.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JAHGyNuJxaNIdSGmH9gUb_33.900286_-84.540909@1303262586"
+    },
+    "wof:country":"US",
+    "wof:created":1461917589,
+    "wof:geomhash":"a41371c848bb7f0056d7cd03b43fd156",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":739842303
+        }
+    ],
+    "wof:id":739842303,
+    "wof:lastmodified":1461917589,
+    "wof:name":"Publix Super Markets",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "super",
+        "delicatessen",
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -84.540909,
+    33.900286,
+    -84.540909,
+    33.900286
+],
+  "geometry": {"coordinates":[-84.540909,33.900286],"type":"Point"}
+}

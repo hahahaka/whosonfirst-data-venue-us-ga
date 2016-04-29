@@ -1,0 +1,74 @@
+{
+  "id": 739771269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.127137,33.535829,-82.127137,33.535829",
+    "geom:latitude":33.535829,
+    "geom:longitude":-82.127137,
+    "iso:country":"US",
+    "sg:address":"4336 Washington Rd",
+    "sg:city":"Evans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/evans/191535-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 855 0821",
+    "sg:postcode":"30809",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kMHipZc6SydcfGMw6WdaS_33.535829_-82.127137@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914593,
+    "wof:geomhash":"572f8d540d0bab3ee32c9549b069808b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":739771269
+        }
+    ],
+    "wof:id":739771269,
+    "wof:lastmodified":1461914593,
+    "wof:name":"Sonic",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -82.127137,
+    33.535829,
+    -82.127137,
+    33.535829
+],
+  "geometry": {"coordinates":[-82.127137,33.535829],"type":"Point"}
+}

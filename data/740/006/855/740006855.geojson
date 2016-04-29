@@ -1,0 +1,76 @@
+{
+  "id": 740006855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.441254,33.676338,-84.441254,33.676338",
+    "geom:latitude":33.676338,
+    "geom:longitude":-84.441254,
+    "iso:country":"US",
+    "sg:address":"2889 Main St",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 972 8470",
+    "sg:postcode":"30344",
+    "sg:province":"GA",
+    "sg:tags":[
+        "car",
+        "truck"
+    ],
+    "sg:website":"http://www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937155,
+        102083603,
+        85889981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Pn21wGG6R3h0Y1Tbjxu6B_33.676338_-84.441254@1303262628"
+    },
+    "wof:country":"US",
+    "wof:created":1461924186,
+    "wof:geomhash":"0cf2fa1e46167b4ae184420ba64b5c6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937155,
+            "neighbourhood_id":85889981,
+            "region_id":85688535,
+            "venue_id":740006855
+        }
+    ],
+    "wof:id":740006855,
+    "wof:lastmodified":1461924186,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85889981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "truck"
+    ]
+},
+  "bbox": [
+    -84.441254,
+    33.676338,
+    -84.441254,
+    33.676338
+],
+  "geometry": {"coordinates":[-84.441254,33.676338],"type":"Point"}
+}

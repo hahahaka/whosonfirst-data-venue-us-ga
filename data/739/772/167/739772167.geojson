@@ -1,0 +1,73 @@
+{
+  "id": 739772167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.74169,32.469355,-83.74169,32.469355",
+    "geom:latitude":32.469355,
+    "geom:longitude":-83.74169,
+    "iso:country":"US",
+    "sg:address":"1413 Sam Nunn Blvd",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/perry/202542-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"31069",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UyjsKGfO7GhC0kphV543b_32.469355_-83.741690@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914629,
+    "wof:geomhash":"1f104df34107167286ddf02efb6d41c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":739772167
+        }
+    ],
+    "wof:id":739772167,
+    "wof:lastmodified":1461914629,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.74169,
+    32.469355,
+    -83.74169,
+    32.469355
+],
+  "geometry": {"coordinates":[-83.74169000000001,32.469355],"type":"Point"}
+}

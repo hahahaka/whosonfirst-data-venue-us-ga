@@ -1,0 +1,88 @@
+{
+  "id": 739740503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.379919,33.772574,-84.379919,33.772574",
+    "geom:latitude":33.772574,
+    "geom:longitude":-84.379919,
+    "iso:country":"US",
+    "sg:address":"240 Ponce de Leon Ave NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 888 4530",
+    "sg:postcode":"30308",
+    "sg:province":"GA",
+    "sg:tags":[
+        "dialysis",
+        "kidney",
+        "center"
+    ],
+    "sg:website":"http://www.dciinc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85866909,
+        85889947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cUgvSwhNAqpN6bv6Qq3CT_33.772669_-84.379881@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461913436,
+    "wof:geomhash":"aef3689e47598fc583bf01d3c46d8d24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85866909,
+            "region_id":85688535,
+            "venue_id":739740503
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85889947,
+            "region_id":85688535,
+            "venue_id":739740503
+        }
+    ],
+    "wof:id":739740503,
+    "wof:lastmodified":1461913436,
+    "wof:name":"Dialysis Clinic Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dialysis",
+        "kidney",
+        "center"
+    ]
+},
+  "bbox": [
+    -84.379919,
+    33.772574,
+    -84.379919,
+    33.772574
+],
+  "geometry": {"coordinates":[-84.379919,33.772574],"type":"Point"}
+}

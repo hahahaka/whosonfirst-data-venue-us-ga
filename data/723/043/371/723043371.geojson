@@ -1,0 +1,73 @@
+{
+  "id": 723043371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.380245,33.755538,-84.380245,33.755538",
+    "geom:latitude":33.755538,
+    "geom:longitude":-84.380245,
+    "iso:country":"US",
+    "sg:address":"247 Auburn Ave NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 658 6452",
+    "sg:postcode":"30303",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36ht9VnOrShYlZXzpUuvOp_33.755538_-84.380245@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461893886,
+    "wof:geomhash":"91de8b2b1fad17e8b0bde79374a38c07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872043,
+            "region_id":85688535,
+            "venue_id":723043371
+        }
+    ],
+    "wof:id":723043371,
+    "wof:lastmodified":1461893886,
+    "wof:name":"Atlanta Police Mini Precinct",
+    "wof:parent_id":85872043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.380245,
+    33.755538,
+    -84.380245,
+    33.755538
+],
+  "geometry": {"coordinates":[-84.380245,33.755538],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 723505525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.492885,31.15414,-81.492885,31.15414",
+    "geom:latitude":31.15414,
+    "geom:longitude":-81.492885,
+    "iso:country":"US",
+    "sg:address":"1700 Norwich St",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 280 0080",
+    "sg:postcode":"31520",
+    "sg:province":"GA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85833275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cec8VISJg1de7yu36WY1y_31.154140_-81.492885@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461903080,
+    "wof:geomhash":"b4e855bf6e2b534dffd81aca138b2bba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85833275,
+            "region_id":85688535,
+            "venue_id":723505525
+        }
+    ],
+    "wof:id":723505525,
+    "wof:lastmodified":1461903080,
+    "wof:name":"Adam's Market",
+    "wof:parent_id":85833275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -81.492885,
+    31.15414,
+    -81.492885,
+    31.15414
+],
+  "geometry": {"coordinates":[-81.492885,31.15414],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 723412353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.509345,34.101279,-84.509345,34.101279",
+    "geom:latitude":34.101279,
+    "geom:longitude":-84.509345,
+    "iso:country":"US",
+    "sg:address":"225 Arnold Mill Rd",
+    "sg:city":"Woodstock",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 926 2302",
+    "sg:postcode":"30188",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936723,
+        102084635,
+        420517473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kdcSHY6M7oc1lq66TDGva_34.101279_-84.509345@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901214,
+    "wof:geomhash":"ef36ddc32237f4b97ae4a080425ec729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084635,
+            "locality_id":85936723,
+            "neighbourhood_id":420517473,
+            "region_id":85688535,
+            "venue_id":723412353
+        }
+    ],
+    "wof:id":723412353,
+    "wof:lastmodified":1461901214,
+    "wof:name":"Woodstock Fire Dept",
+    "wof:parent_id":420517473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.509345,
+    34.101279,
+    -84.509345,
+    34.101279
+],
+  "geometry": {"coordinates":[-84.509345,34.101279],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 723364255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.08731,34.183899,-84.08731,34.183899",
+    "geom:latitude":34.183899,
+    "geom:longitude":-84.08731,
+    "iso:country":"US",
+    "sg:address":"2850 Pinetree Rd",
+    "sg:city":"Cumming",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 889 7927",
+    "sg:postcode":"30041",
+    "sg:province":"GA",
+    "sg:tags":[
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936811,
+        102082317,
+        85842073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CMGEByRh8eOtmu0kVGGUS_34.183899_-84.087310@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900269,
+    "wof:geomhash":"9cb59f554f69241d882c72e85e91b2ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082317,
+            "locality_id":85936811,
+            "neighbourhood_id":85842073,
+            "region_id":85688535,
+            "venue_id":723364255
+        }
+    ],
+    "wof:id":723364255,
+    "wof:lastmodified":1461900269,
+    "wof:name":"L & P Gun Repair",
+    "wof:parent_id":85842073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gun",
+        "gunsmith"
+    ]
+},
+  "bbox": [
+    -84.08731,
+    34.183899,
+    -84.08731,
+    34.183899
+],
+  "geometry": {"coordinates":[-84.08731,34.183899],"type":"Point"}
+}

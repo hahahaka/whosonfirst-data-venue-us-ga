@@ -1,0 +1,92 @@
+{
+  "id": 739887223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.557156,34.089705,-84.557156,34.089705",
+    "geom:latitude":34.089705,
+    "geom:longitude":-84.557156,
+    "iso:country":"US",
+    "sg:address":"534 Industrial Dr",
+    "sg:city":"Woodstock",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Recreational Vehicle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 591 6640",
+    "sg:postcode":"30189",
+    "sg:province":"GA",
+    "sg:tags":[
+        "transmission",
+        "automobile",
+        "diagnostic",
+        "part",
+        "brake",
+        "equipment-service",
+        "accessory"
+    ],
+    "sg:website":"http://mymechanicjoe.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85827647,
+        102084635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cs7BXl1HFSYW4lWGteEEk_34.089705_-84.557156@1303262598"
+    },
+    "wof:country":"US",
+    "wof:created":1461919332,
+    "wof:geomhash":"d9adc8fce241fd46e22a471f76520693",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084635,
+            "neighbourhood_id":85827647,
+            "region_id":85688535,
+            "venue_id":739887223
+        }
+    ],
+    "wof:id":739887223,
+    "wof:lastmodified":1461919332,
+    "wof:name":"My Mechanic Joe",
+    "wof:parent_id":85827647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "automobile",
+        "diagnostic",
+        "part",
+        "brake",
+        "equipment-service",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -84.557156,
+    34.089705,
+    -84.557156,
+    34.089705
+],
+  "geometry": {"coordinates":[-84.55715600000001,34.089705],"type":"Point"}
+}

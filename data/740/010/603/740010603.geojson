@@ -1,0 +1,84 @@
+{
+  "id": 740010603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.338498,33.922411,-84.338498,33.922411",
+    "geom:latitude":33.922411,
+    "geom:longitude":-84.338498,
+    "iso:country":"US",
+    "sg:address":"4453 Ashford Dunwoody Rd NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 297 3950",
+    "sg:postcode":"30346",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"http://www.sugarcreekgolf.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85890003,
+        85889963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eLDQJRjNhKkOjSmQX3cdY_33.922411_-84.338498@1303262629"
+    },
+    "wof:country":"US",
+    "wof:created":1461924338,
+    "wof:geomhash":"8667b05a49635843d262152a35d0d568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890003,
+            "region_id":85688535,
+            "venue_id":740010603
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85889963,
+            "region_id":85688535,
+            "venue_id":740010603
+        }
+    ],
+    "wof:id":740010603,
+    "wof:lastmodified":1461924338,
+    "wof:name":"Police Dept- North Precinct",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.338498,
+    33.922411,
+    -84.338498,
+    33.922411
+],
+  "geometry": {"coordinates":[-84.338498,33.922411],"type":"Point"}
+}

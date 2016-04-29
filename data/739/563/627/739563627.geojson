@@ -1,0 +1,84 @@
+{
+  "id": 739563627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.798276,30.799303,-83.798276,30.799303",
+    "geom:latitude":30.799303,
+    "geom:longitude":-83.798276,
+    "iso:country":"US",
+    "sg:address":"20101 US Hwy 84",
+    "sg:city":"Boston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 498 1214",
+    "sg:postcode":"31626",
+    "sg:province":"GA",
+    "sg:tags":[
+        "trade",
+        "machine",
+        "industrial",
+        "welding",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85833309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MpBNsxkfRhcAwpf96Aqei_30.799303_-83.798276@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461909637,
+    "wof:geomhash":"600eee09e87922357bd2f458a824f2b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85833309,
+            "region_id":85688535,
+            "venue_id":739563627
+        }
+    ],
+    "wof:id":739563627,
+    "wof:lastmodified":1461909637,
+    "wof:name":"General Machine & Fabricating",
+    "wof:parent_id":85833309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trade",
+        "machine",
+        "industrial",
+        "welding",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -83.798276,
+    30.799303,
+    -83.798276,
+    30.799303
+],
+  "geometry": {"coordinates":[-83.798276,30.799303],"type":"Point"}
+}

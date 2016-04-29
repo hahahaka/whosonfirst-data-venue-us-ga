@@ -1,0 +1,75 @@
+{
+  "id": 723283091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.382099,31.1425,-81.382099,31.1425",
+    "geom:latitude":31.1425,
+    "geom:longitude":-81.382099,
+    "iso:country":"US",
+    "sg:address":"421 Arnold Rd",
+    "sg:city":"St Simons Island",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 638 0035",
+    "sg:postcode":"31522",
+    "sg:province":"GA",
+    "sg:tags":[
+        "agency",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937357,
+        102081695,
+        85845019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zYRLLmV3t1wsUKdziHaZJ_31.142500_-81.382099@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461898734,
+    "wof:geomhash":"609386bd95695a89a7125bb7f7741c6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937357,
+            "neighbourhood_id":85845019,
+            "region_id":85688535,
+            "venue_id":723283091
+        }
+    ],
+    "wof:id":723283091,
+    "wof:lastmodified":1461898734,
+    "wof:name":"Rental House",
+    "wof:parent_id":85845019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "rental"
+    ]
+},
+  "bbox": [
+    -81.382099,
+    31.1425,
+    -81.382099,
+    31.1425
+],
+  "geometry": {"coordinates":[-81.382099,31.1425],"type":"Point"}
+}

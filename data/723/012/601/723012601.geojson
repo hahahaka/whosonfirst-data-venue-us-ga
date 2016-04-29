@@ -1,0 +1,71 @@
+{
+  "id": 723012601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.978909,30.838264,-83.978909,30.838264",
+    "geom:latitude":30.838264,
+    "geom:longitude":-83.978909,
+    "iso:country":"US",
+    "sg:address":"110 S Crawford St",
+    "sg:city":"Thomasville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 225 3407",
+    "sg:postcode":"31792",
+    "sg:province":"GA",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85833309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11sSFntyapTqD29qxcHERa_30.838264_-83.978909@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461893193,
+    "wof:geomhash":"b381f55f160d2631da9139f3d32aead9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85833309,
+            "region_id":85688535,
+            "venue_id":723012601
+        }
+    ],
+    "wof:id":723012601,
+    "wof:lastmodified":1461893193,
+    "wof:name":"Thomas County Sheriff's Dept",
+    "wof:parent_id":85833309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -83.978909,
+    30.838264,
+    -83.978909,
+    30.838264
+],
+  "geometry": {"coordinates":[-83.978909,30.838264],"type":"Point"}
+}

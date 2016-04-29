@@ -1,0 +1,71 @@
+{
+  "id": 739496143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.495632,33.333239,-84.495632,33.333239",
+    "geom:latitude":33.333239,
+    "geom:longitude":-84.495632,
+    "iso:country":"US",
+    "sg:address":"115 Blanche Dr",
+    "sg:city":"Brooks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 719 7972",
+    "sg:postcode":"30205",
+    "sg:province":"GA",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936021,
+        102081687,
+        85890039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30qyYK0HdiCol34psLOXq4_33.333239_-84.495632@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461908362,
+    "wof:geomhash":"749b09407a385c7a448b238df9551c26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081687,
+            "locality_id":85936021,
+            "neighbourhood_id":85890039,
+            "region_id":85688535,
+            "venue_id":739496143
+        }
+    ],
+    "wof:id":739496143,
+    "wof:lastmodified":1461908362,
+    "wof:name":"Marlowes Car Wash Inc",
+    "wof:parent_id":85890039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -84.495632,
+    33.333239,
+    -84.495632,
+    33.333239
+],
+  "geometry": {"coordinates":[-84.495632,33.333239],"type":"Point"}
+}

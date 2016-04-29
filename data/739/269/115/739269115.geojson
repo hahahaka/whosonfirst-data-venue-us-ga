@@ -1,0 +1,73 @@
+{
+  "id": 739269115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.940198,30.853447,-83.940198,30.853447",
+    "geom:latitude":30.853447,
+    "geom:longitude":-83.940198,
+    "iso:country":"US",
+    "sg:address":"371 Commercial Dr",
+    "sg:city":"Thomasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 226 1123",
+    "sg:postcode":"31792",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85833309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ac1NpTViD8puGIC4s1eSb_30.853447_-83.940198@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461903892,
+    "wof:geomhash":"3675a8474dff524ccba0a1d8b2d01940",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85833309,
+            "region_id":85688535,
+            "venue_id":739269115
+        }
+    ],
+    "wof:id":739269115,
+    "wof:lastmodified":1461903892,
+    "wof:name":"Jon Mc Gee Auto Svc",
+    "wof:parent_id":85833309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.940198,
+    30.853447,
+    -83.940198,
+    30.853447
+],
+  "geometry": {"coordinates":[-83.940198,30.853447],"type":"Point"}
+}

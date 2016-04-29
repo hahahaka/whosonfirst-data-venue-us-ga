@@ -1,0 +1,86 @@
+{
+  "id": 739882511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.7752,33.9132,-84.7752,33.9132",
+    "geom:latitude":33.9132,
+    "geom:longitude":-84.7752,
+    "iso:country":"US",
+    "sg:address":"835 Marietta Hwy # A",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 443 0107",
+    "sg:postcode":"30157",
+    "sg:province":"GA",
+    "sg:tags":[
+        "equipment",
+        "truck",
+        "automobile"
+    ],
+    "sg:website":"www.dallaslinex.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936335,
+        102084665,
+        85835843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2g1CYVDH1P969A2QFyQ6xx_33.913200_-84.775200@1303262597"
+    },
+    "wof:country":"US",
+    "wof:created":1461919149,
+    "wof:geomhash":"862da370bee730f4f46de7317d7ad45a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "locality_id":85936335,
+            "neighbourhood_id":85835843,
+            "region_id":85688535,
+            "venue_id":739882511
+        }
+    ],
+    "wof:id":739882511,
+    "wof:lastmodified":1461919149,
+    "wof:name":"Line-X of Dallas",
+    "wof:parent_id":85835843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "truck",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.7752,
+    33.9132,
+    -84.7752,
+    33.9132
+],
+  "geometry": {"coordinates":[-84.7752,33.9132],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 739795277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.271147,33.72885,-84.271147,33.72885",
+    "geom:latitude":33.72885,
+    "geom:longitude":-84.271147,
+    "iso:country":"US",
+    "sg:address":"2087 Nichols Ln",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 284 7174",
+    "sg:postcode":"30032",
+    "sg:province":"GA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85816491,
+        102084539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AZi9hmXMiiWJcUi9OiKmo_33.728850_-84.271147@1303262574"
+    },
+    "wof:country":"US",
+    "wof:created":1461915576,
+    "wof:geomhash":"888f58c3351d3de6b34fe2e9266fd95d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739795277
+        }
+    ],
+    "wof:id":739795277,
+    "wof:lastmodified":1461915576,
+    "wof:name":"Jb Trucking",
+    "wof:parent_id":85816491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.271147,
+    33.72885,
+    -84.271147,
+    33.72885
+],
+  "geometry": {"coordinates":[-84.271147,33.72885],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 739720615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.317948,30.844538,-83.317948,30.844538",
+    "geom:latitude":30.844538,
+    "geom:longitude":-83.317948,
+    "iso:country":"US",
+    "sg:address":"1835 Norman Dr",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 219 0202",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85852681,
+        102083585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UZ1cFlTAYeb2OTVsAhUu6_30.844538_-83.317948@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461913007,
+    "wof:geomhash":"d200ee662e301eccec0c73700f134701",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "neighbourhood_id":85852681,
+            "region_id":85688535,
+            "venue_id":739720615
+        }
+    ],
+    "wof:id":739720615,
+    "wof:lastmodified":1461913007,
+    "wof:name":"Suwanee Medical Personnel",
+    "wof:parent_id":85852681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -83.317948,
+    30.844538,
+    -83.317948,
+    30.844538
+],
+  "geometry": {"coordinates":[-83.317948,30.844538],"type":"Point"}
+}

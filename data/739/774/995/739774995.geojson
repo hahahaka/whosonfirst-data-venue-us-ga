@@ -1,0 +1,76 @@
+{
+  "id": 739774995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.56853,30.891708,-84.56853,30.891708",
+    "geom:latitude":30.891708,
+    "geom:longitude":-84.56853,
+    "iso:country":"US",
+    "sg:address":"500 E Alice St",
+    "sg:city":"Bainbridge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/bainbridge/132274-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 243 9511",
+    "sg:postcode":"39819",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688651,
+        102191575,
+        85633793,
+        85933451,
+        102084747,
+        420517717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3b8HHL2zjeubv564pZda53_30.891708_-84.568530@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914746,
+    "wof:geomhash":"d0214cfa0c1f2d091844cd93fbce2558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084747,
+            "locality_id":85933451,
+            "neighbourhood_id":420517717,
+            "region_id":85688651,
+            "venue_id":739774995
+        }
+    ],
+    "wof:id":739774995,
+    "wof:lastmodified":1461914746,
+    "wof:name":"Subway",
+    "wof:parent_id":420517717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.56853,
+    30.891708,
+    -84.56853,
+    30.891708
+],
+  "geometry": {"coordinates":[-84.56853,30.891708],"type":"Point"}
+}

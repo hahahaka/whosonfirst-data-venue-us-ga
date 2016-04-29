@@ -1,0 +1,71 @@
+{
+  "id": 739892549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.040536,33.12922,-85.040536,33.12922",
+    "geom:latitude":33.12922,
+    "geom:longitude":-85.040536,
+    "iso:country":"US",
+    "sg:address":"18 Hillcrest Rd",
+    "sg:city":"Hogansville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 845 8333",
+    "sg:postcode":"30230",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iRh7AeFx0CL4JNbPXMTd8_33.129220_-85.040536@1303262599"
+    },
+    "wof:country":"US",
+    "wof:created":1461919521,
+    "wof:geomhash":"35bee6296cbc64389ca6513969569867",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739892549
+        }
+    ],
+    "wof:id":739892549,
+    "wof:lastmodified":1461919521,
+    "wof:name":"County Of Troup",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.040536,
+    33.12922,
+    -85.040536,
+    33.12922
+],
+  "geometry": {"coordinates":[-85.040536,33.12922],"type":"Point"}
+}

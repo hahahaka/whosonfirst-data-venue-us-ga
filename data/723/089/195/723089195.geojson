@@ -1,0 +1,84 @@
+{
+  "id": 723089195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.272141,33.906623,-84.272141,33.906623",
+    "geom:latitude":33.906623,
+    "geom:longitude":-84.272141,
+    "iso:country":"US",
+    "sg:address":"3763 Longmire Way",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 936 0237",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "sg:tags":[
+        "equipment",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HsgLIrgdWJJJJzuNNKKYR_33.906623_-84.272141@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461894903,
+    "wof:geomhash":"2e4f0a4e55c86eedb5cd466fe192edce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":723089195
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":723089195
+        }
+    ],
+    "wof:id":723089195,
+    "wof:lastmodified":1461894903,
+    "wof:name":"Neff Rental Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -84.272141,
+    33.906623,
+    -84.272141,
+    33.906623
+],
+  "geometry": {"coordinates":[-84.272141,33.906623],"type":"Point"}
+}

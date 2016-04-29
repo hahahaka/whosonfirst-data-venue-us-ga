@@ -1,0 +1,73 @@
+{
+  "id": 739519053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.520007,33.893509,-84.520007,33.893509",
+    "geom:latitude":33.893509,
+    "geom:longitude":-84.520007,
+    "iso:country":"US",
+    "sg:address":"2478 Atlanta Rd SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 801 8747",
+    "sg:postcode":"30080",
+    "sg:province":"GA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85845875,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2U4reUnwbVZFu2B79X60Bk_33.893509_-84.520007@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461908772,
+    "wof:geomhash":"f31ccc9bd313b1eaa992ca746fc5ccb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":739519053
+        }
+    ],
+    "wof:id":739519053,
+    "wof:lastmodified":1461908772,
+    "wof:name":"Coastal Dlvry Installation Svc",
+    "wof:parent_id":85845875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.520007,
+    33.893509,
+    -84.520007,
+    33.893509
+],
+  "geometry": {"coordinates":[-84.52000700000001,33.893509],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 740000711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.284807,33.89567,-84.284807,33.89567",
+    "geom:latitude":33.89567,
+    "geom:longitude":-84.284807,
+    "iso:country":"US",
+    "sg:address":"3248 Shallowford Rd NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 502 7062",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85936435,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W5hNgzoNUqfndTjtp9Oke_33.895670_-84.284807@1303262627"
+    },
+    "wof:country":"US",
+    "wof:created":1461923955,
+    "wof:geomhash":"01a406a6406d0702f05460be2f133e75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":740000711
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":740000711
+        }
+    ],
+    "wof:id":740000711,
+    "wof:lastmodified":1461923955,
+    "wof:name":"Pars Auto Trading",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -84.284807,
+    33.89567,
+    -84.284807,
+    33.89567
+],
+  "geometry": {"coordinates":[-84.284807,33.89567],"type":"Point"}
+}

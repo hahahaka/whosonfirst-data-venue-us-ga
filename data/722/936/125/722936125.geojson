@@ -1,0 +1,85 @@
+{
+  "id": 722936125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.331631,33.94782,-84.331631,33.94782",
+    "geom:latitude":33.94782,
+    "geom:longitude":-84.331631,
+    "iso:country":"US",
+    "sg:address":"1260 Dunwoody Village Pkwy",
+    "sg:city":"Dunwoody",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 257 0102",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85815577,
+        420560157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XmiKHLtPLmrYDVCueTrfS_33.947820_-84.331631@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461891551,
+    "wof:geomhash":"f1b473234f8dfa479535b742a1708090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85815577,
+            "region_id":85688535,
+            "venue_id":722936125
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":420560157,
+            "region_id":85688535,
+            "venue_id":722936125
+        }
+    ],
+    "wof:id":722936125,
+    "wof:lastmodified":1461891551,
+    "wof:name":"Europe Car Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.331631,
+    33.94782,
+    -84.331631,
+    33.94782
+],
+  "geometry": {"coordinates":[-84.331631,33.94782],"type":"Point"}
+}

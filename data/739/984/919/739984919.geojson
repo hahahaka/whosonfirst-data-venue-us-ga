@@ -1,0 +1,86 @@
+{
+  "id": 739984919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.54316,33.753461,-84.54316,33.753461",
+    "geom:latitude":33.753461,
+    "geom:longitude":-84.54316,
+    "iso:country":"US",
+    "sg:address":"75 Mendel Dr SW Ste B",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 925 1976",
+    "sg:postcode":"30336",
+    "sg:province":"GA",
+    "sg:tags":[
+        "trucking",
+        "truck",
+        "trucking-motor",
+        "broker"
+    ],
+    "sg:website":"http://www.truckingrus.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85872053,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R7WiYrHxw1NQANLwvOX6I_33.753461_-84.543160@1303262623"
+    },
+    "wof:country":"US",
+    "wof:created":1461923343,
+    "wof:geomhash":"d2ce55b19adc195145dd82d084c35fa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85872053,
+            "region_id":85688535,
+            "venue_id":739984919
+        }
+    ],
+    "wof:id":739984919,
+    "wof:lastmodified":1461923343,
+    "wof:name":"TY T Truck Brokers",
+    "wof:parent_id":85872053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking",
+        "truck",
+        "trucking-motor",
+        "broker"
+    ]
+},
+  "bbox": [
+    -84.54316,
+    33.753461,
+    -84.54316,
+    33.753461
+],
+  "geometry": {"coordinates":[-84.54316,33.753461],"type":"Point"}
+}

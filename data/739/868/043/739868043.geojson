@@ -1,0 +1,80 @@
+{
+  "id": 739868043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.499582,34.176109,-84.499582,34.176109",
+    "geom:latitude":34.176109,
+    "geom:longitude":-84.499582,
+    "iso:country":"US",
+    "sg:address":"101 P Rickman Industrial Dr",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 345 2644",
+    "sg:postcode":"30115",
+    "sg:province":"GA",
+    "sg:tags":[
+        "machine",
+        "machinery-rebuild"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936717,
+        102084635,
+        85825975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38gytAwqc9oTlu0ZHdRcHI_34.176109_-84.499582@1303262593"
+    },
+    "wof:country":"US",
+    "wof:created":1461918604,
+    "wof:geomhash":"a25164cc1df25422b3a7874829efdc50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084635,
+            "locality_id":85936717,
+            "neighbourhood_id":85825975,
+            "region_id":85688535,
+            "venue_id":739868043
+        }
+    ],
+    "wof:id":739868043,
+    "wof:lastmodified":1461918604,
+    "wof:name":"Little River Machine Inc",
+    "wof:parent_id":85825975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "machinery-rebuild"
+    ]
+},
+  "bbox": [
+    -84.499582,
+    34.176109,
+    -84.499582,
+    34.176109
+],
+  "geometry": {"coordinates":[-84.499582,34.176109],"type":"Point"}
+}

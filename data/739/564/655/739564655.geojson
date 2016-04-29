@@ -1,0 +1,71 @@
+{
+  "id": 739564655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.985663,34.782583,-84.985663,34.782583",
+    "geom:latitude":34.782583,
+    "geom:longitude":-84.985663,
+    "iso:country":"US",
+    "sg:address":"1209 Starr Dr",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 226 6331",
+    "sg:postcode":"30720",
+    "sg:province":"GA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01kGKHGwiG4OJxjrjeeg8J_34.782583_-84.985663@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461909658,
+    "wof:geomhash":"f48d16c6f47c24638b9f16e7903225ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":739564655
+        }
+    ],
+    "wof:id":739564655,
+    "wof:lastmodified":1461909658,
+    "wof:name":"Henrey J Turner DDS",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -84.985663,
+    34.782583,
+    -84.985663,
+    34.782583
+],
+  "geometry": {"coordinates":[-84.985663,34.782583],"type":"Point"}
+}

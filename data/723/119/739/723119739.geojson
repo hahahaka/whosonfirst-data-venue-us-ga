@@ -1,0 +1,82 @@
+{
+  "id": 723119739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.210159,31.608961,-84.210159,31.608961",
+    "geom:latitude":31.608961,
+    "geom:longitude":-84.210159,
+    "iso:country":"US",
+    "sg:address":"2420 Dawson Rd",
+    "sg:city":"Albany",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 432 6020",
+    "sg:postcode":"31707",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automobile",
+        "lubrication",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85935991,
+        102084427,
+        420517795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xoOhZ4yqvjJSBpGK1vqux_31.608961_-84.210159@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461895514,
+    "wof:geomhash":"a13100d8c28ed0dbc81d5ccf2688e2cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":420517795,
+            "region_id":85688535,
+            "venue_id":723119739
+        }
+    ],
+    "wof:id":723119739,
+    "wof:lastmodified":1461895514,
+    "wof:name":"Super Lube 1",
+    "wof:parent_id":420517795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -84.210159,
+    31.608961,
+    -84.210159,
+    31.608961
+],
+  "geometry": {"coordinates":[-84.210159,31.608961],"type":"Point"}
+}

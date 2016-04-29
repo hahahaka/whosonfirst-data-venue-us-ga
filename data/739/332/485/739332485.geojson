@@ -1,0 +1,71 @@
+{
+  "id": 739332485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.200779,30.802261,-83.200779,30.802261",
+    "geom:latitude":30.802261,
+    "geom:longitude":-83.200779,
+    "iso:country":"US",
+    "sg:address":"2209 New Statenville Hwy",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 244 3888",
+    "sg:postcode":"31606",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03QxUN9lhvc4bSl2oNYbXy_30.802261_-83.200779@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461905225,
+    "wof:geomhash":"5c78b926978c1fc0dd17376ea9855338",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843077,
+            "region_id":85688535,
+            "venue_id":739332485
+        }
+    ],
+    "wof:id":739332485,
+    "wof:lastmodified":1461905225,
+    "wof:name":"Lowndes County Fire Dept",
+    "wof:parent_id":85843077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -83.200779,
+    30.802261,
+    -83.200779,
+    30.802261
+],
+  "geometry": {"coordinates":[-83.200779,30.802261],"type":"Point"}
+}

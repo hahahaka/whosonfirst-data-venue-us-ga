@@ -1,0 +1,79 @@
+{
+  "id": 739692887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.141075,30.79551,-83.141075,30.79551",
+    "geom:latitude":30.79551,
+    "geom:longitude":-83.141075,
+    "iso:country":"US",
+    "sg:address":"6470 Lake Park Rd",
+    "sg:city":"Lake Park",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 559 5171",
+    "sg:postcode":"31636",
+    "sg:province":"GA",
+    "sg:tags":[
+        "terminal",
+        "operator",
+        "facility",
+        "truck",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1K0tmoP9shq6piqRkczfOf_30.795510_-83.141075@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461912398,
+    "wof:geomhash":"61e8b90ee1fba746ccede832e90f70d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843077,
+            "region_id":85688535,
+            "venue_id":739692887
+        }
+    ],
+    "wof:id":739692887,
+    "wof:lastmodified":1461912398,
+    "wof:name":"Roadway Express",
+    "wof:parent_id":85843077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "terminal",
+        "operator",
+        "facility",
+        "truck",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.141075,
+    30.79551,
+    -83.141075,
+    30.79551
+],
+  "geometry": {"coordinates":[-83.141075,30.79551],"type":"Point"}
+}

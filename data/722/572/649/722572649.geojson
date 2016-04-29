@@ -1,0 +1,71 @@
+{
+  "id": 722572649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.156101,31.5724,-84.156101,31.5724",
+    "geom:latitude":31.5724,
+    "geom:longitude":-84.156101,
+    "iso:country":"US",
+    "sg:address":"309 S Jefferson St",
+    "sg:city":"Albany",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 435 1876",
+    "sg:postcode":"31701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935991,
+        102084427,
+        85822061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YZ4tPs8Y5GtCW04SW15KK_31.572400_-84.156101@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461884455,
+    "wof:geomhash":"43b1e74403aa1dd0f2568906ab230345",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":85822061,
+            "region_id":85688535,
+            "venue_id":722572649
+        }
+    ],
+    "wof:id":722572649,
+    "wof:lastmodified":1461884455,
+    "wof:name":"Witchards Auto Repair",
+    "wof:parent_id":85822061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -84.156101,
+    31.5724,
+    -84.156101,
+    31.5724
+],
+  "geometry": {"coordinates":[-84.15610100000001,31.5724],"type":"Point"}
+}

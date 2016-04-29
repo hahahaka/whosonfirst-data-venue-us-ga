@@ -1,0 +1,75 @@
+{
+  "id": 739999615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.304543,33.87674,-84.304543,33.87674",
+    "geom:latitude":33.87674,
+    "geom:longitude":-84.304543,
+    "iso:country":"US",
+    "sg:address":"2000 Airport Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 455 4203",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "school",
+        "airlines-training"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102525899,
+        85688535,
+        85633793,
+        85937255,
+        102084539,
+        85807835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6b4EdRp88Sffhwyz6F3X5D_33.876740_-84.304543@1303262627"
+    },
+    "wof:country":"US",
+    "wof:created":1461923914,
+    "wof:geomhash":"00f38552f7cab0e8896df7b46b8f29d8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525899,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937255,
+            "neighbourhood_id":85807835,
+            "region_id":85688535,
+            "venue_id":739999615
+        }
+    ],
+    "wof:id":739999615,
+    "wof:lastmodified":1461923914,
+    "wof:name":"American Air Flight Training",
+    "wof:parent_id":102525899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "airlines-training"
+    ]
+},
+  "bbox": [
+    -84.304543,
+    33.87674,
+    -84.304543,
+    33.87674
+],
+  "geometry": {"coordinates":[-84.304543,33.87674],"type":"Point"}
+}

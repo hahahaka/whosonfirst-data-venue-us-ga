@@ -1,0 +1,84 @@
+{
+  "id": 739970869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.352687,33.941651,-84.352687,33.941651",
+    "geom:latitude":33.941651,
+    "geom:longitude":-84.352687,
+    "iso:country":"US",
+    "sg:address":"3344 Peachtree Rd Ste 300",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 503 9999",
+    "sg:postcode":"30326",
+    "sg:province":"GA",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "sg:website":"www.fresh2order.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937165,
+        102083603,
+        85889991,
+        85889999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mvvo0CaCnvcPo1UETShhK_33.941651_-84.352687@1303262619"
+    },
+    "wof:country":"US",
+    "wof:created":1461922782,
+    "wof:geomhash":"0534d68df33e05487447f5aa797322dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937165,
+            "neighbourhood_id":85889991,
+            "region_id":85688535,
+            "venue_id":739970869
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937165,
+            "neighbourhood_id":85889999,
+            "region_id":85688535,
+            "venue_id":739970869
+        }
+    ],
+    "wof:id":739970869,
+    "wof:lastmodified":1461922782,
+    "wof:name":"f2o Fresh To Order",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.352687,
+    33.941651,
+    -84.352687,
+    33.941651
+],
+  "geometry": {"coordinates":[-84.352687,33.941651],"type":"Point"}
+}

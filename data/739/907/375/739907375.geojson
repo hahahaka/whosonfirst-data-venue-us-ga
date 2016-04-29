@@ -1,0 +1,90 @@
+{
+  "id": 739907375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.293129,32.913448,-84.293129,32.913448",
+    "geom:latitude":32.913448,
+    "geom:longitude":-84.293129,
+    "iso:country":"US",
+    "sg:address":"2000 Barnesville Hwy",
+    "sg:city":"Thomaston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 646 2001",
+    "sg:postcode":"30286",
+    "sg:province":"GA",
+    "sg:tags":[
+        "manufacturer",
+        "products-wholesale",
+        "oils-petroleum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936343,
+        102084425,
+        85816847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2it2sMTmelJdphCaePB9Zp_32.913448_-84.293129@1303262603"
+    },
+    "wof:country":"US",
+    "wof:created":1461920099,
+    "wof:geomhash":"716177ae7cd5244ff8e767dbf2cd058e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084425,
+            "locality_id":85936343,
+            "neighbourhood_id":85816847,
+            "region_id":85688535,
+            "venue_id":739907375
+        }
+    ],
+    "wof:id":739907375,
+    "wof:lastmodified":1461920099,
+    "wof:name":"Highway 36 Chevron",
+    "wof:parent_id":85816847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer",
+        "products-wholesale",
+        "oils-petroleum"
+    ]
+},
+  "bbox": [
+    -84.293129,
+    32.913448,
+    -84.293129,
+    32.913448
+],
+  "geometry": {"coordinates":[-84.29312899999999,32.913448],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 739843923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.535142,33.884467,-84.535142,33.884467",
+    "geom:latitude":33.884467,
+    "geom:longitude":-84.535142,
+    "iso:country":"US",
+    "sg:address":"2810 Cobb Ln SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 436 5712",
+    "sg:postcode":"30082",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "chiropractic"
+    ],
+    "sg:website":"http://www.kostaschiropractic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2G1r6DTiRLaPmUmd1bWgf5_33.884467_-84.535142@1303262586"
+    },
+    "wof:country":"US",
+    "wof:created":1461917655,
+    "wof:geomhash":"b2146e339941aecd44545db6e44b26ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":739843923
+        }
+    ],
+    "wof:id":739843923,
+    "wof:lastmodified":1461917655,
+    "wof:name":"Kostas Chiropractic Clinic",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "chiropractic"
+    ]
+},
+  "bbox": [
+    -84.535142,
+    33.884467,
+    -84.535142,
+    33.884467
+],
+  "geometry": {"coordinates":[-84.53514199999999,33.884467],"type":"Point"}
+}

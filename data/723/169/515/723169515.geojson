@@ -1,0 +1,71 @@
+{
+  "id": 723169515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.473598,33.963968,-84.473598,33.963968",
+    "geom:latitude":33.963968,
+    "geom:longitude":-84.473598,
+    "iso:country":"US",
+    "sg:address":"2681 Arrow Wood Dr",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 977 5041",
+    "sg:postcode":"30068",
+    "sg:province":"GA",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936135,
+        102082313,
+        85857049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VdiIl8bRuCZGx5imwGEDD_33.963968_-84.473598@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896468,
+    "wof:geomhash":"655399561cd47c1187e644023396e31e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936135,
+            "neighbourhood_id":85857049,
+            "region_id":85688535,
+            "venue_id":723169515
+        }
+    ],
+    "wof:id":723169515,
+    "wof:lastmodified":1461896468,
+    "wof:name":"Atlanta Maintenance Support",
+    "wof:parent_id":85857049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -84.473598,
+    33.963968,
+    -84.473598,
+    33.963968
+],
+  "geometry": {"coordinates":[-84.473598,33.963968],"type":"Point"}
+}

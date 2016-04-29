@@ -1,0 +1,89 @@
+{
+  "id": 739920171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.396217,33.751656,-84.396217,33.751656",
+    "geom:latitude":33.751656,
+    "geom:longitude":-84.396217,
+    "iso:country":"US",
+    "sg:address":"107 Spring St SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Parking",
+            "subcategory":"Garage",
+            "type":"Transportation"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 875 1282",
+    "sg:postcode":"30303",
+    "sg:province":"GA",
+    "sg:tags":[
+        "marking",
+        "attendant",
+        "lot",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MaI7JADsQJKZs7Yvano9z_33.751656_-84.396217@1303262606"
+    },
+    "wof:country":"US",
+    "wof:created":1461920593,
+    "wof:geomhash":"220d277420285227959c01b68529b74f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872071,
+            "region_id":85688535,
+            "venue_id":739920171
+        }
+    ],
+    "wof:id":739920171,
+    "wof:lastmodified":1461920593,
+    "wof:name":"Jar Parking Services Inc",
+    "wof:parent_id":85872071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "attendant",
+        "lot",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -84.396217,
+    33.751656,
+    -84.396217,
+    33.751656
+],
+  "geometry": {"coordinates":[-84.39621699999999,33.751656],"type":"Point"}
+}

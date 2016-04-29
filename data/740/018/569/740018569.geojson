@@ -1,0 +1,82 @@
+{
+  "id": 740018569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.288379,33.942708,-84.288379,33.942708",
+    "geom:latitude":33.942708,
+    "geom:longitude":-84.288379,
+    "iso:country":"US",
+    "sg:address":"4959 Firth Ln",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 457 2972",
+    "sg:postcode":"30360",
+    "sg:province":"GA",
+    "sg:tags":[
+        "books-wholesale",
+        "store",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85854693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_040vOZZOQVOJq28WJEyWpn_33.942708_-84.288379@1303262632"
+    },
+    "wof:country":"US",
+    "wof:created":1461924645,
+    "wof:geomhash":"f6e70167dad6f31c5c36670d803ea2af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85854693,
+            "region_id":85688535,
+            "venue_id":740018569
+        }
+    ],
+    "wof:id":740018569,
+    "wof:lastmodified":1461924645,
+    "wof:name":"Alpha Books",
+    "wof:parent_id":85854693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "books-wholesale",
+        "store",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -84.288379,
+    33.942708,
+    -84.288379,
+    33.942708
+],
+  "geometry": {"coordinates":[-84.28837900000001,33.942708],"type":"Point"}
+}

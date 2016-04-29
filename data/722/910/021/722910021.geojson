@@ -1,0 +1,73 @@
+{
+  "id": 722910021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.080417,31.977553,-81.080417,31.977553",
+    "geom:latitude":31.977553,
+    "geom:longitude":-81.080417,
+    "iso:country":"US",
+    "sg:address":"108 Winterberry Dr",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 354 7398",
+    "sg:postcode":"31406",
+    "sg:province":"GA",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85832945,
+        102082337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qBympkMKJhDrFlR2b8Auc_31.977553_-81.080417@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461890988,
+    "wof:geomhash":"39b36fff0ff4a3b4de9d23802807512e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "neighbourhood_id":85832945,
+            "region_id":85688535,
+            "venue_id":722910021
+        }
+    ],
+    "wof:id":722910021,
+    "wof:lastmodified":1461890988,
+    "wof:name":"Noah's Ark Pet Svc",
+    "wof:parent_id":85832945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -81.080417,
+    31.977553,
+    -81.080417,
+    31.977553
+],
+  "geometry": {"coordinates":[-81.080417,31.977553],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 723001853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.920931,32.491072,-84.920931,32.491072",
+    "geom:latitude":32.491072,
+    "geom:longitude":-84.920931,
+    "iso:country":"US",
+    "sg:address":"4191 Macon Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 561 3753",
+    "sg:postcode":"31907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85856927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YrYFfvWZPYLglrp9mrXPl_32.491072_-84.920931@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461892948,
+    "wof:geomhash":"6d322b28b783bf9422ed3f431f1d74f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85856927,
+            "region_id":85688535,
+            "venue_id":723001853
+        }
+    ],
+    "wof:id":723001853,
+    "wof:lastmodified":1461892948,
+    "wof:name":"Macon Road Garage",
+    "wof:parent_id":85856927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -84.920931,
+    32.491072,
+    -84.920931,
+    32.491072
+],
+  "geometry": {"coordinates":[-84.920931,32.491072],"type":"Point"}
+}

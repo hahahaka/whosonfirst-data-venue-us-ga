@@ -1,0 +1,76 @@
+{
+  "id": 739872545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.699699,33.941898,-84.699699,33.941898",
+    "geom:latitude":33.941898,
+    "geom:longitude":-84.699699,
+    "iso:country":"US",
+    "sg:address":"5100 Dallas Hwy",
+    "sg:city":"Powder Springs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 419 6006",
+    "sg:postcode":"30127",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936129,
+        102082313,
+        85829479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3juKvGjKU3aOvPVyPMTx1B_33.941898_-84.699699@1303262594"
+    },
+    "wof:country":"US",
+    "wof:created":1461918780,
+    "wof:geomhash":"3e64890974d1a967d5895ca4e9277ec0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936129,
+            "neighbourhood_id":85829479,
+            "region_id":85688535,
+            "venue_id":739872545
+        }
+    ],
+    "wof:id":739872545,
+    "wof:lastmodified":1461918780,
+    "wof:name":"Publix Pharmacy",
+    "wof:parent_id":85829479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -84.699699,
+    33.941898,
+    -84.699699,
+    33.941898
+],
+  "geometry": {"coordinates":[-84.699699,33.941898],"type":"Point"}
+}

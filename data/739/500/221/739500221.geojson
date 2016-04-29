@@ -1,0 +1,69 @@
+{
+  "id": 739500221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.70048,34.04991,-84.70048,34.04991",
+    "geom:latitude":34.04991,
+    "geom:longitude":-84.70048,
+    "iso:country":"US",
+    "sg:address":"3671 Cobb Pkwy",
+    "sg:city":"Acworth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 974 3536",
+    "sg:postcode":"30101",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818265,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gLgBdjAjGFssHFrcgcKDE_34.049910_-84.700480@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461908434,
+    "wof:geomhash":"971dc2e47a6fa6a2ba9415c67bf9333a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85818265,
+            "region_id":85688535,
+            "venue_id":739500221
+        }
+    ],
+    "wof:id":739500221,
+    "wof:lastmodified":1461908434,
+    "wof:name":"Lake City Animal Hospital",
+    "wof:parent_id":85818265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.70048,
+    34.04991,
+    -84.70048,
+    34.04991
+],
+  "geometry": {"coordinates":[-84.70048,34.04991],"type":"Point"}
+}

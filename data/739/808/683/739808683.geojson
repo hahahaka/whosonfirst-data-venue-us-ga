@@ -1,0 +1,79 @@
+{
+  "id": 739808683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.982115,33.9404,-83.982115,33.9404",
+    "geom:latitude":33.9404,
+    "geom:longitude":-83.982115,
+    "iso:country":"US",
+    "sg:address":"420 Grayson Hwy Ste 100",
+    "sg:city":"Lawrenceville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 682 2166",
+    "sg:postcode":"30045",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.publix.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936297,
+        102082967,
+        85847023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jOiTvzQyv9nQ7G5HUaK5g_33.940400_-83.982115@1303262577"
+    },
+    "wof:country":"US",
+    "wof:created":1461916231,
+    "wof:geomhash":"b6d329f86789b921b5a0e27a78811fa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936297,
+            "neighbourhood_id":85847023,
+            "region_id":85688535,
+            "venue_id":739808683
+        }
+    ],
+    "wof:id":739808683,
+    "wof:lastmodified":1461916231,
+    "wof:name":"Publix Pharmacy",
+    "wof:parent_id":85847023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -83.982115,
+    33.9404,
+    -83.982115,
+    33.9404
+],
+  "geometry": {"coordinates":[-83.98211499999999,33.9404],"type":"Point"}
+}

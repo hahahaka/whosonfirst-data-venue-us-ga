@@ -1,0 +1,85 @@
+{
+  "id": 740021077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.765457,32.448681,-81.765457,32.448681",
+    "geom:latitude":32.448681,
+    "geom:longitude":-81.765457,
+    "iso:country":"US",
+    "sg:address":"102 Gary St",
+    "sg:city":"Statesboro",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 764 8072",
+    "sg:postcode":"30458",
+    "sg:province":"GA",
+    "sg:tags":[
+        "herb",
+        "product",
+        "health",
+        "diet",
+        "spice"
+    ],
+    "sg:website":"http://www.herbalife.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935999,
+        102084405,
+        85823149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JGT8GnmsDfJ3AqMBbH2Yd_32.448681_-81.765457@1303262632"
+    },
+    "wof:country":"US",
+    "wof:created":1461924744,
+    "wof:geomhash":"e8648e7491beddeb3c648d4d506147ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85823149,
+            "region_id":85688535,
+            "venue_id":740021077
+        }
+    ],
+    "wof:id":740021077,
+    "wof:lastmodified":1461924744,
+    "wof:name":"Herbalife",
+    "wof:parent_id":85823149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "herb",
+        "product",
+        "health",
+        "diet",
+        "spice"
+    ]
+},
+  "bbox": [
+    -81.765457,
+    32.448681,
+    -81.765457,
+    32.448681
+],
+  "geometry": {"coordinates":[-81.765457,32.448681],"type":"Point"}
+}

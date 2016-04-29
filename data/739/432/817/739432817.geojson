@@ -1,0 +1,75 @@
+{
+  "id": 739432817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.960795,32.469201,-84.960795,32.469201",
+    "geom:latitude":32.469201,
+    "geom:longitude":-84.960795,
+    "iso:country":"US",
+    "sg:address":"1112 Brown Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 327 8910",
+    "sg:postcode":"31906",
+    "sg:province":"GA",
+    "sg:tags":[
+        "appliance",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85859231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hnZefJvHzUw4jRvGirjhx_32.469201_-84.960795@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907218,
+    "wof:geomhash":"60b6fd26414d286ffe637e6708543f2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85859231,
+            "region_id":85688535,
+            "venue_id":739432817
+        }
+    ],
+    "wof:id":739432817,
+    "wof:lastmodified":1461907218,
+    "wof:name":"Appliance Max",
+    "wof:parent_id":85859231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -84.960795,
+    32.469201,
+    -84.960795,
+    32.469201
+],
+  "geometry": {"coordinates":[-84.960795,32.469201],"type":"Point"}
+}

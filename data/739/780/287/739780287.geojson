@@ -1,0 +1,89 @@
+{
+  "id": 739780287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.598671,33.860314,-84.598671,33.860314",
+    "geom:latitude":33.860314,
+    "geom:longitude":-84.598671,
+    "iso:country":"US",
+    "sg:address":"3824 Austell Rd SW",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 739 9770",
+    "sg:postcode":"30008",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "radiology",
+        "laboratories-medical",
+        "dental",
+        "pediatrics-radiology",
+        "surgeons",
+        "x-ray"
+    ],
+    "sg:website":"http://www.ahicenters.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5e05uaRvxFzQpFKp7shK4P_33.860314_-84.598671@1303262570"
+    },
+    "wof:country":"US",
+    "wof:created":1461914957,
+    "wof:geomhash":"e6f459bbb795cd93a256beccbc469b32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":739780287
+        }
+    ],
+    "wof:id":739780287,
+    "wof:lastmodified":1461914957,
+    "wof:name":"West Cobb Health Imaging",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "radiology",
+        "laboratories-medical",
+        "dental",
+        "pediatrics-radiology",
+        "surgeons",
+        "x-ray"
+    ]
+},
+  "bbox": [
+    -84.598671,
+    33.860314,
+    -84.598671,
+    33.860314
+],
+  "geometry": {"coordinates":[-84.598671,33.860314],"type":"Point"}
+}

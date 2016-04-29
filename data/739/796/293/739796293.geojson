@@ -1,0 +1,86 @@
+{
+  "id": 739796293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.284382,33.733476,-84.284382,33.733476",
+    "geom:latitude":33.733476,
+    "geom:longitude":-84.284382,
+    "iso:country":"US",
+    "sg:address":"2000 Candler Rd",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 286 9989",
+    "sg:postcode":"30032",
+    "sg:province":"GA",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937245,
+        102084539,
+        85816501,
+        85816491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oXcAMSpP8QMIumdrZpaMC_33.733476_-84.284382@1303262574"
+    },
+    "wof:country":"US",
+    "wof:created":1461915619,
+    "wof:geomhash":"449bf5bc7e6dd33d8f8f5fe4c6573009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937245,
+            "neighbourhood_id":85816501,
+            "region_id":85688535,
+            "venue_id":739796293
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739796293
+        }
+    ],
+    "wof:id":739796293,
+    "wof:lastmodified":1461915619,
+    "wof:name":"American Deli",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.284382,
+    33.733476,
+    -84.284382,
+    33.733476
+],
+  "geometry": {"coordinates":[-84.28438199999999,33.733476],"type":"Point"}
+}

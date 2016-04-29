@@ -1,0 +1,73 @@
+{
+  "id": 739964269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.349635,33.905075,-84.349635,33.905075",
+    "geom:latitude":33.905075,
+    "geom:longitude":-84.349635,
+    "iso:country":"US",
+    "sg:address":"1401 S Johnson Ferry Rd NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 240 0006",
+    "sg:postcode":"30319",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937165,
+        102083603,
+        85890009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DyT6CYoHPOA3wLt1pi7qG_33.905075_-84.349635@1303262617"
+    },
+    "wof:country":"US",
+    "wof:created":1461922532,
+    "wof:geomhash":"188fe44a69c649e875d45fda760f61bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937165,
+            "neighbourhood_id":85890009,
+            "region_id":85688535,
+            "venue_id":739964269
+        }
+    ],
+    "wof:id":739964269,
+    "wof:lastmodified":1461922532,
+    "wof:name":"Target Stores",
+    "wof:parent_id":85890009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -84.349635,
+    33.905075,
+    -84.349635,
+    33.905075
+],
+  "geometry": {"coordinates":[-84.34963500000001,33.905075],"type":"Point"}
+}

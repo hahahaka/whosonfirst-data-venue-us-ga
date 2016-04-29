@@ -1,0 +1,78 @@
+{
+  "id": 739300171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.561749,33.749894,-84.561749,33.749894",
+    "geom:latitude":33.749894,
+    "geom:longitude":-84.561749,
+    "iso:country":"US",
+    "sg:address":"5350 Tulane Dr SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 696 1613",
+    "sg:postcode":"30336",
+    "sg:province":"GA",
+    "sg:tags":[
+        "equipment",
+        "mfg",
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85872053,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZaZSC6jB7NzzTUGVuYVnD_33.749894_-84.561749@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461904582,
+    "wof:geomhash":"fa46b43f3c16f272e86a5b09d398642d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85872053,
+            "region_id":85688535,
+            "venue_id":739300171
+        }
+    ],
+    "wof:id":739300171,
+    "wof:lastmodified":1461904582,
+    "wof:name":"GE Transportation Syst Global",
+    "wof:parent_id":85872053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "mfg",
+        "communications"
+    ]
+},
+  "bbox": [
+    -84.561749,
+    33.749894,
+    -84.561749,
+    33.749894
+],
+  "geometry": {"coordinates":[-84.56174900000001,33.749894],"type":"Point"}
+}

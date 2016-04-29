@@ -1,0 +1,87 @@
+{
+  "id": 739747735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.309907,33.715324,-84.309907,33.715324",
+    "geom:latitude":33.715324,
+    "geom:longitude":-84.309907,
+    "iso:country":"US",
+    "sg:address":"2265 Brannen Rd SE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 243 5376",
+    "sg:postcode":"30316",
+    "sg:province":"GA",
+    "sg:tags":[
+        "gas",
+        "convenience",
+        "eating",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937253,
+        102084539,
+        85866911,
+        85816491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26EEGGQR58U9jQtqlYvyMF_33.715333_-84.310588@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461913622,
+    "wof:geomhash":"1821bf491e2e7c4857118b087ef5f48f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937253,
+            "neighbourhood_id":85866911,
+            "region_id":85688535,
+            "venue_id":739747735
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739747735
+        }
+    ],
+    "wof:id":739747735,
+    "wof:lastmodified":1461913622,
+    "wof:name":"Walt's Grill",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gas",
+        "convenience",
+        "eating",
+        "store"
+    ]
+},
+  "bbox": [
+    -84.309907,
+    33.715324,
+    -84.309907,
+    33.715324
+],
+  "geometry": {"coordinates":[-84.309907,33.715324],"type":"Point"}
+}

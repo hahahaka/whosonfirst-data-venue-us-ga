@@ -1,0 +1,89 @@
+{
+  "id": 739862441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.760634,34.050388,-84.760634,34.050388",
+    "geom:latitude":34.050388,
+    "geom:longitude":-84.760634,
+    "iso:country":"US",
+    "sg:address":"85 Golf Crest Dr",
+    "sg:city":"Acworth",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 795 0101",
+    "sg:postcode":"30101",
+    "sg:province":"GA",
+    "sg:tags":[
+        "warehouses-public-commercial",
+        "household",
+        "recreational",
+        "commercial",
+        "campers-storage",
+        "vehicle",
+        "self",
+        "boat"
+    ],
+    "sg:website":"http://www.atticstorageonline.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85835699,
+        102084665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JtSpa6htACazvE7GBUMTv_34.050388_-84.760634@1303262591"
+    },
+    "wof:country":"US",
+    "wof:created":1461918406,
+    "wof:geomhash":"8cea78af1f65d62e84ee79ed933851df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "neighbourhood_id":85835699,
+            "region_id":85688535,
+            "venue_id":739862441
+        }
+    ],
+    "wof:id":739862441,
+    "wof:lastmodified":1461918406,
+    "wof:name":"Attic Self Storage",
+    "wof:parent_id":85835699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouses-public-commercial",
+        "household",
+        "recreational",
+        "commercial",
+        "campers-storage",
+        "vehicle",
+        "self",
+        "boat"
+    ]
+},
+  "bbox": [
+    -84.760634,
+    34.050388,
+    -84.760634,
+    34.050388
+],
+  "geometry": {"coordinates":[-84.760634,34.050388],"type":"Point"}
+}

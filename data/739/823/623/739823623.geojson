@@ -1,0 +1,78 @@
+{
+  "id": 739823623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.601303,33.9259,-84.601303,33.9259",
+    "geom:latitude":33.9259,
+    "geom:longitude":-84.601303,
+    "iso:country":"US",
+    "sg:address":"1106 Powder Springs Rd SW",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 424 6369",
+    "sg:postcode":"30064",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FYNULqq5INxdUJTLD15sT_33.925900_-84.601303@1303262581"
+    },
+    "wof:country":"US",
+    "wof:created":1461916843,
+    "wof:geomhash":"a671515f8fad6e3193e6452ffcc8af5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739823623
+        }
+    ],
+    "wof:id":739823623,
+    "wof:lastmodified":1461916843,
+    "wof:name":"Cat Care Hospital",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.601303,
+    33.9259,
+    -84.601303,
+    33.9259
+],
+  "geometry": {"coordinates":[-84.601303,33.9259],"type":"Point"}
+}

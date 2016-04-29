@@ -1,0 +1,84 @@
+{
+  "id": 740018435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.283539,33.928009,-84.283539,33.928009",
+    "geom:latitude":33.928009,
+    "geom:longitude":-84.283539,
+    "iso:country":"US",
+    "sg:address":"4529 Tilly Mill Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 457 4673",
+    "sg:postcode":"30360",
+    "sg:province":"GA",
+    "sg:tags":[
+        "inn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85936467,
+        85890023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wlJW6DzVbgwX6DLRKy0MW_33.928009_-84.283539@1303262632"
+    },
+    "wof:country":"US",
+    "wof:created":1461924639,
+    "wof:geomhash":"167f0b0b8029e916c7f143e06226b55b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":740018435
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890023,
+            "region_id":85688535,
+            "venue_id":740018435
+        }
+    ],
+    "wof:id":740018435,
+    "wof:lastmodified":1461924639,
+    "wof:name":"Fairhaven Inn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inn"
+    ]
+},
+  "bbox": [
+    -84.283539,
+    33.928009,
+    -84.283539,
+    33.928009
+],
+  "geometry": {"coordinates":[-84.283539,33.928009],"type":"Point"}
+}

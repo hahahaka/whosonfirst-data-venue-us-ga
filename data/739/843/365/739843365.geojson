@@ -1,0 +1,71 @@
+{
+  "id": 739843365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.517502,33.859846,-84.517502,33.859846",
+    "geom:latitude":33.859846,
+    "geom:longitude":-84.517502,
+    "iso:country":"US",
+    "sg:address":"3860 S Cobb Dr SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 436 1200",
+    "sg:postcode":"30080",
+    "sg:province":"GA",
+    "sg:tags":[
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TyH3Ky1yZyDgFAgDV6fpl_33.859846_-84.517502@1303262586"
+    },
+    "wof:country":"US",
+    "wof:created":1461917630,
+    "wof:geomhash":"8e79ede487f80bb3a4cdc3eac8626ef4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":739843365
+        }
+    ],
+    "wof:id":739843365,
+    "wof:lastmodified":1461917630,
+    "wof:name":"Ford Rental Car Service",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -84.517502,
+    33.859846,
+    -84.517502,
+    33.859846
+],
+  "geometry": {"coordinates":[-84.51750199999999,33.859846],"type":"Point"}
+}

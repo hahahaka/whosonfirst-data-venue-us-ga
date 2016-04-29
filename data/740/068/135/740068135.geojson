@@ -1,0 +1,87 @@
+{
+  "id": 740068135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.205128,31.601525,-84.205128,31.601525",
+    "geom:latitude":31.601525,
+    "geom:longitude":-84.205128,
+    "iso:country":"US",
+    "sg:address":"2305 Lullwater Rd",
+    "sg:city":"Albany",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 883 1306",
+    "sg:postcode":"31707",
+    "sg:province":"GA",
+    "sg:tags":[
+        "delivery",
+        "style",
+        "balloons-retail",
+        "american",
+        "family"
+    ],
+    "sg:website":"http://www.perkinsrestaurants.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85935991,
+        102084427,
+        85836091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eoV9OgSNzKEp7misfT97u_31.601525_-84.205128@1303262644"
+    },
+    "wof:country":"US",
+    "wof:created":1461926881,
+    "wof:geomhash":"2af92a8451cc94c76bd197d94bb119ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":85836091,
+            "region_id":85688535,
+            "venue_id":740068135
+        }
+    ],
+    "wof:id":740068135,
+    "wof:lastmodified":1461926881,
+    "wof:name":"Perkins Restaurant & Bakery",
+    "wof:parent_id":85836091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "style",
+        "balloons-retail",
+        "american",
+        "family"
+    ]
+},
+  "bbox": [
+    -84.205128,
+    31.601525,
+    -84.205128,
+    31.601525
+],
+  "geometry": {"coordinates":[-84.205128,31.601525],"type":"Point"}
+}

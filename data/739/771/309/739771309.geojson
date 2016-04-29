@@ -1,0 +1,91 @@
+{
+  "id": 739771309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.129855,33.538231,-82.129855,33.538231",
+    "geom:latitude":33.538231,
+    "geom:longitude":-82.129855,
+    "iso:country":"US",
+    "sg:address":"4360 Washington Rd",
+    "sg:city":"Evans",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/evans/130385-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 364 1843",
+    "sg:postcode":"30809",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R5UpKN2pBlUd92eVQTUMu_33.538231_-82.129855@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914594,
+    "wof:geomhash":"9cd35773e348bae82e84a02ae7cb65b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":739771309
+        }
+    ],
+    "wof:id":739771309,
+    "wof:lastmodified":1461914594,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -82.129855,
+    33.538231,
+    -82.129855,
+    33.538231
+],
+  "geometry": {"coordinates":[-82.12985500000001,33.538231],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 740051585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.742111,32.469769,-83.742111,32.469769",
+    "geom:latitude":32.469769,
+    "geom:longitude":-83.742111,
+    "iso:country":"US",
+    "sg:address":"100 Hampton Ct",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 988 1500",
+    "sg:postcode":"31069",
+    "sg:province":"GA",
+    "sg:tags":[
+        "house",
+        "american",
+        "steak",
+        "take",
+        "barbecue"
+    ],
+    "sg:website":"http://www.longhornsteakhouse.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qwlNyBvRhiMtFgKiXFL17_32.469769_-83.742111@1303262640"
+    },
+    "wof:country":"US",
+    "wof:created":1461926177,
+    "wof:geomhash":"3711e40c794ab5d742b1a6caa1aae218",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":740051585
+        }
+    ],
+    "wof:id":740051585,
+    "wof:lastmodified":1461926177,
+    "wof:name":"Longhorn Steakhouse",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "american",
+        "steak",
+        "take",
+        "barbecue"
+    ]
+},
+  "bbox": [
+    -83.742111,
+    32.469769,
+    -83.742111,
+    32.469769
+],
+  "geometry": {"coordinates":[-83.74211099999999,32.469769],"type":"Point"}
+}

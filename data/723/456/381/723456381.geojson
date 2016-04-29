@@ -1,0 +1,66 @@
+{
+  "id": 723456381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.689544,32.640771,-83.689544,32.640771",
+    "geom:latitude":32.640771,
+    "geom:longitude":-83.689544,
+    "iso:country":"US",
+    "sg:address":"818 N Houston Lake Blvd",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 953 1201",
+    "sg:postcode":"31028",
+    "sg:province":"GA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xdkcyJJS4IGPMPXAjJtjo_32.640771_-83.689544@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461902059,
+    "wof:geomhash":"9c73e89251f666321ef84d450738b4d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":723456381
+        }
+    ],
+    "wof:id":723456381,
+    "wof:lastmodified":1461902059,
+    "wof:name":"Centerville Liquors & Wine",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.689544,
+    32.640771,
+    -83.689544,
+    32.640771
+],
+  "geometry": {"coordinates":[-83.689544,32.640771],"type":"Point"}
+}

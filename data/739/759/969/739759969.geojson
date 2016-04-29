@@ -1,0 +1,84 @@
+{
+  "id": 739759969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.092529,32.077387,-81.092529,32.077387",
+    "geom:latitude":32.077387,
+    "geom:longitude":-81.092529,
+    "iso:country":"US",
+    "sg:address":"136 Bull St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 651 0656",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "school",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85880901,
+        85880917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6y8Txdmevwe86jfr43dMk0_32.077270_-81.092563@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461914133,
+    "wof:geomhash":"5ca7fe6073e310bd470a6dd69103ba39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880901,
+            "region_id":85688535,
+            "venue_id":739759969
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880917,
+            "region_id":85688535,
+            "venue_id":739759969
+        }
+    ],
+    "wof:id":739759969,
+    "wof:lastmodified":1461914133,
+    "wof:name":"Junior Achievement",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "public"
+    ]
+},
+  "bbox": [
+    -81.092529,
+    32.077387,
+    -81.092529,
+    32.077387
+],
+  "geometry": {"coordinates":[-81.092529,32.077387],"type":"Point"}
+}

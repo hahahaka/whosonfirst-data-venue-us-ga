@@ -1,0 +1,78 @@
+{
+  "id": 739879993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.604111,34.049106,-84.604111,34.049106",
+    "geom:latitude":34.049106,
+    "geom:longitude":-84.604111,
+    "iso:country":"US",
+    "sg:address":"3960 Royal Dr NW Ste A",
+    "sg:city":"Kennesaw",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 255 4500",
+    "sg:postcode":"30144",
+    "sg:province":"GA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85821545,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09mgiIN9e468MFLvg8KElH_34.049106_-84.604111@1303262596"
+    },
+    "wof:country":"US",
+    "wof:created":1461919061,
+    "wof:geomhash":"49a52da1357e25dfe7722ea65ab92acc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85821545,
+            "region_id":85688535,
+            "venue_id":739879993
+        }
+    ],
+    "wof:id":739879993,
+    "wof:lastmodified":1461919061,
+    "wof:name":"Bdi-Blm Trucking, Inc.",
+    "wof:parent_id":85821545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.604111,
+    34.049106,
+    -84.604111,
+    34.049106
+],
+  "geometry": {"coordinates":[-84.604111,34.049106],"type":"Point"}
+}

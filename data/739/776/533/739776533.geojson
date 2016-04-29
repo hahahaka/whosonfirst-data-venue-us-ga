@@ -1,0 +1,74 @@
+{
+  "id": 739776533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.31041,30.821182,-83.31041,30.821182",
+    "geom:latitude":30.821182,
+    "geom:longitude":-83.31041,
+    "iso:country":"US",
+    "sg:address":"1823 W Hill Ave",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/valdosta/70961-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 244 5224",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EViLtFgSjk9EQuT2kcm1s_30.821053_-83.310664@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461914800,
+    "wof:geomhash":"30090e834e748a7ffa08ac604b2b0efd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843241,
+            "region_id":85688535,
+            "venue_id":739776533
+        }
+    ],
+    "wof:id":739776533,
+    "wof:lastmodified":1461914800,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85843241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.31041,
+    30.821182,
+    -83.31041,
+    30.821182
+],
+  "geometry": {"coordinates":[-83.31041,30.821182],"type":"Point"}
+}

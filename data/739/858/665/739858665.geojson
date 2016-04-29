@@ -1,0 +1,71 @@
+{
+  "id": 739858665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.147997,33.977373,-84.147997,33.977373",
+    "geom:latitude":33.977373,
+    "geom:longitude":-84.147997,
+    "iso:country":"US",
+    "sg:address":"2834 Woodstar Ct",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 476 4258",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02215gNrBA4yxHlArNB98X_33.977373_-84.147997@1303262590"
+    },
+    "wof:country":"US",
+    "wof:created":1461918257,
+    "wof:geomhash":"2a525dbe394407405fd7faa50867843d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":739858665
+        }
+    ],
+    "wof:id":739858665,
+    "wof:lastmodified":1461918257,
+    "wof:name":"Dickinson Robert O DVM",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.147997,
+    33.977373,
+    -84.147997,
+    33.977373
+],
+  "geometry": {"coordinates":[-84.147997,33.977373],"type":"Point"}
+}

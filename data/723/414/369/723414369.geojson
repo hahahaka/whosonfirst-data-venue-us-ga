@@ -1,0 +1,71 @@
+{
+  "id": 723414369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.568798,33.987338,-84.568798,33.987338",
+    "geom:latitude":33.987338,
+    "geom:longitude":-84.568798,
+    "iso:country":"US",
+    "sg:address":"1431 White Cir NW",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 354 1896",
+    "sg:postcode":"30066",
+    "sg:province":"GA",
+    "sg:tags":[
+        "laboratory",
+        "testing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PqC4LZmo2J6H3s5mOhdBk_33.987338_-84.568798@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901255,
+    "wof:geomhash":"de42be22a752b260149177d7a5a42731",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":723414369
+        }
+    ],
+    "wof:id":723414369,
+    "wof:lastmodified":1461901255,
+    "wof:name":"Laboratory Corporation America",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "testing"
+    ]
+},
+  "bbox": [
+    -84.568798,
+    33.987338,
+    -84.568798,
+    33.987338
+],
+  "geometry": {"coordinates":[-84.568798,33.987338],"type":"Point"}
+}

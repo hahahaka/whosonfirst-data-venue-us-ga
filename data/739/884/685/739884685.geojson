@@ -1,0 +1,77 @@
+{
+  "id": 739884685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.989096,34.086416,-84.989096,34.086416",
+    "geom:latitude":34.086416,
+    "geom:longitude":-84.989096,
+    "iso:country":"US",
+    "sg:address":"61 Madden St",
+    "sg:city":"Taylorsville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"30178",
+    "sg:province":"GA",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85853435,
+        102082937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MhDMWyFngxp1xcL03fsDO_34.086416_-84.989096@1303262597"
+    },
+    "wof:country":"US",
+    "wof:created":1461919233,
+    "wof:geomhash":"e410bdeb309813d228da3a5cb07980a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082937,
+            "neighbourhood_id":85853435,
+            "region_id":85688535,
+            "venue_id":739884685
+        }
+    ],
+    "wof:id":739884685,
+    "wof:lastmodified":1461919233,
+    "wof:name":"USPS - United States Post Office - Taylorsville Post Office",
+    "wof:parent_id":85853435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -84.989096,
+    34.086416,
+    -84.989096,
+    34.086416
+],
+  "geometry": {"coordinates":[-84.989096,34.086416],"type":"Point"}
+}

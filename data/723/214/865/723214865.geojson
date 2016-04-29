@@ -1,0 +1,71 @@
+{
+  "id": 723214865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.130215,33.533393,-82.130215,33.533393",
+    "geom:latitude":33.533393,
+    "geom:longitude":-82.130215,
+    "iso:country":"US",
+    "sg:address":"447 N Belair Rd",
+    "sg:city":"Evans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 854 2222",
+    "sg:postcode":"30809",
+    "sg:province":"GA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0npSQ3SdRYlijFFYoNiI6d_33.533393_-82.130215@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897360,
+    "wof:geomhash":"fdfa9191de9bf1cb009416660f976777",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":723214865
+        }
+    ],
+    "wof:id":723214865,
+    "wof:lastmodified":1461897360,
+    "wof:name":"Prompt Care",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -82.130215,
+    33.533393,
+    -82.130215,
+    33.533393
+],
+  "geometry": {"coordinates":[-82.13021500000001,33.533393],"type":"Point"}
+}

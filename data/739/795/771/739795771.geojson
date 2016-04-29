@@ -1,0 +1,69 @@
+{
+  "id": 739795771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.256203,33.7379,-84.256203,33.7379",
+    "geom:latitude":33.7379,
+    "geom:longitude":-84.256203,
+    "iso:country":"US",
+    "sg:address":"3956 Glenwood Rd",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 289 5231",
+    "sg:postcode":"30032",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85816491,
+        102084539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CLM5WTAFCft8CmLXEk88X_33.737900_-84.256203@1303262574"
+    },
+    "wof:country":"US",
+    "wof:created":1461915600,
+    "wof:geomhash":"0ac40755ff0643fab488683c24868695",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739795771
+        }
+    ],
+    "wof:id":739795771,
+    "wof:lastmodified":1461915600,
+    "wof:name":"Wilson Coreen DVM",
+    "wof:parent_id":85816491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.256203,
+    33.7379,
+    -84.256203,
+    33.7379
+],
+  "geometry": {"coordinates":[-84.256203,33.7379],"type":"Point"}
+}

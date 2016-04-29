@@ -1,0 +1,80 @@
+{
+  "id": 723272109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.198951,33.950168,-84.198951,33.950168",
+    "geom:latitude":33.950168,
+    "geom:longitude":-84.198951,
+    "iso:country":"US",
+    "sg:address":"2655 Langford Rd NW",
+    "sg:city":"Norcross",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 242 0459",
+    "sg:postcode":"30071",
+    "sg:province":"GA",
+    "sg:tags":[
+        "commercial",
+        "self",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qjDrtUngFpmM8Lml5Wywx_33.950168_-84.198951@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461898542,
+    "wof:geomhash":"59a11e1120f143f0ba06e5a2ac162643",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":723272109
+        }
+    ],
+    "wof:id":723272109,
+    "wof:lastmodified":1461898542,
+    "wof:name":"Uncle Bob's Self-Storage",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "self",
+        "storage"
+    ]
+},
+  "bbox": [
+    -84.198951,
+    33.950168,
+    -84.198951,
+    33.950168
+],
+  "geometry": {"coordinates":[-84.19895099999999,33.950168],"type":"Point"}
+}

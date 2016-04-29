@@ -1,0 +1,85 @@
+{
+  "id": 739445567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.387439,33.764817,-84.387439,33.764817",
+    "geom:latitude":33.764817,
+    "geom:longitude":-84.387439,
+    "iso:country":"US",
+    "sg:address":"401 W Peachtree St NW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 331 7498",
+    "sg:postcode":"30308",
+    "sg:province":"GA",
+    "sg:tags":[
+        "training",
+        "acquisition"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872133,
+        85872057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FYJcBX5AYDybMfc3MspD4_33.764817_-84.387439@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907464,
+    "wof:geomhash":"3fd52dccfb105e5daec849492b34b56a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872133,
+            "region_id":85688535,
+            "venue_id":739445567
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872057,
+            "region_id":85688535,
+            "venue_id":739445567
+        }
+    ],
+    "wof:id":739445567,
+    "wof:lastmodified":1461907464,
+    "wof:name":"ADP Council of Southeaster",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "acquisition"
+    ]
+},
+  "bbox": [
+    -84.387439,
+    33.764817,
+    -84.387439,
+    33.764817
+],
+  "geometry": {"coordinates":[-84.387439,33.764817],"type":"Point"}
+}

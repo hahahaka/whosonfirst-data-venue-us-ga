@@ -1,0 +1,71 @@
+{
+  "id": 739644067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.955074,34.806395,-84.955074,34.806395",
+    "geom:latitude":34.806395,
+    "geom:longitude":-84.955074,
+    "iso:country":"US",
+    "sg:address":"1703 Cleveland Hwy",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 259 9797",
+    "sg:postcode":"30721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_099jGY0LKmJmVkpYwBQPfj_34.806395_-84.955074@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461911344,
+    "wof:geomhash":"7d490746ed7d530bdf8888f8c5757a22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":739644067
+        }
+    ],
+    "wof:id":739644067,
+    "wof:lastmodified":1461911344,
+    "wof:name":"Wade's Animal Hospital",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.955074,
+    34.806395,
+    -84.955074,
+    34.806395
+],
+  "geometry": {"coordinates":[-84.955074,34.806395],"type":"Point"}
+}

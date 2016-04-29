@@ -1,0 +1,73 @@
+{
+  "id": 739895393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.028687,33.051659,-85.028687,33.051659",
+    "geom:latitude":33.051659,
+    "geom:longitude":-85.028687,
+    "iso:country":"US",
+    "sg:address":"100 Mooty Bridge Rd",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 882 2661",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Nj4X139ScoWVGKPGpduFr_33.051659_-85.028687@1303262600"
+    },
+    "wof:country":"US",
+    "wof:created":1461919638,
+    "wof:geomhash":"a9fac92efb83b3d6aef8aead28a360ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739895393
+        }
+    ],
+    "wof:id":739895393,
+    "wof:lastmodified":1461919638,
+    "wof:name":"Lagrange Healthcare",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.028687,
+    33.051659,
+    -85.028687,
+    33.051659
+],
+  "geometry": {"coordinates":[-85.02868700000001,33.051659],"type":"Point"}
+}

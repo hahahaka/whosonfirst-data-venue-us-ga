@@ -1,0 +1,87 @@
+{
+  "id": 739432235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.03331,34.106056,-84.03331,34.106056",
+    "geom:latitude":34.106056,
+    "geom:longitude":-84.03331,
+    "iso:country":"US",
+    "sg:address":"4875 Hannah Rd",
+    "sg:city":"Buford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 904 6398",
+    "sg:postcode":"30518",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automobile",
+        "testing",
+        "inspection",
+        "emission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85824791,
+        102082967,
+        102191575,
+        85936305,
+        85820775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gTENARfYm2r7mkGOU0poL_34.106056_-84.033310@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907205,
+    "wof:geomhash":"64016118f830788997b869be5f061fe3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85824791,
+            "region_id":85688535,
+            "venue_id":739432235
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936305,
+            "neighbourhood_id":85820775,
+            "region_id":85688535,
+            "venue_id":739432235
+        }
+    ],
+    "wof:id":739432235,
+    "wof:lastmodified":1461907205,
+    "wof:name":"Gerorgia Emissions One Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "testing",
+        "inspection",
+        "emission"
+    ]
+},
+  "bbox": [
+    -84.03331,
+    34.106056,
+    -84.03331,
+    34.106056
+],
+  "geometry": {"coordinates":[-84.03331,34.106056],"type":"Point"}
+}

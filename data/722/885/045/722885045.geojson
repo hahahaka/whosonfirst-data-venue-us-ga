@@ -1,0 +1,75 @@
+{
+  "id": 722885045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.98023,32.484214,-84.98023,32.484214",
+    "geom:latitude":32.484214,
+    "geom:longitude":-84.98023,
+    "iso:country":"US",
+    "sg:address":"1013 Talbotton Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 322 6890",
+    "sg:postcode":"31904",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85882101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UvsvtT1LyzslrV0XT8dZy_32.484214_-84.980230@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461890485,
+    "wof:geomhash":"9b6c6e0f5115c11484f71ab223a7d7ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85882101,
+            "region_id":85688535,
+            "venue_id":722885045
+        }
+    ],
+    "wof:id":722885045,
+    "wof:lastmodified":1461890485,
+    "wof:name":"Medical Oncology",
+    "wof:parent_id":85882101,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.98023,
+    32.484214,
+    -84.98023,
+    32.484214
+],
+  "geometry": {"coordinates":[-84.98023000000001,32.484214],"type":"Point"}
+}

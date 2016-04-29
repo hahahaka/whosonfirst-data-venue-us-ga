@@ -1,0 +1,82 @@
+{
+  "id": 739308999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.792408,32.450728,-81.792408,32.450728",
+    "geom:latitude":32.450728,
+    "geom:longitude":-81.792408,
+    "iso:country":"US",
+    "sg:address":"1 Ivory St",
+    "sg:city":"Statesboro",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 764 3333",
+    "sg:postcode":"30458",
+    "sg:province":"GA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935999,
+        102084405,
+        85823149,
+        102191575,
+        85828471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gkXUYjJLkd83u1S5QvOP9_32.450728_-81.792408@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461904751,
+    "wof:geomhash":"2ba59f0377e9e2f47a3c25f4577b52b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85823149,
+            "region_id":85688535,
+            "venue_id":739308999
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85828471,
+            "region_id":85688535,
+            "venue_id":739308999
+        }
+    ],
+    "wof:id":739308999,
+    "wof:lastmodified":1461904751,
+    "wof:name":"Flash Jones Taxi Cab Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -81.792408,
+    32.450728,
+    -81.792408,
+    32.450728
+],
+  "geometry": {"coordinates":[-81.79240799999999,32.450728],"type":"Point"}
+}

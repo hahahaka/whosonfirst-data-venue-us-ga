@@ -1,0 +1,90 @@
+{
+  "id": 739822525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.579457,33.952081,-84.579457,33.952081",
+    "geom:latitude":33.952081,
+    "geom:longitude":-84.579457,
+    "iso:country":"US",
+    "sg:address":"1008 Whitlock Ave",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 428 5524",
+    "sg:postcode":"30064",
+    "sg:province":"GA",
+    "sg:tags":[
+        "tire",
+        "automobile",
+        "diagnostic",
+        "part",
+        "accessory",
+        "inspection"
+    ],
+    "sg:website":"http://www.pepboys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49GgcN9gdCHYan6BFnoXr9_33.952081_-84.579457@1303262581"
+    },
+    "wof:country":"US",
+    "wof:created":1461916792,
+    "wof:geomhash":"d44004aa2dd4678fbbf5afb88cef793b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739822525
+        }
+    ],
+    "wof:id":739822525,
+    "wof:lastmodified":1461916792,
+    "wof:name":"Pep Boys",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire",
+        "automobile",
+        "diagnostic",
+        "part",
+        "accessory",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -84.579457,
+    33.952081,
+    -84.579457,
+    33.952081
+],
+  "geometry": {"coordinates":[-84.579457,33.952081],"type":"Point"}
+}

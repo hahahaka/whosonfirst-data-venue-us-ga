@@ -1,0 +1,71 @@
+{
+  "id": 723368247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.568609,31.3342,-81.568609,31.3342",
+    "geom:latitude":31.3342,
+    "geom:longitude":-81.568609,
+    "iso:country":"US",
+    "sg:address":"1063 Pennick Rd",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 222 9519",
+    "sg:postcode":"31520",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85814297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LlODf2ySMx4nj5obbrfML_31.334200_-81.568609@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900342,
+    "wof:geomhash":"eefc08b76f822f3cde7089f19aa50a65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85814297,
+            "region_id":85688535,
+            "venue_id":723368247
+        }
+    ],
+    "wof:id":723368247,
+    "wof:lastmodified":1461900342,
+    "wof:name":"Pet Doctor",
+    "wof:parent_id":85814297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -81.568609,
+    31.3342,
+    -81.568609,
+    31.3342
+],
+  "geometry": {"coordinates":[-81.568609,31.3342],"type":"Point"}
+}

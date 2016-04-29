@@ -1,0 +1,71 @@
+{
+  "id": 739895623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.03209,33.036364,-85.03209,33.036364",
+    "geom:latitude":33.036364,
+    "geom:longitude":-85.03209,
+    "iso:country":"US",
+    "sg:address":"216 Bull St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Swimming Pool",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 883 8147",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70YPAJcPpkZmVAA4x63t5Z_33.036364_-85.032090@1303262600"
+    },
+    "wof:country":"US",
+    "wof:created":1461919646,
+    "wof:geomhash":"578476bd5890442a91d30274bb79fead",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739895623
+        }
+    ],
+    "wof:id":739895623,
+    "wof:lastmodified":1461919646,
+    "wof:name":"LaGrange Pool & Spa",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.03209,
+    33.036364,
+    -85.03209,
+    33.036364
+],
+  "geometry": {"coordinates":[-85.03209,33.036364],"type":"Point"}
+}

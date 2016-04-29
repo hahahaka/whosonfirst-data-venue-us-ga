@@ -1,0 +1,71 @@
+{
+  "id": 723480229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.219181,33.881012,-84.219181,33.881012",
+    "geom:latitude":33.881012,
+    "geom:longitude":-84.219181,
+    "iso:country":"US",
+    "sg:address":"3171 Tucker Norcross Rd",
+    "sg:city":"Tucker",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 939 1642",
+    "sg:postcode":"30084",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RkdMFYWJlq0d9wVSlFypv_33.881012_-84.219181@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461902545,
+    "wof:geomhash":"1c037300344e5771455df58368ea45b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":723480229
+        }
+    ],
+    "wof:id":723480229,
+    "wof:lastmodified":1461902545,
+    "wof:name":"Health Mart",
+    "wof:parent_id":85889941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -84.219181,
+    33.881012,
+    -84.219181,
+    33.881012
+],
+  "geometry": {"coordinates":[-84.21918100000001,33.881012],"type":"Point"}
+}

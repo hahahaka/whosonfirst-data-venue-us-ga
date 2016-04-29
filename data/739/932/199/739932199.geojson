@@ -1,0 +1,88 @@
+{
+  "id": 739932199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.353908,33.773704,-84.353908,33.773704",
+    "geom:latitude":33.773704,
+    "geom:longitude":-84.353908,
+    "iso:country":"US",
+    "sg:address":"1026 Ponce De Leon Avenue NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 874 3138",
+    "sg:postcode":"30306",
+    "sg:province":"GA",
+    "sg:tags":[
+        "homes-children"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872131,
+        85830819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BuR5aPPO8XHdLMy9WObPA_33.773704_-84.353908@1303262609"
+    },
+    "wof:country":"US",
+    "wof:created":1461921122,
+    "wof:geomhash":"7ddc4cd45ed0302eabc9a7f548d9b0ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872131,
+            "region_id":85688535,
+            "venue_id":739932199
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85830819,
+            "region_id":85688535,
+            "venue_id":739932199
+        }
+    ],
+    "wof:id":739932199,
+    "wof:lastmodified":1461921122,
+    "wof:name":"Thornwell Childrens Home & School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "homes-children"
+    ]
+},
+  "bbox": [
+    -84.353908,
+    33.773704,
+    -84.353908,
+    33.773704
+],
+  "geometry": {"coordinates":[-84.353908,33.773704],"type":"Point"}
+}

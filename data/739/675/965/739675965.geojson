@@ -1,0 +1,71 @@
+{
+  "id": 739675965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.547513,30.724488,-81.547513,30.724488",
+    "geom:latitude":30.724488,
+    "geom:longitude":-81.547513,
+    "iso:country":"US",
+    "sg:address":"313 Osborne St",
+    "sg:city":"St Marys",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 510 7406",
+    "sg:postcode":"31558",
+    "sg:province":"GA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937043,
+        102081693,
+        85852055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ojkfDslQ0h4lMk2yO42xI_30.724488_-81.547513@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461912071,
+    "wof:geomhash":"18ebbdd6c28d2e44cf2b6e2a207a4fd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081693,
+            "locality_id":85937043,
+            "neighbourhood_id":85852055,
+            "region_id":85688535,
+            "venue_id":739675965
+        }
+    ],
+    "wof:id":739675965,
+    "wof:lastmodified":1461912071,
+    "wof:name":"Maverick Towing & Recovery",
+    "wof:parent_id":85852055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -81.547513,
+    30.724488,
+    -81.547513,
+    30.724488
+],
+  "geometry": {"coordinates":[-81.547513,30.724488],"type":"Point"}
+}

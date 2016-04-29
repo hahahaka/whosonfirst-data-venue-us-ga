@@ -1,0 +1,87 @@
+{
+  "id": 739895491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.029492,33.04037,-85.029492,33.04037",
+    "geom:latitude":33.04037,
+    "geom:longitude":-85.029492,
+    "iso:country":"US",
+    "sg:address":"280 N Morgan St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 812 8744",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "style",
+        "hamburger",
+        "family",
+        "dog",
+        "hot",
+        "american"
+    ],
+    "sg:website":"http://www.sonicdrivein.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oaDH66WUEfpmJQZXr6wed_33.040370_-85.029492@1303262600"
+    },
+    "wof:country":"US",
+    "wof:created":1461919642,
+    "wof:geomhash":"70595fa8effa219cf4e2222efef06a27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739895491
+        }
+    ],
+    "wof:id":739895491,
+    "wof:lastmodified":1461919642,
+    "wof:name":"SONIC Drive-In",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "style",
+        "hamburger",
+        "family",
+        "dog",
+        "hot",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.029492,
+    33.04037,
+    -85.029492,
+    33.04037
+],
+  "geometry": {"coordinates":[-85.029492,33.04037],"type":"Point"}
+}

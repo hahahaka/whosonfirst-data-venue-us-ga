@@ -1,0 +1,86 @@
+{
+  "id": 722923691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.293819,33.899149,-84.293819,33.899149",
+    "geom:latitude":33.899149,
+    "geom:longitude":-84.293819,
+    "iso:country":"US",
+    "sg:address":"3690 N Peachtree Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 457 5777",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "snack",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85936435,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DyAwwrh4N3rA90EQHc3jJ_33.899149_-84.293819@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461891280,
+    "wof:geomhash":"87a8bbad90c5d634387fc659dfb195c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":722923691
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":722923691
+        }
+    ],
+    "wof:id":722923691,
+    "wof:lastmodified":1461891280,
+    "wof:name":"Bill Elliotts Awesome Products",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snack",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -84.293819,
+    33.899149,
+    -84.293819,
+    33.899149
+],
+  "geometry": {"coordinates":[-84.293819,33.899149],"type":"Point"}
+}

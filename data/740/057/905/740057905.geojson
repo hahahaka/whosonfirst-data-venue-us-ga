@@ -1,0 +1,83 @@
+{
+  "id": 740057905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.096575,32.074245,-81.096575,32.074245",
+    "geom:latitude":32.074245,
+    "geom:longitude":-81.096575,
+    "iso:country":"US",
+    "sg:address":"14 W Macon St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 233 3845",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85811497,
+        85880901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HSkRY8pEqII9xc0ESr1Hz_32.074245_-81.096575@1303262642"
+    },
+    "wof:country":"US",
+    "wof:created":1461926443,
+    "wof:geomhash":"099ab491370a9348ccbd67aefbd6d4e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85811497,
+            "region_id":85688535,
+            "venue_id":740057905
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880901,
+            "region_id":85688535,
+            "venue_id":740057905
+        }
+    ],
+    "wof:id":740057905,
+    "wof:lastmodified":1461926443,
+    "wof:name":"St John's Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -81.096575,
+    32.074245,
+    -81.096575,
+    32.074245
+],
+  "geometry": {"coordinates":[-81.096575,32.074245],"type":"Point"}
+}

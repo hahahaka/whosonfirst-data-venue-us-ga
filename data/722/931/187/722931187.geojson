@@ -1,0 +1,73 @@
+{
+  "id": 722931187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.981221,30.83849,-83.981221,30.83849",
+    "geom:latitude":30.83849,
+    "geom:longitude":-83.981221,
+    "iso:country":"US",
+    "sg:address":"111 N Broad St",
+    "sg:city":"Bluffton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 641 3015",
+    "sg:postcode":"31792",
+    "sg:province":"GA",
+    "sg:tags":[
+        "farm",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85833309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4O8ZW8NnEIQLoETWCffwVH_30.838490_-83.981221@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461891433,
+    "wof:geomhash":"06c50df498fb95b5d8acab7ba02e0b26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85833309,
+            "region_id":85688535,
+            "venue_id":722931187
+        }
+    ],
+    "wof:id":722931187,
+    "wof:lastmodified":1461891433,
+    "wof:name":"Bluffton Farm Ctr",
+    "wof:parent_id":85833309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "market"
+    ]
+},
+  "bbox": [
+    -83.981221,
+    30.83849,
+    -83.981221,
+    30.83849
+],
+  "geometry": {"coordinates":[-83.98122100000001,30.83849],"type":"Point"}
+}

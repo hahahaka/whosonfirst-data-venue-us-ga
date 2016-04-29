@@ -1,0 +1,71 @@
+{
+  "id": 739350195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.514757,34.01123,-84.514757,34.01123",
+    "geom:latitude":34.01123,
+    "geom:longitude":-84.514757,
+    "iso:country":"US",
+    "sg:address":"2600 Morgan Rd",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 578 0569",
+    "sg:postcode":"30066",
+    "sg:province":"GA",
+    "sg:tags":[
+        "refiner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936135,
+        102082313,
+        85857049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2v9gyRrkVD5yV2xHeKkBzr_34.011230_-84.514757@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461905612,
+    "wof:geomhash":"f701440908752539ed12743c0b70cbe9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936135,
+            "neighbourhood_id":85857049,
+            "region_id":85688535,
+            "venue_id":739350195
+        }
+    ],
+    "wof:id":739350195,
+    "wof:lastmodified":1461905612,
+    "wof:name":"Dr Gas Line Inc",
+    "wof:parent_id":85857049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refiner"
+    ]
+},
+  "bbox": [
+    -84.514757,
+    34.01123,
+    -84.514757,
+    34.01123
+],
+  "geometry": {"coordinates":[-84.514757,34.01123],"type":"Point"}
+}

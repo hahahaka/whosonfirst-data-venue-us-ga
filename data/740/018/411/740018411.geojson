@@ -1,0 +1,78 @@
+{
+  "id": 740018411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.26999,33.913136,-84.26999,33.913136",
+    "geom:latitude":33.913136,
+    "geom:longitude":-84.26999,
+    "iso:country":"US",
+    "sg:address":"4064 Winters Chapel Road",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 455 6877",
+    "sg:postcode":"30360",
+    "sg:province":"GA",
+    "sg:website":"www.bp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889941,
+        102082967,
+        102191575,
+        85936447,
+        102084539,
+        85889959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ed3wYbKQl7ecXOWELyt8b_33.913136_-84.269990@1303262632"
+    },
+    "wof:country":"US",
+    "wof:created":1461924637,
+    "wof:geomhash":"27d67ce8876874c0a29b5d4a6b685684",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":740018411
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":740018411
+        }
+    ],
+    "wof:id":740018411,
+    "wof:lastmodified":1461924637,
+    "wof:name":"Bp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.26999,
+    33.913136,
+    -84.26999,
+    33.913136
+],
+  "geometry": {"coordinates":[-84.26999000000001,33.913136],"type":"Point"}
+}

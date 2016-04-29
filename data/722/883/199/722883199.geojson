@@ -1,0 +1,71 @@
+{
+  "id": 722883199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.220615,31.984505,-81.220615,31.984505",
+    "geom:latitude":31.984505,
+    "geom:longitude":-81.220615,
+    "iso:country":"US",
+    "sg:address":"1190 King George Blvd",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 921 0401",
+    "sg:postcode":"31419",
+    "sg:province":"GA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936939,
+        102082337,
+        85858259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JtKXRyqtOu7aLHjMaxet8_31.984505_-81.220615@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461890454,
+    "wof:geomhash":"6c011ff66ef4c65c531d69c524b3f3b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85858259,
+            "region_id":85688535,
+            "venue_id":722883199
+        }
+    ],
+    "wof:id":722883199,
+    "wof:lastmodified":1461890454,
+    "wof:name":"Daniel G Breitberg DDS",
+    "wof:parent_id":85858259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -81.220615,
+    31.984505,
+    -81.220615,
+    31.984505
+],
+  "geometry": {"coordinates":[-81.220615,31.984505],"type":"Point"}
+}

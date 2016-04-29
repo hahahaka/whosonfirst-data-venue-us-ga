@@ -1,0 +1,84 @@
+{
+  "id": 739763341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.133273,34.180171,-84.133273,34.180171",
+    "geom:latitude":34.180171,
+    "geom:longitude":-84.133273,
+    "iso:country":"US",
+    "sg:address":"920 Market Place Blvd",
+    "sg:city":"Cumming",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/cumming/54433-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 888 2911",
+    "sg:postcode":"30041",
+    "sg:province":"GA",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936811,
+        102082317,
+        85842073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sJO2VTG63z0dyUModdsuc_34.180171_-84.133273@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914271,
+    "wof:geomhash":"4392b5df845a9a01759c1664fe4a24e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082317,
+            "locality_id":85936811,
+            "neighbourhood_id":85842073,
+            "region_id":85688535,
+            "venue_id":739763341
+        }
+    ],
+    "wof:id":739763341,
+    "wof:lastmodified":1461914271,
+    "wof:name":"IHOP",
+    "wof:parent_id":85842073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -84.133273,
+    34.180171,
+    -84.133273,
+    34.180171
+],
+  "geometry": {"coordinates":[-84.133273,34.180171],"type":"Point"}
+}

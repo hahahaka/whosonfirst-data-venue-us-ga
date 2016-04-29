@@ -1,0 +1,73 @@
+{
+  "id": 739770933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.996792,34.760544,-84.996792,34.760544",
+    "geom:latitude":34.760544,
+    "geom:longitude":-84.996792,
+    "iso:country":"US",
+    "sg:address":"1523 W Walnut Ave",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/dalton/203259-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30720",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aoO2cwXoZoQfXBdx6Ifnx_34.760544_-84.996792@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914581,
+    "wof:geomhash":"ad04e96ed8e14d1123b362996cb3cdde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":739770933
+        }
+    ],
+    "wof:id":739770933,
+    "wof:lastmodified":1461914581,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.996792,
+    34.760544,
+    -84.996792,
+    34.760544
+],
+  "geometry": {"coordinates":[-84.996792,34.760544],"type":"Point"}
+}

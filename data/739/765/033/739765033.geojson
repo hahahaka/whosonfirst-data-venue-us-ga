@@ -1,0 +1,76 @@
+{
+  "id": 739765033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.144608,33.968302,-84.144608,33.968302",
+    "geom:latitude":33.968302,
+    "geom:longitude":-84.144608,
+    "iso:country":"US",
+    "sg:address":"2570 Pleasant Hill Rd",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/suwanee-duluth/56749-philly-connection/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 495 0988",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "cheesesteaks",
+        "sandwich",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75qDh5FxEdXMXZXmSor2kt_33.968302_-84.144608@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914340,
+    "wof:geomhash":"683d5467073fa1ee91f589bb5c6a9fef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":739765033
+        }
+    ],
+    "wof:id":739765033,
+    "wof:lastmodified":1461914340,
+    "wof:name":"Philly Connection",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cheesesteaks",
+        "sandwich",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.144608,
+    33.968302,
+    -84.144608,
+    33.968302
+],
+  "geometry": {"coordinates":[-84.14460800000001,33.968302],"type":"Point"}
+}

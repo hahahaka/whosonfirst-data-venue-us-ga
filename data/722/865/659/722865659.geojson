@@ -1,0 +1,71 @@
+{
+  "id": 722865659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.042042,33.124519,-85.042042,33.124519",
+    "geom:latitude":33.124519,
+    "geom:longitude":-85.042042,
+    "iso:country":"US",
+    "sg:address":"3105 New Franklin Rd",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 883 8053",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UkX0gek9R21jLH1iLqtMr_33.124519_-85.042042@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461890121,
+    "wof:geomhash":"a40e4bc2b4915d46e1378c501440f640",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":722865659
+        }
+    ],
+    "wof:id":722865659,
+    "wof:lastmodified":1461890121,
+    "wof:name":"Gasaway Garage",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -85.042042,
+    33.124519,
+    -85.042042,
+    33.124519
+],
+  "geometry": {"coordinates":[-85.042042,33.124519],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 739803849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.081227,34.261575,-84.081227,34.261575",
+    "geom:latitude":34.261575,
+    "geom:longitude":-84.081227,
+    "iso:country":"US",
+    "sg:address":"3995 Browns Bridge Rd",
+    "sg:city":"Cumming",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 888 8332",
+    "sg:postcode":"30041",
+    "sg:province":"GA",
+    "sg:tags":[
+        "grooming",
+        "dog",
+        "cat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936811,
+        102082317,
+        85842073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mbyAtR0RDo55MZUMnsZAF_34.261575_-84.081227@1303262576"
+    },
+    "wof:country":"US",
+    "wof:created":1461915963,
+    "wof:geomhash":"3cd7d4dcdc22cf8379c920040b9fa46f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082317,
+            "locality_id":85936811,
+            "neighbourhood_id":85842073,
+            "region_id":85688535,
+            "venue_id":739803849
+        }
+    ],
+    "wof:id":739803849,
+    "wof:lastmodified":1461915963,
+    "wof:name":"You Dirty Dog",
+    "wof:parent_id":85842073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grooming",
+        "dog",
+        "cat"
+    ]
+},
+  "bbox": [
+    -84.081227,
+    34.261575,
+    -84.081227,
+    34.261575
+],
+  "geometry": {"coordinates":[-84.081227,34.261575],"type":"Point"}
+}

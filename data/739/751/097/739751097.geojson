@@ -1,0 +1,71 @@
+{
+  "id": 739751097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.445109,34.188618,-84.445109,34.188618",
+    "geom:latitude":34.188618,
+    "geom:longitude":-84.445109,
+    "iso:country":"US",
+    "sg:address":"802 Tom Charles Ln",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 493 2028",
+    "sg:postcode":"30115",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85896259,
+        102084635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hao5z1qqqKRFek2lYirCH_34.188406_-84.444966@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461913750,
+    "wof:geomhash":"b867e643914824a6fd26a13dedd580d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084635,
+            "neighbourhood_id":85896259,
+            "region_id":85688535,
+            "venue_id":739751097
+        }
+    ],
+    "wof:id":739751097,
+    "wof:lastmodified":1461913750,
+    "wof:name":"Tim's Auto Repair",
+    "wof:parent_id":85896259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.445109,
+    34.188618,
+    -84.445109,
+    34.188618
+],
+  "geometry": {"coordinates":[-84.445109,34.188618],"type":"Point"}
+}

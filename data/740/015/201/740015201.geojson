@@ -1,0 +1,80 @@
+{
+  "id": 740015201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.303299,33.9604,-84.303299,33.9604",
+    "geom:latitude":33.9604,
+    "geom:longitude":-84.303299,
+    "iso:country":"US",
+    "sg:address":"4101 Dunwoody Club Dr",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 522 8383",
+    "sg:postcode":"30350",
+    "sg:province":"GA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        420517731,
+        85937165,
+        102083603,
+        420517933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pMNcx3rpDjhQN7ljchQtH_33.960400_-84.303299@1303262631"
+    },
+    "wof:country":"US",
+    "wof:created":1461924517,
+    "wof:geomhash":"421818c8be80fc1d8482a90ae5e3ee98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":420517731,
+            "region_id":85688535,
+            "venue_id":740015201
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937165,
+            "neighbourhood_id":420517933,
+            "region_id":85688535,
+            "venue_id":740015201
+        }
+    ],
+    "wof:id":740015201,
+    "wof:lastmodified":1461924517,
+    "wof:name":"Simon Jared DC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.303299,
+    33.9604,
+    -84.303299,
+    33.9604
+],
+  "geometry": {"coordinates":[-84.303299,33.9604],"type":"Point"}
+}

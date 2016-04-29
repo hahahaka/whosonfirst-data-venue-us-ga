@@ -1,0 +1,79 @@
+{
+  "id": 739878457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.582427,34.009667,-84.582427,34.009667",
+    "geom:latitude":34.009667,
+    "geom:longitude":-84.582427,
+    "iso:country":"US",
+    "sg:address":"975 Cobb Place Blvd NW # 101",
+    "sg:city":"Kennesaw",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 919 0400",
+    "sg:postcode":"30144",
+    "sg:province":"GA",
+    "sg:tags":[
+        "delivery",
+        "forwarding",
+        "courier"
+    ],
+    "sg:website":"http://www.afcexpress.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WTKsJI2wsdyo7MYaUacu9_34.009667_-84.582427@1303262595"
+    },
+    "wof:country":"US",
+    "wof:created":1461919005,
+    "wof:geomhash":"2c426767564e804e38160f36e88d41e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739878457
+        }
+    ],
+    "wof:id":739878457,
+    "wof:lastmodified":1461919005,
+    "wof:name":"R&L Global Logistics",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "forwarding",
+        "courier"
+    ]
+},
+  "bbox": [
+    -84.582427,
+    34.009667,
+    -84.582427,
+    34.009667
+],
+  "geometry": {"coordinates":[-84.582427,34.009667],"type":"Point"}
+}

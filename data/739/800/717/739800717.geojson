@@ -1,0 +1,87 @@
+{
+  "id": 739800717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.193298,33.730701,-84.193298,33.730701",
+    "geom:latitude":33.730701,
+    "geom:longitude":-84.193298,
+    "iso:country":"US",
+    "sg:address":"5421 Covington Hwy Apt 101",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 981 9369",
+    "sg:postcode":"30035",
+    "sg:province":"GA",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "sg:website":"http://www.trailsapts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937263,
+        102084539,
+        85890037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J4AuZlzp73VZ5KB2VGgsz_33.730701_-84.193298@1303262575"
+    },
+    "wof:country":"US",
+    "wof:created":1461915809,
+    "wof:geomhash":"b7e4cd868fdfda6a9749605729663674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937263,
+            "neighbourhood_id":85890037,
+            "region_id":85688535,
+            "venue_id":739800717
+        }
+    ],
+    "wof:id":739800717,
+    "wof:lastmodified":1461915809,
+    "wof:name":"Valleyfield Apartments",
+    "wof:parent_id":85890037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [
+    -84.193298,
+    33.730701,
+    -84.193298,
+    33.730701
+],
+  "geometry": {"coordinates":[-84.193298,33.730701],"type":"Point"}
+}

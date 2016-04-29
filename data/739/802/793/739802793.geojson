@@ -1,0 +1,85 @@
+{
+  "id": 739802793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.135882,34.208378,-84.135882,34.208378",
+    "geom:latitude":34.208378,
+    "geom:longitude":-84.135882,
+    "iso:country":"US",
+    "sg:address":"307 Pilgrim Mill Rd",
+    "sg:city":"Cumming",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 889 2521",
+    "sg:postcode":"30040",
+    "sg:province":"GA",
+    "sg:tags":[
+        "emergency",
+        "hospital",
+        "clinic",
+        "veterinarian",
+        "kennel"
+    ],
+    "sg:website":"http://www.crestviewah.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936811,
+        102082317,
+        85842073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pfZmTOEkCgZ836eBkERkG_34.208378_-84.135882@1303262576"
+    },
+    "wof:country":"US",
+    "wof:created":1461915906,
+    "wof:geomhash":"0e0aecc8515f77c5f5702723137f8ff6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082317,
+            "locality_id":85936811,
+            "neighbourhood_id":85842073,
+            "region_id":85688535,
+            "venue_id":739802793
+        }
+    ],
+    "wof:id":739802793,
+    "wof:lastmodified":1461915906,
+    "wof:name":"Crestview Animal Hospital",
+    "wof:parent_id":85842073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "emergency",
+        "hospital",
+        "clinic",
+        "veterinarian",
+        "kennel"
+    ]
+},
+  "bbox": [
+    -84.135882,
+    34.208378,
+    -84.135882,
+    34.208378
+],
+  "geometry": {"coordinates":[-84.135882,34.208378],"type":"Point"}
+}

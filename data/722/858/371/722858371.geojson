@@ -1,0 +1,71 @@
+{
+  "id": 722858371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.105905,33.541754,-82.105905,33.541754",
+    "geom:latitude":33.541754,
+    "geom:longitude":-82.105905,
+    "iso:country":"US",
+    "sg:address":"584 Blue Ridge Dr",
+    "sg:city":"Evans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 650 9700",
+    "sg:postcode":"30809",
+    "sg:province":"GA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bVEjFl5wwWYEA8MqsAeyw_33.541754_-82.105905@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461889980,
+    "wof:geomhash":"62ab9778dfd3d8831afcd7042b78bc47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":722858371
+        }
+    ],
+    "wof:id":722858371,
+    "wof:lastmodified":1461889980,
+    "wof:name":"Jack B Smith DDS",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -82.105905,
+    33.541754,
+    -82.105905,
+    33.541754
+],
+  "geometry": {"coordinates":[-82.10590500000001,33.541754],"type":"Point"}
+}

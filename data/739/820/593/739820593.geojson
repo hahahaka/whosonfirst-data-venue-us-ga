@@ -1,0 +1,78 @@
+{
+  "id": 739820593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.476501,34.009201,-84.476501,34.009201",
+    "geom:latitude":34.009201,
+    "geom:longitude":-84.476501,
+    "iso:country":"US",
+    "sg:address":"2598 Stoney Brook Ln NE",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 971 1802",
+    "sg:postcode":"30062",
+    "sg:province":"GA",
+    "sg:tags":[
+        "water",
+        "heater"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936135,
+        102082313,
+        85857049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pNSQiGkIym1MNrU60IGSf_34.009201_-84.476501@1303262580"
+    },
+    "wof:country":"US",
+    "wof:created":1461916720,
+    "wof:geomhash":"a438a473c0a8c81a1203def49c118dee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936135,
+            "neighbourhood_id":85857049,
+            "region_id":85688535,
+            "venue_id":739820593
+        }
+    ],
+    "wof:id":739820593,
+    "wof:lastmodified":1461916720,
+    "wof:name":"Elder Plumbing",
+    "wof:parent_id":85857049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "heater"
+    ]
+},
+  "bbox": [
+    -84.476501,
+    34.009201,
+    -84.476501,
+    34.009201
+],
+  "geometry": {"coordinates":[-84.476501,34.009201],"type":"Point"}
+}

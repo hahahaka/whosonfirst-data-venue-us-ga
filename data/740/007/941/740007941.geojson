@@ -1,0 +1,88 @@
+{
+  "id": 740007941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.428297,33.665212,-84.428297,33.665212",
+    "geom:latitude":33.665212,
+    "geom:longitude":-84.428297,
+    "iso:country":"US",
+    "sg:address":"3305 Bobby Brown Pkwy",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 767 6759",
+    "sg:postcode":"30344",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85890001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CuqYOVSJIl75GgdBZmkSJ_33.665212_-84.428297@1303262629"
+    },
+    "wof:country":"US",
+    "wof:created":1461924228,
+    "wof:geomhash":"06a81402786e431de48ff2b8e3c78fcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85890001,
+            "region_id":85688535,
+            "venue_id":740007941
+        }
+    ],
+    "wof:id":740007941,
+    "wof:lastmodified":1461924228,
+    "wof:name":"Airport Primary Care",
+    "wof:parent_id":85890001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.428297,
+    33.665212,
+    -84.428297,
+    33.665212
+],
+  "geometry": {"coordinates":[-84.428297,33.665212],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 739941699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.384263,33.778695,-84.384263,33.778695",
+    "geom:latitude":33.778695,
+    "geom:longitude":-84.384263,
+    "iso:country":"US",
+    "sg:address":"878 Peachtree St NE # 810",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 873 4300",
+    "sg:postcode":"30309",
+    "sg:province":"GA",
+    "sg:tags":[
+        "theatrical",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85866909,
+        85889947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zK8PLaStPm1msA0v97weF_33.778695_-84.384263@1303262611"
+    },
+    "wof:country":"US",
+    "wof:created":1461921540,
+    "wof:geomhash":"22eb34fd1eddf43c99597361cebfa078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85866909,
+            "region_id":85688535,
+            "venue_id":739941699
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85889947,
+            "region_id":85688535,
+            "venue_id":739941699
+        }
+    ],
+    "wof:id":739941699,
+    "wof:lastmodified":1461921540,
+    "wof:name":"Insight Training",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "theatrical",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -84.384263,
+    33.778695,
+    -84.384263,
+    33.778695
+],
+  "geometry": {"coordinates":[-84.384263,33.778695],"type":"Point"}
+}

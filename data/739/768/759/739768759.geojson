@@ -1,0 +1,73 @@
+{
+  "id": 739768759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.32511,33.827719,-84.32511,33.827719",
+    "geom:latitude":33.827719,
+    "geom:longitude":-84.32511,
+    "iso:country":"US",
+    "sg:address":"2420 N Druid Hills Rd NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/atlanta-decatur/195956-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30329",
+    "sg:province":"GA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937259,
+        102084539,
+        420517723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70MzCIxaBG3KIjUMIUUXzF_33.827719_-84.325110@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914498,
+    "wof:geomhash":"0404fbb31c0963038c491ca681e67a82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937259,
+            "neighbourhood_id":420517723,
+            "region_id":85688535,
+            "venue_id":739768759
+        }
+    ],
+    "wof:id":739768759,
+    "wof:lastmodified":1461914498,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":420517723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -84.32511,
+    33.827719,
+    -84.32511,
+    33.827719
+],
+  "geometry": {"coordinates":[-84.32511,33.827719],"type":"Point"}
+}

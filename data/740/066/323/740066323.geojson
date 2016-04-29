@@ -1,0 +1,86 @@
+{
+  "id": 740066323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.302569,30.880273,-83.302569,30.880273",
+    "geom:latitude":30.880273,
+    "geom:longitude":-83.302569,
+    "iso:country":"US",
+    "sg:address":"3205 Wildwood Plantation Dr",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 247 7585",
+    "sg:postcode":"31605",
+    "sg:province":"GA",
+    "sg:tags":[
+        "dentists-oral",
+        "physician",
+        "maxillofacial",
+        "surgeons",
+        "surgery",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85815713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Sr2wVLE4HrH6Lv8O2hZ0O_30.880273_-83.302569@1303262644"
+    },
+    "wof:country":"US",
+    "wof:created":1461926805,
+    "wof:geomhash":"fa01254f589b927faedaefbfa1718815",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85815713,
+            "region_id":85688535,
+            "venue_id":740066323
+        }
+    ],
+    "wof:id":740066323,
+    "wof:lastmodified":1461926805,
+    "wof:name":"Fernando Alvarado Dds",
+    "wof:parent_id":85815713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentists-oral",
+        "physician",
+        "maxillofacial",
+        "surgeons",
+        "surgery",
+        "oral"
+    ]
+},
+  "bbox": [
+    -83.302569,
+    30.880273,
+    -83.302569,
+    30.880273
+],
+  "geometry": {"coordinates":[-83.30256900000001,30.880273],"type":"Point"}
+}

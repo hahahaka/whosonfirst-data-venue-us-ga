@@ -1,0 +1,75 @@
+{
+  "id": 723480901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.95628,30.856621,-83.95628,30.856621",
+    "geom:latitude":30.856621,
+    "geom:longitude":-83.95628,
+    "iso:country":"US",
+    "sg:address":"113 Business Cir",
+    "sg:city":"Thomasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 225 2128",
+    "sg:postcode":"31792",
+    "sg:province":"GA",
+    "sg:tags":[
+        "machine",
+        "automotive",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85833309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11vhUqaRlVnAZpHOkLMhN3_30.856621_-83.956280@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461902556,
+    "wof:geomhash":"c783b4ab7a0635a5f9c6e0e3f2422184",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85833309,
+            "region_id":85688535,
+            "venue_id":723480901
+        }
+    ],
+    "wof:id":723480901,
+    "wof:lastmodified":1461902556,
+    "wof:name":"Kelley Automotive Machine Shop",
+    "wof:parent_id":85833309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automotive",
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.95628,
+    30.856621,
+    -83.95628,
+    30.856621
+],
+  "geometry": {"coordinates":[-83.95628000000001,30.856621],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 739986125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.4515,33.6493,-84.4515,33.6493",
+    "geom:latitude":33.6493,
+    "geom:longitude":-84.4515,
+    "iso:country":"US",
+    "sg:address":"3872 College St",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 278 0137",
+    "sg:postcode":"30337",
+    "sg:province":"GA",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.airportparknbark.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526927,
+        85688535,
+        85633793,
+        102082333,
+        85815707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Y5mfdBQw5YgMoSwcfOReh_33.649300_-84.451500@1303262623"
+    },
+    "wof:country":"US",
+    "wof:created":1461923399,
+    "wof:geomhash":"8801d1f8c2723765e3076ec23dc6269e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526927,
+            "country_id":85633793,
+            "county_id":102082333,
+            "neighbourhood_id":85815707,
+            "region_id":85688535,
+            "venue_id":739986125
+        }
+    ],
+    "wof:id":739986125,
+    "wof:lastmodified":1461923399,
+    "wof:name":"Airport Park 'N Bark",
+    "wof:parent_id":102526927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.4515,
+    33.6493,
+    -84.4515,
+    33.6493
+],
+  "geometry": {"coordinates":[-84.4515,33.6493],"type":"Point"}
+}

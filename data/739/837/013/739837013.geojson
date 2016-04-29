@@ -1,0 +1,75 @@
+{
+  "id": 739837013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.340698,34.046501,-84.340698,34.046501",
+    "geom:latitude":34.046501,
+    "geom:longitude":-84.340698,
+    "iso:country":"US",
+    "sg:address":"670 Houze Way Ste E",
+    "sg:city":"Roswell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 998 7884",
+    "sg:postcode":"30076",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937153,
+        102083603,
+        85812681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oyLtQxTmu8irEriS4aehq_34.046501_-84.340698@1303262585"
+    },
+    "wof:country":"US",
+    "wof:created":1461917374,
+    "wof:geomhash":"e96195268368aeed4a3c24f7926daa74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937153,
+            "neighbourhood_id":85812681,
+            "region_id":85688535,
+            "venue_id":739837013
+        }
+    ],
+    "wof:id":739837013,
+    "wof:lastmodified":1461917374,
+    "wof:name":"North Point Collision",
+    "wof:parent_id":85812681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.340698,
+    34.046501,
+    -84.340698,
+    34.046501
+],
+  "geometry": {"coordinates":[-84.340698,34.046501],"type":"Point"}
+}

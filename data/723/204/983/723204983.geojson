@@ -1,0 +1,85 @@
+{
+  "id": 723204983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.246394,32.119142,-81.246394,32.119142",
+    "geom:latitude":32.119142,
+    "geom:longitude":-81.246394,
+    "iso:country":"US",
+    "sg:address":"160 Tarver St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 754 1238",
+    "sg:postcode":"31322",
+    "sg:province":"GA",
+    "sg:tags":[
+        "tank",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936945,
+        102082337,
+        85857815,
+        420517409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3504vzSRn2U2hqKwJUZbrx_32.119142_-81.246394@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897169,
+    "wof:geomhash":"4fb4abb64cdcbb71b29caed7fee24545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936945,
+            "neighbourhood_id":85857815,
+            "region_id":85688535,
+            "venue_id":723204983
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936945,
+            "neighbourhood_id":420517409,
+            "region_id":85688535,
+            "venue_id":723204983
+        }
+    ],
+    "wof:id":723204983,
+    "wof:lastmodified":1461897169,
+    "wof:name":"Oglesby's Septic Tank Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "septic"
+    ]
+},
+  "bbox": [
+    -81.246394,
+    32.119142,
+    -81.246394,
+    32.119142
+],
+  "geometry": {"coordinates":[-81.246394,32.119142],"type":"Point"}
+}

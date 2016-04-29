@@ -1,0 +1,88 @@
+{
+  "id": 739768159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.383219,33.78681,-84.383219,33.78681",
+    "geom:latitude":33.78681,
+    "geom:longitude":-84.383219,
+    "iso:country":"US",
+    "sg:address":"1180 Peachtree St NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/atlanta/56196-rising-roll/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 815 6787",
+    "sg:postcode":"30309",
+    "sg:province":"GA",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85866909,
+        85872127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1014lCbB3H94NP9wuwQzu5_33.786810_-84.383219@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914466,
+    "wof:geomhash":"a5a036cd858115a51839bbc9f9cdd045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85866909,
+            "region_id":85688535,
+            "venue_id":739768159
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872127,
+            "region_id":85688535,
+            "venue_id":739768159
+        }
+    ],
+    "wof:id":739768159,
+    "wof:lastmodified":1461914466,
+    "wof:name":"Rising Roll",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.383219,
+    33.78681,
+    -84.383219,
+    33.78681
+],
+  "geometry": {"coordinates":[-84.383219,33.78681],"type":"Point"}
+}

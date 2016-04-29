@@ -1,0 +1,75 @@
+{
+  "id": 739725859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.305516,33.885243,-84.305516,33.885243",
+    "geom:latitude":33.885243,
+    "geom:longitude":-84.305516,
+    "iso:country":"US",
+    "sg:address":"2005 Flightway Dr",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 457 5732",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "nonscheduled",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102525899,
+        85688535,
+        85633793,
+        85937255,
+        102084539,
+        85807835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ikVpBJrAdWjWuahGx4gHv_33.885243_-84.305516@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461913110,
+    "wof:geomhash":"2837cdd86afd9ba72a44c5d8c53e5335",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525899,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937255,
+            "neighbourhood_id":85807835,
+            "region_id":85688535,
+            "venue_id":739725859
+        }
+    ],
+    "wof:id":739725859,
+    "wof:lastmodified":1461913110,
+    "wof:name":"Spectrum Air Services",
+    "wof:parent_id":102525899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonscheduled",
+        "air"
+    ]
+},
+  "bbox": [
+    -84.305516,
+    33.885243,
+    -84.305516,
+    33.885243
+],
+  "geometry": {"coordinates":[-84.305516,33.885243],"type":"Point"}
+}

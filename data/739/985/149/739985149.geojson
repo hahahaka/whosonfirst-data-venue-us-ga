@@ -1,0 +1,86 @@
+{
+  "id": 739985149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.544724,33.751058,-84.544724,33.751058",
+    "geom:latitude":33.751058,
+    "geom:longitude":-84.544724,
+    "iso:country":"US",
+    "sg:address":"4800 Mendel Ct SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 691 2466",
+    "sg:postcode":"30336",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body",
+        "equipment",
+        "truck",
+        "painting"
+    ],
+    "sg:website":"http://www.morgancorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85872053,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dbovUsmxojA4W3TVmDYOs_33.751058_-84.544724@1303262623"
+    },
+    "wof:country":"US",
+    "wof:created":1461923351,
+    "wof:geomhash":"857ff1bd4275924d0289d62fd523808f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85872053,
+            "region_id":85688535,
+            "venue_id":739985149
+        }
+    ],
+    "wof:id":739985149,
+    "wof:lastmodified":1461923351,
+    "wof:name":"Morgan Corporation",
+    "wof:parent_id":85872053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "equipment",
+        "truck",
+        "painting"
+    ]
+},
+  "bbox": [
+    -84.544724,
+    33.751058,
+    -84.544724,
+    33.751058
+],
+  "geometry": {"coordinates":[-84.544724,33.751058],"type":"Point"}
+}

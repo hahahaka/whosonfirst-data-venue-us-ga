@@ -1,0 +1,83 @@
+{
+  "id": 739901347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.754326,33.377402,-84.754326,33.377402",
+    "geom:latitude":33.377402,
+    "geom:longitude":-84.754326,
+    "iso:country":"US",
+    "sg:address":"1725 Newnan Crossing Blvd E",
+    "sg:city":"Newnan",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 254 8909",
+    "sg:postcode":"30265",
+    "sg:province":"GA",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"https://www.wachovia.com/?DCMP=KNL-CPS-DS-Directory-0703&HBX_PK=Banks&HBX_OU=71",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936351,
+        102084443,
+        85833133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rLqDEVWlkpQyd2ChA9YwZ_33.377402_-84.754326@1303262601"
+    },
+    "wof:country":"US",
+    "wof:created":1461919876,
+    "wof:geomhash":"1df9150d8b4fc458325cab399d51cd4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084443,
+            "locality_id":85936351,
+            "neighbourhood_id":85833133,
+            "region_id":85688535,
+            "venue_id":739901347
+        }
+    ],
+    "wof:id":739901347,
+    "wof:lastmodified":1461919876,
+    "wof:name":"Wachovia Bank",
+    "wof:parent_id":85833133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -84.754326,
+    33.377402,
+    -84.754326,
+    33.377402
+],
+  "geometry": {"coordinates":[-84.75432600000001,33.377402],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 722842105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.617154,31.168484,-81.617154,31.168484",
+    "geom:latitude":31.168484,
+    "geom:longitude":-81.617154,
+    "iso:country":"US",
+    "sg:address":"155 Stafford Rd",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 265 0601",
+    "sg:postcode":"31523",
+    "sg:province":"GA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85833275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Fh3wqbKsBV8y2rFtFw7jY_31.168484_-81.617154@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461889667,
+    "wof:geomhash":"ee233fcbb891318aa5c408733d163511",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85833275,
+            "region_id":85688535,
+            "venue_id":722842105
+        }
+    ],
+    "wof:id":722842105,
+    "wof:lastmodified":1461889667,
+    "wof:name":"Ray's Mobile Transmission Svc",
+    "wof:parent_id":85833275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -81.617154,
+    31.168484,
+    -81.617154,
+    31.168484
+],
+  "geometry": {"coordinates":[-81.617154,31.168484],"type":"Point"}
+}

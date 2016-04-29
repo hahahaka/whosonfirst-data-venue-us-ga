@@ -1,0 +1,73 @@
+{
+  "id": 739443975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.884153,32.551548,-83.884153,32.551548",
+    "geom:latitude":32.551548,
+    "geom:longitude":-83.884153,
+    "iso:country":"US",
+    "sg:address":"303 Martin Luther King Jr Dr",
+    "sg:city":"Fort Valley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 825 3779",
+    "sg:postcode":"31030",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936251,
+        102082339,
+        85840991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JVJrOMp9xJ785Wp5izroj_32.551548_-83.884153@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907437,
+    "wof:geomhash":"4b66bccd14ea6227c3d274a577681753",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082339,
+            "locality_id":85936251,
+            "neighbourhood_id":85840991,
+            "region_id":85688535,
+            "venue_id":739443975
+        }
+    ],
+    "wof:id":739443975,
+    "wof:lastmodified":1461907437,
+    "wof:name":"Giles Garage",
+    "wof:parent_id":85840991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.884153,
+    32.551548,
+    -83.884153,
+    32.551548
+],
+  "geometry": {"coordinates":[-83.884153,32.551548],"type":"Point"}
+}

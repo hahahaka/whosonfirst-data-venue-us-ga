@@ -1,0 +1,73 @@
+{
+  "id": 722611401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.94904,34.506152,-84.94904,34.506152",
+    "geom:latitude":34.506152,
+    "geom:longitude":-84.94904,
+    "iso:country":"US",
+    "sg:address":"117 College St",
+    "sg:city":"Calhoun",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 629 3600",
+    "sg:postcode":"30701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936609,
+        102084679,
+        85817247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eEMHtVx0ANoe4BISCr9nu_34.506152_-84.949040@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461885197,
+    "wof:geomhash":"f9302f669cb0b23855d772669b5270c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084679,
+            "locality_id":85936609,
+            "neighbourhood_id":85817247,
+            "region_id":85688535,
+            "venue_id":722611401
+        }
+    ],
+    "wof:id":722611401,
+    "wof:lastmodified":1461885197,
+    "wof:name":"College Street Mobile Auto Rpr",
+    "wof:parent_id":85817247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.94904,
+    34.506152,
+    -84.94904,
+    34.506152
+],
+  "geometry": {"coordinates":[-84.94904,34.506152],"type":"Point"}
+}

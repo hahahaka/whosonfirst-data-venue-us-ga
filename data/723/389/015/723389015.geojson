@@ -1,0 +1,71 @@
+{
+  "id": 723389015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.61045,33.9043,-84.61045,33.9043",
+    "geom:latitude":33.9043,
+    "geom:longitude":-84.61045,
+    "iso:country":"US",
+    "sg:address":"2085 Bond Rd",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 792 1200",
+    "sg:postcode":"30064",
+    "sg:province":"GA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KLNiv4u18iqlpVjCppKqz_33.904300_-84.610450@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900748,
+    "wof:geomhash":"7ec02a10d72359c40d879ca96a3a6d8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":723389015
+        }
+    ],
+    "wof:id":723389015,
+    "wof:lastmodified":1461900748,
+    "wof:name":"Brotherhood Plumbing",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.61045,
+    33.9043,
+    -84.61045,
+    33.9043
+],
+  "geometry": {"coordinates":[-84.61045,33.9043],"type":"Point"}
+}

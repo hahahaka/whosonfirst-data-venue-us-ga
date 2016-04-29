@@ -1,0 +1,82 @@
+{
+  "id": 723288223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.786048,32.453507,-81.786048,32.453507",
+    "geom:latitude":32.453507,
+    "geom:longitude":-81.786048,
+    "iso:country":"US",
+    "sg:address":"109 Church St",
+    "sg:city":"Statesboro",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 764 6740",
+    "sg:postcode":"30458",
+    "sg:province":"GA",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935999,
+        102084405,
+        85823149,
+        102191575,
+        85828471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16qEILr8mGEmtEA93RSKlj_32.453507_-81.786048@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461898833,
+    "wof:geomhash":"c1db7f39457f1a0cbe6fc8f1634ab3c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85823149,
+            "region_id":85688535,
+            "venue_id":723288223
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85828471,
+            "region_id":85688535,
+            "venue_id":723288223
+        }
+    ],
+    "wof:id":723288223,
+    "wof:lastmodified":1461898833,
+    "wof:name":"Smiths Family Daycare",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -81.786048,
+    32.453507,
+    -81.786048,
+    32.453507
+],
+  "geometry": {"coordinates":[-81.78604799999999,32.453507],"type":"Point"}
+}

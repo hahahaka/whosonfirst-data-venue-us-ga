@@ -1,0 +1,84 @@
+{
+  "id": 723318827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.280242,33.933208,-84.280242,33.933208",
+    "geom:latitude":33.933208,
+    "geom:longitude":-84.280242,
+    "iso:country":"US",
+    "sg:address":"2611 Andover Dr",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 454 9559",
+    "sg:postcode":"30360",
+    "sg:province":"GA",
+    "sg:tags":[
+        "residential",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xDo5G8UrVLoQATvUT884F_33.933208_-84.280242@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899429,
+    "wof:geomhash":"e443636f21777e882746209b15baf96b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":723318827
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":723318827
+        }
+    ],
+    "wof:id":723318827,
+    "wof:lastmodified":1461899429,
+    "wof:name":"Pasadena Material Co Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -84.280242,
+    33.933208,
+    -84.280242,
+    33.933208
+],
+  "geometry": {"coordinates":[-84.280242,33.933208],"type":"Point"}
+}

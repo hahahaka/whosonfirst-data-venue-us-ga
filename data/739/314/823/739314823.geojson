@@ -1,0 +1,73 @@
+{
+  "id": 739314823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.989062,32.483028,-84.989062,32.483028",
+    "geom:latitude":32.483028,
+    "geom:longitude":-84.989062,
+    "iso:country":"US",
+    "sg:address":"1905 3rd Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 653 3501",
+    "sg:postcode":"31901",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85882101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5W9mTRcyfzf0jGbiyfidoI_32.483028_-84.989062@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461904863,
+    "wof:geomhash":"66ea11ed8a5e8b14f8bf3d8229e0a14d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85882101,
+            "region_id":85688535,
+            "venue_id":739314823
+        }
+    ],
+    "wof:id":739314823,
+    "wof:lastmodified":1461904863,
+    "wof:name":"Columbus Fire Chief",
+    "wof:parent_id":85882101,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.989062,
+    32.483028,
+    -84.989062,
+    32.483028
+],
+  "geometry": {"coordinates":[-84.989062,32.483028],"type":"Point"}
+}

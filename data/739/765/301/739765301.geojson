@@ -1,0 +1,72 @@
+{
+  "id": 739765301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.70151,34.05114,-84.70151,34.05114",
+    "geom:latitude":34.05114,
+    "geom:longitude":-84.70151,
+    "iso:country":"US",
+    "sg:address":"3826 Cobb Pkwy NW",
+    "sg:city":"Acworth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/acworth-kennesaw/132209-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 529 1550",
+    "sg:postcode":"30101",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818265,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wplKHhJSjrKtexFIhZ9uT_34.051140_-84.701510@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914354,
+    "wof:geomhash":"f3ac77ad428e4e0c9593bea7053ffe1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85818265,
+            "region_id":85688535,
+            "venue_id":739765301
+        }
+    ],
+    "wof:id":739765301,
+    "wof:lastmodified":1461914354,
+    "wof:name":"Subway",
+    "wof:parent_id":85818265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.70151,
+    34.05114,
+    -84.70151,
+    34.05114
+],
+  "geometry": {"coordinates":[-84.70151,34.05114],"type":"Point"}
+}

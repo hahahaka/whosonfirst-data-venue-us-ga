@@ -1,0 +1,75 @@
+{
+  "id": 723408001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.254114,34.765786,-85.254114,34.765786",
+    "geom:latitude":34.765786,
+    "geom:longitude":-85.254114,
+    "iso:country":"US",
+    "sg:address":"343 E Reed Rd",
+    "sg:city":"La Fayette",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 764 2086",
+    "sg:postcode":"30728",
+    "sg:province":"GA",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936063,
+        102082321,
+        85830807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VNXCVUZ9y5ORdMhKhakvH_34.765786_-85.254114@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901129,
+    "wof:geomhash":"02f5fa814ad3f5fe9d70503d7fbadf3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082321,
+            "locality_id":85936063,
+            "neighbourhood_id":85830807,
+            "region_id":85688535,
+            "venue_id":723408001
+        }
+    ],
+    "wof:id":723408001,
+    "wof:lastmodified":1461901129,
+    "wof:name":"Walker County Water Sewer Plnt",
+    "wof:parent_id":85830807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -85.254114,
+    34.765786,
+    -85.254114,
+    34.765786
+],
+  "geometry": {"coordinates":[-85.254114,34.765786],"type":"Point"}
+}

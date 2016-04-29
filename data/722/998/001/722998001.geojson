@@ -1,0 +1,71 @@
+{
+  "id": 722998001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.200486,30.701203,-83.200486,30.701203",
+    "geom:latitude":30.701203,
+    "geom:longitude":-83.200486,
+    "iso:country":"US",
+    "sg:address":"5606 Winona Cir",
+    "sg:city":"Lake Park",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 559 3355",
+    "sg:postcode":"31636",
+    "sg:province":"GA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85827233,
+        102083585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gS010RmrNbyNXKq0EEjew_30.701203_-83.200486@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461892858,
+    "wof:geomhash":"6c07bd510142b20ee9e0dd35b1310207",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "neighbourhood_id":85827233,
+            "region_id":85688535,
+            "venue_id":722998001
+        }
+    ],
+    "wof:id":722998001,
+    "wof:lastmodified":1461892858,
+    "wof:name":"Killeen Electric Service",
+    "wof:parent_id":85827233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.200486,
+    30.701203,
+    -83.200486,
+    30.701203
+],
+  "geometry": {"coordinates":[-83.200486,30.701203],"type":"Point"}
+}

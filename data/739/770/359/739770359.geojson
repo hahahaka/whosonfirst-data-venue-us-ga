@@ -1,0 +1,76 @@
+{
+  "id": 739770359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.386501,33.939378,-83.386501,33.939378",
+    "geom:latitude":33.939378,
+    "geom:longitude":-83.386501,
+    "iso:country":"US",
+    "sg:address":"1591 S Lumpkin St",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/athens/132243-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 548 0080",
+    "sg:postcode":"30605",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936177,
+        102081713,
+        85845017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rbXNfTjBFwQgpmzDtzcOp_33.939378_-83.386501@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914558,
+    "wof:geomhash":"e327133de8499931ea42b09d7b6eb894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081713,
+            "locality_id":85936177,
+            "neighbourhood_id":85845017,
+            "region_id":85688535,
+            "venue_id":739770359
+        }
+    ],
+    "wof:id":739770359,
+    "wof:lastmodified":1461914558,
+    "wof:name":"Subway",
+    "wof:parent_id":85845017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.386501,
+    33.939378,
+    -83.386501,
+    33.939378
+],
+  "geometry": {"coordinates":[-83.386501,33.939378],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 739752551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.263622,33.822555,-84.263622,33.822555",
+    "geom:latitude":33.822555,
+    "geom:longitude":-84.263622,
+    "iso:country":"US",
+    "sg:address":"2586 Lawrenceville Hwy",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 491 8616",
+    "sg:postcode":"30303",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.cvs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937263,
+        102084539,
+        85890037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zqWUW5fnJAxjekjynf1Kb_33.822569_-84.263029@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461913805,
+    "wof:geomhash":"4bb022eeea16318b8d6993395f6a7fc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937263,
+            "neighbourhood_id":85890037,
+            "region_id":85688535,
+            "venue_id":739752551
+        }
+    ],
+    "wof:id":739752551,
+    "wof:lastmodified":1461913805,
+    "wof:name":"Cvs Pharmacy",
+    "wof:parent_id":85890037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -84.263622,
+    33.822555,
+    -84.263622,
+    33.822555
+],
+  "geometry": {"coordinates":[-84.263622,33.822555],"type":"Point"}
+}

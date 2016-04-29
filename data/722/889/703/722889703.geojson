@@ -1,0 +1,83 @@
+{
+  "id": 722889703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.43255,33.810939,-84.43255,33.810939",
+    "geom:latitude":33.810939,
+    "geom:longitude":-84.43255,
+    "iso:country":"US",
+    "sg:address":"1960 Hills Ave NW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 351 1959",
+    "sg:postcode":"30318",
+    "sg:province":"GA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872135,
+        85872079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Cuburct2CdBrlzMSYAgnw_33.810939_-84.432550@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461890574,
+    "wof:geomhash":"d16fff2b64cdeebfea8ae2fe7f561479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872135,
+            "region_id":85688535,
+            "venue_id":722889703
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872079,
+            "region_id":85688535,
+            "venue_id":722889703
+        }
+    ],
+    "wof:id":722889703,
+    "wof:lastmodified":1461890574,
+    "wof:name":"Quik Action Plumbing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.43255,
+    33.810939,
+    -84.43255,
+    33.810939
+],
+  "geometry": {"coordinates":[-84.43255000000001,33.810939],"type":"Point"}
+}

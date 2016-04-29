@@ -1,0 +1,72 @@
+{
+  "id": 739862049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.68301,34.035525,-84.68301,34.035525",
+    "geom:latitude":34.035525,
+    "geom:longitude":-84.68301,
+    "iso:country":"US",
+    "sg:address":"3335 Cobb Pkwy NW Ste 600",
+    "sg:city":"Acworth",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 574 4715",
+    "sg:postcode":"30101",
+    "sg:province":"GA",
+    "sg:website":"www.bestbuy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936129,
+        102082313,
+        85829479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Py7b2h11V1F46JmqvWiGY_34.035525_-84.683010@1303262591"
+    },
+    "wof:country":"US",
+    "wof:created":1461918392,
+    "wof:geomhash":"a4d7c37bd30bf8fbc14de774b80acad7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936129,
+            "neighbourhood_id":85829479,
+            "region_id":85688535,
+            "venue_id":739862049
+        }
+    ],
+    "wof:id":739862049,
+    "wof:lastmodified":1461918392,
+    "wof:name":"Best Buy",
+    "wof:parent_id":85829479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.68301,
+    34.035525,
+    -84.68301,
+    34.035525
+],
+  "geometry": {"coordinates":[-84.68301,34.035525],"type":"Point"}
+}

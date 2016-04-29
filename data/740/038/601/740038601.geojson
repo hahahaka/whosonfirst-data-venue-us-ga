@@ -1,0 +1,87 @@
+{
+  "id": 740038601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.941289,34.521969,-84.941289,34.521969",
+    "geom:latitude":34.521969,
+    "geom:longitude":-84.941289,
+    "iso:country":"US",
+    "sg:address":"1112 N Wall St",
+    "sg:city":"Calhoun",
+    "sg:classifiers":[
+        {
+            "category":"Food Court",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 625 0077",
+    "sg:postcode":"30701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "concession",
+        "management",
+        "merchandise",
+        "concessionaire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936609,
+        102084679,
+        85817247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aQvBCA3D6PRoScQZ5eCIt_34.521969_-84.941289@1303262637"
+    },
+    "wof:country":"US",
+    "wof:created":1461925511,
+    "wof:geomhash":"93b4b71ee36a9d9e69ddaabd646dbc16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084679,
+            "locality_id":85936609,
+            "neighbourhood_id":85817247,
+            "region_id":85688535,
+            "venue_id":740038601
+        }
+    ],
+    "wof:id":740038601,
+    "wof:lastmodified":1461925511,
+    "wof:name":"Worley's Food Service Inc",
+    "wof:parent_id":85817247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concession",
+        "management",
+        "merchandise",
+        "concessionaire"
+    ]
+},
+  "bbox": [
+    -84.941289,
+    34.521969,
+    -84.941289,
+    34.521969
+],
+  "geometry": {"coordinates":[-84.941289,34.521969],"type":"Point"}
+}

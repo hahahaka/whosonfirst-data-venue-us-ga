@@ -1,0 +1,78 @@
+{
+  "id": 740058299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.092009,32.077552,-81.092009,32.077552",
+    "geom:latitude":32.077552,
+    "geom:longitude":-81.092009,
+    "iso:country":"US",
+    "sg:address":"19 E York St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Day Spa",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 272 7676",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936939,
+        102082337,
+        85880917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5e4QzdBNPhg6rKgbSDOl07_32.077552_-81.092009@1303262642"
+    },
+    "wof:country":"US",
+    "wof:created":1461926461,
+    "wof:geomhash":"219058a8769b9befa4d7daad3dc86ee0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880917,
+            "region_id":85688535,
+            "venue_id":740058299
+        }
+    ],
+    "wof:id":740058299,
+    "wof:lastmodified":1461926461,
+    "wof:name":"J W Salon & Spa",
+    "wof:parent_id":85880917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [
+    -81.092009,
+    32.077552,
+    -81.092009,
+    32.077552
+],
+  "geometry": {"coordinates":[-81.092009,32.077552],"type":"Point"}
+}

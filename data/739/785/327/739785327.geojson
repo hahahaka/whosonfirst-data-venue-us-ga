@@ -1,0 +1,77 @@
+{
+  "id": 739785327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.987491,33.888726,-83.987491,33.888726",
+    "geom:latitude":33.888726,
+    "geom:longitude":-83.987491,
+    "iso:country":"US",
+    "sg:address":"1145 Pine Lake Dr",
+    "sg:city":"Grayson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 894 4182",
+    "sg:postcode":"30017",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical",
+        "surgical",
+        "hospitalization",
+        "plan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936303,
+        102082967,
+        85857829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kvTPetTcK2fZctwhypHcA_33.888726_-83.987491@1303262571"
+    },
+    "wof:country":"US",
+    "wof:created":1461915146,
+    "wof:geomhash":"554ed8755f088210a127993fd57ddd27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936303,
+            "neighbourhood_id":85857829,
+            "region_id":85688535,
+            "venue_id":739785327
+        }
+    ],
+    "wof:id":739785327,
+    "wof:lastmodified":1461915146,
+    "wof:name":"Megs Enterprise, Inc.",
+    "wof:parent_id":85857829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "surgical",
+        "hospitalization",
+        "plan"
+    ]
+},
+  "bbox": [
+    -83.987491,
+    33.888726,
+    -83.987491,
+    33.888726
+],
+  "geometry": {"coordinates":[-83.98749100000001,33.888726],"type":"Point"}
+}

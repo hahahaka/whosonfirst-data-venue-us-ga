@@ -1,0 +1,73 @@
+{
+  "id": 739774227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.216287,31.613849,-84.216287,31.613849",
+    "geom:latitude":31.613849,
+    "geom:longitude":-84.216287,
+    "iso:country":"US",
+    "sg:address":"2615 Dawson Rd",
+    "sg:city":"Albany",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/west-dougherty/203132-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"31707",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935991,
+        102084427,
+        85842573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hKXAVJ5ZDKhwPTEmwiaKe_31.613849_-84.216287@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914718,
+    "wof:geomhash":"a5a38746432283343d8b2cf3d2124209",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":85842573,
+            "region_id":85688535,
+            "venue_id":739774227
+        }
+    ],
+    "wof:id":739774227,
+    "wof:lastmodified":1461914718,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85842573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.216287,
+    31.613849,
+    -84.216287,
+    31.613849
+],
+  "geometry": {"coordinates":[-84.21628699999999,31.613849],"type":"Point"}
+}

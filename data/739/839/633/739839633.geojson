@@ -1,0 +1,71 @@
+{
+  "id": 739839633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.033615,33.854484,-84.033615,33.854484",
+    "geom:latitude":33.854484,
+    "geom:longitude":-84.033615,
+    "iso:country":"US",
+    "sg:address":"2184 McGee Rd",
+    "sg:city":"Snellville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 972 0447",
+    "sg:postcode":"30078",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936303,
+        102082967,
+        85857829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7P4e6H17Vj1fJdEKnuOWtk_33.854484_-84.033615@1303262585"
+    },
+    "wof:country":"US",
+    "wof:created":1461917473,
+    "wof:geomhash":"be3adf312b145e018a621e2e824bee7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936303,
+            "neighbourhood_id":85857829,
+            "region_id":85688535,
+            "venue_id":739839633
+        }
+    ],
+    "wof:id":739839633,
+    "wof:lastmodified":1461917473,
+    "wof:name":"Harris Bradley DVM",
+    "wof:parent_id":85857829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.033615,
+    33.854484,
+    -84.033615,
+    33.854484
+],
+  "geometry": {"coordinates":[-84.033615,33.854484],"type":"Point"}
+}

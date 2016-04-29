@@ -1,0 +1,87 @@
+{
+  "id": 739780409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.559371,33.925222,-84.559371,33.925222",
+    "geom:latitude":33.925222,
+    "geom:longitude":-84.559371,
+    "iso:country":"US",
+    "sg:address":"1154 Jill Ln SW",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 360 8215",
+    "sg:postcode":"30008",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automobile",
+        "equipment-service",
+        "diagnostic",
+        "inspection",
+        "air conditioning"
+    ],
+    "sg:website":"http://macsmobileautoservice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937191,
+        102082313,
+        85857593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OtvuAg6yRgxebn0YO6fAO_33.925222_-84.559371@1303262570"
+    },
+    "wof:country":"US",
+    "wof:created":1461914961,
+    "wof:geomhash":"350985d4ca572c0d2154fa248d01be65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85937191,
+            "neighbourhood_id":85857593,
+            "region_id":85688535,
+            "venue_id":739780409
+        }
+    ],
+    "wof:id":739780409,
+    "wof:lastmodified":1461914961,
+    "wof:name":"Mac's Mobile Automotive Service",
+    "wof:parent_id":85857593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "equipment-service",
+        "diagnostic",
+        "inspection",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -84.559371,
+    33.925222,
+    -84.559371,
+    33.925222
+],
+  "geometry": {"coordinates":[-84.559371,33.925222],"type":"Point"}
+}

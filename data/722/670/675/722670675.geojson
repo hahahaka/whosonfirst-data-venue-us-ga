@@ -1,0 +1,78 @@
+{
+  "id": 722670675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.058221,33.031422,-85.058221,33.031422",
+    "geom:latitude":33.031422,
+    "geom:longitude":-85.058221,
+    "iso:country":"US",
+    "sg:address":"111 Medical Dr",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 845 3929",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "clinic",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85830157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TMiIfLkY144Q2RpBIGiqD_33.031422_-85.058221@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886409,
+    "wof:geomhash":"5575d905fd71c783954939833ce1b97d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85830157,
+            "region_id":85688535,
+            "venue_id":722670675
+        }
+    ],
+    "wof:id":722670675,
+    "wof:lastmodified":1461886409,
+    "wof:name":"Enoch Callaway Cancer Center",
+    "wof:parent_id":85830157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "medical"
+    ]
+},
+  "bbox": [
+    -85.058221,
+    33.031422,
+    -85.058221,
+    33.031422
+],
+  "geometry": {"coordinates":[-85.058221,33.031422],"type":"Point"}
+}

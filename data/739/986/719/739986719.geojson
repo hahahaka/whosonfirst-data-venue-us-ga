@@ -1,0 +1,84 @@
+{
+  "id": 739986719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.340458,33.932892,-84.340458,33.932892",
+    "geom:latitude":33.932892,
+    "geom:longitude":-84.340458,
+    "iso:country":"US",
+    "sg:address":"1000 Ashwood Pkwy",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 579 0433",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "sg:website":"www.waltoncommunities.com/ashwood",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        420559925,
+        85890003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34AlYlpTLH5rpUXwbrezwX_33.932892_-84.340458@1303262623"
+    },
+    "wof:country":"US",
+    "wof:created":1461923419,
+    "wof:geomhash":"62bac0c6a6ab62a85eddf2cdb395a036",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":420559925,
+            "region_id":85688535,
+            "venue_id":739986719
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890003,
+            "region_id":85688535,
+            "venue_id":739986719
+        }
+    ],
+    "wof:id":739986719,
+    "wof:lastmodified":1461923419,
+    "wof:name":"Walton Ashwood",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.340458,
+    33.932892,
+    -84.340458,
+    33.932892
+],
+  "geometry": {"coordinates":[-84.340458,33.932892],"type":"Point"}
+}

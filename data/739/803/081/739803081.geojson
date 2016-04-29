@@ -1,0 +1,73 @@
+{
+  "id": 739803081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.186736,34.231339,-84.186736,34.231339",
+    "geom:latitude":34.231339,
+    "geom:longitude":-84.186736,
+    "iso:country":"US",
+    "sg:address":"2855 Woodland Hills Dr",
+    "sg:city":"Cumming",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 888 6281",
+    "sg:postcode":"30040",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936811,
+        102082317,
+        85842073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ryPsqH919TttfCzIWA6pw_34.231339_-84.186736@1303262576"
+    },
+    "wof:country":"US",
+    "wof:created":1461915922,
+    "wof:geomhash":"1e29884d8a11488488b6073da48a6aea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082317,
+            "locality_id":85936811,
+            "neighbourhood_id":85842073,
+            "region_id":85688535,
+            "venue_id":739803081
+        }
+    ],
+    "wof:id":739803081,
+    "wof:lastmodified":1461915922,
+    "wof:name":"Mark Dr Hasting",
+    "wof:parent_id":85842073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.186736,
+    34.231339,
+    -84.186736,
+    34.231339
+],
+  "geometry": {"coordinates":[-84.186736,34.231339],"type":"Point"}
+}

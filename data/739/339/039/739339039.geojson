@@ -1,0 +1,71 @@
+{
+  "id": 739339039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.737298,34.449466,-84.737298,34.449466",
+    "geom:latitude":34.449466,
+    "geom:longitude":-84.737298,
+    "iso:country":"US",
+    "sg:address":"208 Mauldin Rd SE",
+    "sg:city":"Fairmount",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 337 2603",
+    "sg:postcode":"30139",
+    "sg:province":"GA",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85836757,
+        102084679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YX79MW8FKnBkjHvrMLqsU_34.449466_-84.737298@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461905364,
+    "wof:geomhash":"f550188718a780d0b5466a1ba4db3865",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084679,
+            "neighbourhood_id":85836757,
+            "region_id":85688535,
+            "venue_id":739339039
+        }
+    ],
+    "wof:id":739339039,
+    "wof:lastmodified":1461905364,
+    "wof:name":"Mauldin Trash Svc",
+    "wof:parent_id":85836757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -84.737298,
+    34.449466,
+    -84.737298,
+    34.449466
+],
+  "geometry": {"coordinates":[-84.737298,34.449466],"type":"Point"}
+}

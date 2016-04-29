@@ -1,0 +1,72 @@
+{
+  "id": 739768839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.527985,33.775629,-84.527985,33.775629",
+    "geom:latitude":33.775629,
+    "geom:longitude":-84.527985,
+    "iso:country":"US",
+    "sg:address":"99 National Dr SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/atlanta/81646-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 762 6008",
+    "sg:postcode":"30336",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85872053,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GQzAKcSrk8hJxixn1kDuN_33.775629_-84.527985@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914501,
+    "wof:geomhash":"6fe6fac7529175f0dd1490a49a9d614d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85872053,
+            "region_id":85688535,
+            "venue_id":739768839
+        }
+    ],
+    "wof:id":739768839,
+    "wof:lastmodified":1461914501,
+    "wof:name":"Subway",
+    "wof:parent_id":85872053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.527985,
+    33.775629,
+    -84.527985,
+    33.775629
+],
+  "geometry": {"coordinates":[-84.527985,33.775629],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 722541479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.102787,32.06535,-81.102787,32.06535",
+    "geom:latitude":32.06535,
+    "geom:longitude":-81.102787,
+    "iso:country":"US",
+    "sg:address":"413 W Duffy St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 234 5003",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85880927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0olOM9r8M0VPjRYyJv0Zhs_32.065350_-81.102787@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461883829,
+    "wof:geomhash":"f89ae23ab43fb3fb61de4f7ab6fd33fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880927,
+            "region_id":85688535,
+            "venue_id":722541479
+        }
+    ],
+    "wof:id":722541479,
+    "wof:lastmodified":1461883829,
+    "wof:name":"Savannah Dental Associates",
+    "wof:parent_id":85880927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -81.102787,
+    32.06535,
+    -81.102787,
+    32.06535
+],
+  "geometry": {"coordinates":[-81.10278700000001,32.06535],"type":"Point"}
+}

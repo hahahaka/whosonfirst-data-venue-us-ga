@@ -1,0 +1,75 @@
+{
+  "id": 739881831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.596445,33.992334,-84.596445,33.992334",
+    "geom:latitude":33.992334,
+    "geom:longitude":-84.596445,
+    "iso:country":"US",
+    "sg:address":"1635 Old 41 Hwy NW",
+    "sg:city":"Kennesaw",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 426 5299",
+    "sg:postcode":"30152",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.publix.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bWXjS6IY7cpkMQ8XBNIPX_33.992334_-84.596445@1303262596"
+    },
+    "wof:country":"US",
+    "wof:created":1461919125,
+    "wof:geomhash":"33dd5551dc2c4b9e8ddb7e94244eb201",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739881831
+        }
+    ],
+    "wof:id":739881831,
+    "wof:lastmodified":1461919125,
+    "wof:name":"Publix Super Markets",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -84.596445,
+    33.992334,
+    -84.596445,
+    33.992334
+],
+  "geometry": {"coordinates":[-84.596445,33.992334],"type":"Point"}
+}

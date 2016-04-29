@@ -1,0 +1,89 @@
+{
+  "id": 739998073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.293861,33.897416,-84.293861,33.897416",
+    "geom:latitude":33.897416,
+    "geom:longitude":-84.293861,
+    "iso:country":"US",
+    "sg:address":"3635 N Peachtree Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 986 7888",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "engine",
+        "rebuilding",
+        "automobile",
+        "part",
+        "supplies-used",
+        "rebuilt"
+    ],
+    "sg:website":"http://www.pacificengines.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936435,
+        102084539,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Jc3BG6IqOe68OKqIgL9rx_33.897416_-84.293861@1303262626"
+    },
+    "wof:country":"US",
+    "wof:created":1461923851,
+    "wof:geomhash":"236218de5390883a335f9c3f7b04c5ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":739998073
+        }
+    ],
+    "wof:id":739998073,
+    "wof:lastmodified":1461923851,
+    "wof:name":"Pacific Engine Company",
+    "wof:parent_id":85889955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "rebuilding",
+        "automobile",
+        "part",
+        "supplies-used",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -84.293861,
+    33.897416,
+    -84.293861,
+    33.897416
+],
+  "geometry": {"coordinates":[-84.29386100000001,33.897416],"type":"Point"}
+}

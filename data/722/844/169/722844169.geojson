@@ -1,0 +1,78 @@
+{
+  "id": 722844169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.007383,33.857937,-84.007383,33.857937",
+    "geom:latitude":33.857937,
+    "geom:longitude":-84.007383,
+    "iso:country":"US",
+    "sg:address":"2425 Eastgate Pl",
+    "sg:city":"Snellville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 979 5998",
+    "sg:postcode":"30078",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936303,
+        102082967,
+        85890049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oolJQQoBosom8RJ2TTZdg_33.857937_-84.007383@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461889704,
+    "wof:geomhash":"5927dfb0ba0e9b628bb5b3221f094393",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936303,
+            "neighbourhood_id":85890049,
+            "region_id":85688535,
+            "venue_id":722844169
+        }
+    ],
+    "wof:id":722844169,
+    "wof:lastmodified":1461889704,
+    "wof:name":"Auto Wizards",
+    "wof:parent_id":85890049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -84.007383,
+    33.857937,
+    -84.007383,
+    33.857937
+],
+  "geometry": {"coordinates":[-84.007383,33.857937],"type":"Point"}
+}

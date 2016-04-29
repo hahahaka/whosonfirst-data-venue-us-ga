@@ -1,0 +1,73 @@
+{
+  "id": 739619123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.170266,31.977769,-81.170266,31.977769",
+    "geom:latitude":31.977769,
+    "geom:longitude":-81.170266,
+    "iso:country":"US",
+    "sg:address":"12300 Apache Ave",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 920 8444",
+    "sg:postcode":"31419",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936939,
+        102082337,
+        85858259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Z7K97jancnDfQ5bjXvwzW_31.977769_-81.170266@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910812,
+    "wof:geomhash":"12afbc7062ea452a7283cfb1fd7cdfa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85858259,
+            "region_id":85688535,
+            "venue_id":739619123
+        }
+    ],
+    "wof:id":739619123,
+    "wof:lastmodified":1461910812,
+    "wof:name":"Mobile One Auto Repair",
+    "wof:parent_id":85858259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -81.170266,
+    31.977769,
+    -81.170266,
+    31.977769
+],
+  "geometry": {"coordinates":[-81.170266,31.977769],"type":"Point"}
+}

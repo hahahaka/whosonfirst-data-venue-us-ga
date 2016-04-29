@@ -1,0 +1,71 @@
+{
+  "id": 739749225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.671204,32.598301,-83.671204,32.598301",
+    "geom:latitude":32.598301,
+    "geom:longitude":-83.671204,
+    "iso:country":"US",
+    "sg:address":"712 S Houston Lake Rd",
+    "sg:city":"Warner Robins",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 953 4622",
+    "sg:postcode":"31088",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PiW6uIi2hkxLWIgrPIafr_32.597900_-83.670815@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461913681,
+    "wof:geomhash":"f206bf881202af2d368027a812f2e6b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":739749225
+        }
+    ],
+    "wof:id":739749225,
+    "wof:lastmodified":1461913681,
+    "wof:name":"Jenkins Animal Hospital",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.671204,
+    32.598301,
+    -83.671204,
+    32.598301
+],
+  "geometry": {"coordinates":[-83.671204,32.598301],"type":"Point"}
+}

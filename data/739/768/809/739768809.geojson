@@ -1,0 +1,84 @@
+{
+  "id": 739768809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.495675,33.686591,-84.495675,33.686591",
+    "geom:latitude":33.686591,
+    "geom:longitude":-84.495675,
+    "iso:country":"US",
+    "sg:address":"2841 Greenbriar Pkwy SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/atlanta/281089-pearl-bistro/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 349 1987",
+    "sg:postcode":"30331",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85822133,
+        85872085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OXA0UkwOfcRwEMfO3SKQ2_33.686591_-84.495675@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914500,
+    "wof:geomhash":"5397cfbd5f433db87bc7e5ce478e73ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85822133,
+            "region_id":85688535,
+            "venue_id":739768809
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872085,
+            "region_id":85688535,
+            "venue_id":739768809
+        }
+    ],
+    "wof:id":739768809,
+    "wof:lastmodified":1461914500,
+    "wof:name":"Pearl Bistro",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -84.495675,
+    33.686591,
+    -84.495675,
+    33.686591
+],
+  "geometry": {"coordinates":[-84.49567500000001,33.686591],"type":"Point"}
+}

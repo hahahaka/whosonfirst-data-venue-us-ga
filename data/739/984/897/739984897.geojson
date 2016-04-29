@@ -1,0 +1,71 @@
+{
+  "id": 739984897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.515337,33.772902,-84.515337,33.772902",
+    "geom:latitude":33.772902,
+    "geom:longitude":-84.515337,
+    "iso:country":"US",
+    "sg:address":"665 Fulton Industrial Blvd NW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 789 2423",
+    "sg:postcode":"30336",
+    "sg:province":"GA",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937189,
+        102082313,
+        85809641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gAr6xMQarJDvrGTdTqS9g_33.772902_-84.515337@1303262623"
+    },
+    "wof:country":"US",
+    "wof:created":1461923338,
+    "wof:geomhash":"01dc53cd5c7b78c782b552199ad3fd49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85937189,
+            "neighbourhood_id":85809641,
+            "region_id":85688535,
+            "venue_id":739984897
+        }
+    ],
+    "wof:id":739984897,
+    "wof:lastmodified":1461923338,
+    "wof:name":"Americans Limousine Svc Taxi",
+    "wof:parent_id":85809641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -84.515337,
+    33.772902,
+    -84.515337,
+    33.772902
+],
+  "geometry": {"coordinates":[-84.515337,33.772902],"type":"Point"}
+}

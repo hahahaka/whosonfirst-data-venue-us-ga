@@ -1,0 +1,71 @@
+{
+  "id": 723412427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.033925,33.038654,-85.033925,33.038654",
+    "geom:latitude":33.038654,
+    "geom:longitude":-85.033925,
+    "iso:country":"US",
+    "sg:address":"307 Vernon St",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 884 2566",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "full"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77H9HF9ExJNliUoTCWlUeq_33.038654_-85.033925@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901216,
+    "wof:geomhash":"f812f790d3fdec57018e45b7ee0e984f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":723412427
+        }
+    ],
+    "wof:id":723412427,
+    "wof:lastmodified":1461901216,
+    "wof:name":"La Grange Car Wash Inc",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "full"
+    ]
+},
+  "bbox": [
+    -85.033925,
+    33.038654,
+    -85.033925,
+    33.038654
+],
+  "geometry": {"coordinates":[-85.033925,33.038654],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 739300121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.170104,31.604198,-84.170104,31.604198",
+    "geom:latitude":31.604198,
+    "geom:longitude":-84.170104,
+    "iso:country":"US",
+    "sg:address":"1907 Palmyra Rd",
+    "sg:city":"Albany",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 439 7170",
+    "sg:postcode":"31701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85935991,
+        102084427,
+        85857405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PK7I78cREui9bw7fIGFJA_31.604198_-84.170104@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461904581,
+    "wof:geomhash":"1c4701ab683f1afb47665ca7210911ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":85857405,
+            "region_id":85688535,
+            "venue_id":739300121
+        }
+    ],
+    "wof:id":739300121,
+    "wof:lastmodified":1461904581,
+    "wof:name":"Albany Pathology Assoc",
+    "wof:parent_id":85857405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.170104,
+    31.604198,
+    -84.170104,
+    31.604198
+],
+  "geometry": {"coordinates":[-84.17010399999999,31.604198],"type":"Point"}
+}

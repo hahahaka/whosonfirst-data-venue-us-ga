@@ -1,0 +1,74 @@
+{
+  "id": 739773889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.30553,30.823187,-83.30553,30.823187",
+    "geom:latitude":30.823187,
+    "geom:longitude":-83.30553,
+    "iso:country":"US",
+    "sg:address":"1520 W Hill Ave",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/valdosta/207208-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 671 9571",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tniXWoGQndkW8NuSJVcEs_30.823187_-83.305530@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914706,
+    "wof:geomhash":"682eff73b7812a1964b67fac93c4d153",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843241,
+            "region_id":85688535,
+            "venue_id":739773889
+        }
+    ],
+    "wof:id":739773889,
+    "wof:lastmodified":1461914706,
+    "wof:name":"Sonic",
+    "wof:parent_id":85843241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.30553,
+    30.823187,
+    -83.30553,
+    30.823187
+],
+  "geometry": {"coordinates":[-83.30553,30.823187],"type":"Point"}
+}

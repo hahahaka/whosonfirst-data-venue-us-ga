@@ -1,0 +1,91 @@
+{
+  "id": 739858145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.114785,33.971038,-84.114785,33.971038",
+    "geom:latitude":33.971038,
+    "geom:longitude":-84.114785,
+    "iso:country":"US",
+    "sg:address":"2150 Northmont Pkwy Ste L",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 418 0707",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "theatrical",
+        "equipment-emergency",
+        "equipment",
+        "lighting",
+        "safety",
+        "clothing",
+        "stage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ujgRXAVOM0RAepJs6VgAp_33.971038_-84.114785@1303262590"
+    },
+    "wof:country":"US",
+    "wof:created":1461918232,
+    "wof:geomhash":"e551a58bc1b50b9190af332c57370643",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":739858145
+        }
+    ],
+    "wof:id":739858145,
+    "wof:lastmodified":1461918232,
+    "wof:name":"Heraeus Noblelight",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "theatrical",
+        "equipment-emergency",
+        "equipment",
+        "lighting",
+        "safety",
+        "clothing",
+        "stage"
+    ]
+},
+  "bbox": [
+    -84.114785,
+    33.971038,
+    -84.114785,
+    33.971038
+],
+  "geometry": {"coordinates":[-84.114785,33.971038],"type":"Point"}
+}

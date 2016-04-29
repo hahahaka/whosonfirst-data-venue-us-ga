@@ -1,0 +1,78 @@
+{
+  "id": 722687287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.983948,33.046592,-84.983948,33.046592",
+    "geom:latitude":33.046592,
+    "geom:longitude":-84.983948,
+    "iso:country":"US",
+    "sg:address":"374 S Davis Rd",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 883 8387",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77SiXznSqBuVdWNcOnhXSM_33.046592_-84.983948@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886724,
+    "wof:geomhash":"69b38d057698dd3e3b821198422cd5c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":722687287
+        }
+    ],
+    "wof:id":722687287,
+    "wof:lastmodified":1461886724,
+    "wof:name":"Family Pet Care LLC",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -84.983948,
+    33.046592,
+    -84.983948,
+    33.046592
+],
+  "geometry": {"coordinates":[-84.983948,33.046592],"type":"Point"}
+}

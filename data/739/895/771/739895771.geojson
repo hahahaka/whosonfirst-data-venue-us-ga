@@ -1,0 +1,79 @@
+{
+  "id": 739895771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.967369,33.041611,-84.967369,33.041611",
+    "geom:latitude":33.041611,
+    "geom:longitude":-84.967369,
+    "iso:country":"US",
+    "sg:address":"1601 Lafayette Pkwy",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 882 9540",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "inn",
+        "lodging"
+    ],
+    "sg:website":"http://www.redroof.com/reservations/inn_details.asp?innNumber=718",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LjiZq56ASvDZAFPpJA8ZS_33.041611_-84.967369@1303262600"
+    },
+    "wof:country":"US",
+    "wof:created":1461919651,
+    "wof:geomhash":"ff6271f9f80ac381758f960e20d543c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739895771
+        }
+    ],
+    "wof:id":739895771,
+    "wof:lastmodified":1461919651,
+    "wof:name":"Red Roof Inn",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inn",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -84.967369,
+    33.041611,
+    -84.967369,
+    33.041611
+],
+  "geometry": {"coordinates":[-84.96736900000001,33.041611],"type":"Point"}
+}

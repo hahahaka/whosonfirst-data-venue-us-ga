@@ -1,0 +1,76 @@
+{
+  "id": 739769005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.283443,33.89435,-84.283443,33.89435",
+    "geom:latitude":33.89435,
+    "geom:longitude":-84.283443,
+    "iso:country":"US",
+    "sg:address":"5175 Buford Hwy NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/chamblee-doraville/81697-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 452 7210",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936435,
+        102084539,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k7tPsj2T2OZChqNMbWr4Q_33.894350_-84.283443@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914507,
+    "wof:geomhash":"2389037978aeff2668cbbc38a2959b97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":739769005
+        }
+    ],
+    "wof:id":739769005,
+    "wof:lastmodified":1461914507,
+    "wof:name":"Subway",
+    "wof:parent_id":85889955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.283443,
+    33.89435,
+    -84.283443,
+    33.89435
+],
+  "geometry": {"coordinates":[-84.28344300000001,33.89435],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 723512721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.155205,33.98321,-84.155205,33.98321",
+    "geom:latitude":33.98321,
+    "geom:longitude":-84.155205,
+    "iso:country":"US",
+    "sg:address":"3736 Buford Hwy",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 622 5178",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46v2txQKbFTmCCVmSCNgX2_33.983210_-84.155205@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461903260,
+    "wof:geomhash":"9bbbd02aac97ae6ee988a76ceca5f463",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":723512721
+        }
+    ],
+    "wof:id":723512721,
+    "wof:lastmodified":1461903260,
+    "wof:name":"Ne Auto Tek",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -84.155205,
+    33.98321,
+    -84.155205,
+    33.98321
+],
+  "geometry": {"coordinates":[-84.155205,33.98321],"type":"Point"}
+}

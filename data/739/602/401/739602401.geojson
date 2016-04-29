@@ -1,0 +1,73 @@
+{
+  "id": 739602401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.553628,30.730171,-81.553628,30.730171",
+    "geom:latitude":30.730171,
+    "geom:longitude":-81.553628,
+    "iso:country":"US",
+    "sg:address":"501 Church St W",
+    "sg:city":"St Marys",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 882 5705",
+    "sg:postcode":"31558",
+    "sg:province":"GA",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937043,
+        102081693,
+        85852055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Zo61XbVKdMavMO8gBRamW_30.730171_-81.553628@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910460,
+    "wof:geomhash":"d9beae26a05851e28ffafa711b55ea0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081693,
+            "locality_id":85937043,
+            "neighbourhood_id":85852055,
+            "region_id":85688535,
+            "venue_id":739602401
+        }
+    ],
+    "wof:id":739602401,
+    "wof:lastmodified":1461910460,
+    "wof:name":"St Marys Housing Authority",
+    "wof:parent_id":85852055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -81.553628,
+    30.730171,
+    -81.553628,
+    30.730171
+],
+  "geometry": {"coordinates":[-81.553628,30.730171],"type":"Point"}
+}

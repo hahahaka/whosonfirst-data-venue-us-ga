@@ -1,0 +1,78 @@
+{
+  "id": 739706871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.032698,33.038814,-85.032698,33.038814",
+    "geom:latitude":33.038814,
+    "geom:longitude":-85.032698,
+    "iso:country":"US",
+    "sg:address":"208 Vernon St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 884 2924",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "grocer",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uWiIYdt6xHkaIVzG2xD6j_33.038814_-85.032698@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461912710,
+    "wof:geomhash":"b290c8c7a35361d28053c5f2eaab48c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739706871
+        }
+    ],
+    "wof:id":739706871,
+    "wof:lastmodified":1461912710,
+    "wof:name":"Money Back",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -85.032698,
+    33.038814,
+    -85.032698,
+    33.038814
+],
+  "geometry": {"coordinates":[-85.032698,33.038814],"type":"Point"}
+}

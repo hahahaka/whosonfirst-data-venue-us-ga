@@ -1,0 +1,71 @@
+{
+  "id": 722894825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.051364,34.271713,-84.051364,34.271713",
+    "geom:latitude":34.271713,
+    "geom:longitude":-84.051364,
+    "iso:country":"US",
+    "sg:address":"4512 Keith Bridge Rd",
+    "sg:city":"Cumming",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 888 3355",
+    "sg:postcode":"30041",
+    "sg:province":"GA",
+    "sg:tags":[
+        "landfill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936811,
+        102082317,
+        85842073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09zY733VEUSrxAa8Z6t5bf_34.271713_-84.051364@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461890680,
+    "wof:geomhash":"ba45cd6006959d30a1dd94743e4751fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082317,
+            "locality_id":85936811,
+            "neighbourhood_id":85842073,
+            "region_id":85688535,
+            "venue_id":722894825
+        }
+    ],
+    "wof:id":722894825,
+    "wof:lastmodified":1461890680,
+    "wof:name":"Greenleaf C & D Landfill",
+    "wof:parent_id":85842073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landfill"
+    ]
+},
+  "bbox": [
+    -84.051364,
+    34.271713,
+    -84.051364,
+    34.271713
+],
+  "geometry": {"coordinates":[-84.05136400000001,34.271713],"type":"Point"}
+}

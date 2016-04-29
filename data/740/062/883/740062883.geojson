@@ -1,0 +1,82 @@
+{
+  "id": 740062883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.55835,31.194139,-81.55835,31.194139",
+    "geom:latitude":31.194139,
+    "geom:longitude":-81.55835,
+    "iso:country":"US",
+    "sg:address":"136 Jericho Rd",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 265 5294",
+    "sg:postcode":"31523",
+    "sg:province":"GA",
+    "sg:tags":[
+        "plumber",
+        "heating",
+        "specialty",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85833275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zqpqACvPv7Ezmo4LPwymh_31.194139_-81.558350@1303262643"
+    },
+    "wof:country":"US",
+    "wof:created":1461926655,
+    "wof:geomhash":"cb396889423e6cef012a66b2a9827087",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85833275,
+            "region_id":85688535,
+            "venue_id":740062883
+        }
+    ],
+    "wof:id":740062883,
+    "wof:lastmodified":1461926655,
+    "wof:name":"Crabtree Plumbing Inc",
+    "wof:parent_id":85833275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber",
+        "heating",
+        "specialty",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.55835,
+    31.194139,
+    -81.55835,
+    31.194139
+],
+  "geometry": {"coordinates":[-81.55835,31.194139],"type":"Point"}
+}

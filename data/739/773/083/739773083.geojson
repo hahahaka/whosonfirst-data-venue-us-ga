@@ -1,0 +1,74 @@
+{
+  "id": 739773083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.11496,32.00982,-81.11496,32.00982",
+    "geom:latitude":32.00982,
+    "geom:longitude":-81.11496,
+    "iso:country":"US",
+    "sg:address":"7301 Abercorn St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/savannah/140694-waffle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 978 1926",
+    "sg:postcode":"31406",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85890047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hklo1w2PxBO9Mkojy6d7f_32.009820_-81.114960@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914665,
+    "wof:geomhash":"35473c78ddd2e3e0be02ed047e6c9688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85890047,
+            "region_id":85688535,
+            "venue_id":739773083
+        }
+    ],
+    "wof:id":739773083,
+    "wof:lastmodified":1461914665,
+    "wof:name":"Waffle House",
+    "wof:parent_id":85890047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -81.11496,
+    32.00982,
+    -81.11496,
+    32.00982
+],
+  "geometry": {"coordinates":[-81.11496,32.00982],"type":"Point"}
+}

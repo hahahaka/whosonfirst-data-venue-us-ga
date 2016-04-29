@@ -1,0 +1,83 @@
+{
+  "id": 722602547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.919275,32.523626,-84.919275,32.523626",
+    "geom:latitude":32.523626,
+    "geom:longitude":-84.919275,
+    "iso:country":"US",
+    "sg:address":"4249 Miller Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 569 5252",
+    "sg:postcode":"31909",
+    "sg:province":"GA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        420518103,
+        85838285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gqrO7SoH0T3unsaeG0egu_32.523626_-84.919275@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461885033,
+    "wof:geomhash":"953305c20995ff3204b5a3f811cd605e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":420518103,
+            "region_id":85688535,
+            "venue_id":722602547
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85838285,
+            "region_id":85688535,
+            "venue_id":722602547
+        }
+    ],
+    "wof:id":722602547,
+    "wof:lastmodified":1461885033,
+    "wof:name":"A Safe Mini Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -84.919275,
+    32.523626,
+    -84.919275,
+    32.523626
+],
+  "geometry": {"coordinates":[-84.919275,32.523626],"type":"Point"}
+}

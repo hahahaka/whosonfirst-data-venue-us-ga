@@ -1,0 +1,71 @@
+{
+  "id": 723140961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.786807,33.407586,-84.786807,33.407586",
+    "geom:latitude":33.407586,
+    "geom:longitude":-84.786807,
+    "iso:country":"US",
+    "sg:address":"794 US Hwy 29",
+    "sg:city":"Newnan",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 304 2273",
+    "sg:postcode":"30263",
+    "sg:province":"GA",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936351,
+        102084443,
+        85833133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Og9VpNKO9THarCu1tNEB2_33.407586_-84.786807@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461895918,
+    "wof:geomhash":"1e0ea7715d2677a2fb6df8b6b5b46cdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084443,
+            "locality_id":85936351,
+            "neighbourhood_id":85833133,
+            "region_id":85688535,
+            "venue_id":723140961
+        }
+    ],
+    "wof:id":723140961,
+    "wof:lastmodified":1461895918,
+    "wof:name":"Vital Care Ambulance Svc",
+    "wof:parent_id":85833133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -84.786807,
+    33.407586,
+    -84.786807,
+    33.407586
+],
+  "geometry": {"coordinates":[-84.786807,33.407586],"type":"Point"}
+}

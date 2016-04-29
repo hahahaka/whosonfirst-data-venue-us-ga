@@ -1,0 +1,73 @@
+{
+  "id": 723292111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.028454,33.039631,-85.028454,33.039631",
+    "geom:latitude":33.039631,
+    "geom:longitude":-85.028454,
+    "iso:country":"US",
+    "sg:address":"211 Greenville St",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 884 4665",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_060HfBqNVFXa1RySVJ92qx_33.039631_-85.028454@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461898915,
+    "wof:geomhash":"b2b89ba2cbb546beeab933cfae2f22c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":723292111
+        }
+    ],
+    "wof:id":723292111,
+    "wof:lastmodified":1461898915,
+    "wof:name":"Vaughns Cleaners",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -85.028454,
+    33.039631,
+    -85.028454,
+    33.039631
+],
+  "geometry": {"coordinates":[-85.028454,33.039631],"type":"Point"}
+}

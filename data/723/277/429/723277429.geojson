@@ -1,0 +1,88 @@
+{
+  "id": 723277429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.786755,32.455239,-81.786755,32.455239",
+    "geom:latitude":32.455239,
+    "geom:longitude":-81.786755,
+    "iso:country":"US",
+    "sg:address":"202 Northside Dr W",
+    "sg:city":"Statesboro",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 764 6175",
+    "sg:postcode":"30458",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drug",
+        "store",
+        "gift",
+        "clothes"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935999,
+        102084405,
+        85823149,
+        102191575,
+        85828471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BnBYoILdTql4LsXtCk89d_32.455239_-81.786755@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461898633,
+    "wof:geomhash":"f3b30018cb01675b0a7007f81351f701",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85823149,
+            "region_id":85688535,
+            "venue_id":723277429
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85828471,
+            "region_id":85688535,
+            "venue_id":723277429
+        }
+    ],
+    "wof:id":723277429,
+    "wof:lastmodified":1461898633,
+    "wof:name":"Little Doses",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store",
+        "gift",
+        "clothes"
+    ]
+},
+  "bbox": [
+    -81.786755,
+    32.455239,
+    -81.786755,
+    32.455239
+],
+  "geometry": {"coordinates":[-81.786755,32.455239],"type":"Point"}
+}

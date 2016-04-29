@@ -1,0 +1,83 @@
+{
+  "id": 739899501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.339804,33.600015,-84.339804,33.600015",
+    "geom:latitude":33.600015,
+    "geom:longitude":-84.339804,
+    "iso:country":"US",
+    "sg:address":"5675 Jonesboro Rd",
+    "sg:city":"Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 422 1808",
+    "sg:postcode":"30260",
+    "sg:province":"GA",
+    "sg:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ],
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936965,
+        102082333,
+        420517661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A3bOE7aya1s0s7k6TdKAL_33.600015_-84.339804@1303262601"
+    },
+    "wof:country":"US",
+    "wof:created":1461919805,
+    "wof:geomhash":"cf52a15eb91b95ee4c181cb177e98da3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082333,
+            "locality_id":85936965,
+            "neighbourhood_id":420517661,
+            "region_id":85688535,
+            "venue_id":739899501
+        }
+    ],
+    "wof:id":739899501,
+    "wof:lastmodified":1461919805,
+    "wof:name":"Walgreens",
+    "wof:parent_id":420517661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ]
+},
+  "bbox": [
+    -84.339804,
+    33.600015,
+    -84.339804,
+    33.600015
+],
+  "geometry": {"coordinates":[-84.339804,33.600015],"type":"Point"}
+}

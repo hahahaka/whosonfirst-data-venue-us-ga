@@ -1,0 +1,73 @@
+{
+  "id": 722568881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.68108,32.858793,-83.68108,32.858793",
+    "geom:latitude":32.858793,
+    "geom:longitude":-83.68108,
+    "iso:country":"US",
+    "sg:address":"3431 Ridge Ave",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 714 5815",
+    "sg:postcode":"31204",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937045,
+        102084373,
+        85808013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oAuqMNWWJNYs2wMURdc1B_32.858793_-83.681080@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461884390,
+    "wof:geomhash":"44600709a363adc69c1f28c98cbf5ac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084373,
+            "locality_id":85937045,
+            "neighbourhood_id":85808013,
+            "region_id":85688535,
+            "venue_id":722568881
+        }
+    ],
+    "wof:id":722568881,
+    "wof:lastmodified":1461884390,
+    "wof:name":"Vet Calls",
+    "wof:parent_id":85808013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.68108,
+    32.858793,
+    -83.68108,
+    32.858793
+],
+  "geometry": {"coordinates":[-83.68107999999999,32.858793],"type":"Point"}
+}

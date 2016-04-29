@@ -1,0 +1,69 @@
+{
+  "id": 723278461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.780845,32.859655,-83.780845,32.859655",
+    "geom:latitude":32.859655,
+    "geom:longitude":-83.780845,
+    "iso:country":"US",
+    "sg:address":"1869 Greentree Pkwy",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 757 0470",
+    "sg:postcode":"31220",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85848313,
+        102084373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NwEWTCIcmaGEKsSLqtwax_32.859655_-83.780845@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461898652,
+    "wof:geomhash":"a3c30fdc345ecf5d202c78b1f5cb5fe5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084373,
+            "neighbourhood_id":85848313,
+            "region_id":85688535,
+            "venue_id":723278461
+        }
+    ],
+    "wof:id":723278461,
+    "wof:lastmodified":1461898652,
+    "wof:name":"Steven Herrmann",
+    "wof:parent_id":85848313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -83.780845,
+    32.859655,
+    -83.780845,
+    32.859655
+],
+  "geometry": {"coordinates":[-83.780845,32.859655],"type":"Point"}
+}

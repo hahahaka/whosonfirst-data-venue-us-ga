@@ -1,0 +1,80 @@
+{
+  "id": 739828697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.481601,33.902653,-84.481601,33.902653",
+    "geom:latitude":33.902653,
+    "geom:longitude":-84.481601,
+    "iso:country":"US",
+    "sg:address":"2468 Windy Hill Rd Se Ste 400",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 984 9000",
+    "sg:postcode":"30067",
+    "sg:province":"GA",
+    "sg:tags":[
+        "dental",
+        "clinic"
+    ],
+    "sg:website":"www.dentalworldofmarietta.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818985,
+        102082313,
+        85845875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dRJQeLH6UfWIqrMM56i9i_33.902653_-84.481601@1303262582"
+    },
+    "wof:country":"US",
+    "wof:created":1461917029,
+    "wof:geomhash":"949a79aae966cc603785eda31df44f0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85818985,
+            "region_id":85688535,
+            "venue_id":739828697
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":739828697
+        }
+    ],
+    "wof:id":739828697,
+    "wof:lastmodified":1461917029,
+    "wof:name":"Dental World of Marietta",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dental",
+        "clinic"
+    ]
+},
+  "bbox": [
+    -84.481601,
+    33.902653,
+    -84.481601,
+    33.902653
+],
+  "geometry": {"coordinates":[-84.481601,33.902653],"type":"Point"}
+}

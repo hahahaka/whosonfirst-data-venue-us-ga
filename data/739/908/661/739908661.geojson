@@ -1,0 +1,77 @@
+{
+  "id": 739908661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.540298,33.579899,-84.540298,33.579899",
+    "geom:latitude":33.579899,
+    "geom:longitude":-84.540298,
+    "iso:country":"US",
+    "sg:address":"6325 Shannon Pkwy Ste D",
+    "sg:city":"Union City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 964 1400",
+    "sg:postcode":"30291",
+    "sg:province":"GA",
+    "sg:website":"www.southsidemedicalcare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85848007,
+        102083603,
+        102191575,
+        85937167,
+        420517955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OWOKeYPzvUTpck1i1YwaA_33.579899_-84.540298@1303262603"
+    },
+    "wof:country":"US",
+    "wof:created":1461920143,
+    "wof:geomhash":"be8eb552e4c98ed59408ea35a2fece70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85848007,
+            "region_id":85688535,
+            "venue_id":739908661
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937167,
+            "neighbourhood_id":420517955,
+            "region_id":85688535,
+            "venue_id":739908661
+        }
+    ],
+    "wof:id":739908661,
+    "wof:lastmodified":1461920143,
+    "wof:name":"Southside Medical Care",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.540298,
+    33.579899,
+    -84.540298,
+    33.579899
+],
+  "geometry": {"coordinates":[-84.54029800000001,33.579899],"type":"Point"}
+}

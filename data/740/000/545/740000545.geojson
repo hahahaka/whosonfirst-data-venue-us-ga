@@ -1,0 +1,73 @@
+{
+  "id": 740000545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.307424,33.876531,-84.307424,33.876531",
+    "geom:latitude":33.876531,
+    "geom:longitude":-84.307424,
+    "iso:country":"US",
+    "sg:address":"1954 Airport Road",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 457 7442",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102525899,
+        85688535,
+        85633793,
+        85937255,
+        102084539,
+        85807835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vxdgTCidkPAwQJASQMOun_33.876531_-84.307424@1303262627"
+    },
+    "wof:country":"US",
+    "wof:created":1461923949,
+    "wof:geomhash":"e0927fa67b8d956a8ac98134ce9b92d4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525899,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937255,
+            "neighbourhood_id":85807835,
+            "region_id":85688535,
+            "venue_id":740000545
+        }
+    ],
+    "wof:id":740000545,
+    "wof:lastmodified":1461923949,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":102525899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -84.307424,
+    33.876531,
+    -84.307424,
+    33.876531
+],
+  "geometry": {"coordinates":[-84.307424,33.876531],"type":"Point"}
+}

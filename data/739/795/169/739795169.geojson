@@ -1,0 +1,89 @@
+{
+  "id": 739795169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.266197,33.753101,-84.266197,33.753101",
+    "geom:latitude":33.753101,
+    "geom:longitude":-84.266197,
+    "iso:country":"US",
+    "sg:address":"1234 Columbia Dr",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 288 3786",
+    "sg:postcode":"30032",
+    "sg:province":"GA",
+    "sg:tags":[
+        "nightlife"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937245,
+        102084539,
+        85811997,
+        85937263,
+        85890037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MOf8MFsU8NaRZcbM6coqO_33.753101_-84.266197@1303262574"
+    },
+    "wof:country":"US",
+    "wof:created":1461915571,
+    "wof:geomhash":"42cb05c4d61f30b88b4cd25c9936d64f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937245,
+            "neighbourhood_id":85811997,
+            "region_id":85688535,
+            "venue_id":739795169
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937263,
+            "neighbourhood_id":85890037,
+            "region_id":85688535,
+            "venue_id":739795169
+        }
+    ],
+    "wof:id":739795169,
+    "wof:lastmodified":1461915571,
+    "wof:name":"Rising Sun International Restaurant & Lounge",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nightlife"
+    ]
+},
+  "bbox": [
+    -84.266197,
+    33.753101,
+    -84.266197,
+    33.753101
+],
+  "geometry": {"coordinates":[-84.26619700000001,33.753101],"type":"Point"}
+}

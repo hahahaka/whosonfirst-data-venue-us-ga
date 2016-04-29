@@ -1,0 +1,76 @@
+{
+  "id": 739451923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.645977,32.839143,-83.645977,32.839143",
+    "geom:latitude":32.839143,
+    "geom:longitude":-83.645977,
+    "iso:country":"US",
+    "sg:address":"1600 Forsyth St",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 743 3000",
+    "sg:postcode":"31201",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.forsythstreetortho.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936517,
+        102084373,
+        85853103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ueCkjzzSaoVTxyYF6gc3O_32.839143_-83.645977@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907576,
+    "wof:geomhash":"2feb1384339c991e77ece664501ef09a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084373,
+            "locality_id":85936517,
+            "neighbourhood_id":85853103,
+            "region_id":85688535,
+            "venue_id":739451923
+        }
+    ],
+    "wof:id":739451923,
+    "wof:lastmodified":1461907576,
+    "wof:name":"Forsyth Street Orthopaedic",
+    "wof:parent_id":85853103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.645977,
+    32.839143,
+    -83.645977,
+    32.839143
+],
+  "geometry": {"coordinates":[-83.645977,32.839143],"type":"Point"}
+}

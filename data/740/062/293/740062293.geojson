@@ -1,0 +1,81 @@
+{
+  "id": 740062293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.492294,31.197691,-81.492294,31.197691",
+    "geom:latitude":31.197691,
+    "geom:longitude":-81.492294,
+    "iso:country":"US",
+    "sg:address":"211 Rose Dr",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 261 8340",
+    "sg:postcode":"31520",
+    "sg:province":"GA",
+    "sg:tags":[
+        "industrial",
+        "electrician",
+        "contractors-commercial"
+    ],
+    "sg:website":"http://www.houstonelectricinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85814297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vliZhI8JgRd1Fct2Fih9I_31.197691_-81.492294@1303262643"
+    },
+    "wof:country":"US",
+    "wof:created":1461926630,
+    "wof:geomhash":"4877d159bc41ef40d4b44063076f596d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85814297,
+            "region_id":85688535,
+            "venue_id":740062293
+        }
+    ],
+    "wof:id":740062293,
+    "wof:lastmodified":1461926630,
+    "wof:name":"Houston Electric",
+    "wof:parent_id":85814297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "electrician",
+        "contractors-commercial"
+    ]
+},
+  "bbox": [
+    -81.492294,
+    31.197691,
+    -81.492294,
+    31.197691
+],
+  "geometry": {"coordinates":[-81.492294,31.197691],"type":"Point"}
+}

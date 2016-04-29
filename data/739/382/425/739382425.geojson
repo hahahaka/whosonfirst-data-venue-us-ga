@@ -1,0 +1,73 @@
+{
+  "id": 739382425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.953792,30.835207,-83.953792,30.835207",
+    "geom:latitude":30.835207,
+    "geom:longitude":-83.953792,
+    "iso:country":"US",
+    "sg:address":"1720 Smith Ave",
+    "sg:city":"Thomasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 227 9996",
+    "sg:postcode":"31792",
+    "sg:province":"GA",
+    "sg:tags":[
+        "carwash",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85833309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71z4sQpMdneIXMpIA4SIPA_30.835207_-83.953792@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461906240,
+    "wof:geomhash":"0640069cc23b86a8ec2dc0428fb19f61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85833309,
+            "region_id":85688535,
+            "venue_id":739382425
+        }
+    ],
+    "wof:id":739382425,
+    "wof:lastmodified":1461906240,
+    "wof:name":"T & T Autowash & Lube",
+    "wof:parent_id":85833309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -83.953792,
+    30.835207,
+    -83.953792,
+    30.835207
+],
+  "geometry": {"coordinates":[-83.95379200000001,30.835207],"type":"Point"}
+}

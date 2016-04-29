@@ -1,0 +1,74 @@
+{
+  "id": 739765373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.705307,33.997868,-84.705307,33.997868",
+    "geom:latitude":33.997868,
+    "geom:longitude":-84.705307,
+    "iso:country":"US",
+    "sg:address":"1720 Mars Hill Rd NW",
+    "sg:city":"Acworth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/acworth-kennesaw/132206-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 355 6035",
+    "sg:postcode":"30101",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936129,
+        102082313,
+        85829479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DGdrSCGeZcru03xWt7Ibv_33.997868_-84.705307@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914357,
+    "wof:geomhash":"7cb19a618376da89fa84d07908669369",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936129,
+            "neighbourhood_id":85829479,
+            "region_id":85688535,
+            "venue_id":739765373
+        }
+    ],
+    "wof:id":739765373,
+    "wof:lastmodified":1461914357,
+    "wof:name":"Subway",
+    "wof:parent_id":85829479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.705307,
+    33.997868,
+    -84.705307,
+    33.997868
+],
+  "geometry": {"coordinates":[-84.705307,33.997868],"type":"Point"}
+}

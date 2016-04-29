@@ -1,0 +1,73 @@
+{
+  "id": 739635473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.136028,34.179154,-84.136028,34.179154",
+    "geom:latitude":34.179154,
+    "geom:longitude":-84.136028,
+    "iso:country":"US",
+    "sg:address":"1100 Baptist Medical Center Dr",
+    "sg:city":"Cumming",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 205 5292",
+    "sg:postcode":"30041",
+    "sg:province":"GA",
+    "sg:tags":[
+        "hospital",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936811,
+        102082317,
+        85842073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AJZ29WWD9ix46lQjIBhWs_34.179154_-84.136028@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461911163,
+    "wof:geomhash":"4aa01fbc5ec64d0e755b0cd0566d90a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082317,
+            "locality_id":85936811,
+            "neighbourhood_id":85842073,
+            "region_id":85688535,
+            "venue_id":739635473
+        }
+    ],
+    "wof:id":739635473,
+    "wof:lastmodified":1461911163,
+    "wof:name":"ATL Cancer Care",
+    "wof:parent_id":85842073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -84.136028,
+    34.179154,
+    -84.136028,
+    34.179154
+],
+  "geometry": {"coordinates":[-84.136028,34.179154],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 723455779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.002147,32.808699,-85.002147,32.808699",
+    "geom:latitude":32.808699,
+    "geom:longitude":-85.002147,
+    "iso:country":"US",
+    "sg:address":"1207 Piedmont Lake Rd",
+    "sg:city":"Pine Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 663 8812",
+    "sg:postcode":"31822",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936099,
+        102084477,
+        85835873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KAqu0o35hv0Co35iGXLj9_32.808699_-85.002147@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461902048,
+    "wof:geomhash":"9cd4ff160c0ca3ed10ad13e57f8a1265",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084477,
+            "locality_id":85936099,
+            "neighbourhood_id":85835873,
+            "region_id":85688535,
+            "venue_id":723455779
+        }
+    ],
+    "wof:id":723455779,
+    "wof:lastmodified":1461902048,
+    "wof:name":"Phil Hutchins Dr",
+    "wof:parent_id":85835873,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -85.002147,
+    32.808699,
+    -85.002147,
+    32.808699
+],
+  "geometry": {"coordinates":[-85.00214699999999,32.808699],"type":"Point"}
+}

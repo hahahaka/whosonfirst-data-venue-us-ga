@@ -1,0 +1,88 @@
+{
+  "id": 739798527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.29895,33.706188,-84.29895,33.706188",
+    "geom:latitude":33.706188,
+    "geom:longitude":-84.29895,
+    "iso:country":"US",
+    "sg:address":"2833 Flat Shoals Rd",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 241 7711",
+    "sg:postcode":"30034",
+    "sg:province":"GA",
+    "sg:tags":[
+        "churches-episcopal-anglican",
+        "churches-episcopal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937253,
+        102084539,
+        85866911,
+        85816491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56o6tBxX9QrlIFQ14x25YD_33.706188_-84.298950@1303262574"
+    },
+    "wof:country":"US",
+    "wof:created":1461915716,
+    "wof:geomhash":"238ebd8f1c627da46591c72366eb6cdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937253,
+            "neighbourhood_id":85866911,
+            "region_id":85688535,
+            "venue_id":739798527
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739798527
+        }
+    ],
+    "wof:id":739798527,
+    "wof:lastmodified":1461915716,
+    "wof:name":"Saint Timothy's Episcopal Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-episcopal-anglican",
+        "churches-episcopal"
+    ]
+},
+  "bbox": [
+    -84.29895,
+    33.706188,
+    -84.29895,
+    33.706188
+],
+  "geometry": {"coordinates":[-84.29895,33.706188],"type":"Point"}
+}

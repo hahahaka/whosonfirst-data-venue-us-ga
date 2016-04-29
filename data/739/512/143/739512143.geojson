@@ -1,0 +1,73 @@
+{
+  "id": 739512143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.37305,30.9925,-83.37305,30.9925",
+    "geom:latitude":30.9925,
+    "geom:longitude":-83.37305,
+    "iso:country":"US",
+    "sg:address":"112 N Church St",
+    "sg:city":"Hahira",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 794 8132",
+    "sg:postcode":"31632",
+    "sg:province":"GA",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85815713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZtMeAWFqS0uYmWcF5rKgG_30.992500_-83.373050@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461908648,
+    "wof:geomhash":"0a6effbf3e477ec1ee0c73fcddcd3756",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85815713,
+            "region_id":85688535,
+            "venue_id":739512143
+        }
+    ],
+    "wof:id":739512143,
+    "wof:lastmodified":1461908648,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85815713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -83.37305,
+    30.9925,
+    -83.37305,
+    30.9925
+],
+  "geometry": {"coordinates":[-83.37305000000001,30.9925],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 739839193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.0336,33.836498,-84.0336,33.836498",
+    "geom:latitude":33.836498,
+    "geom:longitude":-84.0336,
+    "iso:country":"US",
+    "sg:address":"2705 Centerville Hwy",
+    "sg:city":"Snellville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 736 5940",
+    "sg:postcode":"30078",
+    "sg:province":"GA",
+    "sg:tags":[
+        "grooming",
+        "cat",
+        "dog",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936303,
+        102082967,
+        85890049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m0onRO1NjlWw7oAbt1aLQ_33.836498_-84.033600@1303262585"
+    },
+    "wof:country":"US",
+    "wof:created":1461917453,
+    "wof:geomhash":"9fae120b47ada37260e6fe5db6461890",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936303,
+            "neighbourhood_id":85890049,
+            "region_id":85688535,
+            "venue_id":739839193
+        }
+    ],
+    "wof:id":739839193,
+    "wof:lastmodified":1461917453,
+    "wof:name":"Grooming by Lisa",
+    "wof:parent_id":85890049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grooming",
+        "cat",
+        "dog",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.0336,
+    33.836498,
+    -84.0336,
+    33.836498
+],
+  "geometry": {"coordinates":[-84.03360000000001,33.836498],"type":"Point"}
+}

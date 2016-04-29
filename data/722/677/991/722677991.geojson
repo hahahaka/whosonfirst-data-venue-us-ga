@@ -1,0 +1,85 @@
+{
+  "id": 722677991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.64832,33.501019,-84.64832,33.501019",
+    "geom:latitude":33.501019,
+    "geom:longitude":-84.64832,
+    "iso:country":"US",
+    "sg:address":"391 Weldon Rd",
+    "sg:city":"Palmetto",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 463 1746",
+    "sg:postcode":"30268",
+    "sg:province":"GA",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936353,
+        102083603,
+        420517715,
+        420517993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fd5jCtsVm7mTAe8A18ZnW_33.501019_-84.648320@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886546,
+    "wof:geomhash":"a7693c173e86c54527c8982fbd1145a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936353,
+            "neighbourhood_id":420517715,
+            "region_id":85688535,
+            "venue_id":722677991
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936353,
+            "neighbourhood_id":420517993,
+            "region_id":85688535,
+            "venue_id":722677991
+        }
+    ],
+    "wof:id":722677991,
+    "wof:lastmodified":1461886546,
+    "wof:name":"Elite Transport",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.64832,
+    33.501019,
+    -84.64832,
+    33.501019
+],
+  "geometry": {"coordinates":[-84.64832,33.501019],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 739763357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.088711,34.255953,-84.088711,34.255953",
+    "geom:latitude":34.255953,
+    "geom:longitude":-84.088711,
+    "iso:country":"US",
+    "sg:address":"2845 Keith Bridge Rd",
+    "sg:city":"Cumming",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/silver-city/203249-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 844 9364",
+    "sg:postcode":"30041",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936811,
+        102082317,
+        85842073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qwcROqZSDvzIVm1R1X0Sn_34.255953_-84.088711@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914271,
+    "wof:geomhash":"899b98ecb185fa77e46bce4dbbb7ef94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082317,
+            "locality_id":85936811,
+            "neighbourhood_id":85842073,
+            "region_id":85688535,
+            "venue_id":739763357
+        }
+    ],
+    "wof:id":739763357,
+    "wof:lastmodified":1461914271,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85842073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.088711,
+    34.255953,
+    -84.088711,
+    34.255953
+],
+  "geometry": {"coordinates":[-84.088711,34.255953],"type":"Point"}
+}

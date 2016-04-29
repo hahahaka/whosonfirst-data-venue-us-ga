@@ -1,0 +1,85 @@
+{
+  "id": 739895423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.031189,33.03735,-85.031189,33.03735",
+    "geom:latitude":33.03735,
+    "geom:longitude":-85.031189,
+    "iso:country":"US",
+    "sg:address":"301 Main St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 883 2650",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department",
+        "township",
+        "protection",
+        "government-city",
+        "village"
+    ],
+    "sg:website":"http://www.lagrange.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zajBwTnQhIwzW4LAj0VZk_33.037350_-85.031189@1303262600"
+    },
+    "wof:country":"US",
+    "wof:created":1461919639,
+    "wof:geomhash":"f5fe00b22c146415b0cfa998cfbbfe7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739895423
+        }
+    ],
+    "wof:id":739895423,
+    "wof:lastmodified":1461919639,
+    "wof:name":"Fire Department",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "township",
+        "protection",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -85.031189,
+    33.03735,
+    -85.031189,
+    33.03735
+],
+  "geometry": {"coordinates":[-85.031189,33.03735],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 723403991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.705458,33.997496,-84.705458,33.997496",
+    "geom:latitude":33.997496,
+    "geom:longitude":-84.705458,
+    "iso:country":"US",
+    "sg:address":"5150 Stilesboro Rd NW",
+    "sg:city":"Kennesaw",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 354 0230",
+    "sg:postcode":"30152",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936129,
+        102082313,
+        85829479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Qg3RyQRAXYh4UB1sqKuPM_33.997496_-84.705458@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901051,
+    "wof:geomhash":"c126fb441753194780674d5d3af480b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936129,
+            "neighbourhood_id":85829479,
+            "region_id":85688535,
+            "venue_id":723403991
+        }
+    ],
+    "wof:id":723403991,
+    "wof:lastmodified":1461901051,
+    "wof:name":"Acworth Family Medicine",
+    "wof:parent_id":85829479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.705458,
+    33.997496,
+    -84.705458,
+    33.997496
+],
+  "geometry": {"coordinates":[-84.70545799999999,33.997496],"type":"Point"}
+}

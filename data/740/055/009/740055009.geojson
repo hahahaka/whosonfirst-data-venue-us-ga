@@ -1,0 +1,79 @@
+{
+  "id": 740055009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.696132,32.913696,-83.696132,32.913696",
+    "geom:latitude":32.913696,
+    "geom:longitude":-83.696132,
+    "iso:country":"US",
+    "sg:address":"113 Arkwright Lndg Suite B",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 866 680 4095",
+    "sg:postcode":"31210",
+    "sg:province":"GA",
+    "sg:tags":[
+        "information",
+        "aid",
+        "welfare"
+    ],
+    "sg:website":"http://www.stdtestexpress.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85833281,
+        102084373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Mnf82ryYX9GuDpXLULJ9k_32.913696_-83.696132@1303262641"
+    },
+    "wof:country":"US",
+    "wof:created":1461926314,
+    "wof:geomhash":"7f2490ffbce58ebcbaf0259b08068fa7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084373,
+            "neighbourhood_id":85833281,
+            "region_id":85688535,
+            "venue_id":740055009
+        }
+    ],
+    "wof:id":740055009,
+    "wof:lastmodified":1461926314,
+    "wof:name":"STD Test Express Macon",
+    "wof:parent_id":85833281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "aid",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -83.696132,
+    32.913696,
+    -83.696132,
+    32.913696
+],
+  "geometry": {"coordinates":[-83.69613200000001,32.913696],"type":"Point"}
+}

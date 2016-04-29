@@ -1,0 +1,92 @@
+{
+  "id": 739882403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.841666,33.86871,-84.841666,33.86871",
+    "geom:latitude":33.86871,
+    "geom:longitude":-84.841666,
+    "iso:country":"US",
+    "sg:address":"2985 Villa Rica Hwy",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 443 2335",
+    "sg:postcode":"30157",
+    "sg:province":"GA",
+    "sg:tags":[
+        "super"
+    ],
+    "sg:website":"http://www.foodlion.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936335,
+        102084665,
+        85835843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78qLagObA0eLV9uiN4nqLw_33.868710_-84.841666@1303262597"
+    },
+    "wof:country":"US",
+    "wof:created":1461919145,
+    "wof:geomhash":"022d275cf5d93368adf1cf5b42fb9cfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "locality_id":85936335,
+            "neighbourhood_id":85835843,
+            "region_id":85688535,
+            "venue_id":739882403
+        }
+    ],
+    "wof:id":739882403,
+    "wof:lastmodified":1461919145,
+    "wof:name":"Food Lion",
+    "wof:parent_id":85835843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "super"
+    ]
+},
+  "bbox": [
+    -84.841666,
+    33.86871,
+    -84.841666,
+    33.86871
+],
+  "geometry": {"coordinates":[-84.841666,33.86871],"type":"Point"}
+}

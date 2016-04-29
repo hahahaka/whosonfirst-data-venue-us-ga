@@ -1,0 +1,84 @@
+{
+  "id": 739951229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.371516,33.762333,-84.371516,33.762333",
+    "geom:latitude":33.762333,
+    "geom:longitude":-84.371516,
+    "iso:country":"US",
+    "sg:address":"285 Boulevard NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 840 8688",
+    "sg:postcode":"30312",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"www.nonprofitstdtesting.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872109,
+        85872065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZuWko9AgLKVvgKFk5UWHJ_33.762333_-84.371516@1303262614"
+    },
+    "wof:country":"US",
+    "wof:created":1461922005,
+    "wof:geomhash":"9cfe570ed508d6beba446b0d20e42d25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872109,
+            "region_id":85688535,
+            "venue_id":739951229
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872065,
+            "region_id":85688535,
+            "venue_id":739951229
+        }
+    ],
+    "wof:id":739951229,
+    "wof:lastmodified":1461922005,
+    "wof:name":"Atlanta STD/HIV Testing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -84.371516,
+    33.762333,
+    -84.371516,
+    33.762333
+],
+  "geometry": {"coordinates":[-84.371516,33.762333],"type":"Point"}
+}

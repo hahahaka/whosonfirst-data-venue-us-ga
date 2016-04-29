@@ -1,0 +1,75 @@
+{
+  "id": 739254219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.841466,34.937594,-84.841466,34.937594",
+    "geom:latitude":34.937594,
+    "geom:longitude":-84.841466,
+    "iso:country":"US",
+    "sg:address":"3292 Mount Pleasant Rd NE",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 694 2311",
+    "sg:postcode":"30721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0haDAUZNNVgl8LLzE4v0HX_34.937594_-84.841466@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461903581,
+    "wof:geomhash":"0d0e55aaba4314d448ee39b7f952e337",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":739254219
+        }
+    ],
+    "wof:id":739254219,
+    "wof:lastmodified":1461903581,
+    "wof:name":"Alpine's Boarding Facility",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.841466,
+    34.937594,
+    -84.841466,
+    34.937594
+],
+  "geometry": {"coordinates":[-84.841466,34.937594],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 739286873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.548495,30.721003,-81.548495,30.721003",
+    "geom:latitude":30.721003,
+    "geom:longitude":-81.548495,
+    "iso:country":"US",
+    "sg:address":"105 State Rte 40",
+    "sg:city":"Saint Marys",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 882 1175",
+    "sg:postcode":"31558",
+    "sg:province":"GA",
+    "sg:tags":[
+        "oil",
+        "change"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937043,
+        102081693,
+        85852055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26EV1fzGsoP0wWZEwdCjiu_30.721003_-81.548495@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461904303,
+    "wof:geomhash":"f431f5b787062ccc0a20980a742f0611",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081693,
+            "locality_id":85937043,
+            "neighbourhood_id":85852055,
+            "region_id":85688535,
+            "venue_id":739286873
+        }
+    ],
+    "wof:id":739286873,
+    "wof:lastmodified":1461904303,
+    "wof:name":"Saint Marys Car Wash",
+    "wof:parent_id":85852055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "change"
+    ]
+},
+  "bbox": [
+    -81.548495,
+    30.721003,
+    -81.548495,
+    30.721003
+],
+  "geometry": {"coordinates":[-81.548495,30.721003],"type":"Point"}
+}

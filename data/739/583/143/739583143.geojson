@@ -1,0 +1,82 @@
+{
+  "id": 739583143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.038928,33.027808,-85.038928,33.027808",
+    "geom:latitude":33.027808,
+    "geom:longitude":-85.038928,
+    "iso:country":"US",
+    "sg:address":"306 Dallas St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 883 6443",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "merchandise",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2X0mRo9mQGPmis0wYp6ttw_33.027808_-85.038928@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910069,
+    "wof:geomhash":"a2942b5e6dcf5df1e3b4444f36227f77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739583143
+        }
+    ],
+    "wof:id":739583143,
+    "wof:lastmodified":1461910069,
+    "wof:name":"TLC Pet Sitting",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "merchandise",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -85.038928,
+    33.027808,
+    -85.038928,
+    33.027808
+],
+  "geometry": {"coordinates":[-85.038928,33.027808],"type":"Point"}
+}

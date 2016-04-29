@@ -1,0 +1,71 @@
+{
+  "id": 722677189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.039474,33.038665,-85.039474,33.038665",
+    "geom:latitude":33.038665,
+    "geom:longitude":-85.039474,
+    "iso:country":"US",
+    "sg:address":"600 Vernon St",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 845 1950",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wxJGxhaJc3fV8rbHqzf9s_33.038665_-85.039474@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886532,
+    "wof:geomhash":"ba7b452bf4ad6383a38443b802c54a39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":722677189
+        }
+    ],
+    "wof:id":722677189,
+    "wof:lastmodified":1461886532,
+    "wof:name":"Steven B Cosper Dr",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -85.039474,
+    33.038665,
+    -85.039474,
+    33.038665
+],
+  "geometry": {"coordinates":[-85.039474,33.038665],"type":"Point"}
+}

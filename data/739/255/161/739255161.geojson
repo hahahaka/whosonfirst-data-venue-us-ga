@@ -1,0 +1,73 @@
+{
+  "id": 739255161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.540191,34.10894,-84.540191,34.10894",
+    "geom:latitude":34.10894,
+    "geom:longitude":-84.540191,
+    "iso:country":"US",
+    "sg:address":"1192 Buckhead Xing",
+    "sg:city":"Woodstock",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 494 4450",
+    "sg:postcode":"30189",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936723,
+        102084635,
+        85809475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PpnJM7MA0DkacNlcr4krI_34.108940_-84.540191@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461903605,
+    "wof:geomhash":"7bb1467cad55436feb7c930737bb99c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084635,
+            "locality_id":85936723,
+            "neighbourhood_id":85809475,
+            "region_id":85688535,
+            "venue_id":739255161
+        }
+    ],
+    "wof:id":739255161,
+    "wof:lastmodified":1461903605,
+    "wof:name":"North Georgia Internal Med",
+    "wof:parent_id":85809475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.540191,
+    34.10894,
+    -84.540191,
+    34.10894
+],
+  "geometry": {"coordinates":[-84.54019099999999,34.10894],"type":"Point"}
+}

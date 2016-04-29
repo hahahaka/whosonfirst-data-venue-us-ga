@@ -1,0 +1,89 @@
+{
+  "id": 739752863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.471566,33.879193,-84.471566,33.879193",
+    "geom:latitude":33.879193,
+    "geom:longitude":-84.471566,
+    "iso:country":"US",
+    "sg:address":"1000 Cumberland Mall",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 435 2206",
+    "sg:postcode":"30339",
+    "sg:province":"GA",
+    "sg:tags":[
+        "building",
+        "shopping",
+        "center",
+        "nonresidential",
+        "mall",
+        "investor"
+    ],
+    "sg:website":"www.cumberlandmall.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936139,
+        102082313,
+        85813197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46vE2gZkd6XioJsF04osOD_33.879756_-84.471066@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461913821,
+    "wof:geomhash":"17c173961b6aa49fddf1c60945841784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85813197,
+            "region_id":85688535,
+            "venue_id":739752863
+        }
+    ],
+    "wof:id":739752863,
+    "wof:lastmodified":1461913821,
+    "wof:name":"Cumberland Mall",
+    "wof:parent_id":85813197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "shopping",
+        "center",
+        "nonresidential",
+        "mall",
+        "investor"
+    ]
+},
+  "bbox": [
+    -84.471566,
+    33.879193,
+    -84.471566,
+    33.879193
+],
+  "geometry": {"coordinates":[-84.471566,33.879193],"type":"Point"}
+}

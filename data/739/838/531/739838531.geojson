@@ -1,0 +1,71 @@
+{
+  "id": 739838531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.02105,33.875556,-84.02105,33.875556",
+    "geom:latitude":33.875556,
+    "geom:longitude":-84.02105,
+    "iso:country":"US",
+    "sg:address":"1700 Tree Ln Ste 200",
+    "sg:city":"Snellville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 979 4990",
+    "sg:postcode":"30078",
+    "sg:province":"GA",
+    "sg:tags":[
+        "cardiologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936303,
+        102082967,
+        85857829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3p16QzHaPFx7RTh303GqxI_33.875556_-84.021050@1303262585"
+    },
+    "wof:country":"US",
+    "wof:created":1461917431,
+    "wof:geomhash":"33be04c07cbdca27d834dcafb6712238",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936303,
+            "neighbourhood_id":85857829,
+            "region_id":85688535,
+            "venue_id":739838531
+        }
+    ],
+    "wof:id":739838531,
+    "wof:lastmodified":1461917431,
+    "wof:name":"Hayat Khalid MD",
+    "wof:parent_id":85857829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cardiologist"
+    ]
+},
+  "bbox": [
+    -84.02105,
+    33.875556,
+    -84.02105,
+    33.875556
+],
+  "geometry": {"coordinates":[-84.02105,33.875556],"type":"Point"}
+}

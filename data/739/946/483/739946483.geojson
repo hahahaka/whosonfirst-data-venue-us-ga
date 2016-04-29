@@ -1,0 +1,89 @@
+{
+  "id": 739946483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.386429,33.78664,-84.386429,33.78664",
+    "geom:latitude":33.78664,
+    "geom:longitude":-84.386429,
+    "iso:country":"US",
+    "sg:address":"37 14th St NE 49 S",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 472 8665",
+    "sg:postcode":"30309",
+    "sg:province":"GA",
+    "sg:tags":[
+        "pump",
+        "well",
+        "drilling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85866909,
+        85872127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Rt8Yky7D3ka1ckgSFS6nF_33.786640_-84.386429@1303262613"
+    },
+    "wof:country":"US",
+    "wof:created":1461921788,
+    "wof:geomhash":"53e98174a22b370eef2aa2d9688248c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85866909,
+            "region_id":85688535,
+            "venue_id":739946483
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872127,
+            "region_id":85688535,
+            "venue_id":739946483
+        }
+    ],
+    "wof:id":739946483,
+    "wof:lastmodified":1461921788,
+    "wof:name":"Benford Well Drilling",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pump",
+        "well",
+        "drilling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.386429,
+    33.78664,
+    -84.386429,
+    33.78664
+],
+  "geometry": {"coordinates":[-84.38642900000001,33.78664],"type":"Point"}
+}

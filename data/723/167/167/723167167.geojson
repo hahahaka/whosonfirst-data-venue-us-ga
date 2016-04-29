@@ -1,0 +1,73 @@
+{
+  "id": 723167167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.29751,33.868931,-84.29751,33.868931",
+    "geom:latitude":33.868931,
+    "geom:longitude":-84.29751,
+    "iso:country":"US",
+    "sg:address":"2364 Dresden Dr",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 596 8300",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102525899,
+        85688535,
+        85633793,
+        85937255,
+        102084539,
+        85807835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sjZ39musW4BK7jnhntFm9_33.868931_-84.297510@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896429,
+    "wof:geomhash":"370ce04069cba4c7547e5e4952001a39",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525899,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937255,
+            "neighbourhood_id":85807835,
+            "region_id":85688535,
+            "venue_id":723167167
+        }
+    ],
+    "wof:id":723167167,
+    "wof:lastmodified":1461896429,
+    "wof:name":"Weekend Wash",
+    "wof:parent_id":102525899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -84.29751,
+    33.868931,
+    -84.29751,
+    33.868931
+],
+  "geometry": {"coordinates":[-84.29751,33.868931],"type":"Point"}
+}

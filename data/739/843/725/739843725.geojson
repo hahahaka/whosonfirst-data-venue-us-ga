@@ -1,0 +1,74 @@
+{
+  "id": 739843725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.143975,33.855169,-84.143975,33.855169",
+    "geom:latitude":33.855169,
+    "geom:longitude":-84.143975,
+    "iso:country":"US",
+    "sg:address":"5500 Lilburn-Stone Mountain Rd B",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 717 8801",
+    "sg:postcode":"30081",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"www.amclabs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936299,
+        102082967,
+        85803655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rxRomBh6rzN2hxm9QhmzB_33.855169_-84.143975@1303262586"
+    },
+    "wof:country":"US",
+    "wof:created":1461917648,
+    "wof:geomhash":"78928eceea1fb483c28887402157631b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936299,
+            "neighbourhood_id":85803655,
+            "region_id":85688535,
+            "venue_id":739843725
+        }
+    ],
+    "wof:id":739843725,
+    "wof:lastmodified":1461917648,
+    "wof:name":"American Clinical Laboratories",
+    "wof:parent_id":85803655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -84.143975,
+    33.855169,
+    -84.143975,
+    33.855169
+],
+  "geometry": {"coordinates":[-84.143975,33.855169],"type":"Point"}
+}

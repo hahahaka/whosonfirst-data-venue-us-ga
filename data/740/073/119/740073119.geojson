@@ -1,0 +1,83 @@
+{
+  "id": 740073119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.954583,32.441099,-84.954583,32.441099",
+    "geom:latitude":32.441099,
+    "geom:longitude":-84.954583,
+    "iso:country":"US",
+    "sg:address":"2920 N Lumpkin Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 507 2922",
+    "sg:postcode":"31903",
+    "sg:province":"GA",
+    "sg:tags":[
+        "cleaner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85803141,
+        420518159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a5VgHLEKcg29KY76ACe7D_32.441099_-84.954583@1303262646"
+    },
+    "wof:country":"US",
+    "wof:created":1461927097,
+    "wof:geomhash":"4746f9607281d629b56b10a33d54b5cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85803141,
+            "region_id":85688535,
+            "venue_id":740073119
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":420518159,
+            "region_id":85688535,
+            "venue_id":740073119
+        }
+    ],
+    "wof:id":740073119,
+    "wof:lastmodified":1461927097,
+    "wof:name":"C Laundry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner"
+    ]
+},
+  "bbox": [
+    -84.954583,
+    32.441099,
+    -84.954583,
+    32.441099
+],
+  "geometry": {"coordinates":[-84.954583,32.441099],"type":"Point"}
+}

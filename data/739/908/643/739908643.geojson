@@ -1,0 +1,77 @@
+{
+  "id": 739908643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.539398,33.568699,-84.539398,33.568699",
+    "geom:latitude":33.568699,
+    "geom:longitude":-84.539398,
+    "iso:country":"US",
+    "sg:address":"4636 Jonesboro Rd",
+    "sg:city":"Union City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 306 4195",
+    "sg:postcode":"30291",
+    "sg:province":"GA",
+    "sg:website":"www.burgerking.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85848007,
+        102083603,
+        102191575,
+        85937167,
+        420517955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hMIIq9xjbY6eGqQFcixpZ_33.568699_-84.539398@1303262603"
+    },
+    "wof:country":"US",
+    "wof:created":1461920142,
+    "wof:geomhash":"aaa66e30dd5acce85469e20d88655e1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85848007,
+            "region_id":85688535,
+            "venue_id":739908643
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937167,
+            "neighbourhood_id":420517955,
+            "region_id":85688535,
+            "venue_id":739908643
+        }
+    ],
+    "wof:id":739908643,
+    "wof:lastmodified":1461920142,
+    "wof:name":"Burger King",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.539398,
+    33.568699,
+    -84.539398,
+    33.568699
+],
+  "geometry": {"coordinates":[-84.53939800000001,33.568699],"type":"Point"}
+}

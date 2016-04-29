@@ -1,0 +1,76 @@
+{
+  "id": 740012473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.469272,33.587895,-84.469272,33.587895",
+    "geom:latitude":33.587895,
+    "geom:longitude":-84.469272,
+    "iso:country":"US",
+    "sg:address":"6149 Old National Hwy",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 909 5678",
+    "sg:postcode":"30349",
+    "sg:province":"GA",
+    "sg:tags":[
+        "delicatessen",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889945,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39ZIbYsStdC38vHFQgkCnY_33.587895_-84.469272@1303262630"
+    },
+    "wof:country":"US",
+    "wof:created":1461924410,
+    "wof:geomhash":"0739081dd48dfcbbdf7d70183b4b8db9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85889945,
+            "region_id":85688535,
+            "venue_id":740012473
+        }
+    ],
+    "wof:id":740012473,
+    "wof:lastmodified":1461924410,
+    "wof:name":"American Deli",
+    "wof:parent_id":85889945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.469272,
+    33.587895,
+    -84.469272,
+    33.587895
+],
+  "geometry": {"coordinates":[-84.469272,33.587895],"type":"Point"}
+}

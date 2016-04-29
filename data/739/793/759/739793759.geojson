@@ -1,0 +1,83 @@
+{
+  "id": 739793759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.296051,33.771397,-84.296051,33.771397",
+    "geom:latitude":33.771397,
+    "geom:longitude":-84.296051,
+    "iso:country":"US",
+    "sg:address":"217 N McDonough St",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 371 0111",
+    "sg:postcode":"30030",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.thevillagevets.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936441,
+        102084539,
+        85890035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a0Hiu3DEaU7F6Xwxq3cBD_33.771397_-84.296051@1303262573"
+    },
+    "wof:country":"US",
+    "wof:created":1461915512,
+    "wof:geomhash":"580d66ce12bff40ee88927be2e474830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936441,
+            "neighbourhood_id":85890035,
+            "region_id":85688535,
+            "venue_id":739793759
+        }
+    ],
+    "wof:id":739793759,
+    "wof:lastmodified":1461915512,
+    "wof:name":"The Village Vets",
+    "wof:parent_id":85890035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.296051,
+    33.771397,
+    -84.296051,
+    33.771397
+],
+  "geometry": {"coordinates":[-84.29605100000001,33.771397],"type":"Point"}
+}

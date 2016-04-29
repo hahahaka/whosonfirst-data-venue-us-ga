@@ -1,0 +1,74 @@
+{
+  "id": 740051493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.7128,32.470536,-83.7128,32.470536",
+    "geom:latitude":32.470536,
+    "geom:longitude":-83.7128,
+    "iso:country":"US",
+    "sg:address":"1736 Houston Lake Rd",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 987 4722",
+    "sg:postcode":"31069",
+    "sg:province":"GA",
+    "sg:tags":[
+        "churches-non-denominational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85806619,
+        102083617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aC25rBByXpSF0vNT8KejP_32.470536_-83.712800@1303262640"
+    },
+    "wof:country":"US",
+    "wof:created":1461926174,
+    "wof:geomhash":"f54f35b5a26272c1ee91a8b29745eb96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "neighbourhood_id":85806619,
+            "region_id":85688535,
+            "venue_id":740051493
+        }
+    ],
+    "wof:id":740051493,
+    "wof:lastmodified":1461926174,
+    "wof:name":"Grace Church",
+    "wof:parent_id":85806619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-non-denominational"
+    ]
+},
+  "bbox": [
+    -83.7128,
+    32.470536,
+    -83.7128,
+    32.470536
+],
+  "geometry": {"coordinates":[-83.7128,32.470536],"type":"Point"}
+}

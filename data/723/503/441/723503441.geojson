@@ -1,0 +1,71 @@
+{
+  "id": 723503441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.092122,33.572106,-85.092122,33.572106",
+    "geom:latitude":33.572106,
+    "geom:longitude":-85.092122,
+    "iso:country":"US",
+    "sg:address":"1205 Maple St",
+    "sg:city":"Carrollton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 214 0007",
+    "sg:postcode":"30117",
+    "sg:province":"GA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85844821,
+        102081719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5q0CtbsFypHqWG0VKUuPUN_33.572106_-85.092122@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461903030,
+    "wof:geomhash":"369a0e643d2259461b42aa5e42537760",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081719,
+            "neighbourhood_id":85844821,
+            "region_id":85688535,
+            "venue_id":723503441
+        }
+    ],
+    "wof:id":723503441,
+    "wof:lastmodified":1461903030,
+    "wof:name":"Carrollton Place Apartments",
+    "wof:parent_id":85844821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.092122,
+    33.572106,
+    -85.092122,
+    33.572106
+],
+  "geometry": {"coordinates":[-85.092122,33.572106],"type":"Point"}
+}

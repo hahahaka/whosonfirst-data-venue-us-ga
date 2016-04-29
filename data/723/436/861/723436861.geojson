@@ -1,0 +1,87 @@
+{
+  "id": 723436861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.280272,33.765071,-84.280272,33.765071",
+    "geom:latitude":33.765071,
+    "geom:longitude":-84.280272,
+    "iso:country":"US",
+    "sg:address":"701 S Columbia Dr",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 378 8821",
+    "sg:postcode":"30030",
+    "sg:province":"GA",
+    "sg:tags":[
+        "school",
+        "theological"
+    ],
+    "sg:website":"www.ctsnet.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937245,
+        102084539,
+        85811997,
+        85936441,
+        85890031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27Yzrat4WbUjlcnhBWeIsP_33.765071_-84.280272@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901691,
+    "wof:geomhash":"b4477c8796a4ae2e09eb435acc75e9bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937245,
+            "neighbourhood_id":85811997,
+            "region_id":85688535,
+            "venue_id":723436861
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936441,
+            "neighbourhood_id":85890031,
+            "region_id":85688535,
+            "venue_id":723436861
+        }
+    ],
+    "wof:id":723436861,
+    "wof:lastmodified":1461901691,
+    "wof:name":"Columbia Theological Seminary",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "theological"
+    ]
+},
+  "bbox": [
+    -84.280272,
+    33.765071,
+    -84.280272,
+    33.765071
+],
+  "geometry": {"coordinates":[-84.280272,33.765071],"type":"Point"}
+}

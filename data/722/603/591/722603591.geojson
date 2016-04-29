@@ -1,0 +1,75 @@
+{
+  "id": 722603591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.916907,32.490816,-84.916907,32.490816",
+    "geom:latitude":32.490816,
+    "geom:longitude":-84.916907,
+    "iso:country":"US",
+    "sg:address":"4231 Macon Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 561 7711",
+    "sg:postcode":"31907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        420558377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y395ZUgoeYyvNjLSTryIr_32.490816_-84.916907@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461885055,
+    "wof:geomhash":"c348426b1304eb91fa5db9c7ff7b4f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":420558377,
+            "region_id":85688535,
+            "venue_id":722603591
+        }
+    ],
+    "wof:id":722603591,
+    "wof:lastmodified":1461885055,
+    "wof:name":"Alamo",
+    "wof:parent_id":420558377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -84.916907,
+    32.490816,
+    -84.916907,
+    32.490816
+],
+  "geometry": {"coordinates":[-84.91690699999999,32.490816],"type":"Point"}
+}

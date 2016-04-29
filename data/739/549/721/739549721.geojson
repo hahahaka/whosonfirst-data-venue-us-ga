@@ -1,0 +1,75 @@
+{
+  "id": 739549721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.504607,34.210424,-84.504607,34.210424",
+    "geom:latitude":34.210424,
+    "geom:longitude":-84.504607,
+    "iso:country":"US",
+    "sg:address":"2758 Marietta Hwy",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 363 5690",
+    "sg:postcode":"30114",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automobile",
+        "testing",
+        "emission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936719,
+        102084635,
+        85896247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Z6lV7VyHdQY7QPoDjjmOS_34.210424_-84.504607@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461909350,
+    "wof:geomhash":"60024544a544e9184165de21518cb462",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084635,
+            "locality_id":85936719,
+            "neighbourhood_id":85896247,
+            "region_id":85688535,
+            "venue_id":739549721
+        }
+    ],
+    "wof:id":739549721,
+    "wof:lastmodified":1461909350,
+    "wof:name":"Victory Lane Emission Testing",
+    "wof:parent_id":85896247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "testing",
+        "emission"
+    ]
+},
+  "bbox": [
+    -84.504607,
+    34.210424,
+    -84.504607,
+    34.210424
+],
+  "geometry": {"coordinates":[-84.50460699999999,34.210424],"type":"Point"}
+}

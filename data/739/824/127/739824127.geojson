@@ -1,0 +1,67 @@
+{
+  "id": 739824127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.527726,34.025889,-84.527726,34.025889",
+    "geom:latitude":34.025889,
+    "geom:longitude":-84.527726,
+    "iso:country":"US",
+    "sg:address":"3020 Canton Rd Ste 1",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 581 1492",
+    "sg:postcode":"30066",
+    "sg:province":"GA",
+    "sg:website":"www.meineke.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936135,
+        102082313,
+        85857049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dNTm4DzcLVgM1flxPh0jZ_34.025889_-84.527726@1303262581"
+    },
+    "wof:country":"US",
+    "wof:created":1461916860,
+    "wof:geomhash":"dc1baf98563e374b05eb4d36b92df753",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936135,
+            "neighbourhood_id":85857049,
+            "region_id":85688535,
+            "venue_id":739824127
+        }
+    ],
+    "wof:id":739824127,
+    "wof:lastmodified":1461916860,
+    "wof:name":"Meineke Car Care Centers",
+    "wof:parent_id":85857049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.527726,
+    34.025889,
+    -84.527726,
+    34.025889
+],
+  "geometry": {"coordinates":[-84.527726,34.025889],"type":"Point"}
+}

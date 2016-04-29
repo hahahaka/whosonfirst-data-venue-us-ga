@@ -1,0 +1,80 @@
+{
+  "id": 740062897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.614412,31.132033,-81.614412,31.132033",
+    "geom:latitude":31.132033,
+    "geom:longitude":-81.614412,
+    "iso:country":"US",
+    "sg:address":"453 Buck Swamp Rd",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 996 3816",
+    "sg:postcode":"31523",
+    "sg:province":"GA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85833275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JLgrsT7IjNcyLg1K4K8qG_31.132033_-81.614412@1303262643"
+    },
+    "wof:country":"US",
+    "wof:created":1461926656,
+    "wof:geomhash":"1408676c965cdfaf15b3d98788045fa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85833275,
+            "region_id":85688535,
+            "venue_id":740062897
+        }
+    ],
+    "wof:id":740062897,
+    "wof:lastmodified":1461926656,
+    "wof:name":"Jessica Trucking",
+    "wof:parent_id":85833275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.614412,
+    31.132033,
+    -81.614412,
+    31.132033
+],
+  "geometry": {"coordinates":[-81.614412,31.132033],"type":"Point"}
+}

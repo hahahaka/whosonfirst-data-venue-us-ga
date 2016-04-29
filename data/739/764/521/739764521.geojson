@@ -1,0 +1,74 @@
+{
+  "id": 739764521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.025979,33.85573,-84.025979,33.85573",
+    "geom:latitude":33.85573,
+    "geom:longitude":-84.025979,
+    "iso:country":"US",
+    "sg:address":"2697 Main St W",
+    "sg:city":"Snellville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/snellville-grayson/158344-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 979 9199",
+    "sg:postcode":"30078",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936303,
+        102082967,
+        85857829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aOqfsjctNl07sI9qC7orJ_33.855730_-84.025979@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914318,
+    "wof:geomhash":"0c3652b73c5ee00356032a6a43441eda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936303,
+            "neighbourhood_id":85857829,
+            "region_id":85688535,
+            "venue_id":739764521
+        }
+    ],
+    "wof:id":739764521,
+    "wof:lastmodified":1461914318,
+    "wof:name":"Arby's",
+    "wof:parent_id":85857829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.025979,
+    33.85573,
+    -84.025979,
+    33.85573
+],
+  "geometry": {"coordinates":[-84.02597900000001,33.85573],"type":"Point"}
+}

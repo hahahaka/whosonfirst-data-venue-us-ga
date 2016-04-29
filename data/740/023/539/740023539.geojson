@@ -1,0 +1,82 @@
+{
+  "id": 740023539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.862365,34.223457,-83.862365,34.223457",
+    "geom:latitude":34.223457,
+    "geom:longitude":-83.862365,
+    "iso:country":"US",
+    "sg:address":"3121 Spring Ln Apt M3",
+    "sg:city":"Gainesville",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 776 1797",
+    "sg:postcode":"30507",
+    "sg:province":"GA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936859,
+        102083629,
+        85806313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03w5ZMKPoe2UdYKijS0RXr_34.223457_-83.862365@1303262633"
+    },
+    "wof:country":"US",
+    "wof:created":1461924835,
+    "wof:geomhash":"f5ad927314213907e3efb6b0b0e7b388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083629,
+            "locality_id":85936859,
+            "neighbourhood_id":85806313,
+            "region_id":85688535,
+            "venue_id":740023539
+        }
+    ],
+    "wof:id":740023539,
+    "wof:lastmodified":1461924835,
+    "wof:name":"American Logging & Hauling",
+    "wof:parent_id":85806313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.862365,
+    34.223457,
+    -83.862365,
+    34.223457
+],
+  "geometry": {"coordinates":[-83.862365,34.223457],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 739814983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.118202,33.709499,-84.118202,33.709499",
+    "geom:latitude":33.709499,
+    "geom:longitude":-84.118202,
+    "iso:country":"US",
+    "sg:address":"7431 Covington Hwy",
+    "sg:city":"Lithonia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 482 5100",
+    "sg:postcode":"30058",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937263,
+        102084539,
+        85890037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15MigEWgs4gKlD9Kis5i7L_33.709499_-84.118202@1303262579"
+    },
+    "wof:country":"US",
+    "wof:created":1461916507,
+    "wof:geomhash":"63273735c2e1a2a3282b26cc1acae9c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937263,
+            "neighbourhood_id":85890037,
+            "region_id":85688535,
+            "venue_id":739814983
+        }
+    ],
+    "wof:id":739814983,
+    "wof:lastmodified":1461916507,
+    "wof:name":"Smith Michael W DVM",
+    "wof:parent_id":85890037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.118202,
+    33.709499,
+    -84.118202,
+    33.709499
+],
+  "geometry": {"coordinates":[-84.118202,33.709499],"type":"Point"}
+}

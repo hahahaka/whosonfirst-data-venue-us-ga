@@ -1,0 +1,83 @@
+{
+  "id": 739811271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.126961,33.900902,-84.126961,33.900902",
+    "geom:latitude":33.900902,
+    "geom:longitude":-84.126961,
+    "iso:country":"US",
+    "sg:address":"4354 Lawrenceville Hwy NW",
+    "sg:city":"Lilburn",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 734 4667",
+    "sg:postcode":"30047",
+    "sg:province":"GA",
+    "sg:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ],
+    "sg:website":"http://www.regionsbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936299,
+        102082967,
+        85803655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PZfMR6TjKYNf2gwoVAeho_33.900902_-84.126961@1303262578"
+    },
+    "wof:country":"US",
+    "wof:created":1461916358,
+    "wof:geomhash":"2c6cd25c87182c1b6925f32f37686041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936299,
+            "neighbourhood_id":85803655,
+            "region_id":85688535,
+            "venue_id":739811271
+        }
+    ],
+    "wof:id":739811271,
+    "wof:lastmodified":1461916358,
+    "wof:name":"Regions Bank",
+    "wof:parent_id":85803655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -84.126961,
+    33.900902,
+    -84.126961,
+    33.900902
+],
+  "geometry": {"coordinates":[-84.12696099999999,33.900902],"type":"Point"}
+}

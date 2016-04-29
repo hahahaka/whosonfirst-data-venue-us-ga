@@ -1,0 +1,71 @@
+{
+  "id": 739356221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.707509,32.802824,-83.707509,32.802824",
+    "geom:latitude":32.802824,
+    "geom:longitude":-83.707509,
+    "iso:country":"US",
+    "sg:address":"5045 Bloomfield Rd",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 781 6764",
+    "sg:postcode":"31206",
+    "sg:province":"GA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936517,
+        102084373,
+        85806435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bWpYsX884sInpNdAzW1Du_32.802824_-83.707509@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461905740,
+    "wof:geomhash":"9abfa50409416d9c30f91004d3dce6c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084373,
+            "locality_id":85936517,
+            "neighbourhood_id":85806435,
+            "region_id":85688535,
+            "venue_id":739356221
+        }
+    ],
+    "wof:id":739356221,
+    "wof:lastmodified":1461905740,
+    "wof:name":"Robert G Aldrich DDS",
+    "wof:parent_id":85806435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -83.707509,
+    32.802824,
+    -83.707509,
+    32.802824
+],
+  "geometry": {"coordinates":[-83.707509,32.802824],"type":"Point"}
+}

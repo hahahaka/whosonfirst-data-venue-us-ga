@@ -1,0 +1,73 @@
+{
+  "id": 740052409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.662201,32.563301,-83.662201,32.563301",
+    "geom:latitude":32.563301,
+    "geom:longitude":-83.662201,
+    "iso:country":"US",
+    "sg:address":"1262 S Houston Lake Rd",
+    "sg:city":"Warner Robins",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 987 7954",
+    "sg:postcode":"31088",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kGC0xKKMP8ap368Fyuxc4_32.563301_-83.662201@1303262640"
+    },
+    "wof:country":"US",
+    "wof:created":1461926216,
+    "wof:geomhash":"12fed38acab90a2577d3cd1278d07ac6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":740052409
+        }
+    ],
+    "wof:id":740052409,
+    "wof:lastmodified":1461926216,
+    "wof:name":"R & L Auto Body",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.662201,
+    32.563301,
+    -83.662201,
+    32.563301
+],
+  "geometry": {"coordinates":[-83.662201,32.563301],"type":"Point"}
+}

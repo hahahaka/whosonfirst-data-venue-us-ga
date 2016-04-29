@@ -1,0 +1,91 @@
+{
+  "id": 740067893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.136973,31.552412,-84.136973,31.552412",
+    "geom:latitude":31.552412,
+    "geom:longitude":-84.136973,
+    "iso:country":"US",
+    "sg:address":"304 E Oakridge Dr",
+    "sg:city":"Albany",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pawn Shop",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Gun Range",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 436 3655",
+    "sg:postcode":"31705",
+    "sg:province":"GA",
+    "sg:tags":[
+        "pawnbroker",
+        "safety",
+        "instruction",
+        "marksmanship",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937181,
+        102084427,
+        85847851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iZtHrQyO9k3EhqpPL6jxQ_31.552412_-84.136973@1303262644"
+    },
+    "wof:country":"US",
+    "wof:created":1461926872,
+    "wof:geomhash":"cac63695bfbbe42802ddca95095a03cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85937181,
+            "neighbourhood_id":85847851,
+            "region_id":85688535,
+            "venue_id":740067893
+        }
+    ],
+    "wof:id":740067893,
+    "wof:lastmodified":1461926872,
+    "wof:name":"Oakridge Pawn Shop",
+    "wof:parent_id":85847851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker",
+        "safety",
+        "instruction",
+        "marksmanship",
+        "gunsmith"
+    ]
+},
+  "bbox": [
+    -84.136973,
+    31.552412,
+    -84.136973,
+    31.552412
+],
+  "geometry": {"coordinates":[-84.136973,31.552412],"type":"Point"}
+}

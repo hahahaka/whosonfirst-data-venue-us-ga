@@ -1,0 +1,71 @@
+{
+  "id": 723337735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.984801,30.842506,-83.984801,30.842506",
+    "geom:latitude":30.842506,
+    "geom:longitude":-83.984801,
+    "iso:country":"US",
+    "sg:address":"522 N Broad St",
+    "sg:city":"Thomasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 226 0963",
+    "sg:postcode":"31792",
+    "sg:province":"GA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85806705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0K0SBeJ5B0BESl9GawB4yO_30.842506_-83.984801@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899763,
+    "wof:geomhash":"02900c482b5026cf27f58895260774fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85806705,
+            "region_id":85688535,
+            "venue_id":723337735
+        }
+    ],
+    "wof:id":723337735,
+    "wof:lastmodified":1461899763,
+    "wof:name":"Modern Cleaners & Laundry",
+    "wof:parent_id":85806705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -83.984801,
+    30.842506,
+    -83.984801,
+    30.842506
+],
+  "geometry": {"coordinates":[-83.984801,30.842506],"type":"Point"}
+}

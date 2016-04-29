@@ -1,0 +1,71 @@
+{
+  "id": 739856245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.0929,33.975677,-84.0929,33.975677",
+    "geom:latitude":33.975677,
+    "geom:longitude":-84.0929,
+    "iso:country":"US",
+    "sg:address":"2350 Stephens Center Dr",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Driving School",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 768 4771",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "instruction",
+        "traffic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YdgUTsCBEJBJozAAhaL3I_33.975677_-84.092900@1303262590"
+    },
+    "wof:country":"US",
+    "wof:created":1461918151,
+    "wof:geomhash":"84f556b0f2db16537135bbc882db0135",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":739856245
+        }
+    ],
+    "wof:id":739856245,
+    "wof:lastmodified":1461918151,
+    "wof:name":"Alternative Driver Training, Inc",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "traffic"
+    ]
+},
+  "bbox": [
+    -84.0929,
+    33.975677,
+    -84.0929,
+    33.975677
+],
+  "geometry": {"coordinates":[-84.0929,33.975677],"type":"Point"}
+}

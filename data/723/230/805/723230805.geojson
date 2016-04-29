@@ -1,0 +1,73 @@
+{
+  "id": 723230805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.101119,34.270759,-84.101119,34.270759",
+    "geom:latitude":34.270759,
+    "geom:longitude":-84.101119,
+    "iso:country":"US",
+    "sg:address":"3000 Dahlonega Hwy",
+    "sg:city":"Cumming",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 475 0019",
+    "sg:postcode":"30040",
+    "sg:province":"GA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936811,
+        102082317,
+        85842073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5m90uWxZwjbpBHND35qM1a_34.270759_-84.101119@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897722,
+    "wof:geomhash":"9580d99c3f2b94de9aab6b9514947467",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082317,
+            "locality_id":85936811,
+            "neighbourhood_id":85842073,
+            "region_id":85688535,
+            "venue_id":723230805
+        }
+    ],
+    "wof:id":723230805,
+    "wof:lastmodified":1461897722,
+    "wof:name":"Coal Mountain Storage",
+    "wof:parent_id":85842073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -84.101119,
+    34.270759,
+    -84.101119,
+    34.270759
+],
+  "geometry": {"coordinates":[-84.101119,34.270759],"type":"Point"}
+}

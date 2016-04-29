@@ -1,0 +1,73 @@
+{
+  "id": 723358567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.517752,33.777895,-84.517752,33.777895",
+    "geom:latitude":33.777895,
+    "geom:longitude":-84.517752,
+    "iso:country":"US",
+    "sg:address":"3955 Aero Dr NW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 691 1297",
+    "sg:postcode":"30336",
+    "sg:province":"GA",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937189,
+        102082313,
+        85809641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Q2kn0J68pfgAFzJLWCYkL_33.777895_-84.517752@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900155,
+    "wof:geomhash":"7147bce72449d360ab6ee25451b76951",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85937189,
+            "neighbourhood_id":85809641,
+            "region_id":85688535,
+            "venue_id":723358567
+        }
+    ],
+    "wof:id":723358567,
+    "wof:lastmodified":1461900155,
+    "wof:name":"Dumont Aviation Inc",
+    "wof:parent_id":85809641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -84.517752,
+    33.777895,
+    -84.517752,
+    33.777895
+],
+  "geometry": {"coordinates":[-84.517752,33.777895],"type":"Point"}
+}

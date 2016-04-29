@@ -1,0 +1,71 @@
+{
+  "id": 723110101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.931264,34.102584,-84.931264,34.102584",
+    "geom:latitude":34.102584,
+    "geom:longitude":-84.931264,
+    "iso:country":"US",
+    "sg:address":"26 Winterwood Ct",
+    "sg:city":"Taylorsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 607 8091",
+    "sg:postcode":"30178",
+    "sg:province":"GA",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85853435,
+        102082937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CFA3Wgc0va6tjKVAeeRqt_34.102584_-84.931264@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461895317,
+    "wof:geomhash":"bfe7b9ee701052b7bcb5d37954f1873e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082937,
+            "neighbourhood_id":85853435,
+            "region_id":85688535,
+            "venue_id":723110101
+        }
+    ],
+    "wof:id":723110101,
+    "wof:lastmodified":1461895317,
+    "wof:name":"Sunshine Heating & Cooling",
+    "wof:parent_id":85853435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.931264,
+    34.102584,
+    -84.931264,
+    34.102584
+],
+  "geometry": {"coordinates":[-84.931264,34.102584],"type":"Point"}
+}

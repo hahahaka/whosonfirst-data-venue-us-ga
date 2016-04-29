@@ -1,0 +1,75 @@
+{
+  "id": 739754611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.999977,33.47567,-81.999977,33.47567",
+    "geom:latitude":33.47567,
+    "geom:longitude":-81.999977,
+    "iso:country":"US",
+    "sg:address":"1902 Walton Way",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 736 3311",
+    "sg:postcode":"30904",
+    "sg:province":"GA",
+    "sg:tags":[
+        "transmission",
+        "part"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936989,
+        102082951,
+        85851375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4twyH7Oo9gdyEEU1Ff00Qw_33.475682_-81.999704@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461913888,
+    "wof:geomhash":"69fffd4e4bbeb7305e2c28176452b7e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082951,
+            "locality_id":85936989,
+            "neighbourhood_id":85851375,
+            "region_id":85688535,
+            "venue_id":739754611
+        }
+    ],
+    "wof:id":739754611,
+    "wof:lastmodified":1461913888,
+    "wof:name":"Lightning Automotive",
+    "wof:parent_id":85851375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "part"
+    ]
+},
+  "bbox": [
+    -81.999977,
+    33.47567,
+    -81.999977,
+    33.47567
+],
+  "geometry": {"coordinates":[-81.999977,33.47567],"type":"Point"}
+}

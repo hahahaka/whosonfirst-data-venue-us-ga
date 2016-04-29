@@ -1,0 +1,95 @@
+{
+  "id": 739775801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.302507,33.958375,-84.302507,33.958375",
+    "geom:latitude":33.958375,
+    "geom:longitude":-84.302507,
+    "iso:country":"US",
+    "sg:address":"2462 Jett Ferry Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/chamblee-doraville/259149-east-48th-street/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 392 1499",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "bakery",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        420517731,
+        85937165,
+        102083603,
+        420517933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33eI6tTSTPiLRt56qAMTwo_33.958592_-84.302576@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461914775,
+    "wof:geomhash":"c1ca0ccaec6ee9badbf6009a5cb26acb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":420517731,
+            "region_id":85688535,
+            "venue_id":739775801
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937165,
+            "neighbourhood_id":420517933,
+            "region_id":85688535,
+            "venue_id":739775801
+        }
+    ],
+    "wof:id":739775801,
+    "wof:lastmodified":1461914775,
+    "wof:name":"East 48th Street",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "bakery",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -84.302507,
+    33.958375,
+    -84.302507,
+    33.958375
+],
+  "geometry": {"coordinates":[-84.30250700000001,33.958375],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 740014183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.478401,33.603378,-84.478401,33.603378",
+    "geom:latitude":33.603378,
+    "geom:longitude":-84.478401,
+    "iso:country":"US",
+    "sg:address":"130 Meadow Lake Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 403 2032",
+    "sg:postcode":"30349",
+    "sg:province":"GA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889945,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43cuk6TXtfSUU2Db0lVYOV_33.603378_-84.478401@1303262630"
+    },
+    "wof:country":"US",
+    "wof:created":1461924472,
+    "wof:geomhash":"74e4fc605f1fea6942f1d7d73116bece",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85889945,
+            "region_id":85688535,
+            "venue_id":740014183
+        }
+    ],
+    "wof:id":740014183,
+    "wof:lastmodified":1461924472,
+    "wof:name":"Unic Trucking",
+    "wof:parent_id":85889945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.478401,
+    33.603378,
+    -84.478401,
+    33.603378
+],
+  "geometry": {"coordinates":[-84.47840100000001,33.603378],"type":"Point"}
+}

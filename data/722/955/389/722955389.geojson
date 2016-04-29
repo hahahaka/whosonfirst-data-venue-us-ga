@@ -1,0 +1,71 @@
+{
+  "id": 722955389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.37374,30.991041,-83.37374,30.991041",
+    "geom:latitude":30.991041,
+    "geom:longitude":-83.37374,
+    "iso:country":"US",
+    "sg:address":"123 W Main St",
+    "sg:city":"Hahira",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 794 2885",
+    "sg:postcode":"31632",
+    "sg:province":"GA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85815713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fFgaRhzdxfmqcnhlZXWAL_30.991041_-83.373740@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461891932,
+    "wof:geomhash":"0a4ed6ccb3933c8640b132c8692b08c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85815713,
+            "region_id":85688535,
+            "venue_id":722955389
+        }
+    ],
+    "wof:id":722955389,
+    "wof:lastmodified":1461891932,
+    "wof:name":"Mickey's Food Store",
+    "wof:parent_id":85815713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -83.37374,
+    30.991041,
+    -83.37374,
+    30.991041
+],
+  "geometry": {"coordinates":[-83.37374,30.991041],"type":"Point"}
+}

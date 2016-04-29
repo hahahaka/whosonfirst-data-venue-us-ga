@@ -1,0 +1,83 @@
+{
+  "id": 722957639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.152654,31.603988,-84.152654,31.603988",
+    "geom:latitude":31.603988,
+    "geom:longitude":-84.152654,
+    "iso:country":"US",
+    "sg:address":"1441 N Washington St",
+    "sg:city":"Albany",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 438 0460",
+    "sg:postcode":"31701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "used",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85829381,
+        102084427,
+        102191575,
+        85935991,
+        420517781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5m9TRuzmxO6z6noQjvnxUy_31.603988_-84.152654@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461891976,
+    "wof:geomhash":"be6e2801b05d436e3403ba429cf0ed83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084427,
+            "neighbourhood_id":85829381,
+            "region_id":85688535,
+            "venue_id":722957639
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":420517781,
+            "region_id":85688535,
+            "venue_id":722957639
+        }
+    ],
+    "wof:id":722957639,
+    "wof:lastmodified":1461891976,
+    "wof:name":"AAA Used Auto Parts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used",
+        "parts"
+    ]
+},
+  "bbox": [
+    -84.152654,
+    31.603988,
+    -84.152654,
+    31.603988
+],
+  "geometry": {"coordinates":[-84.152654,31.603988],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 722591183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.471706,33.903234,-84.471706,33.903234",
+    "geom:latitude":33.903234,
+    "geom:longitude":-84.471706,
+    "iso:country":"US",
+    "sg:address":"2791 Windy Hill Rd SE",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 303 8116",
+    "sg:postcode":"30067",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automobile",
+        "testing",
+        "emission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818985,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SWQVGbH2vxOMQ0T7W8Vzt_33.903234_-84.471706@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461884812,
+    "wof:geomhash":"81b5efd4308711f2648d352607ada83c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85818985,
+            "region_id":85688535,
+            "venue_id":722591183
+        }
+    ],
+    "wof:id":722591183,
+    "wof:lastmodified":1461884812,
+    "wof:name":"Emission Pros",
+    "wof:parent_id":85818985,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "testing",
+        "emission"
+    ]
+},
+  "bbox": [
+    -84.471706,
+    33.903234,
+    -84.471706,
+    33.903234
+],
+  "geometry": {"coordinates":[-84.471706,33.903234],"type":"Point"}
+}

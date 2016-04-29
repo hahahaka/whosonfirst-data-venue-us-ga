@@ -1,0 +1,93 @@
+{
+  "id": 740062955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.572017,31.146462,-81.572017,31.146462",
+    "geom:latitude":31.146462,
+    "geom:longitude":-81.572017,
+    "iso:country":"US",
+    "sg:address":"186 Taylors Dr",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 264 3638",
+    "sg:postcode":"31523",
+    "sg:province":"GA",
+    "sg:tags":[
+        "plumber",
+        "tank",
+        "septic",
+        "supply",
+        "system",
+        "tanks-treatment",
+        "systems-cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85833275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KiV44pvuDyh00MmZsBRw5_31.146462_-81.572017@1303262643"
+    },
+    "wof:country":"US",
+    "wof:created":1461926659,
+    "wof:geomhash":"3ad4c40c00342d3f2f1c4fed40b0d002",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85833275,
+            "region_id":85688535,
+            "venue_id":740062955
+        }
+    ],
+    "wof:id":740062955,
+    "wof:lastmodified":1461926659,
+    "wof:name":"A-1 Septic Tank Service",
+    "wof:parent_id":85833275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber",
+        "tank",
+        "septic",
+        "supply",
+        "system",
+        "tanks-treatment",
+        "systems-cleaning"
+    ]
+},
+  "bbox": [
+    -81.572017,
+    31.146462,
+    -81.572017,
+    31.146462
+],
+  "geometry": {"coordinates":[-81.572017,31.146462],"type":"Point"}
+}

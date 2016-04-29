@@ -1,0 +1,71 @@
+{
+  "id": 739280261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.142051,33.509101,-82.142051,33.509101",
+    "geom:latitude":33.509101,
+    "geom:longitude":-82.142051,
+    "iso:country":"US",
+    "sg:address":"123 N Belair Rd",
+    "sg:city":"Evans",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 210 8191",
+    "sg:postcode":"30809",
+    "sg:province":"GA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1k6JFiJVxrfxsRwdLk5nGy_33.509101_-82.142051@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461904148,
+    "wof:geomhash":"a6b8b64da9e4c636a05be0308a589e70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":739280261
+        }
+    ],
+    "wof:id":739280261,
+    "wof:lastmodified":1461904148,
+    "wof:name":"Integrity Plumbing",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.142051,
+    33.509101,
+    -82.142051,
+    33.509101
+],
+  "geometry": {"coordinates":[-82.142051,33.509101],"type":"Point"}
+}

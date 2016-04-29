@@ -1,0 +1,78 @@
+{
+  "id": 722550223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.940042,30.853492,-83.940042,30.853492",
+    "geom:latitude":30.853492,
+    "geom:longitude":-83.940042,
+    "iso:country":"US",
+    "sg:address":"366 Commercial Dr",
+    "sg:city":"Thomasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 226 2850",
+    "sg:postcode":"31792",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body",
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85833309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yntmhWXx6Pfwhcjm4xWDM_30.853492_-83.940042@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461884008,
+    "wof:geomhash":"9b390a3aa103b4a1db52126e12488b2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85833309,
+            "region_id":85688535,
+            "venue_id":722550223
+        }
+    ],
+    "wof:id":722550223,
+    "wof:lastmodified":1461884008,
+    "wof:name":"Mitchell's Trim Shop",
+    "wof:parent_id":85833309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -83.940042,
+    30.853492,
+    -83.940042,
+    30.853492
+],
+  "geometry": {"coordinates":[-83.94004200000001,30.853492],"type":"Point"}
+}

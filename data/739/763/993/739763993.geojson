@@ -1,0 +1,72 @@
+{
+  "id": 739763993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.602891,33.906425,-84.602891,33.906425",
+    "geom:latitude":33.906425,
+    "geom:longitude":-84.602891,
+    "iso:country":"US",
+    "sg:address":"1732 Powder Springs Rd SW",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/marietta/160550-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 428 8807",
+    "sg:postcode":"30064",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Uw1SC9HMgcpsj7VIOQyL9_33.906425_-84.602891@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914298,
+    "wof:geomhash":"1dbcec12efae26578552e8b25844f570",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739763993
+        }
+    ],
+    "wof:id":739763993,
+    "wof:lastmodified":1461914298,
+    "wof:name":"Burger King",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.602891,
+    33.906425,
+    -84.602891,
+    33.906425
+],
+  "geometry": {"coordinates":[-84.602891,33.906425],"type":"Point"}
+}

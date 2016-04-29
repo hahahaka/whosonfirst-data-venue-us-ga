@@ -1,0 +1,75 @@
+{
+  "id": 722541193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.304127,30.823095,-83.304127,30.823095",
+    "geom:latitude":30.823095,
+    "geom:longitude":-83.304127,
+    "iso:country":"US",
+    "sg:address":"109 Hemlock St",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 247 3427",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "cargo",
+        "carrier",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HjobxirNLeX8CtNAq9ggo_30.823095_-83.304127@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461883824,
+    "wof:geomhash":"d9f52e94f6ef676090eb9eeefe0023f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843241,
+            "region_id":85688535,
+            "venue_id":722541193
+        }
+    ],
+    "wof:id":722541193,
+    "wof:lastmodified":1461883824,
+    "wof:name":"Fedex",
+    "wof:parent_id":85843241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "carrier",
+        "air"
+    ]
+},
+  "bbox": [
+    -83.304127,
+    30.823095,
+    -83.304127,
+    30.823095
+],
+  "geometry": {"coordinates":[-83.30412699999999,30.823095],"type":"Point"}
+}

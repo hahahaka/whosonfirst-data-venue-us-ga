@@ -1,0 +1,78 @@
+{
+  "id": 739780221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.588385,33.881016,-84.588385,33.881016",
+    "geom:latitude":33.881016,
+    "geom:longitude":-84.588385,
+    "iso:country":"US",
+    "sg:address":"2985 Austell Rd SW",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Recycling",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 434 8799",
+    "sg:postcode":"30008",
+    "sg:province":"GA",
+    "sg:tags":[
+        "metals-wholesale",
+        "metal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jbSBNYpFzBK1VSmLut8kU_33.881016_-84.588385@1303262570"
+    },
+    "wof:country":"US",
+    "wof:created":1461914955,
+    "wof:geomhash":"56d5b81981f6944280ed531a70b67f3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":739780221
+        }
+    ],
+    "wof:id":739780221,
+    "wof:lastmodified":1461914955,
+    "wof:name":"Recyclers R Resources",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metals-wholesale",
+        "metal"
+    ]
+},
+  "bbox": [
+    -84.588385,
+    33.881016,
+    -84.588385,
+    33.881016
+],
+  "geometry": {"coordinates":[-84.588385,33.881016],"type":"Point"}
+}

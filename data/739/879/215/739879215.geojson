@@ -1,0 +1,75 @@
+{
+  "id": 739879215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.612862,34.050498,-84.612862,34.050498",
+    "geom:latitude":34.050498,
+    "geom:longitude":-84.612862,
+    "iso:country":"US",
+    "sg:address":"2090 Baker Rd NW",
+    "sg:city":"Kennesaw",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 331 8750",
+    "sg:postcode":"30144",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.publix.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85821545,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2V92dITRMZFYPWb122ztPl_34.050498_-84.612862@1303262596"
+    },
+    "wof:country":"US",
+    "wof:created":1461919031,
+    "wof:geomhash":"73cb34f3934262cf98bc23dee362f45d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85821545,
+            "region_id":85688535,
+            "venue_id":739879215
+        }
+    ],
+    "wof:id":739879215,
+    "wof:lastmodified":1461919031,
+    "wof:name":"Publix Super Markets",
+    "wof:parent_id":85821545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -84.612862,
+    34.050498,
+    -84.612862,
+    34.050498
+],
+  "geometry": {"coordinates":[-84.61286200000001,34.050498],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 739988043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.335832,33.94825,-84.335832,33.94825",
+    "geom:latitude":33.94825,
+    "geom:longitude":-84.335832,
+    "iso:country":"US",
+    "sg:address":"5501 Chamblee Dunwoody Road",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 394 2358",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "sg:tags":[
+        "pediatrician"
+    ],
+    "sg:website":"www.dunwoodypediatrics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85815577,
+        85844117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YLK4sKBiaIkuYgnNIi5Ah_33.948250_-84.335832@1303262624"
+    },
+    "wof:country":"US",
+    "wof:created":1461923478,
+    "wof:geomhash":"84df9f901aa0dedc3634dee5cca87a1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85815577,
+            "region_id":85688535,
+            "venue_id":739988043
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85844117,
+            "region_id":85688535,
+            "venue_id":739988043
+        }
+    ],
+    "wof:id":739988043,
+    "wof:lastmodified":1461923478,
+    "wof:name":"Dunwoody Pediatrics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pediatrician"
+    ]
+},
+  "bbox": [
+    -84.335832,
+    33.94825,
+    -84.335832,
+    33.94825
+],
+  "geometry": {"coordinates":[-84.335832,33.94825],"type":"Point"}
+}

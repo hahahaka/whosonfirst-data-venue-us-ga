@@ -1,0 +1,69 @@
+{
+  "id": 739701953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.308423,33.750999,-84.308423,33.750999",
+    "geom:latitude":33.750999,
+    "geom:longitude":-84.308423,
+    "iso:country":"US",
+    "sg:address":"2373 Boulevard Dr SE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 377 5530",
+    "sg:postcode":"30317",
+    "sg:province":"GA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85816491,
+        102084539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mxDbeXerygSrLHXZ243jK_33.750999_-84.308423@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461912619,
+    "wof:geomhash":"eff99d598b30b7014b8023f51cfcd029",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739701953
+        }
+    ],
+    "wof:id":739701953,
+    "wof:lastmodified":1461912619,
+    "wof:name":"Warren Cleaners & Laundry",
+    "wof:parent_id":85816491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -84.308423,
+    33.750999,
+    -84.308423,
+    33.750999
+],
+  "geometry": {"coordinates":[-84.308423,33.750999],"type":"Point"}
+}

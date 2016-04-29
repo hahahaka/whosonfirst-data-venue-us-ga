@@ -1,0 +1,86 @@
+{
+  "id": 740030623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.483054,34.706352,-84.483054,34.706352",
+    "geom:latitude":34.706352,
+    "geom:longitude":-84.483054,
+    "iso:country":"US",
+    "sg:address":"568 Cox Creek Rd",
+    "sg:city":"Ellijay",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 276 4498",
+    "sg:postcode":"30540",
+    "sg:province":"GA",
+    "sg:tags":[
+        "service-automotive",
+        "locksmiths-commercial",
+        "industrial",
+        "road",
+        "lock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936157,
+        102082325,
+        85859453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WjrE0oRwa9SAhCWnDVT7H_34.706352_-84.483054@1303262635"
+    },
+    "wof:country":"US",
+    "wof:created":1461925183,
+    "wof:geomhash":"c5e8348ea5fcc92f2d57bfb92db99755",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082325,
+            "locality_id":85936157,
+            "neighbourhood_id":85859453,
+            "region_id":85688535,
+            "venue_id":740030623
+        }
+    ],
+    "wof:id":740030623,
+    "wof:lastmodified":1461925183,
+    "wof:name":"Tlc Emergency Roadside Svcs",
+    "wof:parent_id":85859453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "service-automotive",
+        "locksmiths-commercial",
+        "industrial",
+        "road",
+        "lock"
+    ]
+},
+  "bbox": [
+    -84.483054,
+    34.706352,
+    -84.483054,
+    34.706352
+],
+  "geometry": {"coordinates":[-84.483054,34.706352],"type":"Point"}
+}

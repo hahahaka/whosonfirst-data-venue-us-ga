@@ -1,0 +1,71 @@
+{
+  "id": 739665213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.036937,32.816639,-85.036937,32.816639",
+    "geom:latitude":32.816639,
+    "geom:longitude":-85.036937,
+    "iso:country":"US",
+    "sg:address":"330 Whitesville St",
+    "sg:city":"West Point",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 663 8687",
+    "sg:postcode":"31833",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688675,
+        85633793,
+        85914191,
+        102085637,
+        85848065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IkErxS9GdfWZ1TkaVBHhv_32.816639_-85.036937@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461911850,
+    "wof:geomhash":"63c55bbb087b4f332d6d6a0115c69d98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085637,
+            "locality_id":85914191,
+            "neighbourhood_id":85848065,
+            "region_id":85688675,
+            "venue_id":739665213
+        }
+    ],
+    "wof:id":739665213,
+    "wof:lastmodified":1461911850,
+    "wof:name":"Northwest Harris Fire Dept",
+    "wof:parent_id":85848065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.036937,
+    32.816639,
+    -85.036937,
+    32.816639
+],
+  "geometry": {"coordinates":[-85.03693699999999,32.816639],"type":"Point"}
+}

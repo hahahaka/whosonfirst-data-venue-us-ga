@@ -1,0 +1,86 @@
+{
+  "id": 740065521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.324608,30.84215,-83.324608,30.84215",
+    "geom:latitude":30.84215,
+    "geom:longitude":-83.324608,
+    "iso:country":"US",
+    "sg:address":"1709 Gornto Rd",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 242 7111",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ],
+    "sg:website":"http://www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85852681,
+        102083585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59Ch2wqEkThunu7vyogPnp_30.842150_-83.324608@1303262644"
+    },
+    "wof:country":"US",
+    "wof:created":1461926770,
+    "wof:geomhash":"ba66d3cd4a098d80f9b6a4880004d79b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "neighbourhood_id":85852681,
+            "region_id":85688535,
+            "venue_id":740065521
+        }
+    ],
+    "wof:id":740065521,
+    "wof:lastmodified":1461926770,
+    "wof:name":"Subway",
+    "wof:parent_id":85852681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ]
+},
+  "bbox": [
+    -83.324608,
+    30.84215,
+    -83.324608,
+    30.84215
+],
+  "geometry": {"coordinates":[-83.324608,30.84215],"type":"Point"}
+}

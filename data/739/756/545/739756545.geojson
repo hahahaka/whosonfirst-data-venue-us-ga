@@ -1,0 +1,73 @@
+{
+  "id": 739756545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.524902,34.001999,-84.524902,34.001999",
+    "geom:latitude":34.001999,
+    "geom:longitude":-84.524902,
+    "iso:country":"US",
+    "sg:address":"2093 Canton Rd",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 422 4074",
+    "sg:postcode":"30066",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936135,
+        102082313,
+        85857049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MRdggtqSKATw6SRIM1Dng_34.002001_-84.524758@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461913961,
+    "wof:geomhash":"1bb57a8187a04c0f7250637e963885d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936135,
+            "neighbourhood_id":85857049,
+            "region_id":85688535,
+            "venue_id":739756545
+        }
+    ],
+    "wof:id":739756545,
+    "wof:lastmodified":1461913961,
+    "wof:name":"Billy's Automotive",
+    "wof:parent_id":85857049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.524902,
+    34.001999,
+    -84.524902,
+    34.001999
+],
+  "geometry": {"coordinates":[-84.524902,34.001999],"type":"Point"}
+}

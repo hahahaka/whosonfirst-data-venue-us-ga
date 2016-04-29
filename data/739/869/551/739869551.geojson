@@ -1,0 +1,87 @@
+{
+  "id": 739869551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.791351,34.17234,-84.791351,34.17234",
+    "geom:latitude":34.17234,
+    "geom:longitude":-84.791351,
+    "iso:country":"US",
+    "sg:address":"50 Nelson St",
+    "sg:city":"Cartersville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 387 5170",
+    "sg:postcode":"30120",
+    "sg:province":"GA",
+    "sg:tags":[
+        "government-county",
+        "company-utility",
+        "supply",
+        "system",
+        "parish"
+    ],
+    "sg:website":"http://www.bartowlibrary.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936223,
+        102082937,
+        85805353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55lMwEl3nfUD6rog6VpMNI_34.172340_-84.791351@1303262593"
+    },
+    "wof:country":"US",
+    "wof:created":1461918664,
+    "wof:geomhash":"2dfb1b84f61b2bcae5d4a86056172e56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082937,
+            "locality_id":85936223,
+            "neighbourhood_id":85805353,
+            "region_id":85688535,
+            "venue_id":739869551
+        }
+    ],
+    "wof:id":739869551,
+    "wof:lastmodified":1461918664,
+    "wof:name":"Water Dept",
+    "wof:parent_id":85805353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-county",
+        "company-utility",
+        "supply",
+        "system",
+        "parish"
+    ]
+},
+  "bbox": [
+    -84.791351,
+    34.17234,
+    -84.791351,
+    34.17234
+],
+  "geometry": {"coordinates":[-84.79135100000001,34.17234],"type":"Point"}
+}

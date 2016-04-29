@@ -1,0 +1,76 @@
+{
+  "id": 739774635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.943479,32.415821,-84.943479,32.415821",
+    "geom:latitude":32.415821,
+    "geom:longitude":-84.943479,
+    "iso:country":"US",
+    "sg:address":"3809 Victory Dr",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/columbus/160622-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 687 7300",
+    "sg:postcode":"31903",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85882097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fq1MlHkvEe3iwTS38EA9g_32.415821_-84.943479@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914734,
+    "wof:geomhash":"d4fed4719c91e352dd3c064ddca76429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85882097,
+            "region_id":85688535,
+            "venue_id":739774635
+        }
+    ],
+    "wof:id":739774635,
+    "wof:lastmodified":1461914734,
+    "wof:name":"Burger King",
+    "wof:parent_id":85882097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.943479,
+    32.415821,
+    -84.943479,
+    32.415821
+],
+  "geometry": {"coordinates":[-84.943479,32.415821],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 722688373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.380717,33.781853,-84.380717,33.781853",
+    "geom:latitude":33.781853,
+    "geom:longitude":-84.380717,
+    "iso:country":"US",
+    "sg:address":"150 10th St NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 607 1002",
+    "sg:postcode":"30309",
+    "sg:province":"GA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85866909,
+        85889947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cxRC45KUoZbaA2e3lYZZb_33.781853_-84.380717@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886753,
+    "wof:geomhash":"5898b256de0919963b993844cd696937",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85866909,
+            "region_id":85688535,
+            "venue_id":722688373
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85889947,
+            "region_id":85688535,
+            "venue_id":722688373
+        }
+    ],
+    "wof:id":722688373,
+    "wof:lastmodified":1461886753,
+    "wof:name":"Friendship Community Health",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -84.380717,
+    33.781853,
+    -84.380717,
+    33.781853
+],
+  "geometry": {"coordinates":[-84.380717,33.781853],"type":"Point"}
+}

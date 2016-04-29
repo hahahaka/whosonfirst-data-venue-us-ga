@@ -1,0 +1,91 @@
+{
+  "id": 739886685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.545181,34.106319,-84.545181,34.106319",
+    "geom:latitude":34.106319,
+    "geom:longitude":-84.545181,
+    "iso:country":"US",
+    "sg:address":"1600 Towne Lake Pkwy",
+    "sg:city":"Woodstock",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 746 7287",
+    "sg:postcode":"30189",
+    "sg:province":"GA",
+    "sg:tags":[
+        "urgent",
+        "medical",
+        "nurse"
+    ],
+    "sg:website":"http://www.minuteclinic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936723,
+        102084635,
+        85809475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42TiU0JBYWylNxdtddIitW_34.106319_-84.545181@1303262598"
+    },
+    "wof:country":"US",
+    "wof:created":1461919314,
+    "wof:geomhash":"5e4e68f3228e9bc8fba5831079e7fb1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084635,
+            "locality_id":85936723,
+            "neighbourhood_id":85809475,
+            "region_id":85688535,
+            "venue_id":739886685
+        }
+    ],
+    "wof:id":739886685,
+    "wof:lastmodified":1461919314,
+    "wof:name":"MinuteClinic",
+    "wof:parent_id":85809475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "urgent",
+        "medical",
+        "nurse"
+    ]
+},
+  "bbox": [
+    -84.545181,
+    34.106319,
+    -84.545181,
+    34.106319
+],
+  "geometry": {"coordinates":[-84.545181,34.106319],"type":"Point"}
+}

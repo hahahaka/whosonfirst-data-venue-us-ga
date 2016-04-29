@@ -1,0 +1,71 @@
+{
+  "id": 740040301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.931099,34.763,-84.931099,34.763",
+    "geom:latitude":34.763,
+    "geom:longitude":-84.931099,
+    "iso:country":"US",
+    "sg:address":"2600 Airport Rd",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pawn Shop",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 278 2925",
+    "sg:postcode":"30721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fWmEYRvlg4isExvfo6bqn_34.763000_-84.931099@1303262637"
+    },
+    "wof:country":"US",
+    "wof:created":1461925629,
+    "wof:geomhash":"f12963f5628ccac6c60b3e0db59c52e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":740040301
+        }
+    ],
+    "wof:id":740040301,
+    "wof:lastmodified":1461925629,
+    "wof:name":"Big Ken's Pawn Shop",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -84.931099,
+    34.763,
+    -84.931099,
+    34.763
+],
+  "geometry": {"coordinates":[-84.931099,34.763],"type":"Point"}
+}

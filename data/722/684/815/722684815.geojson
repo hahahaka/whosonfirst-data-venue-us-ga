@@ -1,0 +1,71 @@
+{
+  "id": 722684815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.984387,34.793718,-84.984387,34.793718",
+    "geom:latitude":34.793718,
+    "geom:longitude":-84.984387,
+    "iso:country":"US",
+    "sg:address":"1507 Professional Ct",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 277 0700",
+    "sg:postcode":"30720",
+    "sg:province":"GA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4N1t3bf0d9SNpi9PH0rd52_34.793718_-84.984387@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886677,
+    "wof:geomhash":"0a3e0dae598171b2f9f6e823dc210df8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":722684815
+        }
+    ],
+    "wof:id":722684815,
+    "wof:lastmodified":1461886677,
+    "wof:name":"Open MRI Of Dalton",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -84.984387,
+    34.793718,
+    -84.984387,
+    34.793718
+],
+  "geometry": {"coordinates":[-84.984387,34.793718],"type":"Point"}
+}

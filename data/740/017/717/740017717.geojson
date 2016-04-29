@@ -1,0 +1,86 @@
+{
+  "id": 740017717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.277967,33.906467,-84.277967,33.906467",
+    "geom:latitude":33.906467,
+    "geom:longitude":-84.277967,
+    "iso:country":"US",
+    "sg:address":"2600 School Drive",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 457 0121",
+    "sg:postcode":"30360",
+    "sg:province":"GA",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.critter-sitters.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        420559931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nmqZj6qGxqDs3HJxDvqDO_33.906467_-84.277967@1303262631"
+    },
+    "wof:country":"US",
+    "wof:created":1461924605,
+    "wof:geomhash":"ba127e27d1e32faffe9628d9a4c37312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":740017717
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":420559931,
+            "region_id":85688535,
+            "venue_id":740017717
+        }
+    ],
+    "wof:id":740017717,
+    "wof:lastmodified":1461924605,
+    "wof:name":"Critter Sitters",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.277967,
+    33.906467,
+    -84.277967,
+    33.906467
+],
+  "geometry": {"coordinates":[-84.277967,33.906467],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 723272505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.793849,33.362846,-84.793849,33.362846",
+    "geom:latitude":33.362846,
+    "geom:longitude":-84.793849,
+    "iso:country":"US",
+    "sg:address":"191 Greenville St S",
+    "sg:city":"Newnan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 251 9618",
+    "sg:postcode":"30263",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936351,
+        102084443,
+        85833133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZeZkO1PW825Zqvzd0EPh2_33.362846_-84.793849@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461898549,
+    "wof:geomhash":"41d95bd47aafc67f30fc5dc567bfa60a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084443,
+            "locality_id":85936351,
+            "neighbourhood_id":85833133,
+            "region_id":85688535,
+            "venue_id":723272505
+        }
+    ],
+    "wof:id":723272505,
+    "wof:lastmodified":1461898549,
+    "wof:name":"Auto Fix",
+    "wof:parent_id":85833133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -84.793849,
+    33.362846,
+    -84.793849,
+    33.362846
+],
+  "geometry": {"coordinates":[-84.79384899999999,33.362846],"type":"Point"}
+}

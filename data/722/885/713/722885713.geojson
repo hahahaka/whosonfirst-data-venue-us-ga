@@ -1,0 +1,89 @@
+{
+  "id": 722885713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.088567,32.072502,-81.088567,32.072502",
+    "geom:latitude":32.072502,
+    "geom:longitude":-81.088567,
+    "iso:country":"US",
+    "sg:address":"540 E Harris St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 234 3734",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85880901,
+        420559631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tx7hYLc39lTP351LmDkn6_32.072502_-81.088567@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461890499,
+    "wof:geomhash":"325a3a21c9ffdea15e27b81c3500c379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880901,
+            "region_id":85688535,
+            "venue_id":722885713
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":420559631,
+            "region_id":85688535,
+            "venue_id":722885713
+        }
+    ],
+    "wof:id":722885713,
+    "wof:lastmodified":1461890499,
+    "wof:name":"Savannah Filter Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.088567,
+    32.072502,
+    -81.088567,
+    32.072502
+],
+  "geometry": {"coordinates":[-81.088567,32.072502],"type":"Point"}
+}

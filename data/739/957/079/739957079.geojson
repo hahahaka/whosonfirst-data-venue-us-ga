@@ -1,0 +1,86 @@
+{
+  "id": 739957079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.310417,33.717443,-84.310417,33.717443",
+    "geom:latitude":33.717443,
+    "geom:longitude":-84.310417,
+    "iso:country":"US",
+    "sg:address":"2438 Gresham Rd SE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 241 4061",
+    "sg:postcode":"30316",
+    "sg:province":"GA",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937253,
+        102084539,
+        85866911,
+        85816491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wmqztwtGhOq1vZ8VFmkHP_33.717443_-84.310417@1303262615"
+    },
+    "wof:country":"US",
+    "wof:created":1461922265,
+    "wof:geomhash":"999006e5b6cd846018dfeb6f8d02961e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937253,
+            "neighbourhood_id":85866911,
+            "region_id":85688535,
+            "venue_id":739957079
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739957079
+        }
+    ],
+    "wof:id":739957079,
+    "wof:lastmodified":1461922265,
+    "wof:name":"Deli Inc American",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -84.310417,
+    33.717443,
+    -84.310417,
+    33.717443
+],
+  "geometry": {"coordinates":[-84.310417,33.717443],"type":"Point"}
+}

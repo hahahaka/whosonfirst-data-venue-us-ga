@@ -1,0 +1,83 @@
+{
+  "id": 739824011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.492577,34.016651,-84.492577,34.016651",
+    "geom:latitude":34.016651,
+    "geom:longitude":-84.492577,
+    "iso:country":"US",
+    "sg:address":"2687 Sandy Plains Rd",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 578 3170",
+    "sg:postcode":"30066",
+    "sg:province":"GA",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"https://www.wachovia.com/?DCMP=KNL-CPS-DS-Directory-0703&HBX_PK=Banks&HBX_OU=71",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936135,
+        102082313,
+        85857049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kFyB4XSxSo3zma2cNzTSb_34.016651_-84.492577@1303262581"
+    },
+    "wof:country":"US",
+    "wof:created":1461916856,
+    "wof:geomhash":"e71ce83af624c54d18f1b759d812ebf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936135,
+            "neighbourhood_id":85857049,
+            "region_id":85688535,
+            "venue_id":739824011
+        }
+    ],
+    "wof:id":739824011,
+    "wof:lastmodified":1461916856,
+    "wof:name":"Wachovia Bank",
+    "wof:parent_id":85857049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -84.492577,
+    34.016651,
+    -84.492577,
+    34.016651
+],
+  "geometry": {"coordinates":[-84.492577,34.016651],"type":"Point"}
+}

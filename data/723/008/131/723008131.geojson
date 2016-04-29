@@ -1,0 +1,73 @@
+{
+  "id": 723008131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.650866,32.862487,-83.650866,32.862487",
+    "geom:latitude":32.862487,
+    "geom:longitude":-83.650866,
+    "iso:country":"US",
+    "sg:address":"2121 Riverside Dr",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 746 4838",
+    "sg:postcode":"31204",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936517,
+        102084373,
+        85845047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wuYToVu6W9VtZ1q58Hlpr_32.862487_-83.650866@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461893102,
+    "wof:geomhash":"eafb049ec357a76aef6f7bfa5ee7ad67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084373,
+            "locality_id":85936517,
+            "neighbourhood_id":85845047,
+            "region_id":85688535,
+            "venue_id":723008131
+        }
+    ],
+    "wof:id":723008131,
+    "wof:lastmodified":1461893102,
+    "wof:name":"Riverside Animal Hospital",
+    "wof:parent_id":85845047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.650866,
+    32.862487,
+    -83.650866,
+    32.862487
+],
+  "geometry": {"coordinates":[-83.65086599999999,32.862487],"type":"Point"}
+}

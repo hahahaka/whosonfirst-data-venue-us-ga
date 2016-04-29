@@ -1,0 +1,84 @@
+{
+  "id": 739987867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.332777,33.949368,-84.332777,33.949368",
+    "geom:latitude":33.949368,
+    "geom:longitude":-84.332777,
+    "iso:country":"US",
+    "sg:address":"1412 Dunwoody Village Pkwy",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 569 5234",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "sg:website":"www.elaztecaatlanta.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85815577,
+        420560157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hGZ7wdPiOqDkYPUrVHMQO_33.949368_-84.332777@1303262624"
+    },
+    "wof:country":"US",
+    "wof:created":1461923472,
+    "wof:geomhash":"db0c47d11f9707852b8157aa819862ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85815577,
+            "region_id":85688535,
+            "venue_id":739987867
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":420560157,
+            "region_id":85688535,
+            "venue_id":739987867
+        }
+    ],
+    "wof:id":739987867,
+    "wof:lastmodified":1461923472,
+    "wof:name":"El Azteca",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -84.332777,
+    33.949368,
+    -84.332777,
+    33.949368
+],
+  "geometry": {"coordinates":[-84.33277699999999,33.949368],"type":"Point"}
+}

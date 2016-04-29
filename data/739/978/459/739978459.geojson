@@ -1,0 +1,85 @@
+{
+  "id": 739978459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.361746,33.928633,-84.361746,33.928633",
+    "geom:latitude":33.928633,
+    "geom:longitude":-84.361746,
+    "iso:country":"US",
+    "sg:address":"755 Mt Vernon Hwy NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 843 8797",
+    "sg:postcode":"30328",
+    "sg:province":"GA",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937165,
+        102083603,
+        85889935,
+        85889999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4r208wFPUFoj1iZLDXhQMf_33.928633_-84.361746@1303262621"
+    },
+    "wof:country":"US",
+    "wof:created":1461923076,
+    "wof:geomhash":"56a9af12961922f78958a8d2b2910cad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937165,
+            "neighbourhood_id":85889935,
+            "region_id":85688535,
+            "venue_id":739978459
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937165,
+            "neighbourhood_id":85889999,
+            "region_id":85688535,
+            "venue_id":739978459
+        }
+    ],
+    "wof:id":739978459,
+    "wof:lastmodified":1461923076,
+    "wof:name":"Charles M Rosenberg, DDS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [
+    -84.361746,
+    33.928633,
+    -84.361746,
+    33.928633
+],
+  "geometry": {"coordinates":[-84.361746,33.928633],"type":"Point"}
+}

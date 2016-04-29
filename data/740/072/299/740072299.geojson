@@ -1,0 +1,73 @@
+{
+  "id": 740072299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.981696,32.607741,-84.981696,32.607741",
+    "geom:latitude":32.607741,
+    "geom:longitude":-84.981696,
+    "iso:country":"US",
+    "sg:address":"989 Old Smith Rd",
+    "sg:city":"Fortson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 323 1903",
+    "sg:postcode":"31808",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936099,
+        102084477,
+        85835873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iPydZJIg47osFm4cD0SHX_32.607741_-84.981696@1303262645"
+    },
+    "wof:country":"US",
+    "wof:created":1461927065,
+    "wof:geomhash":"738424bc1dc8e2bdf635ca978fab9e66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084477,
+            "locality_id":85936099,
+            "neighbourhood_id":85835873,
+            "region_id":85688535,
+            "venue_id":740072299
+        }
+    ],
+    "wof:id":740072299,
+    "wof:lastmodified":1461927065,
+    "wof:name":"Thomas A Cochran",
+    "wof:parent_id":85835873,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.981696,
+    32.607741,
+    -84.981696,
+    32.607741
+],
+  "geometry": {"coordinates":[-84.981696,32.607741],"type":"Point"}
+}

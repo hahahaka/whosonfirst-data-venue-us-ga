@@ -1,0 +1,78 @@
+{
+  "id": 739895963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.014374,33.051128,-85.014374,33.051128",
+    "geom:latitude":33.051128,
+    "geom:longitude":-85.014374,
+    "iso:country":"US",
+    "sg:address":"202 Rutland Cir",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 884 7608",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WUQfo9DB2qT9CCBHXb6Np_33.051128_-85.014374@1303262600"
+    },
+    "wof:country":"US",
+    "wof:created":1461919658,
+    "wof:geomhash":"fc0d8c59acd46943bf7d7cfdec5364b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739895963
+        }
+    ],
+    "wof:id":739895963,
+    "wof:lastmodified":1461919658,
+    "wof:name":"Just Eighteen Inc",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.014374,
+    33.051128,
+    -85.014374,
+    33.051128
+],
+  "geometry": {"coordinates":[-85.014374,33.051128],"type":"Point"}
+}

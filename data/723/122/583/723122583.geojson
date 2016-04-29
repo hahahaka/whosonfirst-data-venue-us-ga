@@ -1,0 +1,73 @@
+{
+  "id": 723122583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.523565,33.997489,-84.523565,33.997489",
+    "geom:latitude":33.997489,
+    "geom:longitude":-84.523565,
+    "iso:country":"US",
+    "sg:address":"1157 Boyd Rd",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 426 7357",
+    "sg:postcode":"30066",
+    "sg:province":"GA",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936135,
+        102082313,
+        85857049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4L7JMatSPxIBy86baTKzgs_33.997489_-84.523565@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461895562,
+    "wof:geomhash":"3b6e6304444b91cf9a015750da745e28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936135,
+            "neighbourhood_id":85857049,
+            "region_id":85688535,
+            "venue_id":723122583
+        }
+    ],
+    "wof:id":723122583,
+    "wof:lastmodified":1461895562,
+    "wof:name":"Rm Enterprises",
+    "wof:parent_id":85857049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.523565,
+    33.997489,
+    -84.523565,
+    33.997489
+],
+  "geometry": {"coordinates":[-84.523565,33.997489],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 739767111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.029668,32.986451,-85.029668,32.986451",
+    "geom:latitude":32.986451,
+    "geom:longitude":-85.029668,
+    "iso:country":"US",
+    "sg:address":"2408 Whitesville Rd",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/lagrange/203330-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85830157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75ful2XhsgFgWW77TlTE0g_32.986451_-85.029668@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914424,
+    "wof:geomhash":"82aedfd3eb83669f35c4bbb2480e6c05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85830157,
+            "region_id":85688535,
+            "venue_id":739767111
+        }
+    ],
+    "wof:id":739767111,
+    "wof:lastmodified":1461914424,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85830157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.029668,
+    32.986451,
+    -85.029668,
+    32.986451
+],
+  "geometry": {"coordinates":[-85.029668,32.986451],"type":"Point"}
+}

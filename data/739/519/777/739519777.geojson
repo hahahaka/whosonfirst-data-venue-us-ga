@@ -1,0 +1,84 @@
+{
+  "id": 739519777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.00333,34.807637,-85.00333,34.807637",
+    "geom:latitude":34.807637,
+    "geom:longitude":-85.00333,
+    "iso:country":"US",
+    "sg:address":"1907 Meadowbrook Cir NW",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 226 1401",
+    "sg:postcode":"30720",
+    "sg:province":"GA",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936897,
+        102084697,
+        85824209,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QcQZ79Sz8OWrVJpmx3o1z_34.807637_-85.003330@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461908785,
+    "wof:geomhash":"f9d491a6eb49c4d5b11e6ac170c17aa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85824209,
+            "region_id":85688535,
+            "venue_id":739519777
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":739519777
+        }
+    ],
+    "wof:id":739519777,
+    "wof:lastmodified":1461908785,
+    "wof:name":"Parker Dance Studio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -85.00333,
+    34.807637,
+    -85.00333,
+    34.807637
+],
+  "geometry": {"coordinates":[-85.00333000000001,34.807637],"type":"Point"}
+}

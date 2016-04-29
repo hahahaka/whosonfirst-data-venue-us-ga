@@ -1,0 +1,78 @@
+{
+  "id": 740013175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.479697,33.599113,-84.479697,33.599113",
+    "geom:latitude":33.599113,
+    "geom:longitude":-84.479697,
+    "iso:country":"US",
+    "sg:address":"5720 Old Carriage Dr",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 994 6881",
+    "sg:postcode":"30349",
+    "sg:province":"GA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889945,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21zFzGiLOsinCgKt9Xn5Sm_33.599113_-84.479697@1303262630"
+    },
+    "wof:country":"US",
+    "wof:created":1461924439,
+    "wof:geomhash":"356810fc2198a19c66c8a37ac6bd800b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85889945,
+            "region_id":85688535,
+            "venue_id":740013175
+        }
+    ],
+    "wof:id":740013175,
+    "wof:lastmodified":1461924439,
+    "wof:name":"Burns Trucking",
+    "wof:parent_id":85889945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.479697,
+    33.599113,
+    -84.479697,
+    33.599113
+],
+  "geometry": {"coordinates":[-84.479697,33.599113],"type":"Point"}
+}

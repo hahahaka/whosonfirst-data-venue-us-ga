@@ -1,0 +1,71 @@
+{
+  "id": 739560639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.084361,32.075907,-81.084361,32.075907",
+    "geom:latitude":32.075907,
+    "geom:longitude":-81.084361,
+    "iso:country":"US",
+    "sg:address":"638 E President St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 232 8181",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936939,
+        102082337,
+        85880917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6InrxP5Zorb8cKKooAndmV_32.075907_-81.084361@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461909573,
+    "wof:geomhash":"915ca7429674953b84b309f478763bd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880917,
+            "region_id":85688535,
+            "venue_id":739560639
+        }
+    ],
+    "wof:id":739560639,
+    "wof:lastmodified":1461909573,
+    "wof:name":"Best Cleaners",
+    "wof:parent_id":85880917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -81.084361,
+    32.075907,
+    -81.084361,
+    32.075907
+],
+  "geometry": {"coordinates":[-81.084361,32.075907],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 739802825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.133755,34.205471,-84.133755,34.205471",
+    "geom:latitude":34.205471,
+    "geom:longitude":-84.133755,
+    "iso:country":"US",
+    "sg:address":"407 E Maple St",
+    "sg:city":"Cumming",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 888 5941",
+    "sg:postcode":"30040",
+    "sg:province":"GA",
+    "sg:tags":[
+        "container",
+        "broker",
+        "shipping"
+    ],
+    "sg:website":"http://www.oceanems.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936811,
+        102082317,
+        85842073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Zosh7cZ3lrMzhzvisexSK_34.205471_-84.133755@1303262576"
+    },
+    "wof:country":"US",
+    "wof:created":1461915908,
+    "wof:geomhash":"c34b693a0ed3bcab9691d22150db47b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082317,
+            "locality_id":85936811,
+            "neighbourhood_id":85842073,
+            "region_id":85688535,
+            "venue_id":739802825
+        }
+    ],
+    "wof:id":739802825,
+    "wof:lastmodified":1461915908,
+    "wof:name":"Oceane Marine Shipping",
+    "wof:parent_id":85842073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "container",
+        "broker",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -84.133755,
+    34.205471,
+    -84.133755,
+    34.205471
+],
+  "geometry": {"coordinates":[-84.13375499999999,34.205471],"type":"Point"}
+}

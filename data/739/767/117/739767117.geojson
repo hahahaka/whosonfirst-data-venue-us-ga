@@ -1,0 +1,84 @@
+{
+  "id": 739767117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.98799,33.041341,-84.98799,33.041341",
+    "geom:latitude":33.041341,
+    "geom:longitude":-84.98799,
+    "iso:country":"US",
+    "sg:address":"1513 Lafayette Pkwy",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/lagrange/95576-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 883 8100",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58UWND9UoVknEeamf85986_33.041341_-84.987990@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914425,
+    "wof:geomhash":"ec8879726441f168de7ef983914f7203",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739767117
+        }
+    ],
+    "wof:id":739767117,
+    "wof:lastmodified":1461914425,
+    "wof:name":"IHOP",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -84.98799,
+    33.041341,
+    -84.98799,
+    33.041341
+],
+  "geometry": {"coordinates":[-84.98799,33.041341],"type":"Point"}
+}

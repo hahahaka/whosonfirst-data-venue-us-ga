@@ -1,0 +1,86 @@
+{
+  "id": 739769223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.337255,33.924116,-84.337255,33.924116",
+    "geom:latitude":33.924116,
+    "geom:longitude":-84.337255,
+    "iso:country":"US",
+    "sg:address":"77 Perimeter Ctr E",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/chamblee-doraville/132263-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 393 0288",
+    "sg:postcode":"30346",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85890003,
+        85889963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06rKqpnoTnbogSMOGjp6w4_33.924116_-84.337255@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914514,
+    "wof:geomhash":"3cc1531d52b16e4db6934e8f9cc26248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890003,
+            "region_id":85688535,
+            "venue_id":739769223
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85889963,
+            "region_id":85688535,
+            "venue_id":739769223
+        }
+    ],
+    "wof:id":739769223,
+    "wof:lastmodified":1461914514,
+    "wof:name":"Subway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.337255,
+    33.924116,
+    -84.337255,
+    33.924116
+],
+  "geometry": {"coordinates":[-84.337255,33.924116],"type":"Point"}
+}

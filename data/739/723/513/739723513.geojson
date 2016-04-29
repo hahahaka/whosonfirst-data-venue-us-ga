@@ -1,0 +1,73 @@
+{
+  "id": 739723513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.318862,30.819329,-83.318862,30.819329",
+    "geom:latitude":30.819329,
+    "geom:longitude":-83.318862,
+    "iso:country":"US",
+    "sg:address":"1807 Briarwood Rd",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 219 0050",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "diesel",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u2FCqXktvcczUcZZ4noc8_30.819329_-83.318862@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461913063,
+    "wof:geomhash":"716d13f89680b7ba50df56e06c460070",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843241,
+            "region_id":85688535,
+            "venue_id":739723513
+        }
+    ],
+    "wof:id":739723513,
+    "wof:lastmodified":1461913063,
+    "wof:name":"Interstate Diesel Service",
+    "wof:parent_id":85843241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diesel",
+        "truck"
+    ]
+},
+  "bbox": [
+    -83.318862,
+    30.819329,
+    -83.318862,
+    30.819329
+],
+  "geometry": {"coordinates":[-83.318862,30.819329],"type":"Point"}
+}

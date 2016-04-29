@@ -1,0 +1,92 @@
+{
+  "id": 740000049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.305412,33.876499,-84.305412,33.876499",
+    "geom:latitude":33.876499,
+    "geom:longitude":-84.305412,
+    "iso:country":"US",
+    "sg:address":"2060 Airport Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 457 1270",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "school",
+        "flight",
+        "supply",
+        "equipment",
+        "aircraft",
+        "part",
+        "instrument",
+        "avionics"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102525899,
+        85688535,
+        85633793,
+        85937255,
+        102084539,
+        85807835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_419hgDtlJL95sOM8bfpZP4_33.876499_-84.305412@1303262627"
+    },
+    "wof:country":"US",
+    "wof:created":1461923933,
+    "wof:geomhash":"3d21ce20f12c8f7e6ac87faeb43e6222",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525899,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937255,
+            "neighbourhood_id":85807835,
+            "region_id":85688535,
+            "venue_id":740000049
+        }
+    ],
+    "wof:id":740000049,
+    "wof:lastmodified":1461923933,
+    "wof:name":"Pdk Flight Academy",
+    "wof:parent_id":102525899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "flight",
+        "supply",
+        "equipment",
+        "aircraft",
+        "part",
+        "instrument",
+        "avionics"
+    ]
+},
+  "bbox": [
+    -84.305412,
+    33.876499,
+    -84.305412,
+    33.876499
+],
+  "geometry": {"coordinates":[-84.305412,33.876499],"type":"Point"}
+}

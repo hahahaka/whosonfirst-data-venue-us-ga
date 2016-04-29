@@ -1,0 +1,76 @@
+{
+  "id": 739774841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.889623,32.522421,-84.889623,32.522421",
+    "geom:latitude":32.522421,
+    "geom:longitude":-84.889623,
+    "iso:country":"US",
+    "sg:address":"5901 Miller Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/columbus/160678-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 561 5808",
+    "sg:postcode":"31907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85829321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_751fZIegn3p1H76JylMHqv_32.522421_-84.889623@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914741,
+    "wof:geomhash":"396f6b315cda1fd239a9a0281b04d964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85829321,
+            "region_id":85688535,
+            "venue_id":739774841
+        }
+    ],
+    "wof:id":739774841,
+    "wof:lastmodified":1461914741,
+    "wof:name":"Burger King",
+    "wof:parent_id":85829321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.889623,
+    32.522421,
+    -84.889623,
+    32.522421
+],
+  "geometry": {"coordinates":[-84.889623,32.522421],"type":"Point"}
+}

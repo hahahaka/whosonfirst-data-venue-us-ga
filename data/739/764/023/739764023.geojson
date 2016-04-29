@@ -1,0 +1,72 @@
+{
+  "id": 739764023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.580691,33.951824,-84.580691,33.951824",
+    "geom:latitude":33.951824,
+    "geom:longitude":-84.580691,
+    "iso:country":"US",
+    "sg:address":"1000 Whitlock Ave NW",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/marietta/270009-slate-grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 426 9777",
+    "sg:postcode":"30064",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "southern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xSRqdCTNBeMyxpLQqSXn6_33.951824_-84.580691@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914300,
+    "wof:geomhash":"3a6e4bbb11a9fc03a4c9fcc7ee1597c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739764023
+        }
+    ],
+    "wof:id":739764023,
+    "wof:lastmodified":1461914300,
+    "wof:name":"Slate Grill",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "southern"
+    ]
+},
+  "bbox": [
+    -84.580691,
+    33.951824,
+    -84.580691,
+    33.951824
+],
+  "geometry": {"coordinates":[-84.580691,33.951824],"type":"Point"}
+}

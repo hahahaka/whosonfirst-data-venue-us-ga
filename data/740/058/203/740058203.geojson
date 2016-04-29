@@ -1,0 +1,80 @@
+{
+  "id": 740058203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.096389,32.070348,-81.096389,32.070348",
+    "geom:latitude":32.070348,
+    "geom:longitude":-81.096389,
+    "iso:country":"US",
+    "sg:address":"503 Whitaker St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 236 7674",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "inn",
+        "lodging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85880921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cd7lj9bWvoe7ucmsu4s0w_32.070348_-81.096389@1303262642"
+    },
+    "wof:country":"US",
+    "wof:created":1461926458,
+    "wof:geomhash":"f15efc89fff68f1f430de94cedd87ce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880921,
+            "region_id":85688535,
+            "venue_id":740058203
+        }
+    ],
+    "wof:id":740058203,
+    "wof:lastmodified":1461926458,
+    "wof:name":"Magnolia Place Inn",
+    "wof:parent_id":85880921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inn",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -81.096389,
+    32.070348,
+    -81.096389,
+    32.070348
+],
+  "geometry": {"coordinates":[-81.096389,32.070348],"type":"Point"}
+}

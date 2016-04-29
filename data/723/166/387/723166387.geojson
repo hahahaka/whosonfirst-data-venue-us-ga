@@ -1,0 +1,71 @@
+{
+  "id": 723166387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.555298,33.430595,-84.555298,33.430595",
+    "geom:latitude":33.430595,
+    "geom:longitude":-84.555298,
+    "iso:country":"US",
+    "sg:address":"1963 State Rte 54",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 487 5354",
+    "sg:postcode":"30214",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936021,
+        102081687,
+        85847943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XVjvkfeGgSJjfPoEfiNgO_33.430595_-84.555298@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896412,
+    "wof:geomhash":"a37ce9b07fe2b7718f0001384848a1a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081687,
+            "locality_id":85936021,
+            "neighbourhood_id":85847943,
+            "region_id":85688535,
+            "venue_id":723166387
+        }
+    ],
+    "wof:id":723166387,
+    "wof:lastmodified":1461896412,
+    "wof:name":"Flat Creek Animal Clinic",
+    "wof:parent_id":85847943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.555298,
+    33.430595,
+    -84.555298,
+    33.430595
+],
+  "geometry": {"coordinates":[-84.55529799999999,33.430595],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 723077437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.100562,33.510032,-82.100562,33.510032",
+    "geom:latitude":33.510032,
+    "geom:longitude":-82.100562,
+    "iso:country":"US",
+    "sg:address":"3940 Washington Rd",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 868 5650",
+    "sg:postcode":"30907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jf9qDnkZF8xCc5vkwpuoN_33.510032_-82.100562@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461894633,
+    "wof:geomhash":"08f8bdd12cc0a98cda07221557e0f3d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":723077437
+        }
+    ],
+    "wof:id":723077437,
+    "wof:lastmodified":1461894633,
+    "wof:name":"Westside Medical Ctr",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.100562,
+    33.510032,
+    -82.100562,
+    33.510032
+],
+  "geometry": {"coordinates":[-82.100562,33.510032],"type":"Point"}
+}

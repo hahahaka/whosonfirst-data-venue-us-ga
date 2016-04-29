@@ -1,0 +1,84 @@
+{
+  "id": 739745557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.445953,33.67561,-84.445953,33.67561",
+    "geom:latitude":33.67561,
+    "geom:longitude":-84.445953,
+    "iso:country":"US",
+    "sg:address":"1765 Washington Ave",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 768 2914",
+    "sg:postcode":"30344",
+    "sg:province":"GA",
+    "sg:tags":[
+        "seafood",
+        "product",
+        "market",
+        "prepared"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937155,
+        102083603,
+        85889981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dBPVtdQhoXucAWBpLPPbA_33.675652_-84.446162@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461913540,
+    "wof:geomhash":"af56e157943b7aaf4cc957f8dbfadd40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937155,
+            "neighbourhood_id":85889981,
+            "region_id":85688535,
+            "venue_id":739745557
+        }
+    ],
+    "wof:id":739745557,
+    "wof:lastmodified":1461913540,
+    "wof:name":"Washington Seafood Market",
+    "wof:parent_id":85889981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "product",
+        "market",
+        "prepared"
+    ]
+},
+  "bbox": [
+    -84.445953,
+    33.67561,
+    -84.445953,
+    33.67561
+],
+  "geometry": {"coordinates":[-84.445953,33.67561],"type":"Point"}
+}

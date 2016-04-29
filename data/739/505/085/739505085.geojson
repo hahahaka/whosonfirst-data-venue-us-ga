@@ -1,0 +1,71 @@
+{
+  "id": 739505085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.303978,30.847649,-83.303978,30.847649",
+    "geom:latitude":30.847649,
+    "geom:longitude":-83.303978,
+    "iso:country":"US",
+    "sg:address":"1808 Jerry Jones Dr",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 244 5906",
+    "sg:postcode":"31602",
+    "sg:province":"GA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85814215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77dIKxnbMXclLJTUDzDIDy_30.847649_-83.303978@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461908520,
+    "wof:geomhash":"99a501fd639c5941536e17e0149d7086",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85814215,
+            "region_id":85688535,
+            "venue_id":739505085
+        }
+    ],
+    "wof:id":739505085,
+    "wof:lastmodified":1461908520,
+    "wof:name":"KFC",
+    "wof:parent_id":85814215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -83.303978,
+    30.847649,
+    -83.303978,
+    30.847649
+],
+  "geometry": {"coordinates":[-83.303978,30.847649],"type":"Point"}
+}

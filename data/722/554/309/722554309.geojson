@@ -1,0 +1,71 @@
+{
+  "id": 722554309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.028478,33.063305,-85.028478,33.063305",
+    "geom:latitude":33.063305,
+    "geom:longitude":-85.028478,
+    "iso:country":"US",
+    "sg:address":"508 New Franklin Rd",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 884 1739",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ozDyY6nrGjp3B0vgasq9n_33.063305_-85.028478@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461884099,
+    "wof:geomhash":"6d929eeb4011a644c6d9c442ce997960",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":722554309
+        }
+    ],
+    "wof:id":722554309,
+    "wof:lastmodified":1461884099,
+    "wof:name":"American Medical Response",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -85.028478,
+    33.063305,
+    -85.028478,
+    33.063305
+],
+  "geometry": {"coordinates":[-85.02847800000001,33.063305],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 722819249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.123295,33.555104,-82.123295,33.555104",
+    "geom:latitude":33.555104,
+    "geom:longitude":-82.123295,
+    "iso:country":"US",
+    "sg:address":"832 Prairie Ln",
+    "sg:city":"Evans",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 860 8086",
+    "sg:postcode":"30809",
+    "sg:province":"GA",
+    "sg:tags":[
+        "housing",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RfvdSUoygOmqCyYbp63Bv_33.555104_-82.123295@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461889240,
+    "wof:geomhash":"6579e3ddd546bcd47c2c481542529ea9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":722819249
+        }
+    ],
+    "wof:id":722819249,
+    "wof:lastmodified":1461889240,
+    "wof:name":"Williams and Hannah Housing",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing",
+        "program"
+    ]
+},
+  "bbox": [
+    -82.123295,
+    33.555104,
+    -82.123295,
+    33.555104
+],
+  "geometry": {"coordinates":[-82.123295,33.555104],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 739765959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.758432,33.730301,-84.758432,33.730301",
+    "geom:latitude":33.730301,
+    "geom:longitude":-84.758432,
+    "iso:country":"US",
+    "sg:address":"7001 Concourse Pkwy",
+    "sg:city":"Douglasville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/lithia-springs-douglasville/203272-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30134",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936271,
+        102084441,
+        85856881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZerEkAtAjtMV7j1kW5XvL_33.730301_-84.758432@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914379,
+    "wof:geomhash":"4c0c6e99e4752271da542b534a2978c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084441,
+            "locality_id":85936271,
+            "neighbourhood_id":85856881,
+            "region_id":85688535,
+            "venue_id":739765959
+        }
+    ],
+    "wof:id":739765959,
+    "wof:lastmodified":1461914379,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85856881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.758432,
+    33.730301,
+    -84.758432,
+    33.730301
+],
+  "geometry": {"coordinates":[-84.758432,33.730301],"type":"Point"}
+}

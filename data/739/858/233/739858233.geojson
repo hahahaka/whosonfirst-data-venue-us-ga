@@ -1,0 +1,73 @@
+{
+  "id": 739858233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.144798,33.9543,-84.144798,33.9543",
+    "geom:latitude":33.9543,
+    "geom:longitude":-84.144798,
+    "iso:country":"US",
+    "sg:address":"926 The Falls Pkwy",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 766 6666",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shuttle",
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aeehdDDDofOnk0zEnK6cN_33.954300_-84.144798@1303262590"
+    },
+    "wof:country":"US",
+    "wof:created":1461918236,
+    "wof:geomhash":"23df50fa0cdc9f2cbf9657b595d2db3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":739858233
+        }
+    ],
+    "wof:id":739858233,
+    "wof:lastmodified":1461918236,
+    "wof:name":"A Airport Metro",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "airport"
+    ]
+},
+  "bbox": [
+    -84.144798,
+    33.9543,
+    -84.144798,
+    33.9543
+],
+  "geometry": {"coordinates":[-84.14479799999999,33.9543],"type":"Point"}
+}

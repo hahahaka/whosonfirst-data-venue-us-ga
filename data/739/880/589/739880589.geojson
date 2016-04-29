@@ -1,0 +1,77 @@
+{
+  "id": 739880589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.591202,34.039799,-84.591202,34.039799",
+    "geom:latitude":34.039799,
+    "geom:longitude":-84.591202,
+    "iso:country":"US",
+    "sg:address":"50 Ernest W Barrett Pkw",
+    "sg:city":"Kennesaw",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Newspaper",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 422 2261",
+    "sg:postcode":"30144",
+    "sg:province":"GA",
+    "sg:tags":[
+        "magazine",
+        "bookstore"
+    ],
+    "sg:website":"www.barnesandnoble.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85821545,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WOFl5HAub9ZEFmZCjBf8g_34.039799_-84.591202@1303262596"
+    },
+    "wof:country":"US",
+    "wof:created":1461919082,
+    "wof:geomhash":"b512069a1baf4d0228c1181239ab1c5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85821545,
+            "region_id":85688535,
+            "venue_id":739880589
+        }
+    ],
+    "wof:id":739880589,
+    "wof:lastmodified":1461919082,
+    "wof:name":"Barnes & Noble Booksellers",
+    "wof:parent_id":85821545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "magazine",
+        "bookstore"
+    ]
+},
+  "bbox": [
+    -84.591202,
+    34.039799,
+    -84.591202,
+    34.039799
+],
+  "geometry": {"coordinates":[-84.591202,34.039799],"type":"Point"}
+}

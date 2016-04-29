@@ -1,0 +1,84 @@
+{
+  "id": 723438121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.786673,32.454564,-81.786673,32.454564",
+    "geom:latitude":32.454564,
+    "geom:longitude":-81.786673,
+    "iso:country":"US",
+    "sg:address":"14 Rountree St",
+    "sg:city":"Statesboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 764 5170",
+    "sg:postcode":"30458",
+    "sg:province":"GA",
+    "sg:tags":[
+        "builder",
+        "operative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935999,
+        102084405,
+        85823149,
+        102191575,
+        85828471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40C0JsQ1rw1DMgnHiD3W0f_32.454564_-81.786673@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901712,
+    "wof:geomhash":"6883a1265539e16ad75c96e129fe768c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85823149,
+            "region_id":85688535,
+            "venue_id":723438121
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85828471,
+            "region_id":85688535,
+            "venue_id":723438121
+        }
+    ],
+    "wof:id":723438121,
+    "wof:lastmodified":1461901712,
+    "wof:name":"London Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "operative"
+    ]
+},
+  "bbox": [
+    -81.786673,
+    32.454564,
+    -81.786673,
+    32.454564
+],
+  "geometry": {"coordinates":[-81.78667299999999,32.454564],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 739326319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.365915,33.80981,-84.365915,33.80981",
+    "geom:latitude":33.80981,
+    "geom:longitude":-84.365915,
+    "iso:country":"US",
+    "sg:address":"2025 Piedmont Rd NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 449 4611",
+    "sg:postcode":"30324",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85832987,
+        85889987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XRBb9E7CYkSvbowa5HtDt_33.809810_-84.365915@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461905108,
+    "wof:geomhash":"1e44e685a584a45f82b0b5b39a79794e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85832987,
+            "region_id":85688535,
+            "venue_id":739326319
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85889987,
+            "region_id":85688535,
+            "venue_id":739326319
+        }
+    ],
+    "wof:id":739326319,
+    "wof:lastmodified":1461905108,
+    "wof:name":"Green Room",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.365915,
+    33.80981,
+    -84.365915,
+    33.80981
+],
+  "geometry": {"coordinates":[-84.365915,33.80981],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 739895609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.067781,33.030106,-85.067781,33.030106",
+    "geom:latitude":33.030106,
+    "geom:longitude":-85.067781,
+    "iso:country":"US",
+    "sg:address":"1811 Vernon Rd",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 812 1543",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "sg:website":"http://www.dollargeneral.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85830157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09Y0jQrcePzpQAupvVpcYV_33.030106_-85.067781@1303262600"
+    },
+    "wof:country":"US",
+    "wof:created":1461919646,
+    "wof:geomhash":"db037c4363a361279e7f5b9728580939",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85830157,
+            "region_id":85688535,
+            "venue_id":739895609
+        }
+    ],
+    "wof:id":739895609,
+    "wof:lastmodified":1461919646,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85830157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -85.067781,
+    33.030106,
+    -85.067781,
+    33.030106
+],
+  "geometry": {"coordinates":[-85.067781,33.030106],"type":"Point"}
+}

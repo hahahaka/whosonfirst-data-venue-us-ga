@@ -1,0 +1,73 @@
+{
+  "id": 739629969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.723931,32.545555,-81.723931,32.545555",
+    "geom:latitude":32.545555,
+    "geom:longitude":-81.723931,
+    "iso:country":"US",
+    "sg:address":"87 Pine Needle Ln",
+    "sg:city":"Statesboro",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 587 5447",
+    "sg:postcode":"30461",
+    "sg:province":"GA",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935999,
+        102084405,
+        85823149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mNbtN7EbeLB3enezI06FG_32.545555_-81.723931@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461911026,
+    "wof:geomhash":"23a302feba734a5c5dcdfb8831502c3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85823149,
+            "region_id":85688535,
+            "venue_id":739629969
+        }
+    ],
+    "wof:id":739629969,
+    "wof:lastmodified":1461911026,
+    "wof:name":"Thomas Disposal Svc",
+    "wof:parent_id":85823149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -81.723931,
+    32.545555,
+    -81.723931,
+    32.545555
+],
+  "geometry": {"coordinates":[-81.72393099999999,32.545555],"type":"Point"}
+}

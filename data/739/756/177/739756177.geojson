@@ -1,0 +1,86 @@
+{
+  "id": 739756177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.266345,33.753471,-84.266345,33.753471",
+    "geom:latitude":33.753471,
+    "geom:longitude":-84.266345,
+    "iso:country":"US",
+    "sg:address":"1246 Columbia Dr",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 286 1716",
+    "sg:postcode":"30032",
+    "sg:province":"GA",
+    "sg:tags":[
+        "motion",
+        "picture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937245,
+        102084539,
+        85811997,
+        85937263,
+        85890037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i32wdLjbQZN3ODoLN2NEX_33.752853_-84.265772@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461913947,
+    "wof:geomhash":"d58ead736fefe654b91783f95836ffec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937245,
+            "neighbourhood_id":85811997,
+            "region_id":85688535,
+            "venue_id":739756177
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937263,
+            "neighbourhood_id":85890037,
+            "region_id":85688535,
+            "venue_id":739756177
+        }
+    ],
+    "wof:id":739756177,
+    "wof:lastmodified":1461913947,
+    "wof:name":"Belvedere Theatre",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motion",
+        "picture"
+    ]
+},
+  "bbox": [
+    -84.266345,
+    33.753471,
+    -84.266345,
+    33.753471
+],
+  "geometry": {"coordinates":[-84.266345,33.753471],"type":"Point"}
+}

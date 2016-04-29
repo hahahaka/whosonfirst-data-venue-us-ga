@@ -1,0 +1,76 @@
+{
+  "id": 722636949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.261238,33.903833,-84.261238,33.903833",
+    "geom:latitude":33.903833,
+    "geom:longitude":-84.261238,
+    "iso:country":"US",
+    "sg:address":"3813 Maryland Dr",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Watercraft",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 451 2898",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "sg:tags":[
+        "lighting",
+        "fixture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iR95K6f16KlmFjo5zF6oi_33.903833_-84.261238@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461885786,
+    "wof:geomhash":"8507f12c0b156920a52eef83c87e58f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":722636949
+        }
+    ],
+    "wof:id":722636949,
+    "wof:lastmodified":1461885786,
+    "wof:name":"Power Service",
+    "wof:parent_id":85889941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lighting",
+        "fixture"
+    ]
+},
+  "bbox": [
+    -84.261238,
+    33.903833,
+    -84.261238,
+    33.903833
+],
+  "geometry": {"coordinates":[-84.26123800000001,33.903833],"type":"Point"}
+}

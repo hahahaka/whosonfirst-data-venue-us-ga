@@ -1,0 +1,78 @@
+{
+  "id": 723102979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.737038,33.446614,-84.737038,33.446614",
+    "geom:latitude":33.446614,
+    "geom:longitude":-84.737038,
+    "iso:country":"US",
+    "sg:address":"58 Fernwood Ct",
+    "sg:city":"Newnan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 304 2550",
+    "sg:postcode":"30263",
+    "sg:province":"GA",
+    "sg:tags":[
+        "janitor",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936351,
+        102084443,
+        85833133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RnTObNjQ8aeGojGuK3MVI_33.446614_-84.737038@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461895176,
+    "wof:geomhash":"50b6d4d6371cc3abc1554e89facb145d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084443,
+            "locality_id":85936351,
+            "neighbourhood_id":85833133,
+            "region_id":85688535,
+            "venue_id":723102979
+        }
+    ],
+    "wof:id":723102979,
+    "wof:lastmodified":1461895176,
+    "wof:name":"Unique Cleaning Svc",
+    "wof:parent_id":85833133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -84.737038,
+    33.446614,
+    -84.737038,
+    33.446614
+],
+  "geometry": {"coordinates":[-84.737038,33.446614],"type":"Point"}
+}

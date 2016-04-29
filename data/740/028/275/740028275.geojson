@@ -1,0 +1,91 @@
+{
+  "id": 740028275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.404382,34.863922,-83.404382,34.863922",
+    "geom:latitude":34.863922,
+    "geom:longitude":-83.404382,
+    "iso:country":"US",
+    "sg:address":"31 Webb Rd",
+    "sg:city":"Clayton",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 782 4427",
+    "sg:postcode":"30525",
+    "sg:province":"GA",
+    "sg:tags":[
+        "supply",
+        "contractor",
+        "equipment",
+        "insulation",
+        "drywall",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936141,
+        102081683,
+        85821415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mmWHovlCLASSMrKH83MVM_34.863922_-83.404382@1303262634"
+    },
+    "wof:country":"US",
+    "wof:created":1461925091,
+    "wof:geomhash":"134a4f14e364ed256b5715421307015b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081683,
+            "locality_id":85936141,
+            "neighbourhood_id":85821415,
+            "region_id":85688535,
+            "venue_id":740028275
+        }
+    ],
+    "wof:id":740028275,
+    "wof:lastmodified":1461925091,
+    "wof:name":"Appalachian Drywall Supply Co Inc",
+    "wof:parent_id":85821415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "contractor",
+        "equipment",
+        "insulation",
+        "drywall",
+        "store"
+    ]
+},
+  "bbox": [
+    -83.404382,
+    34.863922,
+    -83.404382,
+    34.863922
+],
+  "geometry": {"coordinates":[-83.404382,34.863922],"type":"Point"}
+}

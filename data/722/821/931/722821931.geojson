@@ -1,0 +1,71 @@
+{
+  "id": 722821931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.759457,33.875924,-84.759457,33.875924",
+    "geom:latitude":33.875924,
+    "geom:longitude":-84.759457,
+    "iso:country":"US",
+    "sg:address":"217 Main St",
+    "sg:city":"Hiram",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 943 3087",
+    "sg:postcode":"30141",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936335,
+        102084665,
+        85835843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_180ypd7kOM80x6Sq9opC23_33.875924_-84.759457@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461889301,
+    "wof:geomhash":"8b73c31c0fdca35c793f45f00dbbbfb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "locality_id":85936335,
+            "neighbourhood_id":85835843,
+            "region_id":85688535,
+            "venue_id":722821931
+        }
+    ],
+    "wof:id":722821931,
+    "wof:lastmodified":1461889301,
+    "wof:name":"Hiram Police Dept",
+    "wof:parent_id":85835843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.759457,
+    33.875924,
+    -84.759457,
+    33.875924
+],
+  "geometry": {"coordinates":[-84.759457,33.875924],"type":"Point"}
+}

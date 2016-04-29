@@ -1,0 +1,73 @@
+{
+  "id": 740045899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.121237,33.51841,-82.121237,33.51841",
+    "geom:latitude":33.51841,
+    "geom:longitude":-82.121237,
+    "iso:country":"US",
+    "sg:address":"4332 Holiday Ter",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 210 4100",
+    "sg:postcode":"30907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "clinic",
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QDegvGWVOOUZE81G4SHnx_33.518410_-82.121237@1303262639"
+    },
+    "wof:country":"US",
+    "wof:created":1461925879,
+    "wof:geomhash":"78df4742a7d995877b3e16ac68e6469b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":740045899
+        }
+    ],
+    "wof:id":740045899,
+    "wof:lastmodified":1461925879,
+    "wof:name":"Columbia Road Veterinary Centre",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "hospital"
+    ]
+},
+  "bbox": [
+    -82.121237,
+    33.51841,
+    -82.121237,
+    33.51841
+],
+  "geometry": {"coordinates":[-82.12123699999999,33.51841],"type":"Point"}
+}

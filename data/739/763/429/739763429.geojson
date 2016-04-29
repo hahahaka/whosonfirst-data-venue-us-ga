@@ -1,0 +1,72 @@
+{
+  "id": 739763429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.988128,34.00561,-83.988128,34.00561",
+    "geom:latitude":34.00561,
+    "geom:longitude":-83.988128,
+    "iso:country":"US",
+    "sg:address":"1475 Buford Dr",
+    "sg:city":"Lawrenceville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/lawrenceville/56856-el-rey-mexican-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 682 0015",
+    "sg:postcode":"30043",
+    "sg:province":"GA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936297,
+        102082967,
+        85853829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NoIXNnstu0S7qXAKT7T1Z_34.005610_-83.988128@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914279,
+    "wof:geomhash":"a1d476950839e14380286aad8f02b025",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936297,
+            "neighbourhood_id":85853829,
+            "region_id":85688535,
+            "venue_id":739763429
+        }
+    ],
+    "wof:id":739763429,
+    "wof:lastmodified":1461914279,
+    "wof:name":"El Rey Mexican Restaurant",
+    "wof:parent_id":85853829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -83.988128,
+    34.00561,
+    -83.988128,
+    34.00561
+],
+  "geometry": {"coordinates":[-83.988128,34.00561],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 723500041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.769565,32.437397,-81.769565,32.437397",
+    "geom:latitude":32.437397,
+    "geom:longitude":-81.769565,
+    "iso:country":"US",
+    "sg:address":"420 Gentilly Rd",
+    "sg:city":"Statesboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 681 2007",
+    "sg:postcode":"30458",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935999,
+        102084405,
+        85823149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oa4dPr52vI6F5Nfov1gFB_32.437397_-81.769565@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461902965,
+    "wof:geomhash":"ba3f2fd701125f6316b1a579fc8c4398",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85823149,
+            "region_id":85688535,
+            "venue_id":723500041
+        }
+    ],
+    "wof:id":723500041,
+    "wof:lastmodified":1461902965,
+    "wof:name":"Scott Murray MD",
+    "wof:parent_id":85823149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.769565,
+    32.437397,
+    -81.769565,
+    32.437397
+],
+  "geometry": {"coordinates":[-81.769565,32.437397],"type":"Point"}
+}

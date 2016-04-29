@@ -1,0 +1,73 @@
+{
+  "id": 723441731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.03104,33.039186,-85.03104,33.039186",
+    "geom:latitude":33.039186,
+    "geom:longitude":-85.03104,
+    "iso:country":"US",
+    "sg:address":"134 Main St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 812 8411",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "banquet",
+        "rooms"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66gdzJ8UvAnGCEQ190r8HS_33.039186_-85.031040@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901798,
+    "wof:geomhash":"406be35ef5911728b65d25c6a171fb23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":723441731
+        }
+    ],
+    "wof:id":723441731,
+    "wof:lastmodified":1461901798,
+    "wof:name":"Events On Main",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banquet",
+        "rooms"
+    ]
+},
+  "bbox": [
+    -85.03104,
+    33.039186,
+    -85.03104,
+    33.039186
+],
+  "geometry": {"coordinates":[-85.03104,33.039186],"type":"Point"}
+}

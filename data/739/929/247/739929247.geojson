@@ -1,0 +1,84 @@
+{
+  "id": 739929247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.37733,33.816542,-84.37733,33.816542",
+    "geom:latitude":33.816542,
+    "geom:longitude":-84.37733,
+    "iso:country":"US",
+    "sg:address":"311 Peachtree Hills Ave Ste 12 G",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 480 0773",
+    "sg:postcode":"30305",
+    "sg:province":"GA",
+    "sg:tags":[
+        "painter"
+    ],
+    "sg:website":"www.peachtreepropainters.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872113,
+        85872095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kFnSWrQODrXXlguuOqJzD_33.816542_-84.377330@1303262608"
+    },
+    "wof:country":"US",
+    "wof:created":1461920990,
+    "wof:geomhash":"116ba173dd1f27878f3181168b161d6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872113,
+            "region_id":85688535,
+            "venue_id":739929247
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872095,
+            "region_id":85688535,
+            "venue_id":739929247
+        }
+    ],
+    "wof:id":739929247,
+    "wof:lastmodified":1461920990,
+    "wof:name":"Peachtree Pro Painters",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -84.37733,
+    33.816542,
+    -84.37733,
+    33.816542
+],
+  "geometry": {"coordinates":[-84.37733,33.816542],"type":"Point"}
+}

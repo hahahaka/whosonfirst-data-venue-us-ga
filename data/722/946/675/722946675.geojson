@@ -1,0 +1,86 @@
+{
+  "id": 722946675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.481274,33.902883,-84.481274,33.902883",
+    "geom:latitude":33.902883,
+    "geom:longitude":-84.481274,
+    "iso:country":"US",
+    "sg:address":"2470 Windy Hill Rd SE",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 956 2900",
+    "sg:postcode":"30067",
+    "sg:province":"GA",
+    "sg:tags":[
+        "space",
+        "nonresidential",
+        "desk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818985,
+        102082313,
+        85845875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78a2jTx0U3eD9dgi9I6QQe_33.902883_-84.481274@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461891764,
+    "wof:geomhash":"c22f2b1fcae7fe73561c18a202b56845",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85818985,
+            "region_id":85688535,
+            "venue_id":722946675
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":722946675
+        }
+    ],
+    "wof:id":722946675,
+    "wof:lastmodified":1461891764,
+    "wof:name":"Crowne Office Suites",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "space",
+        "nonresidential",
+        "desk"
+    ]
+},
+  "bbox": [
+    -84.481274,
+    33.902883,
+    -84.481274,
+    33.902883
+],
+  "geometry": {"coordinates":[-84.481274,33.902883],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 723466669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.501867,31.078471,-84.501867,31.078471",
+    "geom:latitude":31.078471,
+    "geom:longitude":-84.501867,
+    "iso:country":"US",
+    "sg:address":"123 County Line Rd",
+    "sg:city":"Pelham",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 294 6514",
+    "sg:postcode":"31779",
+    "sg:province":"GA",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688651,
+        102191575,
+        85633793,
+        85933451,
+        102084747,
+        420517717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gHnYE9uKKmSaIJjzibqEG_31.078471_-84.501867@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461902257,
+    "wof:geomhash":"44ce62ba439d8bf80c0dc9f950c16bd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084747,
+            "locality_id":85933451,
+            "neighbourhood_id":420517717,
+            "region_id":85688651,
+            "venue_id":723466669
+        }
+    ],
+    "wof:id":723466669,
+    "wof:lastmodified":1461902257,
+    "wof:name":"Corrections Dept",
+    "wof:parent_id":420517717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -84.501867,
+    31.078471,
+    -84.501867,
+    31.078471
+],
+  "geometry": {"coordinates":[-84.501867,31.078471],"type":"Point"}
+}

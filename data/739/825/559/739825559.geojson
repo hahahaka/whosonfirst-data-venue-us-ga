@@ -1,0 +1,90 @@
+{
+  "id": 739825559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.499,34.02829,-84.499,34.02829",
+    "geom:latitude":34.02829,
+    "geom:longitude":-84.499,
+    "iso:country":"US",
+    "sg:address":"3146 Mary Dr",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 977 9446",
+    "sg:postcode":"30066",
+    "sg:province":"GA",
+    "sg:tags":[
+        "control",
+        "industry",
+        "monitoring",
+        "thermostat",
+        "system"
+    ],
+    "sg:website":"http://www51.honeywell.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936135,
+        102082313,
+        85857049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LRhtEvaiCKY5RqlspIRo3_34.028290_-84.499000@1303262582"
+    },
+    "wof:country":"US",
+    "wof:created":1461916919,
+    "wof:geomhash":"43e507c7ff0f5b4072067f16aa61c887",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936135,
+            "neighbourhood_id":85857049,
+            "region_id":85688535,
+            "venue_id":739825559
+        }
+    ],
+    "wof:id":739825559,
+    "wof:lastmodified":1461916919,
+    "wof:name":"Honeywell",
+    "wof:parent_id":85857049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "industry",
+        "monitoring",
+        "thermostat",
+        "system"
+    ]
+},
+  "bbox": [
+    -84.499,
+    34.02829,
+    -84.499,
+    34.02829
+],
+  "geometry": {"coordinates":[-84.499,34.02829],"type":"Point"}
+}

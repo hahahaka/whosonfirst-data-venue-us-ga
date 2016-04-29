@@ -1,0 +1,88 @@
+{
+  "id": 740072875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.966118,32.439621,-84.966118,32.439621",
+    "geom:latitude":32.439621,
+    "geom:longitude":-84.966118,
+    "iso:country":"US",
+    "sg:address":"200 Parkman Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 682 0100",
+    "sg:postcode":"31901",
+    "sg:province":"GA",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85803141,
+        85882109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yjE3fRuGimEWOPrWPqgV4_32.439621_-84.966118@1303262645"
+    },
+    "wof:country":"US",
+    "wof:created":1461927084,
+    "wof:geomhash":"35e95c2b8e648ff6ab05212574886e53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85803141,
+            "region_id":85688535,
+            "venue_id":740072875
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85882109,
+            "region_id":85688535,
+            "venue_id":740072875
+        }
+    ],
+    "wof:id":740072875,
+    "wof:lastmodified":1461927084,
+    "wof:name":"Bi City Towing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [
+    -84.966118,
+    32.439621,
+    -84.966118,
+    32.439621
+],
+  "geometry": {"coordinates":[-84.96611799999999,32.439621],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 723081921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.404239,31.076428,-81.404239,31.076428",
+    "geom:latitude":31.076428,
+    "geom:longitude":-81.404239,
+    "iso:country":"US",
+    "sg:address":"5 Nelson Ln",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 635 9666",
+    "sg:postcode":"31527",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85822091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uoeN2ITfxgVWEEpdYwx1D_31.076428_-81.404239@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461894752,
+    "wof:geomhash":"fb40188bedffd9ab492a373edae8a3c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85822091,
+            "region_id":85688535,
+            "venue_id":723081921
+        }
+    ],
+    "wof:id":723081921,
+    "wof:lastmodified":1461894752,
+    "wof:name":"John E Barnett Jr MD PC",
+    "wof:parent_id":85822091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -81.404239,
+    31.076428,
+    -81.404239,
+    31.076428
+],
+  "geometry": {"coordinates":[-81.404239,31.076428],"type":"Point"}
+}

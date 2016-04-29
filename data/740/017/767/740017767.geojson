@@ -1,0 +1,85 @@
+{
+  "id": 740017767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.28287,33.921015,-84.28287,33.921015",
+    "geom:latitude":33.921015,
+    "geom:longitude":-84.28287,
+    "iso:country":"US",
+    "sg:address":"6263 Peachtree Industrial Blvd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 451 7001",
+    "sg:postcode":"30360",
+    "sg:province":"GA",
+    "sg:tags":[
+        "loan",
+        "financing"
+    ],
+    "sg:website":"http://loansfast.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73MCJE9wdXku5i4r1O0JR7_33.921015_-84.282870@1303262631"
+    },
+    "wof:country":"US",
+    "wof:created":1461924607,
+    "wof:geomhash":"624c7ed9c7a761cc2db128deb9d452ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":740017767
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":740017767
+        }
+    ],
+    "wof:id":740017767,
+    "wof:lastmodified":1461924607,
+    "wof:name":"American General Financial Services",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "financing"
+    ]
+},
+  "bbox": [
+    -84.28287,
+    33.921015,
+    -84.28287,
+    33.921015
+],
+  "geometry": {"coordinates":[-84.28287,33.921015],"type":"Point"}
+}

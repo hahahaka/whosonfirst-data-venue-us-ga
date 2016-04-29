@@ -1,0 +1,78 @@
+{
+  "id": 723200725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.495849,31.161963,-81.495849,31.161963",
+    "geom:latitude":31.161963,
+    "geom:longitude":-81.495849,
+    "iso:country":"US",
+    "sg:address":"2309 Norwich St",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 265 6461",
+    "sg:postcode":"31520",
+    "sg:province":"GA",
+    "sg:tags":[
+        "general",
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85833275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KFlaVZcyNznl37WdnLGlL_31.161963_-81.495849@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897087,
+    "wof:geomhash":"d51b77d8ee25fa0541fa4226f364da2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85833275,
+            "region_id":85688535,
+            "venue_id":723200725
+        }
+    ],
+    "wof:id":723200725,
+    "wof:lastmodified":1461897087,
+    "wof:name":"C R Carlin General Repair Shop",
+    "wof:parent_id":85833275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "welding"
+    ]
+},
+  "bbox": [
+    -81.495849,
+    31.161963,
+    -81.495849,
+    31.161963
+],
+  "geometry": {"coordinates":[-81.49584900000001,31.161963],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 739901285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.752005,33.433824,-84.752005,33.433824",
+    "geom:latitude":33.433824,
+    "geom:longitude":-84.752005,
+    "iso:country":"US",
+    "sg:address":"890 Herring Rd",
+    "sg:city":"Newnan",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 253 9355",
+    "sg:postcode":"30265",
+    "sg:province":"GA",
+    "sg:tags":[
+        "well",
+        "pumping",
+        "contractor",
+        "pump",
+        "drilling",
+        "pumps-service",
+        "pumps-sump",
+        "locating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936351,
+        102084443,
+        85833133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pl20Zx1VKBivn7938jHm0_33.433824_-84.752005@1303262601"
+    },
+    "wof:country":"US",
+    "wof:created":1461919874,
+    "wof:geomhash":"5bb1616627f4c8bce5ad166f9cf36fc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084443,
+            "locality_id":85936351,
+            "neighbourhood_id":85833133,
+            "region_id":85688535,
+            "venue_id":739901285
+        }
+    ],
+    "wof:id":739901285,
+    "wof:lastmodified":1461919874,
+    "wof:name":"Georgia Well Co.",
+    "wof:parent_id":85833133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "well",
+        "pumping",
+        "contractor",
+        "pump",
+        "drilling",
+        "pumps-service",
+        "pumps-sump",
+        "locating"
+    ]
+},
+  "bbox": [
+    -84.752005,
+    33.433824,
+    -84.752005,
+    33.433824
+],
+  "geometry": {"coordinates":[-84.752005,33.433824],"type":"Point"}
+}

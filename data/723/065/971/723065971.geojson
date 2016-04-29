@@ -1,0 +1,75 @@
+{
+  "id": 723065971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.325888,31.214516,-81.325888,31.214516",
+    "geom:latitude":31.214516,
+    "geom:longitude":-81.325888,
+    "iso:country":"US",
+    "sg:address":"1 Harris Ln",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 262 6040",
+    "sg:postcode":"31561",
+    "sg:province":"GA",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937357,
+        102081695,
+        85845019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FsRQLPDVSaHbwEnigKQnk_31.214516_-81.325888@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461894343,
+    "wof:geomhash":"1b1cd494ca698f348b07faa0ee2bd42f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937357,
+            "neighbourhood_id":85845019,
+            "region_id":85688535,
+            "venue_id":723065971
+        }
+    ],
+    "wof:id":723065971,
+    "wof:lastmodified":1461894343,
+    "wof:name":"Automobile Transport",
+    "wof:parent_id":85845019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.325888,
+    31.214516,
+    -81.325888,
+    31.214516
+],
+  "geometry": {"coordinates":[-81.32588800000001,31.214516],"type":"Point"}
+}

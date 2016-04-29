@@ -1,0 +1,74 @@
+{
+  "id": 739771017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.962047,34.791253,-84.962047,34.791253",
+    "geom:latitude":34.791253,
+    "geom:longitude":-84.962047,
+    "iso:country":"US",
+    "sg:address":"1214 Cleveland Hwy",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/dalton/153582-western-sizzlin/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 279 1799",
+    "sg:postcode":"30721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19qDot98HjTYut7o75r40n_34.791253_-84.962047@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914584,
+    "wof:geomhash":"1dc802b66d3ebfbe1067f57972b87d10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":739771017
+        }
+    ],
+    "wof:id":739771017,
+    "wof:lastmodified":1461914584,
+    "wof:name":"Western Sizzlin",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -84.962047,
+    34.791253,
+    -84.962047,
+    34.791253
+],
+  "geometry": {"coordinates":[-84.962047,34.791253],"type":"Point"}
+}

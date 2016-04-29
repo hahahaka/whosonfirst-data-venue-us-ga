@@ -1,0 +1,76 @@
+{
+  "id": 739740139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.282303,30.830891,-83.282303,30.830891",
+    "geom:latitude":30.830891,
+    "geom:longitude":-83.282303,
+    "iso:country":"US",
+    "sg:address":"200 N Oak St",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 242 8575",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "bus",
+        "line",
+        "public"
+    ],
+    "sg:website":"http://www.greyhound.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09GCSbW3mn0RXt0NmBboN3_30.830907_-83.282319@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461913422,
+    "wof:geomhash":"1f5347c5f7b0d6b99f0893ecc69fd92e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843077,
+            "region_id":85688535,
+            "venue_id":739740139
+        }
+    ],
+    "wof:id":739740139,
+    "wof:lastmodified":1461913422,
+    "wof:name":"Greyhound Bus Lines",
+    "wof:parent_id":85843077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line",
+        "public"
+    ]
+},
+  "bbox": [
+    -83.282303,
+    30.830891,
+    -83.282303,
+    30.830891
+],
+  "geometry": {"coordinates":[-83.282303,30.830891],"type":"Point"}
+}

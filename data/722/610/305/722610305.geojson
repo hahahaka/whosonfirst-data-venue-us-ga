@@ -1,0 +1,75 @@
+{
+  "id": 722610305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.663713,32.802145,-83.663713,32.802145",
+    "geom:latitude":32.802145,
+    "geom:longitude":-83.663713,
+    "iso:country":"US",
+    "sg:address":"3355 Pio Nono Ave",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 784 8633",
+    "sg:postcode":"31206",
+    "sg:province":"GA",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936517,
+        102084373,
+        420517261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Efq61nwN4Hpd5NTIoT8hI_32.802145_-83.663713@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461885180,
+    "wof:geomhash":"01c33b6cadbb8456bf3bd98ecdab5c3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084373,
+            "locality_id":85936517,
+            "neighbourhood_id":420517261,
+            "region_id":85688535,
+            "venue_id":722610305
+        }
+    ],
+    "wof:id":722610305,
+    "wof:lastmodified":1461885180,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":420517261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -83.663713,
+    32.802145,
+    -83.663713,
+    32.802145
+],
+  "geometry": {"coordinates":[-83.663713,32.802145],"type":"Point"}
+}

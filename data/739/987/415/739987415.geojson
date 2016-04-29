@@ -1,0 +1,84 @@
+{
+  "id": 739987415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.336098,33.9491,-84.336098,33.9491",
+    "geom:latitude":33.9491,
+    "geom:longitude":-84.336098,
+    "iso:country":"US",
+    "sg:address":"5561 Chamblee Dunwoody Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 698 0999",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "sg:tags":[
+        "market"
+    ],
+    "sg:website":"www.smoothieking.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85815577,
+        85844117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1m7bvMEiiaV08qcls7HJL2_33.949100_-84.336098@1303262623"
+    },
+    "wof:country":"US",
+    "wof:created":1461923457,
+    "wof:geomhash":"a9b67ff59b9b272e3f21c0bdf6f8b6dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85815577,
+            "region_id":85688535,
+            "venue_id":739987415
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85844117,
+            "region_id":85688535,
+            "venue_id":739987415
+        }
+    ],
+    "wof:id":739987415,
+    "wof:lastmodified":1461923457,
+    "wof:name":"Smoothie King",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -84.336098,
+    33.9491,
+    -84.336098,
+    33.9491
+],
+  "geometry": {"coordinates":[-84.33609800000001,33.9491],"type":"Point"}
+}

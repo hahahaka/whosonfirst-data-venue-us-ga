@@ -1,0 +1,83 @@
+{
+  "id": 723218945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.412804,33.809044,-84.412804,33.809044",
+    "geom:latitude":33.809044,
+    "geom:longitude":-84.412804,
+    "iso:country":"US",
+    "sg:address":"1961 Howell Mill Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 355 9030",
+    "sg:postcode":"30318",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872135,
+        85872149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kzODdhcWQmd5ZQ189YdQ2_33.809044_-84.412804@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897456,
+    "wof:geomhash":"fed1d8d7f56396adbc48f138aacc4330",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872135,
+            "region_id":85688535,
+            "venue_id":723218945
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872149,
+            "region_id":85688535,
+            "venue_id":723218945
+        }
+    ],
+    "wof:id":723218945,
+    "wof:lastmodified":1461897456,
+    "wof:name":"West Barber Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.412804,
+    33.809044,
+    -84.412804,
+    33.809044
+],
+  "geometry": {"coordinates":[-84.41280399999999,33.809044],"type":"Point"}
+}

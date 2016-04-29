@@ -1,0 +1,87 @@
+{
+  "id": 723484655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.312097,33.953587,-84.312097,33.953587",
+    "geom:latitude":33.953587,
+    "geom:longitude":-84.312097,
+    "iso:country":"US",
+    "sg:address":"1875 Gramercy Ct",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 394 8778",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "sg:tags":[
+        "station",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        420517731,
+        85937165,
+        102083603,
+        420517933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zPXaehbzOyHSSJ5d0yKnl_33.953587_-84.312097@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461902623,
+    "wof:geomhash":"8a523ffe84660d671fcac2f5fce60d28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":420517731,
+            "region_id":85688535,
+            "venue_id":723484655
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937165,
+            "neighbourhood_id":420517933,
+            "region_id":85688535,
+            "venue_id":723484655
+        }
+    ],
+    "wof:id":723484655,
+    "wof:lastmodified":1461902623,
+    "wof:name":"Chevron Food Mart",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "store"
+    ]
+},
+  "bbox": [
+    -84.312097,
+    33.953587,
+    -84.312097,
+    33.953587
+],
+  "geometry": {"coordinates":[-84.31209699999999,33.953587],"type":"Point"}
+}

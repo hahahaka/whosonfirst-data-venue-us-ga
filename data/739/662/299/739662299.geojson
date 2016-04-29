@@ -1,0 +1,78 @@
+{
+  "id": 739662299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.123092,34.184967,-84.123092,34.184967",
+    "geom:latitude":34.184967,
+    "geom:longitude":-84.123092,
+    "iso:country":"US",
+    "sg:address":"925 Sanders Rd",
+    "sg:city":"Cumming",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 845 2150",
+    "sg:postcode":"30041",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936811,
+        102082317,
+        85842073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VF2oidV0SMtFXRxWJ3cVT_34.184967_-84.123092@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461911793,
+    "wof:geomhash":"e4b7fde2860a2e3749368412a16f8dff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082317,
+            "locality_id":85936811,
+            "neighbourhood_id":85842073,
+            "region_id":85688535,
+            "venue_id":739662299
+        }
+    ],
+    "wof:id":739662299,
+    "wof:lastmodified":1461911793,
+    "wof:name":"Medica Forsyth Open Mri & CT",
+    "wof:parent_id":85842073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.123092,
+    34.184967,
+    -84.123092,
+    34.184967
+],
+  "geometry": {"coordinates":[-84.123092,34.184967],"type":"Point"}
+}

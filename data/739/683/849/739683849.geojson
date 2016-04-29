@@ -1,0 +1,85 @@
+{
+  "id": 739683849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.472539,33.775582,-84.472539,33.775582",
+    "geom:latitude":33.775582,
+    "geom:longitude":-84.472539,
+    "iso:country":"US",
+    "sg:address":"2610 Bankhead Hwy NW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 794 9600",
+    "sg:postcode":"30318",
+    "sg:province":"GA",
+    "sg:tags":[
+        "music",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872073,
+        85872143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qy8IuBd9xiSOwIQUS3hHk_33.775582_-84.472539@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461912223,
+    "wof:geomhash":"21baa0b48b4eebdd932668b6b3a33066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872073,
+            "region_id":85688535,
+            "venue_id":739683849
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872143,
+            "region_id":85688535,
+            "venue_id":739683849
+        }
+    ],
+    "wof:id":739683849,
+    "wof:lastmodified":1461912223,
+    "wof:name":"Top Twenty Records & Tapes",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "music",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -84.472539,
+    33.775582,
+    -84.472539,
+    33.775582
+],
+  "geometry": {"coordinates":[-84.472539,33.775582],"type":"Point"}
+}

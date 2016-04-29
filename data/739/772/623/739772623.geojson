@@ -1,0 +1,76 @@
+{
+  "id": 739772623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.453744,31.398436,-81.453744,31.398436",
+    "geom:latitude":31.398436,
+    "geom:longitude":-81.453744,
+    "iso:country":"US",
+    "sg:address":"501 Magnolia Bluff Way",
+    "sg:city":"Darien",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/darien/180709-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 437 8560",
+    "sg:postcode":"31305",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936669,
+        102084461,
+        85805337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bqjapcGjl91U5Y0ZzIUNu_31.398436_-81.453744@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914650,
+    "wof:geomhash":"b7267e479ed0f96b29d19dd3fd1cf121",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084461,
+            "locality_id":85936669,
+            "neighbourhood_id":85805337,
+            "region_id":85688535,
+            "venue_id":739772623
+        }
+    ],
+    "wof:id":739772623,
+    "wof:lastmodified":1461914650,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85805337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -81.453744,
+    31.398436,
+    -81.453744,
+    31.398436
+],
+  "geometry": {"coordinates":[-81.453744,31.398436],"type":"Point"}
+}

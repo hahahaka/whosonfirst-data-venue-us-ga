@@ -1,0 +1,80 @@
+{
+  "id": 740073571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.961293,32.498197,-84.961293,32.498197",
+    "geom:latitude":32.498197,
+    "geom:longitude":-84.961293,
+    "iso:country":"US",
+    "sg:address":"3615 Crestview Dr",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 660 8222",
+    "sg:postcode":"31904",
+    "sg:province":"GA",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85845927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ThDv5Nvi3pfEP5pmVKb9c_32.498197_-84.961293@1303262646"
+    },
+    "wof:country":"US",
+    "wof:created":1461927112,
+    "wof:geomhash":"02ff94fb52404c4f27055eeee884db46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85845927,
+            "region_id":85688535,
+            "venue_id":740073571
+        }
+    ],
+    "wof:id":740073571,
+    "wof:lastmodified":1461927112,
+    "wof:name":"Artistic Dental Ceramics",
+    "wof:parent_id":85845927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -84.961293,
+    32.498197,
+    -84.961293,
+    32.498197
+],
+  "geometry": {"coordinates":[-84.961293,32.498197],"type":"Point"}
+}

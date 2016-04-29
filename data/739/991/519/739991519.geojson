@@ -1,0 +1,101 @@
+{
+  "id": 739991519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.484161,33.90892,-84.484161,33.90892",
+    "geom:latitude":33.90892,
+    "geom:longitude":-84.484161,
+    "iso:country":"US",
+    "sg:address":"1800 Water Pl SE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 541 1100",
+    "sg:postcode":"30339",
+    "sg:province":"GA",
+    "sg:tags":[
+        "control",
+        "monitoring",
+        "fire",
+        "alarm",
+        "system",
+        "systems-wholesale",
+        "medical",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818985,
+        102082313,
+        85845875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bHT4Sc38z8wmle6P6GSoD_33.908920_-84.484161@1303262624"
+    },
+    "wof:country":"US",
+    "wof:created":1461923607,
+    "wof:geomhash":"6612a08178078bde1ddd996a585ba076",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85818985,
+            "region_id":85688535,
+            "venue_id":739991519
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":739991519
+        }
+    ],
+    "wof:id":739991519,
+    "wof:lastmodified":1461923607,
+    "wof:name":"Fire Guardian",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "monitoring",
+        "fire",
+        "alarm",
+        "system",
+        "systems-wholesale",
+        "medical",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -84.484161,
+    33.90892,
+    -84.484161,
+    33.90892
+],
+  "geometry": {"coordinates":[-84.484161,33.90892],"type":"Point"}
+}

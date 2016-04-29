@@ -1,0 +1,83 @@
+{
+  "id": 723151723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.151856,31.972205,-81.151856,31.972205",
+    "geom:latitude":31.972205,
+    "geom:longitude":-81.151856,
+    "iso:country":"US",
+    "sg:address":"501 Windsor Rd",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 920 4808",
+    "sg:postcode":"31419",
+    "sg:province":"GA",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85858231,
+        85852533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EmgmmCQbZNaNX2upJocAZ_31.972205_-81.151856@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896127,
+    "wof:geomhash":"017c021d0e07bf3806203b793e7cb8b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85858231,
+            "region_id":85688535,
+            "venue_id":723151723
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85852533,
+            "region_id":85688535,
+            "venue_id":723151723
+        }
+    ],
+    "wof:id":723151723,
+    "wof:lastmodified":1461896127,
+    "wof:name":"Creative Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -81.151856,
+    31.972205,
+    -81.151856,
+    31.972205
+],
+  "geometry": {"coordinates":[-81.151856,31.972205],"type":"Point"}
+}

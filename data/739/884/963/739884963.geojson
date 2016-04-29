@@ -1,0 +1,78 @@
+{
+  "id": 739884963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.781179,34.272624,-84.781179,34.272624",
+    "geom:latitude":34.272624,
+    "geom:longitude":-84.781179,
+    "iso:country":"US",
+    "sg:address":"1192 Cass White Rd NE",
+    "sg:city":"White",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 548 8884",
+    "sg:postcode":"30184",
+    "sg:province":"GA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85823399,
+        102082937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7STYbiwaqOenjwig8FBPuK_34.272624_-84.781179@1303262597"
+    },
+    "wof:country":"US",
+    "wof:created":1461919242,
+    "wof:geomhash":"4b48ff04d1f2990eaa767cee546b7de9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082937,
+            "neighbourhood_id":85823399,
+            "region_id":85688535,
+            "venue_id":739884963
+        }
+    ],
+    "wof:id":739884963,
+    "wof:lastmodified":1461919242,
+    "wof:name":"Lucky Trucking",
+    "wof:parent_id":85823399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.781179,
+    34.272624,
+    -84.781179,
+    34.272624
+],
+  "geometry": {"coordinates":[-84.78117899999999,34.272624],"type":"Point"}
+}

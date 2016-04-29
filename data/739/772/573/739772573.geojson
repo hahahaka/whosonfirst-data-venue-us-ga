@@ -1,0 +1,71 @@
+{
+  "id": 739772573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.686901,32.900297,-83.686901,32.900297",
+    "geom:latitude":32.900297,
+    "geom:longitude":-83.686901,
+    "iso:country":"US",
+    "sg:address":"3660 Riverside Dr",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/macon/203356-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"31210",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85833281,
+        102084373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xQGdT9BTrn9x8SBfdaH3a_32.900297_-83.686901@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914648,
+    "wof:geomhash":"adc5edc34607e5d8295f3e5029142367",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084373,
+            "neighbourhood_id":85833281,
+            "region_id":85688535,
+            "venue_id":739772573
+        }
+    ],
+    "wof:id":739772573,
+    "wof:lastmodified":1461914648,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85833281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.686901,
+    32.900297,
+    -83.686901,
+    32.900297
+],
+  "geometry": {"coordinates":[-83.68690100000001,32.900297],"type":"Point"}
+}

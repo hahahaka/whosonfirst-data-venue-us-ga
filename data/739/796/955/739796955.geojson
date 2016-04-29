@@ -1,0 +1,83 @@
+{
+  "id": 739796955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.307364,33.790635,-84.307364,33.790635",
+    "geom:latitude":33.790635,
+    "geom:longitude":-84.307364,
+    "iso:country":"US",
+    "sg:address":"2052 N Decatur Rd Ste B",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 320 1111",
+    "sg:postcode":"30033",
+    "sg:province":"GA",
+    "sg:tags":[
+        "frozen",
+        "dessert",
+        "yogurt"
+    ],
+    "sg:website":"www.redmangousa.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936441,
+        102084539,
+        85890029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05cqtqCjKSz2LcAEUvP9nj_33.790635_-84.307364@1303262574"
+    },
+    "wof:country":"US",
+    "wof:created":1461915647,
+    "wof:geomhash":"79efd56c6b202d97ef061940b46b5086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936441,
+            "neighbourhood_id":85890029,
+            "region_id":85688535,
+            "venue_id":739796955
+        }
+    ],
+    "wof:id":739796955,
+    "wof:lastmodified":1461915647,
+    "wof:name":"Red Mango",
+    "wof:parent_id":85890029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert",
+        "yogurt"
+    ]
+},
+  "bbox": [
+    -84.307364,
+    33.790635,
+    -84.307364,
+    33.790635
+],
+  "geometry": {"coordinates":[-84.30736400000001,33.790635],"type":"Point"}
+}

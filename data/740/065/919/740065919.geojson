@@ -1,0 +1,86 @@
+{
+  "id": 740065919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.287028,30.868016,-83.287028,30.868016",
+    "geom:latitude":30.868016,
+    "geom:longitude":-83.287028,
+    "iso:country":"US",
+    "sg:address":"2809 N Ashley St Ste B",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 242 9080",
+    "sg:postcode":"31602",
+    "sg:province":"GA",
+    "sg:tags":[
+        "supplies-renting",
+        "wheelchairs-rental"
+    ],
+    "sg:website":"http://www.ahom.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936921,
+        102083585,
+        85827633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BpTjJTbqowAC8Tb9TMGvN_30.868016_-83.287028@1303262644"
+    },
+    "wof:country":"US",
+    "wof:created":1461926791,
+    "wof:geomhash":"2aec591a3635ceff3debb0b0e5e2c29c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85827633,
+            "region_id":85688535,
+            "venue_id":740065919
+        }
+    ],
+    "wof:id":740065919,
+    "wof:lastmodified":1461926791,
+    "wof:name":"American Homepatient",
+    "wof:parent_id":85827633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supplies-renting",
+        "wheelchairs-rental"
+    ]
+},
+  "bbox": [
+    -83.287028,
+    30.868016,
+    -83.287028,
+    30.868016
+],
+  "geometry": {"coordinates":[-83.28702800000001,30.868016],"type":"Point"}
+}

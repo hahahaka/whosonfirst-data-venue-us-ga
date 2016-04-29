@@ -1,0 +1,71 @@
+{
+  "id": 723265687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.170633,31.568113,-84.170633,31.568113",
+    "geom:latitude":31.568113,
+    "geom:longitude":-84.170633,
+    "iso:country":"US",
+    "sg:address":"801 W Gordon Ave",
+    "sg:city":"Albany",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 431 1002",
+    "sg:postcode":"31701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935991,
+        102084427,
+        85822061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24gbaZ871NAfisb7UU8RY7_31.568113_-84.170633@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461898417,
+    "wof:geomhash":"b4558f3f2da47de061076f2f9e84b563",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":85822061,
+            "region_id":85688535,
+            "venue_id":723265687
+        }
+    ],
+    "wof:id":723265687,
+    "wof:lastmodified":1461898417,
+    "wof:name":"Bill's Stop & Go",
+    "wof:parent_id":85822061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -84.170633,
+    31.568113,
+    -84.170633,
+    31.568113
+],
+  "geometry": {"coordinates":[-84.170633,31.568113],"type":"Point"}
+}

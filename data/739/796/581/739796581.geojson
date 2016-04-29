@@ -1,0 +1,84 @@
+{
+  "id": 739796581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.293198,33.811501,-84.293198,33.811501",
+    "geom:latitude":33.811501,
+    "geom:longitude":-84.293198,
+    "iso:country":"US",
+    "sg:address":"2340 Lawrenceville Hwy",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 634 8929",
+    "sg:postcode":"30033",
+    "sg:province":"GA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937259,
+        102084539,
+        85866913,
+        85937257,
+        85890013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FRXQwd94trKQWH25fLvUb_33.811501_-84.293198@1303262574"
+    },
+    "wof:country":"US",
+    "wof:created":1461915634,
+    "wof:geomhash":"9e0d8ffcb32771fee15e9db19f7c60b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937259,
+            "neighbourhood_id":85866913,
+            "region_id":85688535,
+            "venue_id":739796581
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937257,
+            "neighbourhood_id":85890013,
+            "region_id":85688535,
+            "venue_id":739796581
+        }
+    ],
+    "wof:id":739796581,
+    "wof:lastmodified":1461915634,
+    "wof:name":"Summit Grove Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.293198,
+    33.811501,
+    -84.293198,
+    33.811501
+],
+  "geometry": {"coordinates":[-84.293198,33.811501],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 723263377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.889328,33.80903,-84.889328,33.80903",
+    "geom:latitude":33.80903,
+    "geom:longitude":-84.889328,
+    "iso:country":"US",
+    "sg:address":"7869 Villa Rica Hwy",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 505 1117",
+    "sg:postcode":"30132",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936335,
+        102084665,
+        85835843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WAt0KV8BBdA2g6K4lEdtu_33.809030_-84.889328@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461898368,
+    "wof:geomhash":"c77b2f15ceabcafc01bd869c261a5ac8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "locality_id":85936335,
+            "neighbourhood_id":85835843,
+            "region_id":85688535,
+            "venue_id":723263377
+        }
+    ],
+    "wof:id":723263377,
+    "wof:lastmodified":1461898368,
+    "wof:name":"West Georgia Family Medicine",
+    "wof:parent_id":85835843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.889328,
+    33.80903,
+    -84.889328,
+    33.80903
+],
+  "geometry": {"coordinates":[-84.88932800000001,33.80903],"type":"Point"}
+}

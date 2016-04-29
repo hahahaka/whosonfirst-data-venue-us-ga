@@ -1,0 +1,80 @@
+{
+  "id": 739802815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.140946,34.211533,-84.140946,34.211533",
+    "geom:latitude":34.211533,
+    "geom:longitude":-84.140946,
+    "iso:country":"US",
+    "sg:address":"103 Mountain View Dr",
+    "sg:city":"Cumming",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 455 8757",
+    "sg:postcode":"30040",
+    "sg:province":"GA",
+    "sg:tags":[
+        "laboratory",
+        "dental",
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936811,
+        102082317,
+        85842073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7N3rJnCi3XYi1GQkZ1K7Xu_34.211533_-84.140946@1303262576"
+    },
+    "wof:country":"US",
+    "wof:created":1461915907,
+    "wof:geomhash":"8fe85c534adb5f5fdc43da81bb887fc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082317,
+            "locality_id":85936811,
+            "neighbourhood_id":85842073,
+            "region_id":85688535,
+            "venue_id":739802815
+        }
+    ],
+    "wof:id":739802815,
+    "wof:lastmodified":1461915907,
+    "wof:name":"P & W Dental Studios",
+    "wof:parent_id":85842073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental",
+        "clinic"
+    ]
+},
+  "bbox": [
+    -84.140946,
+    34.211533,
+    -84.140946,
+    34.211533
+],
+  "geometry": {"coordinates":[-84.140946,34.211533],"type":"Point"}
+}

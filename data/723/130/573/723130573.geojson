@@ -1,0 +1,71 @@
+{
+  "id": 723130573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.929998,34.480413,-84.929998,34.480413",
+    "geom:latitude":34.480413,
+    "geom:longitude":-84.929998,
+    "iso:country":"US",
+    "sg:address":"136 E Belmont Dr",
+    "sg:city":"Calhoun",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 625 4303",
+    "sg:postcode":"30701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936609,
+        102084679,
+        85817247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZZ2B4z6aGbKd8ZWj0RIUl_34.480413_-84.929998@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461895709,
+    "wof:geomhash":"c799a3e8f4f7565e4a4f8dd08f1f8274",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084679,
+            "locality_id":85936609,
+            "neighbourhood_id":85817247,
+            "region_id":85688535,
+            "venue_id":723130573
+        }
+    ],
+    "wof:id":723130573,
+    "wof:lastmodified":1461895709,
+    "wof:name":"Kroger",
+    "wof:parent_id":85817247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -84.929998,
+    34.480413,
+    -84.929998,
+    34.480413
+],
+  "geometry": {"coordinates":[-84.929998,34.480413],"type":"Point"}
+}

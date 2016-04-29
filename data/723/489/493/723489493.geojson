@@ -1,0 +1,69 @@
+{
+  "id": 723489493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.438096,34.469246,-84.438096,34.469246",
+    "geom:latitude":34.469246,
+    "geom:longitude":-84.438096,
+    "iso:country":"US",
+    "sg:address":"250 Burton St",
+    "sg:city":"Jasper",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 253 0911",
+    "sg:postcode":"30143",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85846359,
+        102083619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LscfXgyIQHq8ORo2cxpL9_34.469246_-84.438096@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461902726,
+    "wof:geomhash":"f24b06132bc821753f961f1ffe79a7fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083619,
+            "neighbourhood_id":85846359,
+            "region_id":85688535,
+            "venue_id":723489493
+        }
+    ],
+    "wof:id":723489493,
+    "wof:lastmodified":1461902726,
+    "wof:name":"Jasper Fire Dept",
+    "wof:parent_id":85846359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.438096,
+    34.469246,
+    -84.438096,
+    34.469246
+],
+  "geometry": {"coordinates":[-84.438096,34.469246],"type":"Point"}
+}

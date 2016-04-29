@@ -1,0 +1,76 @@
+{
+  "id": 739995977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.236415,33.88905,-84.236415,33.88905",
+    "geom:latitude":33.88905,
+    "geom:longitude":-84.236415,
+    "iso:country":"US",
+    "sg:address":"3598 Hidden Acres Dr",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 663 3417",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "sg:tags":[
+        "government-state",
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WTE5iCDWErGWdk9IrJUc5_33.889050_-84.236415@1303262626"
+    },
+    "wof:country":"US",
+    "wof:created":1461923780,
+    "wof:geomhash":"4a11c860cbd8d8909481ef4d27769181",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":739995977
+        }
+    ],
+    "wof:id":739995977,
+    "wof:lastmodified":1461923780,
+    "wof:name":"Columbus",
+    "wof:parent_id":85889941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-state",
+        "mental"
+    ]
+},
+  "bbox": [
+    -84.236415,
+    33.88905,
+    -84.236415,
+    33.88905
+],
+  "geometry": {"coordinates":[-84.23641499999999,33.88905],"type":"Point"}
+}

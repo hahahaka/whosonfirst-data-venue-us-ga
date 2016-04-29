@@ -1,0 +1,85 @@
+{
+  "id": 740042367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.165283,33.559799,-82.165283,33.559799",
+    "geom:latitude":33.559799,
+    "geom:longitude":-82.165283,
+    "iso:country":"US",
+    "sg:address":"4788 Washington Rd",
+    "sg:city":"Evans",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 863 1373",
+    "sg:postcode":"30809",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "towing",
+        "painting",
+        "repairing"
+    ],
+    "sg:website":"http://www.cushmanpaintandbody.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZLOUptJCWwr5WyAWyd5a8_33.559799_-82.165283@1303262638"
+    },
+    "wof:country":"US",
+    "wof:created":1461925736,
+    "wof:geomhash":"c5db01a6fa9adb482b1cbc4b1f146f88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":740042367
+        }
+    ],
+    "wof:id":740042367,
+    "wof:lastmodified":1461925736,
+    "wof:name":"Cushman Paint & Body",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "towing",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -82.165283,
+    33.559799,
+    -82.165283,
+    33.559799
+],
+  "geometry": {"coordinates":[-82.165283,33.559799],"type":"Point"}
+}

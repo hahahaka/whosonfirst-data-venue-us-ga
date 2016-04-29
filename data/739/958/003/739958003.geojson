@@ -1,0 +1,75 @@
+{
+  "id": 739958003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.305972,33.747224,-84.305972,33.747224",
+    "geom:latitude":33.747224,
+    "geom:longitude":-84.305972,
+    "iso:country":"US",
+    "sg:address":"2465 Memorial Dr SE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 377 9010",
+    "sg:postcode":"30317",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85816491,
+        102084539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13mr9JErI0JEpDhODclCd8_33.747224_-84.305972@1303262616"
+    },
+    "wof:country":"US",
+    "wof:created":1461922296,
+    "wof:geomhash":"3f744fc7aa8296bfc2cb4f2c045d1c2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739958003
+        }
+    ],
+    "wof:id":739958003,
+    "wof:lastmodified":1461922296,
+    "wof:name":"John Williams Body Shop",
+    "wof:parent_id":85816491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -84.305972,
+    33.747224,
+    -84.305972,
+    33.747224
+],
+  "geometry": {"coordinates":[-84.305972,33.747224],"type":"Point"}
+}

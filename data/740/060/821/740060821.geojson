@@ -1,0 +1,80 @@
+{
+  "id": 740060821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.162979,31.981979,-81.162979,31.981979",
+    "geom:latitude":31.981979,
+    "geom:longitude":-81.162979,
+    "iso:country":"US",
+    "sg:address":"11935 Abercorn St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Industrial Area",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 344 2555",
+    "sg:postcode":"31419",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repair",
+        "equipment-repairing",
+        "machinery-rebuild"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936939,
+        102082337,
+        85858259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZZZmKBQ07ri6IJzxEt34L_31.981979_-81.162979@1303262642"
+    },
+    "wof:country":"US",
+    "wof:created":1461926559,
+    "wof:geomhash":"ff1c89d1e500f6457c389139ef33e003",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85858259,
+            "region_id":85688535,
+            "venue_id":740060821
+        }
+    ],
+    "wof:id":740060821,
+    "wof:lastmodified":1461926559,
+    "wof:name":"Association For Computing Machinery",
+    "wof:parent_id":85858259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "equipment-repairing",
+        "machinery-rebuild"
+    ]
+},
+  "bbox": [
+    -81.162979,
+    31.981979,
+    -81.162979,
+    31.981979
+],
+  "geometry": {"coordinates":[-81.16297900000001,31.981979],"type":"Point"}
+}

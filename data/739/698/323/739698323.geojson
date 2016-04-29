@@ -1,0 +1,73 @@
+{
+  "id": 739698323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.982726,32.487595,-84.982726,32.487595",
+    "geom:latitude":32.487595,
+    "geom:longitude":-84.982726,
+    "iso:country":"US",
+    "sg:address":"2514 Hamilton Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 324 7070",
+    "sg:postcode":"31904",
+    "sg:province":"GA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        420518105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1r4sjNx3dVxYFm1MRVJ4qS_32.487595_-84.982726@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461912514,
+    "wof:geomhash":"e01f8e2c9a00936639c99550651886e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":420518105,
+            "region_id":85688535,
+            "venue_id":739698323
+        }
+    ],
+    "wof:id":739698323,
+    "wof:lastmodified":1461912514,
+    "wof:name":"A Cab",
+    "wof:parent_id":420518105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -84.982726,
+    32.487595,
+    -84.982726,
+    32.487595
+],
+  "geometry": {"coordinates":[-84.982726,32.487595],"type":"Point"}
+}

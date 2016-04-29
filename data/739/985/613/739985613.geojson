@@ -1,0 +1,72 @@
+{
+  "id": 739985613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.452412,33.645259,-84.452412,33.645259",
+    "geom:latitude":33.645259,
+    "geom:longitude":-84.452412,
+    "iso:country":"US",
+    "sg:address":"1931 Roosevelt Hwy",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 500 1850",
+    "sg:postcode":"30337",
+    "sg:province":"GA",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"www.stratosphererentacar.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526927,
+        85688535,
+        85633793,
+        102082333,
+        85815707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hkaNMcvOBauqDV53h39AY_33.645259_-84.452412@1303262623"
+    },
+    "wof:country":"US",
+    "wof:created":1461923382,
+    "wof:geomhash":"cb4d837816d0655ca7ef821c488ec1bc",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526927,
+            "country_id":85633793,
+            "county_id":102082333,
+            "neighbourhood_id":85815707,
+            "region_id":85688535,
+            "venue_id":739985613
+        }
+    ],
+    "wof:id":739985613,
+    "wof:lastmodified":1461923382,
+    "wof:name":"Stratosphere Rent A Car",
+    "wof:parent_id":102526927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -84.452412,
+    33.645259,
+    -84.452412,
+    33.645259
+],
+  "geometry": {"coordinates":[-84.452412,33.645259],"type":"Point"}
+}

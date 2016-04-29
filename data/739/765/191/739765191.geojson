@@ -1,0 +1,72 @@
+{
+  "id": 739765191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.088338,33.988583,-84.088338,33.988583",
+    "geom:latitude":33.988583,
+    "geom:longitude":-84.088338,
+    "iso:country":"US",
+    "sg:address":"2000 Satellite Blvd",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/suwanee-duluth/16214-black-angus-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 476 0420",
+    "sg:postcode":"30097",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hdpniZRJvgajzOyyWGNIV_33.988583_-84.088338@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914346,
+    "wof:geomhash":"507ea73dd1cbe7e3fc57b7b5d897647a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":739765191
+        }
+    ],
+    "wof:id":739765191,
+    "wof:lastmodified":1461914346,
+    "wof:name":"Black Angus Steakhouse",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -84.088338,
+    33.988583,
+    -84.088338,
+    33.988583
+],
+  "geometry": {"coordinates":[-84.08833799999999,33.988583],"type":"Point"}
+}

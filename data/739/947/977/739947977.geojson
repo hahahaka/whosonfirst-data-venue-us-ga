@@ -1,0 +1,68 @@
+{
+  "id": 739947977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.415604,33.729198,-84.415604,33.729198",
+    "geom:latitude":33.729198,
+    "geom:longitude":-84.415604,
+    "iso:country":"US",
+    "sg:address":"950 Murphy Ave SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 753 6444",
+    "sg:postcode":"30310",
+    "sg:province":"GA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85855423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oiLxbARDNSj8URSUcs3sb_33.729198_-84.415604@1303262613"
+    },
+    "wof:country":"US",
+    "wof:created":1461921855,
+    "wof:geomhash":"c2ad354e074d4c3909027d20cf264f5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85855423,
+            "region_id":85688535,
+            "venue_id":739947977
+        }
+    ],
+    "wof:id":739947977,
+    "wof:lastmodified":1461921855,
+    "wof:name":"Aaron's Auto Service",
+    "wof:parent_id":85855423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.415604,
+    33.729198,
+    -84.415604,
+    33.729198
+],
+  "geometry": {"coordinates":[-84.415604,33.729198],"type":"Point"}
+}

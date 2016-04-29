@@ -1,0 +1,85 @@
+{
+  "id": 739365959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.429492,33.884379,-84.429492,33.884379",
+    "geom:latitude":33.884379,
+    "geom:longitude":-84.429492,
+    "iso:country":"US",
+    "sg:address":"4795 Harris Trl NW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 705 8235",
+    "sg:postcode":"30327",
+    "sg:province":"GA",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937165,
+        102083603,
+        85872101,
+        420559923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yWKScuMGiN2ATMldThK9g_33.884379_-84.429492@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461905917,
+    "wof:geomhash":"fc4d9ec7144102d3b9bc42639418359e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937165,
+            "neighbourhood_id":85872101,
+            "region_id":85688535,
+            "venue_id":739365959
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937165,
+            "neighbourhood_id":420559923,
+            "region_id":85688535,
+            "venue_id":739365959
+        }
+    ],
+    "wof:id":739365959,
+    "wof:lastmodified":1461905917,
+    "wof:name":"Long Mtn Property Owners Assoc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -84.429492,
+    33.884379,
+    -84.429492,
+    33.884379
+],
+  "geometry": {"coordinates":[-84.429492,33.884379],"type":"Point"}
+}

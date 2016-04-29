@@ -1,0 +1,87 @@
+{
+  "id": 722971689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.09969,32.07384,-81.09969,32.07384",
+    "geom:latitude":32.07384,
+    "geom:longitude":-81.09969,
+    "iso:country":"US",
+    "sg:address":"405 Martin Luther King Jr Blvd",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 236 3103",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "station",
+        "gasoline",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85880901,
+        85880921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4C3rFG7E5kZ5qTuhG3sDza_32.073840_-81.099690@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461892285,
+    "wof:geomhash":"a0864b9f122a45649d317dab6545cbbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880901,
+            "region_id":85688535,
+            "venue_id":722971689
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880921,
+            "region_id":85688535,
+            "venue_id":722971689
+        }
+    ],
+    "wof:id":722971689,
+    "wof:lastmodified":1461892285,
+    "wof:name":"Enmark Stations Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline",
+        "oil"
+    ]
+},
+  "bbox": [
+    -81.09969,
+    32.07384,
+    -81.09969,
+    32.07384
+],
+  "geometry": {"coordinates":[-81.09969,32.07384],"type":"Point"}
+}

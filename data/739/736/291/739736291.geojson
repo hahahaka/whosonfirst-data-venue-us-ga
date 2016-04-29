@@ -1,0 +1,71 @@
+{
+  "id": 739736291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.837279,33.849987,-84.837279,33.849987",
+    "geom:latitude":33.849987,
+    "geom:longitude":-84.837279,
+    "iso:country":"US",
+    "sg:address":"253 Camden Trl",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 445 3781",
+    "sg:postcode":"30157",
+    "sg:province":"GA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936335,
+        102084665,
+        85835843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DvptiH5tIsQuk2ECfPE89_33.849987_-84.837279@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461913330,
+    "wof:geomhash":"341c82217e50bf78dd45c4eaba961e61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "locality_id":85936335,
+            "neighbourhood_id":85835843,
+            "region_id":85688535,
+            "venue_id":739736291
+        }
+    ],
+    "wof:id":739736291,
+    "wof:lastmodified":1461913330,
+    "wof:name":"Call Analytical Laboratories",
+    "wof:parent_id":85835843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -84.837279,
+    33.849987,
+    -84.837279,
+    33.849987
+],
+  "geometry": {"coordinates":[-84.837279,33.849987],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 740022357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.842772,34.285844,-83.842772,34.285844",
+    "geom:latitude":34.285844,
+    "geom:longitude":-83.842772,
+    "iso:country":"US",
+    "sg:address":"1500 Browns Bridge Rd Ste 102",
+    "sg:city":"Gainesville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 503 1090",
+    "sg:postcode":"30501",
+    "sg:province":"GA",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "sg:website":"http://www.biglots.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936861,
+        102083629,
+        420518035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tbRKlnRbeV4FaaExr9bXD_34.285844_-83.842772@1303262633"
+    },
+    "wof:country":"US",
+    "wof:created":1461924789,
+    "wof:geomhash":"ca561e031e84fe350c4215448f9d881d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083629,
+            "locality_id":85936861,
+            "neighbourhood_id":420518035,
+            "region_id":85688535,
+            "venue_id":740022357
+        }
+    ],
+    "wof:id":740022357,
+    "wof:lastmodified":1461924789,
+    "wof:name":"Big Lots",
+    "wof:parent_id":420518035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -83.842772,
+    34.285844,
+    -83.842772,
+    34.285844
+],
+  "geometry": {"coordinates":[-83.842772,34.285844],"type":"Point"}
+}

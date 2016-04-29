@@ -1,0 +1,86 @@
+{
+  "id": 739977649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.349479,33.920748,-84.349479,33.920748",
+    "geom:latitude":33.920748,
+    "geom:longitude":-84.349479,
+    "iso:country":"US",
+    "sg:address":"1140 Hammond Dr Building K, Ste 300",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 851 5401",
+    "sg:postcode":"30328",
+    "sg:province":"GA",
+    "sg:tags":[
+        "cardiologist"
+    ],
+    "sg:website":"www.piedmontheart.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85890003,
+        85937165,
+        102083603,
+        85889977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PKfidjA8C4WFOljsV9NMF_33.920748_-84.349479@1303262621"
+    },
+    "wof:country":"US",
+    "wof:created":1461923049,
+    "wof:geomhash":"ab04d699f83c642320705359d807c9b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890003,
+            "region_id":85688535,
+            "venue_id":739977649
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937165,
+            "neighbourhood_id":85889977,
+            "region_id":85688535,
+            "venue_id":739977649
+        }
+    ],
+    "wof:id":739977649,
+    "wof:lastmodified":1461923049,
+    "wof:name":"Piedmont Heart ?Institute Physicians",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cardiologist"
+    ]
+},
+  "bbox": [
+    -84.349479,
+    33.920748,
+    -84.349479,
+    33.920748
+],
+  "geometry": {"coordinates":[-84.349479,33.920748],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 722551273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.051784,33.027741,-85.051784,33.027741",
+    "geom:latitude":33.027741,
+    "geom:longitude":-85.051784,
+    "iso:country":"US",
+    "sg:address":"101 Parker St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 845 9400",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85830157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SKh361Wwx5izzrnRVuKEx_33.027741_-85.051784@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461884027,
+    "wof:geomhash":"9a452cf163e45fcd9fda4550adde4c97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85830157,
+            "region_id":85688535,
+            "venue_id":722551273
+        }
+    ],
+    "wof:id":722551273,
+    "wof:lastmodified":1461884027,
+    "wof:name":"Four Paws Animal Hospital",
+    "wof:parent_id":85830157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -85.051784,
+    33.027741,
+    -85.051784,
+    33.027741
+],
+  "geometry": {"coordinates":[-85.051784,33.027741],"type":"Point"}
+}

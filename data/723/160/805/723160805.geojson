@@ -1,0 +1,85 @@
+{
+  "id": 723160805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.291927,33.739944,-84.291927,33.739944",
+    "geom:latitude":33.739944,
+    "geom:longitude":-84.291927,
+    "iso:country":"US",
+    "sg:address":"2883 Salmon Ave SE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 289 4148",
+    "sg:postcode":"30317",
+    "sg:province":"GA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937245,
+        102084539,
+        85816501,
+        85816491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60fafiGklHeSIUkf3S3VkE_33.739944_-84.291927@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896303,
+    "wof:geomhash":"d64b834d1a34b308a7f8c166da5d52a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937245,
+            "neighbourhood_id":85816501,
+            "region_id":85688535,
+            "venue_id":723160805
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":723160805
+        }
+    ],
+    "wof:id":723160805,
+    "wof:lastmodified":1461896303,
+    "wof:name":"Decatur Jet Cab Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.291927,
+    33.739944,
+    -84.291927,
+    33.739944
+],
+  "geometry": {"coordinates":[-84.291927,33.739944],"type":"Point"}
+}

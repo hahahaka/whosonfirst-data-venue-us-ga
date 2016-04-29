@@ -1,0 +1,83 @@
+{
+  "id": 739946113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.380187,33.786599,-84.380187,33.786599",
+    "geom:latitude":33.786599,
+    "geom:longitude":-84.380187,
+    "iso:country":"US",
+    "sg:address":"222 14th St NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 815 1425",
+    "sg:postcode":"30309",
+    "sg:province":"GA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85866909,
+        85872127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yfzoBTiW6jukGlIxoPSJs_33.786599_-84.380187@1303262612"
+    },
+    "wof:country":"US",
+    "wof:created":1461921761,
+    "wof:geomhash":"4f995098cd90f10871f25f3756bf591f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85866909,
+            "region_id":85688535,
+            "venue_id":739946113
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872127,
+            "region_id":85688535,
+            "venue_id":739946113
+        }
+    ],
+    "wof:id":739946113,
+    "wof:lastmodified":1461921761,
+    "wof:name":"Windsor At Midtown",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.380187,
+    33.786599,
+    -84.380187,
+    33.786599
+],
+  "geometry": {"coordinates":[-84.38018700000001,33.786599],"type":"Point"}
+}

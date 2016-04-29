@@ -1,0 +1,73 @@
+{
+  "id": 723068339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.526287,33.775447,-84.526287,33.775447",
+    "geom:latitude":33.775447,
+    "geom:longitude":-84.526287,
+    "iso:country":"US",
+    "sg:address":"4175 S Airport Rd NW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 699 4483",
+    "sg:postcode":"30336",
+    "sg:province":"GA",
+    "sg:tags":[
+        "nonscheduled",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937189,
+        102082313,
+        85809641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kF7tsNc396hexe1Yo9HR1_33.775447_-84.526287@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461894414,
+    "wof:geomhash":"e793bb0fa34f0e9d581d38871051e224",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85937189,
+            "neighbourhood_id":85809641,
+            "region_id":85688535,
+            "venue_id":723068339
+        }
+    ],
+    "wof:id":723068339,
+    "wof:lastmodified":1461894414,
+    "wof:name":"State of GA Off A Trnsporation",
+    "wof:parent_id":85809641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonscheduled",
+        "air"
+    ]
+},
+  "bbox": [
+    -84.526287,
+    33.775447,
+    -84.526287,
+    33.775447
+],
+  "geometry": {"coordinates":[-84.526287,33.775447],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 739602565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.540278,33.568582,-84.540278,33.568582",
+    "geom:latitude":33.568582,
+    "geom:longitude":-84.540278,
+    "iso:country":"US",
+    "sg:address":"4760 Jonesboro Rd",
+    "sg:city":"Union City",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 969 4441",
+    "sg:postcode":"30291",
+    "sg:province":"GA",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85848007,
+        102083603,
+        85937159,
+        85848001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ph05A4UMmoeL69roXLC5X_33.568582_-84.540278@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910465,
+    "wof:geomhash":"abc4aba53b5f7fed01366b4e5afb113b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85848007,
+            "region_id":85688535,
+            "venue_id":739602565
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937159,
+            "neighbourhood_id":85848001,
+            "region_id":85688535,
+            "venue_id":739602565
+        }
+    ],
+    "wof:id":739602565,
+    "wof:lastmodified":1461910465,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -84.540278,
+    33.568582,
+    -84.540278,
+    33.568582
+],
+  "geometry": {"coordinates":[-84.540278,33.568582],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 740012631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.471893,33.611929,-84.471893,33.611929",
+    "geom:latitude":33.611929,
+    "geom:longitude":-84.471893,
+    "iso:country":"US",
+    "sg:address":"5238 Old National Hwy",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 761 1121",
+    "sg:postcode":"30349",
+    "sg:province":"GA",
+    "sg:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ],
+    "sg:website":"http://www.pizzahut.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936967,
+        102083603,
+        420517977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rYSoXWGImmRWBCFcj5rCb_33.611929_-84.471893@1303262630"
+    },
+    "wof:country":"US",
+    "wof:created":1461924416,
+    "wof:geomhash":"b521588479b559310001e0136f164aa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936967,
+            "neighbourhood_id":420517977,
+            "region_id":85688535,
+            "venue_id":740012631
+        }
+    ],
+    "wof:id":740012631,
+    "wof:lastmodified":1461924416,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":420517977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.471893,
+    33.611929,
+    -84.471893,
+    33.611929
+],
+  "geometry": {"coordinates":[-84.47189299999999,33.611929],"type":"Point"}
+}

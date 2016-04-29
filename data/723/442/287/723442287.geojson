@@ -1,0 +1,83 @@
+{
+  "id": 723442287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.296293,33.724747,-84.296293,33.724747",
+    "geom:latitude":33.724747,
+    "geom:longitude":-84.296293,
+    "iso:country":"US",
+    "sg:address":"2295 Pinewood Dr",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 933 4030",
+    "sg:postcode":"30032",
+    "sg:province":"GA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937245,
+        102084539,
+        85816501,
+        85816491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iXTTkc4dXtOnkI8xYfNRO_33.724747_-84.296293@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901807,
+    "wof:geomhash":"c67c7269fdabad2b7b09169ab5793d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937245,
+            "neighbourhood_id":85816501,
+            "region_id":85688535,
+            "venue_id":723442287
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":723442287
+        }
+    ],
+    "wof:id":723442287,
+    "wof:lastmodified":1461901807,
+    "wof:name":"Cody's Plumbing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.296293,
+    33.724747,
+    -84.296293,
+    33.724747
+],
+  "geometry": {"coordinates":[-84.29629300000001,33.724747],"type":"Point"}
+}

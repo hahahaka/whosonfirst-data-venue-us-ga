@@ -1,0 +1,76 @@
+{
+  "id": 739958207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.313148,33.741452,-84.313148,33.741452",
+    "geom:latitude":33.741452,
+    "geom:longitude":-84.313148,
+    "iso:country":"US",
+    "sg:address":"115 Greenhaven Dr SE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 349 4434",
+    "sg:postcode":"30317",
+    "sg:province":"GA",
+    "sg:tags":[
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85816491,
+        102084539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0joXaKwPCv9NbCepjTRuBC_33.741452_-84.313148@1303262616"
+    },
+    "wof:country":"US",
+    "wof:created":1461922302,
+    "wof:geomhash":"f62027a96505ee665ac910cf47ad976b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739958207
+        }
+    ],
+    "wof:id":739958207,
+    "wof:lastmodified":1461922302,
+    "wof:name":"Cj Auto Transport Of Atlanta I",
+    "wof:parent_id":85816491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.313148,
+    33.741452,
+    -84.313148,
+    33.741452
+],
+  "geometry": {"coordinates":[-84.313148,33.741452],"type":"Point"}
+}

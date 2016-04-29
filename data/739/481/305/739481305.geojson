@@ -1,0 +1,75 @@
+{
+  "id": 739481305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.329857,33.943393,-83.329857,33.943393",
+    "geom:latitude":33.943393,
+    "geom:longitude":-83.329857,
+    "iso:country":"US",
+    "sg:address":"2825 County Farm Rd",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 613 3400",
+    "sg:postcode":"30605",
+    "sg:province":"GA",
+    "sg:tags":[
+        "correctional",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936177,
+        102081713,
+        85817037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rgiUurbCNZGiXYBDA6AJz_33.943393_-83.329857@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461908094,
+    "wof:geomhash":"40d3809c9268d848b610c2456c2f929f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081713,
+            "locality_id":85936177,
+            "neighbourhood_id":85817037,
+            "region_id":85688535,
+            "venue_id":739481305
+        }
+    ],
+    "wof:id":739481305,
+    "wof:lastmodified":1461908094,
+    "wof:name":"Athens Correctional Institute",
+    "wof:parent_id":85817037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correctional",
+        "institution"
+    ]
+},
+  "bbox": [
+    -83.329857,
+    33.943393,
+    -83.329857,
+    33.943393
+],
+  "geometry": {"coordinates":[-83.329857,33.943393],"type":"Point"}
+}

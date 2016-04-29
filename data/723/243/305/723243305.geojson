@@ -1,0 +1,71 @@
+{
+  "id": 723243305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.04454,34.822363,-85.04454,34.822363",
+    "geom:latitude":34.822363,
+    "geom:longitude":-85.04454,
+    "iso:country":"US",
+    "sg:address":"3145 Chattanooga Rd",
+    "sg:city":"Rocky Face",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 673 2339",
+    "sg:postcode":"30740",
+    "sg:province":"GA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1meedRivP3hPOSvSbboPK7_34.822363_-85.044540@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897970,
+    "wof:geomhash":"c4f83e58bbbc9b3c9e3416aa3a7826ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":723243305
+        }
+    ],
+    "wof:id":723243305,
+    "wof:lastmodified":1461897970,
+    "wof:name":"Carpenter's Wrecker Svc",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -85.04454,
+    34.822363,
+    -85.04454,
+    34.822363
+],
+  "geometry": {"coordinates":[-85.04454,34.822363],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 739773551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.474496,31.170891,-81.474496,31.170891",
+    "geom:latitude":31.170891,
+    "geom:longitude":-81.474496,
+    "iso:country":"US",
+    "sg:address":"2903 Glynn Ave",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/brunswick/132290-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 262 1976",
+    "sg:postcode":"31520",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937357,
+        102081695,
+        85845019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hwPHDktvojF52qZ6Hqz6P_31.170891_-81.474496@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914685,
+    "wof:geomhash":"f095f79dd6e7ec396b3906a43143a8c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937357,
+            "neighbourhood_id":85845019,
+            "region_id":85688535,
+            "venue_id":739773551
+        }
+    ],
+    "wof:id":739773551,
+    "wof:lastmodified":1461914685,
+    "wof:name":"Subway",
+    "wof:parent_id":85845019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -81.474496,
+    31.170891,
+    -81.474496,
+    31.170891
+],
+  "geometry": {"coordinates":[-81.474496,31.170891],"type":"Point"}
+}

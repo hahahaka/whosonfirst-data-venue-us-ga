@@ -1,0 +1,73 @@
+{
+  "id": 739701701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.288434,32.976825,-83.288434,32.976825",
+    "geom:latitude":32.976825,
+    "geom:longitude":-83.288434,
+    "iso:country":"US",
+    "sg:address":"105 Railroad St",
+    "sg:city":"Gordon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 000 1111",
+    "sg:postcode":"31031",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937347,
+        102082319,
+        85802835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VzUKWxW7AmeovVSp94N70_32.976825_-83.288434@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461912615,
+    "wof:geomhash":"6c73ab35ec1f641ae96ec3853f1f6e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082319,
+            "locality_id":85937347,
+            "neighbourhood_id":85802835,
+            "region_id":85688535,
+            "venue_id":739701701
+        }
+    ],
+    "wof:id":739701701,
+    "wof:lastmodified":1461912615,
+    "wof:name":"Gordon Police Dept",
+    "wof:parent_id":85802835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -83.288434,
+    32.976825,
+    -83.288434,
+    32.976825
+],
+  "geometry": {"coordinates":[-83.288434,32.976825],"type":"Point"}
+}

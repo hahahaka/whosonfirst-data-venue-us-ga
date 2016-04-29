@@ -1,0 +1,71 @@
+{
+  "id": 739608333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.475159,31.182301,-81.475159,31.182301",
+    "geom:latitude":31.182301,
+    "geom:longitude":-81.475159,
+    "iso:country":"US",
+    "sg:address":"3129 4th St",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 280 6952",
+    "sg:postcode":"31520",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85814297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dPSCcRchXOjs7A2STNRlP_31.182301_-81.475159@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910572,
+    "wof:geomhash":"35a2d6621a5b7672dbc4582fab0e74a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85814297,
+            "region_id":85688535,
+            "venue_id":739608333
+        }
+    ],
+    "wof:id":739608333,
+    "wof:lastmodified":1461910572,
+    "wof:name":"Brunswick Fire Station III",
+    "wof:parent_id":85814297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -81.475159,
+    31.182301,
+    -81.475159,
+    31.182301
+],
+  "geometry": {"coordinates":[-81.475159,31.182301],"type":"Point"}
+}

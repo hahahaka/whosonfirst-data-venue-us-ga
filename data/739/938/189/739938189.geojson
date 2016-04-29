@@ -1,0 +1,84 @@
+{
+  "id": 739938189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.384339,33.778086,-84.384339,33.778086",
+    "geom:latitude":33.778086,
+    "geom:longitude":-84.384339,
+    "iso:country":"US",
+    "sg:address":"855 Peachtree St",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 961 7181",
+    "sg:postcode":"30308",
+    "sg:province":"GA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "sg:website":"www.viewpointmidtown.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85866909,
+        85889947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S9gKsnBze7IkdF78iT8X7_33.778086_-84.384339@1303262611"
+    },
+    "wof:country":"US",
+    "wof:created":1461921340,
+    "wof:geomhash":"0bb69162caa771064743c6f2ba87a2ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85866909,
+            "region_id":85688535,
+            "venue_id":739938189
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85889947,
+            "region_id":85688535,
+            "venue_id":739938189
+        }
+    ],
+    "wof:id":739938189,
+    "wof:lastmodified":1461921340,
+    "wof:name":"Viewpoint Midtown Condominiums",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.384339,
+    33.778086,
+    -84.384339,
+    33.778086
+],
+  "geometry": {"coordinates":[-84.384339,33.778086],"type":"Point"}
+}

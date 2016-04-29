@@ -1,0 +1,83 @@
+{
+  "id": 739911113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.390514,33.761365,-84.390514,33.761365",
+    "geom:latitude":33.761365,
+    "geom:longitude":-84.390514,
+    "iso:country":"US",
+    "sg:address":"250 Williams St NW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"Garage",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 420 3218",
+    "sg:postcode":"30303",
+    "sg:province":"GA",
+    "sg:tags":[
+        "lot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872133,
+        85807911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3K5ipX33miiQsVvqC3kSAE_33.761365_-84.390514@1303262604"
+    },
+    "wof:country":"US",
+    "wof:created":1461920245,
+    "wof:geomhash":"9ddb9cbf15d63d003464e199787141a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872133,
+            "region_id":85688535,
+            "venue_id":739911113
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85807911,
+            "region_id":85688535,
+            "venue_id":739911113
+        }
+    ],
+    "wof:id":739911113,
+    "wof:lastmodified":1461920245,
+    "wof:name":"Aaa Parking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lot"
+    ]
+},
+  "bbox": [
+    -84.390514,
+    33.761365,
+    -84.390514,
+    33.761365
+],
+  "geometry": {"coordinates":[-84.390514,33.761365],"type":"Point"}
+}

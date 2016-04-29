@@ -1,0 +1,71 @@
+{
+  "id": 739817623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.498199,33.903099,-84.498199,33.903099",
+    "geom:latitude":33.903099,
+    "geom:longitude":-84.498199,
+    "iso:country":"US",
+    "sg:address":"2075 Airprt Ind Prk Dr SE",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 953 3366",
+    "sg:postcode":"30060",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85845875,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56Aw51mlSrTheY7D3u58ug_33.903099_-84.498199@1303262579"
+    },
+    "wof:country":"US",
+    "wof:created":1461916601,
+    "wof:geomhash":"12f578343faeb9f05081cb626aef2780",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":739817623
+        }
+    ],
+    "wof:id":739817623,
+    "wof:lastmodified":1461916601,
+    "wof:name":"Classic Collision",
+    "wof:parent_id":85845875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.498199,
+    33.903099,
+    -84.498199,
+    33.903099
+],
+  "geometry": {"coordinates":[-84.498199,33.903099],"type":"Point"}
+}

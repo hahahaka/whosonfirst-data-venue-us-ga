@@ -1,0 +1,73 @@
+{
+  "id": 740045373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.08326,33.50695,-82.08326,33.50695",
+    "geom:latitude":33.50695,
+    "geom:longitude":-82.08326,
+    "iso:country":"US",
+    "sg:address":"144 Davis Rd",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 790 4987",
+    "sg:postcode":"30907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "trucking-light",
+        "hauling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oXC5OJZgse3eGVAwExWJM_33.506950_-82.083260@1303262638"
+    },
+    "wof:country":"US",
+    "wof:created":1461925854,
+    "wof:geomhash":"905b2a8a02c4ec950028a2e0d1db1e58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":740045373
+        }
+    ],
+    "wof:id":740045373,
+    "wof:lastmodified":1461925854,
+    "wof:name":"Rs Hauling Co",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-light",
+        "hauling"
+    ]
+},
+  "bbox": [
+    -82.08326,
+    33.50695,
+    -82.08326,
+    33.50695
+],
+  "geometry": {"coordinates":[-82.08326,33.50695],"type":"Point"}
+}

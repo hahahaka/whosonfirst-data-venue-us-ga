@@ -1,0 +1,71 @@
+{
+  "id": 740064491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.635223,30.804197,-81.635223,30.804197",
+    "geom:latitude":30.804197,
+    "geom:longitude":-81.635223,
+    "iso:country":"US",
+    "sg:address":"111 Almond Cir",
+    "sg:city":"Kingsland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 510 0652",
+    "sg:postcode":"31548",
+    "sg:province":"GA",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937043,
+        102081693,
+        85852055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6n2rBv9JPojNwgZvFtWHuH_30.804197_-81.635223@1303262643"
+    },
+    "wof:country":"US",
+    "wof:created":1461926723,
+    "wof:geomhash":"468999e55ffa76631786bac6893b62e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081693,
+            "locality_id":85937043,
+            "neighbourhood_id":85852055,
+            "region_id":85688535,
+            "venue_id":740064491
+        }
+    ],
+    "wof:id":740064491,
+    "wof:lastmodified":1461926723,
+    "wof:name":"Powell Electric",
+    "wof:parent_id":85852055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -81.635223,
+    30.804197,
+    -81.635223,
+    30.804197
+],
+  "geometry": {"coordinates":[-81.635223,30.804197],"type":"Point"}
+}

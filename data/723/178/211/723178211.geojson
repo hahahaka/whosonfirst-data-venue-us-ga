@@ -1,0 +1,73 @@
+{
+  "id": 723178211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.987179,33.041484,-84.987179,33.041484",
+    "geom:latitude":33.041484,
+    "geom:longitude":-84.987179,
+    "iso:country":"US",
+    "sg:address":"1495 Lafayette Pkwy",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 885 1961",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0y1ilx6KirIQS5FROiaMaC_33.041484_-84.987179@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896651,
+    "wof:geomhash":"6cd08459d26b762a90a2d5508e425ea7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":723178211
+        }
+    ],
+    "wof:id":723178211,
+    "wof:lastmodified":1461896651,
+    "wof:name":"Pediatric Assoc Of Lagrange",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.987179,
+    33.041484,
+    -84.987179,
+    33.041484
+],
+  "geometry": {"coordinates":[-84.987179,33.041484],"type":"Point"}
+}

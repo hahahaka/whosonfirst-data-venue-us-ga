@@ -1,0 +1,87 @@
+{
+  "id": 739796759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.2842,33.792032,-84.2842,33.792032",
+    "geom:latitude":33.792032,
+    "geom:longitude":-84.2842,
+    "iso:country":"US",
+    "sg:address":"2675 N Decatur Rd",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 294 9900",
+    "sg:postcode":"30033",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeons",
+        "surgeon",
+        "surgery-general",
+        "proctology"
+    ],
+    "sg:website":"http://www.atlantacolon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937263,
+        102084539,
+        85890037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sh3CIschYlgQRr61pnBal_33.792032_-84.284200@1303262574"
+    },
+    "wof:country":"US",
+    "wof:created":1461915640,
+    "wof:geomhash":"83449c38180df3282488df4398f39bf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937263,
+            "neighbourhood_id":85890037,
+            "region_id":85688535,
+            "venue_id":739796759
+        }
+    ],
+    "wof:id":739796759,
+    "wof:lastmodified":1461915640,
+    "wof:name":"Atlanta Colon & Rectal Surgery PA",
+    "wof:parent_id":85890037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeons",
+        "surgeon",
+        "surgery-general",
+        "proctology"
+    ]
+},
+  "bbox": [
+    -84.2842,
+    33.792032,
+    -84.2842,
+    33.792032
+],
+  "geometry": {"coordinates":[-84.2842,33.792032],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 739764055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.579277,33.952081,-84.579277,33.952081",
+    "geom:latitude":33.952081,
+    "geom:longitude":-84.579277,
+    "iso:country":"US",
+    "sg:address":"1000 Whitlock Ave NW",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/marietta/57235-philly-connection/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 423 1744",
+    "sg:postcode":"30064",
+    "sg:province":"GA",
+    "sg:tags":[
+        "cheesesteaks",
+        "sandwich",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05secQ7UY2bC497GCdEyLr_33.952081_-84.579277@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914301,
+    "wof:geomhash":"1a81b65ab3922c2e3094b678b6475f29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739764055
+        }
+    ],
+    "wof:id":739764055,
+    "wof:lastmodified":1461914301,
+    "wof:name":"Philly Connection",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cheesesteaks",
+        "sandwich",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.579277,
+    33.952081,
+    -84.579277,
+    33.952081
+],
+  "geometry": {"coordinates":[-84.579277,33.952081],"type":"Point"}
+}

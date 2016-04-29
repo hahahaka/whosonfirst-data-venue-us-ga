@@ -1,0 +1,72 @@
+{
+  "id": 739826831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.486504,33.908798,-84.486504,33.908798",
+    "geom:latitude":33.908798,
+    "geom:longitude":-84.486504,
+    "iso:country":"US",
+    "sg:address":"1891 Terrell Mill Rd SE",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 850 9020",
+    "sg:postcode":"30067",
+    "sg:province":"GA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818985,
+        102082313,
+        85845875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0a3cJSh4JVEfSPettdhu4i_33.908798_-84.486504@1303262582"
+    },
+    "wof:country":"US",
+    "wof:created":1461916961,
+    "wof:geomhash":"32de26c16b4f1f1af12ec91947767833",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85818985,
+            "region_id":85688535,
+            "venue_id":739826831
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":739826831
+        }
+    ],
+    "wof:id":739826831,
+    "wof:lastmodified":1461916961,
+    "wof:name":"Meister Lee Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.486504,
+    33.908798,
+    -84.486504,
+    33.908798
+],
+  "geometry": {"coordinates":[-84.486504,33.908798],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 739766669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.545825,34.106418,-84.545825,34.106418",
+    "geom:latitude":34.106418,
+    "geom:longitude":-84.545825,
+    "iso:country":"US",
+    "sg:address":"875 Towne Lake Pkwy",
+    "sg:city":"Woodstock",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/woodstock/130431-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 928 2582",
+    "sg:postcode":"30189",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936723,
+        102084635,
+        85809475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70lMt6v0eoFqDDyMuJnoJQ_34.106418_-84.545825@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914407,
+    "wof:geomhash":"4fe1af6daed5ae0e2e64805d7d597cf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084635,
+            "locality_id":85936723,
+            "neighbourhood_id":85809475,
+            "region_id":85688535,
+            "venue_id":739766669
+        }
+    ],
+    "wof:id":739766669,
+    "wof:lastmodified":1461914407,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85809475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -84.545825,
+    34.106418,
+    -84.545825,
+    34.106418
+],
+  "geometry": {"coordinates":[-84.54582499999999,34.106418],"type":"Point"}
+}

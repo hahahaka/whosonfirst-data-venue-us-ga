@@ -1,0 +1,88 @@
+{
+  "id": 739775887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.77964,32.448396,-81.77964,32.448396",
+    "geom:latitude":32.448396,
+    "geom:longitude":-81.77964,
+    "iso:country":"US",
+    "sg:address":"106 Savannah Ave",
+    "sg:city":"Statesboro",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/statesboro/113990-french-quarter-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 489 3233",
+    "sg:postcode":"30458",
+    "sg:province":"GA",
+    "sg:tags":[
+        "french"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935999,
+        102084405,
+        85823149,
+        102191575,
+        85828471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jaFvsOqGEY4CNo3srWgmY_32.448383_-81.779799@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461914777,
+    "wof:geomhash":"ca27ad08a35db5383ee732de8b072d31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85823149,
+            "region_id":85688535,
+            "venue_id":739775887
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85828471,
+            "region_id":85688535,
+            "venue_id":739775887
+        }
+    ],
+    "wof:id":739775887,
+    "wof:lastmodified":1461914777,
+    "wof:name":"French Quarter Cafe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "french"
+    ]
+},
+  "bbox": [
+    -81.77964,
+    32.448396,
+    -81.77964,
+    32.448396
+],
+  "geometry": {"coordinates":[-81.77964,32.448396],"type":"Point"}
+}

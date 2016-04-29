@@ -1,0 +1,73 @@
+{
+  "id": 722788845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.509186,33.450842,-84.509186,33.450842",
+    "geom:latitude":33.450842,
+    "geom:longitude":-84.509186,
+    "iso:country":"US",
+    "sg:address":"1275 State Rte 54",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 716 9300",
+    "sg:postcode":"30214",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936019,
+        102081687,
+        85833669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YEOt9CEC1XvGSGWzQhWPB_33.450842_-84.509186@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888672,
+    "wof:geomhash":"a0107511133ec42f5419101840186ceb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081687,
+            "locality_id":85936019,
+            "neighbourhood_id":85833669,
+            "region_id":85688535,
+            "venue_id":722788845
+        }
+    ],
+    "wof:id":722788845,
+    "wof:lastmodified":1461888672,
+    "wof:name":"Open Fayette MRI Ctr",
+    "wof:parent_id":85833669,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.509186,
+    33.450842,
+    -84.509186,
+    33.450842
+],
+  "geometry": {"coordinates":[-84.509186,33.450842],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 739457301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.109761,33.514413,-82.109761,33.514413",
+    "geom:latitude":33.514413,
+    "geom:longitude":-82.109761,
+    "iso:country":"US",
+    "sg:address":"4014 Washington Rd",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 863 1269",
+    "sg:postcode":"30907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kBTNzPqT3i5n5p9qyanW4_33.514413_-82.109761@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907666,
+    "wof:geomhash":"7d536f3bfd6d584a994520f7e86491da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":739457301
+        }
+    ],
+    "wof:id":739457301,
+    "wof:lastmodified":1461907666,
+    "wof:name":"Performance Plus Transmission",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -82.109761,
+    33.514413,
+    -82.109761,
+    33.514413
+],
+  "geometry": {"coordinates":[-82.10976100000001,33.514413],"type":"Point"}
+}

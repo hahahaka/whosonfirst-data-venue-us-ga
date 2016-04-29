@@ -1,0 +1,71 @@
+{
+  "id": 723355301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.690766,32.911167,-83.690766,32.911167",
+    "geom:latitude":32.911167,
+    "geom:longitude":-83.690766,
+    "iso:country":"US",
+    "sg:address":"4112 Arkwright Rd",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 405 9945",
+    "sg:postcode":"31210",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85833281,
+        102084373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MFeZjrQrnDE9gv0XP8xd8_32.911167_-83.690766@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900092,
+    "wof:geomhash":"c125e854d4b778fb5521c19a285007fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084373,
+            "neighbourhood_id":85833281,
+            "region_id":85688535,
+            "venue_id":723355301
+        }
+    ],
+    "wof:id":723355301,
+    "wof:lastmodified":1461900092,
+    "wof:name":"Center For Psychiatric Care",
+    "wof:parent_id":85833281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.690766,
+    32.911167,
+    -83.690766,
+    32.911167
+],
+  "geometry": {"coordinates":[-83.690766,32.911167],"type":"Point"}
+}

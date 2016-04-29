@@ -1,0 +1,71 @@
+{
+  "id": 722704289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.768561,33.394106,-84.768561,33.394106",
+    "geom:latitude":33.394106,
+    "geom:longitude":-84.768561,
+    "iso:country":"US",
+    "sg:address":"51 Jefferson Pkwy",
+    "sg:city":"Newnan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 252 9345",
+    "sg:postcode":"30263",
+    "sg:province":"GA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936351,
+        102084443,
+        85833133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70wVIFUCj8NOfAmj8unFgo_33.394106_-84.768561@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461887050,
+    "wof:geomhash":"68663d0f4664a1bc5a94dc9750024423",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084443,
+            "locality_id":85936351,
+            "neighbourhood_id":85833133,
+            "region_id":85688535,
+            "venue_id":722704289
+        }
+    ],
+    "wof:id":722704289,
+    "wof:lastmodified":1461887050,
+    "wof:name":"Newnan Smile Center",
+    "wof:parent_id":85833133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -84.768561,
+    33.394106,
+    -84.768561,
+    33.394106
+],
+  "geometry": {"coordinates":[-84.76856100000001,33.394106],"type":"Point"}
+}

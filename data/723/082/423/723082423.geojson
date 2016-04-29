@@ -1,0 +1,71 @@
+{
+  "id": 723082423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.33927,30.815866,-83.33927,30.815866",
+    "geom:latitude":30.815866,
+    "geom:longitude":-83.33927,
+    "iso:country":"US",
+    "sg:address":"2235 Smith St",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 241 0790",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NPWUJYDKQmB3XsTd5VfWg_30.815866_-83.339270@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461894765,
+    "wof:geomhash":"000c6439766a7c7b219f3a388417ce70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843241,
+            "region_id":85688535,
+            "venue_id":723082423
+        }
+    ],
+    "wof:id":723082423,
+    "wof:lastmodified":1461894765,
+    "wof:name":"Thomas Chapel",
+    "wof:parent_id":85843241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -83.33927,
+    30.815866,
+    -83.33927,
+    30.815866
+],
+  "geometry": {"coordinates":[-83.33927,30.815866],"type":"Point"}
+}

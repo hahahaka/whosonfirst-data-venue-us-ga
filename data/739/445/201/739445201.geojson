@@ -1,0 +1,75 @@
+{
+  "id": 739445201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.51276,33.950642,-84.51276,33.950642",
+    "geom:latitude":33.950642,
+    "geom:longitude":-84.51276,
+    "iso:country":"US",
+    "sg:address":"1460 Roswell Rd",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 509 0820",
+    "sg:postcode":"30062",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936135,
+        102082313,
+        85857049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bFLcgWJycwwJuYYKnncrk_33.950642_-84.512760@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907458,
+    "wof:geomhash":"7df94fa4eefa8dd08d246320eaa166db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936135,
+            "neighbourhood_id":85857049,
+            "region_id":85688535,
+            "venue_id":739445201
+        }
+    ],
+    "wof:id":739445201,
+    "wof:lastmodified":1461907458,
+    "wof:name":"East Marietta Collision Ctr",
+    "wof:parent_id":85857049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -84.51276,
+    33.950642,
+    -84.51276,
+    33.950642
+],
+  "geometry": {"coordinates":[-84.51276,33.950642],"type":"Point"}
+}

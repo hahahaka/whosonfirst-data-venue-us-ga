@@ -1,0 +1,93 @@
+{
+  "id": 740045969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.033089,33.521394,-82.033089,33.521394",
+    "geom:latitude":33.521394,
+    "geom:longitude":-82.033089,
+    "iso:country":"US",
+    "sg:address":"2505 Reynolds Industrial Rd",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Department Of Motor Vehicles",
+            "type":"Public Place"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 739 0085",
+    "sg:postcode":"30907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "supply",
+        "signal",
+        "contractor",
+        "traffic",
+        "barricade",
+        "sign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936989,
+        102082951,
+        85876045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78ZWmnXPfKG1SwLkiJ5emn_33.521394_-82.033089@1303262639"
+    },
+    "wof:country":"US",
+    "wof:created":1461925882,
+    "wof:geomhash":"f43c0e42b4847991b503fecb4f2a77f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082951,
+            "locality_id":85936989,
+            "neighbourhood_id":85876045,
+            "region_id":85688535,
+            "venue_id":740045969
+        }
+    ],
+    "wof:id":740045969,
+    "wof:lastmodified":1461925882,
+    "wof:name":"Protection Service Inc Barricades",
+    "wof:parent_id":85876045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "signal",
+        "contractor",
+        "traffic",
+        "barricade",
+        "sign"
+    ]
+},
+  "bbox": [
+    -82.033089,
+    33.521394,
+    -82.033089,
+    33.521394
+],
+  "geometry": {"coordinates":[-82.033089,33.521394],"type":"Point"}
+}

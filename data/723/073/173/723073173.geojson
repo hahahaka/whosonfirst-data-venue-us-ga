@@ -1,0 +1,71 @@
+{
+  "id": 723073173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.740694,32.454783,-83.740694,32.454783",
+    "geom:latitude":32.454783,
+    "geom:longitude":-83.740694,
+    "iso:country":"US",
+    "sg:address":"633 General Courtney Hodge Blvd",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 987 2415",
+    "sg:postcode":"31069",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Fz75dR98U7HC5UWqVygkq_32.454783_-83.740694@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461894542,
+    "wof:geomhash":"8d6a8a261b4ee708f934bb587d8283a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":723073173
+        }
+    ],
+    "wof:id":723073173,
+    "wof:lastmodified":1461894542,
+    "wof:name":"Perry Animal Hospital",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.740694,
+    32.454783,
+    -83.740694,
+    32.454783
+],
+  "geometry": {"coordinates":[-83.740694,32.454783],"type":"Point"}
+}

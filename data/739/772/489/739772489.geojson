@@ -1,0 +1,72 @@
+{
+  "id": 739772489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.689293,32.898942,-83.689293,32.898942",
+    "geom:latitude":32.898942,
+    "geom:longitude":-83.689293,
+    "iso:country":"US",
+    "sg:address":"170 Tom Hill Sr Blvd",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/macon/205373-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 474 2492",
+    "sg:postcode":"31210",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85833281,
+        102084373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QPf8F99waEE2BuQJ1qAuP_32.898942_-83.689293@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914645,
+    "wof:geomhash":"6d87f3519281f02a862d290c59e6fe08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084373,
+            "neighbourhood_id":85833281,
+            "region_id":85688535,
+            "venue_id":739772489
+        }
+    ],
+    "wof:id":739772489,
+    "wof:lastmodified":1461914645,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85833281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -83.689293,
+    32.898942,
+    -83.689293,
+    32.898942
+],
+  "geometry": {"coordinates":[-83.68929300000001,32.898942],"type":"Point"}
+}

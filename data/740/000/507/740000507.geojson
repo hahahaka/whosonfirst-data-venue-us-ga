@@ -1,0 +1,78 @@
+{
+  "id": 740000507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.30072,33.892281,-84.30072,33.892281",
+    "geom:latitude":33.892281,
+    "geom:longitude":-84.30072,
+    "iso:country":"US",
+    "sg:address":"5399 Peachtree Blvd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 454 8062",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "outdoor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936435,
+        102084539,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7K24GqWohbS2jzFpVxXFrT_33.892281_-84.300720@1303262627"
+    },
+    "wof:country":"US",
+    "wof:created":1461923948,
+    "wof:geomhash":"d01c266b6183def821c5c074f70bf15b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":740000507
+        }
+    ],
+    "wof:id":740000507,
+    "wof:lastmodified":1461923948,
+    "wof:name":"Lamar Outdoor Advertising",
+    "wof:parent_id":85889955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outdoor"
+    ]
+},
+  "bbox": [
+    -84.30072,
+    33.892281,
+    -84.30072,
+    33.892281
+],
+  "geometry": {"coordinates":[-84.30072,33.892281],"type":"Point"}
+}

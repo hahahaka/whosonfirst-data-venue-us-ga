@@ -1,0 +1,75 @@
+{
+  "id": 723465805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.984713,34.640698,-84.984713,34.640698",
+    "geom:latitude":34.640698,
+    "geom:longitude":-84.984713,
+    "iso:country":"US",
+    "sg:address":"600 Big Oak Ln SW",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 277 9891",
+    "sg:postcode":"30721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43jAh6OxP45KmmLQnx7SMM_34.640698_-84.984713@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461902242,
+    "wof:geomhash":"8b9cd1f99b781d5de166951d20204b51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":723465805
+        }
+    ],
+    "wof:id":723465805,
+    "wof:lastmodified":1461902242,
+    "wof:name":"K L Franks Trucking",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.984713,
+    34.640698,
+    -84.984713,
+    34.640698
+],
+  "geometry": {"coordinates":[-84.984713,34.640698],"type":"Point"}
+}

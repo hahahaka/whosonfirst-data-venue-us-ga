@@ -1,0 +1,87 @@
+{
+  "id": 739472515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.949018,32.45089,-84.949018,32.45089",
+    "geom:latitude":32.45089,
+    "geom:longitude":-84.949018,
+    "iso:country":"US",
+    "sg:address":"2514 E Central St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 221 2615",
+    "sg:postcode":"31903",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85803141,
+        420518159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MtuFRNBfPhLrVUJZfg6uR_32.450890_-84.949018@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907934,
+    "wof:geomhash":"a599caa3aab90919db02c3a1a0046d89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85803141,
+            "region_id":85688535,
+            "venue_id":739472515
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":420518159,
+            "region_id":85688535,
+            "venue_id":739472515
+        }
+    ],
+    "wof:id":739472515,
+    "wof:lastmodified":1461907934,
+    "wof:name":"Leslie's Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -84.949018,
+    32.45089,
+    -84.949018,
+    32.45089
+],
+  "geometry": {"coordinates":[-84.949018,32.45089],"type":"Point"}
+}

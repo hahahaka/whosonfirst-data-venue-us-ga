@@ -1,0 +1,87 @@
+{
+  "id": 739907363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.330434,32.910401,-84.330434,32.910401",
+    "geom:latitude":32.910401,
+    "geom:longitude":-84.330434,
+    "iso:country":"US",
+    "sg:address":"865 N Church St",
+    "sg:city":"Thomaston",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 646 2878",
+    "sg:postcode":"30286",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936343,
+        102084425,
+        85816847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dvSe8thKkCRgCLRdpXdL9_32.910401_-84.330434@1303262603"
+    },
+    "wof:country":"US",
+    "wof:created":1461920099,
+    "wof:geomhash":"c16bcf6420fabb37f8b6899dc20c5f2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084425,
+            "locality_id":85936343,
+            "neighbourhood_id":85816847,
+            "region_id":85688535,
+            "venue_id":739907363
+        }
+    ],
+    "wof:id":739907363,
+    "wof:lastmodified":1461920099,
+    "wof:name":"Subway",
+    "wof:parent_id":85816847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ]
+},
+  "bbox": [
+    -84.330434,
+    32.910401,
+    -84.330434,
+    32.910401
+],
+  "geometry": {"coordinates":[-84.330434,32.910401],"type":"Point"}
+}

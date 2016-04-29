@@ -1,0 +1,83 @@
+{
+  "id": 739921925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.391985,33.752253,-84.391985,33.752253",
+    "geom:latitude":33.752253,
+    "geom:longitude":-84.391985,
+    "iso:country":"US",
+    "sg:address":"87 Peachtree St NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 448 5882",
+    "sg:postcode":"30303",
+    "sg:province":"GA",
+    "sg:tags":[
+        "cleaner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85819463,
+        85866901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16RKcUuHfVwoK8QNEoBCTR_33.752253_-84.391985@1303262607"
+    },
+    "wof:country":"US",
+    "wof:created":1461920666,
+    "wof:geomhash":"7f5cdc06cf4c1d1d411be880cac9aa2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85819463,
+            "region_id":85688535,
+            "venue_id":739921925
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85866901,
+            "region_id":85688535,
+            "venue_id":739921925
+        }
+    ],
+    "wof:id":739921925,
+    "wof:lastmodified":1461920666,
+    "wof:name":"Professional Clothing Care",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner"
+    ]
+},
+  "bbox": [
+    -84.391985,
+    33.752253,
+    -84.391985,
+    33.752253
+],
+  "geometry": {"coordinates":[-84.39198500000001,33.752253],"type":"Point"}
+}

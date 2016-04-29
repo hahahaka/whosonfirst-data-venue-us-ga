@@ -1,0 +1,89 @@
+{
+  "id": 740033681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.420199,33.947161,-83.420199,33.947161",
+    "geom:latitude":33.947161,
+    "geom:longitude":-83.420199,
+    "iso:country":"US",
+    "sg:address":"2375 W Broad St Ste C",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 546 4664",
+    "sg:postcode":"30606",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "accessory",
+        "part",
+        "painting",
+        "repairing"
+    ],
+    "sg:website":"http://www.maaco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936177,
+        102081713,
+        85802413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OLSghiODhsLhzrB7a7FSw_33.947161_-83.420199@1303262635"
+    },
+    "wof:country":"US",
+    "wof:created":1461925317,
+    "wof:geomhash":"c581ef41926dd40c9f9230c7579ae61f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081713,
+            "locality_id":85936177,
+            "neighbourhood_id":85802413,
+            "region_id":85688535,
+            "venue_id":740033681
+        }
+    ],
+    "wof:id":740033681,
+    "wof:lastmodified":1461925317,
+    "wof:name":"MAACO Collision Repair & Auto Painting",
+    "wof:parent_id":85802413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "accessory",
+        "part",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -83.420199,
+    33.947161,
+    -83.420199,
+    33.947161
+],
+  "geometry": {"coordinates":[-83.420199,33.947161],"type":"Point"}
+}

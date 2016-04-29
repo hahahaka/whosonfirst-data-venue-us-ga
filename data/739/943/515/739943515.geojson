@@ -1,0 +1,84 @@
+{
+  "id": 739943515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.378932,33.784225,-84.378932,33.784225",
+    "geom:latitude":33.784225,
+    "geom:longitude":-84.378932,
+    "iso:country":"US",
+    "sg:address":"1071 Piedmont Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 881 0000",
+    "sg:postcode":"30309",
+    "sg:province":"GA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.quattroatlanta.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872127,
+        85866909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KuuKIluyOxoGX6rUtUrqi_33.784225_-84.378932@1303262612"
+    },
+    "wof:country":"US",
+    "wof:created":1461921636,
+    "wof:geomhash":"4a9251a85fb8fe05cefe9c3273319cf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872127,
+            "region_id":85688535,
+            "venue_id":739943515
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85866909,
+            "region_id":85688535,
+            "venue_id":739943515
+        }
+    ],
+    "wof:id":739943515,
+    "wof:lastmodified":1461921636,
+    "wof:name":"Quattro",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.378932,
+    33.784225,
+    -84.378932,
+    33.784225
+],
+  "geometry": {"coordinates":[-84.37893200000001,33.784225],"type":"Point"}
+}

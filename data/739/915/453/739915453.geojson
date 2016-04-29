@@ -1,0 +1,73 @@
+{
+  "id": 739915453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.380445,33.754582,-84.380445,33.754582",
+    "geom:latitude":33.754582,
+    "geom:longitude":-84.380445,
+    "iso:country":"US",
+    "sg:address":"212 Edgewood Ave NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 688 2211",
+    "sg:postcode":"30303",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GLUwrxpygcPriR8lWs3w2_33.754582_-84.380445@1303262605"
+    },
+    "wof:country":"US",
+    "wof:created":1461920409,
+    "wof:geomhash":"f7265b0ee98b6b852142534745201abd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872043,
+            "region_id":85688535,
+            "venue_id":739915453
+        }
+    ],
+    "wof:id":739915453,
+    "wof:lastmodified":1461920409,
+    "wof:name":"Express Drugs",
+    "wof:parent_id":85872043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -84.380445,
+    33.754582,
+    -84.380445,
+    33.754582
+],
+  "geometry": {"coordinates":[-84.38044499999999,33.754582],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 739257771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.074711,33.570643,-85.074711,33.570643",
+    "geom:latitude":33.570643,
+    "geom:longitude":-85.074711,
+    "iso:country":"US",
+    "sg:address":"301 Ambulance Dr",
+    "sg:city":"Carrollton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 456 3415",
+    "sg:postcode":"30117",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937055,
+        102081719,
+        85829651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Vwmt0HVi7tRkYdACf9fjV_33.570643_-85.074711@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461903652,
+    "wof:geomhash":"e106298981fc9642d11fd421ab5f6c51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081719,
+            "locality_id":85937055,
+            "neighbourhood_id":85829651,
+            "region_id":85688535,
+            "venue_id":739257771
+        }
+    ],
+    "wof:id":739257771,
+    "wof:lastmodified":1461903652,
+    "wof:name":"Internal Medicine Assoc",
+    "wof:parent_id":85829651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -85.074711,
+    33.570643,
+    -85.074711,
+    33.570643
+],
+  "geometry": {"coordinates":[-85.07471099999999,33.570643],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 723010103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.761036,32.436243,-83.761036,32.436243",
+    "geom:latitude":32.436243,
+    "geom:longitude":-83.761036,
+    "iso:country":"US",
+    "sg:address":"120 Hicks Dr",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 987 3777",
+    "sg:postcode":"31069",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automotive",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3c3j9A6PgZSKZ9vZe35A68_32.436243_-83.761036@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461893144,
+    "wof:geomhash":"8a21cdaa8686608bd443edf4b1623f97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":723010103
+        }
+    ],
+    "wof:id":723010103,
+    "wof:lastmodified":1461893144,
+    "wof:name":"Crossroads Towing and Repair",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -83.761036,
+    32.436243,
+    -83.761036,
+    32.436243
+],
+  "geometry": {"coordinates":[-83.761036,32.436243],"type":"Point"}
+}

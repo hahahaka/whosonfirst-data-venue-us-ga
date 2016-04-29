@@ -1,0 +1,85 @@
+{
+  "id": 740063163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.491596,31.219082,-81.491596,31.219082",
+    "geom:latitude":31.219082,
+    "geom:longitude":-81.491596,
+    "iso:country":"US",
+    "sg:address":"500 Mall Blvd",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Conference Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 264 6100",
+    "sg:postcode":"31525",
+    "sg:province":"GA",
+    "sg:tags":[
+        "lodging",
+        "convention",
+        "corporate",
+        "facility"
+    ],
+    "sg:website":"http://www.esirvine.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102528339,
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85814297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V68OiAEhcGNUCbwdFGKRx_31.219082_-81.491596@1303262643"
+    },
+    "wof:country":"US",
+    "wof:created":1461926666,
+    "wof:geomhash":"b39f479f97792b8e24695fd5591fbbd1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528339,
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85814297,
+            "region_id":85688535,
+            "venue_id":740063163
+        }
+    ],
+    "wof:id":740063163,
+    "wof:lastmodified":1461926666,
+    "wof:name":"Embassy Suites Brunswick",
+    "wof:parent_id":102528339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lodging",
+        "convention",
+        "corporate",
+        "facility"
+    ]
+},
+  "bbox": [
+    -81.491596,
+    31.219082,
+    -81.491596,
+    31.219082
+],
+  "geometry": {"coordinates":[-81.491596,31.219082],"type":"Point"}
+}

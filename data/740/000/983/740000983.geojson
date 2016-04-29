@@ -1,0 +1,85 @@
+{
+  "id": 740000983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.294787,33.905597,-84.294787,33.905597",
+    "geom:latitude":33.905597,
+    "geom:longitude":-84.294787,
+    "iso:country":"US",
+    "sg:address":"5770 Peachtree Industrial Blvd Ste 109",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 300 9726",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"www.avis.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85936435,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Bre8XkY86pZEb3EWLmCSy_33.905597_-84.294787@1303262627"
+    },
+    "wof:country":"US",
+    "wof:created":1461923963,
+    "wof:geomhash":"d37f54d4846ae2f403c681c9213a6e3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":740000983
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":740000983
+        }
+    ],
+    "wof:id":740000983,
+    "wof:lastmodified":1461923963,
+    "wof:name":"Avis Rent A Car",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -84.294787,
+    33.905597,
+    -84.294787,
+    33.905597
+],
+  "geometry": {"coordinates":[-84.294787,33.905597],"type":"Point"}
+}

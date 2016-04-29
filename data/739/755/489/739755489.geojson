@@ -1,0 +1,73 @@
+{
+  "id": 739755489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.1418,33.9655,-84.1418,33.9655",
+    "geom:latitude":33.9655,
+    "geom:longitude":-84.1418,
+    "iso:country":"US",
+    "sg:address":"2443 Pleasant Hill Rd",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 622 6030",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59VxST8N5hx6n7SkvJ7z16_33.966118_-84.142355@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461913921,
+    "wof:geomhash":"b38516cdf6bb957451ae943ba6aea12e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":739755489
+        }
+    ],
+    "wof:id":739755489,
+    "wof:lastmodified":1461913921,
+    "wof:name":"Pleasant Hill Car Wash & Lube",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -84.1418,
+    33.9655,
+    -84.1418,
+    33.9655
+],
+  "geometry": {"coordinates":[-84.1418,33.9655],"type":"Point"}
+}

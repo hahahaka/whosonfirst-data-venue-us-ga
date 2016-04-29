@@ -1,0 +1,71 @@
+{
+  "id": 739248081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.571898,33.987107,-84.571898,33.987107",
+    "geom:latitude":33.987107,
+    "geom:longitude":-84.571898,
+    "iso:country":"US",
+    "sg:address":"1449 Cobb Pkwy",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 424 7799",
+    "sg:postcode":"30062",
+    "sg:province":"GA",
+    "sg:tags":[
+        "truck",
+        "lease"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IAgUMNPcX84wvjCHrFQKo_33.987107_-84.571898@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461903436,
+    "wof:geomhash":"a57eeabcc0e4f04308a08a04a14d3ee0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739248081
+        }
+    ],
+    "wof:id":739248081,
+    "wof:lastmodified":1461903436,
+    "wof:name":"NationaLease",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "lease"
+    ]
+},
+  "bbox": [
+    -84.571898,
+    33.987107,
+    -84.571898,
+    33.987107
+],
+  "geometry": {"coordinates":[-84.571898,33.987107],"type":"Point"}
+}

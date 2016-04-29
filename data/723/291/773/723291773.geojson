@@ -1,0 +1,71 @@
+{
+  "id": 723291773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.942893,34.507101,-84.942893,34.507101",
+    "geom:latitude":34.507101,
+    "geom:longitude":-84.942893,
+    "iso:country":"US",
+    "sg:address":"99 Hunt Dr NE",
+    "sg:city":"Calhoun",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 602 3339",
+    "sg:postcode":"30701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936609,
+        102084679,
+        85817247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bvJrTlnGjMjDKfB9Q3v3Q_34.507101_-84.942893@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461898909,
+    "wof:geomhash":"1719e89fd4e68e1234b9454ee64c7de1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084679,
+            "locality_id":85936609,
+            "neighbourhood_id":85817247,
+            "region_id":85688535,
+            "venue_id":723291773
+        }
+    ],
+    "wof:id":723291773,
+    "wof:lastmodified":1461898909,
+    "wof:name":"Taxi Latino",
+    "wof:parent_id":85817247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -84.942893,
+    34.507101,
+    -84.942893,
+    34.507101
+],
+  "geometry": {"coordinates":[-84.942893,34.507101],"type":"Point"}
+}

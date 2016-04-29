@@ -1,0 +1,71 @@
+{
+  "id": 723233419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.543069,33.894474,-84.543069,33.894474",
+    "geom:latitude":33.894474,
+    "geom:longitude":-84.543069,
+    "iso:country":"US",
+    "sg:address":"489 Windy Hill Rd SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 805 8314",
+    "sg:postcode":"30082",
+    "sg:province":"GA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wYQUPi3TKcESKQnOfuZ0L_33.894474_-84.543069@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897778,
+    "wof:geomhash":"2cdac98299c18912e74602a773c832cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":723233419
+        }
+    ],
+    "wof:id":723233419,
+    "wof:lastmodified":1461897778,
+    "wof:name":"David Auto Repair",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -84.543069,
+    33.894474,
+    -84.543069,
+    33.894474
+],
+  "geometry": {"coordinates":[-84.543069,33.894474],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 723368753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.710369,33.951867,-84.710369,33.951867",
+    "geom:latitude":33.951867,
+    "geom:longitude":-84.710369,
+    "iso:country":"US",
+    "sg:address":"167 Dawson Dr",
+    "sg:city":"Woodstock",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 928 6233",
+    "sg:postcode":"30127",
+    "sg:province":"GA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936129,
+        102082313,
+        85829479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1E52tEyFMjbvGmEde6K8LN_33.951867_-84.710369@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900351,
+    "wof:geomhash":"42a7baa8e85082db3b9ddadbea1ae213",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936129,
+            "neighbourhood_id":85829479,
+            "region_id":85688535,
+            "venue_id":723368753
+        }
+    ],
+    "wof:id":723368753,
+    "wof:lastmodified":1461900351,
+    "wof:name":"Thomas Mote Trucking",
+    "wof:parent_id":85829479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.710369,
+    33.951867,
+    -84.710369,
+    33.951867
+],
+  "geometry": {"coordinates":[-84.710369,33.951867],"type":"Point"}
+}

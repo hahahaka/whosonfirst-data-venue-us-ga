@@ -1,0 +1,71 @@
+{
+  "id": 723093839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.163715,34.001327,-84.163715,34.001327",
+    "geom:latitude":34.001327,
+    "geom:longitude":-84.163715,
+    "iso:country":"US",
+    "sg:address":"4141 Howell Ferry Rd",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 497 8366",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Dxehlen7sVLsZ5x5GMg3U_34.001327_-84.163715@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461894991,
+    "wof:geomhash":"76c05ebefdc0a543bf541400f16376f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":723093839
+        }
+    ],
+    "wof:id":723093839,
+    "wof:lastmodified":1461894991,
+    "wof:name":"Allison Transmissions",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -84.163715,
+    34.001327,
+    -84.163715,
+    34.001327
+],
+  "geometry": {"coordinates":[-84.163715,34.001327],"type":"Point"}
+}

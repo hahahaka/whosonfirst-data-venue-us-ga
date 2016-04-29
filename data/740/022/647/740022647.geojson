@@ -1,0 +1,87 @@
+{
+  "id": 740022647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.869911,34.317081,-83.869911,34.317081",
+    "geom:latitude":34.317081,
+    "geom:longitude":-83.869911,
+    "iso:country":"US",
+    "sg:address":"2070 Dawsonville Hwy",
+    "sg:city":"Gainesville",
+    "sg:classifiers":[
+        {
+            "category":"Harbor",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 536 0189",
+    "sg:postcode":"30501",
+    "sg:province":"GA",
+    "sg:tags":[
+        "dock",
+        "builder",
+        "terminals-river"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936861,
+        102083629,
+        85836659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4p8VNdgDWohAn8ocmKWYx7_34.317081_-83.869911@1303262633"
+    },
+    "wof:country":"US",
+    "wof:created":1461924804,
+    "wof:geomhash":"13028e15a532deffba1918ab76413891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083629,
+            "locality_id":85936861,
+            "neighbourhood_id":85836659,
+            "region_id":85688535,
+            "venue_id":740022647
+        }
+    ],
+    "wof:id":740022647,
+    "wof:lastmodified":1461924804,
+    "wof:name":"Martin Docks",
+    "wof:parent_id":85836659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dock",
+        "builder",
+        "terminals-river"
+    ]
+},
+  "bbox": [
+    -83.869911,
+    34.317081,
+    -83.869911,
+    34.317081
+],
+  "geometry": {"coordinates":[-83.869911,34.317081],"type":"Point"}
+}

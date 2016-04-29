@@ -1,0 +1,74 @@
+{
+  "id": 739773385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.167882,31.980794,-81.167882,31.980794",
+    "geom:latitude":31.980794,
+    "geom:longitude":-81.167882,
+    "iso:country":"US",
+    "sg:address":"13051 Abercorn St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/savannah/132671-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 927 8450",
+    "sg:postcode":"31419",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936939,
+        102082337,
+        85858259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kCWKNEEYf5vjg6qiMQgyB_31.980794_-81.167882@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914675,
+    "wof:geomhash":"ec376936753e224c794542f9546a6db3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85858259,
+            "region_id":85688535,
+            "venue_id":739773385
+        }
+    ],
+    "wof:id":739773385,
+    "wof:lastmodified":1461914675,
+    "wof:name":"Subway",
+    "wof:parent_id":85858259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -81.167882,
+    31.980794,
+    -81.167882,
+    31.980794
+],
+  "geometry": {"coordinates":[-81.16788200000001,31.980794],"type":"Point"}
+}

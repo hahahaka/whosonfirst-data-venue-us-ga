@@ -1,0 +1,85 @@
+{
+  "id": 740039627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.004879,34.795898,-85.004879,34.795898",
+    "geom:latitude":34.795898,
+    "geom:longitude":-85.004879,
+    "iso:country":"US",
+    "sg:address":"2220 Chattanooga Rd",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 226 4545",
+    "sg:postcode":"30720",
+    "sg:province":"GA",
+    "sg:tags":[
+        "corporate",
+        "lodging"
+    ],
+    "sg:website":"http://www.howardjohnson.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263,
+        102191575,
+        85824209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FE4pOTLTm7HZFJlQ9V3Zy_34.795898_-85.004879@1303262637"
+    },
+    "wof:country":"US",
+    "wof:created":1461925567,
+    "wof:geomhash":"7ce0ef6ba8e82687562e01666d9645c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":740039627
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85824209,
+            "region_id":85688535,
+            "venue_id":740039627
+        }
+    ],
+    "wof:id":740039627,
+    "wof:lastmodified":1461925567,
+    "wof:name":"Howard Johnson",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corporate",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -85.004879,
+    34.795898,
+    -85.004879,
+    34.795898
+],
+  "geometry": {"coordinates":[-85.004879,34.795898],"type":"Point"}
+}

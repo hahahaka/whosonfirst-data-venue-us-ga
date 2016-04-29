@@ -1,0 +1,78 @@
+{
+  "id": 739863169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.600807,34.065739,-84.600807,34.065739",
+    "geom:latitude":34.065739,
+    "geom:longitude":-84.600807,
+    "iso:country":"US",
+    "sg:address":"1810 Crescent Hill Dr NW",
+    "sg:city":"Acworth",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 598 4128",
+    "sg:postcode":"30102",
+    "sg:province":"GA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85821545,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5n1iVmXts4zP9tM364iBqw_34.065739_-84.600807@1303262592"
+    },
+    "wof:country":"US",
+    "wof:created":1461918431,
+    "wof:geomhash":"091a71dd84dd724f29a851b382a29527",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85821545,
+            "region_id":85688535,
+            "venue_id":739863169
+        }
+    ],
+    "wof:id":739863169,
+    "wof:lastmodified":1461918431,
+    "wof:name":"Lamar's Trucking",
+    "wof:parent_id":85821545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.600807,
+    34.065739,
+    -84.600807,
+    34.065739
+],
+  "geometry": {"coordinates":[-84.600807,34.065739],"type":"Point"}
+}

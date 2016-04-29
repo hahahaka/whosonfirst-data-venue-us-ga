@@ -1,0 +1,103 @@
+{
+  "id": 739862467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.664051,34.059107,-84.664051,34.059107",
+    "geom:latitude":34.059107,
+    "geom:longitude":-84.664051,
+    "iso:country":"US",
+    "sg:address":"4310 Toccoa Dr",
+    "sg:city":"Acworth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        },
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 974 2221",
+    "sg:postcode":"30101",
+    "sg:province":"GA",
+    "sg:tags":[
+        "sitting",
+        "hospital",
+        "specialty",
+        "clinic",
+        "veterinarian",
+        "boarding/pet",
+        "grooming",
+        "kennel"
+    ],
+    "sg:website":"acworthlakecitybartow.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936129,
+        102082313,
+        420517699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28YXbUV6uXjT2Wkr8hprm6_34.059107_-84.664051@1303262591"
+    },
+    "wof:country":"US",
+    "wof:created":1461918407,
+    "wof:geomhash":"9bb345c8a6bed403bf0260528ccf0180",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936129,
+            "neighbourhood_id":420517699,
+            "region_id":85688535,
+            "venue_id":739862467
+        }
+    ],
+    "wof:id":739862467,
+    "wof:lastmodified":1461918407,
+    "wof:name":"Acworth Animal Hospital",
+    "wof:parent_id":420517699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sitting",
+        "hospital",
+        "specialty",
+        "clinic",
+        "veterinarian",
+        "boarding/pet",
+        "grooming",
+        "kennel"
+    ]
+},
+  "bbox": [
+    -84.664051,
+    34.059107,
+    -84.664051,
+    34.059107
+],
+  "geometry": {"coordinates":[-84.664051,34.059107],"type":"Point"}
+}

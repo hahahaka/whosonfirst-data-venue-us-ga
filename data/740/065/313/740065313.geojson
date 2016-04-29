@@ -1,0 +1,80 @@
+{
+  "id": 740065313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.255357,30.743371,-83.255357,30.743371",
+    "geom:latitude":30.743371,
+    "geom:longitude":-83.255357,
+    "iso:country":"US",
+    "sg:address":"3462 Brown Rd",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 244 9718",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "mail",
+        "online",
+        "order",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85827233,
+        102083585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AYpHBrpGtWL85EzKhX8lK_30.743371_-83.255357@1303262644"
+    },
+    "wof:country":"US",
+    "wof:created":1461926762,
+    "wof:geomhash":"db7f06feebfb13c4889680e24fd94318",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "neighbourhood_id":85827233,
+            "region_id":85688535,
+            "venue_id":740065313
+        }
+    ],
+    "wof:id":740065313,
+    "wof:lastmodified":1461926762,
+    "wof:name":"Mary Kay Cosmetics",
+    "wof:parent_id":85827233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "online",
+        "order",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -83.255357,
+    30.743371,
+    -83.255357,
+    30.743371
+],
+  "geometry": {"coordinates":[-83.255357,30.743371],"type":"Point"}
+}

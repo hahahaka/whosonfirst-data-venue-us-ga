@@ -1,0 +1,71 @@
+{
+  "id": 722700901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.963729,34.789036,-84.963729,34.789036",
+    "geom:latitude":34.789036,
+    "geom:longitude":-84.963729,
+    "iso:country":"US",
+    "sg:address":"1218 Acme St",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 226 2705",
+    "sg:postcode":"30721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6R8mWvC2wgOLmpENpfCC7W_34.789036_-84.963729@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886985,
+    "wof:geomhash":"c70c90b6b7f841523ce60abf00cd3da6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":722700901
+        }
+    ],
+    "wof:id":722700901,
+    "wof:lastmodified":1461886985,
+    "wof:name":"Up-State Truck Repair",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -84.963729,
+    34.789036,
+    -84.963729,
+    34.789036
+],
+  "geometry": {"coordinates":[-84.963729,34.789036],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 722578227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.973192,34.780242,-84.973192,34.780242",
+    "geom:latitude":34.780242,
+    "geom:longitude":-84.973192,
+    "iso:country":"US",
+    "sg:address":"1246 Chattanooga Rd",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 278 2595",
+    "sg:postcode":"30720",
+    "sg:province":"GA",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17iSGB6v4GQSAvNiK0z2Lm_34.780242_-84.973192@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461884570,
+    "wof:geomhash":"62c829aa06fce2e21b579fea8c99fda5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":722578227
+        }
+    ],
+    "wof:id":722578227,
+    "wof:lastmodified":1461884570,
+    "wof:name":"Gulf",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -84.973192,
+    34.780242,
+    -84.973192,
+    34.780242
+],
+  "geometry": {"coordinates":[-84.973192,34.780242],"type":"Point"}
+}

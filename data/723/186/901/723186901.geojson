@@ -1,0 +1,75 @@
+{
+  "id": 723186901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.308749,30.842305,-83.308749,30.842305",
+    "geom:latitude":30.842305,
+    "geom:longitude":-83.308749,
+    "iso:country":"US",
+    "sg:address":"1757 W Gordon St",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 244 4004",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shop",
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85814215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4q7IzvkQaBMLI2EVwIBBPh_30.842305_-83.308749@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896823,
+    "wof:geomhash":"657253328eefda546a732c6752b6b325",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85814215,
+            "region_id":85688535,
+            "venue_id":723186901
+        }
+    ],
+    "wof:id":723186901,
+    "wof:lastmodified":1461896823,
+    "wof:name":"Carpenter Auto Repair",
+    "wof:parent_id":85814215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -83.308749,
+    30.842305,
+    -83.308749,
+    30.842305
+],
+  "geometry": {"coordinates":[-83.30874900000001,30.842305],"type":"Point"}
+}

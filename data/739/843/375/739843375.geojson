@@ -1,0 +1,70 @@
+{
+  "id": 739843375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.495399,33.898201,-84.495399,33.898201",
+    "geom:latitude":33.898201,
+    "geom:longitude":-84.495399,
+    "iso:country":"US",
+    "sg:address":"2170 Windy Hill Rd SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 333 9030",
+    "sg:postcode":"30080",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.windyhillvet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85845875,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fHwLvfldGtfIDc8zLevkH_33.898201_-84.495399@1303262586"
+    },
+    "wof:country":"US",
+    "wof:created":1461917636,
+    "wof:geomhash":"ea6aaeabc927bef4cbde63c4e036b695",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":739843375
+        }
+    ],
+    "wof:id":739843375,
+    "wof:lastmodified":1461917636,
+    "wof:name":"Windy Hill Veterinary Hospital",
+    "wof:parent_id":85845875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.495399,
+    33.898201,
+    -84.495399,
+    33.898201
+],
+  "geometry": {"coordinates":[-84.49539900000001,33.898201],"type":"Point"}
+}

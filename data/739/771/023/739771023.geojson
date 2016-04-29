@@ -1,0 +1,71 @@
+{
+  "id": 739771023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.962104,34.792963,-84.962104,34.792963",
+    "geom:latitude":34.792963,
+    "geom:longitude":-84.962104,
+    "iso:country":"US",
+    "sg:address":"1242 Cleveland Hwy",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/dalton/195996-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3toPVob3hCagrsO3lD4NY2_34.792963_-84.962104@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914585,
+    "wof:geomhash":"e7a8ce85f539e79a653d20d2bfd4ab78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":739771023
+        }
+    ],
+    "wof:id":739771023,
+    "wof:lastmodified":1461914585,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -84.962104,
+    34.792963,
+    -84.962104,
+    34.792963
+],
+  "geometry": {"coordinates":[-84.962104,34.792963],"type":"Point"}
+}

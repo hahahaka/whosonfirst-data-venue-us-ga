@@ -1,0 +1,83 @@
+{
+  "id": 722595957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.968487,32.446495,-84.968487,32.446495",
+    "geom:latitude":32.446495,
+    "geom:longitude":-84.968487,
+    "iso:country":"US",
+    "sg:address":"1301 Blanchard Blvd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 324 4600",
+    "sg:postcode":"31901",
+    "sg:province":"GA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85803141,
+        85882109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IvsjoARG0W8mY19SRNM2p_32.446495_-84.968487@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461884898,
+    "wof:geomhash":"cdccc278fa99473eef75df72f6693e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85803141,
+            "region_id":85688535,
+            "venue_id":722595957
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85882109,
+            "region_id":85688535,
+            "venue_id":722595957
+        }
+    ],
+    "wof:id":722595957,
+    "wof:lastmodified":1461884898,
+    "wof:name":"Hogan Transports Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.968487,
+    32.446495,
+    -84.968487,
+    32.446495
+],
+  "geometry": {"coordinates":[-84.968487,32.446495],"type":"Point"}
+}

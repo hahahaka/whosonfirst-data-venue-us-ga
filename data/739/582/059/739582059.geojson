@@ -1,0 +1,79 @@
+{
+  "id": 739582059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.996451,34.788381,-84.996451,34.788381",
+    "geom:latitude":34.788381,
+    "geom:longitude":-84.996451,
+    "iso:country":"US",
+    "sg:address":"900 Shugart Rd",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 270 5100",
+    "sg:postcode":"30720",
+    "sg:province":"GA",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "sg:website":"www.highlandrivers.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01JxgV7fbbGEtOLeUetpEP_34.788381_-84.996451@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910044,
+    "wof:geomhash":"d7b4b83248512a4cee8782d5ea4d69c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":739582059
+        }
+    ],
+    "wof:id":739582059,
+    "wof:lastmodified":1461910044,
+    "wof:name":"Georgia Highlands Center",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -84.996451,
+    34.788381,
+    -84.996451,
+    34.788381
+],
+  "geometry": {"coordinates":[-84.99645099999999,34.788381],"type":"Point"}
+}

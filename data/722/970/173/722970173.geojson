@@ -1,0 +1,75 @@
+{
+  "id": 722970173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.097341,32.005632,-81.097341,32.005632",
+    "geom:latitude":32.005632,
+    "geom:longitude":-81.097341,
+    "iso:country":"US",
+    "sg:address":"1348 Eisenhower Dr",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 351 0640",
+    "sg:postcode":"31406",
+    "sg:province":"GA",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85847011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PusKFZoT2bMiVv1nMsj2r_32.005632_-81.097341@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461892243,
+    "wof:geomhash":"b287024d575cab9dd1782175649d03ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85847011,
+            "region_id":85688535,
+            "venue_id":722970173
+        }
+    ],
+    "wof:id":722970173,
+    "wof:lastmodified":1461892243,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85847011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -81.097341,
+    32.005632,
+    -81.097341,
+    32.005632
+],
+  "geometry": {"coordinates":[-81.097341,32.005632],"type":"Point"}
+}

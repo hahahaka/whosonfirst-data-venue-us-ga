@@ -1,0 +1,84 @@
+{
+  "id": 723132139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.969402,32.512397,-84.969402,32.512397",
+    "geom:latitude":32.512397,
+    "geom:longitude":-84.969402,
+    "iso:country":"US",
+    "sg:address":"1506 50th St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 221 2796",
+    "sg:postcode":"31904",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "collision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85828445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nsGxzlQbhitk8B1LLIZ3y_32.512397_-84.969402@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461895739,
+    "wof:geomhash":"31e198b4f1d7e931875f1ea7dcc1e156",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85828445,
+            "region_id":85688535,
+            "venue_id":723132139
+        }
+    ],
+    "wof:id":723132139,
+    "wof:lastmodified":1461895739,
+    "wof:name":"Columbus Collision Center Inc",
+    "wof:parent_id":85828445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "collision"
+    ]
+},
+  "bbox": [
+    -84.969402,
+    32.512397,
+    -84.969402,
+    32.512397
+],
+  "geometry": {"coordinates":[-84.969402,32.512397],"type":"Point"}
+}

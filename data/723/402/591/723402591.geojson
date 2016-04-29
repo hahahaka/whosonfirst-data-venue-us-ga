@@ -1,0 +1,73 @@
+{
+  "id": 723402591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.177791,34.247309,-85.177791,34.247309",
+    "geom:latitude":34.247309,
+    "geom:longitude":-85.177791,
+    "iso:country":"US",
+    "sg:address":"309 S Broad St",
+    "sg:city":"Rome",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 291 0887",
+    "sg:postcode":"30161",
+    "sg:province":"GA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936575,
+        102084577,
+        85890045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2b3XZoQjiyzV19Oe2Oi9wl_34.247309_-85.177791@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901015,
+    "wof:geomhash":"77119682f887f34a5b0e44af33a30425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084577,
+            "locality_id":85936575,
+            "neighbourhood_id":85890045,
+            "region_id":85688535,
+            "venue_id":723402591
+        }
+    ],
+    "wof:id":723402591,
+    "wof:lastmodified":1461901015,
+    "wof:name":"Interstate Taxi Cab",
+    "wof:parent_id":85890045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -85.177791,
+    34.247309,
+    -85.177791,
+    34.247309
+],
+  "geometry": {"coordinates":[-85.177791,34.247309],"type":"Point"}
+}

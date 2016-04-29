@@ -1,0 +1,71 @@
+{
+  "id": 723423299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.637745,33.951625,-84.637745,33.951625",
+    "geom:latitude":33.951625,
+    "geom:longitude":-84.637745,
+    "iso:country":"US",
+    "sg:address":"253 Grosvenor Pl SW",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 951 8395",
+    "sg:postcode":"30064",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automobile",
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cIaE6m9OMAlk8tB1AOJTa_33.951625_-84.637745@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901427,
+    "wof:geomhash":"2c2a13db23e48c2c1eacf4c395ffc501",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":723423299
+        }
+    ],
+    "wof:id":723423299,
+    "wof:lastmodified":1461901427,
+    "wof:name":"Emissions Management Inc",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -84.637745,
+    33.951625,
+    -84.637745,
+    33.951625
+],
+  "geometry": {"coordinates":[-84.637745,33.951625],"type":"Point"}
+}

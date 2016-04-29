@@ -1,0 +1,88 @@
+{
+  "id": 739775903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.836922,34.296854,-83.836922,34.296854",
+    "geom:latitude":34.296854,
+    "geom:longitude":-83.836922,
+    "iso:country":"US",
+    "sg:address":"944 Dawsonville Hwy",
+    "sg:city":"Gainesville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/gainesville/156671-atlanta-bread-company/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 297 9700",
+    "sg:postcode":"30501",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "bakery",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936861,
+        102083629,
+        85836659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WBefKaAfuONda4c8TYSCb_34.296882_-83.837568@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461914778,
+    "wof:geomhash":"a169b8ddfd0f6284994802f8339cf4d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083629,
+            "locality_id":85936861,
+            "neighbourhood_id":85836659,
+            "region_id":85688535,
+            "venue_id":739775903
+        }
+    ],
+    "wof:id":739775903,
+    "wof:lastmodified":1461914778,
+    "wof:name":"Atlanta Bread Company",
+    "wof:parent_id":85836659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "bakery",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -83.836922,
+    34.296854,
+    -83.836922,
+    34.296854
+],
+  "geometry": {"coordinates":[-83.836922,34.296854],"type":"Point"}
+}

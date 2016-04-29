@@ -1,0 +1,77 @@
+{
+  "id": 722805339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.711545,32.820608,-83.711545,32.820608",
+    "geom:latitude":32.820608,
+    "geom:longitude":-83.711545,
+    "iso:country":"US",
+    "sg:address":"4634 Presidential Pkwy",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 474 6764",
+    "sg:postcode":"31206",
+    "sg:province":"GA",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936517,
+        102084373,
+        85831689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AdACxQOiBeMd1LSZvnEBX_32.820608_-83.711545@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888980,
+    "wof:geomhash":"38a20c615bcf0f46519ed105f4b4cfc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084373,
+            "locality_id":85936517,
+            "neighbourhood_id":85831689,
+            "region_id":85688535,
+            "venue_id":722805339
+        }
+    ],
+    "wof:id":722805339,
+    "wof:lastmodified":1461888980,
+    "wof:name":"Pet Grooming",
+    "wof:parent_id":85831689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -83.711545,
+    32.820608,
+    -83.711545,
+    32.820608
+],
+  "geometry": {"coordinates":[-83.711545,32.820608],"type":"Point"}
+}

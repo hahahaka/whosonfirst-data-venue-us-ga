@@ -1,0 +1,84 @@
+{
+  "id": 739824585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.527859,34.029784,-84.527859,34.029784",
+    "geom:latitude":34.029784,
+    "geom:longitude":-84.527859,
+    "iso:country":"US",
+    "sg:address":"3205 Canton Rd",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Day Spa",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 427 4254",
+    "sg:postcode":"30066",
+    "sg:province":"GA",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "sg:website":"http://www.salonmalini.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936135,
+        102082313,
+        85857049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZFsHhMHa3lCa20UgYVcu8_34.029784_-84.527859@1303262581"
+    },
+    "wof:country":"US",
+    "wof:created":1461916876,
+    "wof:geomhash":"1acf763012268b0ceaf0db04c61c7194",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936135,
+            "neighbourhood_id":85857049,
+            "region_id":85688535,
+            "venue_id":739824585
+        }
+    ],
+    "wof:id":739824585,
+    "wof:lastmodified":1461916876,
+    "wof:name":"Salon Malini",
+    "wof:parent_id":85857049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [
+    -84.527859,
+    34.029784,
+    -84.527859,
+    34.029784
+],
+  "geometry": {"coordinates":[-84.52785900000001,34.029784],"type":"Point"}
+}

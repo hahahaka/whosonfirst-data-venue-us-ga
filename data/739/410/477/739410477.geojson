@@ -1,0 +1,83 @@
+{
+  "id": 739410477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.275445,33.907275,-84.275445,33.907275",
+    "geom:latitude":33.907275,
+    "geom:longitude":-84.275445,
+    "iso:country":"US",
+    "sg:address":"3897 Flowers Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 451 3297",
+    "sg:postcode":"30360",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        420559931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eVT0DfmL6UqJBD5IMNeZY_33.907275_-84.275445@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461906774,
+    "wof:geomhash":"cdb42c71c184c0fef9db24c55fbe8364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":739410477
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":420559931,
+            "region_id":85688535,
+            "venue_id":739410477
+        }
+    ],
+    "wof:id":739410477,
+    "wof:lastmodified":1461906774,
+    "wof:name":"Don's Beauty Salon",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.275445,
+    33.907275,
+    -84.275445,
+    33.907275
+],
+  "geometry": {"coordinates":[-84.275445,33.907275],"type":"Point"}
+}

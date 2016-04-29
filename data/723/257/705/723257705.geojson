@@ -1,0 +1,73 @@
+{
+  "id": 723257705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.660533,34.061777,-84.660533,34.061777",
+    "geom:latitude":34.061777,
+    "geom:longitude":-84.660533,
+    "iso:country":"US",
+    "sg:address":"4400 Acworth Industrial Dr NW",
+    "sg:city":"Acworth",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 000 1111",
+    "sg:postcode":"30101",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936129,
+        102082313,
+        420517699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Dmqx01ToEeiAQOQ9qsY5c_34.061777_-84.660533@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461898264,
+    "wof:geomhash":"2735ef0a4ef9d6c80d896b50b16a0eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936129,
+            "neighbourhood_id":420517699,
+            "region_id":85688535,
+            "venue_id":723257705
+        }
+    ],
+    "wof:id":723257705,
+    "wof:lastmodified":1461898264,
+    "wof:name":"City Police",
+    "wof:parent_id":420517699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.660533,
+    34.061777,
+    -84.660533,
+    34.061777
+],
+  "geometry": {"coordinates":[-84.660533,34.061777],"type":"Point"}
+}

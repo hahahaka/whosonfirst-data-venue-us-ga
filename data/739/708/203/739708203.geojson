@@ -1,0 +1,88 @@
+{
+  "id": 739708203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.316098,30.818503,-83.316098,30.818503",
+    "geom:latitude":30.818503,
+    "geom:longitude":-83.316098,
+    "iso:country":"US",
+    "sg:address":"2102 W Hill Ave",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 241 7795",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "plaza",
+        "gasoline",
+        "stops",
+        "banking",
+        "station",
+        "truck",
+        "depository"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41JKsAOwVMzX7LDzpnagaI_30.818503_-83.316098@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461912742,
+    "wof:geomhash":"ca92678eb1579ec09b14e54a6a04a0f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843241,
+            "region_id":85688535,
+            "venue_id":739708203
+        }
+    ],
+    "wof:id":739708203,
+    "wof:lastmodified":1461912742,
+    "wof:name":"Buzz's Auto Truck Plaza",
+    "wof:parent_id":85843241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plaza",
+        "gasoline",
+        "stops",
+        "banking",
+        "station",
+        "truck",
+        "depository"
+    ]
+},
+  "bbox": [
+    -83.316098,
+    30.818503,
+    -83.316098,
+    30.818503
+],
+  "geometry": {"coordinates":[-83.316098,30.818503],"type":"Point"}
+}

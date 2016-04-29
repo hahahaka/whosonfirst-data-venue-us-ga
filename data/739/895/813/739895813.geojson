@@ -1,0 +1,71 @@
+{
+  "id": 739895813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.874817,33.041384,-84.874817,33.041384",
+    "geom:latitude":33.041384,
+    "geom:longitude":-84.874817,
+    "iso:country":"US",
+    "sg:address":"203 Wood Rd",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 882 6980",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38t7kk7gKDkiuOPat4hj6Y_33.041384_-84.874817@1303262600"
+    },
+    "wof:country":"US",
+    "wof:created":1461919653,
+    "wof:geomhash":"0638e10fb01e101aa876b6f9cd13bc9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739895813
+        }
+    ],
+    "wof:id":739895813,
+    "wof:lastmodified":1461919653,
+    "wof:name":"Mountville Fire Station",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.874817,
+    33.041384,
+    -84.874817,
+    33.041384
+],
+  "geometry": {"coordinates":[-84.87481699999999,33.041384],"type":"Point"}
+}

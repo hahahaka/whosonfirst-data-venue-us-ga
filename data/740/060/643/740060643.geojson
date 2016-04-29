@@ -1,0 +1,85 @@
+{
+  "id": 740060643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.22728,31.979931,-81.22728,31.979931",
+    "geom:latitude":31.979931,
+    "geom:longitude":-81.22728,
+    "iso:country":"US",
+    "sg:address":"1425 King George Blvd 1A",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 925 0588",
+    "sg:postcode":"31419",
+    "sg:province":"GA",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "sg:website":"http://www.trailsapts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936939,
+        102082337,
+        85858259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CkSK9fZlc5bKcAiYmJRzW_31.979931_-81.227280@1303262642"
+    },
+    "wof:country":"US",
+    "wof:created":1461926553,
+    "wof:geomhash":"2caa3068eee5f6d093642f5bf34dd9e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85858259,
+            "region_id":85688535,
+            "venue_id":740060643
+        }
+    ],
+    "wof:id":740060643,
+    "wof:lastmodified":1461926553,
+    "wof:name":"Kings Colony Apartments",
+    "wof:parent_id":85858259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [
+    -81.22728,
+    31.979931,
+    -81.22728,
+    31.979931
+],
+  "geometry": {"coordinates":[-81.22727999999999,31.979931],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 739770997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.9186,34.775833,-84.9186,34.775833",
+    "geom:latitude":34.775833,
+    "geom:longitude":-84.9186,
+    "iso:country":"US",
+    "sg:address":"2914 E Walnut Ave",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/dalton/205338-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 272 0532",
+    "sg:postcode":"30721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_148FyyM7RC5GVi8h9FTOro_34.775833_-84.918600@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914584,
+    "wof:geomhash":"141acf5785c54f81465fe966b914a1da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":739770997
+        }
+    ],
+    "wof:id":739770997,
+    "wof:lastmodified":1461914584,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -84.9186,
+    34.775833,
+    -84.9186,
+    34.775833
+],
+  "geometry": {"coordinates":[-84.9186,34.775833],"type":"Point"}
+}

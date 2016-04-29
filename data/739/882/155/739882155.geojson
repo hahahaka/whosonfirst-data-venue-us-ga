@@ -1,0 +1,76 @@
+{
+  "id": 739882155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.802022,33.90169,-84.802022,33.90169",
+    "geom:latitude":33.90169,
+    "geom:longitude":-84.802022,
+    "iso:country":"US",
+    "sg:address":"51 Cadillac Pkwy",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 443 1075",
+    "sg:postcode":"30157",
+    "sg:province":"GA",
+    "sg:tags":[
+        "grocers-specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936335,
+        102084665,
+        85835843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51ZpvYPWk9zpMJj5U0Vc14_33.901690_-84.802022@1303262596"
+    },
+    "wof:country":"US",
+    "wof:created":1461919136,
+    "wof:geomhash":"a126f628276bf1d0c36bce935524bfb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "locality_id":85936335,
+            "neighbourhood_id":85835843,
+            "region_id":85688535,
+            "venue_id":739882155
+        }
+    ],
+    "wof:id":739882155,
+    "wof:lastmodified":1461919136,
+    "wof:name":"Marathon Food Mart",
+    "wof:parent_id":85835843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocers-specialty"
+    ]
+},
+  "bbox": [
+    -84.802022,
+    33.90169,
+    -84.802022,
+    33.90169
+],
+  "geometry": {"coordinates":[-84.80202199999999,33.90169],"type":"Point"}
+}

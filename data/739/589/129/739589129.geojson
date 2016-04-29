@@ -1,0 +1,71 @@
+{
+  "id": 739589129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.029807,33.080352,-85.029807,33.080352",
+    "geom:latitude":33.080352,
+    "geom:longitude":-85.029807,
+    "iso:country":"US",
+    "sg:address":"1462 New Franklin Rd",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 882 0054",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Wpnqb3TOfHrNGS7fSC0y5_33.080352_-85.029807@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910179,
+    "wof:geomhash":"e7b0fea52acbc5d5a6945ef75d7d8708",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739589129
+        }
+    ],
+    "wof:id":739589129,
+    "wof:lastmodified":1461910179,
+    "wof:name":"Franklin Road Animal Clinic",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -85.029807,
+    33.080352,
+    -85.029807,
+    33.080352
+],
+  "geometry": {"coordinates":[-85.02980700000001,33.080352],"type":"Point"}
+}

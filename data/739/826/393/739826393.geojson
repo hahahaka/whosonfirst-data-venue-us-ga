@@ -1,0 +1,85 @@
+{
+  "id": 739826393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.487053,33.908508,-84.487053,33.908508",
+    "geom:latitude":33.908508,
+    "geom:longitude":-84.487053,
+    "iso:country":"US",
+    "sg:address":"1854 Terrell Mill Rd SE",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 541 4688",
+    "sg:postcode":"30067",
+    "sg:province":"GA",
+    "sg:tags":[
+        "laundries-self",
+        "operated",
+        "washer",
+        "dryer",
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818985,
+        102082313,
+        85845875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_329IEOtelmnP4JGMWGjI9B_33.908508_-84.487053@1303262582"
+    },
+    "wof:country":"US",
+    "wof:created":1461916946,
+    "wof:geomhash":"4308b8602ad7d94d7897698c625611fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85818985,
+            "region_id":85688535,
+            "venue_id":739826393
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":739826393
+        }
+    ],
+    "wof:id":739826393,
+    "wof:lastmodified":1461916946,
+    "wof:name":"Coin Laundry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laundries-self",
+        "operated",
+        "washer",
+        "dryer",
+        "coin"
+    ]
+},
+  "bbox": [
+    -84.487053,
+    33.908508,
+    -84.487053,
+    33.908508
+],
+  "geometry": {"coordinates":[-84.487053,33.908508],"type":"Point"}
+}

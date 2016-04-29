@@ -1,0 +1,84 @@
+{
+  "id": 740059505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.075144,32.019277,-81.075144,32.019277",
+    "geom:latitude":32.019277,
+    "geom:longitude":-81.075144,
+    "iso:country":"US",
+    "sg:address":"5406 Skidaway Rd",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 352 2203",
+    "sg:postcode":"31406",
+    "sg:province":"GA",
+    "sg:tags":[
+        "landscaping",
+        "leasing",
+        "yard",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85820033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aQhLd2sTDIr1SkQz2XrQV_32.019277_-81.075144@1303262642"
+    },
+    "wof:country":"US",
+    "wof:created":1461926510,
+    "wof:geomhash":"d373957297355aacc26b36bba4ab49a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85820033,
+            "region_id":85688535,
+            "venue_id":740059505
+        }
+    ],
+    "wof:id":740059505,
+    "wof:lastmodified":1461926510,
+    "wof:name":"Acme Sales Service & Rental",
+    "wof:parent_id":85820033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscaping",
+        "leasing",
+        "yard",
+        "store"
+    ]
+},
+  "bbox": [
+    -81.075144,
+    32.019277,
+    -81.075144,
+    32.019277
+],
+  "geometry": {"coordinates":[-81.07514399999999,32.019277],"type":"Point"}
+}

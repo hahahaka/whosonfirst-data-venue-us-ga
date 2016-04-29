@@ -1,0 +1,72 @@
+{
+  "id": 739766343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.788536,33.958056,-84.788536,33.958056",
+    "geom:latitude":33.958056,
+    "geom:longitude":-84.788536,
+    "iso:country":"US",
+    "sg:address":"33 E Paulding Dr",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/dallas/132376-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 947 7033",
+    "sg:postcode":"30157",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85835699,
+        102084665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2B6SJCUZUpDA4sWwfm8IpF_33.958056_-84.788536@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914396,
+    "wof:geomhash":"26fee8d671e7463a301ed8743d6c88d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "neighbourhood_id":85835699,
+            "region_id":85688535,
+            "venue_id":739766343
+        }
+    ],
+    "wof:id":739766343,
+    "wof:lastmodified":1461914396,
+    "wof:name":"Subway",
+    "wof:parent_id":85835699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.788536,
+    33.958056,
+    -84.788536,
+    33.958056
+],
+  "geometry": {"coordinates":[-84.78853599999999,33.958056],"type":"Point"}
+}

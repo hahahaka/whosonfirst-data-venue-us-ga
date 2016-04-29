@@ -1,0 +1,71 @@
+{
+  "id": 722766039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.128422,33.949761,-84.128422,33.949761",
+    "geom:latitude":33.949761,
+    "geom:longitude":-84.128422,
+    "iso:country":"US",
+    "sg:address":"1843 Pleasant Hill Rd",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 564 3151",
+    "sg:postcode":"30044",
+    "sg:province":"GA",
+    "sg:tags":[
+        "convenience",
+        "station"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35e2MTvR7YBvqI1aYpT1AW_33.949761_-84.128422@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888229,
+    "wof:geomhash":"7c39e2939efc9f7a572f21ad96378fe4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":722766039
+        }
+    ],
+    "wof:id":722766039,
+    "wof:lastmodified":1461888229,
+    "wof:name":"Chevron",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convenience",
+        "station"
+    ]
+},
+  "bbox": [
+    -84.128422,
+    33.949761,
+    -84.128422,
+    33.949761
+],
+  "geometry": {"coordinates":[-84.128422,33.949761],"type":"Point"}
+}

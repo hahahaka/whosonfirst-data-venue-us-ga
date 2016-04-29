@@ -1,0 +1,73 @@
+{
+  "id": 739772263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.646213,32.618322,-83.646213,32.618322",
+    "geom:latitude":32.618322,
+    "geom:longitude":-83.646213,
+    "iso:country":"US",
+    "sg:address":"1998 Watson Blvd",
+    "sg:city":"Warner Robins",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/warner-robins/196095-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"31093",
+    "sg:province":"GA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936249,
+        102083617,
+        85826507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ouWLODBAebwIKhyoNDeWh_32.618322_-83.646213@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914633,
+    "wof:geomhash":"14f4c9dc404bb2b6c30168d2c008a36f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85826507,
+            "region_id":85688535,
+            "venue_id":739772263
+        }
+    ],
+    "wof:id":739772263,
+    "wof:lastmodified":1461914633,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85826507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -83.646213,
+    32.618322,
+    -83.646213,
+    32.618322
+],
+  "geometry": {"coordinates":[-83.646213,32.618322],"type":"Point"}
+}

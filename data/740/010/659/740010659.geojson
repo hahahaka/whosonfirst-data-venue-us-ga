@@ -1,0 +1,78 @@
+{
+  "id": 740010659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.343767,33.927475,-84.343767,33.927475",
+    "geom:latitude":33.927475,
+    "geom:longitude":-84.343767,
+    "iso:country":"US",
+    "sg:address":"123 Perimeter Center W Ste 200",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 579 0090",
+    "sg:postcode":"30346",
+    "sg:province":"GA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        420559925,
+        85890003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_424Mo0xFKRdT0tM8M6R5Eh_33.927475_-84.343767@1303262629"
+    },
+    "wof:country":"US",
+    "wof:created":1461924340,
+    "wof:geomhash":"3a530cc3fe6d0f13a09a804b3ba50f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":420559925,
+            "region_id":85688535,
+            "venue_id":740010659
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890003,
+            "region_id":85688535,
+            "venue_id":740010659
+        }
+    ],
+    "wof:id":740010659,
+    "wof:lastmodified":1461924340,
+    "wof:name":"Five Guys",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.343767,
+    33.927475,
+    -84.343767,
+    33.927475
+],
+  "geometry": {"coordinates":[-84.343767,33.927475],"type":"Point"}
+}

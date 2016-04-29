@@ -1,0 +1,86 @@
+{
+  "id": 722901273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.282416,33.924822,-84.282416,33.924822",
+    "geom:latitude":33.924822,
+    "geom:longitude":-84.282416,
+    "iso:country":"US",
+    "sg:address":"4430 Tilly Mill Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 455 0978",
+    "sg:postcode":"30360",
+    "sg:province":"GA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85936467,
+        85890023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05OYRwpg436f0l6qjTi6ce_33.924822_-84.282416@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461890813,
+    "wof:geomhash":"a96ba6ccfca5599bbf09641c933e0115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":722901273
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890023,
+            "region_id":85688535,
+            "venue_id":722901273
+        }
+    ],
+    "wof:id":722901273,
+    "wof:lastmodified":1461890813,
+    "wof:name":"Wyndham Creek Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.282416,
+    33.924822,
+    -84.282416,
+    33.924822
+],
+  "geometry": {"coordinates":[-84.282416,33.924822],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 739754201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.449527,33.652739,-84.449527,33.652739",
+    "geom:latitude":33.652739,
+    "geom:longitude":-84.449527,
+    "iso:country":"US",
+    "sg:address":"3755 Main St",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 768 2007",
+    "sg:postcode":"30337",
+    "sg:province":"GA",
+    "sg:tags":[
+        "interior",
+        "home",
+        "decor",
+        "decorator",
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526927,
+        85688535,
+        85633793,
+        102082333,
+        85815707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OS1xpHPEsAA5XGE6cvHoa_33.652732_-84.449645@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461913875,
+    "wof:geomhash":"05c400589fc43a31a57fc99ff3a594b4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526927,
+            "country_id":85633793,
+            "county_id":102082333,
+            "neighbourhood_id":85815707,
+            "region_id":85688535,
+            "venue_id":739754201
+        }
+    ],
+    "wof:id":739754201,
+    "wof:lastmodified":1461913875,
+    "wof:name":"Georgia Decorating Service",
+    "wof:parent_id":102526927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "home",
+        "decor",
+        "decorator",
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -84.449527,
+    33.652739,
+    -84.449527,
+    33.652739
+],
+  "geometry": {"coordinates":[-84.449527,33.652739],"type":"Point"}
+}

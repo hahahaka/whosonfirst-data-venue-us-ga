@@ -1,0 +1,84 @@
+{
+  "id": 739869933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.851681,34.129413,-84.851681,34.129413",
+    "geom:latitude":34.129413,
+    "geom:longitude":-84.851681,
+    "iso:country":"US",
+    "sg:address":"1336 Highway 113 SW",
+    "sg:city":"Cartersville",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 607 4259",
+    "sg:postcode":"30120",
+    "sg:province":"GA",
+    "sg:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ],
+    "sg:website":"http://www.pizzahut.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85853435,
+        102082937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mQtWkI15zO7iqudp105Fb_34.129413_-84.851681@1303262593"
+    },
+    "wof:country":"US",
+    "wof:created":1461918686,
+    "wof:geomhash":"d0090c89a41ca5d7051a060d2dd6da68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082937,
+            "neighbourhood_id":85853435,
+            "region_id":85688535,
+            "venue_id":739869933
+        }
+    ],
+    "wof:id":739869933,
+    "wof:lastmodified":1461918686,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85853435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.851681,
+    34.129413,
+    -84.851681,
+    34.129413
+],
+  "geometry": {"coordinates":[-84.851681,34.129413],"type":"Point"}
+}

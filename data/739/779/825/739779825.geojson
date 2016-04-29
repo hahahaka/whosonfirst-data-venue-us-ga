@@ -1,0 +1,80 @@
+{
+  "id": 739779825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.588501,33.879799,-84.588501,33.879799",
+    "geom:latitude":33.879799,
+    "geom:longitude":-84.588501,
+    "iso:country":"US",
+    "sg:address":"3045 Austell Rd SW",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 433 9300",
+    "sg:postcode":"30008",
+    "sg:province":"GA",
+    "sg:tags":[
+        "loan",
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4R2GIyN2eHBhouMzP8DVGz_33.879799_-84.588501@1303262570"
+    },
+    "wof:country":"US",
+    "wof:created":1461914940,
+    "wof:geomhash":"549bb0ce177a9803f49b7ff4220b6bec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":739779825
+        }
+    ],
+    "wof:id":739779825,
+    "wof:lastmodified":1461914940,
+    "wof:name":"Mortgages",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -84.588501,
+    33.879799,
+    -84.588501,
+    33.879799
+],
+  "geometry": {"coordinates":[-84.58850099999999,33.879799],"type":"Point"}
+}

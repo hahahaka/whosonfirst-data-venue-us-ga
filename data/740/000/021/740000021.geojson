@@ -1,0 +1,84 @@
+{
+  "id": 740000021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.307154,33.89357,-84.307154,33.89357",
+    "geom:latitude":33.89357,
+    "geom:longitude":-84.307154,
+    "iso:country":"US",
+    "sg:address":"5305 Peachtree Industrial",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 986 0270",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "mover"
+    ],
+    "sg:website":"www.guardianselfstorageinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936435,
+        102084539,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VpdHNxwdAKpoRv6gWJmCo_33.893570_-84.307154@1303262627"
+    },
+    "wof:country":"US",
+    "wof:created":1461923932,
+    "wof:geomhash":"dc62521ae8889be23c857e90e0bdca68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":740000021
+        }
+    ],
+    "wof:id":740000021,
+    "wof:lastmodified":1461923932,
+    "wof:name":"Guardian Self Storage",
+    "wof:parent_id":85889955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -84.307154,
+    33.89357,
+    -84.307154,
+    33.89357
+],
+  "geometry": {"coordinates":[-84.307154,33.89357],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 723045901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.929127,32.523807,-84.929127,32.523807",
+    "geom:latitude":32.523807,
+    "geom:longitude":-84.929127,
+    "iso:country":"US",
+    "sg:address":"3849 Miller Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 561 1309",
+    "sg:postcode":"31909",
+    "sg:province":"GA",
+    "sg:tags":[
+        "cleaners",
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        420518103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YaN0McJ8ASob4A5yQrSbq_32.523807_-84.929127@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461893929,
+    "wof:geomhash":"20486039190fd9ff221aa8771339de35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":420518103,
+            "region_id":85688535,
+            "venue_id":723045901
+        }
+    ],
+    "wof:id":723045901,
+    "wof:lastmodified":1461893929,
+    "wof:name":"U S Cleaners",
+    "wof:parent_id":420518103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "coin"
+    ]
+},
+  "bbox": [
+    -84.929127,
+    32.523807,
+    -84.929127,
+    32.523807
+],
+  "geometry": {"coordinates":[-84.92912699999999,32.523807],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 739849171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.196513,33.83877,-84.196513,33.83877",
+    "geom:latitude":33.83877,
+    "geom:longitude":-84.196513,
+    "iso:country":"US",
+    "sg:address":"4732 Stone Dr Ste B",
+    "sg:city":"Tucker",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 939 9979",
+    "sg:postcode":"30084",
+    "sg:province":"GA",
+    "sg:tags":[
+        "container",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937263,
+        102084539,
+        85890037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d155t7DiFU7IswWGij7Cn_33.838770_-84.196513@1303262588"
+    },
+    "wof:country":"US",
+    "wof:created":1461917877,
+    "wof:geomhash":"bb42d1d9b32d1599a6ccb5c776763396",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937263,
+            "neighbourhood_id":85890037,
+            "region_id":85688535,
+            "venue_id":739849171
+        }
+    ],
+    "wof:id":739849171,
+    "wof:lastmodified":1461917877,
+    "wof:name":"Freight Movement Express, Inc.",
+    "wof:parent_id":85890037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "container",
+        "broker"
+    ]
+},
+  "bbox": [
+    -84.196513,
+    33.83877,
+    -84.196513,
+    33.83877
+],
+  "geometry": {"coordinates":[-84.196513,33.83877],"type":"Point"}
+}

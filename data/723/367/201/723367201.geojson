@@ -1,0 +1,73 @@
+{
+  "id": 723367201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.033301,33.043414,-85.033301,33.043414",
+    "geom:latitude":33.043414,
+    "geom:longitude":-85.033301,
+    "iso:country":"US",
+    "sg:address":"208 Smith St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 845 7002",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DYdCguNmhCzMMHyPta8WD_33.043414_-85.033301@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900325,
+    "wof:geomhash":"63858fa44e4a3547c3933f6ba5789c76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":723367201
+        }
+    ],
+    "wof:id":723367201,
+    "wof:lastmodified":1461900325,
+    "wof:name":"Warm Springs Institution",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -85.033301,
+    33.043414,
+    -85.033301,
+    33.043414
+],
+  "geometry": {"coordinates":[-85.03330099999999,33.043414],"type":"Point"}
+}

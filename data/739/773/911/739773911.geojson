@@ -1,0 +1,72 @@
+{
+  "id": 739773911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.310708,30.821165,-83.310708,30.821165",
+    "geom:latitude":30.821165,
+    "geom:longitude":-83.310708,
+    "iso:country":"US",
+    "sg:address":"1830 W Hill Ave",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/valdosta/91647-shoneys-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 247 1516",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AszezKLIMqR1p0mGZ0cuv_30.821165_-83.310708@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914706,
+    "wof:geomhash":"320df243315d61652d68653ba4a9d713",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843241,
+            "region_id":85688535,
+            "venue_id":739773911
+        }
+    ],
+    "wof:id":739773911,
+    "wof:lastmodified":1461914706,
+    "wof:name":"Shoney's Restaurant",
+    "wof:parent_id":85843241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -83.310708,
+    30.821165,
+    -83.310708,
+    30.821165
+],
+  "geometry": {"coordinates":[-83.31070800000001,30.821165],"type":"Point"}
+}

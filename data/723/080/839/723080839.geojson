@@ -1,0 +1,71 @@
+{
+  "id": 723080839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.513264,34.508958,-84.513264,34.508958",
+    "geom:latitude":34.508958,
+    "geom:longitude":-84.513264,
+    "iso:country":"US",
+    "sg:address":"100 Antioch Church Rd",
+    "sg:city":"Talking Rock",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 276 4197",
+    "sg:postcode":"30175",
+    "sg:province":"GA",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85846359,
+        102083619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17umg8a2s4e68iHABA65bp_34.508958_-84.513264@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461894720,
+    "wof:geomhash":"326cc47f5d34dbe5e13a8d08d017ee2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083619,
+            "neighbourhood_id":85846359,
+            "region_id":85688535,
+            "venue_id":723080839
+        }
+    ],
+    "wof:id":723080839,
+    "wof:lastmodified":1461894720,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85846359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -84.513264,
+    34.508958,
+    -84.513264,
+    34.508958
+],
+  "geometry": {"coordinates":[-84.51326400000001,34.508958],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 723500323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.09407,33.508941,-82.09407,33.508941",
+    "geom:latitude":33.508941,
+    "geom:longitude":-82.09407,
+    "iso:country":"US",
+    "sg:address":"210 Bobby Jones Expy",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 855 1865",
+    "sg:postcode":"30907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BBPTK51ICqJlu1PxEChwg_33.508941_-82.094070@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461902969,
+    "wof:geomhash":"d462646f6b584d6c00006c3179c422ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":723500323
+        }
+    ],
+    "wof:id":723500323,
+    "wof:lastmodified":1461902969,
+    "wof:name":"Roger D Brown MD",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -82.09407,
+    33.508941,
+    -82.09407,
+    33.508941
+],
+  "geometry": {"coordinates":[-82.09407,33.508941],"type":"Point"}
+}

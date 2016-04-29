@@ -1,0 +1,78 @@
+{
+  "id": 722857151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.610705,34.031833,-84.610705,34.031833",
+    "geom:latitude":34.031833,
+    "geom:longitude":-84.610705,
+    "iso:country":"US",
+    "sg:address":"2024 Jebs Ct",
+    "sg:city":"Kennesaw",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 893 4606",
+    "sg:postcode":"30144",
+    "sg:province":"GA",
+    "sg:tags":[
+        "product",
+        "health",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85821545,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79rEn1kTahh29Sv59RulXg_34.031833_-84.610705@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461889958,
+    "wof:geomhash":"6bad8a817820babeb86c7c8386a97f25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85821545,
+            "region_id":85688535,
+            "venue_id":722857151
+        }
+    ],
+    "wof:id":722857151,
+    "wof:lastmodified":1461889958,
+    "wof:name":"Animal Crackers LLC",
+    "wof:parent_id":85821545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "health",
+        "animal"
+    ]
+},
+  "bbox": [
+    -84.610705,
+    34.031833,
+    -84.610705,
+    34.031833
+],
+  "geometry": {"coordinates":[-84.610705,34.031833],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 740000239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.274826,33.880568,-84.274826,33.880568",
+    "geom:latitude":33.880568,
+    "geom:longitude":-84.274826,
+    "iso:country":"US",
+    "sg:address":"2781 Chamblee Tucker Road",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 451 7565",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936435,
+        102084539,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MYDbOVH2VvrJzABhrMquJ_33.880568_-84.274826@1303262627"
+    },
+    "wof:country":"US",
+    "wof:created":1461923939,
+    "wof:geomhash":"29e7b0b1fc0b09bf08049fd55f770139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":740000239
+        }
+    ],
+    "wof:id":740000239,
+    "wof:lastmodified":1461923939,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85889955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.274826,
+    33.880568,
+    -84.274826,
+    33.880568
+],
+  "geometry": {"coordinates":[-84.274826,33.880568],"type":"Point"}
+}

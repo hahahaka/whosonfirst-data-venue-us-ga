@@ -1,0 +1,79 @@
+{
+  "id": 740041889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.138397,33.546356,-82.138397,33.546356",
+    "geom:latitude":33.546356,
+    "geom:longitude":-82.138397,
+    "iso:country":"US",
+    "sg:address":"815 Fripp Ct",
+    "sg:city":"Evans",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 855 2255",
+    "sg:postcode":"30809",
+    "sg:province":"GA",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "sg:website":"http://www.metrobrokers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0blbVJtyVURxS2duUeCfi8_33.546356_-82.138397@1303262637"
+    },
+    "wof:country":"US",
+    "wof:created":1461925711,
+    "wof:geomhash":"925973e0f35d526b103628afb98139ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":740041889
+        }
+    ],
+    "wof:id":740041889,
+    "wof:lastmodified":1461925711,
+    "wof:name":"Metro Brokers",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -82.138397,
+    33.546356,
+    -82.138397,
+    33.546356
+],
+  "geometry": {"coordinates":[-82.138397,33.546356],"type":"Point"}
+}

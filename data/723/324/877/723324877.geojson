@@ -1,0 +1,83 @@
+{
+  "id": 723324877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.275397,33.901542,-84.275397,33.901542",
+    "geom:latitude":33.901542,
+    "geom:longitude":-84.275397,
+    "iso:country":"US",
+    "sg:address":"5499 Buford Hwy NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 455 6461",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        420559931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LMYkFDmfdb58x71Jz69PT_33.901542_-84.275397@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899539,
+    "wof:geomhash":"08968de51e486259e3923bc3d8cc064c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":723324877
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":420559931,
+            "region_id":85688535,
+            "venue_id":723324877
+        }
+    ],
+    "wof:id":723324877,
+    "wof:lastmodified":1461899539,
+    "wof:name":"El Sol Taqueria",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -84.275397,
+    33.901542,
+    -84.275397,
+    33.901542
+],
+  "geometry": {"coordinates":[-84.275397,33.901542],"type":"Point"}
+}

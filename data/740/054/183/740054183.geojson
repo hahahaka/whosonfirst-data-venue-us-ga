@@ -1,0 +1,89 @@
+{
+  "id": 740054183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.635951,32.836698,-83.635951,32.836698",
+    "geom:latitude":32.836698,
+    "geom:longitude":-83.635951,
+    "iso:country":"US",
+    "sg:address":"606 Spring St",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 746 4578",
+    "sg:postcode":"31201",
+    "sg:province":"GA",
+    "sg:tags":[
+        "denture",
+        "laboratory",
+        "dental",
+        "dentists-prosthodontists"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936517,
+        102084373,
+        85837705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Gj0pF3dpvAb1taxBO4rQp_32.836698_-83.635951@1303262641"
+    },
+    "wof:country":"US",
+    "wof:created":1461926285,
+    "wof:geomhash":"4b4ae0effa7058d29078d3271dc63cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084373,
+            "locality_id":85936517,
+            "neighbourhood_id":85837705,
+            "region_id":85688535,
+            "venue_id":740054183
+        }
+    ],
+    "wof:id":740054183,
+    "wof:lastmodified":1461926285,
+    "wof:name":"Abbott Denture Lab",
+    "wof:parent_id":85837705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "denture",
+        "laboratory",
+        "dental",
+        "dentists-prosthodontists"
+    ]
+},
+  "bbox": [
+    -83.635951,
+    32.836698,
+    -83.635951,
+    32.836698
+],
+  "geometry": {"coordinates":[-83.63595100000001,32.836698],"type":"Point"}
+}

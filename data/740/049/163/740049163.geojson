@@ -1,0 +1,87 @@
+{
+  "id": 740049163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.262944,33.420751,-83.262944,33.420751",
+    "geom:latitude":33.420751,
+    "geom:longitude":-83.262944,
+    "iso:country":"US",
+    "sg:address":"111 Sweet Magnolia Ln",
+    "sg:city":"Eatonton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 485 4886",
+    "sg:postcode":"31024",
+    "sg:province":"GA",
+    "sg:tags":[
+        "apartment",
+        "vacancy",
+        "listing",
+        "rental",
+        "finder"
+    ],
+    "sg:website":"http://www.crossroadslakeoconee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936877,
+        102084585,
+        85826761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00Dzq9ed8rdn9UOMkWP7gH_33.420751_-83.262944@1303262639"
+    },
+    "wof:country":"US",
+    "wof:created":1461926048,
+    "wof:geomhash":"d86b9382747e661184f8f42e31801d3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084585,
+            "locality_id":85936877,
+            "neighbourhood_id":85826761,
+            "region_id":85688535,
+            "venue_id":740049163
+        }
+    ],
+    "wof:id":740049163,
+    "wof:lastmodified":1461926048,
+    "wof:name":"The Crossroads at Lake Oconee",
+    "wof:parent_id":85826761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "vacancy",
+        "listing",
+        "rental",
+        "finder"
+    ]
+},
+  "bbox": [
+    -83.262944,
+    33.420751,
+    -83.262944,
+    33.420751
+],
+  "geometry": {"coordinates":[-83.262944,33.420751],"type":"Point"}
+}

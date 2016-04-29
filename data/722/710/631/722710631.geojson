@@ -1,0 +1,71 @@
+{
+  "id": 722710631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.253121,33.740351,-84.253121,33.740351",
+    "geom:latitude":33.740351,
+    "geom:longitude":-84.253121,
+    "iso:country":"US",
+    "sg:address":"1737 Columbia Dr",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 289 2001",
+    "sg:postcode":"30032",
+    "sg:province":"GA",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85816491,
+        102084539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Hedjtr6cKJfYTEbBDT0VO_33.740351_-84.253121@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461887165,
+    "wof:geomhash":"5f62cd70dedc4563cbe496aa59d78aa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":722710631
+        }
+    ],
+    "wof:id":722710631,
+    "wof:lastmodified":1461887165,
+    "wof:name":"New Life Dental Lab",
+    "wof:parent_id":85816491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -84.253121,
+    33.740351,
+    -84.253121,
+    33.740351
+],
+  "geometry": {"coordinates":[-84.25312099999999,33.740351],"type":"Point"}
+}

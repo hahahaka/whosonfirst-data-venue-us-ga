@@ -1,0 +1,75 @@
+{
+  "id": 723003231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.687933,32.851457,-83.687933,32.851457",
+    "geom:latitude":32.851457,
+    "geom:longitude":-83.687933,
+    "iso:country":"US",
+    "sg:address":"3756 Napier Ave",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 474 9301",
+    "sg:postcode":"31204",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937045,
+        102084373,
+        85808013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QME6snpTUnsWeHpT1qLoj_32.851457_-83.687933@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461893004,
+    "wof:geomhash":"8883c6a40b8421307a30ffce68d855cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084373,
+            "locality_id":85937045,
+            "neighbourhood_id":85808013,
+            "region_id":85688535,
+            "venue_id":723003231
+        }
+    ],
+    "wof:id":723003231,
+    "wof:lastmodified":1461893004,
+    "wof:name":"Autoworks Inc",
+    "wof:parent_id":85808013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.687933,
+    32.851457,
+    -83.687933,
+    32.851457
+],
+  "geometry": {"coordinates":[-83.687933,32.851457],"type":"Point"}
+}

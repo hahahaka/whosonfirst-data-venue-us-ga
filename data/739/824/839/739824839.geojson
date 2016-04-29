@@ -1,0 +1,92 @@
+{
+  "id": 739824839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.562715,33.98693,-84.562715,33.98693",
+    "geom:latitude":33.98693,
+    "geom:longitude":-84.562715,
+    "iso:country":"US",
+    "sg:address":"1455 Field Park Cir",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 422 3890",
+    "sg:postcode":"30066",
+    "sg:province":"GA",
+    "sg:tags":[
+        "renting",
+        "moving-self",
+        "leasing",
+        "truck",
+        "van",
+        "moving",
+        "trailer"
+    ],
+    "sg:website":"http://www.ryder.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CP2Ux3qGYnoewxIKAPvQ0_33.986930_-84.562715@1303262581"
+    },
+    "wof:country":"US",
+    "wof:created":1461916885,
+    "wof:geomhash":"ba19a4ab5308062f58a2008ede3e9f75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739824839
+        }
+    ],
+    "wof:id":739824839,
+    "wof:lastmodified":1461916885,
+    "wof:name":"Ryder",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "moving-self",
+        "leasing",
+        "truck",
+        "van",
+        "moving",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -84.562715,
+    33.98693,
+    -84.562715,
+    33.98693
+],
+  "geometry": {"coordinates":[-84.562715,33.98693],"type":"Point"}
+}

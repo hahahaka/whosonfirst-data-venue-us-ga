@@ -1,0 +1,71 @@
+{
+  "id": 722589765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.120926,33.93845,-84.120926,33.93845",
+    "geom:latitude":33.93845,
+    "geom:longitude":-84.120926,
+    "iso:country":"US",
+    "sg:address":"1350 Pleasant Hill Rd",
+    "sg:city":"Lawrenceville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 381 1825",
+    "sg:postcode":"30044",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BC1mvVEy6unD9pp8EZfyk_33.938450_-84.120926@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461884789,
+    "wof:geomhash":"5c3a48c2c1306515eba66f3bcd60d3da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":722589765
+        }
+    ],
+    "wof:id":722589765,
+    "wof:lastmodified":1461884789,
+    "wof:name":"Valvoline Instant Oil Change",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -84.120926,
+    33.93845,
+    -84.120926,
+    33.93845
+],
+  "geometry": {"coordinates":[-84.120926,33.93845],"type":"Point"}
+}

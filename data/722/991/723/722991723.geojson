@@ -1,0 +1,75 @@
+{
+  "id": 722991723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.640268,32.808128,-83.640268,32.808128",
+    "geom:latitude":32.808128,
+    "geom:longitude":-83.640268,
+    "iso:country":"US",
+    "sg:address":"205 Raines Ave",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 781 7411",
+    "sg:postcode":"31206",
+    "sg:province":"GA",
+    "sg:tags":[
+        "company",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936517,
+        102084373,
+        420517203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1M3i1EoU21p4GeLX68qEMI_32.808128_-83.640268@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461892723,
+    "wof:geomhash":"9c108c55b52d09eca89f553d63afbaec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084373,
+            "locality_id":85936517,
+            "neighbourhood_id":420517203,
+            "region_id":85688535,
+            "venue_id":722991723
+        }
+    ],
+    "wof:id":722991723,
+    "wof:lastmodified":1461892723,
+    "wof:name":"USFreightways",
+    "wof:parent_id":420517203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.640268,
+    32.808128,
+    -83.640268,
+    32.808128
+],
+  "geometry": {"coordinates":[-83.64026800000001,32.808128],"type":"Point"}
+}

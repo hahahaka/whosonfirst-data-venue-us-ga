@@ -1,0 +1,91 @@
+{
+  "id": 740036239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.469414,33.596537,-83.469414,33.596537",
+    "geom:latitude":33.596537,
+    "geom:longitude":-83.469414,
+    "iso:country":"US",
+    "sg:address":"220 W Washington St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 752 1445",
+    "sg:postcode":"30650",
+    "sg:province":"GA",
+    "sg:tags":[
+        "tavern",
+        "banquet",
+        "hall",
+        "reception",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937061,
+        102081701,
+        85805009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DC0vYHz9lUEEVMlyaE3bY_33.596537_-83.469414@1303262636"
+    },
+    "wof:country":"US",
+    "wof:created":1461925422,
+    "wof:geomhash":"05576ac5629062fd965e037e0798473d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081701,
+            "locality_id":85937061,
+            "neighbourhood_id":85805009,
+            "region_id":85688535,
+            "venue_id":740036239
+        }
+    ],
+    "wof:id":740036239,
+    "wof:lastmodified":1461925422,
+    "wof:name":"Town 220 Bistro",
+    "wof:parent_id":85805009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern",
+        "banquet",
+        "hall",
+        "reception",
+        "facility"
+    ]
+},
+  "bbox": [
+    -83.469414,
+    33.596537,
+    -83.469414,
+    33.596537
+],
+  "geometry": {"coordinates":[-83.469414,33.596537],"type":"Point"}
+}

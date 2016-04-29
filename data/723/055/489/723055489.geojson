@@ -1,0 +1,75 @@
+{
+  "id": 723055489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.892533,34.127784,-83.892533,34.127784",
+    "geom:latitude":34.127784,
+    "geom:longitude":-83.892533,
+    "iso:country":"US",
+    "sg:address":"6707 Spring Head Dr",
+    "sg:city":"Flowery Branch",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 262 3425",
+    "sg:postcode":"30542",
+    "sg:province":"GA",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936863,
+        102083629,
+        85850511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XmqeyETEhnUjN2i9i3o0W_34.127784_-83.892533@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461894119,
+    "wof:geomhash":"10eb1f1e35a6fdd117a0163ec388fbd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083629,
+            "locality_id":85936863,
+            "neighbourhood_id":85850511,
+            "region_id":85688535,
+            "venue_id":723055489
+        }
+    ],
+    "wof:id":723055489,
+    "wof:lastmodified":1461894119,
+    "wof:name":"Pet Grooming",
+    "wof:parent_id":85850511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -83.892533,
+    34.127784,
+    -83.892533,
+    34.127784
+],
+  "geometry": {"coordinates":[-83.892533,34.127784],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 739768769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.332944,33.829998,-84.332944,33.829998",
+    "geom:latitude":33.829998,
+    "geom:longitude":-84.332944,
+    "iso:country":"US",
+    "sg:address":"2210 N Druid Hills Rd NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/atlanta-decatur/203154-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30329",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937259,
+        102084539,
+        420517723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48AZiG7UGIXcplaXeli7zW_33.829998_-84.332944@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914498,
+    "wof:geomhash":"ac923d2e9dbac9fb8705df8d15f95c6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937259,
+            "neighbourhood_id":420517723,
+            "region_id":85688535,
+            "venue_id":739768769
+        }
+    ],
+    "wof:id":739768769,
+    "wof:lastmodified":1461914498,
+    "wof:name":"McDonald's",
+    "wof:parent_id":420517723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.332944,
+    33.829998,
+    -84.332944,
+    33.829998
+],
+  "geometry": {"coordinates":[-84.332944,33.829998],"type":"Point"}
+}

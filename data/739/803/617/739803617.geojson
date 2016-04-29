@@ -1,0 +1,79 @@
+{
+  "id": 739803617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.065589,34.256154,-84.065589,34.256154",
+    "geom:latitude":34.256154,
+    "geom:longitude":-84.065589,
+    "iso:country":"US",
+    "sg:address":"4905 Hammond Industrial Dr",
+    "sg:city":"Cumming",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 513 4408",
+    "sg:postcode":"30041",
+    "sg:province":"GA",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "sg:website":"http://www.specialtyappliances.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936811,
+        102082317,
+        85842073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VwLRt613gQSkCkIQ9BPro_34.256154_-84.065589@1303262576"
+    },
+    "wof:country":"US",
+    "wof:created":1461915952,
+    "wof:geomhash":"6097bdd79df6b3b266b5f586df447a45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082317,
+            "locality_id":85936811,
+            "neighbourhood_id":85842073,
+            "region_id":85688535,
+            "venue_id":739803617
+        }
+    ],
+    "wof:id":739803617,
+    "wof:lastmodified":1461915952,
+    "wof:name":"Specialty Appliances",
+    "wof:parent_id":85842073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -84.065589,
+    34.256154,
+    -84.065589,
+    34.256154
+],
+  "geometry": {"coordinates":[-84.065589,34.256154],"type":"Point"}
+}

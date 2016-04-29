@@ -1,0 +1,81 @@
+{
+  "id": 739816363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.54184,33.903164,-84.54184,33.903164",
+    "geom:latitude":33.903164,
+    "geom:longitude":-84.54184,
+    "iso:country":"US",
+    "sg:address":"2055 S Cobb Dr SE",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 432 1042",
+    "sg:postcode":"30060",
+    "sg:province":"GA",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"https://www.wachovia.com/?DCMP=KNL-CPS-DS-Directory-0703&HBX_PK=Banks&HBX_OU=71",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85845875,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GMgwztf0RDHu1ZbF4g10u_33.903164_-84.541840@1303262579"
+    },
+    "wof:country":"US",
+    "wof:created":1461916557,
+    "wof:geomhash":"7568001210b28f99e4608b48a220c181",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":739816363
+        }
+    ],
+    "wof:id":739816363,
+    "wof:lastmodified":1461916557,
+    "wof:name":"Wachovia Bank",
+    "wof:parent_id":85845875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -84.54184,
+    33.903164,
+    -84.54184,
+    33.903164
+],
+  "geometry": {"coordinates":[-84.54183999999999,33.903164],"type":"Point"}
+}

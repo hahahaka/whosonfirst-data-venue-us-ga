@@ -1,0 +1,82 @@
+{
+  "id": 723192755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.746057,32.467738,-83.746057,32.467738",
+    "geom:latitude":32.467738,
+    "geom:longitude":-83.746057,
+    "iso:country":"US",
+    "sg:address":"400 Valley Dr",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 987 3070",
+    "sg:postcode":"31069",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "parts",
+        "marine",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vXDM4MihR7qFExt3IG5Mz_32.467738_-83.746057@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896933,
+    "wof:geomhash":"45e9ffbe410d777978ea280ed5a98889",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":723192755
+        }
+    ],
+    "wof:id":723192755,
+    "wof:lastmodified":1461896933,
+    "wof:name":"Sports Center Parts & Service",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "parts",
+        "marine",
+        "boat"
+    ]
+},
+  "bbox": [
+    -83.746057,
+    32.467738,
+    -83.746057,
+    32.467738
+],
+  "geometry": {"coordinates":[-83.74605699999999,32.467738],"type":"Point"}
+}

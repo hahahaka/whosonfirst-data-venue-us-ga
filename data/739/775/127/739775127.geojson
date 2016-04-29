@@ -1,0 +1,83 @@
+{
+  "id": 739775127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.305579,33.793422,-84.305579,33.793422",
+    "geom:latitude":33.793422,
+    "geom:longitude":-84.305579,
+    "iso:country":"US",
+    "sg:address":"1365 Clairmont Rd",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/atlanta-decatur/136584-smoothie-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 634 1177",
+    "sg:postcode":"30033",
+    "sg:province":"GA",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936441,
+        102084539,
+        85890029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nZtHEmX0g5beHVieG60zV_33.793691_-84.305454@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461914751,
+    "wof:geomhash":"8a6e0e48b177baf79093eaa4057c77bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936441,
+            "neighbourhood_id":85890029,
+            "region_id":85688535,
+            "venue_id":739775127
+        }
+    ],
+    "wof:id":739775127,
+    "wof:lastmodified":1461914751,
+    "wof:name":"Smoothie King",
+    "wof:parent_id":85890029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.305579,
+    33.793422,
+    -84.305579,
+    33.793422
+],
+  "geometry": {"coordinates":[-84.30557899999999,33.793422],"type":"Point"}
+}

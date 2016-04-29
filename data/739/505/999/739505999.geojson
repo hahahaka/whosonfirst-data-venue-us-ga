@@ -1,0 +1,71 @@
+{
+  "id": 739505999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.270399,33.914733,-84.270399,33.914733",
+    "geom:latitude":33.914733,
+    "geom:longitude":-84.270399,
+    "iso:country":"US",
+    "sg:address":"2715 Woodwin Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 458 8568",
+    "sg:postcode":"30360",
+    "sg:province":"GA",
+    "sg:tags":[
+        "transmission",
+        "distribution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pxVhzP09o8eykpcA7M2L9_33.914733_-84.270399@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461908535,
+    "wof:geomhash":"b65594b926c23105ae4d60d297c4b1cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":739505999
+        }
+    ],
+    "wof:id":739505999,
+    "wof:lastmodified":1461908535,
+    "wof:name":"Ameri Gas Inc",
+    "wof:parent_id":85889941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "distribution"
+    ]
+},
+  "bbox": [
+    -84.270399,
+    33.914733,
+    -84.270399,
+    33.914733
+],
+  "geometry": {"coordinates":[-84.270399,33.914733],"type":"Point"}
+}

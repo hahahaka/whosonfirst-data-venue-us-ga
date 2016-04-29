@@ -1,0 +1,76 @@
+{
+  "id": 739774651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.954735,32.506684,-84.954735,32.506684",
+    "geom:latitude":32.506684,
+    "geom:longitude":-84.954735,
+    "iso:country":"US",
+    "sg:address":"2640 Manchester Expy",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/columbus/56032-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 323 1101",
+    "sg:postcode":"31904",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85811533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25nRXA590yg62ZSd5gUeiK_32.506684_-84.954735@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914735,
+    "wof:geomhash":"f85f4bd0e6f3bc52b0fc945390421b9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85811533,
+            "region_id":85688535,
+            "venue_id":739774651
+        }
+    ],
+    "wof:id":739774651,
+    "wof:lastmodified":1461914735,
+    "wof:name":"Subway",
+    "wof:parent_id":85811533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.954735,
+    32.506684,
+    -84.954735,
+    32.506684
+],
+  "geometry": {"coordinates":[-84.954735,32.506684],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 739890005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.429298,33.509399,-84.429298,33.509399",
+    "geom:latitude":33.509399,
+    "geom:longitude":-84.429298,
+    "iso:country":"US",
+    "sg:address":"105 Carnegie Pl Ste 109",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 460 2120",
+    "sg:postcode":"30214",
+    "sg:province":"GA",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85823041,
+        102081687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4X57DBvZvquj7K8xx8aelV_33.509399_-84.429298@1303262599"
+    },
+    "wof:country":"US",
+    "wof:created":1461919431,
+    "wof:geomhash":"f1b64272debc3a4cfbfc466e4ebf4d62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081687,
+            "neighbourhood_id":85823041,
+            "region_id":85688535,
+            "venue_id":739890005
+        }
+    ],
+    "wof:id":739890005,
+    "wof:lastmodified":1461919431,
+    "wof:name":"Mitchell Steven A DDS",
+    "wof:parent_id":85823041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [
+    -84.429298,
+    33.509399,
+    -84.429298,
+    33.509399
+],
+  "geometry": {"coordinates":[-84.429298,33.509399],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 723119879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.124728,33.951236,-84.124728,33.951236",
+    "geom:latitude":33.951236,
+    "geom:longitude":-84.124728,
+    "iso:country":"US",
+    "sg:address":"3450 Breckinridge Blvd",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 643 7038",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KQkv6YucLwwwEnQvRcqI5_33.951236_-84.124728@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461895517,
+    "wof:geomhash":"846058337033280f268b5663481d5ce8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":723119879
+        }
+    ],
+    "wof:id":723119879,
+    "wof:lastmodified":1461895517,
+    "wof:name":"L C Electric",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.124728,
+    33.951236,
+    -84.124728,
+    33.951236
+],
+  "geometry": {"coordinates":[-84.124728,33.951236],"type":"Point"}
+}

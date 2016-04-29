@@ -1,0 +1,80 @@
+{
+  "id": 723235811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.793709,31.202343,-83.793709,31.202343",
+    "geom:latitude":31.202343,
+    "geom:longitude":-83.793709,
+    "iso:country":"US",
+    "sg:address":"1307 Sylvester Dr",
+    "sg:city":"Moultrie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 985 7880",
+    "sg:postcode":"31768",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body",
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936781,
+        102084501,
+        420517709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_015eBuCysw3WyKhGhbZ1fQ_31.202343_-83.793709@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897824,
+    "wof:geomhash":"5ec8c15107925cc9803af5e625d0dff9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084501,
+            "locality_id":85936781,
+            "neighbourhood_id":420517709,
+            "region_id":85688535,
+            "venue_id":723235811
+        }
+    ],
+    "wof:id":723235811,
+    "wof:lastmodified":1461897824,
+    "wof:name":"Jerry's Top Shop",
+    "wof:parent_id":420517709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -83.793709,
+    31.202343,
+    -83.793709,
+    31.202343
+],
+  "geometry": {"coordinates":[-83.79370900000001,31.202343],"type":"Point"}
+}

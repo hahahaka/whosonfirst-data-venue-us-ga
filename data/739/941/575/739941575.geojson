@@ -1,0 +1,83 @@
+{
+  "id": 739941575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.387813,33.789262,-84.387813,33.789262",
+    "geom:latitude":33.789262,
+    "geom:longitude":-84.387813,
+    "iso:country":"US",
+    "sg:address":"1270 W Peachtree Street NW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 875 8666",
+    "sg:postcode":"30309",
+    "sg:province":"GA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85866909,
+        85807999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kL3pN3ZkbK0EMbUFkPSgO_33.789262_-84.387813@1303262611"
+    },
+    "wof:country":"US",
+    "wof:created":1461921534,
+    "wof:geomhash":"f53d15e2afe04a2c1984b5f0c179c1f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85866909,
+            "region_id":85688535,
+            "venue_id":739941575
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85807999,
+            "region_id":85688535,
+            "venue_id":739941575
+        }
+    ],
+    "wof:id":739941575,
+    "wof:lastmodified":1461921534,
+    "wof:name":"Arts Center Tower",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.387813,
+    33.789262,
+    -84.387813,
+    33.789262
+],
+  "geometry": {"coordinates":[-84.38781299999999,33.789262],"type":"Point"}
+}

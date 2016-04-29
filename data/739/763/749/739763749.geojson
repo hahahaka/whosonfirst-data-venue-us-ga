@@ -1,0 +1,74 @@
+{
+  "id": 739763749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.939657,33.880381,-83.939657,33.880381",
+    "geom:latitude":33.880381,
+    "geom:longitude":-83.939657,
+    "iso:country":"US",
+    "sg:address":"260 Cooper Rd",
+    "sg:city":"Loganville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/snellville-grayson/180767-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 513 8288",
+    "sg:postcode":"30052",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85854851,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ipQUBtV6WB0rqmAn7BChT_33.880381_-83.939657@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914290,
+    "wof:geomhash":"9c48873e8689b00a98916491d978fdfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85854851,
+            "region_id":85688535,
+            "venue_id":739763749
+        }
+    ],
+    "wof:id":739763749,
+    "wof:lastmodified":1461914290,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85854851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -83.939657,
+    33.880381,
+    -83.939657,
+    33.880381
+],
+  "geometry": {"coordinates":[-83.939657,33.880381],"type":"Point"}
+}

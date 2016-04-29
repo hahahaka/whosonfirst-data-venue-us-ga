@@ -1,0 +1,75 @@
+{
+  "id": 722850321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.168406,31.555972,-84.168406,31.555972",
+    "geom:latitude":31.555972,
+    "geom:longitude":-84.168406,
+    "iso:country":"US",
+    "sg:address":"2025 Newton Rd",
+    "sg:city":"Albany",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 435 8346",
+    "sg:postcode":"31701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body",
+        "paint",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935991,
+        102084427,
+        85822061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ljh1GX9JUTSm09txLWf4T_31.555972_-84.168406@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461889830,
+    "wof:geomhash":"464618ab840601ebc106e8f12ffb4da7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":85822061,
+            "region_id":85688535,
+            "venue_id":722850321
+        }
+    ],
+    "wof:id":722850321,
+    "wof:lastmodified":1461889830,
+    "wof:name":"Worldwide Paint & Body",
+    "wof:parent_id":85822061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "paint",
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.168406,
+    31.555972,
+    -84.168406,
+    31.555972
+],
+  "geometry": {"coordinates":[-84.168406,31.555972],"type":"Point"}
+}

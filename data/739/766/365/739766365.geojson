@@ -1,0 +1,75 @@
+{
+  "id": 739766365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.1623,34.248952,-85.1623,34.248952",
+    "geom:latitude":34.248952,
+    "geom:longitude":-85.1623,
+    "iso:country":"US",
+    "sg:address":"1504 Turner Mccall Blvd SW",
+    "sg:city":"Rome",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/rome/202552-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30161",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936575,
+        102084577,
+        85890045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Sw78cMPjqbFTlV7hgAe5s_34.248952_-85.162300@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914397,
+    "wof:geomhash":"9a7ae02669158abccbdf56208363ab03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084577,
+            "locality_id":85936575,
+            "neighbourhood_id":85890045,
+            "region_id":85688535,
+            "venue_id":739766365
+        }
+    ],
+    "wof:id":739766365,
+    "wof:lastmodified":1461914397,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85890045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.1623,
+    34.248952,
+    -85.1623,
+    34.248952
+],
+  "geometry": {"coordinates":[-85.1623,34.248952],"type":"Point"}
+}

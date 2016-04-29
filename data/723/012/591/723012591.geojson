@@ -1,0 +1,71 @@
+{
+  "id": 723012591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.099432,33.513747,-82.099432,33.513747",
+    "geom:latitude":33.513747,
+    "geom:longitude":-82.099432,
+    "iso:country":"US",
+    "sg:address":"3910 Desoto Dr",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 863 7745",
+    "sg:postcode":"30907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hS6p6a03sfSwvxnmdafxq_33.513747_-82.099432@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461893193,
+    "wof:geomhash":"2051b7e9148a840a1aeddae615b36fa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":723012591
+        }
+    ],
+    "wof:id":723012591,
+    "wof:lastmodified":1461893193,
+    "wof:name":"Martinez Fire Dept",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -82.099432,
+    33.513747,
+    -82.099432,
+    33.513747
+],
+  "geometry": {"coordinates":[-82.09943199999999,33.513747],"type":"Point"}
+}

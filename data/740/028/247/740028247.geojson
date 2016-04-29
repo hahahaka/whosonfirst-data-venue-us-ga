@@ -1,0 +1,91 @@
+{
+  "id": 740028247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.392842,34.896577,-83.392842,34.896577",
+    "geom:latitude":34.896577,
+    "geom:longitude":-83.392842,
+    "iso:country":"US",
+    "sg:address":"1551 Highway 441 N",
+    "sg:city":"Clayton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Painting Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 782 4664",
+    "sg:postcode":"30525",
+    "sg:province":"GA",
+    "sg:tags":[
+        "paint",
+        "store",
+        "improvement"
+    ],
+    "sg:website":"http://www.homedepot.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936141,
+        102081683,
+        85821415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0c9c3Nrsx822fZUoYisi6E_34.896577_-83.392842@1303262634"
+    },
+    "wof:country":"US",
+    "wof:created":1461925090,
+    "wof:geomhash":"dd5a2253fac735b17b2d14ad69db124c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081683,
+            "locality_id":85936141,
+            "neighbourhood_id":85821415,
+            "region_id":85688535,
+            "venue_id":740028247
+        }
+    ],
+    "wof:id":740028247,
+    "wof:lastmodified":1461925090,
+    "wof:name":"The Home Depot",
+    "wof:parent_id":85821415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "store",
+        "improvement"
+    ]
+},
+  "bbox": [
+    -83.392842,
+    34.896577,
+    -83.392842,
+    34.896577
+],
+  "geometry": {"coordinates":[-83.392842,34.896577],"type":"Point"}
+}

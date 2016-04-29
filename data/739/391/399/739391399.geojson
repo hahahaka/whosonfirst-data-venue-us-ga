@@ -1,0 +1,80 @@
+{
+  "id": 739391399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.707611,32.788113,-83.707611,32.788113",
+    "geom:latitude":32.788113,
+    "geom:longitude":-83.707611,
+    "iso:country":"US",
+    "sg:address":"5590 Bloomfield Rd",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 781 4417",
+    "sg:postcode":"31206",
+    "sg:province":"GA",
+    "sg:tags":[
+        "coin",
+        "washing",
+        "mach"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936517,
+        102084373,
+        85806435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pqugXZNgGXwapobY6JJCr_32.788113_-83.707611@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461906412,
+    "wof:geomhash":"4f4b8db40f5dff3946be11ad186fb65f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084373,
+            "locality_id":85936517,
+            "neighbourhood_id":85806435,
+            "region_id":85688535,
+            "venue_id":739391399
+        }
+    ],
+    "wof:id":739391399,
+    "wof:lastmodified":1461906412,
+    "wof:name":"Bloomfield Coin Laundry",
+    "wof:parent_id":85806435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin",
+        "washing",
+        "mach"
+    ]
+},
+  "bbox": [
+    -83.707611,
+    32.788113,
+    -83.707611,
+    32.788113
+],
+  "geometry": {"coordinates":[-83.707611,32.788113],"type":"Point"}
+}

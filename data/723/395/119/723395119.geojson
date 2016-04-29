@@ -1,0 +1,71 @@
+{
+  "id": 723395119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.650354,31.834323,-81.650354,31.834323",
+    "geom:latitude":31.834323,
+    "geom:longitude":-81.650354,
+    "iso:country":"US",
+    "sg:address":"226 Turtle Ln",
+    "sg:city":"Hinesville",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 876 3434",
+    "sg:postcode":"31313",
+    "sg:province":"GA",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937305,
+        102082901,
+        85806839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PTQTIolBGKQoanHPwQUwF_31.834323_-81.650354@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900875,
+    "wof:geomhash":"dc62f0dbe7eb88680c891c3746000725",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082901,
+            "locality_id":85937305,
+            "neighbourhood_id":85806839,
+            "region_id":85688535,
+            "venue_id":723395119
+        }
+    ],
+    "wof:id":723395119,
+    "wof:lastmodified":1461900875,
+    "wof:name":"Clark's Professional Care Co",
+    "wof:parent_id":85806839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -81.650354,
+    31.834323,
+    -81.650354,
+    31.834323
+],
+  "geometry": {"coordinates":[-81.65035399999999,31.834323],"type":"Point"}
+}

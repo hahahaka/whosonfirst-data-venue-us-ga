@@ -1,0 +1,84 @@
+{
+  "id": 722643565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.773023,32.449872,-81.773023,32.449872",
+    "geom:latitude":32.449872,
+    "geom:longitude":-81.773023,
+    "iso:country":"US",
+    "sg:address":"146 Northside Dr E",
+    "sg:city":"Statesboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 764 4141",
+    "sg:postcode":"30458",
+    "sg:province":"GA",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85935999,
+        102084405,
+        85828471,
+        85823149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7epbputgtH9TnuDUhKSfs4_32.449872_-81.773023@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461885904,
+    "wof:geomhash":"f1d493eff8b338bd8ae26aa67546c11c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85828471,
+            "region_id":85688535,
+            "venue_id":722643565
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85823149,
+            "region_id":85688535,
+            "venue_id":722643565
+        }
+    ],
+    "wof:id":722643565,
+    "wof:lastmodified":1461885904,
+    "wof:name":"Statesboro Physical Therapy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -81.773023,
+    32.449872,
+    -81.773023,
+    32.449872
+],
+  "geometry": {"coordinates":[-81.77302299999999,32.449872],"type":"Point"}
+}

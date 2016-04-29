@@ -1,0 +1,85 @@
+{
+  "id": 739591743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.287832,33.738298,-84.287832,33.738298",
+    "geom:latitude":33.738298,
+    "geom:longitude":-84.287832,
+    "iso:country":"US",
+    "sg:address":"1835 Candler Rd",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 534 2669",
+    "sg:postcode":"30032",
+    "sg:province":"GA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937245,
+        102084539,
+        85816501,
+        85816491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gpqVKwZfGdeTHcm5dhLqV_33.738298_-84.287832@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910233,
+    "wof:geomhash":"95d603f2838b37217c75ad5938b6f567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937245,
+            "neighbourhood_id":85816501,
+            "region_id":85688535,
+            "venue_id":739591743
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739591743
+        }
+    ],
+    "wof:id":739591743,
+    "wof:lastmodified":1461910233,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -84.287832,
+    33.738298,
+    -84.287832,
+    33.738298
+],
+  "geometry": {"coordinates":[-84.28783199999999,33.738298],"type":"Point"}
+}

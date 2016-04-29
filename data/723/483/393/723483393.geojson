@@ -1,0 +1,72 @@
+{
+  "id": 723483393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.494816,31.146156,-81.494816,31.146156",
+    "geom:latitude":31.146156,
+    "geom:longitude":-81.494816,
+    "iso:country":"US",
+    "sg:address":"206 Mansfield St",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 267 5559",
+    "sg:postcode":"31520",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.brunswickpolice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85822091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VAOA5wTC4t6U7oGpjTpdK_31.146156_-81.494816@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461902602,
+    "wof:geomhash":"f31099842922b8debfbb17df2a022f95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85822091,
+            "region_id":85688535,
+            "venue_id":723483393
+        }
+    ],
+    "wof:id":723483393,
+    "wof:lastmodified":1461902602,
+    "wof:name":"Brunswick Police Dept",
+    "wof:parent_id":85822091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -81.494816,
+    31.146156,
+    -81.494816,
+    31.146156
+],
+  "geometry": {"coordinates":[-81.494816,31.146156],"type":"Point"}
+}

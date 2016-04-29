@@ -1,0 +1,71 @@
+{
+  "id": 723380631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.659672,33.9533,-84.659672,33.9533",
+    "geom:latitude":33.9533,
+    "geom:longitude":-84.659672,
+    "iso:country":"US",
+    "sg:address":"3700 Dallas Hwy",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 794 3555",
+    "sg:postcode":"30064",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OYn7dmjqCyjYsMmhQfty3_33.953300_-84.659672@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900597,
+    "wof:geomhash":"81b772a6dc79be87f2a34ae8581ce37b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":723380631
+        }
+    ],
+    "wof:id":723380631,
+    "wof:lastmodified":1461900597,
+    "wof:name":"Premier Service CTR-Napa",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.659672,
+    33.9533,
+    -84.659672,
+    33.9533
+],
+  "geometry": {"coordinates":[-84.659672,33.9533],"type":"Point"}
+}

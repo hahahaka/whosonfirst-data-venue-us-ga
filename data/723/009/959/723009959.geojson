@@ -1,0 +1,73 @@
+{
+  "id": 723009959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.849963,33.92259,-84.849963,33.92259",
+    "geom:latitude":33.92259,
+    "geom:longitude":-84.849963,
+    "iso:country":"US",
+    "sg:address":"507 W Memorial Dr",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 363 8200",
+    "sg:postcode":"30132",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936335,
+        102084665,
+        85835843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Km73Htjbszj09wliytUN5_33.922590_-84.849963@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461893142,
+    "wof:geomhash":"44391580b1ac6105f22882b28a53fef3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "locality_id":85936335,
+            "neighbourhood_id":85835843,
+            "region_id":85688535,
+            "venue_id":723009959
+        }
+    ],
+    "wof:id":723009959,
+    "wof:lastmodified":1461893142,
+    "wof:name":"Bradford Automotive",
+    "wof:parent_id":85835843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.849963,
+    33.92259,
+    -84.849963,
+    33.92259
+],
+  "geometry": {"coordinates":[-84.849963,33.92259],"type":"Point"}
+}

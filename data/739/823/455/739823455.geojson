@@ -1,0 +1,101 @@
+{
+  "id": 739823455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.667264,33.966794,-84.667264,33.966794",
+    "geom:latitude":33.966794,
+    "geom:longitude":-84.667264,
+    "iso:country":"US",
+    "sg:address":"3960 Mary Eliza Trace NW Ste 600",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 354 5221",
+    "sg:postcode":"30064",
+    "sg:province":"GA",
+    "sg:tags":[
+        "delivery",
+        "delicatessen",
+        "take",
+        "caterer"
+    ],
+    "sg:website":"www.entreevous.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28jAMbFIqhTO4FG6fpLikX_33.966794_-84.667264@1303262581"
+    },
+    "wof:country":"US",
+    "wof:created":1461916837,
+    "wof:geomhash":"cb2d48e0938a86c4cb03cd36481968a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739823455
+        }
+    ],
+    "wof:id":739823455,
+    "wof:lastmodified":1461916837,
+    "wof:name":"Entree Vous",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "delicatessen",
+        "take",
+        "caterer"
+    ]
+},
+  "bbox": [
+    -84.667264,
+    33.966794,
+    -84.667264,
+    33.966794
+],
+  "geometry": {"coordinates":[-84.667264,33.966794],"type":"Point"}
+}

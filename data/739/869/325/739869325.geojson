@@ -1,0 +1,90 @@
+{
+  "id": 739869325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.061532,33.586473,-85.061532,33.586473",
+    "geom:latitude":33.586473,
+    "geom:longitude":-85.061532,
+    "iso:country":"US",
+    "sg:address":"106 Commercial Ave",
+    "sg:city":"Carrollton",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 838 7074",
+    "sg:postcode":"30117",
+    "sg:province":"GA",
+    "sg:tags":[
+        "provider",
+        "trucking",
+        "trucking-motor",
+        "broker"
+    ],
+    "sg:website":"http://www.qwest.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937055,
+        102081719,
+        85829651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TbouVR4iYKnPzjw7U6aR5_33.586473_-85.061532@1303262593"
+    },
+    "wof:country":"US",
+    "wof:created":1461918657,
+    "wof:geomhash":"3cd5fefec2b40ac469e92070aab63f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081719,
+            "locality_id":85937055,
+            "neighbourhood_id":85829651,
+            "region_id":85688535,
+            "venue_id":739869325
+        }
+    ],
+    "wof:id":739869325,
+    "wof:lastmodified":1461918657,
+    "wof:name":"Josie Transportation Inc",
+    "wof:parent_id":85829651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "provider",
+        "trucking",
+        "trucking-motor",
+        "broker"
+    ]
+},
+  "bbox": [
+    -85.061532,
+    33.586473,
+    -85.061532,
+    33.586473
+],
+  "geometry": {"coordinates":[-85.061532,33.586473],"type":"Point"}
+}

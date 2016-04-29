@@ -1,0 +1,89 @@
+{
+  "id": 739842089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.521272,33.899924,-84.521272,33.899924",
+    "geom:latitude":33.899924,
+    "geom:longitude":-84.521272,
+    "iso:country":"US",
+    "sg:address":"1180 Davis Rd SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 929 6022",
+    "sg:postcode":"30080",
+    "sg:province":"GA",
+    "sg:tags":[
+        "cleaner",
+        "repairer",
+        "contractor",
+        "sewer",
+        "drainage",
+        "plumbing-drain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85845875,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FJ41fvb4VxWVYiKdwezsG_33.899924_-84.521272@1303262586"
+    },
+    "wof:country":"US",
+    "wof:created":1461917571,
+    "wof:geomhash":"295df33f3c1982f4b8d001d45b70632c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":739842089
+        }
+    ],
+    "wof:id":739842089,
+    "wof:lastmodified":1461917571,
+    "wof:name":"Rain-N-Drain",
+    "wof:parent_id":85845875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "repairer",
+        "contractor",
+        "sewer",
+        "drainage",
+        "plumbing-drain"
+    ]
+},
+  "bbox": [
+    -84.521272,
+    33.899924,
+    -84.521272,
+    33.899924
+],
+  "geometry": {"coordinates":[-84.521272,33.899924],"type":"Point"}
+}

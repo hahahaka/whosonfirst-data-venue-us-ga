@@ -1,0 +1,85 @@
+{
+  "id": 739882171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.784959,33.955737,-84.784959,33.955737",
+    "geom:latitude":33.955737,
+    "geom:longitude":-84.784959,
+    "iso:country":"US",
+    "sg:address":"263 E Paulding Dr",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 445 6165",
+    "sg:postcode":"30157",
+    "sg:province":"GA",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "sg:website":"http://www.dollargeneral.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85835699,
+        102084665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OgyOpwScwynlUODMI3dcC_33.955737_-84.784959@1303262596"
+    },
+    "wof:country":"US",
+    "wof:created":1461919137,
+    "wof:geomhash":"0a8ffd34e55d11c27742081b159592ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "neighbourhood_id":85835699,
+            "region_id":85688535,
+            "venue_id":739882171
+        }
+    ],
+    "wof:id":739882171,
+    "wof:lastmodified":1461919137,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85835699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -84.784959,
+    33.955737,
+    -84.784959,
+    33.955737
+],
+  "geometry": {"coordinates":[-84.784959,33.955737],"type":"Point"}
+}

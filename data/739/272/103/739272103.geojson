@@ -1,0 +1,85 @@
+{
+  "id": 739272103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.288612,33.739768,-84.288612,33.739768",
+    "geom:latitude":33.739768,
+    "geom:longitude":-84.288612,
+    "iso:country":"US",
+    "sg:address":"1757 Candler Rd",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 289 2313",
+    "sg:postcode":"30032",
+    "sg:province":"GA",
+    "sg:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937245,
+        102084539,
+        85816501,
+        85816491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1w2CjwY6jgFPlvdp0JwoWL_33.739768_-84.288612@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461903958,
+    "wof:geomhash":"37e8a6e562dd5db0fdaf588279b8deae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937245,
+            "neighbourhood_id":85816501,
+            "region_id":85688535,
+            "venue_id":739272103
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739272103
+        }
+    ],
+    "wof:id":739272103,
+    "wof:lastmodified":1461903958,
+    "wof:name":"Gambro Hlthcare Ptent Svcs Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ]
+},
+  "bbox": [
+    -84.288612,
+    33.739768,
+    -84.288612,
+    33.739768
+],
+  "geometry": {"coordinates":[-84.288612,33.739768],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 722751119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.14223,33.966203,-84.14223,33.966203",
+    "geom:latitude":33.966203,
+    "geom:longitude":-84.14223,
+    "iso:country":"US",
+    "sg:address":"2442 Pleasant Hill Rd",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 623 5752",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1311uQmRo9Y5s0dCZ7vRvo_33.966203_-84.142230@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461887956,
+    "wof:geomhash":"ce91481954bbdfe90a191e429782a944",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":722751119
+        }
+    ],
+    "wof:id":722751119,
+    "wof:lastmodified":1461887956,
+    "wof:name":"Dry Clean City",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -84.14223,
+    33.966203,
+    -84.14223,
+    33.966203
+],
+  "geometry": {"coordinates":[-84.14223,33.966203],"type":"Point"}
+}

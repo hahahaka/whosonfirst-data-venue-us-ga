@@ -1,0 +1,73 @@
+{
+  "id": 739756861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.033901,33.052665,-85.033901,33.052665",
+    "geom:latitude":33.052665,
+    "geom:longitude":-85.033901,
+    "iso:country":"US",
+    "sg:address":"815 N Greenwood St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 884 0174",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qoISrfUSw8yxiGQGyouwG_33.052470_-85.033978@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461913977,
+    "wof:geomhash":"9e9ab913af8ca2148c45bc2eca5ecd92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739756861
+        }
+    ],
+    "wof:id":739756861,
+    "wof:lastmodified":1461913977,
+    "wof:name":"Amberwood Apartments",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.033901,
+    33.052665,
+    -85.033901,
+    33.052665
+],
+  "geometry": {"coordinates":[-85.033901,33.052665],"type":"Point"}
+}

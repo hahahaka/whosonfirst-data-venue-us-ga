@@ -1,0 +1,76 @@
+{
+  "id": 739774583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.987558,32.468849,-84.987558,32.468849",
+    "geom:latitude":32.468849,
+    "geom:longitude":-84.987558,
+    "iso:country":"US",
+    "sg:address":"1212 Veterans Pkwy",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/columbus/160524-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 327 0674",
+    "sg:postcode":"31901",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85882117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PFJ6JkE9vCQ7qzlw7SCkG_32.468849_-84.987558@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914732,
+    "wof:geomhash":"32b732c1c9f697d1415f60d5dd279ee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85882117,
+            "region_id":85688535,
+            "venue_id":739774583
+        }
+    ],
+    "wof:id":739774583,
+    "wof:lastmodified":1461914732,
+    "wof:name":"Burger King",
+    "wof:parent_id":85882117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.987558,
+    32.468849,
+    -84.987558,
+    32.468849
+],
+  "geometry": {"coordinates":[-84.98755800000001,32.468849],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 739787749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.294601,34.046101,-84.294601,34.046101",
+    "geom:latitude":34.046101,
+    "geom:longitude":-84.294601,
+    "iso:country":"US",
+    "sg:address":"6000 N Point Cir",
+    "sg:city":"Alpharetta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 667 6774",
+    "sg:postcode":"30022",
+    "sg:province":"GA",
+    "sg:tags":[
+        "major",
+        "clothing",
+        "tire"
+    ],
+    "sg:website":"http://www.sears.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937153,
+        102083603,
+        85827335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5scfhQVZUoWN3asNXRNG6Y_34.046101_-84.294601@1303262572"
+    },
+    "wof:country":"US",
+    "wof:created":1461915249,
+    "wof:geomhash":"3e60861c3fbfda44ad8b244a9912483e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937153,
+            "neighbourhood_id":85827335,
+            "region_id":85688535,
+            "venue_id":739787749
+        }
+    ],
+    "wof:id":739787749,
+    "wof:lastmodified":1461915249,
+    "wof:name":"Sears",
+    "wof:parent_id":85827335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "major",
+        "clothing",
+        "tire"
+    ]
+},
+  "bbox": [
+    -84.294601,
+    34.046101,
+    -84.294601,
+    34.046101
+],
+  "geometry": {"coordinates":[-84.294601,34.046101],"type":"Point"}
+}

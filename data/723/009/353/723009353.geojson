@@ -1,0 +1,75 @@
+{
+  "id": 723009353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.309884,33.926442,-84.309884,33.926442",
+    "geom:latitude":33.926442,
+    "geom:longitude":-84.309884,
+    "iso:country":"US",
+    "sg:address":"4575 N Shallowford Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 454 2000",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85890023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51ekAf04B9UVzMuC4AQ86b_33.926442_-84.309884@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461893130,
+    "wof:geomhash":"e2f3c686d53cace6b891fd88adfb8328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890023,
+            "region_id":85688535,
+            "venue_id":723009353
+        }
+    ],
+    "wof:id":723009353,
+    "wof:lastmodified":1461893130,
+    "wof:name":"Emory Dunwoody Medical Center",
+    "wof:parent_id":85890023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "general"
+    ]
+},
+  "bbox": [
+    -84.309884,
+    33.926442,
+    -84.309884,
+    33.926442
+],
+  "geometry": {"coordinates":[-84.309884,33.926442],"type":"Point"}
+}

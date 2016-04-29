@@ -1,0 +1,73 @@
+{
+  "id": 722948267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.153209,33.989131,-84.153209,33.989131",
+    "geom:latitude":33.989131,
+    "geom:longitude":-84.153209,
+    "iso:country":"US",
+    "sg:address":"3556 Buford Hwy",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 813 1300",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automotive",
+        "brake"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NkjncqlL5fxEbZQ2IXvpg_33.989131_-84.153209@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461891791,
+    "wof:geomhash":"d6dff373648256e4557076ca0ccbc623",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":722948267
+        }
+    ],
+    "wof:id":722948267,
+    "wof:lastmodified":1461891791,
+    "wof:name":"Brake Service Inc",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "brake"
+    ]
+},
+  "bbox": [
+    -84.153209,
+    33.989131,
+    -84.153209,
+    33.989131
+],
+  "geometry": {"coordinates":[-84.153209,33.989131],"type":"Point"}
+}

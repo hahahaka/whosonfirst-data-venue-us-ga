@@ -1,0 +1,72 @@
+{
+  "id": 739739603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.411873,33.6563,-84.411873,33.6563",
+    "geom:latitude":33.6563,
+    "geom:longitude":-84.411873,
+    "iso:country":"US",
+    "sg:address":"700 Doug Davis Dr",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 669 4678",
+    "sg:postcode":"30354",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"http://www.hapeville.org/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526927,
+        85688535,
+        85633793,
+        102082333,
+        85815707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0207DspFn8hqsCzlduCUYx_33.656267_-84.411909@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461913412,
+    "wof:geomhash":"e33a39d8986f332368ca7349cf1ba63b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526927,
+            "country_id":85633793,
+            "county_id":102082333,
+            "neighbourhood_id":85815707,
+            "region_id":85688535,
+            "venue_id":739739603
+        }
+    ],
+    "wof:id":739739603,
+    "wof:lastmodified":1461913412,
+    "wof:name":"Hapeville Police Dept",
+    "wof:parent_id":102526927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.411873,
+    33.6563,
+    -84.411873,
+    33.6563
+],
+  "geometry": {"coordinates":[-84.411873,33.6563],"type":"Point"}
+}

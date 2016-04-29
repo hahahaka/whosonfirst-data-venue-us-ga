@@ -1,0 +1,71 @@
+{
+  "id": 722878685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.730909,32.458379,-83.730909,32.458379",
+    "geom:latitude":32.458379,
+    "geom:longitude":-83.730909,
+    "iso:country":"US",
+    "sg:address":"1013 Main St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 731 6181",
+    "sg:postcode":"31069",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VutCOEmm4g7oIImhz4V3V_32.458379_-83.730909@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461890361,
+    "wof:geomhash":"ed0c06bc566c2abc9abcb861fe1bfcb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":722878685
+        }
+    ],
+    "wof:id":722878685,
+    "wof:lastmodified":1461890361,
+    "wof:name":"Houston Orthopedic Surgery",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.730909,
+    32.458379,
+    -83.730909,
+    32.458379
+],
+  "geometry": {"coordinates":[-83.730909,32.458379],"type":"Point"}
+}

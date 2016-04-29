@@ -1,0 +1,85 @@
+{
+  "id": 740059185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.114779,32.030942,-81.114779,32.030942",
+    "geom:latitude":32.030942,
+    "geom:longitude":-81.114779,
+    "iso:country":"US",
+    "sg:address":"5307 Montgomery St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 352 1010",
+    "sg:postcode":"31405",
+    "sg:province":"GA",
+    "sg:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ],
+    "sg:website":"http://www.safelite.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        420517339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XNq1gc3BLnt173Xyrryk4_32.030942_-81.114779@1303262642"
+    },
+    "wof:country":"US",
+    "wof:created":1461926499,
+    "wof:geomhash":"69433bfecc1650c4316d1c4a8aa1a8b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":420517339,
+            "region_id":85688535,
+            "venue_id":740059185
+        }
+    ],
+    "wof:id":740059185,
+    "wof:lastmodified":1461926499,
+    "wof:name":"Safelite AutoGlass",
+    "wof:parent_id":420517339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ]
+},
+  "bbox": [
+    -81.114779,
+    32.030942,
+    -81.114779,
+    32.030942
+],
+  "geometry": {"coordinates":[-81.114779,32.030942],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 739771723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.040589,33.511648,-82.040589,33.511648",
+    "geom:latitude":33.511648,
+    "geom:longitude":-82.040589,
+    "iso:country":"US",
+    "sg:address":"2950 Washington Rd",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/augusta/195963-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30909",
+    "sg:province":"GA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936989,
+        102082951,
+        85876049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74nmQ0qzKVd8l0Vau45RSB_33.511648_-82.040589@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914609,
+    "wof:geomhash":"f43e49b97918548887ae540c3557960c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082951,
+            "locality_id":85936989,
+            "neighbourhood_id":85876049,
+            "region_id":85688535,
+            "venue_id":739771723
+        }
+    ],
+    "wof:id":739771723,
+    "wof:lastmodified":1461914609,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85876049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -82.040589,
+    33.511648,
+    -82.040589,
+    33.511648
+],
+  "geometry": {"coordinates":[-82.040589,33.511648],"type":"Point"}
+}

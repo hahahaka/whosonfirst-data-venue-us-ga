@@ -1,0 +1,89 @@
+{
+  "id": 740042621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.251621,33.42673,-82.251621,33.42673",
+    "geom:latitude":33.42673,
+    "geom:longitude":-82.251621,
+    "iso:country":"US",
+    "sg:address":"1235 Old Louisville Rd",
+    "sg:city":"Grovetown",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 556 3284",
+    "sg:postcode":"30813",
+    "sg:province":"GA",
+    "sg:tags":[
+        "pump",
+        "well",
+        "drilling",
+        "pumps-service",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936989,
+        102082951,
+        85820097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jI9lZJzREcarIifOUd7co_33.426730_-82.251621@1303262638"
+    },
+    "wof:country":"US",
+    "wof:created":1461925751,
+    "wof:geomhash":"41a7e4b9b4fe62220b46172bc29a02f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082951,
+            "locality_id":85936989,
+            "neighbourhood_id":85820097,
+            "region_id":85688535,
+            "venue_id":740042621
+        }
+    ],
+    "wof:id":740042621,
+    "wof:lastmodified":1461925751,
+    "wof:name":"Young's Well Drilling",
+    "wof:parent_id":85820097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pump",
+        "well",
+        "drilling",
+        "pumps-service",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.251621,
+    33.42673,
+    -82.251621,
+    33.42673
+],
+  "geometry": {"coordinates":[-82.251621,33.42673],"type":"Point"}
+}

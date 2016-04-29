@@ -1,0 +1,71 @@
+{
+  "id": 722770231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.93428,34.761466,-84.93428,34.761466",
+    "geom:latitude":34.761466,
+    "geom:longitude":-84.93428,
+    "iso:country":"US",
+    "sg:address":"2209 E Walnut Ave",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 226 3022",
+    "sg:postcode":"30721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AcuscY7n8Dhc73Qov4ftz_34.761466_-84.934280@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888317,
+    "wof:geomhash":"dba8919a5cff694f767f73a27be1a385",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":722770231
+        }
+    ],
+    "wof:id":722770231,
+    "wof:lastmodified":1461888317,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -84.93428,
+    34.761466,
+    -84.93428,
+    34.761466
+],
+  "geometry": {"coordinates":[-84.93428,34.761466],"type":"Point"}
+}

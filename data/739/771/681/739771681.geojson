@@ -1,0 +1,76 @@
+{
+  "id": 739771681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.047268,33.512558,-82.047268,33.512558",
+    "geom:latitude":33.512558,
+    "geom:longitude":-82.047268,
+    "iso:country":"US",
+    "sg:address":"3026 Washington Rd",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/augusta/11498-dennys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 481 0029",
+    "sg:postcode":"30907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936989,
+        102082951,
+        85807617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WLsEqujzoJh9REgcs8kAN_33.512558_-82.047268@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914607,
+    "wof:geomhash":"d3efb06c57c5b29dfde2f6cc7e4c1559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082951,
+            "locality_id":85936989,
+            "neighbourhood_id":85807617,
+            "region_id":85688535,
+            "venue_id":739771681
+        }
+    ],
+    "wof:id":739771681,
+    "wof:lastmodified":1461914607,
+    "wof:name":"Denny's",
+    "wof:parent_id":85807617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -82.047268,
+    33.512558,
+    -82.047268,
+    33.512558
+],
+  "geometry": {"coordinates":[-82.047268,33.512558],"type":"Point"}
+}

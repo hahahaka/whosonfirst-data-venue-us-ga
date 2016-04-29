@@ -1,0 +1,86 @@
+{
+  "id": 739932677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.33941,33.762148,-84.33941,33.762148",
+    "geom:latitude":33.762148,
+    "geom:longitude":-84.33941,
+    "iso:country":"US",
+    "sg:address":"1484 Dekalb Ave NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 848 5632",
+    "sg:postcode":"30307",
+    "sg:province":"GA",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "sg:website":"http://www.itsmarta.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85817483,
+        85872093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EqlaFj43Yj6DVlDQ26quO_33.762148_-84.339410@1303262609"
+    },
+    "wof:country":"US",
+    "wof:created":1461921138,
+    "wof:geomhash":"cda6cdb7d11e3efa59e621cc4dd87f98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85817483,
+            "region_id":85688535,
+            "venue_id":739932677
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872093,
+            "region_id":85688535,
+            "venue_id":739932677
+        }
+    ],
+    "wof:id":739932677,
+    "wof:lastmodified":1461921138,
+    "wof:name":"Metropolitan Atlanta Rapid Transit Authority",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -84.33941,
+    33.762148,
+    -84.33941,
+    33.762148
+],
+  "geometry": {"coordinates":[-84.33941,33.762148],"type":"Point"}
+}

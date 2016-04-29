@@ -1,0 +1,73 @@
+{
+  "id": 722775441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.565342,30.75253,-81.565342,30.75253",
+    "geom:latitude":30.75253,
+    "geom:longitude":-81.565342,
+    "iso:country":"US",
+    "sg:address":"100 Bay St",
+    "sg:city":"St Marys",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 882 4254",
+    "sg:postcode":"31558",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937043,
+        102081693,
+        85852055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JWKj5qRIUxKgZ8sJ25X9k_30.752530_-81.565342@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888417,
+    "wof:geomhash":"e9fbf268d23d83991eaefb49a1ffa36b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081693,
+            "locality_id":85937043,
+            "neighbourhood_id":85852055,
+            "region_id":85688535,
+            "venue_id":722775441
+        }
+    ],
+    "wof:id":722775441,
+    "wof:lastmodified":1461888417,
+    "wof:name":"Carlos A Levy MD",
+    "wof:parent_id":85852055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.565342,
+    30.75253,
+    -81.565342,
+    30.75253
+],
+  "geometry": {"coordinates":[-81.565342,30.75253],"type":"Point"}
+}

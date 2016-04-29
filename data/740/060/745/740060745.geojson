@@ -1,0 +1,91 @@
+{
+  "id": 740060745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.151181,31.982232,-81.151181,31.982232",
+    "geom:latitude":31.982232,
+    "geom:longitude":-81.151181,
+    "iso:country":"US",
+    "sg:address":"11701 Abercorn St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 925 4112",
+    "sg:postcode":"31419",
+    "sg:province":"GA",
+    "sg:tags":[
+        "delicatessen",
+        "super"
+    ],
+    "sg:website":"http://storedetail.publix.com/USA/GA/11701-Abercorn-St.html",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85852533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AROxxw5DIa2iqE1F9snNW_31.982232_-81.151181@1303262642"
+    },
+    "wof:country":"US",
+    "wof:created":1461926556,
+    "wof:geomhash":"fe005a81e764894830248d0803302cba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85852533,
+            "region_id":85688535,
+            "venue_id":740060745
+        }
+    ],
+    "wof:id":740060745,
+    "wof:lastmodified":1461926556,
+    "wof:name":"Publix Super Market",
+    "wof:parent_id":85852533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen",
+        "super"
+    ]
+},
+  "bbox": [
+    -81.151181,
+    31.982232,
+    -81.151181,
+    31.982232
+],
+  "geometry": {"coordinates":[-81.15118099999999,31.982232],"type":"Point"}
+}

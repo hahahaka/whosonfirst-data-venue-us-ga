@@ -1,0 +1,74 @@
+{
+  "id": 739933017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.363851,33.753533,-84.363851,33.753533",
+    "geom:latitude":33.753533,
+    "geom:longitude":-84.363851,
+    "iso:country":"US",
+    "sg:address":"1 Krog St",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30307",
+    "sg:province":"GA",
+    "sg:tags":[
+        "flavor",
+        "local"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85808737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HsRl7v6QlgvEMIjXbv7lY_33.753533_-84.363851@1303262609"
+    },
+    "wof:country":"US",
+    "wof:created":1461921149,
+    "wof:geomhash":"8e2d8967da4983258c94c282bf9947b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85808737,
+            "region_id":85688535,
+            "venue_id":739933017
+        }
+    ],
+    "wof:id":739933017,
+    "wof:lastmodified":1461921149,
+    "wof:name":"Krog Street Tunnel",
+    "wof:parent_id":85808737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flavor",
+        "local"
+    ]
+},
+  "bbox": [
+    -84.363851,
+    33.753533,
+    -84.363851,
+    33.753533
+],
+  "geometry": {"coordinates":[-84.363851,33.753533],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 739494541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.184855,34.039327,-84.184855,34.039327",
+    "geom:latitude":34.039327,
+    "geom:longitude":-84.184855,
+    "iso:country":"US",
+    "sg:address":"10670 Medlock Bridge Rd",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 623 1776",
+    "sg:postcode":"30097",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937169,
+        102083603,
+        85854579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wykcu1HaHDWevU2J4uBTN_34.039327_-84.184855@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461908335,
+    "wof:geomhash":"81ca78a7a7911794e683a6085d9164d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937169,
+            "neighbourhood_id":85854579,
+            "region_id":85688535,
+            "venue_id":739494541
+        }
+    ],
+    "wof:id":739494541,
+    "wof:lastmodified":1461908335,
+    "wof:name":"Duluth Diagnostic Imaging",
+    "wof:parent_id":85854579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.184855,
+    34.039327,
+    -84.184855,
+    34.039327
+],
+  "geometry": {"coordinates":[-84.184855,34.039327],"type":"Point"}
+}

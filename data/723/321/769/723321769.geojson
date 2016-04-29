@@ -1,0 +1,71 @@
+{
+  "id": 723321769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.172286,33.525889,-82.172286,33.525889",
+    "geom:latitude":33.525889,
+    "geom:longitude":-82.172286,
+    "iso:country":"US",
+    "sg:address":"317 Farmington Dr",
+    "sg:city":"Evans",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 860 2361",
+    "sg:postcode":"30809",
+    "sg:province":"GA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AL8B31SBILG8sJqKeTQ9Q_33.525889_-82.172286@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899480,
+    "wof:geomhash":"f6aae480c81f59a1c576eebeba762e85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":723321769
+        }
+    ],
+    "wof:id":723321769,
+    "wof:lastmodified":1461899480,
+    "wof:name":"Hall Plumbing",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.172286,
+    33.525889,
+    -82.172286,
+    33.525889
+],
+  "geometry": {"coordinates":[-82.172286,33.525889],"type":"Point"}
+}

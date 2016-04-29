@@ -1,0 +1,81 @@
+{
+  "id": 739581143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.285667,33.734712,-84.285667,33.734712",
+    "geom:latitude":33.734712,
+    "geom:longitude":-84.285667,
+    "iso:country":"US",
+    "sg:address":"1955 Candler Rd",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 289 4323",
+    "sg:postcode":"30032",
+    "sg:province":"GA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937245,
+        102084539,
+        85816501,
+        85816491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RRZEi7YHBXIfHuGBoaJ3n_33.734712_-84.285667@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910028,
+    "wof:geomhash":"e7eed99125ab42228f20090439522b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937245,
+            "neighbourhood_id":85816501,
+            "region_id":85688535,
+            "venue_id":739581143
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739581143
+        }
+    ],
+    "wof:id":739581143,
+    "wof:lastmodified":1461910028,
+    "wof:name":"Atlanta Car Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -84.285667,
+    33.734712,
+    -84.285667,
+    33.734712
+],
+  "geometry": {"coordinates":[-84.285667,33.734712],"type":"Point"}
+}

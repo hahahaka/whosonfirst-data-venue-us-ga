@@ -1,0 +1,73 @@
+{
+  "id": 739841269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.527603,33.875401,-84.527603,33.875401",
+    "geom:latitude":33.875401,
+    "geom:longitude":-84.527603,
+    "iso:country":"US",
+    "sg:address":"891 Concord Rd SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 805 9951",
+    "sg:postcode":"30080",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RLJhMhrzFVXzMUrKWP3H5_33.875401_-84.527603@1303262586"
+    },
+    "wof:country":"US",
+    "wof:created":1461917538,
+    "wof:geomhash":"3fa4ad8ab83a9835c1d93067140cf2e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":739841269
+        }
+    ],
+    "wof:id":739841269,
+    "wof:lastmodified":1461917538,
+    "wof:name":"Dr Frame Inc",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.527603,
+    33.875401,
+    -84.527603,
+    33.875401
+],
+  "geometry": {"coordinates":[-84.527603,33.875401],"type":"Point"}
+}

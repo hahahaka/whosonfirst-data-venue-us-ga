@@ -1,0 +1,99 @@
+{
+  "id": 740071365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.98965,30.832136,-83.98965,30.832136",
+    "geom:latitude":30.832136,
+    "geom:longitude":-83.98965,
+    "iso:country":"US",
+    "sg:address":"320 Campbell St",
+    "sg:city":"Thomasville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 228 0670",
+    "sg:postcode":"31792",
+    "sg:province":"GA",
+    "sg:tags":[
+        "generators-electric-service",
+        "electric",
+        "well",
+        "contractor",
+        "compressor",
+        "pump",
+        "drilling"
+    ],
+    "sg:website":"http://www.smithelectricmotors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85852137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oMGPcZW2KpuGl1piUoWt6_30.832136_-83.989650@1303262645"
+    },
+    "wof:country":"US",
+    "wof:created":1461927028,
+    "wof:geomhash":"a0ce34b31459ba98540392df3a742318",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85852137,
+            "region_id":85688535,
+            "venue_id":740071365
+        }
+    ],
+    "wof:id":740071365,
+    "wof:lastmodified":1461927028,
+    "wof:name":"Smith Electric Motor Service",
+    "wof:parent_id":85852137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "generators-electric-service",
+        "electric",
+        "well",
+        "contractor",
+        "compressor",
+        "pump",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -83.98965,
+    30.832136,
+    -83.98965,
+    30.832136
+],
+  "geometry": {"coordinates":[-83.98965,30.832136],"type":"Point"}
+}

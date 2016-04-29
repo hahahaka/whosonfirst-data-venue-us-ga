@@ -1,0 +1,93 @@
+{
+  "id": 740034399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.400057,33.981054,-83.400057,33.981054",
+    "geom:latitude":33.981054,
+    "geom:longitude":-83.400057,
+    "iso:country":"US",
+    "sg:address":"173 Paradise Blvd",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Conference Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 543 8407",
+    "sg:postcode":"30607",
+    "sg:province":"GA",
+    "sg:tags":[
+        "plumber",
+        "backflow",
+        "contractor",
+        "piping",
+        "device",
+        "prevention"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936177,
+        102081713,
+        85807659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I5zG8EDiVGYt9nuUaulRN_33.981054_-83.400057@1303262636"
+    },
+    "wof:country":"US",
+    "wof:created":1461925342,
+    "wof:geomhash":"c6e69d568a674c5bf08195b0ea3692e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081713,
+            "locality_id":85936177,
+            "neighbourhood_id":85807659,
+            "region_id":85688535,
+            "venue_id":740034399
+        }
+    ],
+    "wof:id":740034399,
+    "wof:lastmodified":1461925342,
+    "wof:name":"McLeroy Plumbing Svc Inc",
+    "wof:parent_id":85807659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber",
+        "backflow",
+        "contractor",
+        "piping",
+        "device",
+        "prevention"
+    ]
+},
+  "bbox": [
+    -83.400057,
+    33.981054,
+    -83.400057,
+    33.981054
+],
+  "geometry": {"coordinates":[-83.400057,33.981054],"type":"Point"}
+}

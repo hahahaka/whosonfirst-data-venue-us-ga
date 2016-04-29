@@ -1,0 +1,71 @@
+{
+  "id": 722565831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.732178,32.458665,-83.732178,32.458665",
+    "geom:latitude":32.458665,
+    "geom:longitude":-83.732178,
+    "iso:country":"US",
+    "sg:address":"904 Carroll St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 987 1531",
+    "sg:postcode":"31069",
+    "sg:province":"GA",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hD6GnC0R5nG54TZQup2qs_32.458665_-83.732178@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461884329,
+    "wof:geomhash":"68637773b22cb04ee1daa33228cf4bee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":722565831
+        }
+    ],
+    "wof:id":722565831,
+    "wof:lastmodified":1461884329,
+    "wof:name":"Jones Jewelers",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -83.732178,
+    32.458665,
+    -83.732178,
+    32.458665
+],
+  "geometry": {"coordinates":[-83.732178,32.458665],"type":"Point"}
+}

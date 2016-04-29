@@ -1,0 +1,85 @@
+{
+  "id": 740073823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.944504,32.479552,-84.944504,32.479552",
+    "geom:latitude":32.479552,
+    "geom:longitude":-84.944504,
+    "iso:country":"US",
+    "sg:address":"1915 Auburn Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 568 8340",
+    "sg:postcode":"31906",
+    "sg:province":"GA",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"https://www.wachovia.com/?DCMP=KNL-CPS-DS-Directory-0703&HBX_PK=Banks&HBX_OU=71",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        420518149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aM6ySUnKaoBtGvf4910uB_32.479552_-84.944504@1303262646"
+    },
+    "wof:country":"US",
+    "wof:created":1461927129,
+    "wof:geomhash":"a8903493b0716bba95f26076cd523c92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":420518149,
+            "region_id":85688535,
+            "venue_id":740073823
+        }
+    ],
+    "wof:id":740073823,
+    "wof:lastmodified":1461927129,
+    "wof:name":"Wachovia Bank",
+    "wof:parent_id":420518149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -84.944504,
+    32.479552,
+    -84.944504,
+    32.479552
+],
+  "geometry": {"coordinates":[-84.94450399999999,32.479552],"type":"Point"}
+}

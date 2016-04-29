@@ -1,0 +1,71 @@
+{
+  "id": 723498459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.137298,34.205818,-84.137298,34.205818",
+    "geom:latitude":34.205818,
+    "geom:longitude":-84.137298,
+    "iso:country":"US",
+    "sg:address":"201 E Maple St",
+    "sg:city":"Cumming",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 781 3060",
+    "sg:postcode":"30040",
+    "sg:province":"GA",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936811,
+        102082317,
+        85842073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48fCRaHfZdXpznInPjD2Go_34.205818_-84.137298@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461902927,
+    "wof:geomhash":"8a9a7d3830bba653411ca91f3ede0aec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082317,
+            "locality_id":85936811,
+            "neighbourhood_id":85842073,
+            "region_id":85688535,
+            "venue_id":723498459
+        }
+    ],
+    "wof:id":723498459,
+    "wof:lastmodified":1461902927,
+    "wof:name":"Forsyth County Sheriff",
+    "wof:parent_id":85842073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -84.137298,
+    34.205818,
+    -84.137298,
+    34.205818
+],
+  "geometry": {"coordinates":[-84.137298,34.205818],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 723000605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.975725,30.814127,-83.975725,30.814127",
+    "geom:latitude":30.814127,
+    "geom:longitude":-83.975725,
+    "iso:country":"US",
+    "sg:address":"1618 Orange St",
+    "sg:city":"Thomasville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 226 3688",
+    "sg:postcode":"31792",
+    "sg:province":"GA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85852137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DiBjaz0l3BG92WqKGRyjZ_30.814127_-83.975725@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461892917,
+    "wof:geomhash":"4514bda9e070698da63632d682d8f957",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85852137,
+            "region_id":85688535,
+            "venue_id":723000605
+        }
+    ],
+    "wof:id":723000605,
+    "wof:lastmodified":1461892917,
+    "wof:name":"Beverly's Professional Clean",
+    "wof:parent_id":85852137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -83.975725,
+    30.814127,
+    -83.975725,
+    30.814127
+],
+  "geometry": {"coordinates":[-83.975725,30.814127],"type":"Point"}
+}

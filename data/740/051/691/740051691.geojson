@@ -1,0 +1,78 @@
+{
+  "id": 740051691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.707865,32.45734,-83.707865,32.45734",
+    "geom:latitude":32.45734,
+    "geom:longitude":-83.707865,
+    "iso:country":"US",
+    "sg:address":"1020 Keith Dr",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Science Facility",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 988 4820",
+    "sg:postcode":"31069",
+    "sg:province":"GA",
+    "sg:tags":[
+        "development",
+        "medical",
+        "laboratories-research"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85806619,
+        102083617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FcD3AqZIklZJBLk1cr5G4_32.457340_-83.707865@1303262640"
+    },
+    "wof:country":"US",
+    "wof:created":1461926181,
+    "wof:geomhash":"6c02469af58dcf84d086edc97579e988",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "neighbourhood_id":85806619,
+            "region_id":85688535,
+            "venue_id":740051691
+        }
+    ],
+    "wof:id":740051691,
+    "wof:lastmodified":1461926181,
+    "wof:name":"Middle Georgia Drug Study Center",
+    "wof:parent_id":85806619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "medical",
+        "laboratories-research"
+    ]
+},
+  "bbox": [
+    -83.707865,
+    32.45734,
+    -83.707865,
+    32.45734
+],
+  "geometry": {"coordinates":[-83.707865,32.45734],"type":"Point"}
+}

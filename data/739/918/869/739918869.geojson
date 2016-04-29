@@ -1,0 +1,72 @@
+{
+  "id": 739918869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.473599,34.003577,-84.473599,34.003577",
+    "geom:latitude":34.003577,
+    "geom:longitude":-84.473599,
+    "iso:country":"US",
+    "sg:address":"3299 Canton Rd NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 218 8588",
+    "sg:postcode":"30303",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"walgreens.com|walgreens.com/Take...",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936135,
+        102082313,
+        85857049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kJ2bqkmW7Ix2P9SG05Dox_34.003577_-84.473599@1303262606"
+    },
+    "wof:country":"US",
+    "wof:created":1461920544,
+    "wof:geomhash":"98f56e6d555f74dd1b4064cab7dc0927",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936135,
+            "neighbourhood_id":85857049,
+            "region_id":85688535,
+            "venue_id":739918869
+        }
+    ],
+    "wof:id":739918869,
+    "wof:lastmodified":1461920544,
+    "wof:name":"Walgreen Drug Stores",
+    "wof:parent_id":85857049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -84.473599,
+    34.003577,
+    -84.473599,
+    34.003577
+],
+  "geometry": {"coordinates":[-84.47359899999999,34.003577],"type":"Point"}
+}

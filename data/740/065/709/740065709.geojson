@@ -1,0 +1,83 @@
+{
+  "id": 740065709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.324249,30.846979,-83.324249,30.846979",
+    "geom:latitude":30.846979,
+    "geom:longitude":-83.324249,
+    "iso:country":"US",
+    "sg:address":"2001 Baytree Rd",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 249 5050",
+    "sg:postcode":"31602",
+    "sg:province":"GA",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "internet",
+        "saving",
+        "banking"
+    ],
+    "sg:website":"https://www.bankofamerica.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85852681,
+        102083585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YnLT2sw5fx4jBPec4gCRi_30.846979_-83.324249@1303262644"
+    },
+    "wof:country":"US",
+    "wof:created":1461926782,
+    "wof:geomhash":"69f7421d9e9e73ef586630524ed30c7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "neighbourhood_id":85852681,
+            "region_id":85688535,
+            "venue_id":740065709
+        }
+    ],
+    "wof:id":740065709,
+    "wof:lastmodified":1461926782,
+    "wof:name":"Bank of America",
+    "wof:parent_id":85852681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "internet",
+        "saving",
+        "banking"
+    ]
+},
+  "bbox": [
+    -83.324249,
+    30.846979,
+    -83.324249,
+    30.846979
+],
+  "geometry": {"coordinates":[-83.32424899999999,30.846979],"type":"Point"}
+}

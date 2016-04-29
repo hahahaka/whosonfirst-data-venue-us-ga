@@ -1,0 +1,73 @@
+{
+  "id": 739623253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.946308,34.483668,-84.946308,34.483668",
+    "geom:latitude":34.483668,
+    "geom:longitude":-84.946308,
+    "iso:country":"US",
+    "sg:address":"120 Wc Bryant Pkwy",
+    "sg:city":"Calhoun",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 625 1950",
+    "sg:postcode":"30701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936609,
+        102084679,
+        85817247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KTmhRnb3ewARUaypf7adu_34.483668_-84.946308@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910901,
+    "wof:geomhash":"9df3975745c1223c9eaefd21380515e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084679,
+            "locality_id":85936609,
+            "neighbourhood_id":85817247,
+            "region_id":85688535,
+            "venue_id":739623253
+        }
+    ],
+    "wof:id":739623253,
+    "wof:lastmodified":1461910901,
+    "wof:name":"Eckerd",
+    "wof:parent_id":85817247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -84.946308,
+    34.483668,
+    -84.946308,
+    34.483668
+],
+  "geometry": {"coordinates":[-84.946308,34.483668],"type":"Point"}
+}

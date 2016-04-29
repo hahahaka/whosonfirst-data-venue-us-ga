@@ -1,0 +1,71 @@
+{
+  "id": 723005359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.14536,33.933996,-84.14536,33.933996",
+    "geom:latitude":33.933996,
+    "geom:longitude":-84.14536,
+    "iso:country":"US",
+    "sg:address":"4250 International Blvd NW",
+    "sg:city":"Norcross",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 717 5108",
+    "sg:postcode":"30093",
+    "sg:province":"GA",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fC7NOOB9FnW6yMHnMFNLL_33.933996_-84.145360@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461893049,
+    "wof:geomhash":"e766f070790415e27c84392fc7c62f62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":723005359
+        }
+    ],
+    "wof:id":723005359,
+    "wof:lastmodified":1461893049,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.14536,
+    33.933996,
+    -84.14536,
+    33.933996
+],
+  "geometry": {"coordinates":[-84.14536,33.933996],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 739831533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.216152,33.937123,-84.216152,33.937123",
+    "geom:latitude":33.937123,
+    "geom:longitude":-84.216152,
+    "iso:country":"US",
+    "sg:address":"420 S Peachtree St",
+    "sg:city":"Norcross",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 368 4163",
+    "sg:postcode":"30071",
+    "sg:province":"GA",
+    "sg:tags":[
+        "driver",
+        "leasing",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rVhLG2jGZzSuN44fz0tC4_33.937123_-84.216152@1303262583"
+    },
+    "wof:country":"US",
+    "wof:created":1461917137,
+    "wof:geomhash":"423e8c450ed508ba05f941a177b41747",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":739831533
+        }
+    ],
+    "wof:id":739831533,
+    "wof:lastmodified":1461917137,
+    "wof:name":"USA Drivers",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "driver",
+        "leasing",
+        "truck"
+    ]
+},
+  "bbox": [
+    -84.216152,
+    33.937123,
+    -84.216152,
+    33.937123
+],
+  "geometry": {"coordinates":[-84.21615199999999,33.937123],"type":"Point"}
+}

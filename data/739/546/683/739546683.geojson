@@ -1,0 +1,71 @@
+{
+  "id": 739546683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.711446,32.45864,-83.711446,32.45864",
+    "geom:latitude":32.45864,
+    "geom:longitude":-83.711446,
+    "iso:country":"US",
+    "sg:address":"1119 Morningside Dr",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 987 2827",
+    "sg:postcode":"31069",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85806619,
+        102083617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nDPRNqRBu3zHvZ5M6YdSH_32.458640_-83.711446@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461909293,
+    "wof:geomhash":"96219c95f02733c5a7430c733f08bffa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "neighbourhood_id":85806619,
+            "region_id":85688535,
+            "venue_id":739546683
+        }
+    ],
+    "wof:id":739546683,
+    "wof:lastmodified":1461909293,
+    "wof:name":"Ob Gyn Of Perry",
+    "wof:parent_id":85806619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.711446,
+    32.45864,
+    -83.711446,
+    32.45864
+],
+  "geometry": {"coordinates":[-83.711446,32.45864],"type":"Point"}
+}

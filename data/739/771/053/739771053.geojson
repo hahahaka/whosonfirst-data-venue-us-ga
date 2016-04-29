@@ -1,0 +1,74 @@
+{
+  "id": 739771053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.930063,34.762143,-84.930063,34.762143",
+    "geom:latitude":34.762143,
+    "geom:longitude":-84.930063,
+    "iso:country":"US",
+    "sg:address":"2702 Airport Rd",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/dalton/207147-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 226 0555",
+    "sg:postcode":"30721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fO89RLW95AmpKo3cmC9cn_34.762143_-84.930063@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914586,
+    "wof:geomhash":"d6aca36d09f343bcd38b226c8504538c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":739771053
+        }
+    ],
+    "wof:id":739771053,
+    "wof:lastmodified":1461914586,
+    "wof:name":"Sonic",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.930063,
+    34.762143,
+    -84.930063,
+    34.762143
+],
+  "geometry": {"coordinates":[-84.930063,34.762143],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 723130253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.164198,31.575457,-84.164198,31.575457",
+    "geom:latitude":31.575457,
+    "geom:longitude":-84.164198,
+    "iso:country":"US",
+    "sg:address":"625 W Oglethorpe Blvd",
+    "sg:city":"Albany",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 435 6101",
+    "sg:postcode":"31701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935991,
+        102084427,
+        85822061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72vruDSC5ZPQll3YzTQIG8_31.575457_-84.164198@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461895702,
+    "wof:geomhash":"a21e01c63afe204c194389bbc3ea143e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":85822061,
+            "region_id":85688535,
+            "venue_id":723130253
+        }
+    ],
+    "wof:id":723130253,
+    "wof:lastmodified":1461895702,
+    "wof:name":"AAMCO Transmissions",
+    "wof:parent_id":85822061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -84.164198,
+    31.575457,
+    -84.164198,
+    31.575457
+],
+  "geometry": {"coordinates":[-84.164198,31.575457],"type":"Point"}
+}

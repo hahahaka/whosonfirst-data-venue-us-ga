@@ -1,0 +1,73 @@
+{
+  "id": 723058463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.492802,34.260404,-84.492802,34.260404",
+    "geom:latitude":34.260404,
+    "geom:longitude":-84.492802,
+    "iso:country":"US",
+    "sg:address":"175 Ferguson Dr",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 479 3661",
+    "sg:postcode":"30114",
+    "sg:province":"GA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936719,
+        102084635,
+        420517523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q11sbYMPi75RRFQTKQWZe_34.260404_-84.492802@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461894185,
+    "wof:geomhash":"7087d0506018d59e803432dd6f26a782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084635,
+            "locality_id":85936719,
+            "neighbourhood_id":420517523,
+            "region_id":85688535,
+            "venue_id":723058463
+        }
+    ],
+    "wof:id":723058463,
+    "wof:lastmodified":1461894185,
+    "wof:name":"Ferguson Wrecker Service",
+    "wof:parent_id":420517523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -84.492802,
+    34.260404,
+    -84.492802,
+    34.260404
+],
+  "geometry": {"coordinates":[-84.492802,34.260404],"type":"Point"}
+}

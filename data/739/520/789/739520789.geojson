@@ -1,0 +1,71 @@
+{
+  "id": 739520789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.76832,32.443143,-81.76832,32.443143",
+    "geom:latitude":32.443143,
+    "geom:longitude":-81.76832,
+    "iso:country":"US",
+    "sg:address":"368 Northside Dr E",
+    "sg:city":"Statesboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 489 6246",
+    "sg:postcode":"30458",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935999,
+        102084405,
+        85823149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rtMVVtMpgJ4fzgQUACRWF_32.443143_-81.768320@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461908801,
+    "wof:geomhash":"d83a85801ce0e9318c2e4fb24434cb16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85823149,
+            "region_id":85688535,
+            "venue_id":739520789
+        }
+    ],
+    "wof:id":739520789,
+    "wof:lastmodified":1461908801,
+    "wof:name":"Stanley J Shin MD",
+    "wof:parent_id":85823149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -81.76832,
+    32.443143,
+    -81.76832,
+    32.443143
+],
+  "geometry": {"coordinates":[-81.76832,32.443143],"type":"Point"}
+}

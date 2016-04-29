@@ -1,0 +1,85 @@
+{
+  "id": 739787903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.299622,34.044064,-84.299622,34.044064",
+    "geom:latitude":34.044064,
+    "geom:longitude":-84.299622,
+    "iso:country":"US",
+    "sg:address":"7001 N Point Pkwy",
+    "sg:city":"Alpharetta",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 410 3800",
+    "sg:postcode":"30022",
+    "sg:province":"GA",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"https://www.wachovia.com/?DCMP=KNL-CPS-DS-Directory-0703&HBX_PK=Banks&HBX_OU=71",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937153,
+        102083603,
+        85827335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5v5MwpiT31RC1hc6SwUfaS_34.044064_-84.299622@1303262572"
+    },
+    "wof:country":"US",
+    "wof:created":1461915271,
+    "wof:geomhash":"49ff345c8a5db3ce31f889ccf819d050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937153,
+            "neighbourhood_id":85827335,
+            "region_id":85688535,
+            "venue_id":739787903
+        }
+    ],
+    "wof:id":739787903,
+    "wof:lastmodified":1461915271,
+    "wof:name":"Wachovia Bank",
+    "wof:parent_id":85827335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -84.299622,
+    34.044064,
+    -84.299622,
+    34.044064
+],
+  "geometry": {"coordinates":[-84.299622,34.044064],"type":"Point"}
+}

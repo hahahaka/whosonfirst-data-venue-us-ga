@@ -1,0 +1,71 @@
+{
+  "id": 740060673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.164413,31.981001,-81.164413,31.981001",
+    "geom:latitude":31.981001,
+    "geom:longitude":-81.164413,
+    "iso:country":"US",
+    "sg:address":"1 University Dr",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 961 8303",
+    "sg:postcode":"31419",
+    "sg:province":"GA",
+    "sg:tags":[
+        "college"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936939,
+        102082337,
+        85858259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AgCBSL89NakMVa20dUiZw_31.981001_-81.164413@1303262642"
+    },
+    "wof:country":"US",
+    "wof:created":1461926554,
+    "wof:geomhash":"b3ffabb9e1102fbb09a8aa3b68ac040f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85858259,
+            "region_id":85688535,
+            "venue_id":740060673
+        }
+    ],
+    "wof:id":740060673,
+    "wof:lastmodified":1461926554,
+    "wof:name":"Armstong Atlantic State University",
+    "wof:parent_id":85858259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [
+    -81.164413,
+    31.981001,
+    -81.164413,
+    31.981001
+],
+  "geometry": {"coordinates":[-81.164413,31.981001],"type":"Point"}
+}

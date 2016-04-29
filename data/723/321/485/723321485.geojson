@@ -1,0 +1,71 @@
+{
+  "id": 723321485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.941878,34.766418,-84.941878,34.766418",
+    "geom:latitude":34.766418,
+    "geom:longitude":-84.941878,
+    "iso:country":"US",
+    "sg:address":"1423 Murray Ave",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 278 1244",
+    "sg:postcode":"30721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hCuMgQxTYqC7H0DGspPCk_34.766418_-84.941878@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899474,
+    "wof:geomhash":"149cdb5a76f01e1cd3ab571b6dd0cd1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":723321485
+        }
+    ],
+    "wof:id":723321485,
+    "wof:lastmodified":1461899474,
+    "wof:name":"Whaleys Wrecker Service",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [
+    -84.941878,
+    34.766418,
+    -84.941878,
+    34.766418
+],
+  "geometry": {"coordinates":[-84.941878,34.766418],"type":"Point"}
+}

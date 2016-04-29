@@ -1,0 +1,73 @@
+{
+  "id": 740040109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.955352,34.790416,-84.955352,34.790416",
+    "geom:latitude":34.790416,
+    "geom:longitude":-84.955352,
+    "iso:country":"US",
+    "sg:address":"815 Legion Dr",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 463 6701",
+    "sg:postcode":"30721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "container",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JBmijmumbwdznUeUwEyXl_34.790416_-84.955352@1303262637"
+    },
+    "wof:country":"US",
+    "wof:created":1461925609,
+    "wof:geomhash":"b55b0dd48c6e94d7116fcdb6cd81e879",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":740040109
+        }
+    ],
+    "wof:id":740040109,
+    "wof:lastmodified":1461925609,
+    "wof:name":"Smithway Logistics, Inc",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "container",
+        "broker"
+    ]
+},
+  "bbox": [
+    -84.955352,
+    34.790416,
+    -84.955352,
+    34.790416
+],
+  "geometry": {"coordinates":[-84.955352,34.790416],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 739759317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.276199,33.9235,-84.276199,33.9235",
+    "geom:latitude":33.9235,
+    "geom:longitude":-84.276199,
+    "iso:country":"US",
+    "sg:address":"2679 Peachtree Sq",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 751 7078",
+    "sg:postcode":"30360",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shuttle",
+        "airport",
+        "limousine"
+    ],
+    "sg:website":"www.atlanticlimo-ga.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qeOKKU0RArp2GGShTJxpe_33.923504_-84.276532@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461914099,
+    "wof:geomhash":"d43ae78dc1ec476103cb54f86dbedcad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":739759317
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":739759317
+        }
+    ],
+    "wof:id":739759317,
+    "wof:lastmodified":1461914099,
+    "wof:name":"Atlantic Limousine Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "airport",
+        "limousine"
+    ]
+},
+  "bbox": [
+    -84.276199,
+    33.9235,
+    -84.276199,
+    33.9235
+],
+  "geometry": {"coordinates":[-84.27619900000001,33.9235],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 740057051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.573703,31.855456,-81.573703,31.855456",
+    "geom:latitude":31.855456,
+    "geom:longitude":-81.573703,
+    "iso:country":"US",
+    "sg:address":"1113 E Oglethorpe Hwy",
+    "sg:city":"Hinesville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 876 2173",
+    "sg:postcode":"31313",
+    "sg:province":"GA",
+    "sg:tags":[
+        "parish",
+        "medical",
+        "government-county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936767,
+        102082901,
+        85820995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BbhHxNQIQa8KgnAC6FZna_31.855456_-81.573703@1303262641"
+    },
+    "wof:country":"US",
+    "wof:created":1461926393,
+    "wof:geomhash":"1d0ed806cc41439b16d7376c73ccd7cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082901,
+            "locality_id":85936767,
+            "neighbourhood_id":85820995,
+            "region_id":85688535,
+            "venue_id":740057051
+        }
+    ],
+    "wof:id":740057051,
+    "wof:lastmodified":1461926393,
+    "wof:name":"Liberty County Health Center",
+    "wof:parent_id":85820995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parish",
+        "medical",
+        "government-county"
+    ]
+},
+  "bbox": [
+    -81.573703,
+    31.855456,
+    -81.573703,
+    31.855456
+],
+  "geometry": {"coordinates":[-81.57370299999999,31.855456],"type":"Point"}
+}

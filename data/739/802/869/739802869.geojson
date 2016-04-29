@@ -1,0 +1,80 @@
+{
+  "id": 739802869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.144096,34.182331,-84.144096,34.182331",
+    "geom:latitude":34.182331,
+    "geom:longitude":-84.144096,
+    "iso:country":"US",
+    "sg:address":"100 Greenfield Dr",
+    "sg:city":"Cumming",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 947 8222",
+    "sg:postcode":"30040",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "truck",
+        "painting",
+        "repairing"
+    ],
+    "sg:website":"http://WWW.HIGHWAY9AUTOCENTER.COM",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936811,
+        102082317,
+        85842073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61FKJD7y8gOgXZwEUsIwGx_34.182331_-84.144096@1303262576"
+    },
+    "wof:country":"US",
+    "wof:created":1461915910,
+    "wof:geomhash":"572f656cc5b3003af739108894988c43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082317,
+            "locality_id":85936811,
+            "neighbourhood_id":85842073,
+            "region_id":85688535,
+            "venue_id":739802869
+        }
+    ],
+    "wof:id":739802869,
+    "wof:lastmodified":1461915910,
+    "wof:name":"Highway 9 Collision Center",
+    "wof:parent_id":85842073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "truck",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -84.144096,
+    34.182331,
+    -84.144096,
+    34.182331
+],
+  "geometry": {"coordinates":[-84.144096,34.182331],"type":"Point"}
+}

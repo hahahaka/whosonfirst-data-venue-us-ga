@@ -1,0 +1,73 @@
+{
+  "id": 723348901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.028319,33.077752,-85.028319,33.077752",
+    "geom:latitude":33.077752,
+    "geom:longitude":-85.028319,
+    "iso:country":"US",
+    "sg:address":"1322 New Franklin Rd",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 882 3383",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OR0UzVbrZPoXphNxBS0X4_33.077752_-85.028319@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899975,
+    "wof:geomhash":"b13f316cc84e6d5694f3f385f5e78135",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":723348901
+        }
+    ],
+    "wof:id":723348901,
+    "wof:lastmodified":1461899975,
+    "wof:name":"Nelms Electrical Service",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.028319,
+    33.077752,
+    -85.028319,
+    33.077752
+],
+  "geometry": {"coordinates":[-85.028319,33.077752],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 739774563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.987479,32.471275,-84.987479,32.471275",
+    "geom:latitude":32.471275,
+    "geom:longitude":-84.987479,
+    "iso:country":"US",
+    "sg:address":"1338 Veterans Pkwy",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/columbus/203229-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"31901",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85882117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1euBzMlxMt28PP9HoKufdo_32.471275_-84.987479@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914732,
+    "wof:geomhash":"36bc81983b73f0fc6470dd87f565afaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85882117,
+            "region_id":85688535,
+            "venue_id":739774563
+        }
+    ],
+    "wof:id":739774563,
+    "wof:lastmodified":1461914732,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85882117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.987479,
+    32.471275,
+    -84.987479,
+    32.471275
+],
+  "geometry": {"coordinates":[-84.98747899999999,32.471275],"type":"Point"}
+}

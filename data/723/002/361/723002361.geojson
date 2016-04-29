@@ -1,0 +1,76 @@
+{
+  "id": 723002361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.779995,32.300941,-81.779995,32.300941",
+    "geom:latitude":32.300941,
+    "geom:longitude":-81.779995,
+    "iso:country":"US",
+    "sg:address":"1292 Jim Waters Rd",
+    "sg:city":"Statesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 839 3945",
+    "sg:postcode":"30458",
+    "sg:province":"GA",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935999,
+        102084405,
+        85821351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DF2wJaRdhfR1FwIEhNNfi_32.300941_-81.779995@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461892969,
+    "wof:geomhash":"1ef8ef100c87659c59e0be10ab1413f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85821351,
+            "region_id":85688535,
+            "venue_id":723002361
+        }
+    ],
+    "wof:id":723002361,
+    "wof:lastmodified":1461892969,
+    "wof:name":"Bulloch Septic Tank Service",
+    "wof:parent_id":85821351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -81.779995,
+    32.300941,
+    -81.779995,
+    32.300941
+],
+  "geometry": {"coordinates":[-81.779995,32.300941],"type":"Point"}
+}

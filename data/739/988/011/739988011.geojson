@@ -1,0 +1,73 @@
+{
+  "id": 739988011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.311982,33.930106,-84.311982,33.930106",
+    "geom:latitude":33.930106,
+    "geom:longitude":-84.311982,
+    "iso:country":"US",
+    "sg:address":"1861 Peeler Road",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 730 8219",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "sg:tags":[
+        "cardiologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85890023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Yo9o8XRnOyiZf2k4ktKSn_33.930106_-84.311982@1303262624"
+    },
+    "wof:country":"US",
+    "wof:created":1461923477,
+    "wof:geomhash":"b5e8d7ef193550bf60bd2bcfe4e82562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890023,
+            "region_id":85688535,
+            "venue_id":739988011
+        }
+    ],
+    "wof:id":739988011,
+    "wof:lastmodified":1461923477,
+    "wof:name":"Georgia Clinic",
+    "wof:parent_id":85890023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cardiologist"
+    ]
+},
+  "bbox": [
+    -84.311982,
+    33.930106,
+    -84.311982,
+    33.930106
+],
+  "geometry": {"coordinates":[-84.311982,33.930106],"type":"Point"}
+}

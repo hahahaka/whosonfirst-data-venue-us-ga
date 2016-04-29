@@ -1,0 +1,74 @@
+{
+  "id": 739767383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.78725,33.383393,-84.78725,33.383393",
+    "geom:latitude":33.383393,
+    "geom:longitude":-84.78725,
+    "iso:country":"US",
+    "sg:address":"44 Bullsboro Dr",
+    "sg:city":"Newnan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/newnan/87332-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 251 2223",
+    "sg:postcode":"30263",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936351,
+        102084443,
+        85833133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ATfjYeq116YWQYp1rw08s_33.383393_-84.787250@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914433,
+    "wof:geomhash":"3c70a56808a065b9c75027d59998ff02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084443,
+            "locality_id":85936351,
+            "neighbourhood_id":85833133,
+            "region_id":85688535,
+            "venue_id":739767383
+        }
+    ],
+    "wof:id":739767383,
+    "wof:lastmodified":1461914433,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85833133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.78725,
+    33.383393,
+    -84.78725,
+    33.383393
+],
+  "geometry": {"coordinates":[-84.78725,33.383393],"type":"Point"}
+}

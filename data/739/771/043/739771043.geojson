@@ -1,0 +1,74 @@
+{
+  "id": 739771043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.929384,34.764822,-84.929384,34.764822",
+    "geom:latitude":34.764822,
+    "geom:longitude":-84.929384,
+    "iso:country":"US",
+    "sg:address":"2535 E Walnut Ave",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/dalton/55781-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 279 3646",
+    "sg:postcode":"30721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VmS6YPp0MJk5vZTwYti1Q_34.764822_-84.929384@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914585,
+    "wof:geomhash":"2a6fa09ba2ad8339eb2279a19e706d53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":739771043
+        }
+    ],
+    "wof:id":739771043,
+    "wof:lastmodified":1461914585,
+    "wof:name":"Subway",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.929384,
+    34.764822,
+    -84.929384,
+    34.764822
+],
+  "geometry": {"coordinates":[-84.929384,34.764822],"type":"Point"}
+}

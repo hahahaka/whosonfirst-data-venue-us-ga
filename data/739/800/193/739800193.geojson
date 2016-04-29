@@ -1,0 +1,82 @@
+{
+  "id": 739800193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.172867,33.716458,-84.172867,33.716458",
+    "geom:latitude":33.716458,
+    "geom:longitude":-84.172867,
+    "iso:country":"US",
+    "sg:address":"5313 Dividend Dr",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 808 1542",
+    "sg:postcode":"30035",
+    "sg:province":"GA",
+    "sg:tags":[
+        "cable-non-electric",
+        "wire",
+        "cable-electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937263,
+        102084539,
+        85890037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1A35PUQbSudnYTa4LoRu6v_33.716458_-84.172867@1303262575"
+    },
+    "wof:country":"US",
+    "wof:created":1461915785,
+    "wof:geomhash":"841ccb7e7e8f2bc530eb0224957e4c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937263,
+            "neighbourhood_id":85890037,
+            "region_id":85688535,
+            "venue_id":739800193
+        }
+    ],
+    "wof:id":739800193,
+    "wof:lastmodified":1461915785,
+    "wof:name":"Ford",
+    "wof:parent_id":85890037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cable-non-electric",
+        "wire",
+        "cable-electric"
+    ]
+},
+  "bbox": [
+    -84.172867,
+    33.716458,
+    -84.172867,
+    33.716458
+],
+  "geometry": {"coordinates":[-84.172867,33.716458],"type":"Point"}
+}

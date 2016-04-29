@@ -1,0 +1,73 @@
+{
+  "id": 722573247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.153652,33.987382,-84.153652,33.987382",
+    "geom:latitude":33.987382,
+    "geom:longitude":-84.153652,
+    "iso:country":"US",
+    "sg:address":"3615 Buford Hwy",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 476 2170",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "towing",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vRXs15exlA2kTPH0BxGPX_33.987382_-84.153652@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461884466,
+    "wof:geomhash":"567e939c02401d24ac502e130719ee9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":722573247
+        }
+    ],
+    "wof:id":722573247,
+    "wof:lastmodified":1461884466,
+    "wof:name":"Car Carriers",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing",
+        "general"
+    ]
+},
+  "bbox": [
+    -84.153652,
+    33.987382,
+    -84.153652,
+    33.987382
+],
+  "geometry": {"coordinates":[-84.15365199999999,33.987382],"type":"Point"}
+}

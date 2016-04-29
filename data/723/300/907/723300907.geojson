@@ -1,0 +1,71 @@
+{
+  "id": 723300907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.277588,30.831314,-83.277588,30.831314",
+    "geom:latitude":30.831314,
+    "geom:longitude":-83.277588,
+    "iso:country":"US",
+    "sg:address":"223 E Hill Ave",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 253 9988",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HXDse6Mg5rjvHOvcRbn9b_30.831314_-83.277588@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899077,
+    "wof:geomhash":"9585bbcd7fc6c95026f63fe0f5124763",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843077,
+            "region_id":85688535,
+            "venue_id":723300907
+        }
+    ],
+    "wof:id":723300907,
+    "wof:lastmodified":1461899077,
+    "wof:name":"Sentinel Offender Svc",
+    "wof:parent_id":85843077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -83.277588,
+    30.831314,
+    -83.277588,
+    30.831314
+],
+  "geometry": {"coordinates":[-83.27758799999999,30.831314],"type":"Point"}
+}

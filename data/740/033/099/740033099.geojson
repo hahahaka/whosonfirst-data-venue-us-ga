@@ -1,0 +1,94 @@
+{
+  "id": 740033099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.383347,33.960388,-83.383347,33.960388",
+    "geom:latitude":33.960388,
+    "geom:longitude":-83.383347,
+    "iso:country":"US",
+    "sg:address":"298 Prince Ave",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Podiatrist",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 546 7417",
+    "sg:postcode":"30601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeons",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936177,
+        102081713,
+        85807659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WW226fc7Ros8TXjR3ix8V_33.960388_-83.383347@1303262635"
+    },
+    "wof:country":"US",
+    "wof:created":1461925292,
+    "wof:geomhash":"a54718f087a07c189ae364d5a9993159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081713,
+            "locality_id":85936177,
+            "neighbourhood_id":85807659,
+            "region_id":85688535,
+            "venue_id":740033099
+        }
+    ],
+    "wof:id":740033099,
+    "wof:lastmodified":1461925292,
+    "wof:name":"Vasenden N Arvid Dpm",
+    "wof:parent_id":85807659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeons",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.383347,
+    33.960388,
+    -83.383347,
+    33.960388
+],
+  "geometry": {"coordinates":[-83.383347,33.960388],"type":"Point"}
+}

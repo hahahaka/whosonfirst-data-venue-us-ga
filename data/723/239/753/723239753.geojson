@@ -1,0 +1,84 @@
+{
+  "id": 723239753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.779535,32.445461,-81.779535,32.445461",
+    "geom:latitude":32.445461,
+    "geom:longitude":-81.779535,
+    "iso:country":"US",
+    "sg:address":"115 S Broad St",
+    "sg:city":"Statesboro",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 489 9777",
+    "sg:postcode":"30458",
+    "sg:province":"GA",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935999,
+        102084405,
+        85823149,
+        102191575,
+        85828471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jy9TLVOVGnIzytQ8EkqFL_32.445461_-81.779535@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897907,
+    "wof:geomhash":"3f0681b2b2b0241d0010d6072f896990",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85823149,
+            "region_id":85688535,
+            "venue_id":723239753
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85828471,
+            "region_id":85688535,
+            "venue_id":723239753
+        }
+    ],
+    "wof:id":723239753,
+    "wof:lastmodified":1461897907,
+    "wof:name":"Anywhere Freight Systems",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.779535,
+    32.445461,
+    -81.779535,
+    32.445461
+],
+  "geometry": {"coordinates":[-81.779535,32.445461],"type":"Point"}
+}

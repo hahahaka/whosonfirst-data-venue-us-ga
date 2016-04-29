@@ -1,0 +1,75 @@
+{
+  "id": 739877899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.562215,34.013639,-84.562215,34.013639",
+    "geom:latitude":34.013639,
+    "geom:longitude":-84.562215,
+    "iso:country":"US",
+    "sg:address":"440 Barrett Pkwy Suite 38",
+    "sg:city":"Kennesaw",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 429 1389",
+    "sg:postcode":"30144",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shipping"
+    ],
+    "sg:website":"www.fedex.com/us/office/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5q1ZGr94fS2EOM5LYub8lg_34.013639_-84.562215@1303262595"
+    },
+    "wof:country":"US",
+    "wof:created":1461918985,
+    "wof:geomhash":"8ef971cb3c1fcabca94a63422fb752a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739877899
+        }
+    ],
+    "wof:id":739877899,
+    "wof:lastmodified":1461918985,
+    "wof:name":"FedEx Office Print & Ship Center",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipping"
+    ]
+},
+  "bbox": [
+    -84.562215,
+    34.013639,
+    -84.562215,
+    34.013639
+],
+  "geometry": {"coordinates":[-84.56221499999999,34.013639],"type":"Point"}
+}

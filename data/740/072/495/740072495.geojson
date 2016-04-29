@@ -1,0 +1,81 @@
+{
+  "id": 740072495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.819149,32.589179,-84.819149,32.589179",
+    "geom:latitude":32.589179,
+    "geom:longitude":-84.819149,
+    "iso:country":"US",
+    "sg:address":"15 Wild Fox Ln",
+    "sg:city":"Midland",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 561 6667",
+    "sg:postcode":"31820",
+    "sg:province":"GA",
+    "sg:tags":[
+        "fire",
+        "property",
+        "casualty"
+    ],
+    "sg:website":"http://www.federatedinsurance.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936099,
+        102084477,
+        85835873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yZzIWwVhakip9ht2v93e5_32.589179_-84.819149@1303262645"
+    },
+    "wof:country":"US",
+    "wof:created":1461927071,
+    "wof:geomhash":"1a5176e16139971a6e04c9002c95837d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084477,
+            "locality_id":85936099,
+            "neighbourhood_id":85835873,
+            "region_id":85688535,
+            "venue_id":740072495
+        }
+    ],
+    "wof:id":740072495,
+    "wof:lastmodified":1461927071,
+    "wof:name":"Federated Insurance",
+    "wof:parent_id":85835873,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "property",
+        "casualty"
+    ]
+},
+  "bbox": [
+    -84.819149,
+    32.589179,
+    -84.819149,
+    32.589179
+],
+  "geometry": {"coordinates":[-84.819149,32.589179],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 739800835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.120697,33.699501,-84.120697,33.699501",
+    "geom:latitude":33.699501,
+    "geom:longitude":-84.120697,
+    "iso:country":"US",
+    "sg:address":"2924 Evans Mill Rd",
+    "sg:city":"Lithonia",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 484 1625",
+    "sg:postcode":"30038",
+    "sg:province":"GA",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937263,
+        102084539,
+        85890037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xnL0DaUzfMPyj5ANlJE7g_33.699501_-84.120697@1303262575"
+    },
+    "wof:country":"US",
+    "wof:created":1461915815,
+    "wof:geomhash":"fe95b4f4699a273ce080536b2186fd71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937263,
+            "neighbourhood_id":85890037,
+            "region_id":85688535,
+            "venue_id":739800835
+        }
+    ],
+    "wof:id":739800835,
+    "wof:lastmodified":1461915815,
+    "wof:name":"YMCA Lithonia Child Care",
+    "wof:parent_id":85890037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -84.120697,
+    33.699501,
+    -84.120697,
+    33.699501
+],
+  "geometry": {"coordinates":[-84.12069700000001,33.699501],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 739526135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.170989,33.533729,-82.170989,33.533729",
+    "geom:latitude":33.533729,
+    "geom:longitude":-82.170989,
+    "iso:country":"US",
+    "sg:address":"4819 Doe Run",
+    "sg:city":"Evans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 860 9575",
+    "sg:postcode":"30809",
+    "sg:province":"GA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WXQnbU5VHpoJbiC1dZ5LB_33.533729_-82.170989@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461908907,
+    "wof:geomhash":"feb7a4b9fb5fd4f02a1614081d5ecffc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":739526135
+        }
+    ],
+    "wof:id":739526135,
+    "wof:lastmodified":1461908907,
+    "wof:name":"Kernaghan Wrecker Svc",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -82.170989,
+    33.533729,
+    -82.170989,
+    33.533729
+],
+  "geometry": {"coordinates":[-82.17098900000001,33.533729],"type":"Point"}
+}

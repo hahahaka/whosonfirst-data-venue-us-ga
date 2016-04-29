@@ -1,0 +1,89 @@
+{
+  "id": 739805865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.073948,33.976088,-84.073948,33.976088",
+    "geom:latitude":33.976088,
+    "geom:longitude":-84.073948,
+    "iso:country":"US",
+    "sg:address":"5710 Sugarloaf Pkwy",
+    "sg:city":"Lawrenceville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 746 7287",
+    "sg:postcode":"30043",
+    "sg:province":"GA",
+    "sg:tags":[
+        "urgent",
+        "medical",
+        "nurse"
+    ],
+    "sg:website":"http://www.minuteclinic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MzcDJFBOUQ8GLes3fi6IE_33.976088_-84.073948@1303262576"
+    },
+    "wof:country":"US",
+    "wof:created":1461916098,
+    "wof:geomhash":"4a16aef353320d0a225130d0bf206b54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":739805865
+        }
+    ],
+    "wof:id":739805865,
+    "wof:lastmodified":1461916098,
+    "wof:name":"MinuteClinic",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "urgent",
+        "medical",
+        "nurse"
+    ]
+},
+  "bbox": [
+    -84.073948,
+    33.976088,
+    -84.073948,
+    33.976088
+],
+  "geometry": {"coordinates":[-84.073948,33.976088],"type":"Point"}
+}

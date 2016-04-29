@@ -1,0 +1,99 @@
+{
+  "id": 740011035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.337153,33.927396,-84.337153,33.927396",
+    "geom:latitude":33.927396,
+    "geom:longitude":-84.337153,
+    "iso:country":"US",
+    "sg:address":"4540 Ashford Dunwoody Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 522 8950",
+    "sg:postcode":"30346",
+    "sg:province":"GA",
+    "sg:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ],
+    "sg:website":"www.mcdonalds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85890003,
+        420559945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rain9ZVnvNsVq4Xer9R6T_33.927396_-84.337153@1303262630"
+    },
+    "wof:country":"US",
+    "wof:created":1461924353,
+    "wof:geomhash":"d0185ff4c620996cf60d67f958be401d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890003,
+            "region_id":85688535,
+            "venue_id":740011035
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":420559945,
+            "region_id":85688535,
+            "venue_id":740011035
+        }
+    ],
+    "wof:id":740011035,
+    "wof:lastmodified":1461924353,
+    "wof:name":"McDonald's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -84.337153,
+    33.927396,
+    -84.337153,
+    33.927396
+],
+  "geometry": {"coordinates":[-84.337153,33.927396],"type":"Point"}
+}

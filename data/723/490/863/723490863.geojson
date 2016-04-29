@@ -1,0 +1,73 @@
+{
+  "id": 723490863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.093321,32.081471,-81.093321,32.081471",
+    "geom:latitude":32.081471,
+    "geom:longitude":-81.093321,
+    "iso:country":"US",
+    "sg:address":"126 W Bay St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 644 7154",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "cargo",
+        "containerized"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936939,
+        102082337,
+        85880917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eCl9qcWYxZqVYIO3rLIY8_32.081471_-81.093321@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461902757,
+    "wof:geomhash":"b332b204e53e27fb30f95dce428b3569",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880917,
+            "region_id":85688535,
+            "venue_id":723490863
+        }
+    ],
+    "wof:id":723490863,
+    "wof:lastmodified":1461902757,
+    "wof:name":"Inchape Shipping",
+    "wof:parent_id":85880917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "containerized"
+    ]
+},
+  "bbox": [
+    -81.093321,
+    32.081471,
+    -81.093321,
+    32.081471
+],
+  "geometry": {"coordinates":[-81.093321,32.081471],"type":"Point"}
+}

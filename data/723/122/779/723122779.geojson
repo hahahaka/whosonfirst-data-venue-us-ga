@@ -1,0 +1,85 @@
+{
+  "id": 723122779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.336381,33.950432,-84.336381,33.950432",
+    "geom:latitude":33.950432,
+    "geom:longitude":-84.336381,
+    "iso:country":"US",
+    "sg:address":"5579 Chamblee Dunwoody Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 512 7544",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85815577,
+        420560157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36w81sIqMHY3GOJt0VsoZH_33.950432_-84.336381@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461895566,
+    "wof:geomhash":"4be1f05ad45a26261201fd5b795e96bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85815577,
+            "region_id":85688535,
+            "venue_id":723122779
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":420560157,
+            "region_id":85688535,
+            "venue_id":723122779
+        }
+    ],
+    "wof:id":723122779,
+    "wof:lastmodified":1461895566,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -84.336381,
+    33.950432,
+    -84.336381,
+    33.950432
+],
+  "geometry": {"coordinates":[-84.336381,33.950432],"type":"Point"}
+}

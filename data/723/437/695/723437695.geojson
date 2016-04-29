@@ -1,0 +1,87 @@
+{
+  "id": 723437695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.786077,32.452459,-81.786077,32.452459",
+    "geom:latitude":32.452459,
+    "geom:longitude":-81.786077,
+    "iso:country":"US",
+    "sg:address":"74 Aken St",
+    "sg:city":"Statesboro",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 764 5095",
+    "sg:postcode":"30458",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935999,
+        102084405,
+        85823149,
+        102191575,
+        85828471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tyyAmnFJptO6fj3ybr0kU_32.452459_-81.786077@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901705,
+    "wof:geomhash":"b067cecdec087c14492b4405a4e5db98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85823149,
+            "region_id":85688535,
+            "venue_id":723437695
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85828471,
+            "region_id":85688535,
+            "venue_id":723437695
+        }
+    ],
+    "wof:id":723437695,
+    "wof:lastmodified":1461901705,
+    "wof:name":"Sarah's Beauty Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -81.786077,
+    32.452459,
+    -81.786077,
+    32.452459
+],
+  "geometry": {"coordinates":[-81.78607700000001,32.452459],"type":"Point"}
+}

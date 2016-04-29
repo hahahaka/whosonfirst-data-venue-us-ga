@@ -1,0 +1,71 @@
+{
+  "id": 739299451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.83033,34.204187,-84.83033,34.204187",
+    "geom:latitude":34.204187,
+    "geom:longitude":-84.83033,
+    "iso:country":"US",
+    "sg:address":"35 Franklin Dr",
+    "sg:city":"Cartersville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 382 4431",
+    "sg:postcode":"30120",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85847973,
+        102082937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MxgNDKwf1yqW0oMszRIOA_34.204187_-84.830330@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461904561,
+    "wof:geomhash":"9025220dc98fc24e568db5f477f66aa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082937,
+            "neighbourhood_id":85847973,
+            "region_id":85688535,
+            "venue_id":739299451
+        }
+    ],
+    "wof:id":739299451,
+    "wof:lastmodified":1461904561,
+    "wof:name":"Franklin & Brown Well Pump Svc",
+    "wof:parent_id":85847973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.83033,
+    34.204187,
+    -84.83033,
+    34.204187
+],
+  "geometry": {"coordinates":[-84.83033,34.204187],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 739943719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.392256,33.812325,-84.392256,33.812325",
+    "geom:latitude":33.812325,
+    "geom:longitude":-84.392256,
+    "iso:country":"US",
+    "sg:address":"2221 Peachtree Rd Ste D341",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 474 4000",
+    "sg:postcode":"30309",
+    "sg:province":"GA",
+    "sg:tags":[
+        "delivery",
+        "repair",
+        "courier"
+    ],
+    "sg:website":"www.deliveryworx.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dX5QTcrQqWPkP871dOX4u_33.812325_-84.392256@1303262612"
+    },
+    "wof:country":"US",
+    "wof:created":1461921648,
+    "wof:geomhash":"f84a999605420e2e7c9a936449047ede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872047,
+            "region_id":85688535,
+            "venue_id":739943719
+        }
+    ],
+    "wof:id":739943719,
+    "wof:lastmodified":1461921648,
+    "wof:name":"Delivery Worx",
+    "wof:parent_id":85872047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "repair",
+        "courier"
+    ]
+},
+  "bbox": [
+    -84.392256,
+    33.812325,
+    -84.392256,
+    33.812325
+],
+  "geometry": {"coordinates":[-84.392256,33.812325],"type":"Point"}
+}

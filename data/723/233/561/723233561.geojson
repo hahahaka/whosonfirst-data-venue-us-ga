@@ -1,0 +1,71 @@
+{
+  "id": 723233561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.100244,33.496223,-82.100244,33.496223",
+    "geom:latitude":33.496223,
+    "geom:longitude":-82.100244,
+    "iso:country":"US",
+    "sg:address":"3968 Willowood Rd",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 855 5866",
+    "sg:postcode":"30907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0trsWPoNnE3GmIeBVqnGGi_33.496223_-82.100244@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897781,
+    "wof:geomhash":"f5f2312f6cfa78acfc268c7a328688b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":723233561
+        }
+    ],
+    "wof:id":723233561,
+    "wof:lastmodified":1461897781,
+    "wof:name":"Cleanliness Is",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -82.100244,
+    33.496223,
+    -82.100244,
+    33.496223
+],
+  "geometry": {"coordinates":[-82.100244,33.496223],"type":"Point"}
+}

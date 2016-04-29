@@ -1,0 +1,88 @@
+{
+  "id": 740064633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.690249,30.800194,-81.690249,30.800194",
+    "geom:latitude":30.800194,
+    "geom:longitude":-81.690249,
+    "iso:country":"US",
+    "sg:address":"121 N Lee St",
+    "sg:city":"Kingsland",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 576 2070",
+    "sg:postcode":"31548",
+    "sg:province":"GA",
+    "sg:tags":[
+        "ceremony",
+        "chapel",
+        "marriage",
+        "wedding"
+    ],
+    "sg:website":"http://www.kingslandweddingchapel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937043,
+        102081693,
+        85812807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JieYYor2AdQ6XruGyIC1w_30.800194_-81.690249@1303262643"
+    },
+    "wof:country":"US",
+    "wof:created":1461926729,
+    "wof:geomhash":"75da963d21c9687458f2ed1c8089a4ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081693,
+            "locality_id":85937043,
+            "neighbourhood_id":85812807,
+            "region_id":85688535,
+            "venue_id":740064633
+        }
+    ],
+    "wof:id":740064633,
+    "wof:lastmodified":1461926729,
+    "wof:name":"Wedding Chapel Original Kingsland",
+    "wof:parent_id":85812807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ceremony",
+        "chapel",
+        "marriage",
+        "wedding"
+    ]
+},
+  "bbox": [
+    -81.690249,
+    30.800194,
+    -81.690249,
+    30.800194
+],
+  "geometry": {"coordinates":[-81.69024899999999,30.800194],"type":"Point"}
+}

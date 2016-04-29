@@ -1,0 +1,71 @@
+{
+  "id": 723387001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.695911,32.443517,-83.695911,32.443517",
+    "geom:latitude":32.443517,
+    "geom:longitude":-83.695911,
+    "iso:country":"US",
+    "sg:address":"101 Hill Rd",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 988 0858",
+    "sg:postcode":"31069",
+    "sg:province":"GA",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85806619,
+        102083617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YNNV68oiQsznptyKAw5cm_32.443517_-83.695911@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900713,
+    "wof:geomhash":"1871a682f3753177af4d175101c44155",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "neighbourhood_id":85806619,
+            "region_id":85688535,
+            "venue_id":723387001
+        }
+    ],
+    "wof:id":723387001,
+    "wof:lastmodified":1461900713,
+    "wof:name":"W & W Landscape",
+    "wof:parent_id":85806619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.695911,
+    32.443517,
+    -83.695911,
+    32.443517
+],
+  "geometry": {"coordinates":[-83.695911,32.443517],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 723198109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.088981,32.079691,-81.088981,32.079691",
+    "geom:latitude":32.079691,
+    "geom:longitude":-81.088981,
+    "iso:country":"US",
+    "sg:address":"220 E Bryan St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 232 3716",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936939,
+        102082337,
+        85880917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_719K1HvLAdqymEUfXDmG4y_32.079691_-81.088981@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897039,
+    "wof:geomhash":"cb20fe9b53ef3816defcce9957374520",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880917,
+            "region_id":85688535,
+            "venue_id":723198109
+        }
+    ],
+    "wof:id":723198109,
+    "wof:lastmodified":1461897039,
+    "wof:name":"Federal Bureau-Investigation",
+    "wof:parent_id":85880917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -81.088981,
+    32.079691,
+    -81.088981,
+    32.079691
+],
+  "geometry": {"coordinates":[-81.088981,32.079691],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 739873633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.812026,33.817721,-84.812026,33.817721",
+    "geom:latitude":33.817721,
+    "geom:longitude":-84.812026,
+    "iso:country":"US",
+    "sg:address":"4815 Ridge Rd",
+    "sg:city":"Douglasville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 949 1652",
+    "sg:postcode":"30134",
+    "sg:province":"GA",
+    "sg:tags":[
+        "super"
+    ],
+    "sg:website":"http://www.kroger.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936335,
+        102084665,
+        85835843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77c7g3AoMcFnF0dXhhVuni_33.817721_-84.812026@1303262594"
+    },
+    "wof:country":"US",
+    "wof:created":1461918820,
+    "wof:geomhash":"64e3e1705a1803bb710ac81c69f4a49e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "locality_id":85936335,
+            "neighbourhood_id":85835843,
+            "region_id":85688535,
+            "venue_id":739873633
+        }
+    ],
+    "wof:id":739873633,
+    "wof:lastmodified":1461918820,
+    "wof:name":"Kroger",
+    "wof:parent_id":85835843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "super"
+    ]
+},
+  "bbox": [
+    -84.812026,
+    33.817721,
+    -84.812026,
+    33.817721
+],
+  "geometry": {"coordinates":[-84.812026,33.817721],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 739995721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.280899,33.897301,-84.280899,33.897301",
+    "geom:latitude":33.897301,
+    "geom:longitude":-84.280899,
+    "iso:country":"US",
+    "sg:address":"5315 Buford Hwy NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 936 5549",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85936435,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yfHQAZqE9jhUfhgOpUZGb_33.897301_-84.280899@1303262626"
+    },
+    "wof:country":"US",
+    "wof:created":1461923772,
+    "wof:geomhash":"7aacf0a11f529481fb2bffa100792ce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":739995721
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":739995721
+        }
+    ],
+    "wof:id":739995721,
+    "wof:lastmodified":1461923772,
+    "wof:name":"Jaime's Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.280899,
+    33.897301,
+    -84.280899,
+    33.897301
+],
+  "geometry": {"coordinates":[-84.28089900000001,33.897301],"type":"Point"}
+}

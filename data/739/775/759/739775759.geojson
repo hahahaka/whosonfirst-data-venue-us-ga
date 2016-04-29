@@ -1,0 +1,91 @@
+{
+  "id": 739775759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.415784,33.800991,-84.415784,33.800991",
+    "geom:latitude":33.800991,
+    "geom:longitude":-84.415784,
+    "iso:country":"US",
+    "sg:address":"1715 Howell Mill Rd NW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/atlanta/234174-piccadilly-cafeteria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 352 1743",
+    "sg:postcode":"30318",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "southwestern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872135,
+        85872149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4leGeuW9p6tFCILE7R12o8_33.801048_-84.415682@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461914773,
+    "wof:geomhash":"d18dc4f649c4e337c291b5bae5003c37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872135,
+            "region_id":85688535,
+            "venue_id":739775759
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872149,
+            "region_id":85688535,
+            "venue_id":739775759
+        }
+    ],
+    "wof:id":739775759,
+    "wof:lastmodified":1461914773,
+    "wof:name":"Piccadilly Cafeteria",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "southwestern"
+    ]
+},
+  "bbox": [
+    -84.415784,
+    33.800991,
+    -84.415784,
+    33.800991
+],
+  "geometry": {"coordinates":[-84.415784,33.800991],"type":"Point"}
+}

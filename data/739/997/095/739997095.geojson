@@ -1,0 +1,88 @@
+{
+  "id": 739997095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.260208,33.91592,-84.260208,33.91592",
+    "geom:latitude":33.91592,
+    "geom:longitude":-84.260208,
+    "iso:country":"US",
+    "sg:address":"6067 Buford Hwy NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 674 1438",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "sg:tags":[
+        "dentists-oral",
+        "physician",
+        "dental",
+        "maxillofacial",
+        "surgeons",
+        "clinic",
+        "surgery",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Z5NnQuxKRw0zbjHcCcCbl_33.915920_-84.260208@1303262626"
+    },
+    "wof:country":"US",
+    "wof:created":1461923817,
+    "wof:geomhash":"316a8f5191dbe515155068c9911b82af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":739997095
+        }
+    ],
+    "wof:id":739997095,
+    "wof:lastmodified":1461923817,
+    "wof:name":"Care Dental",
+    "wof:parent_id":85889941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentists-oral",
+        "physician",
+        "dental",
+        "maxillofacial",
+        "surgeons",
+        "clinic",
+        "surgery",
+        "oral"
+    ]
+},
+  "bbox": [
+    -84.260208,
+    33.91592,
+    -84.260208,
+    33.91592
+],
+  "geometry": {"coordinates":[-84.26020800000001,33.91592],"type":"Point"}
+}

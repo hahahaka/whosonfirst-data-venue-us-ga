@@ -1,0 +1,71 @@
+{
+  "id": 723045829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.455864,34.502714,-84.455864,34.502714",
+    "geom:latitude":34.502714,
+    "geom:longitude":-84.455864,
+    "iso:country":"US",
+    "sg:address":"104 Greystone Rd",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 505 4900",
+    "sg:postcode":"30175",
+    "sg:province":"GA",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85846359,
+        102083619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TsCTGF6AKupcaRUD0QiQ9_34.502714_-84.455864@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461893928,
+    "wof:geomhash":"2c1b88985ee2678d5c4a01ad9da00894",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083619,
+            "neighbourhood_id":85846359,
+            "region_id":85688535,
+            "venue_id":723045829
+        }
+    ],
+    "wof:id":723045829,
+    "wof:lastmodified":1461893928,
+    "wof:name":"Studio Dance Inc",
+    "wof:parent_id":85846359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -84.455864,
+    34.502714,
+    -84.455864,
+    34.502714
+],
+  "geometry": {"coordinates":[-84.45586400000001,34.502714],"type":"Point"}
+}

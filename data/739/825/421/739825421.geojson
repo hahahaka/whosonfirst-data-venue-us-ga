@@ -1,0 +1,81 @@
+{
+  "id": 739825421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.523666,34.020634,-84.523666,34.020634",
+    "geom:latitude":34.020634,
+    "geom:longitude":-84.523666,
+    "iso:country":"US",
+    "sg:address":"965 Piedmont Rd",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 794 7001",
+    "sg:postcode":"30066",
+    "sg:province":"GA",
+    "sg:tags":[
+        "trucking-motor",
+        "broker",
+        "trucking"
+    ],
+    "sg:website":"http://www.aandatransportation.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936135,
+        102082313,
+        85857049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ePv8VaC7osCLcp7OOmKE1_34.020634_-84.523666@1303262582"
+    },
+    "wof:country":"US",
+    "wof:created":1461916913,
+    "wof:geomhash":"3ed07319ce0d0c708bbb247542678b4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936135,
+            "neighbourhood_id":85857049,
+            "region_id":85688535,
+            "venue_id":739825421
+        }
+    ],
+    "wof:id":739825421,
+    "wof:lastmodified":1461916913,
+    "wof:name":"A & A Transportation",
+    "wof:parent_id":85857049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-motor",
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.523666,
+    34.020634,
+    -84.523666,
+    34.020634
+],
+  "geometry": {"coordinates":[-84.52366600000001,34.020634],"type":"Point"}
+}

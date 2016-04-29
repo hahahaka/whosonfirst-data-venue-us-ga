@@ -1,0 +1,79 @@
+{
+  "id": 739807379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.105797,33.928699,-84.105797,33.928699",
+    "geom:latitude":33.928699,
+    "geom:longitude":-84.105797,
+    "iso:country":"US",
+    "sg:address":"3451 Cruse Rd",
+    "sg:city":"Lawrenceville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 935 4515",
+    "sg:postcode":"30044",
+    "sg:province":"GA",
+    "sg:tags":[
+        "equipment",
+        "satellite",
+        "system"
+    ],
+    "sg:website":"http://www.viasat.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QlEt21mbR5POqtQYOAAb7_33.928699_-84.105797@1303262577"
+    },
+    "wof:country":"US",
+    "wof:created":1461916174,
+    "wof:geomhash":"d538deba4124dad78cf10a80093db9c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":739807379
+        }
+    ],
+    "wof:id":739807379,
+    "wof:lastmodified":1461916174,
+    "wof:name":"Viasat Satelite",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "satellite",
+        "system"
+    ]
+},
+  "bbox": [
+    -84.105797,
+    33.928699,
+    -84.105797,
+    33.928699
+],
+  "geometry": {"coordinates":[-84.105797,33.928699],"type":"Point"}
+}

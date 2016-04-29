@@ -1,0 +1,83 @@
+{
+  "id": 739841429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.513675,33.882157,-84.513675,33.882157",
+    "geom:latitude":33.882157,
+    "geom:longitude":-84.513675,
+    "iso:country":"US",
+    "sg:address":"2890 Atlanta Rd SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 431 3550",
+    "sg:postcode":"30080",
+    "sg:province":"GA",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"https://www.wachovia.com/?DCMP=KNL-CPS-DS-Directory-0703&HBX_PK=Banks&HBX_OU=71",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kxQZ8JeswGXeJAW1FDzHu_33.882157_-84.513675@1303262586"
+    },
+    "wof:country":"US",
+    "wof:created":1461917543,
+    "wof:geomhash":"eb6283ff9503b246e3917b2a7f5498f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":739841429
+        }
+    ],
+    "wof:id":739841429,
+    "wof:lastmodified":1461917543,
+    "wof:name":"Wachovia Bank",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -84.513675,
+    33.882157,
+    -84.513675,
+    33.882157
+],
+  "geometry": {"coordinates":[-84.51367500000001,33.882157],"type":"Point"}
+}

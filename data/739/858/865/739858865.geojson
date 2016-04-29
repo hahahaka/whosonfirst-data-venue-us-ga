@@ -1,0 +1,70 @@
+{
+  "id": 739858865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.09953,33.96838,-84.09953,33.96838",
+    "geom:latitude":33.96838,
+    "geom:longitude":-84.09953,
+    "iso:country":"US",
+    "sg:address":"2586 Satellite Blvd",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 623 4065",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"www.hertz.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5reB0lURrFXzNIfxN4uvoO_33.968380_-84.099530@1303262590"
+    },
+    "wof:country":"US",
+    "wof:created":1461918267,
+    "wof:geomhash":"362b5261d236d8cad3271e2aab673eba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":739858865
+        }
+    ],
+    "wof:id":739858865,
+    "wof:lastmodified":1461918267,
+    "wof:name":"Hertz Local Edition",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -84.09953,
+    33.96838,
+    -84.09953,
+    33.96838
+],
+  "geometry": {"coordinates":[-84.09953,33.96838],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 740006715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.448303,33.6758,-84.448303,33.6758",
+    "geom:latitude":33.6758,
+    "geom:longitude":-84.448303,
+    "iso:country":"US",
+    "sg:address":"1835 Washington Ave",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 305 8030",
+    "sg:postcode":"30344",
+    "sg:province":"GA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937155,
+        102083603,
+        85889981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6G22jiSKeq2MtEJ7cs9Sgd_33.675800_-84.448303@1303262628"
+    },
+    "wof:country":"US",
+    "wof:created":1461924182,
+    "wof:geomhash":"a358b2bd0507263fb6369c8855f2ef0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937155,
+            "neighbourhood_id":85889981,
+            "region_id":85688535,
+            "venue_id":740006715
+        }
+    ],
+    "wof:id":740006715,
+    "wof:lastmodified":1461924182,
+    "wof:name":"East Point Car Wash",
+    "wof:parent_id":85889981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.448303,
+    33.6758,
+    -84.448303,
+    33.6758
+],
+  "geometry": {"coordinates":[-84.448303,33.6758],"type":"Point"}
+}

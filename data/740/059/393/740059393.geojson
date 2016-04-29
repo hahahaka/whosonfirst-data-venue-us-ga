@@ -1,0 +1,74 @@
+{
+  "id": 740059393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.129532,31.985633,-81.129532,31.985633",
+    "geom:latitude":31.985633,
+    "geom:longitude":-81.129532,
+    "iso:country":"US",
+    "sg:address":"10703 White Bluff Rd",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 354 1011",
+    "sg:postcode":"31406",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"http://www.southsidefire.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85857423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SV5UbaudA4658CPOfmEPQ_31.985633_-81.129532@1303262642"
+    },
+    "wof:country":"US",
+    "wof:created":1461926506,
+    "wof:geomhash":"798019703b99543153b49fa490a9fa5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85857423,
+            "region_id":85688535,
+            "venue_id":740059393
+        }
+    ],
+    "wof:id":740059393,
+    "wof:lastmodified":1461926506,
+    "wof:name":"Southside Fire",
+    "wof:parent_id":85857423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -81.129532,
+    31.985633,
+    -81.129532,
+    31.985633
+],
+  "geometry": {"coordinates":[-81.129532,31.985633],"type":"Point"}
+}

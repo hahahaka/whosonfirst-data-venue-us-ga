@@ -1,0 +1,71 @@
+{
+  "id": 722593527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.054635,33.548457,-82.054635,33.548457",
+    "geom:latitude":33.548457,
+    "geom:longitude":-82.054635,
+    "iso:country":"US",
+    "sg:address":"3558 Pebble Beach Dr",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 860 3510",
+    "sg:postcode":"30907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4X4YyULxzuUFhqcUiDqvT2_33.548457_-82.054635@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461884854,
+    "wof:geomhash":"e2e085d51cced8dfbef6cfed725de284",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":722593527
+        }
+    ],
+    "wof:id":722593527,
+    "wof:lastmodified":1461884854,
+    "wof:name":"Star Carwash",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -82.054635,
+    33.548457,
+    -82.054635,
+    33.548457
+],
+  "geometry": {"coordinates":[-82.054635,33.548457],"type":"Point"}
+}

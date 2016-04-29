@@ -1,0 +1,80 @@
+{
+  "id": 740013521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.482506,33.595855,-84.482506,33.595855",
+    "geom:latitude":33.595855,
+    "geom:longitude":-84.482506,
+    "iso:country":"US",
+    "sg:address":"2305 Burdett Ridge Dr",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 552 8828",
+    "sg:postcode":"30349",
+    "sg:province":"GA",
+    "sg:tags":[
+        "grooming",
+        "exercising",
+        "kennel",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889945,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KN7b9oSM0CZMncwTvrQOZ_33.595855_-84.482506@1303262630"
+    },
+    "wof:country":"US",
+    "wof:created":1461924450,
+    "wof:geomhash":"8605d4992bdc9b628e0ae3fd21d0e099",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85889945,
+            "region_id":85688535,
+            "venue_id":740013521
+        }
+    ],
+    "wof:id":740013521,
+    "wof:lastmodified":1461924450,
+    "wof:name":"Vip Pet Svc",
+    "wof:parent_id":85889945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grooming",
+        "exercising",
+        "kennel",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.482506,
+    33.595855,
+    -84.482506,
+    33.595855
+],
+  "geometry": {"coordinates":[-84.482506,33.595855],"type":"Point"}
+}

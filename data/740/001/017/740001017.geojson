@@ -1,0 +1,80 @@
+{
+  "id": 740001017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.298428,33.894201,-84.298428,33.894201",
+    "geom:latitude":33.894201,
+    "geom:longitude":-84.298428,
+    "iso:country":"US",
+    "sg:address":"5480 Peachtree Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 457 9869",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "tavern",
+        "french"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936435,
+        102084539,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YNUsreKrxkn3IHYM2prvT_33.894201_-84.298428@1303262627"
+    },
+    "wof:country":"US",
+    "wof:created":1461923965,
+    "wof:geomhash":"55c6f091787345cfcd90023a09cd7b49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":740001017
+        }
+    ],
+    "wof:id":740001017,
+    "wof:lastmodified":1461923965,
+    "wof:name":"Old Chamblee Bistro",
+    "wof:parent_id":85889955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern",
+        "french"
+    ]
+},
+  "bbox": [
+    -84.298428,
+    33.894201,
+    -84.298428,
+    33.894201
+],
+  "geometry": {"coordinates":[-84.298428,33.894201],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 723235395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.948771,34.49161,-84.948771,34.49161",
+    "geom:latitude":34.49161,
+    "geom:longitude":-84.948771,
+    "iso:country":"US",
+    "sg:address":"213 Oak St",
+    "sg:city":"Calhoun",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 629 1823",
+    "sg:postcode":"30701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936609,
+        102084679,
+        85817247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Chgz6oqqsm9TAmjSm5gia_34.491610_-84.948771@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897816,
+    "wof:geomhash":"f673995b773c157c51c3acbf58f85c93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084679,
+            "locality_id":85936609,
+            "neighbourhood_id":85817247,
+            "region_id":85688535,
+            "venue_id":723235395
+        }
+    ],
+    "wof:id":723235395,
+    "wof:lastmodified":1461897816,
+    "wof:name":"Oak Street Auto Repair",
+    "wof:parent_id":85817247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -84.948771,
+    34.49161,
+    -84.948771,
+    34.49161
+],
+  "geometry": {"coordinates":[-84.94877099999999,34.49161],"type":"Point"}
+}

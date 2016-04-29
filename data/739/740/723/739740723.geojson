@@ -1,0 +1,77 @@
+{
+  "id": 739740723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.945887,34.487924,-84.945887,34.487924",
+    "geom:latitude":34.487924,
+    "geom:longitude":-84.945887,
+    "iso:country":"US",
+    "sg:address":"815 S Wall St",
+    "sg:city":"Calhoun",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 629 8963",
+    "sg:postcode":"30701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"http://www.familydollar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936609,
+        102084679,
+        85817247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EFQIaSXcyi8ouGENFrfhD_34.487868_-84.945761@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461913443,
+    "wof:geomhash":"5566faeb40085652c5a6741fc297cf07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084679,
+            "locality_id":85936609,
+            "neighbourhood_id":85817247,
+            "region_id":85688535,
+            "venue_id":739740723
+        }
+    ],
+    "wof:id":739740723,
+    "wof:lastmodified":1461913443,
+    "wof:name":"Family Dollar Stores",
+    "wof:parent_id":85817247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.945887,
+    34.487924,
+    -84.945887,
+    34.487924
+],
+  "geometry": {"coordinates":[-84.945887,34.487924],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 739771537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.005569,33.399318,-82.005569,33.399318",
+    "geom:latitude":33.399318,
+    "geom:longitude":-82.005569,
+    "iso:country":"US",
+    "sg:address":"3444 Mike Padgett Hwy",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/augusta/203176-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30906",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936989,
+        102082951,
+        420518207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Cq4p3SttCWi4zAWmattgt_33.399318_-82.005569@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914602,
+    "wof:geomhash":"274efcd190e583d2ebee112c9cf04c82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082951,
+            "locality_id":85936989,
+            "neighbourhood_id":420518207,
+            "region_id":85688535,
+            "venue_id":739771537
+        }
+    ],
+    "wof:id":739771537,
+    "wof:lastmodified":1461914602,
+    "wof:name":"McDonald's",
+    "wof:parent_id":420518207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -82.005569,
+    33.399318,
+    -82.005569,
+    33.399318
+],
+  "geometry": {"coordinates":[-82.00556899999999,33.399318],"type":"Point"}
+}

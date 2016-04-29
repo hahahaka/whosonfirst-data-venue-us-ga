@@ -1,0 +1,87 @@
+{
+  "id": 740058269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.085167,32.073486,-81.085167,32.073486",
+    "geom:latitude":32.073486,
+    "geom:longitude":-81.085167,
+    "iso:country":"US",
+    "sg:address":"231A Wilder Dr",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 651 6640",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "township",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        420559631,
+        85880901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hmrrQzc88YzXymE9BWNKp_32.073486_-81.085167@1303262642"
+    },
+    "wof:country":"US",
+    "wof:created":1461926460,
+    "wof:geomhash":"58b755d04adfd7e849b3f472e1049f0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":420559631,
+            "region_id":85688535,
+            "venue_id":740058269
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880901,
+            "region_id":85688535,
+            "venue_id":740058269
+        }
+    ],
+    "wof:id":740058269,
+    "wof:lastmodified":1461926460,
+    "wof:name":"Savannah Police Department",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -81.085167,
+    32.073486,
+    -81.085167,
+    32.073486
+],
+  "geometry": {"coordinates":[-81.085167,32.073486],"type":"Point"}
+}

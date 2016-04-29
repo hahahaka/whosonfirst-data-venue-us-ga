@@ -1,0 +1,69 @@
+{
+  "id": 739958065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.305173,33.748592,-84.305173,33.748592",
+    "geom:latitude":33.748592,
+    "geom:longitude":-84.305173,
+    "iso:country":"US",
+    "sg:address":"132 Carter Ave SE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 933 9941",
+    "sg:postcode":"30317",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shuttle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85816491,
+        102084539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I4v0sZvyEHWezx01bP1gz_33.748592_-84.305173@1303262616"
+    },
+    "wof:country":"US",
+    "wof:created":1461922298,
+    "wof:geomhash":"ee1c271699a4c66899ef1896960ffbef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739958065
+        }
+    ],
+    "wof:id":739958065,
+    "wof:lastmodified":1461922298,
+    "wof:name":"Atlanta's Finest Trnsprtn",
+    "wof:parent_id":85816491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle"
+    ]
+},
+  "bbox": [
+    -84.305173,
+    33.748592,
+    -84.305173,
+    33.748592
+],
+  "geometry": {"coordinates":[-84.305173,33.748592],"type":"Point"}
+}

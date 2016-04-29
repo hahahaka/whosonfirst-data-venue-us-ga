@@ -1,0 +1,73 @@
+{
+  "id": 723008821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.969918,34.765972,-84.969918,34.765972",
+    "geom:latitude":34.765972,
+    "geom:longitude":-84.969918,
+    "iso:country":"US",
+    "sg:address":"200 W Emory St",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 278 2641",
+    "sg:postcode":"30720",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UendlVtvERaW9mkTDzQpj_34.765972_-84.969918@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461893116,
+    "wof:geomhash":"4c78ea7381768d0be17375a16a85805c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":723008821
+        }
+    ],
+    "wof:id":723008821,
+    "wof:lastmodified":1461893116,
+    "wof:name":"Northwest Georgia Pathology",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.969918,
+    34.765972,
+    -84.969918,
+    34.765972
+],
+  "geometry": {"coordinates":[-84.96991800000001,34.765972],"type":"Point"}
+}

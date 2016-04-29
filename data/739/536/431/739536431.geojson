@@ -1,0 +1,85 @@
+{
+  "id": 739536431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.396395,33.925266,-84.396395,33.925266",
+    "geom:latitude":33.925266,
+    "geom:longitude":-84.396395,
+    "iso:country":"US",
+    "sg:address":"245 Riverwood Ct NW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 440 256 3350",
+    "sg:postcode":"30328",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automobile",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937165,
+        102083603,
+        85890017,
+        420559935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7O4tuVVa4vB4hb4nu7whRF_33.925266_-84.396395@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461909093,
+    "wof:geomhash":"12f4ebfe896f5d4f1b1f6ed337277558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937165,
+            "neighbourhood_id":85890017,
+            "region_id":85688535,
+            "venue_id":739536431
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937165,
+            "neighbourhood_id":420559935,
+            "region_id":85688535,
+            "venue_id":739536431
+        }
+    ],
+    "wof:id":739536431,
+    "wof:lastmodified":1461909093,
+    "wof:name":"Joe Smith Automobile Lsg Corp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -84.396395,
+    33.925266,
+    -84.396395,
+    33.925266
+],
+  "geometry": {"coordinates":[-84.396395,33.925266],"type":"Point"}
+}

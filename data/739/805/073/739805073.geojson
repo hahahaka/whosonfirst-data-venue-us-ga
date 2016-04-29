@@ -1,0 +1,85 @@
+{
+  "id": 739805073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.0354,33.9683,-84.0354,33.9683",
+    "geom:latitude":33.9683,
+    "geom:longitude":-84.0354,
+    "iso:country":"US",
+    "sg:address":"2003 Riverside Pkwy Ste 202",
+    "sg:city":"Lawrenceville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Day Spa",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 682 3706",
+    "sg:postcode":"30043",
+    "sg:province":"GA",
+    "sg:tags":[
+        "surgeon",
+        "cosmetic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936297,
+        102082967,
+        85851103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JoOZXyAmhVDbjgFRF3NVg_33.968300_-84.035400@1303262576"
+    },
+    "wof:country":"US",
+    "wof:created":1461916044,
+    "wof:geomhash":"083b587117274d724f739d8f6e2081b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936297,
+            "neighbourhood_id":85851103,
+            "region_id":85688535,
+            "venue_id":739805073
+        }
+    ],
+    "wof:id":739805073,
+    "wof:lastmodified":1461916044,
+    "wof:name":"Joseph Michael Salon & Day Spa",
+    "wof:parent_id":85851103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "cosmetic"
+    ]
+},
+  "bbox": [
+    -84.0354,
+    33.9683,
+    -84.0354,
+    33.9683
+],
+  "geometry": {"coordinates":[-84.0354,33.9683],"type":"Point"}
+}

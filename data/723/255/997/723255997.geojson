@@ -1,0 +1,73 @@
+{
+  "id": 723255997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.913226,33.172964,-84.913226,33.172964",
+    "geom:latitude":33.172964,
+    "geom:longitude":-84.913226,
+    "iso:country":"US",
+    "sg:address":"104 Oak St",
+    "sg:city":"Hogansville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 637 4486",
+    "sg:postcode":"30230",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5M7Fokq0jopOLgnPdZgw9D_33.172964_-84.913226@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461898234,
+    "wof:geomhash":"cf7b15876a137e5fe9c648e2bea079ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":723255997
+        }
+    ],
+    "wof:id":723255997,
+    "wof:lastmodified":1461898234,
+    "wof:name":"Willoughby Garage",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.913226,
+    33.172964,
+    -84.913226,
+    33.172964
+],
+  "geometry": {"coordinates":[-84.91322599999999,33.172964],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 723409501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.331509,33.610411,-84.331509,33.610411",
+    "geom:latitude":33.610411,
+    "geom:longitude":-84.331509,
+    "iso:country":"US",
+    "sg:address":"1739 Forest Pkwy",
+    "sg:city":"Morrow",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 363 6916",
+    "sg:postcode":"30260",
+    "sg:province":"GA",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936965,
+        102082333,
+        420517661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07FmxfX1nPtUaT1KaOganU_33.610411_-84.331509@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901162,
+    "wof:geomhash":"dab4b2854fe36f4fdc0e0cad13ff6961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082333,
+            "locality_id":85936965,
+            "neighbourhood_id":420517661,
+            "region_id":85688535,
+            "venue_id":723409501
+        }
+    ],
+    "wof:id":723409501,
+    "wof:lastmodified":1461901162,
+    "wof:name":"Robertson Roll-Off Container",
+    "wof:parent_id":420517661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -84.331509,
+    33.610411,
+    -84.331509,
+    33.610411
+],
+  "geometry": {"coordinates":[-84.331509,33.610411],"type":"Point"}
+}

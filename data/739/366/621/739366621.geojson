@@ -1,0 +1,71 @@
+{
+  "id": 739366621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.985505,30.843254,-83.985505,30.843254",
+    "geom:latitude":30.843254,
+    "geom:longitude":-83.985505,
+    "iso:country":"US",
+    "sg:address":"608 N Broad St",
+    "sg:city":"Thomasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 228 6377",
+    "sg:postcode":"31792",
+    "sg:province":"GA",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85806705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZRqCVYW2VYDtd4UT8P8Cw_30.843254_-83.985505@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461905937,
+    "wof:geomhash":"87db23e1fab027fbc041e590d66bfeff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85806705,
+            "region_id":85688535,
+            "venue_id":739366621
+        }
+    ],
+    "wof:id":739366621,
+    "wof:lastmodified":1461905937,
+    "wof:name":"Appliance Repair-Thomasville",
+    "wof:parent_id":85806705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -83.985505,
+    30.843254,
+    -83.985505,
+    30.843254
+],
+  "geometry": {"coordinates":[-83.985505,30.843254],"type":"Point"}
+}

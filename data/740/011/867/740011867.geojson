@@ -1,0 +1,76 @@
+{
+  "id": 740011867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.469398,33.585602,-84.469398,33.585602",
+    "geom:latitude":33.585602,
+    "geom:longitude":-84.469398,
+    "iso:country":"US",
+    "sg:address":"6200 Old National Hwy",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Podiatrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 907 5955",
+    "sg:postcode":"30349",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeons"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889945,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39yHxpuVb2wo6FRFDnNeKJ_33.585602_-84.469398@1303262630"
+    },
+    "wof:country":"US",
+    "wof:created":1461924390,
+    "wof:geomhash":"87cf8b03ae232b72c2b753af6c33eb20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85889945,
+            "region_id":85688535,
+            "venue_id":740011867
+        }
+    ],
+    "wof:id":740011867,
+    "wof:lastmodified":1461924390,
+    "wof:name":"Solomon William A B Dr DPM",
+    "wof:parent_id":85889945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeons"
+    ]
+},
+  "bbox": [
+    -84.469398,
+    33.585602,
+    -84.469398,
+    33.585602
+],
+  "geometry": {"coordinates":[-84.469398,33.585602],"type":"Point"}
+}

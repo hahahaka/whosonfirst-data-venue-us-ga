@@ -1,0 +1,86 @@
+{
+  "id": 739768117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.386643,33.763182,-84.386643,33.763182",
+    "geom:latitude":33.763182,
+    "geom:longitude":-84.386643,
+    "iso:country":"US",
+    "sg:address":"303 Peachtree St",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/atlanta/14385-mortons-of-chicago/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 577 4366",
+    "sg:postcode":"30308",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85866901,
+        85872133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_441p7TGjQ1Vo1aPN72x9PP_33.763182_-84.386643@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914464,
+    "wof:geomhash":"8412cf516feac6584763049d071197ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85866901,
+            "region_id":85688535,
+            "venue_id":739768117
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872133,
+            "region_id":85688535,
+            "venue_id":739768117
+        }
+    ],
+    "wof:id":739768117,
+    "wof:lastmodified":1461914464,
+    "wof:name":"Morton's of Chicago",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -84.386643,
+    33.763182,
+    -84.386643,
+    33.763182
+],
+  "geometry": {"coordinates":[-84.38664300000001,33.763182],"type":"Point"}
+}

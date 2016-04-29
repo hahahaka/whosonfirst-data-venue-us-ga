@@ -1,0 +1,89 @@
+{
+  "id": 740039669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.984307,34.793069,-84.984307,34.793069",
+    "geom:latitude":34.793069,
+    "geom:longitude":-84.984307,
+    "iso:country":"US",
+    "sg:address":"1503 Professional Ct",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 226 0456",
+    "sg:postcode":"30720",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "oncology",
+        "surgeons",
+        "medical",
+        "gynecologic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vZthCISuEeSE7yckiCQFh_34.793069_-84.984307@1303262637"
+    },
+    "wof:country":"US",
+    "wof:created":1461925574,
+    "wof:geomhash":"0300192f2aeb561a5ec17cb3d2c29337",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":740039669
+        }
+    ],
+    "wof:id":740039669,
+    "wof:lastmodified":1461925574,
+    "wof:name":"Dalton Cancer Clinic PC",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "oncology",
+        "surgeons",
+        "medical",
+        "gynecologic"
+    ]
+},
+  "bbox": [
+    -84.984307,
+    34.793069,
+    -84.984307,
+    34.793069
+],
+  "geometry": {"coordinates":[-84.984307,34.793069],"type":"Point"}
+}

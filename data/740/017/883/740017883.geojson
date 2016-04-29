@@ -1,0 +1,83 @@
+{
+  "id": 740017883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.279708,33.908494,-84.279708,33.908494",
+    "geom:latitude":33.908494,
+    "geom:longitude":-84.279708,
+    "iso:country":"US",
+    "sg:address":"3990 Flowers Road",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 455 7077",
+    "sg:postcode":"30360",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        420559931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52xnReBTuXs46hOEXCAuY8_33.908494_-84.279708@1303262631"
+    },
+    "wof:country":"US",
+    "wof:created":1461924612,
+    "wof:geomhash":"fc37a84b3106fe59fd1bf026e3dcc252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":740017883
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":420559931,
+            "region_id":85688535,
+            "venue_id":740017883
+        }
+    ],
+    "wof:id":740017883,
+    "wof:lastmodified":1461924612,
+    "wof:name":"Cat Snip",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.279708,
+    33.908494,
+    -84.279708,
+    33.908494
+],
+  "geometry": {"coordinates":[-84.279708,33.908494],"type":"Point"}
+}

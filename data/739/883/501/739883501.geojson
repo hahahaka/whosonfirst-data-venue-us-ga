@@ -1,0 +1,89 @@
+{
+  "id": 739883501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.180308,34.263241,-85.180308,34.263241",
+    "geom:latitude":34.263241,
+    "geom:longitude":-85.180308,
+    "iso:country":"US",
+    "sg:address":"1011 Martha Berry Blvd NW",
+    "sg:city":"Rome",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 295 0802",
+    "sg:postcode":"30165",
+    "sg:province":"GA",
+    "sg:tags":[
+        "home",
+        "equipment",
+        "eldercare-home",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936575,
+        102084577,
+        85890045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19ZM58V2ZJlUh4fVSI7VjV_34.263241_-85.180308@1303262597"
+    },
+    "wof:country":"US",
+    "wof:created":1461919186,
+    "wof:geomhash":"7bfa6d88b7617ccf5fb8e3474b9128cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084577,
+            "locality_id":85936575,
+            "neighbourhood_id":85890045,
+            "region_id":85688535,
+            "venue_id":739883501
+        }
+    ],
+    "wof:id":739883501,
+    "wof:lastmodified":1461919186,
+    "wof:name":"Redmond Home Medical",
+    "wof:parent_id":85890045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "equipment",
+        "eldercare-home",
+        "supply"
+    ]
+},
+  "bbox": [
+    -85.180308,
+    34.263241,
+    -85.180308,
+    34.263241
+],
+  "geometry": {"coordinates":[-85.180308,34.263241],"type":"Point"}
+}

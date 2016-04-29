@@ -1,0 +1,86 @@
+{
+  "id": 739987207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.331681,33.947846,-84.331681,33.947846",
+    "geom:latitude":33.947846,
+    "geom:longitude":-84.331681,
+    "iso:country":"US",
+    "sg:address":"1530 Dunwoody Village Pkwy 1",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"Ethnic",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 731 0410",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "sg:tags":[
+        "turbine",
+        "part"
+    ],
+    "sg:website":"http://www.dynamicturbine.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85815577,
+        420560157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43cVSeegXEoMGTYBFIJzqx_33.947846_-84.331681@1303262623"
+    },
+    "wof:country":"US",
+    "wof:created":1461923445,
+    "wof:geomhash":"297b633526b8a39464101ec1427365d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85815577,
+            "region_id":85688535,
+            "venue_id":739987207
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":420560157,
+            "region_id":85688535,
+            "venue_id":739987207
+        }
+    ],
+    "wof:id":739987207,
+    "wof:lastmodified":1461923445,
+    "wof:name":"Dynamic Turbine Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "turbine",
+        "part"
+    ]
+},
+  "bbox": [
+    -84.331681,
+    33.947846,
+    -84.331681,
+    33.947846
+],
+  "geometry": {"coordinates":[-84.331681,33.947846],"type":"Point"}
+}

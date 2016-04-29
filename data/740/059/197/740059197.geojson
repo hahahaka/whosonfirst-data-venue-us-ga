@@ -1,0 +1,85 @@
+{
+  "id": 740059197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.112339,32.01626,-81.112339,32.01626",
+    "geom:latitude":32.01626,
+    "geom:longitude":-81.112339,
+    "iso:country":"US",
+    "sg:address":"6999 Abercorn St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 651 5946",
+    "sg:postcode":"31405",
+    "sg:province":"GA",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"https://www.wachovia.com/?DCMP=KNL-CPS-DS-Directory-0703&HBX_PK=Banks&HBX_OU=71",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85823407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_649gUB2CrwnJGVEkijaqQh_32.016260_-81.112339@1303262642"
+    },
+    "wof:country":"US",
+    "wof:created":1461926500,
+    "wof:geomhash":"75b15920a7c0d62ff9c80b4a000870c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85823407,
+            "region_id":85688535,
+            "venue_id":740059197
+        }
+    ],
+    "wof:id":740059197,
+    "wof:lastmodified":1461926500,
+    "wof:name":"Wachovia Bank",
+    "wof:parent_id":85823407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -81.112339,
+    32.01626,
+    -81.112339,
+    32.01626
+],
+  "geometry": {"coordinates":[-81.11233900000001,32.01626],"type":"Point"}
+}

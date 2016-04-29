@@ -1,0 +1,78 @@
+{
+  "id": 739483877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.505105,33.890025,-84.505105,33.890025",
+    "geom:latitude":33.890025,
+    "geom:longitude":-84.505105,
+    "iso:country":"US",
+    "sg:address":"1700 McCoba Dr SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 433 8317",
+    "sg:postcode":"30080",
+    "sg:province":"GA",
+    "sg:tags":[
+        "transmission",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4F6rzBmcJ0htRId0wqjBCA_33.890025_-84.505105@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461908142,
+    "wof:geomhash":"61d829badda9ec5231d3c8c36c4a911c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":739483877
+        }
+    ],
+    "wof:id":739483877,
+    "wof:lastmodified":1461908142,
+    "wof:name":"Whatever It Takes",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "used"
+    ]
+},
+  "bbox": [
+    -84.505105,
+    33.890025,
+    -84.505105,
+    33.890025
+],
+  "geometry": {"coordinates":[-84.505105,33.890025],"type":"Point"}
+}

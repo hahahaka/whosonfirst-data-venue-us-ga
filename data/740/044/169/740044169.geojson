@@ -1,0 +1,88 @@
+{
+  "id": 740044169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.00444,33.482524,-82.00444,33.482524",
+    "geom:latitude":33.482524,
+    "geom:longitude":-82.00444,
+    "iso:country":"US",
+    "sg:address":"2020 Gardner St",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 737 9424",
+    "sg:postcode":"30904",
+    "sg:province":"GA",
+    "sg:tags":[
+        "churches-interdenominational",
+        "churches-various",
+        "denomination"
+    ],
+    "sg:website":"http://www.salvationarmysouth.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936989,
+        102082951,
+        85851375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xWp00eD3NVy4RmkkcKJQv_33.482524_-82.004440@1303262638"
+    },
+    "wof:country":"US",
+    "wof:created":1461925810,
+    "wof:geomhash":"55ef0badd8584408175f5cd9073f9ae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082951,
+            "locality_id":85936989,
+            "neighbourhood_id":85851375,
+            "region_id":85688535,
+            "venue_id":740044169
+        }
+    ],
+    "wof:id":740044169,
+    "wof:lastmodified":1461925810,
+    "wof:name":"Salvation Army",
+    "wof:parent_id":85851375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-interdenominational",
+        "churches-various",
+        "denomination"
+    ]
+},
+  "bbox": [
+    -82.00444,
+    33.482524,
+    -82.00444,
+    33.482524
+],
+  "geometry": {"coordinates":[-82.00444,33.482524],"type":"Point"}
+}

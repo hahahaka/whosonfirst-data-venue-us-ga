@@ -1,0 +1,86 @@
+{
+  "id": 722964355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.294303,33.81592,-84.294303,33.81592",
+    "geom:latitude":33.81592,
+    "geom:longitude":-84.294303,
+    "iso:country":"US",
+    "sg:address":"2615 Tanglewood Rd",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 321 6111",
+    "sg:postcode":"30033",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937259,
+        102084539,
+        85866913,
+        85937257,
+        85890013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4drUuG3IIZDytriZdO3sHU_33.815920_-84.294303@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461892124,
+    "wof:geomhash":"5f4a8edd8893684dd28839e10108e05b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937259,
+            "neighbourhood_id":85866913,
+            "region_id":85688535,
+            "venue_id":722964355
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937257,
+            "neighbourhood_id":85890013,
+            "region_id":85688535,
+            "venue_id":722964355
+        }
+    ],
+    "wof:id":722964355,
+    "wof:lastmodified":1461892124,
+    "wof:name":"John Murphy MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.294303,
+    33.81592,
+    -84.294303,
+    33.81592
+],
+  "geometry": {"coordinates":[-84.294303,33.81592],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 739989217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.292327,33.933542,-84.292327,33.933542",
+    "geom:latitude":33.933542,
+    "geom:longitude":-84.292327,
+    "iso:country":"US",
+    "sg:address":"2570 Riverglenn Cir",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Conference Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 455 1600",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "sg:tags":[
+        "lecture",
+        "speakers",
+        "seminar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85936467,
+        85890023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fZ5a4Vasim4GLURbivyJb_33.933542_-84.292327@1303262624"
+    },
+    "wof:country":"US",
+    "wof:created":1461923523,
+    "wof:geomhash":"2811d8f832a2ae58effbcaebe19d8480",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":739989217
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890023,
+            "region_id":85688535,
+            "venue_id":739989217
+        }
+    ],
+    "wof:id":739989217,
+    "wof:lastmodified":1461923523,
+    "wof:name":"Global Events Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lecture",
+        "speakers",
+        "seminar"
+    ]
+},
+  "bbox": [
+    -84.292327,
+    33.933542,
+    -84.292327,
+    33.933542
+],
+  "geometry": {"coordinates":[-84.292327,33.933542],"type":"Point"}
+}

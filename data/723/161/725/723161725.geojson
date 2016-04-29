@@ -1,0 +1,83 @@
+{
+  "id": 723161725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.230236,32.108079,-81.230236,32.108079",
+    "geom:latitude":32.108079,
+    "geom:longitude":-81.230236,
+    "iso:country":"US",
+    "sg:address":"1004 US Hwy 80",
+    "sg:city":"Pooler",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 748 0022",
+    "sg:postcode":"31322",
+    "sg:province":"GA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936945,
+        102082337,
+        85857815,
+        420517409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oYdy4NagE7I6tZ8AWW6EJ_32.108079_-81.230236@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896318,
+    "wof:geomhash":"5a6c7d957fb6a3041b87b8f7b660510f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936945,
+            "neighbourhood_id":85857815,
+            "region_id":85688535,
+            "venue_id":723161725
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936945,
+            "neighbourhood_id":420517409,
+            "region_id":85688535,
+            "venue_id":723161725
+        }
+    ],
+    "wof:id":723161725,
+    "wof:lastmodified":1461896318,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -81.230236,
+    32.108079,
+    -81.230236,
+    32.108079
+],
+  "geometry": {"coordinates":[-81.230236,32.108079],"type":"Point"}
+}

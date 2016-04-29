@@ -1,0 +1,73 @@
+{
+  "id": 739380973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.179331,33.821306,-84.179331,33.821306",
+    "geom:latitude":33.821306,
+    "geom:longitude":-84.179331,
+    "iso:country":"US",
+    "sg:address":"2602 Tree Mountain Pkwy",
+    "sg:city":"Stone Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 879 0788",
+    "sg:postcode":"30083",
+    "sg:province":"GA",
+    "sg:tags":[
+        "driver"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937263,
+        102084539,
+        85890037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LVLfr8DQJLj09SDxRsio7_33.821306_-84.179331@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461906215,
+    "wof:geomhash":"40af3d55d772a208195e65fe4dc97a39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937263,
+            "neighbourhood_id":85890037,
+            "region_id":85688535,
+            "venue_id":739380973
+        }
+    ],
+    "wof:id":739380973,
+    "wof:lastmodified":1461906215,
+    "wof:name":"Stone Mountain Taxi",
+    "wof:parent_id":85890037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "driver"
+    ]
+},
+  "bbox": [
+    -84.179331,
+    33.821306,
+    -84.179331,
+    33.821306
+],
+  "geometry": {"coordinates":[-84.179331,33.821306],"type":"Point"}
+}

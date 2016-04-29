@@ -1,0 +1,88 @@
+{
+  "id": 739759535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.294701,33.903198,-84.294701,33.903198",
+    "geom:latitude":33.903198,
+    "geom:longitude":-84.294701,
+    "iso:country":"US",
+    "sg:address":"3780 N Peachtree Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 458 4731",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85936435,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SJHl2JBtrsw07GuKQ961V_33.903436_-84.294950@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461914107,
+    "wof:geomhash":"5cd5fe0bf8c060b68160e0df9225a3e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":739759535
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":739759535
+        }
+    ],
+    "wof:id":739759535,
+    "wof:lastmodified":1461914107,
+    "wof:name":"Precision Rebuilders",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "body"
+    ]
+},
+  "bbox": [
+    -84.294701,
+    33.903198,
+    -84.294701,
+    33.903198
+],
+  "geometry": {"coordinates":[-84.294701,33.903198],"type":"Point"}
+}

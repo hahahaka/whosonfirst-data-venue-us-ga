@@ -1,0 +1,72 @@
+{
+  "id": 739840147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.997154,33.856294,-83.997154,33.856294",
+    "geom:latitude":33.856294,
+    "geom:longitude":-83.997154,
+    "iso:country":"US",
+    "sg:address":"1960 Main St E Ste A",
+    "sg:city":"Snellville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 972 4074",
+    "sg:postcode":"30078",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.cvs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936303,
+        102082967,
+        85890049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GaW7TIdPhxMQNGizkRfSH_33.856294_-83.997154@1303262585"
+    },
+    "wof:country":"US",
+    "wof:created":1461917495,
+    "wof:geomhash":"bd982cceabdf916ecff5ff0d5091d52c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936303,
+            "neighbourhood_id":85890049,
+            "region_id":85688535,
+            "venue_id":739840147
+        }
+    ],
+    "wof:id":739840147,
+    "wof:lastmodified":1461917495,
+    "wof:name":"Cvs Pharmacy",
+    "wof:parent_id":85890049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -83.997154,
+    33.856294,
+    -83.997154,
+    33.856294
+],
+  "geometry": {"coordinates":[-83.99715399999999,33.856294],"type":"Point"}
+}

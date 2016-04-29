@@ -1,0 +1,91 @@
+{
+  "id": 740039345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.976603,34.785599,-84.976603,34.785599",
+    "geom:latitude":34.785599,
+    "geom:longitude":-84.976603,
+    "iso:country":"US",
+    "sg:address":"1306 N Thornton Ave",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 226 3710",
+    "sg:postcode":"30720",
+    "sg:province":"GA",
+    "sg:tags":[
+        "hospital",
+        "specialty",
+        "dog",
+        "clinic",
+        "veterinarian",
+        "furnishing",
+        "cat",
+        "store"
+    ],
+    "sg:website":"http://www.ahwcvet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BseqbXvP29ill4OujAqWi_34.785599_-84.976603@1303262637"
+    },
+    "wof:country":"US",
+    "wof:created":1461925542,
+    "wof:geomhash":"4ea4f82c785716029f248b9938ae64f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":740039345
+        }
+    ],
+    "wof:id":740039345,
+    "wof:lastmodified":1461925542,
+    "wof:name":"Animal Hospital-Whitfield",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "specialty",
+        "dog",
+        "clinic",
+        "veterinarian",
+        "furnishing",
+        "cat",
+        "store"
+    ]
+},
+  "bbox": [
+    -84.976603,
+    34.785599,
+    -84.976603,
+    34.785599
+],
+  "geometry": {"coordinates":[-84.976603,34.785599],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 739823399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.617897,33.946098,-84.617897,33.946098",
+    "geom:latitude":33.946098,
+    "geom:longitude":-84.617897,
+    "iso:country":"US",
+    "sg:address":"2250 Dallas Hwy SW",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 424 0062",
+    "sg:postcode":"30064",
+    "sg:province":"GA",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vA64NNgzynW35UfwKr1sq_33.946098_-84.617897@1303262581"
+    },
+    "wof:country":"US",
+    "wof:created":1461916835,
+    "wof:geomhash":"cf31350fb7f47e5fca517b2f635cd85a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739823399
+        }
+    ],
+    "wof:id":739823399,
+    "wof:lastmodified":1461916835,
+    "wof:name":"Cheatham Hill Kennels",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.617897,
+    33.946098,
+    -84.617897,
+    33.946098
+],
+  "geometry": {"coordinates":[-84.617897,33.946098],"type":"Point"}
+}

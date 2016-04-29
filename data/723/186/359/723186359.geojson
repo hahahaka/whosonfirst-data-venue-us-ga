@@ -1,0 +1,79 @@
+{
+  "id": 723186359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.393732,33.969748,-83.393732,33.969748",
+    "geom:latitude":33.969748,
+    "geom:longitude":-83.393732,
+    "iso:country":"US",
+    "sg:address":"125 Bryan St",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 613 5555",
+    "sg:postcode":"30601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "carwash",
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936177,
+        102081713,
+        85807659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xlqqgtfnjt15JEeJZKPi9_33.969748_-83.393732@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896812,
+    "wof:geomhash":"8698611102bf38d033d8ed893968e878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081713,
+            "locality_id":85936177,
+            "neighbourhood_id":85807659,
+            "region_id":85688535,
+            "venue_id":723186359
+        }
+    ],
+    "wof:id":723186359,
+    "wof:lastmodified":1461896812,
+    "wof:name":"Bob's Car Care",
+    "wof:parent_id":85807659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -83.393732,
+    33.969748,
+    -83.393732,
+    33.969748
+],
+  "geometry": {"coordinates":[-83.393732,33.969748],"type":"Point"}
+}

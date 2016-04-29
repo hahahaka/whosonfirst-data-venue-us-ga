@@ -1,0 +1,91 @@
+{
+  "id": 739826913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.479432,33.901283,-84.479432,33.901283",
+    "geom:latitude":33.901283,
+    "geom:longitude":-84.479432,
+    "iso:country":"US",
+    "sg:address":"2520 Windy Hill Rd SE Ste 305",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 951 0867",
+    "sg:postcode":"30067",
+    "sg:province":"GA",
+    "sg:tags":[
+        "control",
+        "family",
+        "information",
+        "planning",
+        "birth"
+    ],
+    "sg:website":"http://www.atlantavasectomycenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818985,
+        102082313,
+        85845875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SbtbQQyWVkJX4E3pz0Cdw_33.901283_-84.479432@1303262582"
+    },
+    "wof:country":"US",
+    "wof:created":1461916964,
+    "wof:geomhash":"4a8fba76a7cd813cc512e16911ed6393",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85818985,
+            "region_id":85688535,
+            "venue_id":739826913
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":739826913
+        }
+    ],
+    "wof:id":739826913,
+    "wof:lastmodified":1461916964,
+    "wof:name":"Atlanta Vasectomy Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "family",
+        "information",
+        "planning",
+        "birth"
+    ]
+},
+  "bbox": [
+    -84.479432,
+    33.901283,
+    -84.479432,
+    33.901283
+],
+  "geometry": {"coordinates":[-84.479432,33.901283],"type":"Point"}
+}

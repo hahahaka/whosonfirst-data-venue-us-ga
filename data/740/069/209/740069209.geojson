@@ -1,0 +1,88 @@
+{
+  "id": 740069209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.223825,31.587929,-84.223825,31.587929",
+    "geom:latitude":31.587929,
+    "geom:longitude":-84.223825,
+    "iso:country":"US",
+    "sg:address":"2805 Stonewater Dr",
+    "sg:city":"Albany",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 883 4045",
+    "sg:postcode":"31721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85935991,
+        102084427,
+        420517805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PVlHrbqPE56yJGscY0ayZ_31.587929_-84.223825@1303262645"
+    },
+    "wof:country":"US",
+    "wof:created":1461926934,
+    "wof:geomhash":"ce173fe59594e5d876009b1442c5d2b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":420517805,
+            "region_id":85688535,
+            "venue_id":740069209
+        }
+    ],
+    "wof:id":740069209,
+    "wof:lastmodified":1461926934,
+    "wof:name":"Mcdonald's",
+    "wof:parent_id":420517805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -84.223825,
+    31.587929,
+    -84.223825,
+    31.587929
+],
+  "geometry": {"coordinates":[-84.22382500000001,31.587929],"type":"Point"}
+}

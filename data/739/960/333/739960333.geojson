@@ -1,0 +1,100 @@
+{
+  "id": 739960333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.405385,33.791922,-84.405385,33.791922",
+    "geom:latitude":33.791922,
+    "geom:longitude":-84.405385,
+    "iso:country":"US",
+    "sg:address":"500 Bishop Street, Suite C-1",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 888 0212",
+    "sg:postcode":"30318",
+    "sg:province":"GA",
+    "sg:tags":[
+        "investing",
+        "buyer",
+        "broker",
+        "consultant"
+    ],
+    "sg:website":"http://www.onboardbrokers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872097,
+        85889937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qkZQeEGtmEgqFkIK2lIGf_33.791922_-84.405385@1303262616"
+    },
+    "wof:country":"US",
+    "wof:created":1461922380,
+    "wof:geomhash":"52c8c680bb67b0502ebe021514d27bd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872097,
+            "region_id":85688535,
+            "venue_id":739960333
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85889937,
+            "region_id":85688535,
+            "venue_id":739960333
+        }
+    ],
+    "wof:id":739960333,
+    "wof:lastmodified":1461922380,
+    "wof:name":"Onboard Brokers, LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investing",
+        "buyer",
+        "broker",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -84.405385,
+    33.791922,
+    -84.405385,
+    33.791922
+],
+  "geometry": {"coordinates":[-84.405385,33.791922],"type":"Point"}
+}

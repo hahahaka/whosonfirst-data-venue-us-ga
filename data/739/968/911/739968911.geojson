@@ -1,0 +1,73 @@
+{
+  "id": 739968911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.358376,33.845521,-84.358376,33.845521",
+    "geom:latitude":33.845521,
+    "geom:longitude":-84.358376,
+    "iso:country":"US",
+    "sg:address":"3300 Lenox Road NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 237 2660",
+    "sg:postcode":"30326",
+    "sg:province":"GA",
+    "sg:tags":[
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85807835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1s2F0xe6HJu7ahVjU8JWLP_33.845521_-84.358376@1303262619"
+    },
+    "wof:country":"US",
+    "wof:created":1461922708,
+    "wof:geomhash":"02d0f6f9ebc044a9bdc59b8557c7e88a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85807835,
+            "region_id":85688535,
+            "venue_id":739968911
+        }
+    ],
+    "wof:id":739968911,
+    "wof:lastmodified":1461922708,
+    "wof:name":"Hertz Rent A Car",
+    "wof:parent_id":85807835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -84.358376,
+    33.845521,
+    -84.358376,
+    33.845521
+],
+  "geometry": {"coordinates":[-84.35837600000001,33.845521],"type":"Point"}
+}

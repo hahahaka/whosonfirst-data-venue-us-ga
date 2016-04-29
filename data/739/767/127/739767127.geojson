@@ -1,0 +1,72 @@
+{
+  "id": 739767127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.987483,33.041313,-84.987483,33.041313",
+    "geom:latitude":33.041313,
+    "geom:longitude":-84.987483,
+    "iso:country":"US",
+    "sg:address":"1540 Lafayette Pkwy",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/lagrange/140434-waffle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 643 4992",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JsfWSEjLU0NcSAG5UHU6E_33.041313_-84.987483@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914425,
+    "wof:geomhash":"4647d506c67d48c2b836da1f61ac56ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739767127
+        }
+    ],
+    "wof:id":739767127,
+    "wof:lastmodified":1461914425,
+    "wof:name":"Waffle House",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -84.987483,
+    33.041313,
+    -84.987483,
+    33.041313
+],
+  "geometry": {"coordinates":[-84.987483,33.041313],"type":"Point"}
+}

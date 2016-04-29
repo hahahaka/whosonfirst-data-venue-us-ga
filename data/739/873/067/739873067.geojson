@@ -1,0 +1,69 @@
+{
+  "id": 739873067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.754439,34.011631,-84.754439,34.011631",
+    "geom:latitude":34.011631,
+    "geom:longitude":-84.754439,
+    "iso:country":"US",
+    "sg:address":"8879 Dallas Acworth Hwy",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 975 3341",
+    "sg:postcode":"30132",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85835699,
+        102084665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4upSDWfjsn9upu7DtWn2Lu_34.011631_-84.754439@1303262594"
+    },
+    "wof:country":"US",
+    "wof:created":1461918797,
+    "wof:geomhash":"37bcb77d9dfc3a01b0bb8cded49052d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "neighbourhood_id":85835699,
+            "region_id":85688535,
+            "venue_id":739873067
+        }
+    ],
+    "wof:id":739873067,
+    "wof:lastmodified":1461918797,
+    "wof:name":"St Francis Animal Hospital",
+    "wof:parent_id":85835699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.754439,
+    34.011631,
+    -84.754439,
+    34.011631
+],
+  "geometry": {"coordinates":[-84.754439,34.011631],"type":"Point"}
+}

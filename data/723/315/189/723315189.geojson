@@ -1,0 +1,71 @@
+{
+  "id": 723315189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.32402,31.000776,-83.32402,31.000776",
+    "geom:latitude":31.000776,
+    "geom:longitude":-83.32402,
+    "iso:country":"US",
+    "sg:address":"5768 Val del Rd",
+    "sg:city":"Hahira",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 794 3099",
+    "sg:postcode":"31632",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85815713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37fW4IVKweFVgQNoLVcU9h_31.000776_-83.324020@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899357,
+    "wof:geomhash":"4bd299f640619730353795bd91891b16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85815713,
+            "region_id":85688535,
+            "venue_id":723315189
+        }
+    ],
+    "wof:id":723315189,
+    "wof:lastmodified":1461899357,
+    "wof:name":"North Lowndes Fire Station",
+    "wof:parent_id":85815713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -83.32402,
+    31.000776,
+    -83.32402,
+    31.000776
+],
+  "geometry": {"coordinates":[-83.32402,31.000776],"type":"Point"}
+}

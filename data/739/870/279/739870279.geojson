@@ -1,0 +1,80 @@
+{
+  "id": 739870279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.833654,34.219942,-84.833654,34.219942",
+    "geom:latitude":34.219942,
+    "geom:longitude":-84.833654,
+    "iso:country":"US",
+    "sg:address":"19 Country Meadow Way NW",
+    "sg:city":"Cartersville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Recycling",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 334 8351",
+    "sg:postcode":"30121",
+    "sg:province":"GA",
+    "sg:tags":[
+        "container",
+        "garbage",
+        "rubbish",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85847973,
+        102082937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iIaCZI9qADKjLO4NQfWZV_34.219942_-84.833654@1303262593"
+    },
+    "wof:country":"US",
+    "wof:created":1461918703,
+    "wof:geomhash":"b00491ce4a5077209841ead05d6a9771",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082937,
+            "neighbourhood_id":85847973,
+            "region_id":85688535,
+            "venue_id":739870279
+        }
+    ],
+    "wof:id":739870279,
+    "wof:lastmodified":1461918703,
+    "wof:name":"Swift Sanitation",
+    "wof:parent_id":85847973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "container",
+        "garbage",
+        "rubbish",
+        "removal"
+    ]
+},
+  "bbox": [
+    -84.833654,
+    34.219942,
+    -84.833654,
+    34.219942
+],
+  "geometry": {"coordinates":[-84.833654,34.219942],"type":"Point"}
+}

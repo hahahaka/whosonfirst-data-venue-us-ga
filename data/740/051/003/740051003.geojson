@@ -1,0 +1,71 @@
+{
+  "id": 740051003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.242111,33.11055,-83.242111,33.11055",
+    "geom:latitude":33.11055,
+    "geom:longitude":-83.242111,
+    "iso:country":"US",
+    "sg:address":"1930 Robin Cir",
+    "sg:city":"Milledgeville",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 719 244 7919",
+    "sg:postcode":"31061",
+    "sg:province":"GA",
+    "sg:tags":[
+        "container",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85806411,
+        102082319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4A4i9THhr4l0fvfPplGxK7_33.110550_-83.242111@1303262640"
+    },
+    "wof:country":"US",
+    "wof:created":1461926142,
+    "wof:geomhash":"cbb25899e4b20559da858298d1aca96a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082319,
+            "neighbourhood_id":85806411,
+            "region_id":85688535,
+            "venue_id":740051003
+        }
+    ],
+    "wof:id":740051003,
+    "wof:lastmodified":1461926142,
+    "wof:name":"First Choice Express, Inc.",
+    "wof:parent_id":85806411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "container",
+        "broker"
+    ]
+},
+  "bbox": [
+    -83.242111,
+    33.11055,
+    -83.242111,
+    33.11055
+],
+  "geometry": {"coordinates":[-83.24211099999999,33.11055],"type":"Point"}
+}

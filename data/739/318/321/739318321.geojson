@@ -1,0 +1,80 @@
+{
+  "id": 739318321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.978962,34.799315,-84.978962,34.799315",
+    "geom:latitude":34.799315,
+    "geom:longitude":-84.978962,
+    "iso:country":"US",
+    "sg:address":"410 N Park Dr",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 278 7306",
+    "sg:postcode":"30720",
+    "sg:province":"GA",
+    "sg:tags":[
+        "poultry",
+        "commercial",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CywUIhF0cpRfXSTTbYRk0_34.799315_-84.978962@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461904934,
+    "wof:geomhash":"e2532736dac6c618621af53de0117dfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":739318321
+        }
+    ],
+    "wof:id":739318321,
+    "wof:lastmodified":1461904934,
+    "wof:name":"Georgia Poultry Diagnostic Lab",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "poultry",
+        "commercial",
+        "physical"
+    ]
+},
+  "bbox": [
+    -84.978962,
+    34.799315,
+    -84.978962,
+    34.799315
+],
+  "geometry": {"coordinates":[-84.978962,34.799315],"type":"Point"}
+}

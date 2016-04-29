@@ -1,0 +1,77 @@
+{
+  "id": 740042319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.15078,33.548853,-82.15078,33.548853",
+    "geom:latitude":33.548853,
+    "geom:longitude":-82.15078,
+    "iso:country":"US",
+    "sg:address":"4536 Washington Rd",
+    "sg:city":"Evans",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 498 9423",
+    "sg:postcode":"30809",
+    "sg:province":"GA",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "sg:website":"http://oxfordlearning-evansga.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1u5VEYKTMPy4u0eOGkWI9m_33.548853_-82.150780@1303262638"
+    },
+    "wof:country":"US",
+    "wof:created":1461925734,
+    "wof:geomhash":"0421e276557f8806db412774c2e6da0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":740042319
+        }
+    ],
+    "wof:id":740042319,
+    "wof:lastmodified":1461925734,
+    "wof:name":"Oxford Learning Center",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -82.15078,
+    33.548853,
+    -82.15078,
+    33.548853
+],
+  "geometry": {"coordinates":[-82.15078,33.548853],"type":"Point"}
+}

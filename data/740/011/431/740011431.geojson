@@ -1,0 +1,79 @@
+{
+  "id": 740011431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.345322,33.924059,-84.345322,33.924059",
+    "geom:latitude":33.924059,
+    "geom:longitude":-84.345322,
+    "iso:country":"US",
+    "sg:address":"219 Perimeter Center Pkwy NE 6",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 913 4659",
+    "sg:postcode":"30346",
+    "sg:province":"GA",
+    "sg:website":"http://www.macys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85890003,
+        85889963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3H6d4yFeIZnJQ2z5ZVy3kh_33.924059_-84.345322@1303262630"
+    },
+    "wof:country":"US",
+    "wof:created":1461924371,
+    "wof:geomhash":"8573b2627668b111cf6388ec67086b79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890003,
+            "region_id":85688535,
+            "venue_id":740011431
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85889963,
+            "region_id":85688535,
+            "venue_id":740011431
+        }
+    ],
+    "wof:id":740011431,
+    "wof:lastmodified":1461924371,
+    "wof:name":"Macy's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.345322,
+    33.924059,
+    -84.345322,
+    33.924059
+],
+  "geometry": {"coordinates":[-84.345322,33.924059],"type":"Point"}
+}

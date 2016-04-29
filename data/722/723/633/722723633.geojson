@@ -1,0 +1,80 @@
+{
+  "id": 722723633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.055351,34.833248,-85.055351,34.833248",
+    "geom:latitude":34.833248,
+    "geom:longitude":-85.055351,
+    "iso:country":"US",
+    "sg:address":"252 Cottonwood Mill Rd",
+    "sg:city":"Tunnel Hill",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 673 4714",
+    "sg:postcode":"30755",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automobile",
+        "rebuilt",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Wy7g87Ksbuc0luZdUbdRg_34.833248_-85.055351@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461887411,
+    "wof:geomhash":"b30ac06a056fd4ff23ddae6550f9ad68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":722723633
+        }
+    ],
+    "wof:id":722723633,
+    "wof:lastmodified":1461887411,
+    "wof:name":"Griffin's Garage",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt",
+        "general"
+    ]
+},
+  "bbox": [
+    -85.055351,
+    34.833248,
+    -85.055351,
+    34.833248
+],
+  "geometry": {"coordinates":[-85.055351,34.833248],"type":"Point"}
+}

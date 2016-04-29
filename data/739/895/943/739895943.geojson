@@ -1,0 +1,82 @@
+{
+  "id": 739895943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.023129,33.00767,-85.023129,33.00767",
+    "geom:latitude":33.00767,
+    "geom:longitude":-85.023129,
+    "iso:country":"US",
+    "sg:address":"2101 S Davis Rd",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 882 2652",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "churches-non-denominational"
+    ],
+    "sg:website":"http://www.clearviewchapel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GE6VjQcsgTgZwjQ3puUKp_33.007670_-85.023129@1303262600"
+    },
+    "wof:country":"US",
+    "wof:created":1461919658,
+    "wof:geomhash":"c5e8ce899b2f04bff267c70a376e4db6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739895943
+        }
+    ],
+    "wof:id":739895943,
+    "wof:lastmodified":1461919658,
+    "wof:name":"Clearview Chapel",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-non-denominational"
+    ]
+},
+  "bbox": [
+    -85.023129,
+    33.00767,
+    -85.023129,
+    33.00767
+],
+  "geometry": {"coordinates":[-85.023129,33.00767],"type":"Point"}
+}

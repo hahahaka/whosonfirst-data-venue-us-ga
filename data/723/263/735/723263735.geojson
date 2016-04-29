@@ -1,0 +1,71 @@
+{
+  "id": 723263735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.728313,32.476782,-83.728313,32.476782",
+    "geom:latitude":32.476782,
+    "geom:longitude":-83.728313,
+    "iso:country":"US",
+    "sg:address":"200 Bristol St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 218 2875",
+    "sg:postcode":"31069",
+    "sg:province":"GA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yE10IDJQCpAUxBjEdd55O_32.476782_-83.728313@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461898374,
+    "wof:geomhash":"788c475fec2bd23003c22bc7f0e9cf9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":723263735
+        }
+    ],
+    "wof:id":723263735,
+    "wof:lastmodified":1461898374,
+    "wof:name":"Winslow Place",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.728313,
+    32.476782,
+    -83.728313,
+    32.476782
+],
+  "geometry": {"coordinates":[-83.728313,32.476782],"type":"Point"}
+}

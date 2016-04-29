@@ -1,0 +1,85 @@
+{
+  "id": 739848165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.194778,33.837342,-84.194778,33.837342",
+    "geom:latitude":33.837342,
+    "geom:longitude":-84.194778,
+    "iso:country":"US",
+    "sg:address":"4840 Hammermill Rd",
+    "sg:city":"Tucker",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 934 4500",
+    "sg:postcode":"30084",
+    "sg:province":"GA",
+    "sg:tags":[
+        "hydraulic",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937263,
+        102084539,
+        85890037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cCTrFaClZrvtBNi5bX5D1_33.837342_-84.194778@1303262588"
+    },
+    "wof:country":"US",
+    "wof:created":1461917828,
+    "wof:geomhash":"c763b8ded915b04b67f2b88c27e0ffb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937263,
+            "neighbourhood_id":85890037,
+            "region_id":85688535,
+            "venue_id":739848165
+        }
+    ],
+    "wof:id":739848165,
+    "wof:lastmodified":1461917828,
+    "wof:name":"Hydradyne Hydraulics",
+    "wof:parent_id":85890037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hydraulic",
+        "supply"
+    ]
+},
+  "bbox": [
+    -84.194778,
+    33.837342,
+    -84.194778,
+    33.837342
+],
+  "geometry": {"coordinates":[-84.194778,33.837342],"type":"Point"}
+}

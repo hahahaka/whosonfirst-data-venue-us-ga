@@ -1,0 +1,82 @@
+{
+  "id": 723135403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.270046,33.912891,-84.270046,33.912891",
+    "geom:latitude":33.912891,
+    "geom:longitude":-84.270046,
+    "iso:country":"US",
+    "sg:address":"4069 Winters Chapel Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 451 1334",
+    "sg:postcode":"30360",
+    "sg:province":"GA",
+    "sg:tags":[
+        "waste"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lZr4VVSXGIIlEpvmHkdGC_33.912891_-84.270046@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461895800,
+    "wof:geomhash":"fc6aa1416f73e7ccd18ae55f8e243dfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":723135403
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":723135403
+        }
+    ],
+    "wof:id":723135403,
+    "wof:lastmodified":1461895800,
+    "wof:name":"Caraustar Recycling",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "waste"
+    ]
+},
+  "bbox": [
+    -84.270046,
+    33.912891,
+    -84.270046,
+    33.912891
+],
+  "geometry": {"coordinates":[-84.27004599999999,33.912891],"type":"Point"}
+}

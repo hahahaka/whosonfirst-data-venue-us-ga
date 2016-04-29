@@ -1,0 +1,78 @@
+{
+  "id": 739843693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.484585,33.89968,-84.484585,33.89968",
+    "geom:latitude":33.89968,
+    "geom:longitude":-84.484585,
+    "iso:country":"US",
+    "sg:address":"2096 Cobb Pkwy SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 226 8121",
+    "sg:postcode":"30080",
+    "sg:province":"GA",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"thrifty.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818985,
+        102082313,
+        85845875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hV9OQm3rCqhtagBALYtqb_33.899680_-84.484585@1303262586"
+    },
+    "wof:country":"US",
+    "wof:created":1461917647,
+    "wof:geomhash":"7dc11fb12131fdb014cbc9d4168ea7f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85818985,
+            "region_id":85688535,
+            "venue_id":739843693
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":739843693
+        }
+    ],
+    "wof:id":739843693,
+    "wof:lastmodified":1461917647,
+    "wof:name":"Thrifty Car Rental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -84.484585,
+    33.89968,
+    -84.484585,
+    33.89968
+],
+  "geometry": {"coordinates":[-84.484585,33.89968],"type":"Point"}
+}

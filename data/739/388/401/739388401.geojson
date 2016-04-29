@@ -1,0 +1,71 @@
+{
+  "id": 739388401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.925408,34.460554,-84.925408,34.460554",
+    "geom:latitude":34.460554,
+    "geom:longitude":-84.925408,
+    "iso:country":"US",
+    "sg:address":"200 Marine Dr SE",
+    "sg:city":"Calhoun",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 602 2125",
+    "sg:postcode":"30701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "warehouse",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85836757,
+        102084679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6L16gIzUYedOHO7iqrvUgf_34.460554_-84.925408@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461906364,
+    "wof:geomhash":"68242437f5fbfbead4ce0b18646af6f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084679,
+            "neighbourhood_id":85836757,
+            "region_id":85688535,
+            "venue_id":739388401
+        }
+    ],
+    "wof:id":739388401,
+    "wof:lastmodified":1461906364,
+    "wof:name":"Bell Logistics",
+    "wof:parent_id":85836757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "public"
+    ]
+},
+  "bbox": [
+    -84.925408,
+    34.460554,
+    -84.925408,
+    34.460554
+],
+  "geometry": {"coordinates":[-84.925408,34.460554],"type":"Point"}
+}

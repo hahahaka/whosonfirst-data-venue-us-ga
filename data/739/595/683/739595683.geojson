@@ -1,0 +1,73 @@
+{
+  "id": 739595683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.169917,31.978685,-81.169917,31.978685",
+    "geom:latitude":31.978685,
+    "geom:longitude":-81.169917,
+    "iso:country":"US",
+    "sg:address":"12220 Apache Ave",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 925 7770",
+    "sg:postcode":"31419",
+    "sg:province":"GA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936939,
+        102082337,
+        85858259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OcykfUatyeNXxPTu35R5u_31.978685_-81.169917@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910309,
+    "wof:geomhash":"aa56b848c34c499d86de0cc79309f830",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85858259,
+            "region_id":85688535,
+            "venue_id":739595683
+        }
+    ],
+    "wof:id":739595683,
+    "wof:lastmodified":1461910309,
+    "wof:name":"Armstrong Apartments LLC",
+    "wof:parent_id":85858259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.169917,
+    31.978685,
+    -81.169917,
+    31.978685
+],
+  "geometry": {"coordinates":[-81.169917,31.978685],"type":"Point"}
+}

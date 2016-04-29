@@ -1,0 +1,71 @@
+{
+  "id": 722548385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.323978,30.822571,-83.323978,30.822571",
+    "geom:latitude":30.822571,
+    "geom:longitude":-83.323978,
+    "iso:country":"US",
+    "sg:address":"2123 Westside Rd",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 245 8484",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DywxzYXHHze2U9HkBHQMz_30.822571_-83.323978@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461883974,
+    "wof:geomhash":"1ecd76069215ab597fd82f3ed7b349b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843241,
+            "region_id":85688535,
+            "venue_id":722548385
+        }
+    ],
+    "wof:id":722548385,
+    "wof:lastmodified":1461883974,
+    "wof:name":"Lowndes County Fire Dept",
+    "wof:parent_id":85843241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -83.323978,
+    30.822571,
+    -83.323978,
+    30.822571
+],
+  "geometry": {"coordinates":[-83.323978,30.822571],"type":"Point"}
+}

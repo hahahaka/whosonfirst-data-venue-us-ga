@@ -1,0 +1,82 @@
+{
+  "id": 740070275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.827011,31.234586,-83.827011,31.234586",
+    "geom:latitude":31.234586,
+    "geom:longitude":-83.827011,
+    "iso:country":"US",
+    "sg:address":"440 Old Albany Rd",
+    "sg:city":"Moultrie",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 985 8854",
+    "sg:postcode":"31768",
+    "sg:province":"GA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936781,
+        102084501,
+        420517709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XKUQwVurXViaailpUwwDP_31.234586_-83.827011@1303262645"
+    },
+    "wof:country":"US",
+    "wof:created":1461926982,
+    "wof:geomhash":"1b047846a48a4ee52848ebe7a52d6712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084501,
+            "locality_id":85936781,
+            "neighbourhood_id":420517709,
+            "region_id":85688535,
+            "venue_id":740070275
+        }
+    ],
+    "wof:id":740070275,
+    "wof:lastmodified":1461926982,
+    "wof:name":"Campbell Trucking",
+    "wof:parent_id":420517709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.827011,
+    31.234586,
+    -83.827011,
+    31.234586
+],
+  "geometry": {"coordinates":[-83.827011,31.234586],"type":"Point"}
+}

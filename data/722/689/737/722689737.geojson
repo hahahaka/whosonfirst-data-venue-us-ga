@@ -1,0 +1,80 @@
+{
+  "id": 722689737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.030362,33.016004,-85.030362,33.016004",
+    "geom:latitude":33.016004,
+    "geom:longitude":-85.030362,
+    "iso:country":"US",
+    "sg:address":"106 Swift St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 882 5151",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "equipment",
+        "radio",
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ulGi434vjOKw75r2DiADJ_33.016004_-85.030362@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886777,
+    "wof:geomhash":"63358ed02b6989642597994f6d05eb7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":722689737
+        }
+    ],
+    "wof:id":722689737,
+    "wof:lastmodified":1461886777,
+    "wof:name":"Communications & Electronics",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "radio",
+        "communication"
+    ]
+},
+  "bbox": [
+    -85.030362,
+    33.016004,
+    -85.030362,
+    33.016004
+],
+  "geometry": {"coordinates":[-85.030362,33.016004],"type":"Point"}
+}

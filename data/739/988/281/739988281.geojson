@@ -1,0 +1,84 @@
+{
+  "id": 739988281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.33459,33.946642,-84.33459,33.946642",
+    "geom:latitude":33.946642,
+    "geom:longitude":-84.33459,
+    "iso:country":"US",
+    "sg:address":"5450 Chamblee Dunwoody Road",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 394 4030",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.dunwoodyanimal.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85815577,
+        420560157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TXEM6Ev6Ue59i2zu9yFwq_33.946642_-84.334590@1303262624"
+    },
+    "wof:country":"US",
+    "wof:created":1461923487,
+    "wof:geomhash":"920e517c306d5e2c3f8a659308e78f71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85815577,
+            "region_id":85688535,
+            "venue_id":739988281
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":420560157,
+            "region_id":85688535,
+            "venue_id":739988281
+        }
+    ],
+    "wof:id":739988281,
+    "wof:lastmodified":1461923487,
+    "wof:name":"Dunwoody Animal Hospital PC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.33459,
+    33.946642,
+    -84.33459,
+    33.946642
+],
+  "geometry": {"coordinates":[-84.33459000000001,33.946642],"type":"Point"}
+}

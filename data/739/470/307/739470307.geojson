@@ -1,0 +1,71 @@
+{
+  "id": 739470307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.09312,33.560209,-82.09312,33.560209",
+    "geom:latitude":33.560209,
+    "geom:longitude":-82.09312,
+    "iso:country":"US",
+    "sg:address":"3860 Sullivan-Hartsfield Rd",
+    "sg:city":"Evans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 863 7573",
+    "sg:postcode":"30809",
+    "sg:province":"GA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lVHcuk5Bom1ASVElR4xHL_33.560209_-82.093120@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907892,
+    "wof:geomhash":"590fbe38aa11cc307058f10969d8033f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":739470307
+        }
+    ],
+    "wof:id":739470307,
+    "wof:lastmodified":1461907892,
+    "wof:name":"Reeves Towing & Recovery",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -82.09312,
+    33.560209,
+    -82.09312,
+    33.560209
+],
+  "geometry": {"coordinates":[-82.09312,33.560209],"type":"Point"}
+}

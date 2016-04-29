@@ -1,0 +1,87 @@
+{
+  "id": 739955411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.383255,33.72777,-84.383255,33.72777",
+    "geom:latitude":33.72777,
+    "geom:longitude":-84.383255,
+    "iso:country":"US",
+    "sg:address":"970 Martin St SE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 624 2084",
+    "sg:postcode":"30315",
+    "sg:province":"GA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85866905,
+        85841265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QzRfttZV9XTcKO4ztGVxP_33.727770_-84.383255@1303262615"
+    },
+    "wof:country":"US",
+    "wof:created":1461922198,
+    "wof:geomhash":"301883e73b8e12155ba30fe319e179e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85866905,
+            "region_id":85688535,
+            "venue_id":739955411
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85841265,
+            "region_id":85688535,
+            "venue_id":739955411
+        }
+    ],
+    "wof:id":739955411,
+    "wof:lastmodified":1461922198,
+    "wof:name":"Atlanta City School District",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -84.383255,
+    33.72777,
+    -84.383255,
+    33.72777
+],
+  "geometry": {"coordinates":[-84.38325500000001,33.72777],"type":"Point"}
+}

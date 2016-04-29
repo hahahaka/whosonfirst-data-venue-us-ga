@@ -1,0 +1,71 @@
+{
+  "id": 739825665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.521698,34.061298,-84.521698,34.061298",
+    "geom:latitude":34.061298,
+    "geom:longitude":-84.521698,
+    "iso:country":"US",
+    "sg:address":"4509 Canton Rd",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 517 6010",
+    "sg:postcode":"30066",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85858509,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_414gFHm1RGklkXTYM3lInF_34.061298_-84.521698@1303262582"
+    },
+    "wof:country":"US",
+    "wof:created":1461916922,
+    "wof:geomhash":"bd3cc06d1c2c952b6441b7dfebf338a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85858509,
+            "region_id":85688535,
+            "venue_id":739825665
+        }
+    ],
+    "wof:id":739825665,
+    "wof:lastmodified":1461916922,
+    "wof:name":"Automaster Precision Collision Center",
+    "wof:parent_id":85858509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.521698,
+    34.061298,
+    -84.521698,
+    34.061298
+],
+  "geometry": {"coordinates":[-84.521698,34.061298],"type":"Point"}
+}

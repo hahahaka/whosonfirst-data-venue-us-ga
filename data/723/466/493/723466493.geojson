@@ -1,0 +1,71 @@
+{
+  "id": 723466493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.80509,33.90689,-84.80509,33.90689",
+    "geom:latitude":33.90689,
+    "geom:longitude":-84.80509,
+    "iso:country":"US",
+    "sg:address":"205 Commerce Dr",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 443 7861",
+    "sg:postcode":"30132",
+    "sg:province":"GA",
+    "sg:tags":[
+        "probation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936335,
+        102084665,
+        85835843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OxeGbCsDtFjJBQ5qxic3C_33.906890_-84.805090@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461902255,
+    "wof:geomhash":"3a654b79ed9cd35ff7ef9b8e8b15ffac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "locality_id":85936335,
+            "neighbourhood_id":85835843,
+            "region_id":85688535,
+            "venue_id":723466493
+        }
+    ],
+    "wof:id":723466493,
+    "wof:lastmodified":1461902255,
+    "wof:name":"Dallas Probation Office",
+    "wof:parent_id":85835843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "probation"
+    ]
+},
+  "bbox": [
+    -84.80509,
+    33.90689,
+    -84.80509,
+    33.90689
+],
+  "geometry": {"coordinates":[-84.80509000000001,33.90689],"type":"Point"}
+}

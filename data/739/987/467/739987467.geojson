@@ -1,0 +1,85 @@
+{
+  "id": 739987467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.336114,33.948865,-84.336114,33.948865",
+    "geom:latitude":33.948865,
+    "geom:longitude":-84.336114,
+    "iso:country":"US",
+    "sg:address":"5531 Chamblee Dunwoody Road",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 394 5555",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "sg:tags":[
+        "cleaner",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85815577,
+        85844117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2L2bEtkk8hFDL4nm6Mqklv_33.948865_-84.336114@1303262623"
+    },
+    "wof:country":"US",
+    "wof:created":1461923459,
+    "wof:geomhash":"6fc380ce93605d1dfc8541fa645abe41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85815577,
+            "region_id":85688535,
+            "venue_id":739987467
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85844117,
+            "region_id":85688535,
+            "venue_id":739987467
+        }
+    ],
+    "wof:id":739987467,
+    "wof:lastmodified":1461923459,
+    "wof:name":"Alice Cleaners",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -84.336114,
+    33.948865,
+    -84.336114,
+    33.948865
+],
+  "geometry": {"coordinates":[-84.33611399999999,33.948865],"type":"Point"}
+}

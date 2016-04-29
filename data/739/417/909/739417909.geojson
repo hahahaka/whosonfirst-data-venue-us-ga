@@ -1,0 +1,73 @@
+{
+  "id": 739417909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.135167,33.959362,-84.135167,33.959362",
+    "geom:latitude":33.959362,
+    "geom:longitude":-84.135167,
+    "iso:country":"US",
+    "sg:address":"2345 Pleasant Hill Rd",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 584 0290",
+    "sg:postcode":"30044",
+    "sg:province":"GA",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_357Bo3wVGQ6CHhg6CZtADl_33.959362_-84.135167@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461906911,
+    "wof:geomhash":"b15a944ec616fb2a6d5cb80d8c503719",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":739417909
+        }
+    ],
+    "wof:id":739417909,
+    "wof:lastmodified":1461906911,
+    "wof:name":"Enterprise Rent-A-Car Company",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -84.135167,
+    33.959362,
+    -84.135167,
+    33.959362
+],
+  "geometry": {"coordinates":[-84.135167,33.959362],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 739600003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.128613,33.537478,-82.128613,33.537478",
+    "geom:latitude":33.537478,
+    "geom:longitude":-82.128613,
+    "iso:country":"US",
+    "sg:address":"4317 Washington Rd",
+    "sg:city":"Evans",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 860 2320",
+    "sg:postcode":"30809",
+    "sg:province":"GA",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GaSiD88Pb84jPM8biqjc6_33.537478_-82.128613@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910402,
+    "wof:geomhash":"ae170d45ae99d7c6922df162d102bb63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":739600003
+        }
+    ],
+    "wof:id":739600003,
+    "wof:lastmodified":1461910402,
+    "wof:name":"Evans Amoco",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -82.128613,
+    33.537478,
+    -82.128613,
+    33.537478
+],
+  "geometry": {"coordinates":[-82.128613,33.537478],"type":"Point"}
+}

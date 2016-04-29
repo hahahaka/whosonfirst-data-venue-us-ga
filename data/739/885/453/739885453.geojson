@@ -1,0 +1,71 @@
+{
+  "id": 739885453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.530417,34.074931,-84.530417,34.074931",
+    "geom:latitude":34.074931,
+    "geom:longitude":-84.530417,
+    "iso:country":"US",
+    "sg:address":"330 Farm Place Ct NE",
+    "sg:city":"Woodstock",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 591 9898",
+    "sg:postcode":"30188",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shuttle",
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85858509,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67qzd7HAB6e6yikB4QOtuH_34.074931_-84.530417@1303262597"
+    },
+    "wof:country":"US",
+    "wof:created":1461919264,
+    "wof:geomhash":"071882b1d5b74f4c93e233d3e6667c6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85858509,
+            "region_id":85688535,
+            "venue_id":739885453
+        }
+    ],
+    "wof:id":739885453,
+    "wof:lastmodified":1461919264,
+    "wof:name":"Eagle Taxi",
+    "wof:parent_id":85858509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "airport"
+    ]
+},
+  "bbox": [
+    -84.530417,
+    34.074931,
+    -84.530417,
+    34.074931
+],
+  "geometry": {"coordinates":[-84.530417,34.074931],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 739900687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.815552,33.391171,-84.815552,33.391171",
+    "geom:latitude":33.391171,
+    "geom:longitude":-84.815552,
+    "iso:country":"US",
+    "sg:address":"60 Hospital Rd",
+    "sg:city":"Newnan",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 253 1912",
+    "sg:postcode":"30263",
+    "sg:province":"GA",
+    "sg:tags":[
+        "nursing",
+        "medical",
+        "surgery",
+        "homes-skilled",
+        "facility"
+    ],
+    "sg:website":"http://www.piedmontnewnan.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936351,
+        102084443,
+        85833133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EslesTbXcRfWhh0eMyAGS_33.391171_-84.815552@1303262601"
+    },
+    "wof:country":"US",
+    "wof:created":1461919853,
+    "wof:geomhash":"69bc074c074d90c41569c9a6c705ff89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084443,
+            "locality_id":85936351,
+            "neighbourhood_id":85833133,
+            "region_id":85688535,
+            "venue_id":739900687
+        }
+    ],
+    "wof:id":739900687,
+    "wof:lastmodified":1461919853,
+    "wof:name":"Piedmont Newnan Hospital",
+    "wof:parent_id":85833133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursing",
+        "medical",
+        "surgery",
+        "homes-skilled",
+        "facility"
+    ]
+},
+  "bbox": [
+    -84.815552,
+    33.391171,
+    -84.815552,
+    33.391171
+],
+  "geometry": {"coordinates":[-84.815552,33.391171],"type":"Point"}
+}

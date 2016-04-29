@@ -1,0 +1,73 @@
+{
+  "id": 723121113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.799113,34.288865,-83.799113,34.288865",
+    "geom:latitude":34.288865,
+    "geom:longitude":-83.799113,
+    "iso:country":"US",
+    "sg:address":"815 Harrison Sq",
+    "sg:city":"Gainesville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 534 8274",
+    "sg:postcode":"30507",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936861,
+        102083629,
+        85836659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30lR1Re467bVwLnjyWhgDd_34.288865_-83.799113@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461895538,
+    "wof:geomhash":"42d0116f541c3f7e6ef471f289d59156",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083629,
+            "locality_id":85936861,
+            "neighbourhood_id":85836659,
+            "region_id":85688535,
+            "venue_id":723121113
+        }
+    ],
+    "wof:id":723121113,
+    "wof:lastmodified":1461895538,
+    "wof:name":"Gainesville Police Dept",
+    "wof:parent_id":85836659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -83.799113,
+    34.288865,
+    -83.799113,
+    34.288865
+],
+  "geometry": {"coordinates":[-83.79911300000001,34.288865],"type":"Point"}
+}

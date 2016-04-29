@@ -1,0 +1,89 @@
+{
+  "id": 740059991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.193825,32.188457,-81.193825,32.188457",
+    "geom:latitude":32.188457,
+    "geom:longitude":-81.193825,
+    "iso:country":"US",
+    "sg:address":"7001 Ga Highway 21",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 963 0073",
+    "sg:postcode":"31407",
+    "sg:province":"GA",
+    "sg:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ],
+    "sg:website":"http://www.mcdonalds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936943,
+        102082337,
+        85833707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cnK7vTlyBOorr3tACPLW7_32.188457_-81.193825@1303262642"
+    },
+    "wof:country":"US",
+    "wof:created":1461926526,
+    "wof:geomhash":"bd07e1036596d9cdfb0f7bab4cd48fdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936943,
+            "neighbourhood_id":85833707,
+            "region_id":85688535,
+            "venue_id":740059991
+        }
+    ],
+    "wof:id":740059991,
+    "wof:lastmodified":1461926526,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85833707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -81.193825,
+    32.188457,
+    -81.193825,
+    32.188457
+],
+  "geometry": {"coordinates":[-81.193825,32.188457],"type":"Point"}
+}

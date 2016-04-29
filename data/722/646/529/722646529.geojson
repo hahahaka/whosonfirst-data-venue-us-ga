@@ -1,0 +1,75 @@
+{
+  "id": 722646529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.328903,33.800546,-84.328903,33.800546",
+    "geom:latitude":33.800546,
+    "geom:longitude":-84.328903,
+    "iso:country":"US",
+    "sg:address":"615 Michael St NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 727 5979",
+    "sg:postcode":"30329",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937251,
+        102084539,
+        85889951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Nu3qOeEiGKdIPe2TSawnW_33.800546_-84.328903@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461885953,
+    "wof:geomhash":"f770c79cf72bc48da8546db68560d645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937251,
+            "neighbourhood_id":85889951,
+            "region_id":85688535,
+            "venue_id":722646529
+        }
+    ],
+    "wof:id":722646529,
+    "wof:lastmodified":1461885953,
+    "wof:name":"Emory University School-Mdcn",
+    "wof:parent_id":85889951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.328903,
+    33.800546,
+    -84.328903,
+    33.800546
+],
+  "geometry": {"coordinates":[-84.328903,33.800546],"type":"Point"}
+}

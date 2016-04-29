@@ -1,0 +1,81 @@
+{
+  "id": 740053599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.680299,32.618206,-83.680299,32.618206",
+    "geom:latitude":32.618206,
+    "geom:longitude":-83.680299,
+    "iso:country":"US",
+    "sg:address":"2835 Watson Blvd",
+    "sg:city":"Warner Robins",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 971 7464",
+    "sg:postcode":"31093",
+    "sg:province":"GA",
+    "sg:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ],
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ud38iULSFbAr38e3JdFsT_32.618206_-83.680299@1303262640"
+    },
+    "wof:country":"US",
+    "wof:created":1461926263,
+    "wof:geomhash":"56a013c5d4215d271d0a1662ca559e18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":740053599
+        }
+    ],
+    "wof:id":740053599,
+    "wof:lastmodified":1461926263,
+    "wof:name":"Walgreen Drug Stores",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ]
+},
+  "bbox": [
+    -83.680299,
+    32.618206,
+    -83.680299,
+    32.618206
+],
+  "geometry": {"coordinates":[-83.68029900000001,32.618206],"type":"Point"}
+}

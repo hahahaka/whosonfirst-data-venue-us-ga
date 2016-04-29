@@ -1,0 +1,75 @@
+{
+  "id": 739890685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.421997,33.447399,-84.421997,33.447399",
+    "geom:latitude":33.447399,
+    "geom:longitude":-84.421997,
+    "iso:country":"US",
+    "sg:address":"244 Callaway Rd",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 461 9893",
+    "sg:postcode":"30215",
+    "sg:province":"GA",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936019,
+        102081687,
+        85819123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6g4IZhmqMrWWvOWcPCciZi_33.447399_-84.421997@1303262599"
+    },
+    "wof:country":"US",
+    "wof:created":1461919458,
+    "wof:geomhash":"73d93a096737eae23a87a0a6d5a2b64c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081687,
+            "locality_id":85936019,
+            "neighbourhood_id":85819123,
+            "region_id":85688535,
+            "venue_id":739890685
+        }
+    ],
+    "wof:id":739890685,
+    "wof:lastmodified":1461919458,
+    "wof:name":"Waterwood Kennel",
+    "wof:parent_id":85819123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.421997,
+    33.447399,
+    -84.421997,
+    33.447399
+],
+  "geometry": {"coordinates":[-84.421997,33.447399],"type":"Point"}
+}

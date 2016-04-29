@@ -1,0 +1,76 @@
+{
+  "id": 739765635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.084092,33.574819,-85.084092,33.574819",
+    "geom:latitude":33.574819,
+    "geom:longitude":-85.084092,
+    "iso:country":"US",
+    "sg:address":"827 Maple St",
+    "sg:city":"Carrollton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/carrollton/132318-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 832 7537",
+    "sg:postcode":"30117",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937055,
+        102081719,
+        85890025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NaCJXD7aV0X4w3xsBG92h_33.574819_-85.084092@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914365,
+    "wof:geomhash":"388f223b89ef3d5f1bd55c985de49d30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081719,
+            "locality_id":85937055,
+            "neighbourhood_id":85890025,
+            "region_id":85688535,
+            "venue_id":739765635
+        }
+    ],
+    "wof:id":739765635,
+    "wof:lastmodified":1461914365,
+    "wof:name":"Subway",
+    "wof:parent_id":85890025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.084092,
+    33.574819,
+    -85.084092,
+    33.574819
+],
+  "geometry": {"coordinates":[-85.084092,33.574819],"type":"Point"}
+}

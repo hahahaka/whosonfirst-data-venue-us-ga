@@ -1,0 +1,85 @@
+{
+  "id": 740024765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.013496,34.0956,-84.013496,34.0956",
+    "geom:latitude":34.0956,
+    "geom:longitude":-84.013496,
+    "iso:country":"US",
+    "sg:address":"1498 Buford Hwy Ste C195",
+    "sg:city":"Buford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 277 3647",
+    "sg:postcode":"30518",
+    "sg:province":"GA",
+    "sg:tags":[
+        "electrician",
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936305,
+        102082967,
+        85820775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UMBjXANLAM7PBbg2Vl74W_34.095600_-84.013496@1303262633"
+    },
+    "wof:country":"US",
+    "wof:created":1461924878,
+    "wof:geomhash":"72648b6491178141d976c8f9835f592e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936305,
+            "neighbourhood_id":85820775,
+            "region_id":85688535,
+            "venue_id":740024765
+        }
+    ],
+    "wof:id":740024765,
+    "wof:lastmodified":1461924878,
+    "wof:name":"A-Able Painting",
+    "wof:parent_id":85820775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician",
+        "painter"
+    ]
+},
+  "bbox": [
+    -84.013496,
+    34.0956,
+    -84.013496,
+    34.0956
+],
+  "geometry": {"coordinates":[-84.013496,34.0956],"type":"Point"}
+}

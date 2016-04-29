@@ -1,0 +1,73 @@
+{
+  "id": 739626189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.275256,30.818181,-83.275256,30.818181",
+    "geom:latitude":30.818181,
+    "geom:longitude":-83.275256,
+    "iso:country":"US",
+    "sg:address":"1100 Madison Hwy",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 247 5549",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yW0xjFzR6dX3mrX8yd3GI_30.818181_-83.275256@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910959,
+    "wof:geomhash":"9fca45956813463d10a4a58407ab3349",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843077,
+            "region_id":85688535,
+            "venue_id":739626189
+        }
+    ],
+    "wof:id":739626189,
+    "wof:lastmodified":1461910959,
+    "wof:name":"H & H Auto Svc",
+    "wof:parent_id":85843077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.275256,
+    30.818181,
+    -83.275256,
+    30.818181
+],
+  "geometry": {"coordinates":[-83.275256,30.818181],"type":"Point"}
+}

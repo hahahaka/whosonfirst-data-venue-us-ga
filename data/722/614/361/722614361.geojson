@@ -1,0 +1,71 @@
+{
+  "id": 722614361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.937293,30.904999,-83.937293,30.904999",
+    "geom:latitude":30.904999,
+    "geom:longitude":-83.937293,
+    "iso:country":"US",
+    "sg:address":"561 McGill Rd",
+    "sg:city":"Thomasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 228 0213",
+    "sg:postcode":"31757",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85833309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7I4E2mufydFqtcR2ZWgwOH_30.904999_-83.937293@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461885253,
+    "wof:geomhash":"ab92e847a919a3b8e8b7cf78b290274e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85833309,
+            "region_id":85688535,
+            "venue_id":722614361
+        }
+    ],
+    "wof:id":722614361,
+    "wof:lastmodified":1461885253,
+    "wof:name":"Mitchells Body Shop",
+    "wof:parent_id":85833309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -83.937293,
+    30.904999,
+    -83.937293,
+    30.904999
+],
+  "geometry": {"coordinates":[-83.937293,30.904999],"type":"Point"}
+}

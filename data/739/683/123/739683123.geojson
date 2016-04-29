@@ -1,0 +1,71 @@
+{
+  "id": 739683123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.724619,32.813255,-83.724619,32.813255",
+    "geom:latitude":32.813255,
+    "geom:longitude":-83.724619,
+    "iso:country":"US",
+    "sg:address":"5020 Harrison Rd",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 477 5353",
+    "sg:postcode":"31206",
+    "sg:province":"GA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936517,
+        102084373,
+        85806435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jfI0I2tcqJKC2wSEvSd3l_32.813255_-83.724619@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461912207,
+    "wof:geomhash":"b406891183fbd80e11ede6d0f9576b5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084373,
+            "locality_id":85936517,
+            "neighbourhood_id":85806435,
+            "region_id":85688535,
+            "venue_id":739683123
+        }
+    ],
+    "wof:id":739683123,
+    "wof:lastmodified":1461912207,
+    "wof:name":"Dennys",
+    "wof:parent_id":85806435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -83.724619,
+    32.813255,
+    -83.724619,
+    32.813255
+],
+  "geometry": {"coordinates":[-83.724619,32.813255],"type":"Point"}
+}

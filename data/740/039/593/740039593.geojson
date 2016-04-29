@@ -1,0 +1,89 @@
+{
+  "id": 740039593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.982522,34.788959,-84.982522,34.788959",
+    "geom:latitude":34.788959,
+    "geom:longitude":-84.982522,
+    "iso:country":"US",
+    "sg:address":"1107 Memorial Dr Ste 300",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 226 3139",
+    "sg:postcode":"30720",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medicine",
+        "physician",
+        "medical",
+        "internal",
+        "surgeons"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FQm4Fdyvmht7Lxq37cRag_34.788959_-84.982522@1303262637"
+    },
+    "wof:country":"US",
+    "wof:created":1461925565,
+    "wof:geomhash":"f49c34b443070cd3d34fbe50b1a5820b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":740039593
+        }
+    ],
+    "wof:id":740039593,
+    "wof:lastmodified":1461925565,
+    "wof:name":"Corner Stone Medical Group",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "physician",
+        "medical",
+        "internal",
+        "surgeons"
+    ]
+},
+  "bbox": [
+    -84.982522,
+    34.788959,
+    -84.982522,
+    34.788959
+],
+  "geometry": {"coordinates":[-84.982522,34.788959],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 739772095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.259396,33.113825,-83.259396,33.113825",
+    "geom:latitude":33.113825,
+    "geom:longitude":-83.259396,
+    "iso:country":"US",
+    "sg:address":"2500 N Columbia St",
+    "sg:city":"Milledgeville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/milledgeville-midway-hardwick/158400-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 452 1707",
+    "sg:postcode":"31061",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85806411,
+        102082319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xJU6lnpwKgIV9TlHrDJzO_33.113825_-83.259396@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914621,
+    "wof:geomhash":"3bcb4d5ec6dc8a1dd15b85a3cafc77e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082319,
+            "neighbourhood_id":85806411,
+            "region_id":85688535,
+            "venue_id":739772095
+        }
+    ],
+    "wof:id":739772095,
+    "wof:lastmodified":1461914621,
+    "wof:name":"Arby's",
+    "wof:parent_id":85806411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.259396,
+    33.113825,
+    -83.259396,
+    33.113825
+],
+  "geometry": {"coordinates":[-83.259396,33.113825],"type":"Point"}
+}

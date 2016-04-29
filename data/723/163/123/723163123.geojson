@@ -1,0 +1,71 @@
+{
+  "id": 723163123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.2772,30.832865,-83.2772,30.832865",
+    "geom:latitude":30.832865,
+    "geom:longitude":-83.2772,
+    "iso:country":"US",
+    "sg:address":"100 E Central Ave",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 333 5103",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LZ8OwhhFgOnYP1YRptqHz_30.832865_-83.277200@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896342,
+    "wof:geomhash":"cd75b8d6a57732d50eb9b0db8afafabf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843077,
+            "region_id":85688535,
+            "venue_id":723163123
+        }
+    ],
+    "wof:id":723163123,
+    "wof:lastmodified":1461896342,
+    "wof:name":"Lowndes County Probate Court",
+    "wof:parent_id":85843077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -83.2772,
+    30.832865,
+    -83.2772,
+    30.832865
+],
+  "geometry": {"coordinates":[-83.27719999999999,30.832865],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 740058145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.091415,32.080331,-81.091415,32.080331",
+    "geom:latitude":32.080331,
+    "geom:longitude":-81.091415,
+    "iso:country":"US",
+    "sg:address":"15 Bull St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 734 4667",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ],
+    "sg:website":"http://www.regionsbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936939,
+        102082337,
+        85880917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xcSuaGO2sPK5NCjSABViG_32.080331_-81.091415@1303262642"
+    },
+    "wof:country":"US",
+    "wof:created":1461926456,
+    "wof:geomhash":"1fe1b34f85e80a7e78d630816d989d3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880917,
+            "region_id":85688535,
+            "venue_id":740058145
+        }
+    ],
+    "wof:id":740058145,
+    "wof:lastmodified":1461926456,
+    "wof:name":"Regions Bank",
+    "wof:parent_id":85880917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -81.091415,
+    32.080331,
+    -81.091415,
+    32.080331
+],
+  "geometry": {"coordinates":[-81.091415,32.080331],"type":"Point"}
+}

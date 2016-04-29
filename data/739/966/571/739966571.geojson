@@ -1,0 +1,79 @@
+{
+  "id": 739966571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.363745,33.809426,-84.363745,33.809426",
+    "geom:latitude":33.809426,
+    "geom:longitude":-84.363745,
+    "iso:country":"US",
+    "sg:address":"2000 Manchester Street",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 872 5232",
+    "sg:postcode":"30324",
+    "sg:province":"GA",
+    "sg:website":"www.usatoplights.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85832987,
+        85889987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tWDiefKI2SIy00uB7xh4r_33.809426_-84.363745@1303262618"
+    },
+    "wof:country":"US",
+    "wof:created":1461922628,
+    "wof:geomhash":"b63ab275750c2d4d1a203f01798af3de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85832987,
+            "region_id":85688535,
+            "venue_id":739966571
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85889987,
+            "region_id":85688535,
+            "venue_id":739966571
+        }
+    ],
+    "wof:id":739966571,
+    "wof:lastmodified":1461922628,
+    "wof:name":"USA Top Lights",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.363745,
+    33.809426,
+    -84.363745,
+    33.809426
+],
+  "geometry": {"coordinates":[-84.36374499999999,33.809426],"type":"Point"}
+}

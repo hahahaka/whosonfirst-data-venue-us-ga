@@ -1,0 +1,71 @@
+{
+  "id": 723346179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.377785,34.243313,-84.377785,34.243313",
+    "geom:latitude":34.243313,
+    "geom:longitude":-84.377785,
+    "iso:country":"US",
+    "sg:address":"490 Beavers Rd",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 704 5025",
+    "sg:postcode":"30115",
+    "sg:province":"GA",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85896251,
+        102084635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mkLpbd08hEHhlTiKsgcCZ_34.243313_-84.377785@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899928,
+    "wof:geomhash":"c4ce463e40742ce9e2b0dbc9f0f398dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084635,
+            "neighbourhood_id":85896251,
+            "region_id":85688535,
+            "venue_id":723346179
+        }
+    ],
+    "wof:id":723346179,
+    "wof:lastmodified":1461899928,
+    "wof:name":"Macedonia Animal Clinic",
+    "wof:parent_id":85896251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -84.377785,
+    34.243313,
+    -84.377785,
+    34.243313
+],
+  "geometry": {"coordinates":[-84.377785,34.243313],"type":"Point"}
+}

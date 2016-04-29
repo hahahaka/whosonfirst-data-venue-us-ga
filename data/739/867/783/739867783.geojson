@@ -1,0 +1,93 @@
+{
+  "id": 739867783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.420379,34.176673,-84.420379,34.176673",
+    "geom:latitude":34.176673,
+    "geom:longitude":-84.420379,
+    "iso:country":"US",
+    "sg:address":"6120 Hickory Flat Hwy",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 746 7287",
+    "sg:postcode":"30115",
+    "sg:province":"GA",
+    "sg:tags":[
+        "urgent",
+        "medical",
+        "nurse"
+    ],
+    "sg:website":"http://www.minuteclinic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936717,
+        102084635,
+        85824777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60t7lKUHNMiXNJ6C951MKj_34.176673_-84.420379@1303262593"
+    },
+    "wof:country":"US",
+    "wof:created":1461918595,
+    "wof:geomhash":"1e07b9a52b0e62a7d39cf56f827d2830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084635,
+            "locality_id":85936717,
+            "neighbourhood_id":85824777,
+            "region_id":85688535,
+            "venue_id":739867783
+        }
+    ],
+    "wof:id":739867783,
+    "wof:lastmodified":1461918595,
+    "wof:name":"MinuteClinic",
+    "wof:parent_id":85824777,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "urgent",
+        "medical",
+        "nurse"
+    ]
+},
+  "bbox": [
+    -84.420379,
+    34.176673,
+    -84.420379,
+    34.176673
+],
+  "geometry": {"coordinates":[-84.420379,34.176673],"type":"Point"}
+}

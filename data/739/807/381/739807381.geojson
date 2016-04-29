@@ -1,0 +1,80 @@
+{
+  "id": 739807381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.081135,33.941755,-84.081135,33.941755",
+    "geom:latitude":33.941755,
+    "geom:longitude":-84.081135,
+    "iso:country":"US",
+    "sg:address":"950 Herrington Rd",
+    "sg:city":"Lawrenceville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 807 9963",
+    "sg:postcode":"30044",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shuttle"
+    ],
+    "sg:website":"http://www.yext.com/p/superpages/airport-transportation-lawrenceville-georgia.html",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wMuLeo3Aioxwg83h2X88O_33.941755_-84.081135@1303262577"
+    },
+    "wof:country":"US",
+    "wof:created":1461916175,
+    "wof:geomhash":"1a4eb0f11afc91e25a8847cc074afe59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":739807381
+        }
+    ],
+    "wof:id":739807381,
+    "wof:lastmodified":1461916175,
+    "wof:name":"Airport Transportation",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle"
+    ]
+},
+  "bbox": [
+    -84.081135,
+    33.941755,
+    -84.081135,
+    33.941755
+],
+  "geometry": {"coordinates":[-84.081135,33.941755],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 739956079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.312157,33.740103,-84.312157,33.740103",
+    "geom:latitude":33.740103,
+    "geom:longitude":-84.312157,
+    "iso:country":"US",
+    "sg:address":"2283 Glenwood Ave SE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 373 4901",
+    "sg:postcode":"30316",
+    "sg:province":"GA",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"https://www.wachovia.com/?DCMP=KNL-CPS-DS-Directory-0703&HBX_PK=Banks&HBX_OU=71",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85816491,
+        102084539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tymGqDeGgG4ngGwan2CtS_33.740103_-84.312157@1303262615"
+    },
+    "wof:country":"US",
+    "wof:created":1461922221,
+    "wof:geomhash":"c79f6b64c613b1b82adaa3684d3f87d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739956079
+        }
+    ],
+    "wof:id":739956079,
+    "wof:lastmodified":1461922221,
+    "wof:name":"Wachovia Bank",
+    "wof:parent_id":85816491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -84.312157,
+    33.740103,
+    -84.312157,
+    33.740103
+],
+  "geometry": {"coordinates":[-84.312157,33.740103],"type":"Point"}
+}

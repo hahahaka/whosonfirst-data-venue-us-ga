@@ -1,0 +1,83 @@
+{
+  "id": 740011189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.337242,33.927909,-84.337242,33.927909",
+    "geom:latitude":33.927909,
+    "geom:longitude":-84.337242,
+    "iso:country":"US",
+    "sg:address":"4570 Ashford Dunwoody Rd NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 271 6760",
+    "sg:postcode":"30346",
+    "sg:province":"GA",
+    "sg:tags":[
+        "key"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        420559945,
+        85890003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AWP8fkEN2PG78i1Q9XJUg_33.927909_-84.337242@1303262630"
+    },
+    "wof:country":"US",
+    "wof:created":1461924363,
+    "wof:geomhash":"c815dc1c72e137beeee22ec193eb30ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":420559945,
+            "region_id":85688535,
+            "venue_id":740011189
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890003,
+            "region_id":85688535,
+            "venue_id":740011189
+        }
+    ],
+    "wof:id":740011189,
+    "wof:lastmodified":1461924363,
+    "wof:name":"Locksmith In Atlanta",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "key"
+    ]
+},
+  "bbox": [
+    -84.337242,
+    33.927909,
+    -84.337242,
+    33.927909
+],
+  "geometry": {"coordinates":[-84.337242,33.927909],"type":"Point"}
+}

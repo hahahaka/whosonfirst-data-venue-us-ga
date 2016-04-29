@@ -1,0 +1,98 @@
+{
+  "id": 739882551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.166321,34.245253,-85.166321,34.245253",
+    "geom:latitude":34.245253,
+    "geom:longitude":-85.166321,
+    "iso:country":"US",
+    "sg:address":"16 Riverbend Dr SW",
+    "sg:city":"Rome",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 378 0611",
+    "sg:postcode":"30161",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "radiology",
+        "family",
+        "practice",
+        "surgeons",
+        "pediatrics-radiology",
+        "examination",
+        "imaging",
+        "medicine",
+        "surgeon",
+        "insurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936575,
+        102084577,
+        85890045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cTIAFsLaNHUgasbNsLx6j_34.245253_-85.166321@1303262597"
+    },
+    "wof:country":"US",
+    "wof:created":1461919151,
+    "wof:geomhash":"cc9a455b6489232ebb90e9aaad932124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084577,
+            "locality_id":85936575,
+            "neighbourhood_id":85890045,
+            "region_id":85688535,
+            "venue_id":739882551
+        }
+    ],
+    "wof:id":739882551,
+    "wof:lastmodified":1461919151,
+    "wof:name":"Coosa Diagnostic Center",
+    "wof:parent_id":85890045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "radiology",
+        "family",
+        "practice",
+        "surgeons",
+        "pediatrics-radiology",
+        "examination",
+        "imaging",
+        "medicine",
+        "surgeon",
+        "insurance"
+    ]
+},
+  "bbox": [
+    -85.166321,
+    34.245253,
+    -85.166321,
+    34.245253
+],
+  "geometry": {"coordinates":[-85.166321,34.245253],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 723180301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.491933,31.149988,-81.491933,31.149988",
+    "geom:latitude":31.149988,
+    "geom:longitude":-81.491933,
+    "iso:country":"US",
+    "sg:address":"801 Gloucester St",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 554 8050",
+    "sg:postcode":"31520",
+    "sg:province":"GA",
+    "sg:tags":[
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85822091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70XQOXo4ysWQ9c80cANvD8_31.149988_-81.491933@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896688,
+    "wof:geomhash":"7b0592b3fd502ed884f48e3294ba6e10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85822091,
+            "region_id":85688535,
+            "venue_id":723180301
+        }
+    ],
+    "wof:id":723180301,
+    "wof:lastmodified":1461896688,
+    "wof:name":"Cardinal Maintenance Svc",
+    "wof:parent_id":85822091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.491933,
+    31.149988,
+    -81.491933,
+    31.149988
+],
+  "geometry": {"coordinates":[-81.491933,31.149988],"type":"Point"}
+}

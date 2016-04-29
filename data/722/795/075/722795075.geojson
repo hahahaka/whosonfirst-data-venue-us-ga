@@ -1,0 +1,76 @@
+{
+  "id": 722795075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.489024,33.902041,-84.489024,33.902041",
+    "geom:latitude":33.902041,
+    "geom:longitude":-84.489024,
+    "iso:country":"US",
+    "sg:address":"2121 Windy Hill Rd",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 435 7380",
+    "sg:postcode":"30060",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automotive",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85845875,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4E1L7KXXvkGQJ3DH3NhRX5_33.902041_-84.489024@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888799,
+    "wof:geomhash":"a5a75b6020fde36f682b881799db4369",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":722795075
+        }
+    ],
+    "wof:id":722795075,
+    "wof:lastmodified":1461888799,
+    "wof:name":"A J Towing & Transportation",
+    "wof:parent_id":85845875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -84.489024,
+    33.902041,
+    -84.489024,
+    33.902041
+],
+  "geometry": {"coordinates":[-84.489024,33.902041],"type":"Point"}
+}

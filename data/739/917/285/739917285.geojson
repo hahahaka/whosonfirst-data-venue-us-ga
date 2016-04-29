@@ -1,0 +1,101 @@
+{
+  "id": 739917285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.393884,33.752226,-84.393884,33.752226",
+    "geom:latitude":33.752226,
+    "geom:longitude":-84.393884,
+    "iso:country":"US",
+    "sg:address":"80 Forsyth St",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Music",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Jazz & Blues",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 413 9849",
+    "sg:postcode":"30303",
+    "sg:province":"GA",
+    "sg:tags":[
+        "performing",
+        "venue"
+    ],
+    "sg:website":"www.rialtocenter.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85819463,
+        85872071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JB5oJZiDFG22na55QIH3q_33.752226_-84.393884@1303262605"
+    },
+    "wof:country":"US",
+    "wof:created":1461920485,
+    "wof:geomhash":"e5ef1622cd990505cee7b1588ab04e99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85819463,
+            "region_id":85688535,
+            "venue_id":739917285
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872071,
+            "region_id":85688535,
+            "venue_id":739917285
+        }
+    ],
+    "wof:id":739917285,
+    "wof:lastmodified":1461920485,
+    "wof:name":"Rialto Center for the Arts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "performing",
+        "venue"
+    ]
+},
+  "bbox": [
+    -84.393884,
+    33.752226,
+    -84.393884,
+    33.752226
+],
+  "geometry": {"coordinates":[-84.393884,33.752226],"type":"Point"}
+}

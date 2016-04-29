@@ -1,0 +1,69 @@
+{
+  "id": 739872791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.699203,33.9417,-84.699203,33.9417",
+    "geom:latitude":33.9417,
+    "geom:longitude":-84.699203,
+    "iso:country":"US",
+    "sg:address":"5067 Dallas Hwy",
+    "sg:city":"Powder Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 419 8086",
+    "sg:postcode":"30127",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62Y6ZKtNv3jfaDCDTrcplU_33.941700_-84.699203@1303262594"
+    },
+    "wof:country":"US",
+    "wof:created":1461918788,
+    "wof:geomhash":"4e256c5f125b39f636460d93f2daf0ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739872791
+        }
+    ],
+    "wof:id":739872791,
+    "wof:lastmodified":1461918788,
+    "wof:name":"Dallas Highway Animal Hospital",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.699203,
+    33.9417,
+    -84.699203,
+    33.9417
+],
+  "geometry": {"coordinates":[-84.699203,33.9417],"type":"Point"}
+}

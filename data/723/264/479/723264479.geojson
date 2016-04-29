@@ -1,0 +1,82 @@
+{
+  "id": 723264479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.646233,32.813975,-83.646233,32.813975",
+    "geom:latitude":32.813975,
+    "geom:longitude":-83.646233,
+    "iso:country":"US",
+    "sg:address":"2500 2nd St",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 743 1243",
+    "sg:postcode":"31206",
+    "sg:province":"GA",
+    "sg:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936517,
+        102084373,
+        85853103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FZROvdVF8QGrzUsN3Rf2U_32.813975_-83.646233@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461898388,
+    "wof:geomhash":"ff39f1b2b89f3bd4ae503d8e18a146b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084373,
+            "locality_id":85936517,
+            "neighbourhood_id":85853103,
+            "region_id":85688535,
+            "venue_id":723264479
+        }
+    ],
+    "wof:id":723264479,
+    "wof:lastmodified":1461898388,
+    "wof:name":"F M C-South Macon Dialysis",
+    "wof:parent_id":85853103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ]
+},
+  "bbox": [
+    -83.646233,
+    32.813975,
+    -83.646233,
+    32.813975
+],
+  "geometry": {"coordinates":[-83.646233,32.813975],"type":"Point"}
+}

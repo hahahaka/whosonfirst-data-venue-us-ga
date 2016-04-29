@@ -1,0 +1,84 @@
+{
+  "id": 739277729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.283431,33.92008,-84.283431,33.92008",
+    "geom:latitude":33.92008,
+    "geom:longitude":-84.283431,
+    "iso:country":"US",
+    "sg:address":"6317 Peachtree Industrial Blvd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 454 7453",
+    "sg:postcode":"30360",
+    "sg:province":"GA",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85936467,
+        85890023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JiMbnawGOLE5HGs7K0ArY_33.920080_-84.283431@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461904097,
+    "wof:geomhash":"b60ee905f56450df893d8abdccd7c7dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":739277729
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890023,
+            "region_id":85688535,
+            "venue_id":739277729
+        }
+    ],
+    "wof:id":739277729,
+    "wof:lastmodified":1461904097,
+    "wof:name":"Georgia Power Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -84.283431,
+    33.92008,
+    -84.283431,
+    33.92008
+],
+  "geometry": {"coordinates":[-84.28343099999999,33.92008],"type":"Point"}
+}

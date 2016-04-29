@@ -1,0 +1,78 @@
+{
+  "id": 739769335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.417581,33.658442,-84.417581,33.658442",
+    "geom:latitude":33.658442,
+    "geom:longitude":-84.417581,
+    "iso:country":"US",
+    "sg:address":"860 Virginia Ave",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/atlanta/180736-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 763 9515",
+    "sg:postcode":"30354",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85890001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JeF9xeUmLZ7qBUBjIZJxo_33.658442_-84.417581@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914518,
+    "wof:geomhash":"736824db7aea151b9a177091a79de366",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85890001,
+            "region_id":85688535,
+            "venue_id":739769335
+        }
+    ],
+    "wof:id":739769335,
+    "wof:lastmodified":1461914518,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85890001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -84.417581,
+    33.658442,
+    -84.417581,
+    33.658442
+],
+  "geometry": {"coordinates":[-84.417581,33.658442],"type":"Point"}
+}

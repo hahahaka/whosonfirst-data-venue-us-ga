@@ -1,0 +1,80 @@
+{
+  "id": 739900181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.789746,33.382665,-84.789746,33.382665",
+    "geom:latitude":33.382665,
+    "geom:longitude":-84.789746,
+    "iso:country":"US",
+    "sg:address":"16A Helms St",
+    "sg:city":"Newnan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 502 0801",
+    "sg:postcode":"30263",
+    "sg:province":"GA",
+    "sg:tags":[
+        "equipment",
+        "supply",
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936351,
+        102084443,
+        85833133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pOUpBePubMQ0EoqCcSVUL_33.382665_-84.789746@1303262601"
+    },
+    "wof:country":"US",
+    "wof:created":1461919831,
+    "wof:geomhash":"79a4c73c0dd28455f9a32a210bcf5a04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084443,
+            "locality_id":85936351,
+            "neighbourhood_id":85833133,
+            "region_id":85688535,
+            "venue_id":739900181
+        }
+    ],
+    "wof:id":739900181,
+    "wof:lastmodified":1461919831,
+    "wof:name":"Golf Care",
+    "wof:parent_id":85833133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "supply",
+        "course"
+    ]
+},
+  "bbox": [
+    -84.789746,
+    33.382665,
+    -84.789746,
+    33.382665
+],
+  "geometry": {"coordinates":[-84.78974599999999,33.382665],"type":"Point"}
+}

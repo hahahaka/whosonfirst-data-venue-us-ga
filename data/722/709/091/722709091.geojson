@@ -1,0 +1,71 @@
+{
+  "id": 722709091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.706547,32.59751,-83.706547,32.59751",
+    "geom:latitude":32.59751,
+    "geom:longitude":-83.706547,
+    "iso:country":"US",
+    "sg:address":"129 Water Dr",
+    "sg:city":"Warner Robins",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 953 2225",
+    "sg:postcode":"31088",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36GrKrzeC1ATfEauLAmauq_32.597510_-83.706547@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461887135,
+    "wof:geomhash":"a06b75db8e96ef7a86ebac34356d3440",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":722709091
+        }
+    ],
+    "wof:id":722709091,
+    "wof:lastmodified":1461887135,
+    "wof:name":"Crestview Community Fire Dept",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -83.706547,
+    32.59751,
+    -83.706547,
+    32.59751
+],
+  "geometry": {"coordinates":[-83.706547,32.59751],"type":"Point"}
+}

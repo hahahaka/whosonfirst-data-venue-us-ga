@@ -1,0 +1,73 @@
+{
+  "id": 739867755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.504907,34.178311,-84.504907,34.178311",
+    "geom:latitude":34.178311,
+    "geom:longitude":-84.504907,
+    "iso:country":"US",
+    "sg:address":"111 Mountain Brook Dr Ste 200",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 493 3555",
+    "sg:postcode":"30115",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936717,
+        102084635,
+        85825975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0W6z0tc1B6NyupLdi1Ofrt_34.178311_-84.504907@1303262593"
+    },
+    "wof:country":"US",
+    "wof:created":1461918594,
+    "wof:geomhash":"b2047dc02e73bd8615036787f2817469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084635,
+            "locality_id":85936717,
+            "neighbourhood_id":85825975,
+            "region_id":85688535,
+            "venue_id":739867755
+        }
+    ],
+    "wof:id":739867755,
+    "wof:lastmodified":1461918594,
+    "wof:name":"Vetspecs",
+    "wof:parent_id":85825975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.504907,
+    34.178311,
+    -84.504907,
+    34.178311
+],
+  "geometry": {"coordinates":[-84.504907,34.178311],"type":"Point"}
+}

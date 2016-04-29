@@ -1,0 +1,80 @@
+{
+  "id": 740072253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.028328,32.653259,-85.028328,32.653259",
+    "geom:latitude":32.653259,
+    "geom:longitude":-85.028328,
+    "iso:country":"US",
+    "sg:address":"631 Satellite Cir",
+    "sg:city":"Fortson",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 323 3958",
+    "sg:postcode":"31808",
+    "sg:province":"GA",
+    "sg:tags":[
+        "fence-sales",
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688675,
+        85633793,
+        85914191,
+        102085637,
+        85848065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YCGUZzESleWsN7ZRpxZgC_32.653259_-85.028328@1303262645"
+    },
+    "wof:country":"US",
+    "wof:created":1461927063,
+    "wof:geomhash":"e47a40a121e77e83f099e12aaf2d8a26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085637,
+            "locality_id":85914191,
+            "neighbourhood_id":85848065,
+            "region_id":85688675,
+            "venue_id":740072253
+        }
+    ],
+    "wof:id":740072253,
+    "wof:lastmodified":1461927063,
+    "wof:name":"Mike's Fencing",
+    "wof:parent_id":85848065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence-sales",
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.028328,
+    32.653259,
+    -85.028328,
+    32.653259
+],
+  "geometry": {"coordinates":[-85.028328,32.653259],"type":"Point"}
+}

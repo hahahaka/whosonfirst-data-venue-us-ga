@@ -1,0 +1,84 @@
+{
+  "id": 722873687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.278746,33.916413,-84.278746,33.916413",
+    "geom:latitude":33.916413,
+    "geom:longitude":-84.278746,
+    "iso:country":"US",
+    "sg:address":"2824 Pontiac Cir",
+    "sg:city":"Doraville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 457 9905",
+    "sg:postcode":"30360",
+    "sg:province":"GA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_349oNrzzCQqNhWeYfhuR5r_33.916413_-84.278746@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461890268,
+    "wof:geomhash":"304ec9327183fe5ec701198610520d3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":722873687
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":722873687
+        }
+    ],
+    "wof:id":722873687,
+    "wof:lastmodified":1461890268,
+    "wof:name":"Free Flow Plumbing & Drain Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.278746,
+    33.916413,
+    -84.278746,
+    33.916413
+],
+  "geometry": {"coordinates":[-84.278746,33.916413],"type":"Point"}
+}

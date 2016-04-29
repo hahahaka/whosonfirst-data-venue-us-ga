@@ -1,0 +1,71 @@
+{
+  "id": 739270155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.306177,30.878515,-83.306177,30.878515",
+    "geom:latitude":30.878515,
+    "geom:longitude":-83.306177,
+    "iso:country":"US",
+    "sg:address":"3520 N Crossing Cir",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 242 8394",
+    "sg:postcode":"31602",
+    "sg:province":"GA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85815713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AICnW604JRImmxywVctKZ_30.878515_-83.306177@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461903919,
+    "wof:geomhash":"be36cd2b0eb11cf7c02366e3aaa4bb7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85815713,
+            "region_id":85688535,
+            "venue_id":739270155
+        }
+    ],
+    "wof:id":739270155,
+    "wof:lastmodified":1461903919,
+    "wof:name":"Imatech",
+    "wof:parent_id":85815713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -83.306177,
+    30.878515,
+    -83.306177,
+    30.878515
+],
+  "geometry": {"coordinates":[-83.30617700000001,30.878515],"type":"Point"}
+}

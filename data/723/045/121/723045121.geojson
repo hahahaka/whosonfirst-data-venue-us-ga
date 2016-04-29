@@ -1,0 +1,76 @@
+{
+  "id": 723045121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.051463,34.783659,-85.051463,34.783659",
+    "geom:latitude":34.783659,
+    "geom:longitude":-85.051463,
+    "iso:country":"US",
+    "sg:address":"1815 Utility Rd",
+    "sg:city":"Rocky Face",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 673 2542",
+    "sg:postcode":"30740",
+    "sg:province":"GA",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yAd2wr2lrzETCQl292Ape_34.783659_-85.051463@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461893916,
+    "wof:geomhash":"a74e0f2c1009be0dabb447a319a9f7e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":723045121
+        }
+    ],
+    "wof:id":723045121,
+    "wof:lastmodified":1461893916,
+    "wof:name":"Westside Head Start",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -85.051463,
+    34.783659,
+    -85.051463,
+    34.783659
+],
+  "geometry": {"coordinates":[-85.051463,34.783659],"type":"Point"}
+}

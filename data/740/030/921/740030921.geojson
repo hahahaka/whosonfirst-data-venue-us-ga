@@ -1,0 +1,84 @@
+{
+  "id": 740030921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.929291,34.17996,-83.929291,34.17996",
+    "geom:latitude":34.17996,
+    "geom:longitude":-83.929291,
+    "iso:country":"US",
+    "sg:address":"5556 Atlanta Hwy",
+    "sg:city":"Flowery Branch",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Thrift Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 630 9979",
+    "sg:postcode":"30542",
+    "sg:province":"GA",
+    "sg:tags":[
+        "vintage",
+        "consignment"
+    ],
+    "sg:website":"heavensmultitude.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936863,
+        102083629,
+        85850511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6woXtyrs8dN1UsLmh03b11_34.179960_-83.929291@1303262635"
+    },
+    "wof:country":"US",
+    "wof:created":1461925198,
+    "wof:geomhash":"bf2acc291a917510722bd9d181dc157b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083629,
+            "locality_id":85936863,
+            "neighbourhood_id":85850511,
+            "region_id":85688535,
+            "venue_id":740030921
+        }
+    ],
+    "wof:id":740030921,
+    "wof:lastmodified":1461925198,
+    "wof:name":"Heavens Multitude Ministry Thrift Store",
+    "wof:parent_id":85850511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vintage",
+        "consignment"
+    ]
+},
+  "bbox": [
+    -83.929291,
+    34.17996,
+    -83.929291,
+    34.17996
+],
+  "geometry": {"coordinates":[-83.92929100000001,34.17996],"type":"Point"}
+}

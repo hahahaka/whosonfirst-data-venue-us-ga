@@ -1,0 +1,71 @@
+{
+  "id": 739341345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.595247,33.883397,-84.595247,33.883397",
+    "geom:latitude":33.883397,
+    "geom:longitude":-84.595247,
+    "iso:country":"US",
+    "sg:address":"3082 Milford Chase SW",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 988 0506",
+    "sg:postcode":"30008",
+    "sg:province":"GA",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fvNZrG6z5dctslFCAhrXH_33.883397_-84.595247@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461905407,
+    "wof:geomhash":"b74aab0023061651239bc0a3e46689e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739341345
+        }
+    ],
+    "wof:id":739341345,
+    "wof:lastmodified":1461905407,
+    "wof:name":"Good Riddance",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -84.595247,
+    33.883397,
+    -84.595247,
+    33.883397
+],
+  "geometry": {"coordinates":[-84.595247,33.883397],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 739984639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.526001,33.77459,-84.526001,33.77459",
+    "geom:latitude":33.77459,
+    "geom:longitude":-84.526001,
+    "iso:country":"US",
+    "sg:address":"1 National Dr SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Wine & Distilled Alcoholic Beverages",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 696 1681",
+    "sg:postcode":"30336",
+    "sg:province":"GA",
+    "sg:tags":[
+        "liquors-wholesale",
+        "beer",
+        "ale",
+        "broker"
+    ],
+    "sg:website":"http://www.ndcweb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937189,
+        102082313,
+        85809641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lbDovhRaWW8u38mLOYqGP_33.774590_-84.526001@1303262623"
+    },
+    "wof:country":"US",
+    "wof:created":1461923328,
+    "wof:geomhash":"7dfe4c880b9635ff614c7021eb958d4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85937189,
+            "neighbourhood_id":85809641,
+            "region_id":85688535,
+            "venue_id":739984639
+        }
+    ],
+    "wof:id":739984639,
+    "wof:lastmodified":1461923328,
+    "wof:name":"National Distributing Co Inc",
+    "wof:parent_id":85809641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "liquors-wholesale",
+        "beer",
+        "ale",
+        "broker"
+    ]
+},
+  "bbox": [
+    -84.526001,
+    33.77459,
+    -84.526001,
+    33.77459
+],
+  "geometry": {"coordinates":[-84.52600099999999,33.77459],"type":"Point"}
+}

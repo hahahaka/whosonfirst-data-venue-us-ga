@@ -1,0 +1,71 @@
+{
+  "id": 739883163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.32626,34.265931,-85.32626,34.265931",
+    "geom:latitude":34.265931,
+    "geom:longitude":-85.32626,
+    "iso:country":"US",
+    "sg:address":"27 Cedar Ln NW",
+    "sg:city":"Rome",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Swimming Pool",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 235 0131",
+    "sg:postcode":"30165",
+    "sg:province":"GA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936575,
+        102084577,
+        85821049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OmtYIe16EuDoyKhrCTTdt_34.265931_-85.326260@1303262597"
+    },
+    "wof:country":"US",
+    "wof:created":1461919173,
+    "wof:geomhash":"a5e1a9c92c87386b2961b02258aa8599",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084577,
+            "locality_id":85936575,
+            "neighbourhood_id":85821049,
+            "region_id":85688535,
+            "venue_id":739883163
+        }
+    ],
+    "wof:id":739883163,
+    "wof:lastmodified":1461919173,
+    "wof:name":"Blue Water Pools",
+    "wof:parent_id":85821049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.32626,
+    34.265931,
+    -85.32626,
+    34.265931
+],
+  "geometry": {"coordinates":[-85.32626,34.265931],"type":"Point"}
+}

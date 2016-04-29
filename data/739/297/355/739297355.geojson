@@ -1,0 +1,71 @@
+{
+  "id": 739297355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.742421,32.465884,-83.742421,32.465884",
+    "geom:latitude":32.465884,
+    "geom:longitude":-83.742421,
+    "iso:country":"US",
+    "sg:address":"400 Smith Dr",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 987 2224",
+    "sg:postcode":"31069",
+    "sg:province":"GA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1G0kJmfQEatbgcvmbh4ChF_32.465884_-83.742421@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461904508,
+    "wof:geomhash":"8b0edad25388bbc7809c43bf2d5957fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":739297355
+        }
+    ],
+    "wof:id":739297355,
+    "wof:lastmodified":1461904508,
+    "wof:name":"Farm City Service",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -83.742421,
+    32.465884,
+    -83.742421,
+    32.465884
+],
+  "geometry": {"coordinates":[-83.74242099999999,32.465884],"type":"Point"}
+}

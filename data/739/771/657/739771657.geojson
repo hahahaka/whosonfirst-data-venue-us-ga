@@ -1,0 +1,76 @@
+{
+  "id": 739771657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.092905,33.511244,-82.092905,33.511244",
+    "geom:latitude":33.511244,
+    "geom:longitude":-82.092905,
+    "iso:country":"US",
+    "sg:address":"3859 Washington Rd",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/evans/180782-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 860 3777",
+    "sg:postcode":"30907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57cqr0PIEOuPLVqJwcA0Dy_33.511244_-82.092905@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914607,
+    "wof:geomhash":"ee14dad10cb50611945941e3fd742636",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":739771657
+        }
+    ],
+    "wof:id":739771657,
+    "wof:lastmodified":1461914607,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -82.092905,
+    33.511244,
+    -82.092905,
+    33.511244
+],
+  "geometry": {"coordinates":[-82.092905,33.511244],"type":"Point"}
+}

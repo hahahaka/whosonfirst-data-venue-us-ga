@@ -1,0 +1,73 @@
+{
+  "id": 739482361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.084544,33.506285,-82.084544,33.506285",
+    "geom:latitude":33.506285,
+    "geom:longitude":-82.084544,
+    "iso:country":"US",
+    "sg:address":"235 Camilla Ave",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 854 1988",
+    "sg:postcode":"30907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AaXMePKt97P27SoFyl6JV_33.506285_-82.084544@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461908113,
+    "wof:geomhash":"d3b21572d0c603512cd5d16ed8a7e567",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":739482361
+        }
+    ],
+    "wof:id":739482361,
+    "wof:lastmodified":1461908113,
+    "wof:name":"Final Touch Auto Repair",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -82.084544,
+    33.506285,
+    -82.084544,
+    33.506285
+],
+  "geometry": {"coordinates":[-82.08454399999999,33.506285],"type":"Point"}
+}

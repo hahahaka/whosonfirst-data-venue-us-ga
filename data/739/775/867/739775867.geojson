@@ -1,0 +1,83 @@
+{
+  "id": 739775867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.780489,32.432171,-81.780489,32.432171",
+    "geom:latitude":32.432171,
+    "geom:longitude":-81.780489,
+    "iso:country":"US",
+    "sg:address":"606 Fair Rd",
+    "sg:city":"Statesboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/statesboro/243077-baskin-robbins/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 681 1227",
+    "sg:postcode":"30458",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85935995,
+        102084405,
+        85868553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A0smXpVsZ352lpcFfLM6F_32.432200_-81.780373@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461914777,
+    "wof:geomhash":"cecae43f048a32bd4f5b8182f20eb9be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935995,
+            "neighbourhood_id":85868553,
+            "region_id":85688535,
+            "venue_id":739775867
+        }
+    ],
+    "wof:id":739775867,
+    "wof:lastmodified":1461914777,
+    "wof:name":"Baskin-Robbins",
+    "wof:parent_id":85868553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -81.780489,
+    32.432171,
+    -81.780489,
+    32.432171
+],
+  "geometry": {"coordinates":[-81.780489,32.432171],"type":"Point"}
+}

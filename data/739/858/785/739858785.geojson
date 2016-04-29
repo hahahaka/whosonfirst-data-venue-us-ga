@@ -1,0 +1,73 @@
+{
+  "id": 739858785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.170799,33.984901,-84.170799,33.984901",
+    "geom:latitude":33.984901,
+    "geom:longitude":-84.170799,
+    "iso:country":"US",
+    "sg:address":"3390 N Berkeley Lake Rd NW",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 584 0999",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jvDmumZ1MDvB8jmY3YQ0U_33.984901_-84.170799@1303262590"
+    },
+    "wof:country":"US",
+    "wof:created":1461918263,
+    "wof:geomhash":"38a1c8f51091685e4926395c867da456",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":739858785
+        }
+    ],
+    "wof:id":739858785,
+    "wof:lastmodified":1461918263,
+    "wof:name":"Best Friends Pet Care Inc Duluth",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.170799,
+    33.984901,
+    -84.170799,
+    33.984901
+],
+  "geometry": {"coordinates":[-84.170799,33.984901],"type":"Point"}
+}

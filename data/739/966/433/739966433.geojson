@@ -1,0 +1,83 @@
+{
+  "id": 739966433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.365367,33.812254,-84.365367,33.812254",
+    "geom:latitude":33.812254,
+    "geom:longitude":-84.365367,
+    "iso:country":"US",
+    "sg:address":"2115 Piedmont",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 270 0700",
+    "sg:postcode":"30324",
+    "sg:province":"GA",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85832987,
+        85889987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fSdmKlx5B5xtbUgXLI19O_33.812254_-84.365367@1303262618"
+    },
+    "wof:country":"US",
+    "wof:created":1461922623,
+    "wof:geomhash":"b04b24c9a35df57972b783f6839c051e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85832987,
+            "region_id":85688535,
+            "venue_id":739966433
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85889987,
+            "region_id":85688535,
+            "venue_id":739966433
+        }
+    ],
+    "wof:id":739966433,
+    "wof:lastmodified":1461922623,
+    "wof:name":"SEC Cleaning Services",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -84.365367,
+    33.812254,
+    -84.365367,
+    33.812254
+],
+  "geometry": {"coordinates":[-84.36536700000001,33.812254],"type":"Point"}
+}

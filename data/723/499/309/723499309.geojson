@@ -1,0 +1,75 @@
+{
+  "id": 723499309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.378507,33.966601,-83.378507,33.966601",
+    "geom:latitude":33.966601,
+    "geom:longitude":-83.378507,
+    "iso:country":"US",
+    "sg:address":"900 College Ave",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 369 9025",
+    "sg:postcode":"30601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "operator",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936177,
+        102081713,
+        85807659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QoiUxFJ7TyYxRn1RSUFVc_33.966601_-83.378507@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461902952,
+    "wof:geomhash":"41563e33db98230e46da97a7d978258e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081713,
+            "locality_id":85936177,
+            "neighbourhood_id":85807659,
+            "region_id":85688535,
+            "venue_id":723499309
+        }
+    ],
+    "wof:id":723499309,
+    "wof:lastmodified":1461902952,
+    "wof:name":"CSX",
+    "wof:parent_id":85807659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "line"
+    ]
+},
+  "bbox": [
+    -83.378507,
+    33.966601,
+    -83.378507,
+    33.966601
+],
+  "geometry": {"coordinates":[-83.378507,33.966601],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 739775909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.864934,34.228802,-83.864934,34.228802",
+    "geom:latitude":34.228802,
+    "geom:longitude":-83.864934,
+    "iso:country":"US",
+    "sg:address":"3156 Frontage Rd",
+    "sg:city":"Gainesville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/oakwood/172575-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 503 1141",
+    "sg:postcode":"30504",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936859,
+        102083629,
+        85806313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bUqQSxcLpRc0mOwJeQf2N_34.228772_-83.864889@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461914778,
+    "wof:geomhash":"0208351ff4569feb8254a3c2c459eaa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083629,
+            "locality_id":85936859,
+            "neighbourhood_id":85806313,
+            "region_id":85688535,
+            "venue_id":739775909
+        }
+    ],
+    "wof:id":739775909,
+    "wof:lastmodified":1461914778,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85806313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -83.864934,
+    34.228802,
+    -83.864934,
+    34.228802
+],
+  "geometry": {"coordinates":[-83.86493400000001,34.228802],"type":"Point"}
+}

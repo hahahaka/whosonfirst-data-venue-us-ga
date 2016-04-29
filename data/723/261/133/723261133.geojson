@@ -1,0 +1,71 @@
+{
+  "id": 723261133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.153591,31.573914,-84.153591,31.573914",
+    "geom:latitude":31.573914,
+    "geom:longitude":-84.153591,
+    "iso:country":"US",
+    "sg:address":"206 S Jackson St",
+    "sg:city":"Albany",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 438 9950",
+    "sg:postcode":"31701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935991,
+        102084427,
+        85822061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16ua32hLl7MUfeUSyJReJC_31.573914_-84.153591@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461898324,
+    "wof:geomhash":"4f855e441b6186e778f3391213e0abbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":85822061,
+            "region_id":85688535,
+            "venue_id":723261133
+        }
+    ],
+    "wof:id":723261133,
+    "wof:lastmodified":1461898324,
+    "wof:name":"Al's Barbershop",
+    "wof:parent_id":85822061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.153591,
+    31.573914,
+    -84.153591,
+    31.573914
+],
+  "geometry": {"coordinates":[-84.15359100000001,31.573914],"type":"Point"}
+}

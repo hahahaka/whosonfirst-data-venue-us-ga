@@ -1,0 +1,87 @@
+{
+  "id": 740028405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.398857,34.874704,-83.398857,34.874704",
+    "geom:latitude":34.874704,
+    "geom:longitude":-83.398857,
+    "iso:country":"US",
+    "sg:address":"201 Chechero St",
+    "sg:city":"Clayton",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 782 5313",
+    "sg:postcode":"30525",
+    "sg:province":"GA",
+    "sg:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ],
+    "sg:website":"http://www.mcdonalds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936141,
+        102081683,
+        85821415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i6gwUfX3se9MKsA7TL0fd_34.874704_-83.398857@1303262634"
+    },
+    "wof:country":"US",
+    "wof:created":1461925096,
+    "wof:geomhash":"805b6a0abd4ee927fced49d982989008",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081683,
+            "locality_id":85936141,
+            "neighbourhood_id":85821415,
+            "region_id":85688535,
+            "venue_id":740028405
+        }
+    ],
+    "wof:id":740028405,
+    "wof:lastmodified":1461925096,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85821415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -83.398857,
+    34.874704,
+    -83.398857,
+    34.874704
+],
+  "geometry": {"coordinates":[-83.39885700000001,34.874704],"type":"Point"}
+}

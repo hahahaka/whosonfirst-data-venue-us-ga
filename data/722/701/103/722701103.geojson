@@ -1,0 +1,79 @@
+{
+  "id": 722701103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.089843,34.035248,-84.089843,34.035248",
+    "geom:latitude":34.035248,
+    "geom:longitude":-84.089843,
+    "iso:country":"US",
+    "sg:address":"1048 Industrial Ct NW",
+    "sg:city":"Suwanee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 813 8323",
+    "sg:postcode":"30024",
+    "sg:province":"GA",
+    "sg:tags":[
+        "laboratory",
+        "surgical",
+        "organization"
+    ],
+    "sg:website":"www.us-scan.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yp8QvVRoxjB4rQgvh1aO6_34.035248_-84.089843@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886989,
+    "wof:geomhash":"e04564461d5ab753af670fc7b93e91b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":722701103
+        }
+    ],
+    "wof:id":722701103,
+    "wof:lastmodified":1461886989,
+    "wof:name":"Ultra Scan Inc",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "surgical",
+        "organization"
+    ]
+},
+  "bbox": [
+    -84.089843,
+    34.035248,
+    -84.089843,
+    34.035248
+],
+  "geometry": {"coordinates":[-84.089843,34.035248],"type":"Point"}
+}

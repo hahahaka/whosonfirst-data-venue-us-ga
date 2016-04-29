@@ -1,0 +1,90 @@
+{
+  "id": 739841407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.475197,33.891602,-84.475197,33.891602",
+    "geom:latitude":33.891602,
+    "geom:longitude":-84.475197,
+    "iso:country":"US",
+    "sg:address":"2640 Herodian Way SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 953 2559",
+    "sg:postcode":"30080",
+    "sg:province":"GA",
+    "sg:tags":[
+        "cleaner",
+        "alterations-clothing",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818985,
+        102082313,
+        102191575,
+        85936139,
+        85813197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51u9IGXd5hEAtUsf3HTezE_33.891602_-84.475197@1303262586"
+    },
+    "wof:country":"US",
+    "wof:created":1461917543,
+    "wof:geomhash":"d30116d4e3971224abdc4e7d4478230a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85818985,
+            "region_id":85688535,
+            "venue_id":739841407
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85813197,
+            "region_id":85688535,
+            "venue_id":739841407
+        }
+    ],
+    "wof:id":739841407,
+    "wof:lastmodified":1461917543,
+    "wof:name":"B & H Cleaners",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "alterations-clothing",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -84.475197,
+    33.891602,
+    -84.475197,
+    33.891602
+],
+  "geometry": {"coordinates":[-84.47519699999999,33.891602],"type":"Point"}
+}

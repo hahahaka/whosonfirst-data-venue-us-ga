@@ -1,0 +1,92 @@
+{
+  "id": 739807037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.082802,33.899799,-84.082802,33.899799",
+    "geom:latitude":33.899799,
+    "geom:longitude":-84.082802,
+    "iso:country":"US",
+    "sg:address":"3235 Bethesda Park Ct",
+    "sg:city":"Lawrenceville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 935 4555",
+    "sg:postcode":"30044",
+    "sg:province":"GA",
+    "sg:tags":[
+        "delivery",
+        "shuttle",
+        "airport",
+        "limo",
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GFIulHziyVPH2j9wkhucq_33.899799_-84.082802@1303262577"
+    },
+    "wof:country":"US",
+    "wof:created":1461916161,
+    "wof:geomhash":"545afaed43938d20c5bd9f824c0be53a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":739807037
+        }
+    ],
+    "wof:id":739807037,
+    "wof:lastmodified":1461916161,
+    "wof:name":"Lawrenceville Taxi of Airport",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "shuttle",
+        "airport",
+        "limo",
+        "courier"
+    ]
+},
+  "bbox": [
+    -84.082802,
+    33.899799,
+    -84.082802,
+    33.899799
+],
+  "geometry": {"coordinates":[-84.082802,33.899799],"type":"Point"}
+}

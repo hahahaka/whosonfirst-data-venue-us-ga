@@ -1,0 +1,73 @@
+{
+  "id": 722945373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.500316,33.94723,-84.500316,33.94723",
+    "geom:latitude":33.94723,
+    "geom:longitude":-84.500316,
+    "iso:country":"US",
+    "sg:address":"236 Powers Ferry Rd SE",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 971 0100",
+    "sg:postcode":"30067",
+    "sg:province":"GA",
+    "sg:tags":[
+        "hospital",
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936135,
+        102082313,
+        85857049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_799OxPDJyN47Ui9fyvsF0J_33.947230_-84.500316@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461891734,
+    "wof:geomhash":"d4713d65dbd574f751796b063ba73aaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936135,
+            "neighbourhood_id":85857049,
+            "region_id":85688535,
+            "venue_id":722945373
+        }
+    ],
+    "wof:id":722945373,
+    "wof:lastmodified":1461891734,
+    "wof:name":"Cobb Central Animal Hospital",
+    "wof:parent_id":85857049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.500316,
+    33.94723,
+    -84.500316,
+    33.94723
+],
+  "geometry": {"coordinates":[-84.500316,33.94723],"type":"Point"}
+}

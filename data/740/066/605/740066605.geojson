@@ -1,0 +1,78 @@
+{
+  "id": 740066605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.793891,30.79244,-83.793891,30.79244",
+    "geom:latitude":30.79244,
+    "geom:longitude":-83.793891,
+    "iso:country":"US",
+    "sg:address":"429 W Jefferson St",
+    "sg:city":"Boston",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 498 8800",
+    "sg:postcode":"31626",
+    "sg:province":"GA",
+    "sg:tags":[
+        "churches-presbyterian-arp",
+        "churches-presbyterian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85833309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4B1tV0XUgJdE2RyBdygaAt_30.792440_-83.793891@1303262644"
+    },
+    "wof:country":"US",
+    "wof:created":1461926814,
+    "wof:geomhash":"9e44422f9394f9581b2f2642d9679b69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85833309,
+            "region_id":85688535,
+            "venue_id":740066605
+        }
+    ],
+    "wof:id":740066605,
+    "wof:lastmodified":1461926814,
+    "wof:name":"Boston Presbyterian Church",
+    "wof:parent_id":85833309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-presbyterian-arp",
+        "churches-presbyterian"
+    ]
+},
+  "bbox": [
+    -83.793891,
+    30.79244,
+    -83.793891,
+    30.79244
+],
+  "geometry": {"coordinates":[-83.793891,30.79244],"type":"Point"}
+}

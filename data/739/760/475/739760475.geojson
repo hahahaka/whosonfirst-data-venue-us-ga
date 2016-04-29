@@ -1,0 +1,84 @@
+{
+  "id": 739760475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.368446,33.792041,-84.368446,33.792041",
+    "geom:latitude":33.792041,
+    "geom:longitude":-84.368446,
+    "iso:country":"US",
+    "sg:address":"551 Dutch Valley Rd NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Labor Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 873 2035",
+    "sg:postcode":"30324",
+    "sg:province":"GA",
+    "sg:tags":[
+        "musician"
+    ],
+    "sg:website":"www.atlantamusicians.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85835263,
+        85825631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78EWF5tRE8VGbzkavwRbsi_33.791995_-84.368678@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461914157,
+    "wof:geomhash":"e00356999191c4e526df9208045ebefa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85835263,
+            "region_id":85688535,
+            "venue_id":739760475
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85825631,
+            "region_id":85688535,
+            "venue_id":739760475
+        }
+    ],
+    "wof:id":739760475,
+    "wof:lastmodified":1461914157,
+    "wof:name":"Atlanta Music Masters Ltd",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "musician"
+    ]
+},
+  "bbox": [
+    -84.368446,
+    33.792041,
+    -84.368446,
+    33.792041
+],
+  "geometry": {"coordinates":[-84.36844600000001,33.792041],"type":"Point"}
+}

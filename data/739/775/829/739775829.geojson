@@ -1,0 +1,76 @@
+{
+  "id": 739775829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.299351,33.900049,-84.299351,33.900049",
+    "geom:latitude":33.900049,
+    "geom:longitude":-84.299351,
+    "iso:country":"US",
+    "sg:address":"5577 Peachtree Industrial Blvd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/chamblee-doraville/70811-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 458 7271",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936435,
+        102084539,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fR5n5mFkvW1t0EJBhT7To_33.900349_-84.299663@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461914776,
+    "wof:geomhash":"26b95856617b9834f07d6bd427656140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":739775829
+        }
+    ],
+    "wof:id":739775829,
+    "wof:lastmodified":1461914776,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85889955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.299351,
+    33.900049,
+    -84.299351,
+    33.900049
+],
+  "geometry": {"coordinates":[-84.299351,33.900049],"type":"Point"}
+}

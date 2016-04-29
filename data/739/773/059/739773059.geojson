@@ -1,0 +1,75 @@
+{
+  "id": 739773059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.166213,32.048613,-81.166213,32.048613",
+    "geom:latitude":32.048613,
+    "geom:longitude":-81.166213,
+    "iso:country":"US",
+    "sg:address":"4306 Ogeechee Rd",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/savannah/202564-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"31405",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        420517397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZidqgK90c5boXplz4CklK_32.048613_-81.166213@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914664,
+    "wof:geomhash":"84ec3edaa43af789eaa41d24945e9f34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":420517397,
+            "region_id":85688535,
+            "venue_id":739773059
+        }
+    ],
+    "wof:id":739773059,
+    "wof:lastmodified":1461914664,
+    "wof:name":"McDonald's",
+    "wof:parent_id":420517397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -81.166213,
+    32.048613,
+    -81.166213,
+    32.048613
+],
+  "geometry": {"coordinates":[-81.166213,32.048613],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 739763115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.168463,33.702364,-84.168463,33.702364",
+    "geom:latitude":33.702364,
+    "geom:longitude":-84.168463,
+    "iso:country":"US",
+    "sg:address":"5401 Fairington Rd",
+    "sg:city":"Lithonia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/lithonia/203347-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30038",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937263,
+        102084539,
+        85890037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yfAfwyOQu6Hi7jjxqi77V_33.702364_-84.168463@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914262,
+    "wof:geomhash":"d47ada94bd3539628a095c488b1f62d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937263,
+            "neighbourhood_id":85890037,
+            "region_id":85688535,
+            "venue_id":739763115
+        }
+    ],
+    "wof:id":739763115,
+    "wof:lastmodified":1461914262,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85890037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.168463,
+    33.702364,
+    -84.168463,
+    33.702364
+],
+  "geometry": {"coordinates":[-84.168463,33.702364],"type":"Point"}
+}

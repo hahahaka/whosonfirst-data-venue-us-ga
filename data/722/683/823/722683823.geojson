@@ -1,0 +1,83 @@
+{
+  "id": 722683823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.275299,33.901834,-84.275299,33.901834",
+    "geom:latitude":33.901834,
+    "geom:longitude":-84.275299,
+    "iso:country":"US",
+    "sg:address":"5490 Buford Hwy NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 458 4171",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "sg:tags":[
+        "fast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        420559931,
+        85889959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3P9X84e6Ah38qMBLih0flK_33.901834_-84.275299@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886657,
+    "wof:geomhash":"94e1d6e45d7a66c188a38d3b907a7a28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":420559931,
+            "region_id":85688535,
+            "venue_id":722683823
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":722683823
+        }
+    ],
+    "wof:id":722683823,
+    "wof:lastmodified":1461886657,
+    "wof:name":"Arbys",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fast"
+    ]
+},
+  "bbox": [
+    -84.275299,
+    33.901834,
+    -84.275299,
+    33.901834
+],
+  "geometry": {"coordinates":[-84.275299,33.901834],"type":"Point"}
+}

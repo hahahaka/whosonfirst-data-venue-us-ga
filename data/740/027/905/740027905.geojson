@@ -1,0 +1,71 @@
+{
+  "id": 740027905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.990077,34.085077,-83.990077,34.085077",
+    "geom:latitude":34.085077,
+    "geom:longitude":-83.990077,
+    "iso:country":"US",
+    "sg:address":"3795 Buford Dr",
+    "sg:city":"Buford",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 873 4875",
+    "sg:postcode":"30519",
+    "sg:province":"GA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936281,
+        102082967,
+        85858547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TNACOu2PamGzsWvYnqr2o_34.085077_-83.990077@1303262634"
+    },
+    "wof:country":"US",
+    "wof:created":1461925073,
+    "wof:geomhash":"7dbf06075dbae65469f53bea8b920caa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936281,
+            "neighbourhood_id":85858547,
+            "region_id":85688535,
+            "venue_id":740027905
+        }
+    ],
+    "wof:id":740027905,
+    "wof:lastmodified":1461925073,
+    "wof:name":"A Gwinnett Taxi",
+    "wof:parent_id":85858547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.990077,
+    34.085077,
+    -83.990077,
+    34.085077
+],
+  "geometry": {"coordinates":[-83.990077,34.085077],"type":"Point"}
+}

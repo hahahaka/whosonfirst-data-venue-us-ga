@@ -1,0 +1,73 @@
+{
+  "id": 723471693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.492633,31.198355,-81.492633,31.198355",
+    "geom:latitude":31.198355,
+    "geom:longitude":-81.492633,
+    "iso:country":"US",
+    "sg:address":"229 Rose Dr",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 265 7222",
+    "sg:postcode":"31520",
+    "sg:province":"GA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85814297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JIAIDQ4yD9xgv6SqSOw1k_31.198355_-81.492633@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461902349,
+    "wof:geomhash":"a2c0364cf78e5379f548bf1947206bd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85814297,
+            "region_id":85688535,
+            "venue_id":723471693
+        }
+    ],
+    "wof:id":723471693,
+    "wof:lastmodified":1461902349,
+    "wof:name":"Blounts Plumbing",
+    "wof:parent_id":85814297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.492633,
+    31.198355,
+    -81.492633,
+    31.198355
+],
+  "geometry": {"coordinates":[-81.492633,31.198355],"type":"Point"}
+}

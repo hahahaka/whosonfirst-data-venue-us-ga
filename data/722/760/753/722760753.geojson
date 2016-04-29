@@ -1,0 +1,71 @@
+{
+  "id": 722760753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.039409,33.055336,-85.039409,33.055336",
+    "geom:latitude":33.055336,
+    "geom:longitude":-85.039409,
+    "iso:country":"US",
+    "sg:address":"716 Camellia Dr",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 882 0955",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77aXBu4nx5fCemR8qbqcuJ_33.055336_-85.039409@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888140,
+    "wof:geomhash":"712fdea58cc90fdf38e9f0c96d21bf3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":722760753
+        }
+    ],
+    "wof:id":722760753,
+    "wof:lastmodified":1461888140,
+    "wof:name":"J M Overall Dr",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -85.039409,
+    33.055336,
+    -85.039409,
+    33.055336
+],
+  "geometry": {"coordinates":[-85.03940900000001,33.055336],"type":"Point"}
+}

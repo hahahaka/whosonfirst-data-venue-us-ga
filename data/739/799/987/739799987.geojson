@@ -1,0 +1,93 @@
+{
+  "id": 739799987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.168709,33.71825,-84.168709,33.71825",
+    "geom:latitude":33.71825,
+    "geom:longitude":-84.168709,
+    "iso:country":"US",
+    "sg:address":"2401 Mellon Ct",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 987 4745",
+    "sg:postcode":"30035",
+    "sg:province":"GA",
+    "sg:tags":[
+        "pharmaceutical",
+        "product",
+        "proprietary",
+        "products-wholesale",
+        "medicines-patent",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937263,
+        102084539,
+        85890037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1M6DLn423BB7BQUKMekxd9_33.718250_-84.168709@1303262575"
+    },
+    "wof:country":"US",
+    "wof:created":1461915777,
+    "wof:geomhash":"4bf2288166de3e6f6b4d265cc2ae7554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937263,
+            "neighbourhood_id":85890037,
+            "region_id":85688535,
+            "venue_id":739799987
+        }
+    ],
+    "wof:id":739799987,
+    "wof:lastmodified":1461915777,
+    "wof:name":"US Pharmaceutical Corporation",
+    "wof:parent_id":85890037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "product",
+        "proprietary",
+        "products-wholesale",
+        "medicines-patent",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -84.168709,
+    33.71825,
+    -84.168709,
+    33.71825
+],
+  "geometry": {"coordinates":[-84.16870900000001,33.71825],"type":"Point"}
+}

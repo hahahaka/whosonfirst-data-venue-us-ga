@@ -1,0 +1,73 @@
+{
+  "id": 739646003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.078415,33.581281,-85.078415,33.581281",
+    "geom:latitude":33.581281,
+    "geom:longitude":-85.078415,
+    "iso:country":"US",
+    "sg:address":"105 N Park St",
+    "sg:city":"Carrollton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 834 9988",
+    "sg:postcode":"30117",
+    "sg:province":"GA",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937055,
+        102081719,
+        85890025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01E8VyxWBfpX11O5RkJPc2_33.581281_-85.078415@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461911397,
+    "wof:geomhash":"fa5898f067c5215008fd9de34768bb5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081719,
+            "locality_id":85937055,
+            "neighbourhood_id":85890025,
+            "region_id":85688535,
+            "venue_id":739646003
+        }
+    ],
+    "wof:id":739646003,
+    "wof:lastmodified":1461911397,
+    "wof:name":"Vogelsbergs Bakery",
+    "wof:parent_id":85890025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -85.078415,
+    33.581281,
+    -85.078415,
+    33.581281
+],
+  "geometry": {"coordinates":[-85.07841500000001,33.581281],"type":"Point"}
+}

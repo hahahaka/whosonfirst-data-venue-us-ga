@@ -1,0 +1,83 @@
+{
+  "id": 722592165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.086098,32.073545,-81.086098,32.073545",
+    "geom:latitude":32.073545,
+    "geom:longitude":-81.086098,
+    "iso:country":"US",
+    "sg:address":"535 E Perry St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 232 9002",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        420559631,
+        85880901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41wwElBLghngg8Y0Un0NU8_32.073545_-81.086098@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461884829,
+    "wof:geomhash":"727b63aae95cd35bafddef42d74c19f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":420559631,
+            "region_id":85688535,
+            "venue_id":722592165
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880901,
+            "region_id":85688535,
+            "venue_id":722592165
+        }
+    ],
+    "wof:id":722592165,
+    "wof:lastmodified":1461884829,
+    "wof:name":"Robert Richardson Psyp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -81.086098,
+    32.073545,
+    -81.086098,
+    32.073545
+],
+  "geometry": {"coordinates":[-81.08609800000001,32.073545],"type":"Point"}
+}

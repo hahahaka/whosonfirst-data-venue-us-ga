@@ -1,0 +1,73 @@
+{
+  "id": 723221525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.528722,33.870586,-84.528722,33.870586",
+    "geom:latitude":33.870586,
+    "geom:longitude":-84.528722,
+    "iso:country":"US",
+    "sg:address":"3446 Lake Dr SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 436 3231",
+    "sg:postcode":"30082",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automobile",
+        "diagnostic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o4lw6fXcmtIrIjM7kBh1O_33.870586_-84.528722@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897531,
+    "wof:geomhash":"a8aaef037b931a30aac095d374a91cd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":723221525
+        }
+    ],
+    "wof:id":723221525,
+    "wof:lastmodified":1461897531,
+    "wof:name":"Hall's Auto Svc",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "diagnostic"
+    ]
+},
+  "bbox": [
+    -84.528722,
+    33.870586,
+    -84.528722,
+    33.870586
+],
+  "geometry": {"coordinates":[-84.528722,33.870586],"type":"Point"}
+}

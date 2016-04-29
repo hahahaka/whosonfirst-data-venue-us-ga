@@ -1,0 +1,84 @@
+{
+  "id": 739931349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.367111,33.79081,-84.367111,33.79081",
+    "geom:latitude":33.79081,
+    "geom:longitude":-84.367111,
+    "iso:country":"US",
+    "sg:address":"1320 Monroe Dr NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 853 3300",
+    "sg:postcode":"30306",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"http://www.atlantapd.org/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85835263,
+        85825631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41bfJI3SksVbBQIT8C4N8D_33.790810_-84.367111@1303262609"
+    },
+    "wof:country":"US",
+    "wof:created":1461921087,
+    "wof:geomhash":"2c8ae4d65e6b3e5f0b968b6916f6e610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85835263,
+            "region_id":85688535,
+            "venue_id":739931349
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85825631,
+            "region_id":85688535,
+            "venue_id":739931349
+        }
+    ],
+    "wof:id":739931349,
+    "wof:lastmodified":1461921087,
+    "wof:name":"Atlanta Police Department",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.367111,
+    33.79081,
+    -84.367111,
+    33.79081
+],
+  "geometry": {"coordinates":[-84.36711099999999,33.79081],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 740016969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.389314,33.654662,-84.389314,33.654662",
+    "geom:latitude":33.654662,
+    "geom:longitude":-84.389314,
+    "iso:country":"US",
+    "sg:address":"3745 Zip Industrial Blvd SE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 768 8687",
+    "sg:postcode":"30354",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shuttle",
+        "tour",
+        "airport"
+    ],
+    "sg:website":"www.samsontrailways.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85851825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71U0YWQDxZLGseUlKT5y3x_33.654662_-84.389314@1303262631"
+    },
+    "wof:country":"US",
+    "wof:created":1461924579,
+    "wof:geomhash":"b56fe42c267114a743c76346d558b63b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85851825,
+            "region_id":85688535,
+            "venue_id":740016969
+        }
+    ],
+    "wof:id":740016969,
+    "wof:lastmodified":1461924579,
+    "wof:name":"Samson Trailways",
+    "wof:parent_id":85851825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "tour",
+        "airport"
+    ]
+},
+  "bbox": [
+    -84.389314,
+    33.654662,
+    -84.389314,
+    33.654662
+],
+  "geometry": {"coordinates":[-84.389314,33.654662],"type":"Point"}
+}

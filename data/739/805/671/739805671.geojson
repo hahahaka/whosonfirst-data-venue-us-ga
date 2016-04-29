@@ -1,0 +1,90 @@
+{
+  "id": 739805671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.986472,34.007239,-83.986472,34.007239",
+    "geom:latitude":34.007239,
+    "geom:longitude":-83.986472,
+    "iso:country":"US",
+    "sg:address":"738 Ridge Rd",
+    "sg:city":"Lawrenceville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 407 0700",
+    "sg:postcode":"30043",
+    "sg:province":"GA",
+    "sg:tags":[
+        "grooming",
+        "hospital",
+        "veterinarian",
+        "clinic",
+        "kennel"
+    ],
+    "sg:website":"gavetassociates.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936297,
+        102082967,
+        85853829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hBse3I2KrbN0zSEwxWClL_34.007239_-83.986472@1303262576"
+    },
+    "wof:country":"US",
+    "wof:created":1461916087,
+    "wof:geomhash":"e7accb6a70ed5b63b5aae79f9e274fda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936297,
+            "neighbourhood_id":85853829,
+            "region_id":85688535,
+            "venue_id":739805671
+        }
+    ],
+    "wof:id":739805671,
+    "wof:lastmodified":1461916087,
+    "wof:name":"Russell Ridge Animal Hospital",
+    "wof:parent_id":85853829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grooming",
+        "hospital",
+        "veterinarian",
+        "clinic",
+        "kennel"
+    ]
+},
+  "bbox": [
+    -83.986472,
+    34.007239,
+    -83.986472,
+    34.007239
+],
+  "geometry": {"coordinates":[-83.98647200000001,34.007239],"type":"Point"}
+}

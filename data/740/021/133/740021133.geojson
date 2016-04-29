@@ -1,0 +1,85 @@
+{
+  "id": 740021133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.786435,32.449122,-81.786435,32.449122",
+    "geom:latitude":32.449122,
+    "geom:longitude":-81.786435,
+    "iso:country":"US",
+    "sg:address":"128 N Main St",
+    "sg:city":"Statesboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 764 4444",
+    "sg:postcode":"30458",
+    "sg:province":"GA",
+    "sg:tags":[
+        "contractor",
+        "fence-sales"
+    ],
+    "sg:website":"http://www.centralfenceco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935999,
+        102084405,
+        85823149,
+        102191575,
+        85828471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5n3YIhoXLfZEiHt1s23XwK_32.449122_-81.786435@1303262632"
+    },
+    "wof:country":"US",
+    "wof:created":1461924746,
+    "wof:geomhash":"84781494e05209bbebdf829d14a6b6ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85823149,
+            "region_id":85688535,
+            "venue_id":740021133
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85828471,
+            "region_id":85688535,
+            "venue_id":740021133
+        }
+    ],
+    "wof:id":740021133,
+    "wof:lastmodified":1461924746,
+    "wof:name":"Central Fence Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "fence-sales"
+    ]
+},
+  "bbox": [
+    -81.786435,
+    32.449122,
+    -81.786435,
+    32.449122
+],
+  "geometry": {"coordinates":[-81.786435,32.449122],"type":"Point"}
+}

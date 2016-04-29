@@ -1,0 +1,82 @@
+{
+  "id": 739990505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.464449,33.886058,-84.464449,33.886058",
+    "geom:latitude":33.886058,
+    "geom:longitude":-84.464449,
+    "iso:country":"US",
+    "sg:address":"300 Galleria Pkwy SE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Wine & Distilled Alcoholic Beverages",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 980 9607",
+    "sg:postcode":"30339",
+    "sg:province":"GA",
+    "sg:tags":[
+        "liquors-wholesale",
+        "beer",
+        "ale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936139,
+        102082313,
+        85813197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XLw4yZZBMysIEDv7C4tdm_33.886058_-84.464449@1303262624"
+    },
+    "wof:country":"US",
+    "wof:created":1461923572,
+    "wof:geomhash":"84ccd529325d349cd121a9269e3ee327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85813197,
+            "region_id":85688535,
+            "venue_id":739990505
+        }
+    ],
+    "wof:id":739990505,
+    "wof:lastmodified":1461923572,
+    "wof:name":"Miller Coors",
+    "wof:parent_id":85813197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "liquors-wholesale",
+        "beer",
+        "ale"
+    ]
+},
+  "bbox": [
+    -84.464449,
+    33.886058,
+    -84.464449,
+    33.886058
+],
+  "geometry": {"coordinates":[-84.464449,33.886058],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 740011377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.341719,33.923981,-84.341719,33.923981",
+    "geom:latitude":33.923981,
+    "geom:longitude":-84.341719,
+    "iso:country":"US",
+    "sg:address":"4400 Ashford Dunwoody Rd Space 2124",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 731 9950",
+    "sg:postcode":"30346",
+    "sg:province":"GA",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"www.sephora.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85890003,
+        85889963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sWrTssoHEBUCg8MVjKBV2_33.923981_-84.341719@1303262630"
+    },
+    "wof:country":"US",
+    "wof:created":1461924370,
+    "wof:geomhash":"565fee8a8d4b6741016b48120e2e1163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890003,
+            "region_id":85688535,
+            "venue_id":740011377
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85889963,
+            "region_id":85688535,
+            "venue_id":740011377
+        }
+    ],
+    "wof:id":740011377,
+    "wof:lastmodified":1461924370,
+    "wof:name":"Sephora",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -84.341719,
+    33.923981,
+    -84.341719,
+    33.923981
+],
+  "geometry": {"coordinates":[-84.341719,33.923981],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 723186223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.260171,30.822781,-83.260171,30.822781",
+    "geom:latitude":30.822781,
+    "geom:longitude":-83.260171,
+    "iso:country":"US",
+    "sg:address":"812 Penny Pl",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 253 8744",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lYhtHuFNyeJqL87HH6my6_30.822781_-83.260171@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896810,
+    "wof:geomhash":"799d93065a6af884661e50b11274ac37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843077,
+            "region_id":85688535,
+            "venue_id":723186223
+        }
+    ],
+    "wof:id":723186223,
+    "wof:lastmodified":1461896810,
+    "wof:name":"Davis' Small Engine Repair",
+    "wof:parent_id":85843077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "engine"
+    ]
+},
+  "bbox": [
+    -83.260171,
+    30.822781,
+    -83.260171,
+    30.822781
+],
+  "geometry": {"coordinates":[-83.260171,30.822781],"type":"Point"}
+}

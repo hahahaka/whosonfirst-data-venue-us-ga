@@ -1,0 +1,78 @@
+{
+  "id": 740036107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.467827,33.595782,-83.467827,33.595782",
+    "geom:latitude":33.595782,
+    "geom:longitude":-83.467827,
+    "iso:country":"US",
+    "sg:address":"133 S Main St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 343 1123",
+    "sg:postcode":"30650",
+    "sg:province":"GA",
+    "sg:tags":[
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937061,
+        102081701,
+        85805009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oegyQg3hfdeKSKKoeNLTH_33.595782_-83.467827@1303262636"
+    },
+    "wof:country":"US",
+    "wof:created":1461925414,
+    "wof:geomhash":"615460ba9d7e36bad530e5b1de5463c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081701,
+            "locality_id":85937061,
+            "neighbourhood_id":85805009,
+            "region_id":85688535,
+            "venue_id":740036107
+        }
+    ],
+    "wof:id":740036107,
+    "wof:lastmodified":1461925414,
+    "wof:name":"Kenny's Caf",
+    "wof:parent_id":85805009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "espresso"
+    ]
+},
+  "bbox": [
+    -83.467827,
+    33.595782,
+    -83.467827,
+    33.595782
+],
+  "geometry": {"coordinates":[-83.467827,33.595782],"type":"Point"}
+}

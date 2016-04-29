@@ -1,0 +1,73 @@
+{
+  "id": 723204103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.724931,32.459364,-83.724931,32.459364",
+    "geom:latitude":32.459364,
+    "geom:longitude":-83.724931,
+    "iso:country":"US",
+    "sg:address":"1202 Main St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 987 9439",
+    "sg:postcode":"31069",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d3F9hfJ2vkpKygydBs54N_32.459364_-83.724931@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897154,
+    "wof:geomhash":"fc6fdf5d20a667e59d9f6af37c2ba023",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":723204103
+        }
+    ],
+    "wof:id":723204103,
+    "wof:lastmodified":1461897154,
+    "wof:name":"Arnolds Auto Svc",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.724931,
+    32.459364,
+    -83.724931,
+    32.459364
+],
+  "geometry": {"coordinates":[-83.724931,32.459364],"type":"Point"}
+}

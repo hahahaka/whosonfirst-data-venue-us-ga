@@ -1,0 +1,73 @@
+{
+  "id": 739775621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.562015,33.375443,-84.562015,33.375443",
+    "geom:latitude":33.375443,
+    "geom:longitude":-84.562015,
+    "iso:country":"US",
+    "sg:address":"1140 Crosstown Ct",
+    "sg:city":"Peachtree City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/tyrone/196065-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30269",
+    "sg:province":"GA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936021,
+        102081687,
+        420517837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lH9HqfdZyJRXp0s2zDyUK_33.375078_-84.562177@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461914769,
+    "wof:geomhash":"cbd44bc4880cd01fee3b9bdccf4a371d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081687,
+            "locality_id":85936021,
+            "neighbourhood_id":420517837,
+            "region_id":85688535,
+            "venue_id":739775621
+        }
+    ],
+    "wof:id":739775621,
+    "wof:lastmodified":1461914769,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":420517837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -84.562015,
+    33.375443,
+    -84.562015,
+    33.375443
+],
+  "geometry": {"coordinates":[-84.562015,33.375443],"type":"Point"}
+}

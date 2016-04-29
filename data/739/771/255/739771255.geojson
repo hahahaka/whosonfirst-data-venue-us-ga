@@ -1,0 +1,74 @@
+{
+  "id": 739771255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.133614,33.541007,-82.133614,33.541007",
+    "geom:latitude":33.541007,
+    "geom:longitude":-82.133614,
+    "iso:country":"US",
+    "sg:address":"4389 Washington Rd",
+    "sg:city":"Evans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/evans/158390-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 228 4304",
+    "sg:postcode":"30809",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71bQPdYHfGwymyZrzsASpG_33.541007_-82.133614@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914592,
+    "wof:geomhash":"68925da65be15ea158e4007f97dc261f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":739771255
+        }
+    ],
+    "wof:id":739771255,
+    "wof:lastmodified":1461914592,
+    "wof:name":"Arby's",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -82.133614,
+    33.541007,
+    -82.133614,
+    33.541007
+],
+  "geometry": {"coordinates":[-82.13361399999999,33.541007],"type":"Point"}
+}

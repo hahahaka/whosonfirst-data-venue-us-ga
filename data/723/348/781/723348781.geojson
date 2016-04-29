@@ -1,0 +1,80 @@
+{
+  "id": 723348781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.927492,34.746715,-84.927492,34.746715",
+    "geom:latitude":34.746715,
+    "geom:longitude":-84.927492,
+    "iso:country":"US",
+    "sg:address":"610 Hill Rd",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 226 6140",
+    "sg:postcode":"30721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "recycling",
+        "center",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LfZEOH9IBUJYdMg9FYPqD_34.746715_-84.927492@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899973,
+    "wof:geomhash":"35481dfa0aad8b3bb31241b3b77a9030",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":723348781
+        }
+    ],
+    "wof:id":723348781,
+    "wof:lastmodified":1461899973,
+    "wof:name":"Ben's Aluminum Recycling",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center",
+        "system"
+    ]
+},
+  "bbox": [
+    -84.927492,
+    34.746715,
+    -84.927492,
+    34.746715
+],
+  "geometry": {"coordinates":[-84.927492,34.746715],"type":"Point"}
+}

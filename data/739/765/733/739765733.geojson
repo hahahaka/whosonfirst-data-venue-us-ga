@@ -1,0 +1,71 @@
+{
+  "id": 739765733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.790311,34.201939,-84.790311,34.201939",
+    "geom:latitude":34.201939,
+    "geom:longitude":-84.790311,
+    "iso:country":"US",
+    "sg:address":"101 Market Place Blvd",
+    "sg:city":"Cartersville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/cartersville/203210-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30121",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85808389,
+        102082937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XODF1hw63odPI3pjE3XcZ_34.201939_-84.790311@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914369,
+    "wof:geomhash":"055830f722a07c556e908cd86b5d3088",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082937,
+            "neighbourhood_id":85808389,
+            "region_id":85688535,
+            "venue_id":739765733
+        }
+    ],
+    "wof:id":739765733,
+    "wof:lastmodified":1461914369,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85808389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.790311,
+    34.201939,
+    -84.790311,
+    34.201939
+],
+  "geometry": {"coordinates":[-84.790311,34.201939],"type":"Point"}
+}

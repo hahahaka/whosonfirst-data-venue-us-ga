@@ -1,0 +1,83 @@
+{
+  "id": 739955837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.310409,33.717959,-84.310409,33.717959",
+    "geom:latitude":33.717959,
+    "geom:longitude":-84.310409,
+    "iso:country":"US",
+    "sg:address":"2418 Gresham Rd SE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 244 4374",
+    "sg:postcode":"30316",
+    "sg:province":"GA",
+    "sg:tags":[
+        "parish",
+        "government-county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937253,
+        102084539,
+        85866911,
+        85816491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w7xUEPD9sxxuOSTFEGwxh_33.717959_-84.310409@1303262615"
+    },
+    "wof:country":"US",
+    "wof:created":1461922213,
+    "wof:geomhash":"e0ed32ad7e6b91cbac2660ddbe0987a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937253,
+            "neighbourhood_id":85866911,
+            "region_id":85688535,
+            "venue_id":739955837
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739955837
+        }
+    ],
+    "wof:id":739955837,
+    "wof:lastmodified":1461922213,
+    "wof:name":"DeKalb County Government",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parish",
+        "government-county"
+    ]
+},
+  "bbox": [
+    -84.310409,
+    33.717959,
+    -84.310409,
+    33.717959
+],
+  "geometry": {"coordinates":[-84.31040900000001,33.717959],"type":"Point"}
+}

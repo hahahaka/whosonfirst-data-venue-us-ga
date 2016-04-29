@@ -1,0 +1,83 @@
+{
+  "id": 739987033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.337526,33.931659,-84.337526,33.931659",
+    "geom:latitude":33.931659,
+    "geom:longitude":-84.337526,
+    "iso:country":"US",
+    "sg:address":"4681 Ashford Dunwoody Road",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 394 4019",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        420517741,
+        85890003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hkNS4KcKgJ1ocvdJvz8Oe_33.931659_-84.337526@1303262623"
+    },
+    "wof:country":"US",
+    "wof:created":1461923434,
+    "wof:geomhash":"920fed6cf55a67ac2d2118662a890887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":420517741,
+            "region_id":85688535,
+            "venue_id":739987033
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890003,
+            "region_id":85688535,
+            "venue_id":739987033
+        }
+    ],
+    "wof:id":739987033,
+    "wof:lastmodified":1461923434,
+    "wof:name":"Spruill Center Gallery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.337526,
+    33.931659,
+    -84.337526,
+    33.931659
+],
+  "geometry": {"coordinates":[-84.337526,33.931659],"type":"Point"}
+}

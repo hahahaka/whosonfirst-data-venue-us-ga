@@ -1,0 +1,71 @@
+{
+  "id": 722775153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.047853,32.996892,-85.047853,32.996892",
+    "geom:latitude":32.996892,
+    "geom:longitude":-85.047853,
+    "iso:country":"US",
+    "sg:address":"140 Glenn Bass Rd",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 845 3728",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85830157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RIgnElLD7eicKtBet26Nu_32.996892_-85.047853@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888411,
+    "wof:geomhash":"65079dc39709795f94c26fa99268252d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85830157,
+            "region_id":85688535,
+            "venue_id":722775153
+        }
+    ],
+    "wof:id":722775153,
+    "wof:lastmodified":1461888411,
+    "wof:name":"West Georgia Dialysis",
+    "wof:parent_id":85830157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -85.047853,
+    32.996892,
+    -85.047853,
+    32.996892
+],
+  "geometry": {"coordinates":[-85.047853,32.996892],"type":"Point"}
+}

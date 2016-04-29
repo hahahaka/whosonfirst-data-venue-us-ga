@@ -1,0 +1,70 @@
+{
+  "id": 739765189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.130771,33.953529,-84.130771,33.953529",
+    "geom:latitude":33.953529,
+    "geom:longitude":-84.130771,
+    "iso:country":"US",
+    "sg:address":"1922 Pleasant Hill Rd",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/suwanee-duluth/55048-waffle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 925 8836",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7h7H3iPSJDHqBb0dngViP6_33.953529_-84.130771@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914345,
+    "wof:geomhash":"f36230120f84cb1b94f06c9b6ecfb475",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":739765189
+        }
+    ],
+    "wof:id":739765189,
+    "wof:lastmodified":1461914345,
+    "wof:name":"Waffle House",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -84.130771,
+    33.953529,
+    -84.130771,
+    33.953529
+],
+  "geometry": {"coordinates":[-84.130771,33.953529],"type":"Point"}
+}

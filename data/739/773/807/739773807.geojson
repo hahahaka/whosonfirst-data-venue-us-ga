@@ -1,0 +1,74 @@
+{
+  "id": 739773807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.568183,30.74843,-81.568183,30.74843",
+    "geom:latitude":30.74843,
+    "geom:longitude":-81.568183,
+    "iso:country":"US",
+    "sg:address":"2504 Osborne Rd",
+    "sg:city":"Saint Marys",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/st-marys/132701-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 882 6252",
+    "sg:postcode":"31558",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937043,
+        102081693,
+        85852055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46VzHKpzTgPPb5M0kvTG33_30.748430_-81.568183@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914694,
+    "wof:geomhash":"7bcb386ccbc8a03c7d17174c505ba051",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081693,
+            "locality_id":85937043,
+            "neighbourhood_id":85852055,
+            "region_id":85688535,
+            "venue_id":739773807
+        }
+    ],
+    "wof:id":739773807,
+    "wof:lastmodified":1461914694,
+    "wof:name":"Subway",
+    "wof:parent_id":85852055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -81.568183,
+    30.74843,
+    -81.568183,
+    30.74843
+],
+  "geometry": {"coordinates":[-81.568183,30.74843],"type":"Point"}
+}

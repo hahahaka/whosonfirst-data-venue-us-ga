@@ -1,0 +1,73 @@
+{
+  "id": 739518585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.561692,32.829416,-83.561692,32.829416",
+    "geom:latitude":32.829416,
+    "geom:longitude":-83.561692,
+    "iso:country":"US",
+    "sg:address":"4160 Riggins Mill Rd",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 751 3415",
+    "sg:postcode":"31217",
+    "sg:province":"GA",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85835279,
+        102084373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48vPXiZA11tqOc6TV49ylh_32.829416_-83.561692@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461908765,
+    "wof:geomhash":"7daf39aae1d0a4da4e5eec6c6cb5636c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084373,
+            "neighbourhood_id":85835279,
+            "region_id":85688535,
+            "venue_id":739518585
+        }
+    ],
+    "wof:id":739518585,
+    "wof:lastmodified":1461908765,
+    "wof:name":"Macon Youth Development Ctr",
+    "wof:parent_id":85835279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -83.561692,
+    32.829416,
+    -83.561692,
+    32.829416
+],
+  "geometry": {"coordinates":[-83.56169199999999,32.829416],"type":"Point"}
+}

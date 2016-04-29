@@ -1,0 +1,100 @@
+{
+  "id": 740011517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.343241,33.930331,-84.343241,33.930331",
+    "geom:latitude":33.930331,
+    "geom:longitude":-84.343241,
+    "iso:country":"US",
+    "sg:address":"4551 Olde Perimeter Way",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 804 8866",
+    "sg:postcode":"30346",
+    "sg:province":"GA",
+    "sg:tags":[
+        "manufacturer",
+        "store",
+        "furniture-wholesale",
+        "mattress"
+    ],
+    "sg:website":"http://www.la-z-boy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85890003,
+        420559925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XVkZjMlWkZIiasPRVasHC_33.930331_-84.343241@1303262630"
+    },
+    "wof:country":"US",
+    "wof:created":1461924374,
+    "wof:geomhash":"210cc0491f204fd51962aef1e58617bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890003,
+            "region_id":85688535,
+            "venue_id":740011517
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":420559925,
+            "region_id":85688535,
+            "venue_id":740011517
+        }
+    ],
+    "wof:id":740011517,
+    "wof:lastmodified":1461924374,
+    "wof:name":"La-Z-Boy Furniture Galleries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer",
+        "store",
+        "furniture-wholesale",
+        "mattress"
+    ]
+},
+  "bbox": [
+    -84.343241,
+    33.930331,
+    -84.343241,
+    33.930331
+],
+  "geometry": {"coordinates":[-84.34324100000001,33.930331],"type":"Point"}
+}

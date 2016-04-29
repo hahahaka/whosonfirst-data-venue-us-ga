@@ -1,0 +1,82 @@
+{
+  "id": 739947953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.417938,33.724468,-84.417938,33.724468",
+    "geom:latitude":33.724468,
+    "geom:longitude":-84.417938,
+    "iso:country":"US",
+    "sg:address":"1102 Sylvan Rd SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 651 6350",
+    "sg:postcode":"30310",
+    "sg:province":"GA",
+    "sg:tags":[
+        "enforcement",
+        "law",
+        "agencies-government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85809417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FQdectz4oMkUl7MndbsoO_33.724468_-84.417938@1303262613"
+    },
+    "wof:country":"US",
+    "wof:created":1461921854,
+    "wof:geomhash":"2d1832778766642b3c8a033036116ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85809417,
+            "region_id":85688535,
+            "venue_id":739947953
+        }
+    ],
+    "wof:id":739947953,
+    "wof:lastmodified":1461921854,
+    "wof:name":"Georgia Department Of Corrections",
+    "wof:parent_id":85809417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "enforcement",
+        "law",
+        "agencies-government"
+    ]
+},
+  "bbox": [
+    -84.417938,
+    33.724468,
+    -84.417938,
+    33.724468
+],
+  "geometry": {"coordinates":[-84.41793800000001,33.724468],"type":"Point"}
+}

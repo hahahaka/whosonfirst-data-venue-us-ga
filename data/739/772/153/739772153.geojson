@@ -1,0 +1,72 @@
+{
+  "id": 739772153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.75248,32.446794,-83.75248,32.446794",
+    "geom:latitude":32.446794,
+    "geom:longitude":-83.75248,
+    "iso:country":"US",
+    "sg:address":"102 Lect Dr",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/perry/96062-waffle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 987 9986",
+    "sg:postcode":"31069",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n2YrpFFiWIDceisG1JQFA_32.446794_-83.752480@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914625,
+    "wof:geomhash":"cc80bfd540bd8986d22c07949af6b902",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":739772153
+        }
+    ],
+    "wof:id":739772153,
+    "wof:lastmodified":1461914625,
+    "wof:name":"Waffle House",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -83.75248,
+    32.446794,
+    -83.75248,
+    32.446794
+],
+  "geometry": {"coordinates":[-83.75248000000001,32.446794],"type":"Point"}
+}

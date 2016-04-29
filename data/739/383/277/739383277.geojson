@@ -1,0 +1,73 @@
+{
+  "id": 739383277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.998751,34.110543,-83.998751,34.110543",
+    "geom:latitude":34.110543,
+    "geom:longitude":-83.998751,
+    "iso:country":"US",
+    "sg:address":"2050 Buford Hwy NE",
+    "sg:city":"Buford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 614 7366",
+    "sg:postcode":"30518",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936281,
+        102082967,
+        85858547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YyUgyYXP6hgloIqGVZRPV_34.110543_-83.998751@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461906255,
+    "wof:geomhash":"91784e176819b3aec24d237899591a3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936281,
+            "neighbourhood_id":85858547,
+            "region_id":85688535,
+            "venue_id":739383277
+        }
+    ],
+    "wof:id":739383277,
+    "wof:lastmodified":1461906255,
+    "wof:name":"Children's Medicine",
+    "wof:parent_id":85858547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.998751,
+    34.110543,
+    -83.998751,
+    34.110543
+],
+  "geometry": {"coordinates":[-83.998751,34.110543],"type":"Point"}
+}

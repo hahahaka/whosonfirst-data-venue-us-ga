@@ -1,0 +1,71 @@
+{
+  "id": 739884675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.385696,34.416552,-84.385696,34.416552",
+    "geom:latitude":34.416552,
+    "geom:longitude":-84.385696,
+    "iso:country":"US",
+    "sg:address":"89 Clinic Rd",
+    "sg:city":"Tate",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 737 3333",
+    "sg:postcode":"30177",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85846359,
+        102083619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EA3p8robJ3FG9YASgSGCg_34.416552_-84.385696@1303262597"
+    },
+    "wof:country":"US",
+    "wof:created":1461919233,
+    "wof:geomhash":"e57ff58438b30ffcb62b15c34ee767da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083619,
+            "neighbourhood_id":85846359,
+            "region_id":85688535,
+            "venue_id":739884675
+        }
+    ],
+    "wof:id":739884675,
+    "wof:lastmodified":1461919233,
+    "wof:name":"Piedmont Physicians At Tate Community",
+    "wof:parent_id":85846359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.385696,
+    34.416552,
+    -84.385696,
+    34.416552
+],
+  "geometry": {"coordinates":[-84.385696,34.416552],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 723495743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.02863,33.058533,-85.02863,33.058533",
+    "geom:latitude":33.058533,
+    "geom:longitude":-85.02863,
+    "iso:country":"US",
+    "sg:address":"305 New Franklin Rd",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 884 6100",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hwdpqo8RGTHNcpPNAWkmk_33.058533_-85.028630@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461902853,
+    "wof:geomhash":"18cfa39423f2967bed84ac9ebc832711",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":723495743
+        }
+    ],
+    "wof:id":723495743,
+    "wof:lastmodified":1461902853,
+    "wof:name":"Milano's Italian Restaurant",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -85.02863,
+    33.058533,
+    -85.02863,
+    33.058533
+],
+  "geometry": {"coordinates":[-85.02863000000001,33.058533],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 722573881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.348997,33.768642,-84.348997,33.768642",
+    "geom:latitude":33.768642,
+    "geom:longitude":-84.348997,
+    "iso:country":"US",
+    "sg:address":"506 Moreland Ave NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 522 5555",
+    "sg:postcode":"30307",
+    "sg:province":"GA",
+    "sg:website":"www.dwellingsrealestate.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872121,
+        85866907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XpuJk2VZB2elVXye0gyMm_33.768642_-84.348997@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461884492,
+    "wof:geomhash":"7e85f824a3ecb30f9e077e4eb8052c95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872121,
+            "region_id":85688535,
+            "venue_id":722573881
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85866907,
+            "region_id":85688535,
+            "venue_id":722573881
+        }
+    ],
+    "wof:id":722573881,
+    "wof:lastmodified":1461884492,
+    "wof:name":"Dwellings",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.348997,
+    33.768642,
+    -84.348997,
+    33.768642
+],
+  "geometry": {"coordinates":[-84.348997,33.768642],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 722793587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.586078,30.916565,-84.586078,30.916565",
+    "geom:latitude":30.916565,
+    "geom:longitude":-84.586078,
+    "iso:country":"US",
+    "sg:address":"103 Martin St",
+    "sg:city":"Bainbridge",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 246 6000",
+    "sg:postcode":"39817",
+    "sg:province":"GA",
+    "sg:tags":[
+        "terminal",
+        "truck",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688651,
+        102191575,
+        85633793,
+        85933451,
+        102084747,
+        420517717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dcntpc9WQ3DYSWKMz612O_30.916565_-84.586078@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888773,
+    "wof:geomhash":"84ec29ef92cacc6247821dc3c0848308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084747,
+            "locality_id":85933451,
+            "neighbourhood_id":420517717,
+            "region_id":85688651,
+            "venue_id":722793587
+        }
+    ],
+    "wof:id":722793587,
+    "wof:lastmodified":1461888773,
+    "wof:name":"CSX Freight Station",
+    "wof:parent_id":420517717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "terminal",
+        "truck",
+        "facility"
+    ]
+},
+  "bbox": [
+    -84.586078,
+    30.916565,
+    -84.586078,
+    30.916565
+],
+  "geometry": {"coordinates":[-84.586078,30.916565],"type":"Point"}
+}

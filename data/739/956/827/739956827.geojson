@@ -1,0 +1,94 @@
+{
+  "id": 739956827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.310537,33.717381,-84.310537,33.717381",
+    "geom:latitude":33.717381,
+    "geom:longitude":-84.310537,
+    "iso:country":"US",
+    "sg:address":"2434 Gresham Road SE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 244 8888",
+    "sg:postcode":"30316",
+    "sg:province":"GA",
+    "sg:tags":[
+        "fire",
+        "water",
+        "restoration",
+        "damage",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937253,
+        102084539,
+        85866911,
+        85816491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44iqfAozmMgmuysEE6vlK8_33.717381_-84.310537@1303262615"
+    },
+    "wof:country":"US",
+    "wof:created":1461922257,
+    "wof:geomhash":"28cd840eefdc6c12b4ba9baa5c948dc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937253,
+            "neighbourhood_id":85866911,
+            "region_id":85688535,
+            "venue_id":739956827
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739956827
+        }
+    ],
+    "wof:id":739956827,
+    "wof:lastmodified":1461922257,
+    "wof:name":"Advance Disaster Restoration",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "water",
+        "restoration",
+        "damage",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.310537,
+    33.717381,
+    -84.310537,
+    33.717381
+],
+  "geometry": {"coordinates":[-84.310537,33.717381],"type":"Point"}
+}

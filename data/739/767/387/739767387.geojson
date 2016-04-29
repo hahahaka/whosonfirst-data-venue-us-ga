@@ -1,0 +1,74 @@
+{
+  "id": 739767387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.794882,33.382335,-84.794882,33.382335",
+    "geom:latitude":33.382335,
+    "geom:longitude":-84.794882,
+    "iso:country":"US",
+    "sg:address":"124 Jefferson St",
+    "sg:city":"Newnan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/newnan/70777-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 251 6511",
+    "sg:postcode":"30263",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936351,
+        102084443,
+        85833133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TGEWwLn9DuZgoMResOBfa_33.382335_-84.794882@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914433,
+    "wof:geomhash":"ca675b09720456733db125a6adbe9bd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084443,
+            "locality_id":85936351,
+            "neighbourhood_id":85833133,
+            "region_id":85688535,
+            "venue_id":739767387
+        }
+    ],
+    "wof:id":739767387,
+    "wof:lastmodified":1461914433,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85833133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.794882,
+    33.382335,
+    -84.794882,
+    33.382335
+],
+  "geometry": {"coordinates":[-84.794882,33.382335],"type":"Point"}
+}

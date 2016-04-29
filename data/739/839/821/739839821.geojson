@@ -1,0 +1,72 @@
+{
+  "id": 739839821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.015189,33.871795,-84.015189,33.871795",
+    "geom:latitude":33.871795,
+    "geom:longitude":-84.015189,
+    "iso:country":"US",
+    "sg:address":"1957 Scenic Hwy N",
+    "sg:city":"Snellville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 979 0922",
+    "sg:postcode":"30078",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.cvs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936303,
+        102082967,
+        85857829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uL7Tq9S2q8GCEATLwhb4p_33.871795_-84.015189@1303262585"
+    },
+    "wof:country":"US",
+    "wof:created":1461917484,
+    "wof:geomhash":"4d736deb9160cfd6aa1b0f947552bed8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936303,
+            "neighbourhood_id":85857829,
+            "region_id":85688535,
+            "venue_id":739839821
+        }
+    ],
+    "wof:id":739839821,
+    "wof:lastmodified":1461917484,
+    "wof:name":"Cvs Pharmacy",
+    "wof:parent_id":85857829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -84.015189,
+    33.871795,
+    -84.015189,
+    33.871795
+],
+  "geometry": {"coordinates":[-84.01518900000001,33.871795],"type":"Point"}
+}

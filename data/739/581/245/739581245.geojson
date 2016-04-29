@@ -1,0 +1,78 @@
+{
+  "id": 739581245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.304438,30.87857,-83.304438,30.87857",
+    "geom:latitude":30.87857,
+    "geom:longitude":-83.304438,
+    "iso:country":"US",
+    "sg:address":"814 Northwood Park Dr",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 259 0032",
+    "sg:postcode":"31602",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85815713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UkvoGcZ0emcIfe7sMCVPe_30.878570_-83.304438@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910030,
+    "wof:geomhash":"35c424b897c25baee8717dba30d948fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85815713,
+            "region_id":85688535,
+            "venue_id":739581245
+        }
+    ],
+    "wof:id":739581245,
+    "wof:lastmodified":1461910030,
+    "wof:name":"South Georgia Health Group LLC",
+    "wof:parent_id":85815713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.304438,
+    30.87857,
+    -83.304438,
+    30.87857
+],
+  "geometry": {"coordinates":[-83.304438,30.87857],"type":"Point"}
+}

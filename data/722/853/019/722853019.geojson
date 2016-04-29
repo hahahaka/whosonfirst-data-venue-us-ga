@@ -1,0 +1,71 @@
+{
+  "id": 722853019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.609309,34.317102,-84.609309,34.317102",
+    "geom:latitude":34.317102,
+    "geom:longitude":-84.609309,
+    "iso:country":"US",
+    "sg:address":"177 Jack Rabbit Dr",
+    "sg:city":"Waleska",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 720 4822",
+    "sg:postcode":"30183",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85865501,
+        102084635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EuJjDfKyvL2Klgasem5Fc_34.317102_-84.609309@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461889880,
+    "wof:geomhash":"df541dc46c6179cab45932216066f71d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084635,
+            "neighbourhood_id":85865501,
+            "region_id":85688535,
+            "venue_id":722853019
+        }
+    ],
+    "wof:id":722853019,
+    "wof:lastmodified":1461889880,
+    "wof:name":"Pediatrix Medical Group",
+    "wof:parent_id":85865501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.609309,
+    34.317102,
+    -84.609309,
+    34.317102
+],
+  "geometry": {"coordinates":[-84.609309,34.317102],"type":"Point"}
+}

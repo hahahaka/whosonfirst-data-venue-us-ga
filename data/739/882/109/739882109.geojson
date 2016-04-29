@@ -1,0 +1,73 @@
+{
+  "id": 739882109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.736896,33.950801,-84.736896,33.950801",
+    "geom:latitude":33.950801,
+    "geom:longitude":-84.736896,
+    "iso:country":"US",
+    "sg:address":"253 Hiram Acworth Hwy SW",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 383 8457",
+    "sg:postcode":"30157",
+    "sg:province":"GA",
+    "sg:tags":[
+        "trucking-light",
+        "hauling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936129,
+        102082313,
+        85829479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FtCq50D7YOVK7DlZJKugs_33.950801_-84.736896@1303262596"
+    },
+    "wof:country":"US",
+    "wof:created":1461919134,
+    "wof:geomhash":"37cd14df8f5deba1fc2b8bb39d3bb0bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936129,
+            "neighbourhood_id":85829479,
+            "region_id":85688535,
+            "venue_id":739882109
+        }
+    ],
+    "wof:id":739882109,
+    "wof:lastmodified":1461919134,
+    "wof:name":"Tim's Hauling",
+    "wof:parent_id":85829479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-light",
+        "hauling"
+    ]
+},
+  "bbox": [
+    -84.736896,
+    33.950801,
+    -84.736896,
+    33.950801
+],
+  "geometry": {"coordinates":[-84.736896,33.950801],"type":"Point"}
+}

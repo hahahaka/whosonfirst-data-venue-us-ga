@@ -1,0 +1,71 @@
+{
+  "id": 722870737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.239206,34.96357,-85.239206,34.96357",
+    "geom:latitude":34.96357,
+    "geom:longitude":-85.239206,
+    "iso:country":"US",
+    "sg:address":"400 McDonald Dr",
+    "sg:city":"Rossville",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 858 0000",
+    "sg:postcode":"30741",
+    "sg:province":"GA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936055,
+        102084401,
+        85818561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5O5CYFaEx58vr7s9kdxpYS_34.963570_-85.239206@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461890211,
+    "wof:geomhash":"e04d2a73f8c3755d55afa88af258dcc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084401,
+            "locality_id":85936055,
+            "neighbourhood_id":85818561,
+            "region_id":85688535,
+            "venue_id":722870737
+        }
+    ],
+    "wof:id":722870737,
+    "wof:lastmodified":1461890211,
+    "wof:name":"Fort Oglethorpe-Rossville Cab",
+    "wof:parent_id":85818561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -85.239206,
+    34.96357,
+    -85.239206,
+    34.96357
+],
+  "geometry": {"coordinates":[-85.239206,34.96357],"type":"Point"}
+}

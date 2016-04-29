@@ -1,0 +1,71 @@
+{
+  "id": 722884219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.98123,30.83669,-83.98123,30.83669",
+    "geom:latitude":30.83669,
+    "geom:longitude":-83.98123,
+    "iso:country":"US",
+    "sg:address":"221 W Jackson St",
+    "sg:city":"Thomasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 227 0905",
+    "sg:postcode":"31792",
+    "sg:province":"GA",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85833309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xRYunkkTnSeGFUIVc96vd_30.836690_-83.981230@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461890471,
+    "wof:geomhash":"a3dbcdd18b88d79b88b89332da3c7a37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85833309,
+            "region_id":85688535,
+            "venue_id":722884219
+        }
+    ],
+    "wof:id":722884219,
+    "wof:lastmodified":1461890471,
+    "wof:name":"Lowe's Upholstery",
+    "wof:parent_id":85833309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -83.98123,
+    30.83669,
+    -83.98123,
+    30.83669
+],
+  "geometry": {"coordinates":[-83.98123,30.83669],"type":"Point"}
+}

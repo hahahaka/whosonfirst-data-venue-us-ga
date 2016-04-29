@@ -1,0 +1,75 @@
+{
+  "id": 739599513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.82333,33.895731,-84.82333,33.895731",
+    "geom:latitude":33.895731,
+    "geom:longitude":-84.82333,
+    "iso:country":"US",
+    "sg:address":"1610 Davis Mill Rd N",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 443 6686",
+    "sg:postcode":"30157",
+    "sg:province":"GA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936335,
+        102084665,
+        85835843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1R3E3vG6Xh8FsPdCGO62Vo_33.895731_-84.823330@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910392,
+    "wof:geomhash":"e83d6c0c096011df54775a433b56750b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "locality_id":85936335,
+            "neighbourhood_id":85835843,
+            "region_id":85688535,
+            "venue_id":739599513
+        }
+    ],
+    "wof:id":739599513,
+    "wof:lastmodified":1461910392,
+    "wof:name":"Ryans Trucking",
+    "wof:parent_id":85835843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.82333,
+    33.895731,
+    -84.82333,
+    33.895731
+],
+  "geometry": {"coordinates":[-84.82333,33.895731],"type":"Point"}
+}

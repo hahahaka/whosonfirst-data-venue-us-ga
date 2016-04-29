@@ -1,0 +1,76 @@
+{
+  "id": 740062335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.495583,31.15344,-81.495583,31.15344",
+    "geom:latitude":31.15344,
+    "geom:longitude":-81.495583,
+    "iso:country":"US",
+    "sg:address":"701 H St",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 554 7272",
+    "sg:postcode":"31520",
+    "sg:province":"GA",
+    "sg:tags":[
+        "justice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85833275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gGwxXazAlImBhzLDzL8eO_31.153440_-81.495583@1303262643"
+    },
+    "wof:country":"US",
+    "wof:created":1461926631,
+    "wof:geomhash":"4d7c8187e531ece8cdcdd6b1f50ace4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85833275,
+            "region_id":85688535,
+            "venue_id":740062335
+        }
+    ],
+    "wof:id":740062335,
+    "wof:lastmodified":1461926631,
+    "wof:name":"Clerk Of Sup Court Office",
+    "wof:parent_id":85833275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "justice"
+    ]
+},
+  "bbox": [
+    -81.495583,
+    31.15344,
+    -81.495583,
+    31.15344
+],
+  "geometry": {"coordinates":[-81.495583,31.15344],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 739817661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.531033,33.940684,-84.531033,33.940684",
+    "geom:latitude":33.940684,
+    "geom:longitude":-84.531033,
+    "iso:country":"US",
+    "sg:address":"530 Commerce Park Dr SE A",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 528 9000",
+    "sg:postcode":"30060",
+    "sg:province":"GA",
+    "sg:tags":[
+        "x-ray",
+        "apparatus"
+    ],
+    "sg:website":"http://www.mariettax-ray.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937191,
+        102082313,
+        85857593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rI9WqSIanpc7HXr9opS6B_33.940684_-84.531033@1303262579"
+    },
+    "wof:country":"US",
+    "wof:created":1461916602,
+    "wof:geomhash":"0a76f1524194be622ddc1ee4974f5514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85937191,
+            "neighbourhood_id":85857593,
+            "region_id":85688535,
+            "venue_id":739817661
+        }
+    ],
+    "wof:id":739817661,
+    "wof:lastmodified":1461916602,
+    "wof:name":"Marietta X-Ray Incorporated",
+    "wof:parent_id":85857593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "x-ray",
+        "apparatus"
+    ]
+},
+  "bbox": [
+    -84.531033,
+    33.940684,
+    -84.531033,
+    33.940684
+],
+  "geometry": {"coordinates":[-84.53103299999999,33.940684],"type":"Point"}
+}

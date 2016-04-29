@@ -1,0 +1,80 @@
+{
+  "id": 739840009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.022885,33.860303,-84.022885,33.860303",
+    "geom:latitude":33.860303,
+    "geom:longitude":-84.022885,
+    "iso:country":"US",
+    "sg:address":"2132 Bird Ln",
+    "sg:city":"Snellville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 906 1208",
+    "sg:postcode":"30078",
+    "sg:province":"GA",
+    "sg:tags":[
+        "stationery-wholesale",
+        "store",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936303,
+        102082967,
+        85890049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ihp9eZ5BhMtkMMBCYrUbw_33.860303_-84.022885@1303262585"
+    },
+    "wof:country":"US",
+    "wof:created":1461917491,
+    "wof:geomhash":"b7d1dece1f50baea201d0d213b17a0be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936303,
+            "neighbourhood_id":85890049,
+            "region_id":85688535,
+            "venue_id":739840009
+        }
+    ],
+    "wof:id":739840009,
+    "wof:lastmodified":1461917491,
+    "wof:name":"Arc Enterprise",
+    "wof:parent_id":85890049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stationery-wholesale",
+        "store",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -84.022885,
+    33.860303,
+    -84.022885,
+    33.860303
+],
+  "geometry": {"coordinates":[-84.022885,33.860303],"type":"Point"}
+}

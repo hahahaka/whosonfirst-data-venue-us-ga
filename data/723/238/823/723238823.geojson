@@ -1,0 +1,71 @@
+{
+  "id": 723238823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.411826,33.65468,-84.411826,33.65468",
+    "geom:latitude":33.65468,
+    "geom:longitude":-84.411826,
+    "iso:country":"US",
+    "sg:address":"791 Oak St",
+    "sg:city":"Hapeville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 305 9051",
+    "sg:postcode":"30354",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526927,
+        85688535,
+        85633793,
+        102082333,
+        85815707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iUDAX2wUkqGXx17NH4n8i_33.654680_-84.411826@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897888,
+    "wof:geomhash":"300128fbad4cfd717843fe2e8ba2be58",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526927,
+            "country_id":85633793,
+            "county_id":102082333,
+            "neighbourhood_id":85815707,
+            "region_id":85688535,
+            "venue_id":723238823
+        }
+    ],
+    "wof:id":723238823,
+    "wof:lastmodified":1461897888,
+    "wof:name":"Clinical Reference",
+    "wof:parent_id":102526927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug"
+    ]
+},
+  "bbox": [
+    -84.411826,
+    33.65468,
+    -84.411826,
+    33.65468
+],
+  "geometry": {"coordinates":[-84.411826,33.65468],"type":"Point"}
+}

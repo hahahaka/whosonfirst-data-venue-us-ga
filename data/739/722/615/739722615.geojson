@@ -1,0 +1,73 @@
+{
+  "id": 739722615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.485659,33.590461,-84.485659,33.590461",
+    "geom:latitude":33.590461,
+    "geom:longitude":-84.485659,
+    "iso:country":"US",
+    "sg:address":"6110 Cedar Wood Dr SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 960 6779",
+    "sg:postcode":"30349",
+    "sg:province":"GA",
+    "sg:tags":[
+        "local",
+        "courier",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889945,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NOKPB5121epnUXb4X7w9v_33.590461_-84.485659@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461913046,
+    "wof:geomhash":"21d7547fc7af9b045cc6d792c6b3058d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85889945,
+            "region_id":85688535,
+            "venue_id":739722615
+        }
+    ],
+    "wof:id":739722615,
+    "wof:lastmodified":1461913046,
+    "wof:name":"Express Connector Inc",
+    "wof:parent_id":85889945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "courier",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.485659,
+    33.590461,
+    -84.485659,
+    33.590461
+],
+  "geometry": {"coordinates":[-84.485659,33.590461],"type":"Point"}
+}

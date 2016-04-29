@@ -1,0 +1,71 @@
+{
+  "id": 723154215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.688428,32.62999,-83.688428,32.62999",
+    "geom:latitude":32.62999,
+    "geom:longitude":-83.688428,
+    "iso:country":"US",
+    "sg:address":"101 Miller Ct",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 953 4050",
+    "sg:postcode":"31028",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2arTeanViTUA1jOPtmx2Zl_32.629990_-83.688428@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896177,
+    "wof:geomhash":"007e5b5532097ea48cc9d70ccf11604a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":723154215
+        }
+    ],
+    "wof:id":723154215,
+    "wof:lastmodified":1461896177,
+    "wof:name":"Centerville Fire Chief",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -83.688428,
+    32.62999,
+    -83.688428,
+    32.62999
+],
+  "geometry": {"coordinates":[-83.688428,32.62999],"type":"Point"}
+}

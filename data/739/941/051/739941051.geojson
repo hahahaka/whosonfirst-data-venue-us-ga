@@ -1,0 +1,84 @@
+{
+  "id": 739941051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.37991,33.781796,-84.37991,33.781796",
+    "geom:latitude":33.781796,
+    "geom:longitude":-84.37991,
+    "iso:country":"US",
+    "sg:address":"230 10th St NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 892 9004",
+    "sg:postcode":"30309",
+    "sg:province":"GA",
+    "sg:tags":[
+        "italian"
+    ],
+    "sg:website":"http://www.aboutsantinos.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85866909,
+        85825631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17u6hlmSncgcaZpac0SqeV_33.781796_-84.379910@1303262611"
+    },
+    "wof:country":"US",
+    "wof:created":1461921505,
+    "wof:geomhash":"d41c39008ae5c72303b4097ad9d122da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85866909,
+            "region_id":85688535,
+            "venue_id":739941051
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85825631,
+            "region_id":85688535,
+            "venue_id":739941051
+        }
+    ],
+    "wof:id":739941051,
+    "wof:lastmodified":1461921505,
+    "wof:name":"Santino's Di Roma",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -84.37991,
+    33.781796,
+    -84.37991,
+    33.781796
+],
+  "geometry": {"coordinates":[-84.37991,33.781796],"type":"Point"}
+}

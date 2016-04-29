@@ -1,0 +1,73 @@
+{
+  "id": 739800653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.198196,33.727299,-84.198196,33.727299",
+    "geom:latitude":33.727299,
+    "geom:longitude":-84.198196,
+    "iso:country":"US",
+    "sg:address":"2075 S Hairston Rd",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 322 6557",
+    "sg:postcode":"30035",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937263,
+        102084539,
+        85890037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qgg4KUqXLZtkEHOX7pG3d_33.727299_-84.198196@1303262575"
+    },
+    "wof:country":"US",
+    "wof:created":1461915807,
+    "wof:geomhash":"d97cb3774aa5b897facea4beadacfbbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937263,
+            "neighbourhood_id":85890037,
+            "region_id":85688535,
+            "venue_id":739800653
+        }
+    ],
+    "wof:id":739800653,
+    "wof:lastmodified":1461915807,
+    "wof:name":"Publix Pharmacy",
+    "wof:parent_id":85890037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -84.198196,
+    33.727299,
+    -84.198196,
+    33.727299
+],
+  "geometry": {"coordinates":[-84.198196,33.727299],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 722848255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.28286,33.738377,-84.28286,33.738377",
+    "geom:latitude":33.738377,
+    "geom:longitude":-84.28286,
+    "iso:country":"US",
+    "sg:address":"2639 Glenvalley Dr",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 288 4316",
+    "sg:postcode":"30032",
+    "sg:province":"GA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937245,
+        102084539,
+        85816501,
+        85816491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Xdx9RfieNmRfdqxKDtwAp_33.738377_-84.282860@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461889787,
+    "wof:geomhash":"8fd00b13a6c13a8d140562f7076ceb95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937245,
+            "neighbourhood_id":85816501,
+            "region_id":85688535,
+            "venue_id":722848255
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":722848255
+        }
+    ],
+    "wof:id":722848255,
+    "wof:lastmodified":1461889787,
+    "wof:name":"Island Trucking LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.28286,
+    33.738377,
+    -84.28286,
+    33.738377
+],
+  "geometry": {"coordinates":[-84.28286,33.738377],"type":"Point"}
+}

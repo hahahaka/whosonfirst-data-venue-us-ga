@@ -1,0 +1,71 @@
+{
+  "id": 723234739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.274697,30.822889,-83.274697,30.822889",
+    "geom:latitude":30.822889,
+    "geom:longitude":-83.274697,
+    "iso:country":"US",
+    "sg:address":"729 S Patterson St",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 242 9610",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4K0gwUSMJeoHhuUpgD2yks_30.822889_-83.274697@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897804,
+    "wof:geomhash":"abbb8dda60943249414ecd2eb18b7a44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843077,
+            "region_id":85688535,
+            "venue_id":723234739
+        }
+    ],
+    "wof:id":723234739,
+    "wof:lastmodified":1461897804,
+    "wof:name":"Valdosta Dialysis",
+    "wof:parent_id":85843077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -83.274697,
+    30.822889,
+    -83.274697,
+    30.822889
+],
+  "geometry": {"coordinates":[-83.274697,30.822889],"type":"Point"}
+}

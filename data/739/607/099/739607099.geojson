@@ -1,0 +1,71 @@
+{
+  "id": 739607099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.911157,34.001836,-83.911157,34.001836",
+    "geom:latitude":34.001836,
+    "geom:longitude":-83.911157,
+    "iso:country":"US",
+    "sg:address":"710 Dacula Rd",
+    "sg:city":"Dacula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 407 0949",
+    "sg:postcode":"30019",
+    "sg:province":"GA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936297,
+        102082967,
+        85853829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VnMppGTZkuJ7qPepsh6l8_34.001836_-83.911157@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910546,
+    "wof:geomhash":"aa52d35d91ebee35cb7f69065b21cdac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936297,
+            "neighbourhood_id":85853829,
+            "region_id":85688535,
+            "venue_id":739607099
+        }
+    ],
+    "wof:id":739607099,
+    "wof:lastmodified":1461910546,
+    "wof:name":"Dacula Cleaners",
+    "wof:parent_id":85853829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -83.911157,
+    34.001836,
+    -83.911157,
+    34.001836
+],
+  "geometry": {"coordinates":[-83.911157,34.001836],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 739776009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.340833,33.922935,-83.340833,33.922935",
+    "geom:latitude":33.922935,
+    "geom:longitude":-83.340833,
+    "iso:country":"US",
+    "sg:address":"2075 Barnett Shoals Rd",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/athens/195950-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30605",
+    "sg:province":"GA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936177,
+        102081713,
+        85822729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hfvL2Ldp7JZqwwOgiFjcd_33.923468_-83.340489@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461914781,
+    "wof:geomhash":"2538d9fd3fca7aee351bd63cba4a8cb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081713,
+            "locality_id":85936177,
+            "neighbourhood_id":85822729,
+            "region_id":85688535,
+            "venue_id":739776009
+        }
+    ],
+    "wof:id":739776009,
+    "wof:lastmodified":1461914781,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85822729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -83.340833,
+    33.922935,
+    -83.340833,
+    33.922935
+],
+  "geometry": {"coordinates":[-83.340833,33.922935],"type":"Point"}
+}

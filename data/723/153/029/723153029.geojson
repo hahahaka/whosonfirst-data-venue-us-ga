@@ -1,0 +1,73 @@
+{
+  "id": 723153029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.01128,34.100349,-84.01128,34.100349",
+    "geom:latitude":34.100349,
+    "geom:longitude":-84.01128,
+    "iso:country":"US",
+    "sg:address":"4474 Commerce Dr",
+    "sg:city":"Buford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 482 0008",
+    "sg:postcode":"30518",
+    "sg:province":"GA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936305,
+        102082967,
+        85820775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TTkhT1KTwop64hobiV57j_34.100349_-84.011280@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896155,
+    "wof:geomhash":"000589c755536876f66282118e1cfea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936305,
+            "neighbourhood_id":85820775,
+            "region_id":85688535,
+            "venue_id":723153029
+        }
+    ],
+    "wof:id":723153029,
+    "wof:lastmodified":1461896155,
+    "wof:name":"United Medical Diagnostics",
+    "wof:parent_id":85820775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.01128,
+    34.100349,
+    -84.01128,
+    34.100349
+],
+  "geometry": {"coordinates":[-84.01128,34.100349],"type":"Point"}
+}

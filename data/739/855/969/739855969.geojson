@@ -1,0 +1,88 @@
+{
+  "id": 739855969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.14314,33.954241,-84.14314,33.954241",
+    "geom:latitude":33.954241,
+    "geom:longitude":-84.14314,
+    "iso:country":"US",
+    "sg:address":"4230 Pleasant Lake Village Ln",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        },
+        {
+            "category":"Internet Cafe",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 665 8796",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "equipment",
+        "product",
+        "isp",
+        "provider"
+    ],
+    "sg:website":"http://www.alliedspace.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24ao80HEyDX8XWHbqGDxtj_33.954241_-84.143140@1303262590"
+    },
+    "wof:country":"US",
+    "wof:created":1461918140,
+    "wof:geomhash":"e570bd1f02f145c849fe2cac15d39f60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":739855969
+        }
+    ],
+    "wof:id":739855969,
+    "wof:lastmodified":1461918140,
+    "wof:name":"Allied Space",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "product",
+        "isp",
+        "provider"
+    ]
+},
+  "bbox": [
+    -84.14314,
+    33.954241,
+    -84.14314,
+    33.954241
+],
+  "geometry": {"coordinates":[-84.14314,33.954241],"type":"Point"}
+}

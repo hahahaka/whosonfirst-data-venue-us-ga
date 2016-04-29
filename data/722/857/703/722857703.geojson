@@ -1,0 +1,89 @@
+{
+  "id": 722857703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.088411,32.076546,-81.088411,32.076546",
+    "geom:latitude":32.076546,
+    "geom:longitude":-81.088411,
+    "iso:country":"US",
+    "sg:address":"309 E York St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 233 0000",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "mortgage",
+        "loan",
+        "broker",
+        "real estate"
+    ],
+    "sg:website":"www.savannahmortgages.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85880901,
+        85880917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35p7Cx88UoaMkuBX5I6ah9_32.076546_-81.088411@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461889968,
+    "wof:geomhash":"03370d46c8dd51bd675f4f6f04bc4d38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880901,
+            "region_id":85688535,
+            "venue_id":722857703
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880917,
+            "region_id":85688535,
+            "venue_id":722857703
+        }
+    ],
+    "wof:id":722857703,
+    "wof:lastmodified":1461889968,
+    "wof:name":"Savannah Mortgage Company Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage",
+        "loan",
+        "broker",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -81.088411,
+    32.076546,
+    -81.088411,
+    32.076546
+],
+  "geometry": {"coordinates":[-81.08841099999999,32.076546],"type":"Point"}
+}

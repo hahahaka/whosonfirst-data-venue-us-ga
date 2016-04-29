@@ -1,0 +1,80 @@
+{
+  "id": 739999655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.25548,33.885535,-84.25548,33.885535",
+    "geom:latitude":33.885535,
+    "geom:longitude":-84.25548,
+    "iso:country":"US",
+    "sg:address":"3358 Chamblee Tucker Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 457 5176",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "sg:website":"http://www.biglots.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4m9n5Cr6l8W19NEzq3pfzy_33.885535_-84.255480@1303262627"
+    },
+    "wof:country":"US",
+    "wof:created":1461923915,
+    "wof:geomhash":"877d7bc713a0673b7bea79bc10f0ca43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":739999655
+        }
+    ],
+    "wof:id":739999655,
+    "wof:lastmodified":1461923915,
+    "wof:name":"Big Lots",
+    "wof:parent_id":85889941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -84.25548,
+    33.885535,
+    -84.25548,
+    33.885535
+],
+  "geometry": {"coordinates":[-84.25548000000001,33.885535],"type":"Point"}
+}

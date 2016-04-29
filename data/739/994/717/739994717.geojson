@@ -1,0 +1,82 @@
+{
+  "id": 739994717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.269872,33.906408,-84.269872,33.906408",
+    "geom:latitude":33.906408,
+    "geom:longitude":-84.269872,
+    "iso:country":"US",
+    "sg:address":"5710 Buford Hwy NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 395 5274",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "sg:tags":[
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QVlV920DjnfQYj34qqVKZ_33.906408_-84.269872@1303262625"
+    },
+    "wof:country":"US",
+    "wof:created":1461923732,
+    "wof:geomhash":"fcdd1dae6ba93c8c623613f3f54ea780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":739994717
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":739994717
+        }
+    ],
+    "wof:id":739994717,
+    "wof:lastmodified":1461923732,
+    "wof:name":"Atlr Corporation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial"
+    ]
+},
+  "bbox": [
+    -84.269872,
+    33.906408,
+    -84.269872,
+    33.906408
+],
+  "geometry": {"coordinates":[-84.26987200000001,33.906408],"type":"Point"}
+}

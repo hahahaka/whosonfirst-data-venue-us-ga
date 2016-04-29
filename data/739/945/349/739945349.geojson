@@ -1,0 +1,75 @@
+{
+  "id": 739945349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.392315,33.799707,-84.392315,33.799707",
+    "geom:latitude":33.799707,
+    "geom:longitude":-84.392315,
+    "iso:country":"US",
+    "sg:address":"1688 Peachtree St",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 866 556 3545",
+    "sg:postcode":"30309",
+    "sg:province":"GA",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85807999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xDGSG9uRaUvfiabtXfVIh_33.799707_-84.392315@1303262612"
+    },
+    "wof:country":"US",
+    "wof:created":1461921724,
+    "wof:geomhash":"f2a0abdf5507a7326ffc46b14b774a75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85807999,
+            "region_id":85688535,
+            "venue_id":739945349
+        }
+    ],
+    "wof:id":739945349,
+    "wof:lastmodified":1461921724,
+    "wof:name":"Metropolitan Shuttle",
+    "wof:parent_id":85807999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -84.392315,
+    33.799707,
+    -84.392315,
+    33.799707
+],
+  "geometry": {"coordinates":[-84.392315,33.799707],"type":"Point"}
+}

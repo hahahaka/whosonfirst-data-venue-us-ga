@@ -1,0 +1,73 @@
+{
+  "id": 723389183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.426597,31.375128,-81.426597,31.375128",
+    "geom:latitude":31.375128,
+    "geom:longitude":-81.426597,
+    "iso:country":"US",
+    "sg:address":"521 Mc Intosh Dr",
+    "sg:city":"Darien",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 437 4576",
+    "sg:postcode":"31305",
+    "sg:province":"GA",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936669,
+        102084461,
+        85805337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MekUQ72csuVadppI1x4uN_31.375128_-81.426597@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900751,
+    "wof:geomhash":"5620c6d15aace2acfc27f1f37408183c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084461,
+            "locality_id":85936669,
+            "neighbourhood_id":85805337,
+            "region_id":85688535,
+            "venue_id":723389183
+        }
+    ],
+    "wof:id":723389183,
+    "wof:lastmodified":1461900751,
+    "wof:name":"Peach State Service Station",
+    "wof:parent_id":85805337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -81.426597,
+    31.375128,
+    -81.426597,
+    31.375128
+],
+  "geometry": {"coordinates":[-81.426597,31.375128],"type":"Point"}
+}

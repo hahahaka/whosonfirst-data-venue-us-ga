@@ -1,0 +1,72 @@
+{
+  "id": 739895821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.028593,33.028525,-85.028593,33.028525",
+    "geom:latitude":33.028525,
+    "geom:longitude":-85.028593,
+    "iso:country":"US",
+    "sg:address":"115 E Cannon St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 883 1540",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"http://www.troup.k12.ga.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2w80oGVjWrdpnA9jVHk1wE_33.028525_-85.028593@1303262600"
+    },
+    "wof:country":"US",
+    "wof:created":1461919653,
+    "wof:geomhash":"7ae179a27e54e3e86f8a6ba03deb4e94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739895821
+        }
+    ],
+    "wof:id":739895821,
+    "wof:lastmodified":1461919653,
+    "wof:name":"Cannon Street Elementary School",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -85.028593,
+    33.028525,
+    -85.028593,
+    33.028525
+],
+  "geometry": {"coordinates":[-85.028593,33.028525],"type":"Point"}
+}

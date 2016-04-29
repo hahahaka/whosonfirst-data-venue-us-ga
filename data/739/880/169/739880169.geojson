@@ -1,0 +1,88 @@
+{
+  "id": 739880169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.558245,34.036767,-84.558245,34.036767",
+    "geom:latitude":34.036767,
+    "geom:longitude":-84.558245,
+    "iso:country":"US",
+    "sg:address":"270 Chastain Rd",
+    "sg:city":"Kennesaw",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 594 6080",
+    "sg:postcode":"30144",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medicine",
+        "medical",
+        "sport",
+        "therapy",
+        "physical"
+    ],
+    "sg:website":"www.resurgens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85821545,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PJ16d0NZdlILTPWMBwyDi_34.036767_-84.558245@1303262596"
+    },
+    "wof:country":"US",
+    "wof:created":1461919068,
+    "wof:geomhash":"3dd1a742a5be6b4c1571c375b0558074",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85821545,
+            "region_id":85688535,
+            "venue_id":739880169
+        }
+    ],
+    "wof:id":739880169,
+    "wof:lastmodified":1461919068,
+    "wof:name":"Resurgens Orthopaedic Group",
+    "wof:parent_id":85821545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "medical",
+        "sport",
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -84.558245,
+    34.036767,
+    -84.558245,
+    34.036767
+],
+  "geometry": {"coordinates":[-84.558245,34.036767],"type":"Point"}
+}

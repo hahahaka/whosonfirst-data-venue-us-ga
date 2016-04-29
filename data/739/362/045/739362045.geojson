@@ -1,0 +1,75 @@
+{
+  "id": 739362045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.02421,33.04289,-85.02421,33.04289",
+    "geom:latitude":33.04289,
+    "geom:longitude":-85.02421,
+    "iso:country":"US",
+    "sg:address":"101 Daughtery St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 883 6760",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44DUKAUlKi4E0zBtSgfH0V_33.042890_-85.024210@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461905850,
+    "wof:geomhash":"93d9279a241c56ce7293013c25c288af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739362045
+        }
+    ],
+    "wof:id":739362045,
+    "wof:lastmodified":1461905850,
+    "wof:name":"G & D Auto Repair",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -85.02421,
+    33.04289,
+    -85.02421,
+    33.04289
+],
+  "geometry": {"coordinates":[-85.02421,33.04289],"type":"Point"}
+}

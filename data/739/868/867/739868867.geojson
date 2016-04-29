@@ -1,0 +1,83 @@
+{
+  "id": 739868867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.041931,33.59383,-85.041931,33.59383",
+    "geom:latitude":33.59383,
+    "geom:longitude":-85.041931,
+    "iso:country":"US",
+    "sg:address":"1112 Bankhead Hwy",
+    "sg:city":"Carrollton",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 214 5409",
+    "sg:postcode":"30117",
+    "sg:province":"GA",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving"
+    ],
+    "sg:website":"http://www.suntrustbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937055,
+        102081719,
+        85829651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zRpsLbK2byFEePTwOpJG7_33.593830_-85.041931@1303262593"
+    },
+    "wof:country":"US",
+    "wof:created":1461918632,
+    "wof:geomhash":"5b20a3671bf6284e65b43ce5dd487ce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081719,
+            "locality_id":85937055,
+            "neighbourhood_id":85829651,
+            "region_id":85688535,
+            "venue_id":739868867
+        }
+    ],
+    "wof:id":739868867,
+    "wof:lastmodified":1461918632,
+    "wof:name":"SunTrust Bank",
+    "wof:parent_id":85829651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving"
+    ]
+},
+  "bbox": [
+    -85.041931,
+    33.59383,
+    -85.041931,
+    33.59383
+],
+  "geometry": {"coordinates":[-85.04193100000001,33.59383],"type":"Point"}
+}

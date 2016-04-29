@@ -1,0 +1,74 @@
+{
+  "id": 739772225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.702691,32.614769,-83.702691,32.614769",
+    "geom:latitude":32.614769,
+    "geom:longitude":-83.702691,
+    "iso:country":"US",
+    "sg:address":"4027 Watson Blvd",
+    "sg:city":"Warner Robins",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/warner-robins/70688-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 971 2123",
+    "sg:postcode":"31093",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_724zOtfmSKQ8IGjbYCElxb_32.614769_-83.702691@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914631,
+    "wof:geomhash":"8f5cca5c031efb992754d1345d95172d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":739772225
+        }
+    ],
+    "wof:id":739772225,
+    "wof:lastmodified":1461914631,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.702691,
+    32.614769,
+    -83.702691,
+    32.614769
+],
+  "geometry": {"coordinates":[-83.702691,32.614769],"type":"Point"}
+}

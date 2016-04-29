@@ -1,0 +1,90 @@
+{
+  "id": 722723901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.093802,32.077196,-81.093802,32.077196",
+    "geom:latitude":32.077196,
+    "geom:longitude":-81.093802,
+    "iso:country":"US",
+    "sg:address":"4 W Oglethorpe Ave",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 234 2401",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "wedding",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85811497,
+        85880901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6V5GTSZSNk66R9N2ARH6VP_32.077196_-81.093802@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461887416,
+    "wof:geomhash":"1f410dc1d87cca99c36fb35699870312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85811497,
+            "region_id":85688535,
+            "venue_id":722723901
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880901,
+            "region_id":85688535,
+            "venue_id":722723901
+        }
+    ],
+    "wof:id":722723901,
+    "wof:lastmodified":1461887416,
+    "wof:name":"Ward Anderson House",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wedding",
+        "supply"
+    ]
+},
+  "bbox": [
+    -81.093802,
+    32.077196,
+    -81.093802,
+    32.077196
+],
+  "geometry": {"coordinates":[-81.093802,32.077196],"type":"Point"}
+}

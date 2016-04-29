@@ -1,0 +1,71 @@
+{
+  "id": 723042299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.280393,30.826605,-83.280393,30.826605",
+    "geom:latitude":30.826605,
+    "geom:longitude":-83.280393,
+    "iso:country":"US",
+    "sg:address":"420 Twitty Ln",
+    "sg:city":"Oaklyn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 856 854 7575",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pso4x6X5FFGbv7EvFm6rA_30.826605_-83.280393@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461893861,
+    "wof:geomhash":"e2c4003562620846fe76403859a6bef2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843077,
+            "region_id":85688535,
+            "venue_id":723042299
+        }
+    ],
+    "wof:id":723042299,
+    "wof:lastmodified":1461893861,
+    "wof:name":"Rothman Animal Hospital",
+    "wof:parent_id":85843077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.280393,
+    30.826605,
+    -83.280393,
+    30.826605
+],
+  "geometry": {"coordinates":[-83.280393,30.826605],"type":"Point"}
+}

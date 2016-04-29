@@ -1,0 +1,75 @@
+{
+  "id": 722965471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.137785,34.207888,-84.137785,34.207888",
+    "geom:latitude":34.207888,
+    "geom:longitude":-84.137785,
+    "iso:country":"US",
+    "sg:address":"205 Mason St",
+    "sg:city":"Cumming",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 947 9251",
+    "sg:postcode":"30040",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automobile",
+        "testing",
+        "emission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936811,
+        102082317,
+        85842073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NteAQShfK5S0InA9zc9Fj_34.207888_-84.137785@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461892144,
+    "wof:geomhash":"ba1803f315bdf0d9bf321753d3376663",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082317,
+            "locality_id":85936811,
+            "neighbourhood_id":85842073,
+            "region_id":85688535,
+            "venue_id":722965471
+        }
+    ],
+    "wof:id":722965471,
+    "wof:lastmodified":1461892144,
+    "wof:name":"Bulldog Emissions Inc",
+    "wof:parent_id":85842073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "testing",
+        "emission"
+    ]
+},
+  "bbox": [
+    -84.137785,
+    34.207888,
+    -84.137785,
+    34.207888
+],
+  "geometry": {"coordinates":[-84.13778499999999,34.207888],"type":"Point"}
+}

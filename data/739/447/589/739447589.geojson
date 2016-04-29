@@ -1,0 +1,73 @@
+{
+  "id": 739447589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.922563,34.77352,-84.922563,34.77352",
+    "geom:latitude":34.77352,
+    "geom:longitude":-84.922563,
+    "iso:country":"US",
+    "sg:address":"120 Elrod Dr",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 217 6162",
+    "sg:postcode":"30721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fggqlum0qetoHWww4fVgc_34.773520_-84.922563@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907497,
+    "wof:geomhash":"22ee390c3ea488a863bb457a4079ec5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":739447589
+        }
+    ],
+    "wof:id":739447589,
+    "wof:lastmodified":1461907497,
+    "wof:name":"Auto Tech",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.922563,
+    34.77352,
+    -84.922563,
+    34.77352
+],
+  "geometry": {"coordinates":[-84.922563,34.77352],"type":"Point"}
+}

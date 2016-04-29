@@ -1,0 +1,71 @@
+{
+  "id": 722763363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.033553,33.856969,-84.033553,33.856969",
+    "geom:latitude":33.856969,
+    "geom:longitude":-84.033553,
+    "iso:country":"US",
+    "sg:address":"2152 Fountain Sq",
+    "sg:city":"Snellville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 982 8478",
+    "sg:postcode":"30078",
+    "sg:province":"GA",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936303,
+        102082967,
+        85857829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3d43TNDwDyuEoeolaJsBx4_33.856969_-84.033553@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888183,
+    "wof:geomhash":"c95a08a3148888013a1408c514504b37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936303,
+            "neighbourhood_id":85857829,
+            "region_id":85688535,
+            "venue_id":722763363
+        }
+    ],
+    "wof:id":722763363,
+    "wof:lastmodified":1461888183,
+    "wof:name":"USA Tutoring",
+    "wof:parent_id":85857829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -84.033553,
+    33.856969,
+    -84.033553,
+    33.856969
+],
+  "geometry": {"coordinates":[-84.033553,33.856969],"type":"Point"}
+}

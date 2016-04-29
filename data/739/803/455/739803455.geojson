@@ -1,0 +1,80 @@
+{
+  "id": 739803455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.119062,34.207021,-84.119062,34.207021",
+    "geom:latitude":34.207021,
+    "geom:longitude":-84.119062,
+    "iso:country":"US",
+    "sg:address":"1140 Turner Rd",
+    "sg:city":"Cumming",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Podiatrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 889 9888",
+    "sg:postcode":"30041",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "surgeons"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936811,
+        102082317,
+        85842073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zwHvfUuFYUDmM8ZgCd4Se_34.207021_-84.119062@1303262576"
+    },
+    "wof:country":"US",
+    "wof:created":1461915937,
+    "wof:geomhash":"5a7f06cc5867484ecc8a36033d2de2ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082317,
+            "locality_id":85936811,
+            "neighbourhood_id":85842073,
+            "region_id":85688535,
+            "venue_id":739803455
+        }
+    ],
+    "wof:id":739803455,
+    "wof:lastmodified":1461915937,
+    "wof:name":"Dr Joel Schancupp",
+    "wof:parent_id":85842073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "surgeons"
+    ]
+},
+  "bbox": [
+    -84.119062,
+    34.207021,
+    -84.119062,
+    34.207021
+],
+  "geometry": {"coordinates":[-84.119062,34.207021],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 739387715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.281541,34.708505,-85.281541,34.708505",
+    "geom:latitude":34.708505,
+    "geom:longitude":-85.281541,
+    "iso:country":"US",
+    "sg:address":"305 N Main St",
+    "sg:city":"La Fayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 638 3432",
+    "sg:postcode":"30728",
+    "sg:province":"GA",
+    "sg:tags":[
+        "truck",
+        "station",
+        "gasoline",
+        "rent",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936063,
+        102082321,
+        85830807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hzOcDOxl0RrO9lC6hsZH9_34.708505_-85.281541@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461906352,
+    "wof:geomhash":"a009384b1e08f059df0db09d4468816e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082321,
+            "locality_id":85936063,
+            "neighbourhood_id":85830807,
+            "region_id":85688535,
+            "venue_id":739387715
+        }
+    ],
+    "wof:id":739387715,
+    "wof:lastmodified":1461906352,
+    "wof:name":"U-Haul",
+    "wof:parent_id":85830807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "station",
+        "gasoline",
+        "rent",
+        "general"
+    ]
+},
+  "bbox": [
+    -85.281541,
+    34.708505,
+    -85.281541,
+    34.708505
+],
+  "geometry": {"coordinates":[-85.281541,34.708505],"type":"Point"}
+}

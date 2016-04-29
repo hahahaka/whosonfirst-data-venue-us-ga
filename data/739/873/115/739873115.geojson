@@ -1,0 +1,78 @@
+{
+  "id": 739873115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.839694,33.935822,-84.839694,33.935822",
+    "geom:latitude":33.935822,
+    "geom:longitude":-84.839694,
+    "iso:country":"US",
+    "sg:address":"504 Oscar Way",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Passenger",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 289 9308",
+    "sg:postcode":"30132",
+    "sg:province":"GA",
+    "sg:tags":[
+        "line",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936335,
+        102084665,
+        85835843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wZXvHEa6RS9gU4GsqF5R9_33.935822_-84.839694@1303262594"
+    },
+    "wof:country":"US",
+    "wof:created":1461918799,
+    "wof:geomhash":"2cb9059e46335407d3e1b5a05982bc56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "locality_id":85936335,
+            "neighbourhood_id":85835843,
+            "region_id":85688535,
+            "venue_id":739873115
+        }
+    ],
+    "wof:id":739873115,
+    "wof:lastmodified":1461918799,
+    "wof:name":"Four Way Shuttle And Limousine",
+    "wof:parent_id":85835843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "line",
+        "public"
+    ]
+},
+  "bbox": [
+    -84.839694,
+    33.935822,
+    -84.839694,
+    33.935822
+],
+  "geometry": {"coordinates":[-84.83969399999999,33.935822],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 723423101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.829608,34.054863,-84.829608,34.054863",
+    "geom:latitude":34.054863,
+    "geom:longitude":-84.829608,
+    "iso:country":"US",
+    "sg:address":"375 Ferguson Pl",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 443 2747",
+    "sg:postcode":"30132",
+    "sg:province":"GA",
+    "sg:tags":[
+        "aircraft",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85835699,
+        102084665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oYKOPJvF9H9m9GKud57q0_34.054863_-84.829608@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901422,
+    "wof:geomhash":"0b197196d7d272ec7aa57eaa9c8cffe8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "neighbourhood_id":85835699,
+            "region_id":85688535,
+            "venue_id":723423101
+        }
+    ],
+    "wof:id":723423101,
+    "wof:lastmodified":1461901422,
+    "wof:name":"Ferguson Aircraft",
+    "wof:parent_id":85835699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -84.829608,
+    34.054863,
+    -84.829608,
+    34.054863
+],
+  "geometry": {"coordinates":[-84.82960799999999,34.054863],"type":"Point"}
+}

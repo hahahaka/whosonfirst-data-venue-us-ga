@@ -1,0 +1,74 @@
+{
+  "id": 739775501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.602681,34.041877,-84.602681,34.041877",
+    "geom:latitude":34.041877,
+    "geom:longitude":-84.602681,
+    "iso:country":"US",
+    "sg:address":"3643 Cherokee St NW",
+    "sg:city":"Kennesaw",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/acworth-kennesaw/76212-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 423 9696",
+    "sg:postcode":"30144",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85821545,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CNf1iZZYH7HDdsNXOKrho_34.041591_-84.603041@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461914765,
+    "wof:geomhash":"9c02a85f5b47cdeae803c1aa4caef1ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85821545,
+            "region_id":85688535,
+            "venue_id":739775501
+        }
+    ],
+    "wof:id":739775501,
+    "wof:lastmodified":1461914765,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85821545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.602681,
+    34.041877,
+    -84.602681,
+    34.041877
+],
+  "geometry": {"coordinates":[-84.602681,34.041877],"type":"Point"}
+}

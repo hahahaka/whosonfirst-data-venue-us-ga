@@ -1,0 +1,83 @@
+{
+  "id": 739919103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.390514,33.761365,-84.390514,33.761365",
+    "geom:latitude":33.761365,
+    "geom:longitude":-84.390514,
+    "iso:country":"US",
+    "sg:address":"250 Williams St NW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 220 2700",
+    "sg:postcode":"30303",
+    "sg:province":"GA",
+    "sg:tags":[
+        "mall"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872133,
+        85807911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3F4qBzy52lzUWWtKMkOviE_33.761365_-84.390514@1303262606"
+    },
+    "wof:country":"US",
+    "wof:created":1461920554,
+    "wof:geomhash":"9ddb9cbf15d63d003464e199787141a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872133,
+            "region_id":85688535,
+            "venue_id":739919103
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85807911,
+            "region_id":85688535,
+            "venue_id":739919103
+        }
+    ],
+    "wof:id":739919103,
+    "wof:lastmodified":1461920554,
+    "wof:name":"Cousins Properties Incorporated",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mall"
+    ]
+},
+  "bbox": [
+    -84.390514,
+    33.761365,
+    -84.390514,
+    33.761365
+],
+  "geometry": {"coordinates":[-84.390514,33.761365],"type":"Point"}
+}

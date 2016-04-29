@@ -1,0 +1,72 @@
+{
+  "id": 739771303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.122659,33.5289,-82.122659,33.5289",
+    "geom:latitude":33.5289,
+    "geom:longitude":-82.122659,
+    "iso:country":"US",
+    "sg:address":"4237 Washington Rd",
+    "sg:city":"Evans",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/evans/107992-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 855 1741",
+    "sg:postcode":"30809",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5As8ZxNEPQqGdA2IG0oans_33.528900_-82.122659@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914594,
+    "wof:geomhash":"d9463b8b719097b2bc81bd18729796cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":739771303
+        }
+    ],
+    "wof:id":739771303,
+    "wof:lastmodified":1461914594,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -82.122659,
+    33.5289,
+    -82.122659,
+    33.5289
+],
+  "geometry": {"coordinates":[-82.122659,33.5289],"type":"Point"}
+}

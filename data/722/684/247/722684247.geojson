@@ -1,0 +1,71 @@
+{
+  "id": 722684247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.307175,30.879045,-83.307175,30.879045",
+    "geom:latitude":30.879045,
+    "geom:longitude":-83.307175,
+    "iso:country":"US",
+    "sg:address":"3541 N Crossing Cir",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 244 4200",
+    "sg:postcode":"31602",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85815713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2e2fJXla8wwIQbW5OJlSfy_30.879045_-83.307175@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886664,
+    "wof:geomhash":"105458d3229cc0a48a17d36d9a312b57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85815713,
+            "region_id":85688535,
+            "venue_id":722684247
+        }
+    ],
+    "wof:id":722684247,
+    "wof:lastmodified":1461886664,
+    "wof:name":"William Sadowsky",
+    "wof:parent_id":85815713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.307175,
+    30.879045,
+    -83.307175,
+    30.879045
+],
+  "geometry": {"coordinates":[-83.307175,30.879045],"type":"Point"}
+}

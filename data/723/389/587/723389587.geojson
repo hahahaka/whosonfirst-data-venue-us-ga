@@ -1,0 +1,71 @@
+{
+  "id": 723389587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.005338,33.017137,-85.005338,33.017137",
+    "geom:latitude":33.017137,
+    "geom:longitude":-85.005338,
+    "iso:country":"US",
+    "sg:address":"324 Cooley Rd",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 882 0306",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cjKlC8c0I5iTUgzgh9XLc_33.017137_-85.005338@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900760,
+    "wof:geomhash":"989b3ffb5d4c0ecfe067334f5fcbb718",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":723389587
+        }
+    ],
+    "wof:id":723389587,
+    "wof:lastmodified":1461900760,
+    "wof:name":"Cooleys Towing & Repair",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -85.005338,
+    33.017137,
+    -85.005338,
+    33.017137
+],
+  "geometry": {"coordinates":[-85.00533799999999,33.017137],"type":"Point"}
+}

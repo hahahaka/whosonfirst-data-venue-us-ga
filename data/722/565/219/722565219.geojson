@@ -1,0 +1,73 @@
+{
+  "id": 722565219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.975595,32.499525,-84.975595,32.499525",
+    "geom:latitude":32.499525,
+    "geom:longitude":-84.975595,
+    "iso:country":"US",
+    "sg:address":"3822 Hamilton Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 322 4915",
+    "sg:postcode":"31904",
+    "sg:province":"GA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85845927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dFmNTKabR88xTCR7Lh2Ot_32.499525_-84.975595@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461884319,
+    "wof:geomhash":"c04c862786cc022d848167ed36d76c5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85845927,
+            "region_id":85688535,
+            "venue_id":722565219
+        }
+    ],
+    "wof:id":722565219,
+    "wof:lastmodified":1461884319,
+    "wof:name":"C&H Automotive Repair Shop",
+    "wof:parent_id":85845927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -84.975595,
+    32.499525,
+    -84.975595,
+    32.499525
+],
+  "geometry": {"coordinates":[-84.975595,32.499525],"type":"Point"}
+}

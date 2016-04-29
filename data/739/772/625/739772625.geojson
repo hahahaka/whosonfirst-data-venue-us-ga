@@ -1,0 +1,72 @@
+{
+  "id": 739772625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.43322,31.386256,-81.43322,31.386256",
+    "geom:latitude":31.386256,
+    "geom:longitude":-81.43322,
+    "iso:country":"US",
+    "sg:address":"12 Ga Hwy 251",
+    "sg:city":"Darien",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/darien/70995-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 437 5143",
+    "sg:postcode":"31305",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818713,
+        102084461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dZl9nDk9yOVLkacDaKywd_31.386256_-81.433220@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914650,
+    "wof:geomhash":"18b9788669eb3754e61d17b05163d879",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084461,
+            "neighbourhood_id":85818713,
+            "region_id":85688535,
+            "venue_id":739772625
+        }
+    ],
+    "wof:id":739772625,
+    "wof:lastmodified":1461914650,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85818713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -81.43322,
+    31.386256,
+    -81.43322,
+    31.386256
+],
+  "geometry": {"coordinates":[-81.43322000000001,31.386256],"type":"Point"}
+}

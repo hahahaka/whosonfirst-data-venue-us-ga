@@ -1,0 +1,83 @@
+{
+  "id": 739932119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.36278,33.77381,-84.36278,33.77381",
+    "geom:latitude":33.77381,
+    "geom:longitude":-84.36278,
+    "iso:country":"US",
+    "sg:address":"752 Ponce de Leon Ave NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 946 2607",
+    "sg:postcode":"30306",
+    "sg:province":"GA",
+    "sg:tags":[
+        "lock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872131,
+        85830819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BKWUAQMBa6tQoEbeliCbr_33.773810_-84.362780@1303262609"
+    },
+    "wof:country":"US",
+    "wof:created":1461921114,
+    "wof:geomhash":"4508353ce3c72e7d3af36efbf8d161ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872131,
+            "region_id":85688535,
+            "venue_id":739932119
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85830819,
+            "region_id":85688535,
+            "venue_id":739932119
+        }
+    ],
+    "wof:id":739932119,
+    "wof:lastmodified":1461921114,
+    "wof:name":"1 & 24 By 7 Locksmith",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock"
+    ]
+},
+  "bbox": [
+    -84.36278,
+    33.77381,
+    -84.36278,
+    33.77381
+],
+  "geometry": {"coordinates":[-84.36278,33.77381],"type":"Point"}
+}

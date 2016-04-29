@@ -1,0 +1,71 @@
+{
+  "id": 723059743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.310493,30.844303,-83.310493,30.844303",
+    "geom:latitude":30.844303,
+    "geom:longitude":-83.310493,
+    "iso:country":"US",
+    "sg:address":"1814 W Gordon St",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 249 0035",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85814215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47L3fqOHEH62vgKphK2FJT_30.844303_-83.310493@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461894214,
+    "wof:geomhash":"6219b09c6fdd2671efeb5fe2ad7dcd30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85814215,
+            "region_id":85688535,
+            "venue_id":723059743
+        }
+    ],
+    "wof:id":723059743,
+    "wof:lastmodified":1461894214,
+    "wof:name":"Remerton City Fire Dept",
+    "wof:parent_id":85814215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -83.310493,
+    30.844303,
+    -83.310493,
+    30.844303
+],
+  "geometry": {"coordinates":[-83.31049299999999,30.844303],"type":"Point"}
+}

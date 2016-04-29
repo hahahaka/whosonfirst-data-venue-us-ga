@@ -1,0 +1,70 @@
+{
+  "id": 739879255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.564689,34.010012,-84.564689,34.010012",
+    "geom:latitude":34.010012,
+    "geom:longitude":-84.564689,
+    "iso:country":"US",
+    "sg:address":"501 Roberts Ct NW",
+    "sg:city":"Kennesaw",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 218 6928",
+    "sg:postcode":"30144",
+    "sg:province":"GA",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ev49ipUxKueN00vbRKxs9_34.010012_-84.564689@1303262596"
+    },
+    "wof:country":"US",
+    "wof:created":1461919032,
+    "wof:geomhash":"426b27e07b531d096c961f7ce4b7b90f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739879255
+        }
+    ],
+    "wof:id":739879255,
+    "wof:lastmodified":1461919032,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -84.564689,
+    34.010012,
+    -84.564689,
+    34.010012
+],
+  "geometry": {"coordinates":[-84.564689,34.010012],"type":"Point"}
+}

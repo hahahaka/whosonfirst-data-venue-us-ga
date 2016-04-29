@@ -1,0 +1,90 @@
+{
+  "id": 739989259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.338572,33.968581,-84.338572,33.968581",
+    "geom:latitude":33.968581,
+    "geom:longitude":-84.338572,
+    "iso:country":"US",
+    "sg:address":"5715 Roberts Dr",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 394 1456",
+    "sg:postcode":"30338",
+    "sg:province":"GA",
+    "sg:tags":[
+        "self",
+        "warehouses-public-commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85834245,
+        420560157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kTDBQHL3ZYvr9kWI6zbC9_33.968581_-84.338572@1303262624"
+    },
+    "wof:country":"US",
+    "wof:created":1461923524,
+    "wof:geomhash":"56ca35c81203cbd5b34bb9da0ccbde1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85834245,
+            "region_id":85688535,
+            "venue_id":739989259
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":420560157,
+            "region_id":85688535,
+            "venue_id":739989259
+        }
+    ],
+    "wof:id":739989259,
+    "wof:lastmodified":1461923524,
+    "wof:name":"American Furniture Pawn Stor It",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "warehouses-public-commercial"
+    ]
+},
+  "bbox": [
+    -84.338572,
+    33.968581,
+    -84.338572,
+    33.968581
+],
+  "geometry": {"coordinates":[-84.338572,33.968581],"type":"Point"}
+}

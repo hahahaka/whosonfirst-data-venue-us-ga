@@ -1,0 +1,79 @@
+{
+  "id": 739858151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.145638,33.96917,-84.145638,33.96917",
+    "geom:latitude":33.96917,
+    "geom:longitude":-84.145638,
+    "iso:country":"US",
+    "sg:address":"2570 Pleasant Hill Rd",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 456 5635",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "frozen",
+        "dessert"
+    ],
+    "sg:website":"http://www.suno-dessert.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tdHH1ewDQPtUkJNTH531Q_33.969170_-84.145638@1303262590"
+    },
+    "wof:country":"US",
+    "wof:created":1461918232,
+    "wof:geomhash":"5ad8e065bac032878d19742b4265ab0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":739858151
+        }
+    ],
+    "wof:id":739858151,
+    "wof:lastmodified":1461918232,
+    "wof:name":"Suno Dessert",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert"
+    ]
+},
+  "bbox": [
+    -84.145638,
+    33.96917,
+    -84.145638,
+    33.96917
+],
+  "geometry": {"coordinates":[-84.14563800000001,33.96917],"type":"Point"}
+}

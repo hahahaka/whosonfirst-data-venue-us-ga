@@ -1,0 +1,84 @@
+{
+  "id": 739953467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.463077,33.754962,-84.463077,33.754962",
+    "geom:latitude":33.754962,
+    "geom:longitude":-84.463077,
+    "iso:country":"US",
+    "sg:address":"71 Fairfield Pl NW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 794 0955",
+    "sg:postcode":"30314",
+    "sg:province":"GA",
+    "sg:tags":[
+        "propane",
+        "bulk",
+        "petroleum-bottled",
+        "gas-liquefied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hZ6Kaw67zxXfGAeeXnnIt_33.754962_-84.463077@1303262614"
+    },
+    "wof:country":"US",
+    "wof:created":1461922116,
+    "wof:geomhash":"a9b8d64c7b40eb987ed40693c65be16d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872143,
+            "region_id":85688535,
+            "venue_id":739953467
+        }
+    ],
+    "wof:id":739953467,
+    "wof:lastmodified":1461922116,
+    "wof:name":"Heritage Propane",
+    "wof:parent_id":85872143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "propane",
+        "bulk",
+        "petroleum-bottled",
+        "gas-liquefied"
+    ]
+},
+  "bbox": [
+    -84.463077,
+    33.754962,
+    -84.463077,
+    33.754962
+],
+  "geometry": {"coordinates":[-84.463077,33.754962],"type":"Point"}
+}

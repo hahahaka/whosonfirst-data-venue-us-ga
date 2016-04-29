@@ -1,0 +1,71 @@
+{
+  "id": 739921267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.596204,33.945703,-84.596204,33.945703",
+    "geom:latitude":33.945703,
+    "geom:longitude":-84.596204,
+    "iso:country":"US",
+    "sg:address":"2655 Dallas Mreta",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 694 6783",
+    "sg:postcode":"30303",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medicine",
+        "internal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gbOyxzRGxYwAofhqwTWee_33.945703_-84.596204@1303262606"
+    },
+    "wof:country":"US",
+    "wof:created":1461920636,
+    "wof:geomhash":"728fe041ae62506cf4a383317622bbd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739921267
+        }
+    ],
+    "wof:id":739921267,
+    "wof:lastmodified":1461920636,
+    "wof:name":"Cobb Internal Medicine",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "internal"
+    ]
+},
+  "bbox": [
+    -84.596204,
+    33.945703,
+    -84.596204,
+    33.945703
+],
+  "geometry": {"coordinates":[-84.596204,33.945703],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 723456291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.780887,34.315457,-83.780887,34.315457",
+    "geom:latitude":34.315457,
+    "geom:longitude":-83.780887,
+    "iso:country":"US",
+    "sg:address":"2216 Hamilton Rd",
+    "sg:city":"Gainesville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 532 3217",
+    "sg:postcode":"30507",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936861,
+        102083629,
+        85836659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XxgmuhBWihY0kKXJDl6At_34.315457_-83.780887@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461902057,
+    "wof:geomhash":"141fc80ac12b8d590d023cbcd4cd5bfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083629,
+            "locality_id":85936861,
+            "neighbourhood_id":85836659,
+            "region_id":85688535,
+            "venue_id":723456291
+        }
+    ],
+    "wof:id":723456291,
+    "wof:lastmodified":1461902057,
+    "wof:name":"Auto Tech Of Gainesville",
+    "wof:parent_id":85836659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.780887,
+    34.315457,
+    -83.780887,
+    34.315457
+],
+  "geometry": {"coordinates":[-83.78088700000001,34.315457],"type":"Point"}
+}

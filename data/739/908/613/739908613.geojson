@@ -1,0 +1,74 @@
+{
+  "id": 739908613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.537628,33.56794,-84.537628,33.56794",
+    "geom:latitude":33.56794,
+    "geom:longitude":-84.537628,
+    "iso:country":"US",
+    "sg:address":"4550 Jonesboro Rd",
+    "sg:city":"Union City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 306 7866",
+    "sg:postcode":"30291",
+    "sg:province":"GA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85848007,
+        102083603,
+        85937159,
+        85848001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Adnx69ahUJuHtxUtDu10Y_33.567940_-84.537628@1303262603"
+    },
+    "wof:country":"US",
+    "wof:created":1461920141,
+    "wof:geomhash":"231c846a4421d5c48b7b3f772f55c9ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85848007,
+            "region_id":85688535,
+            "venue_id":739908613
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937159,
+            "neighbourhood_id":85848001,
+            "region_id":85688535,
+            "venue_id":739908613
+        }
+    ],
+    "wof:id":739908613,
+    "wof:lastmodified":1461920141,
+    "wof:name":"Cambridge Cleaners",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.537628,
+    33.56794,
+    -84.537628,
+    33.56794
+],
+  "geometry": {"coordinates":[-84.537628,33.56794],"type":"Point"}
+}

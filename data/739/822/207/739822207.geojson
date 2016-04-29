@@ -1,0 +1,69 @@
+{
+  "id": 739822207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.605947,33.905025,-84.605947,33.905025",
+    "geom:latitude":33.905025,
+    "geom:longitude":-84.605947,
+    "iso:country":"US",
+    "sg:address":"1733 MacLand Rd SW",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 499 7021",
+    "sg:postcode":"30064",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65RBiqaz04wXdkDrWPw5qb_33.905025_-84.605947@1303262581"
+    },
+    "wof:country":"US",
+    "wof:created":1461916779,
+    "wof:geomhash":"e45391488ad60e7d85ed4fe9d613091a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":739822207
+        }
+    ],
+    "wof:id":739822207,
+    "wof:lastmodified":1461916779,
+    "wof:name":"Walgreen Drug Stores",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -84.605947,
+    33.905025,
+    -84.605947,
+    33.905025
+],
+  "geometry": {"coordinates":[-84.605947,33.905025],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 739826273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.480103,33.901501,-84.480103,33.901501",
+    "geom:latitude":33.901501,
+    "geom:longitude":-84.480103,
+    "iso:country":"US",
+    "sg:address":"2540 Windy Hill Rd SE",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 956 7827",
+    "sg:postcode":"30067",
+    "sg:province":"GA",
+    "sg:tags":[
+        "family",
+        "practice",
+        "internal",
+        "gynecologist",
+        "medicine",
+        "obstetrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818985,
+        102082313,
+        85845875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16dPD4YObEzCKn9O3dL0VT_33.901501_-84.480103@1303262582"
+    },
+    "wof:country":"US",
+    "wof:created":1461916942,
+    "wof:geomhash":"c016f1586d058efac6a0c0888604cf6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85818985,
+            "region_id":85688535,
+            "venue_id":739826273
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":739826273
+        }
+    ],
+    "wof:id":739826273,
+    "wof:lastmodified":1461916942,
+    "wof:name":"Wellstar Windy Hill",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "family",
+        "practice",
+        "internal",
+        "gynecologist",
+        "medicine",
+        "obstetrician"
+    ]
+},
+  "bbox": [
+    -84.480103,
+    33.901501,
+    -84.480103,
+    33.901501
+],
+  "geometry": {"coordinates":[-84.480103,33.901501],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 723056545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.221763,31.983423,-81.221763,31.983423",
+    "geom:latitude":31.983423,
+    "geom:longitude":-81.221763,
+    "iso:country":"US",
+    "sg:address":"2009 Grove Point Rd",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 925 3008",
+    "sg:postcode":"31419",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936939,
+        102082337,
+        85858259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WQHxb5wEaCnen9hkA58Tr_31.983423_-81.221763@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461894149,
+    "wof:geomhash":"26811ac2550a51c12cd6cf6b03d82bd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85858259,
+            "region_id":85688535,
+            "venue_id":723056545
+        }
+    ],
+    "wof:id":723056545,
+    "wof:lastmodified":1461894149,
+    "wof:name":"Southside Fire Dept",
+    "wof:parent_id":85858259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -81.221763,
+    31.983423,
+    -81.221763,
+    31.983423
+],
+  "geometry": {"coordinates":[-81.221763,31.983423],"type":"Point"}
+}

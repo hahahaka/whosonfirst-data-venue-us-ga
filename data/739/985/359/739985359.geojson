@@ -1,0 +1,88 @@
+{
+  "id": 739985359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.530273,33.761485,-84.530273,33.761485",
+    "geom:latitude":33.761485,
+    "geom:longitude":-84.530273,
+    "iso:country":"US",
+    "sg:address":"4387 Commerce Cir SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 699 0103",
+    "sg:postcode":"30336",
+    "sg:province":"GA",
+    "sg:tags":[
+        "printers-equipment",
+        "envelope",
+        "envelopes-manufacturers"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85872053,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GrMnLgiBcCUMW1eTFlDAj_33.761485_-84.530273@1303262623"
+    },
+    "wof:country":"US",
+    "wof:created":1461923364,
+    "wof:geomhash":"aad611713cbc8bb0960a27daffa77aec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85872053,
+            "region_id":85688535,
+            "venue_id":739985359
+        }
+    ],
+    "wof:id":739985359,
+    "wof:lastmodified":1461923364,
+    "wof:name":"Southeastern Envelope Inc",
+    "wof:parent_id":85872053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printers-equipment",
+        "envelope",
+        "envelopes-manufacturers"
+    ]
+},
+  "bbox": [
+    -84.530273,
+    33.761485,
+    -84.530273,
+    33.761485
+],
+  "geometry": {"coordinates":[-84.53027299999999,33.761485],"type":"Point"}
+}

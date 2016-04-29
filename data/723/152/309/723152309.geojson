@@ -1,0 +1,73 @@
+{
+  "id": 723152309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.330319,34.068569,-84.330319,34.068569",
+    "geom:latitude":34.068569,
+    "geom:longitude":-84.330319,
+    "iso:country":"US",
+    "sg:address":"1040 Taylor Oaks Dr",
+    "sg:city":"Roswell",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 663 7546",
+    "sg:postcode":"30076",
+    "sg:province":"GA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937153,
+        102083603,
+        85812681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5x9j0WaoSDdDXcox2xIxFT_34.068569_-84.330319@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896143,
+    "wof:geomhash":"cb8c0818715a997fe1920a1c1db3c9fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937153,
+            "neighbourhood_id":85812681,
+            "region_id":85688535,
+            "venue_id":723152309
+        }
+    ],
+    "wof:id":723152309,
+    "wof:lastmodified":1461896143,
+    "wof:name":"Roswell Taxi",
+    "wof:parent_id":85812681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -84.330319,
+    34.068569,
+    -84.330319,
+    34.068569
+],
+  "geometry": {"coordinates":[-84.330319,34.068569],"type":"Point"}
+}

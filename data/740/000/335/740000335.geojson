@@ -1,0 +1,89 @@
+{
+  "id": 740000335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.302168,33.897241,-84.302168,33.897241",
+    "geom:latitude":33.897241,
+    "geom:longitude":-84.302168,
+    "iso:country":"US",
+    "sg:address":"5493 Peachtree Industrial Boulevard",
+    "sg:city":"Chamblee",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 458 0696",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ],
+    "sg:website":"www.mcdonalds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936435,
+        102084539,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27hj3rqmlzXvZNmkL99q05_33.897241_-84.302168@1303262627"
+    },
+    "wof:country":"US",
+    "wof:created":1461923942,
+    "wof:geomhash":"bd8344a2cff3ca2e1a8baede1ddd8b39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":740000335
+        }
+    ],
+    "wof:id":740000335,
+    "wof:lastmodified":1461923942,
+    "wof:name":"McDonalds",
+    "wof:parent_id":85889955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -84.302168,
+    33.897241,
+    -84.302168,
+    33.897241
+],
+  "geometry": {"coordinates":[-84.30216799999999,33.897241],"type":"Point"}
+}

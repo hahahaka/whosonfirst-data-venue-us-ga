@@ -1,0 +1,85 @@
+{
+  "id": 739984615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.557297,33.745698,-84.557297,33.745698",
+    "geom:latitude":33.745698,
+    "geom:longitude":-84.557297,
+    "iso:country":"US",
+    "sg:address":"5110 Fulton Industrial Blvd SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 505 0163",
+    "sg:postcode":"30336",
+    "sg:province":"GA",
+    "sg:tags":[
+        "filters-air",
+        "filtering",
+        "filters-liquid-wholesale",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85872053,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vPOPZvMoQZOD0Gcj9wxQP_33.745698_-84.557297@1303262623"
+    },
+    "wof:country":"US",
+    "wof:created":1461923328,
+    "wof:geomhash":"46fbdcf9a647a40caab93b093b3cba57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85872053,
+            "region_id":85688535,
+            "venue_id":739984615
+        }
+    ],
+    "wof:id":739984615,
+    "wof:lastmodified":1461923328,
+    "wof:name":"Mys-Tec Sales Inc/Donaldson",
+    "wof:parent_id":85872053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "filters-air",
+        "filtering",
+        "filters-liquid-wholesale",
+        "supply"
+    ]
+},
+  "bbox": [
+    -84.557297,
+    33.745698,
+    -84.557297,
+    33.745698
+],
+  "geometry": {"coordinates":[-84.55729700000001,33.745698],"type":"Point"}
+}

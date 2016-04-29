@@ -1,0 +1,80 @@
+{
+  "id": 739929629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.372261,33.840475,-84.372261,33.840475",
+    "geom:latitude":33.840475,
+    "geom:longitude":-84.372261,
+    "iso:country":"US",
+    "sg:address":"3185 Maple Dr NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 973 2600",
+    "sg:postcode":"30305",
+    "sg:province":"GA",
+    "sg:tags":[
+        "self",
+        "warehouses-public-commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30xPKtTkh6E5jrG2pN2bGu_33.840475_-84.372261@1303262608"
+    },
+    "wof:country":"US",
+    "wof:created":1461921014,
+    "wof:geomhash":"37ec2e30b696372c8a75cb99eb747a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872063,
+            "region_id":85688535,
+            "venue_id":739929629
+        }
+    ],
+    "wof:id":739929629,
+    "wof:lastmodified":1461921014,
+    "wof:name":"Buckhead Wine Storage",
+    "wof:parent_id":85872063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "warehouses-public-commercial"
+    ]
+},
+  "bbox": [
+    -84.372261,
+    33.840475,
+    -84.372261,
+    33.840475
+],
+  "geometry": {"coordinates":[-84.37226099999999,33.840475],"type":"Point"}
+}

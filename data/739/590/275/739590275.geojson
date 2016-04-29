@@ -1,0 +1,71 @@
+{
+  "id": 739590275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.010507,33.051281,-85.010507,33.051281",
+    "geom:latitude":33.051281,
+    "geom:longitude":-85.010507,
+    "iso:country":"US",
+    "sg:address":"109 Cleveland Dr",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 882 8898",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_044vf8fMXH1B3nYC8KxJfM_33.051281_-85.010507@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461910204,
+    "wof:geomhash":"79118696b603e6ab54d8508a471b1036",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739590275
+        }
+    ],
+    "wof:id":739590275,
+    "wof:lastmodified":1461910204,
+    "wof:name":"Nations Express Towing",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -85.010507,
+    33.051281,
+    -85.010507,
+    33.051281
+],
+  "geometry": {"coordinates":[-85.010507,33.051281],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 739850559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.214098,33.984255,-84.214098,33.984255",
+    "geom:latitude":33.984255,
+    "geom:longitude":-84.214098,
+    "iso:country":"US",
+    "sg:address":"5095 Peachtree Pkwy",
+    "sg:city":"Norcross",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 866 389 2727",
+    "sg:postcode":"30092",
+    "sg:province":"GA",
+    "sg:tags":[
+        "urgent",
+        "medical",
+        "nurse"
+    ],
+    "sg:website":"www.minuteclinic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Y2DbOl1fNhnZWKU6g1J2k_33.984255_-84.214098@1303262588"
+    },
+    "wof:country":"US",
+    "wof:created":1461917937,
+    "wof:geomhash":"5630da536c2126ae548b4e6ef956930a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":739850559
+        }
+    ],
+    "wof:id":739850559,
+    "wof:lastmodified":1461917937,
+    "wof:name":"Minute Clinic",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "urgent",
+        "medical",
+        "nurse"
+    ]
+},
+  "bbox": [
+    -84.214098,
+    33.984255,
+    -84.214098,
+    33.984255
+],
+  "geometry": {"coordinates":[-84.21409800000001,33.984255],"type":"Point"}
+}

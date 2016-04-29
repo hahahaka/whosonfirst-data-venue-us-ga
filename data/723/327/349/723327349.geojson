@@ -1,0 +1,73 @@
+{
+  "id": 723327349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.20416,31.603278,-84.20416,31.603278",
+    "geom:latitude":31.603278,
+    "geom:longitude":-84.20416,
+    "iso:country":"US",
+    "sg:address":"2223 Dawson Rd",
+    "sg:city":"Albany",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 430 6363",
+    "sg:postcode":"31707",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85935991,
+        102084427,
+        85836091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00zC5jbpBFONFBExRvH7ak_31.603278_-84.204160@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899580,
+    "wof:geomhash":"1ffa39b90f7c6c345b69ebfc1d304c25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":85836091,
+            "region_id":85688535,
+            "venue_id":723327349
+        }
+    ],
+    "wof:id":723327349,
+    "wof:lastmodified":1461899580,
+    "wof:name":"Albany Police Dept",
+    "wof:parent_id":85836091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.20416,
+    31.603278,
+    -84.20416,
+    31.603278
+],
+  "geometry": {"coordinates":[-84.20416,31.603278],"type":"Point"}
+}

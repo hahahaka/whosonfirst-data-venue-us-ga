@@ -1,0 +1,79 @@
+{
+  "id": 739798959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.265246,33.690749,-84.265246,33.690749",
+    "geom:latitude":33.690749,
+    "geom:longitude":-84.265246,
+    "iso:country":"US",
+    "sg:address":"3240 Clifton Springs Rd",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 323 5858",
+    "sg:postcode":"30034",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical",
+        "service/non-profit",
+        "community"
+    ],
+    "sg:website":"www.medshare.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85816491,
+        102084539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OZPHKQbZxwz2PXQH0QujW_33.690749_-84.265246@1303262575"
+    },
+    "wof:country":"US",
+    "wof:created":1461915737,
+    "wof:geomhash":"17321e94bb3bbbac4fc11f284290d368",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739798959
+        }
+    ],
+    "wof:id":739798959,
+    "wof:lastmodified":1461915737,
+    "wof:name":"MedShare International",
+    "wof:parent_id":85816491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "service/non-profit",
+        "community"
+    ]
+},
+  "bbox": [
+    -84.265246,
+    33.690749,
+    -84.265246,
+    33.690749
+],
+  "geometry": {"coordinates":[-84.265246,33.690749],"type":"Point"}
+}

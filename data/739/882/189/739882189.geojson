@@ -1,0 +1,78 @@
+{
+  "id": 739882189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.741402,33.929001,-84.741402,33.929001",
+    "geom:latitude":33.929001,
+    "geom:longitude":-84.741402,
+    "iso:country":"US",
+    "sg:address":"3041 Marietta Hwy",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 445 7300",
+    "sg:postcode":"30157",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85835699,
+        102084665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PR3BhUaqwOpOQTrPZwVSc_33.929001_-84.741402@1303262597"
+    },
+    "wof:country":"US",
+    "wof:created":1461919137,
+    "wof:geomhash":"630e20c3ff2f85fca8ad717862e40fa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "neighbourhood_id":85835699,
+            "region_id":85688535,
+            "venue_id":739882189
+        }
+    ],
+    "wof:id":739882189,
+    "wof:lastmodified":1461919137,
+    "wof:name":"East Paulding Animal Hospital",
+    "wof:parent_id":85835699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.741402,
+    33.929001,
+    -84.741402,
+    33.929001
+],
+  "geometry": {"coordinates":[-84.74140199999999,33.929001],"type":"Point"}
+}

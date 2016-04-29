@@ -1,0 +1,71 @@
+{
+  "id": 723387373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.166182,31.576901,-84.166182,31.576901",
+    "geom:latitude":31.576901,
+    "geom:longitude":-84.166182,
+    "iso:country":"US",
+    "sg:address":"839 W Broad Ave",
+    "sg:city":"Albany",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 435 0503",
+    "sg:postcode":"31701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935991,
+        102084427,
+        85822061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZH0mYbzZoMSsTBGr5jDgg_31.576901_-84.166182@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900721,
+    "wof:geomhash":"fdbf192c5dab05f14d8bb583aa8d13c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":85822061,
+            "region_id":85688535,
+            "venue_id":723387373
+        }
+    ],
+    "wof:id":723387373,
+    "wof:lastmodified":1461900721,
+    "wof:name":"Mr Transmission",
+    "wof:parent_id":85822061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -84.166182,
+    31.576901,
+    -84.166182,
+    31.576901
+],
+  "geometry": {"coordinates":[-84.16618200000001,31.576901],"type":"Point"}
+}

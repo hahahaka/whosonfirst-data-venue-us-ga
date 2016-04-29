@@ -1,0 +1,71 @@
+{
+  "id": 723233633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.769985,33.353779,-84.769985,33.353779",
+    "geom:latitude":33.353779,
+    "geom:longitude":-84.769985,
+    "iso:country":"US",
+    "sg:address":"483 Turkey Creek Rd",
+    "sg:city":"Newnan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 254 2619",
+    "sg:postcode":"30263",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936351,
+        102084443,
+        85816617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gzxfr3kCfyr0NBo1veO2I_33.353779_-84.769985@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897782,
+    "wof:geomhash":"8aceb5ff324f7671ce47f6dacadc55b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084443,
+            "locality_id":85936351,
+            "neighbourhood_id":85816617,
+            "region_id":85688535,
+            "venue_id":723233633
+        }
+    ],
+    "wof:id":723233633,
+    "wof:lastmodified":1461897782,
+    "wof:name":"Coweta County Fire Marshall",
+    "wof:parent_id":85816617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.769985,
+    33.353779,
+    -84.769985,
+    33.353779
+],
+  "geometry": {"coordinates":[-84.76998500000001,33.353779],"type":"Point"}
+}

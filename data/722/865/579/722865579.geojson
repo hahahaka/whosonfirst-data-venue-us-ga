@@ -1,0 +1,71 @@
+{
+  "id": 722865579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.732606,32.458501,-83.732606,32.458501",
+    "geom:latitude":32.458501,
+    "geom:longitude":-83.732606,
+    "iso:country":"US",
+    "sg:address":"938 Carroll St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 988 8698",
+    "sg:postcode":"31069",
+    "sg:province":"GA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TY9EphaLvkbMXJxdd0XFa_32.458501_-83.732606@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461890119,
+    "wof:geomhash":"bded5e8dd0fda21ad9336bfdc0f9e53d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":722865579
+        }
+    ],
+    "wof:id":722865579,
+    "wof:lastmodified":1461890119,
+    "wof:name":"Quest Diagnostics Inc",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -83.732606,
+    32.458501,
+    -83.732606,
+    32.458501
+],
+  "geometry": {"coordinates":[-83.732606,32.458501],"type":"Point"}
+}

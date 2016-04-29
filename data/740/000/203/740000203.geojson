@@ -1,0 +1,79 @@
+{
+  "id": 740000203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.288607,33.896316,-84.288607,33.896316",
+    "geom:latitude":33.896316,
+    "geom:longitude":-84.288607,
+    "iso:country":"US",
+    "sg:address":"5726 New Peachtree Road",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 209 0612",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85936435,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bQMqmyFuRr0UgigmxegQg_33.896316_-84.288607@1303262627"
+    },
+    "wof:country":"US",
+    "wof:created":1461923938,
+    "wof:geomhash":"8d262877649af02d1b96542c821b00e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":740000203
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":740000203
+        }
+    ],
+    "wof:id":740000203,
+    "wof:lastmodified":1461923938,
+    "wof:name":"Auto Volvo Service Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.288607,
+    33.896316,
+    -84.288607,
+    33.896316
+],
+  "geometry": {"coordinates":[-84.288607,33.896316],"type":"Point"}
+}

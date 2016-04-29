@@ -1,0 +1,91 @@
+{
+  "id": 739985221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.528467,33.77501,-84.528467,33.77501",
+    "geom:latitude":33.77501,
+    "geom:longitude":-84.528467,
+    "iso:country":"US",
+    "sg:address":"700 Distribution Dr SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 877 747 7570",
+    "sg:postcode":"30336",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shredding-paper",
+        "record",
+        "document",
+        "destruction"
+    ],
+    "sg:website":"http://solutions.ironmountain.com/Papershred",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85872053,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UOtD02Oq2EeGlqtU8HIMk_33.775010_-84.528467@1303262623"
+    },
+    "wof:country":"US",
+    "wof:created":1461923355,
+    "wof:geomhash":"036563b30ddc13284a01631ef996c4f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85872053,
+            "region_id":85688535,
+            "venue_id":739985221
+        }
+    ],
+    "wof:id":739985221,
+    "wof:lastmodified":1461923355,
+    "wof:name":"Iron Mountain",
+    "wof:parent_id":85872053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shredding-paper",
+        "record",
+        "document",
+        "destruction"
+    ]
+},
+  "bbox": [
+    -84.528467,
+    33.77501,
+    -84.528467,
+    33.77501
+],
+  "geometry": {"coordinates":[-84.52846700000001,33.77501],"type":"Point"}
+}

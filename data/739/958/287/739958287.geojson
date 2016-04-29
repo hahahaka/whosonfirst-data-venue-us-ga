@@ -1,0 +1,76 @@
+{
+  "id": 739958287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.286957,33.747,-84.286957,33.747",
+    "geom:latitude":33.747,
+    "geom:longitude":-84.286957,
+    "iso:country":"US",
+    "sg:address":"3024 Memorial Drive SE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 378 2277",
+    "sg:postcode":"30317",
+    "sg:province":"GA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937245,
+        102084539,
+        85816501,
+        85816491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0D6QM7a0JFVng3NPBWrXUv_33.747000_-84.286957@1303262616"
+    },
+    "wof:country":"US",
+    "wof:created":1461922305,
+    "wof:geomhash":"07c66d86dbfc283c350e9c20e3ea49ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937245,
+            "neighbourhood_id":85816501,
+            "region_id":85688535,
+            "venue_id":739958287
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739958287
+        }
+    ],
+    "wof:id":739958287,
+    "wof:lastmodified":1461922305,
+    "wof:name":"Lesal Auto Sales",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.286957,
+    33.747,
+    -84.286957,
+    33.747
+],
+  "geometry": {"coordinates":[-84.286957,33.747],"type":"Point"}
+}

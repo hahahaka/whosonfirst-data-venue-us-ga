@@ -1,0 +1,85 @@
+{
+  "id": 739997099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.238937,33.90509,-84.238937,33.90509",
+    "geom:latitude":33.90509,
+    "geom:longitude":-84.238937,
+    "iso:country":"US",
+    "sg:address":"4280 Northeast Expy",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 454 3200",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "sg:tags":[
+        "dog",
+        "cat",
+        "furnishing",
+        "foods-wholesale",
+        "store",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.gimborn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cHt4Cbp9cz23z89aI7KEo_33.905090_-84.238937@1303262626"
+    },
+    "wof:country":"US",
+    "wof:created":1461923818,
+    "wof:geomhash":"8c542e73d15b3bd6bca1229f220c810b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":739997099
+        }
+    ],
+    "wof:id":739997099,
+    "wof:lastmodified":1461923818,
+    "wof:name":"Gimborn Us",
+    "wof:parent_id":85889941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dog",
+        "cat",
+        "furnishing",
+        "foods-wholesale",
+        "store",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -84.238937,
+    33.90509,
+    -84.238937,
+    33.90509
+],
+  "geometry": {"coordinates":[-84.23893700000001,33.90509],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 739827529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.483317,33.903608,-84.483317,33.903608",
+    "geom:latitude":33.903608,
+    "geom:longitude":-84.483317,
+    "iso:country":"US",
+    "sg:address":"2359 Windy Hill Rd SE Ste 200",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Ethnic Foods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 226 0300",
+    "sg:postcode":"30067",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shop",
+        "espresso"
+    ],
+    "sg:website":"www.neretvamarket.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818985,
+        102082313,
+        85845875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KJwkcoVrIvBvfnz4gS9on_33.903608_-84.483317@1303262582"
+    },
+    "wof:country":"US",
+    "wof:created":1461916986,
+    "wof:geomhash":"b82e296f3263aa64547580c980d8d5cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85818985,
+            "region_id":85688535,
+            "venue_id":739827529
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":739827529
+        }
+    ],
+    "wof:id":739827529,
+    "wof:lastmodified":1461916986,
+    "wof:name":"Neretva",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -84.483317,
+    33.903608,
+    -84.483317,
+    33.903608
+],
+  "geometry": {"coordinates":[-84.483317,33.903608],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 740040025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.9621,34.792858,-84.9621,34.792858",
+    "geom:latitude":34.792858,
+    "geom:longitude":-84.9621,
+    "iso:country":"US",
+    "sg:address":"1247 Cleveland Hwy",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 278 1994",
+    "sg:postcode":"30721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shop",
+        "american",
+        "sandwich"
+    ],
+    "sg:website":"http://www.arbys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qNW8JbvOIxM6AbzhjTM1e_34.792858_-84.962100@1303262637"
+    },
+    "wof:country":"US",
+    "wof:created":1461925605,
+    "wof:geomhash":"26c6df7ed4338b718f2a772c02a70ef5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":740040025
+        }
+    ],
+    "wof:id":740040025,
+    "wof:lastmodified":1461925605,
+    "wof:name":"Arby's",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.9621,
+    34.792858,
+    -84.9621,
+    34.792858
+],
+  "geometry": {"coordinates":[-84.96210000000001,34.792858],"type":"Point"}
+}

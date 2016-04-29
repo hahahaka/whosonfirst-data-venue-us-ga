@@ -1,0 +1,88 @@
+{
+  "id": 739878625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.602943,34.041592,-84.602943,34.041592",
+    "geom:latitude":34.041592,
+    "geom:longitude":-84.602943,
+    "iso:country":"US",
+    "sg:address":"3600 Cherokee St NW",
+    "sg:city":"Kennesaw",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 401 8595",
+    "sg:postcode":"30144",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shop",
+        "espresso",
+        "bakers-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85821545,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IUyCC2noorJ24Op45RpX8_34.041592_-84.602943@1303262596"
+    },
+    "wof:country":"US",
+    "wof:created":1461919010,
+    "wof:geomhash":"fc72c90feff5230073912b6a9b232c6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85821545,
+            "region_id":85688535,
+            "venue_id":739878625
+        }
+    ],
+    "wof:id":739878625,
+    "wof:lastmodified":1461919010,
+    "wof:name":"Banbou Restaurant and Bakery",
+    "wof:parent_id":85821545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "espresso",
+        "bakers-wholesale"
+    ]
+},
+  "bbox": [
+    -84.602943,
+    34.041592,
+    -84.602943,
+    34.041592
+],
+  "geometry": {"coordinates":[-84.602943,34.041592],"type":"Point"}
+}

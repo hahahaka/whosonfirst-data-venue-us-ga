@@ -1,0 +1,75 @@
+{
+  "id": 739878189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.572465,34.036327,-84.572465,34.036327",
+    "geom:latitude":34.036327,
+    "geom:longitude":-84.572465,
+    "iso:country":"US",
+    "sg:address":"750 Townpark Ln NW",
+    "sg:city":"Kennesaw",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 514 5566",
+    "sg:postcode":"30144",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical",
+        "surgical",
+        "hospitalization",
+        "plan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85821545,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cmmFmca6NvW0he4iIbfy5_34.036327_-84.572465@1303262595"
+    },
+    "wof:country":"US",
+    "wof:created":1461918995,
+    "wof:geomhash":"3f9a7034ca70c504e24a0e1e9ec5c28a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85821545,
+            "region_id":85688535,
+            "venue_id":739878189
+        }
+    ],
+    "wof:id":739878189,
+    "wof:lastmodified":1461918995,
+    "wof:name":"Kaiser Foundation Health Plan",
+    "wof:parent_id":85821545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "surgical",
+        "hospitalization",
+        "plan"
+    ]
+},
+  "bbox": [
+    -84.572465,
+    34.036327,
+    -84.572465,
+    34.036327
+],
+  "geometry": {"coordinates":[-84.57246499999999,34.036327],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 740034123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.387687,33.918865,-83.387687,33.918865",
+    "geom:latitude":33.918865,
+    "geom:longitude":-83.387687,
+    "iso:country":"US",
+    "sg:address":"148 Old Will Hunter Rd",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 355 9981",
+    "sg:postcode":"30606",
+    "sg:province":"GA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936177,
+        102081713,
+        85821047,
+        420517651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xAvy2IqDU13PasiDVwYxH_33.918865_-83.387687@1303262636"
+    },
+    "wof:country":"US",
+    "wof:created":1461925332,
+    "wof:geomhash":"153a16e4c8ef80273a6e4fd9ede84f14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081713,
+            "locality_id":85936177,
+            "neighbourhood_id":85821047,
+            "region_id":85688535,
+            "venue_id":740034123
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081713,
+            "locality_id":85936177,
+            "neighbourhood_id":420517651,
+            "region_id":85688535,
+            "venue_id":740034123
+        }
+    ],
+    "wof:id":740034123,
+    "wof:lastmodified":1461925332,
+    "wof:name":"Power Properties",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.387687,
+    33.918865,
+    -83.387687,
+    33.918865
+],
+  "geometry": {"coordinates":[-83.387687,33.918865],"type":"Point"}
+}

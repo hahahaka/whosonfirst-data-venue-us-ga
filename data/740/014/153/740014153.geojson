@@ -1,0 +1,76 @@
+{
+  "id": 740014153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.499551,33.595986,-84.499551,33.595986",
+    "geom:latitude":33.595986,
+    "geom:longitude":-84.499551,
+    "iso:country":"US",
+    "sg:address":"3610 Royal South Pkwy",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 209 8426",
+    "sg:postcode":"30349",
+    "sg:province":"GA",
+    "sg:tags":[
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85848007,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EtN6mIenqtkdB5kzzzb9z_33.595986_-84.499551@1303262630"
+    },
+    "wof:country":"US",
+    "wof:created":1461924471,
+    "wof:geomhash":"7ea9fe2427be8eef24ade4abb6c3203e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85848007,
+            "region_id":85688535,
+            "venue_id":740014153
+        }
+    ],
+    "wof:id":740014153,
+    "wof:lastmodified":1461924471,
+    "wof:name":"Transportation Concepts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.499551,
+    33.595986,
+    -84.499551,
+    33.595986
+],
+  "geometry": {"coordinates":[-84.499551,33.595986],"type":"Point"}
+}

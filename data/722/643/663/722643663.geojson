@@ -1,0 +1,71 @@
+{
+  "id": 722643663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.229453,31.974761,-81.229453,31.974761",
+    "geom:latitude":31.974761,
+    "geom:longitude":-81.229453,
+    "iso:country":"US",
+    "sg:address":"12 Barons Way",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 844 2626",
+    "sg:postcode":"31419",
+    "sg:province":"GA",
+    "sg:tags":[
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936939,
+        102082337,
+        85858259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61urAeW5fk2rWzMT4k6Ss5_31.974761_-81.229453@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461885905,
+    "wof:geomhash":"e5d5ca90d78ec839438965f32b4e432e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85858259,
+            "region_id":85688535,
+            "venue_id":722643663
+        }
+    ],
+    "wof:id":722643663,
+    "wof:lastmodified":1461885905,
+    "wof:name":"American Eagle Taxi",
+    "wof:parent_id":85858259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -81.229453,
+    31.974761,
+    -81.229453,
+    31.974761
+],
+  "geometry": {"coordinates":[-81.22945300000001,31.974761],"type":"Point"}
+}

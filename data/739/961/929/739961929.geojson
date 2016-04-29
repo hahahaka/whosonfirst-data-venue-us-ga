@@ -1,0 +1,84 @@
+{
+  "id": 739961929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.392045,33.786717,-84.392045,33.786717",
+    "geom:latitude":33.786717,
+    "geom:longitude":-84.392045,
+    "iso:country":"US",
+    "sg:address":"151 14th St NW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 876 2005",
+    "sg:postcode":"30318",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger"
+    ],
+    "sg:website":"www.burgerjoes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85889937,
+        85866909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76KELCYy0sTX1KtTLU8Nzk_33.786717_-84.392045@1303262617"
+    },
+    "wof:country":"US",
+    "wof:created":1461922440,
+    "wof:geomhash":"df7b4d5d4cdcb73904199a928e8ee6da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85889937,
+            "region_id":85688535,
+            "venue_id":739961929
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85866909,
+            "region_id":85688535,
+            "venue_id":739961929
+        }
+    ],
+    "wof:id":739961929,
+    "wof:lastmodified":1461922440,
+    "wof:name":"Burger Joes",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger"
+    ]
+},
+  "bbox": [
+    -84.392045,
+    33.786717,
+    -84.392045,
+    33.786717
+],
+  "geometry": {"coordinates":[-84.392045,33.786717],"type":"Point"}
+}

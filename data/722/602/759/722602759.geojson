@@ -1,0 +1,71 @@
+{
+  "id": 722602759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.757651,32.480429,-83.757651,32.480429",
+    "geom:latitude":32.480429,
+    "geom:longitude":-83.757651,
+    "iso:country":"US",
+    "sg:address":"2032 US Hwy 341",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 987 1514",
+    "sg:postcode":"31069",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Hhs81DHZQ05eAoWV2sEdV_32.480429_-83.757651@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461885041,
+    "wof:geomhash":"af0b98b8ece3e1385fed48e4cb6c0c45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":722602759
+        }
+    ],
+    "wof:id":722602759,
+    "wof:lastmodified":1461885041,
+    "wof:name":"Smith Animal Hospital",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.757651,
+    32.480429,
+    -83.757651,
+    32.480429
+],
+  "geometry": {"coordinates":[-83.757651,32.480429],"type":"Point"}
+}

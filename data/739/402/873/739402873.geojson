@@ -1,0 +1,71 @@
+{
+  "id": 739402873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.101208,31.983021,-81.101208,31.983021",
+    "geom:latitude":31.983021,
+    "geom:longitude":-81.101208,
+    "iso:country":"US",
+    "sg:address":"3 Patron Ct",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 443 0127",
+    "sg:postcode":"31406",
+    "sg:province":"GA",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85832945,
+        102082337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dBHwlUo0D0sJoDbP2e9Al_31.983021_-81.101208@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461906632,
+    "wof:geomhash":"1809240e3595a53798f2b4f48ad3c098",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "neighbourhood_id":85832945,
+            "region_id":85688535,
+            "venue_id":739402873
+        }
+    ],
+    "wof:id":739402873,
+    "wof:lastmodified":1461906632,
+    "wof:name":"ABC Waste",
+    "wof:parent_id":85832945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -81.101208,
+    31.983021,
+    -81.101208,
+    31.983021
+],
+  "geometry": {"coordinates":[-81.101208,31.983021],"type":"Point"}
+}

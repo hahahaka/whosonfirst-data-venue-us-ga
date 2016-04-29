@@ -1,0 +1,78 @@
+{
+  "id": 740038701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.934616,34.538065,-84.934616,34.538065",
+    "geom:latitude":34.538065,
+    "geom:longitude":-84.934616,
+    "iso:country":"US",
+    "sg:address":"5452 Old Dalton Rd NE",
+    "sg:city":"Calhoun",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 295 4550",
+    "sg:postcode":"30701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85836757,
+        102084679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vuXv9Ygj0zOJAg1HQO8y1_34.538065_-84.934616@1303262637"
+    },
+    "wof:country":"US",
+    "wof:created":1461925519,
+    "wof:geomhash":"1f3b53f562c274990a1767c066ccfd91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084679,
+            "neighbourhood_id":85836757,
+            "region_id":85688535,
+            "venue_id":740038701
+        }
+    ],
+    "wof:id":740038701,
+    "wof:lastmodified":1461925519,
+    "wof:name":"Reynolds Trucking And Transportation, Inc.",
+    "wof:parent_id":85836757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.934616,
+    34.538065,
+    -84.934616,
+    34.538065
+],
+  "geometry": {"coordinates":[-84.93461600000001,34.538065],"type":"Point"}
+}

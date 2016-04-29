@@ -1,0 +1,72 @@
+{
+  "id": 739767147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.989523,33.040995,-84.989523,33.040995",
+    "geom:latitude":33.040995,
+    "geom:longitude":-84.989523,
+    "iso:country":"US",
+    "sg:address":"1468 Lafayette Pkwy",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/lagrange/89545-moes-southwest-grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 882 5820",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lDje7eBVPb42eDc7nj891_33.040995_-84.989523@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914426,
+    "wof:geomhash":"7ee958fba4c01fffb23bc1cca766ffbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739767147
+        }
+    ],
+    "wof:id":739767147,
+    "wof:lastmodified":1461914426,
+    "wof:name":"Moe's Southwest Grill",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -84.989523,
+    33.040995,
+    -84.989523,
+    33.040995
+],
+  "geometry": {"coordinates":[-84.98952300000001,33.040995],"type":"Point"}
+}

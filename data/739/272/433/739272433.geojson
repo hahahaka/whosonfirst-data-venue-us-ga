@@ -1,0 +1,75 @@
+{
+  "id": 739272433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.990364,30.825546,-83.990364,30.825546",
+    "geom:latitude":30.825546,
+    "geom:longitude":-83.990364,
+    "iso:country":"US",
+    "sg:address":"1038 W Jackson St",
+    "sg:city":"Thomasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 226 9900",
+    "sg:postcode":"31792",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85852137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60sDMCyBZGzmmnnmH4YxuI_30.825546_-83.990364@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461903976,
+    "wof:geomhash":"bed4304aef7e37017dcce3c1901a8052",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85852137,
+            "region_id":85688535,
+            "venue_id":739272433
+        }
+    ],
+    "wof:id":739272433,
+    "wof:lastmodified":1461903976,
+    "wof:name":"Williams Automotive Inc",
+    "wof:parent_id":85852137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -83.990364,
+    30.825546,
+    -83.990364,
+    30.825546
+],
+  "geometry": {"coordinates":[-83.990364,30.825546],"type":"Point"}
+}

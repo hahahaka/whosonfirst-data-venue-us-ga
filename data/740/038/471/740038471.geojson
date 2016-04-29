@@ -1,0 +1,91 @@
+{
+  "id": 740038471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.952469,34.500751,-84.952469,34.500751",
+    "geom:latitude":34.500751,
+    "geom:longitude":-84.952469,
+    "iso:country":"US",
+    "sg:address":"300 S Park Ave",
+    "sg:city":"Calhoun",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 629 1768",
+    "sg:postcode":"30701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "cleaner",
+        "supply",
+        "house",
+        "contractor",
+        "cleaning-industrial",
+        "steam"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936609,
+        102084679,
+        85817247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41HG9LTtCIyLJTkaeCDfra_34.500751_-84.952469@1303262637"
+    },
+    "wof:country":"US",
+    "wof:created":1461925506,
+    "wof:geomhash":"1b252b7153eba905017626341b04c389",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084679,
+            "locality_id":85936609,
+            "neighbourhood_id":85817247,
+            "region_id":85688535,
+            "venue_id":740038471
+        }
+    ],
+    "wof:id":740038471,
+    "wof:lastmodified":1461925506,
+    "wof:name":"B C E Cleaning Systems",
+    "wof:parent_id":85817247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "supply",
+        "house",
+        "contractor",
+        "cleaning-industrial",
+        "steam"
+    ]
+},
+  "bbox": [
+    -84.952469,
+    34.500751,
+    -84.952469,
+    34.500751
+],
+  "geometry": {"coordinates":[-84.95246899999999,34.500751],"type":"Point"}
+}

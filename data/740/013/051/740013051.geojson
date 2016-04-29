@@ -1,0 +1,90 @@
+{
+  "id": 740013051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.498091,33.60273,-84.498091,33.60273",
+    "geom:latitude":33.60273,
+    "geom:longitude":-84.498091,
+    "iso:country":"US",
+    "sg:address":"5589 Sable Way",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 822 5201",
+    "sg:postcode":"30349",
+    "sg:province":"GA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937167,
+        102083603,
+        420517909,
+        85848007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XTSoxHNawSTFFH7fCWriE_33.602730_-84.498091@1303262630"
+    },
+    "wof:country":"US",
+    "wof:created":1461924435,
+    "wof:geomhash":"871144fe8edba77c77579e608446787d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937167,
+            "neighbourhood_id":420517909,
+            "region_id":85688535,
+            "venue_id":740013051
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85848007,
+            "region_id":85688535,
+            "venue_id":740013051
+        }
+    ],
+    "wof:id":740013051,
+    "wof:lastmodified":1461924435,
+    "wof:name":"Kbm Trucking Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.498091,
+    33.60273,
+    -84.498091,
+    33.60273
+],
+  "geometry": {"coordinates":[-84.498091,33.60273],"type":"Point"}
+}

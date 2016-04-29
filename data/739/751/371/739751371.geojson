@@ -1,0 +1,78 @@
+{
+  "id": 739751371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.326168,32.888809,-84.326168,32.888809",
+    "geom:latitude":32.888809,
+    "geom:longitude":-84.326168,
+    "iso:country":"US",
+    "sg:address":"103 E Thompson St",
+    "sg:city":"Thomaston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 647 9633",
+    "sg:postcode":"30286",
+    "sg:province":"GA",
+    "sg:tags":[
+        "mail",
+        "postal",
+        "u",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936343,
+        102084425,
+        85816847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kCPq4F6nzeX2no06sbrML_32.888880_-84.326167@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461913759,
+    "wof:geomhash":"6d866a7319405564905d011c8f6f99ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084425,
+            "locality_id":85936343,
+            "neighbourhood_id":85816847,
+            "region_id":85688535,
+            "venue_id":739751371
+        }
+    ],
+    "wof:id":739751371,
+    "wof:lastmodified":1461913759,
+    "wof:name":"Us Post Office",
+    "wof:parent_id":85816847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "postal",
+        "u",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -84.326168,
+    32.888809,
+    -84.326168,
+    32.888809
+],
+  "geometry": {"coordinates":[-84.326168,32.888809],"type":"Point"}
+}

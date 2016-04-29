@@ -1,0 +1,73 @@
+{
+  "id": 723304185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.222419,33.973464,-84.222419,33.973464",
+    "geom:latitude":33.973464,
+    "geom:longitude":-84.222419,
+    "iso:country":"US",
+    "sg:address":"5335 Triangle Pkwy NW",
+    "sg:city":"Norcross",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 417 2000",
+    "sg:postcode":"30092",
+    "sg:province":"GA",
+    "sg:tags":[
+        "delivery",
+        "parcel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JJ9WCG6dlhod8N4wevvSA_33.973464_-84.222419@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899139,
+    "wof:geomhash":"4472b71c9c3b7ae8493597342ed6e924",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":723304185
+        }
+    ],
+    "wof:id":723304185,
+    "wof:lastmodified":1461899139,
+    "wof:name":"UPS",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "parcel"
+    ]
+},
+  "bbox": [
+    -84.222419,
+    33.973464,
+    -84.222419,
+    33.973464
+],
+  "geometry": {"coordinates":[-84.222419,33.973464],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 723312147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.032668,33.840338,-84.032668,33.840338",
+    "geom:latitude":33.840338,
+    "geom:longitude":-84.032668,
+    "iso:country":"US",
+    "sg:address":"2495 Highpoint Rd",
+    "sg:city":"Snellville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 985 0898",
+    "sg:postcode":"30078",
+    "sg:province":"GA",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936303,
+        102082967,
+        85857829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06pvz7x5yUK1oIk45gYZg7_33.840338_-84.032668@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899304,
+    "wof:geomhash":"ff1427d8fcb79907350428f295883ad4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936303,
+            "neighbourhood_id":85857829,
+            "region_id":85688535,
+            "venue_id":723312147
+        }
+    ],
+    "wof:id":723312147,
+    "wof:lastmodified":1461899304,
+    "wof:name":"Fresh Coin Laundry",
+    "wof:parent_id":85857829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -84.032668,
+    33.840338,
+    -84.032668,
+    33.840338
+],
+  "geometry": {"coordinates":[-84.032668,33.840338],"type":"Point"}
+}

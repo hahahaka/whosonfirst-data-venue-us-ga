@@ -1,0 +1,71 @@
+{
+  "id": 723134059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.847174,33.880715,-84.847174,33.880715",
+    "geom:latitude":33.880715,
+    "geom:longitude":-84.847174,
+    "iso:country":"US",
+    "sg:address":"65 Brookside Ln",
+    "sg:city":"Dallas",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 505 3640",
+    "sg:postcode":"30157",
+    "sg:province":"GA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936335,
+        102084665,
+        85835843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5e8GnmNSbHxkJhaZG4HuZA_33.880715_-84.847174@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461895777,
+    "wof:geomhash":"35e59a11f3e461b740de241bd3ca5bdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084665,
+            "locality_id":85936335,
+            "neighbourhood_id":85835843,
+            "region_id":85688535,
+            "venue_id":723134059
+        }
+    ],
+    "wof:id":723134059,
+    "wof:lastmodified":1461895777,
+    "wof:name":"United Home Cleaning",
+    "wof:parent_id":85835843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -84.847174,
+    33.880715,
+    -84.847174,
+    33.880715
+],
+  "geometry": {"coordinates":[-84.847174,33.880715],"type":"Point"}
+}

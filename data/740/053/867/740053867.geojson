@@ -1,0 +1,80 @@
+{
+  "id": 740053867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.189992,32.972886,-84.189992,32.972886",
+    "geom:latitude":32.972886,
+    "geom:longitude":-84.189992,
+    "iso:country":"US",
+    "sg:address":"73 Dawson Rd",
+    "sg:city":"Yatesville",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 647 3787",
+    "sg:postcode":"31097",
+    "sg:province":"GA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936343,
+        102084425,
+        85816847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gpwniCYmKx1ZmcaPrwwNo_32.972886_-84.189992@1303262640"
+    },
+    "wof:country":"US",
+    "wof:created":1461926272,
+    "wof:geomhash":"89afdb8145c1975caa61a6b8856d94f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084425,
+            "locality_id":85936343,
+            "neighbourhood_id":85816847,
+            "region_id":85688535,
+            "venue_id":740053867
+        }
+    ],
+    "wof:id":740053867,
+    "wof:lastmodified":1461926272,
+    "wof:name":"Harrell Trucking Company Inc",
+    "wof:parent_id":85816847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.189992,
+    32.972886,
+    -84.189992,
+    32.972886
+],
+  "geometry": {"coordinates":[-84.189992,32.972886],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 723301763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.300489,30.821163,-83.300489,30.821163",
+    "geom:latitude":30.821163,
+    "geom:longitude":-83.300489,
+    "iso:country":"US",
+    "sg:address":"1706 W Savannah Ave",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 244 6791",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06AnNOU3YP65DZos41JCKI_30.821163_-83.300489@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899091,
+    "wof:geomhash":"725686ab6054c51987fa626bef7cd50a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843241,
+            "region_id":85688535,
+            "venue_id":723301763
+        }
+    ],
+    "wof:id":723301763,
+    "wof:lastmodified":1461899091,
+    "wof:name":"Williams Garage",
+    "wof:parent_id":85843241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -83.300489,
+    30.821163,
+    -83.300489,
+    30.821163
+],
+  "geometry": {"coordinates":[-83.300489,30.821163],"type":"Point"}
+}

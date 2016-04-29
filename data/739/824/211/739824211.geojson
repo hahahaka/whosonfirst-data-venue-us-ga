@@ -1,0 +1,69 @@
+{
+  "id": 739824211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.521301,34.0658,-84.521301,34.0658",
+    "geom:latitude":34.0658,
+    "geom:longitude":-84.521301,
+    "iso:country":"US",
+    "sg:address":"4705 Canton Rd",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 592 2010",
+    "sg:postcode":"30066",
+    "sg:province":"GA",
+    "sg:tags":[
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85858509,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IXuRMppH6D2COWB1qlQhO_34.065800_-84.521301@1303262581"
+    },
+    "wof:country":"US",
+    "wof:created":1461916863,
+    "wof:geomhash":"db5258aa89a1a9b3a4fd8273f7432469",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85858509,
+            "region_id":85688535,
+            "venue_id":739824211
+        }
+    ],
+    "wof:id":739824211,
+    "wof:lastmodified":1461916863,
+    "wof:name":"Nations Car Rental",
+    "wof:parent_id":85858509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -84.521301,
+    34.0658,
+    -84.521301,
+    34.0658
+],
+  "geometry": {"coordinates":[-84.52130099999999,34.0658],"type":"Point"}
+}

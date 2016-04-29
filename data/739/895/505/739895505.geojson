@@ -1,0 +1,78 @@
+{
+  "id": 739895505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.031147,33.038588,-85.031147,33.038588",
+    "geom:latitude":33.038588,
+    "geom:longitude":-85.031147,
+    "iso:country":"US",
+    "sg:address":"121 Main St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 845 8606",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "brew",
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78NT6YxnWRssUpfbmE6Nq9_33.038588_-85.031147@1303262600"
+    },
+    "wof:country":"US",
+    "wof:created":1461919642,
+    "wof:geomhash":"575fa6a1458e91d88c336a4d76e6ef7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739895505
+        }
+    ],
+    "wof:id":739895505,
+    "wof:lastmodified":1461919642,
+    "wof:name":"The Lazy Peach",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brew",
+        "tavern"
+    ]
+},
+  "bbox": [
+    -85.031147,
+    33.038588,
+    -85.031147,
+    33.038588
+],
+  "geometry": {"coordinates":[-85.031147,33.038588],"type":"Point"}
+}

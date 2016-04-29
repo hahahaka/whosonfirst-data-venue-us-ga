@@ -1,0 +1,82 @@
+{
+  "id": 722558371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.270489,33.905569,-84.270489,33.905569",
+    "geom:latitude":33.905569,
+    "geom:longitude":-84.270489,
+    "iso:country":"US",
+    "sg:address":"5677 Buford Hwy NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 452 8857",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67NhsAqoLkcXmX9QfxSNAL_33.905569_-84.270489@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461884175,
+    "wof:geomhash":"e5b92c9ca248e52d020aef5d84308f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":722558371
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":722558371
+        }
+    ],
+    "wof:id":722558371,
+    "wof:lastmodified":1461884175,
+    "wof:name":"KFC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -84.270489,
+    33.905569,
+    -84.270489,
+    33.905569
+],
+  "geometry": {"coordinates":[-84.270489,33.905569],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 739843225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.513199,33.880901,-84.513199,33.880901",
+    "geom:latitude":33.880901,
+    "geom:longitude":-84.513199,
+    "iso:country":"US",
+    "sg:address":"2994 Atlanta Rd SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 435 2178",
+    "sg:postcode":"30080",
+    "sg:province":"GA",
+    "sg:tags":[
+        "supply",
+        "photo",
+        "aid",
+        "finishing",
+        "drugstore",
+        "first"
+    ],
+    "sg:website":"www.cvs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jbt5jTl3FF36Dvp7iytQa_33.880901_-84.513199@1303262586"
+    },
+    "wof:country":"US",
+    "wof:created":1461917620,
+    "wof:geomhash":"f151c320a51b2c371b3ca0df1a244f00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":739843225
+        }
+    ],
+    "wof:id":739843225,
+    "wof:lastmodified":1461917620,
+    "wof:name":"Cvs Pharmacy",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "photo",
+        "aid",
+        "finishing",
+        "drugstore",
+        "first"
+    ]
+},
+  "bbox": [
+    -84.513199,
+    33.880901,
+    -84.513199,
+    33.880901
+],
+  "geometry": {"coordinates":[-84.513199,33.880901],"type":"Point"}
+}

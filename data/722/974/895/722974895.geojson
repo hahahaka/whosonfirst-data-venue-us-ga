@@ -1,0 +1,73 @@
+{
+  "id": 722974895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.116651,33.5571,-82.116651,33.5571",
+    "geom:latitude":33.5571,
+    "geom:longitude":-82.116651,
+    "iso:country":"US",
+    "sg:address":"786 Industrial Park Dr",
+    "sg:city":"Evans",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 364 0335",
+    "sg:postcode":"30809",
+    "sg:province":"GA",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0doKtNtgzOL3bQakeZAJbJ_33.557100_-82.116651@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461892351,
+    "wof:geomhash":"657af7e437035d41420e30ac9b67fefd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":722974895
+        }
+    ],
+    "wof:id":722974895,
+    "wof:lastmodified":1461892351,
+    "wof:name":"Trash It LLC",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -82.116651,
+    33.5571,
+    -82.116651,
+    33.5571
+],
+  "geometry": {"coordinates":[-82.116651,33.5571],"type":"Point"}
+}

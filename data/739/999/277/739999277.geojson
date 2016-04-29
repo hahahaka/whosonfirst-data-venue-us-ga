@@ -1,0 +1,93 @@
+{
+  "id": 739999277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.290848,33.905182,-84.290848,33.905182",
+    "geom:latitude":33.905182,
+    "geom:longitude":-84.290848,
+    "iso:country":"US",
+    "sg:address":"2375 John Glenn Dr",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 205 1386",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "marketing",
+        "program",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85936435,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qBNlusc97UfLfbeNZzSQA_33.905182_-84.290848@1303262627"
+    },
+    "wof:country":"US",
+    "wof:created":1461923902,
+    "wof:geomhash":"7afa1eda1cbd1ed873b1590a5dba5932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":739999277
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":739999277
+        }
+    ],
+    "wof:id":739999277,
+    "wof:lastmodified":1461923902,
+    "wof:name":"Team Marketing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marketing",
+        "program",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -84.290848,
+    33.905182,
+    -84.290848,
+    33.905182
+],
+  "geometry": {"coordinates":[-84.290848,33.905182],"type":"Point"}
+}

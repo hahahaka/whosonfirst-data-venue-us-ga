@@ -1,0 +1,88 @@
+{
+  "id": 739767989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.358178,33.763976,-84.358178,33.763976",
+    "geom:latitude":33.763976,
+    "geom:longitude":-84.358178,
+    "iso:country":"US",
+    "sg:address":"913 Bernina Ave NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/atlanta/23455-pacific-kitchen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 223 9292",
+    "sg:postcode":"30307",
+    "sg:province":"GA",
+    "sg:tags":[
+        "new",
+        "american",
+        "californian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872121,
+        85812215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_157Con3X20rEM5e2AOx7an_33.763976_-84.358178@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914459,
+    "wof:geomhash":"841505299fd3907f54147e97aa25a897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872121,
+            "region_id":85688535,
+            "venue_id":739767989
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85812215,
+            "region_id":85688535,
+            "venue_id":739767989
+        }
+    ],
+    "wof:id":739767989,
+    "wof:lastmodified":1461914459,
+    "wof:name":"Pacific Kitchen",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american",
+        "californian"
+    ]
+},
+  "bbox": [
+    -84.358178,
+    33.763976,
+    -84.358178,
+    33.763976
+],
+  "geometry": {"coordinates":[-84.358178,33.763976],"type":"Point"}
+}

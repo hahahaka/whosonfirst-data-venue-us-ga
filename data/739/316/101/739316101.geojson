@@ -1,0 +1,73 @@
+{
+  "id": 739316101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.086382,34.036064,-84.086382,34.036064",
+    "geom:latitude":34.036064,
+    "geom:longitude":-84.086382,
+    "iso:country":"US",
+    "sg:address":"1115 Buford Hwy",
+    "sg:city":"Suwanee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 932 6646",
+    "sg:postcode":"30024",
+    "sg:province":"GA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02nPISild55mepHtQcCB8W_34.036064_-84.086382@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461904885,
+    "wof:geomhash":"349c907ebe3559c1b1dc502b7ccc649c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":739316101
+        }
+    ],
+    "wof:id":739316101,
+    "wof:lastmodified":1461904885,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -84.086382,
+    34.036064,
+    -84.086382,
+    34.036064
+],
+  "geometry": {"coordinates":[-84.086382,34.036064],"type":"Point"}
+}

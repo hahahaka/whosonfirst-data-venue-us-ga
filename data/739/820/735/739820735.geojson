@@ -1,0 +1,71 @@
+{
+  "id": 739820735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.499702,33.958,-84.499702,33.958",
+    "geom:latitude":33.958,
+    "geom:longitude":-84.499702,
+    "iso:country":"US",
+    "sg:address":"1776 Roswell Rd",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 977 7808",
+    "sg:postcode":"30062",
+    "sg:province":"GA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936135,
+        102082313,
+        85857049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bHSdElINrBM23wQE1dfxZ_33.958000_-84.499702@1303262580"
+    },
+    "wof:country":"US",
+    "wof:created":1461916725,
+    "wof:geomhash":"b58fe64298b26888073c81d783c4ac1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936135,
+            "neighbourhood_id":85857049,
+            "region_id":85688535,
+            "venue_id":739820735
+        }
+    ],
+    "wof:id":739820735,
+    "wof:lastmodified":1461916725,
+    "wof:name":"Silver Creek",
+    "wof:parent_id":85857049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.499702,
+    33.958,
+    -84.499702,
+    33.958
+],
+  "geometry": {"coordinates":[-84.499702,33.958],"type":"Point"}
+}

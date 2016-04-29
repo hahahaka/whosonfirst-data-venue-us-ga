@@ -1,0 +1,71 @@
+{
+  "id": 739262215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.303164,32.368628,-81.303164,32.368628",
+    "geom:latitude":32.368628,
+    "geom:longitude":-81.303164,
+    "iso:country":"US",
+    "sg:address":"405 S Cedar St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 754 3754",
+    "sg:postcode":"31329",
+    "sg:province":"GA",
+    "sg:tags":[
+        "logging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85850535,
+        102083627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Cp2uG4RtEEwcyR47nB8cv_32.368628_-81.303164@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461903752,
+    "wof:geomhash":"cc98fb1fae412b2c76abb74bf05ba108",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083627,
+            "neighbourhood_id":85850535,
+            "region_id":85688535,
+            "venue_id":739262215
+        }
+    ],
+    "wof:id":739262215,
+    "wof:lastmodified":1461903752,
+    "wof:name":"Dyson Logging Inc",
+    "wof:parent_id":85850535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -81.303164,
+    32.368628,
+    -81.303164,
+    32.368628
+],
+  "geometry": {"coordinates":[-81.303164,32.368628],"type":"Point"}
+}

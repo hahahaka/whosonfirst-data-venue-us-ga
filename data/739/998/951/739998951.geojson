@@ -1,0 +1,78 @@
+{
+  "id": 739998951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.246716,33.884824,-84.246716,33.884824",
+    "geom:latitude":33.884824,
+    "geom:longitude":-84.246716,
+    "iso:country":"US",
+    "sg:address":"3612 Chamblee Tucker Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 255 0269",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "trucking",
+        "trucking-motor",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4a0PpnrAQD7zKaTje3A0hT_33.884824_-84.246716@1303262626"
+    },
+    "wof:country":"US",
+    "wof:created":1461923891,
+    "wof:geomhash":"2299a8a065779e1e394d26da1bef431a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":739998951
+        }
+    ],
+    "wof:id":739998951,
+    "wof:lastmodified":1461923891,
+    "wof:name":"Transport Training Of America",
+    "wof:parent_id":85889941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking",
+        "trucking-motor",
+        "broker"
+    ]
+},
+  "bbox": [
+    -84.246716,
+    33.884824,
+    -84.246716,
+    33.884824
+],
+  "geometry": {"coordinates":[-84.24671600000001,33.884824],"type":"Point"}
+}

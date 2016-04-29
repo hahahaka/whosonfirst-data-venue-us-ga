@@ -1,0 +1,71 @@
+{
+  "id": 739438063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.46924,33.584044,-84.46924,33.584044",
+    "geom:latitude":33.584044,
+    "geom:longitude":-84.46924,
+    "iso:country":"US",
+    "sg:address":"6210 Old National Hwy",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 991 7552",
+    "sg:postcode":"30349",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889945,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WMHpb7lPFQxa3cemQtRyT_33.584044_-84.469240@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907319,
+    "wof:geomhash":"13716c99bda2ffe2b0600f3383d04247",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85889945,
+            "region_id":85688535,
+            "venue_id":739438063
+        }
+    ],
+    "wof:id":739438063,
+    "wof:lastmodified":1461907319,
+    "wof:name":"Old National Gyn",
+    "wof:parent_id":85889945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.46924,
+    33.584044,
+    -84.46924,
+    33.584044
+],
+  "geometry": {"coordinates":[-84.46924,33.584044],"type":"Point"}
+}

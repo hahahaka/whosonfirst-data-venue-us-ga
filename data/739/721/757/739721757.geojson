@@ -1,0 +1,71 @@
+{
+  "id": 739721757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.234886,31.614663,-84.234886,31.614663",
+    "geom:latitude":31.614663,
+    "geom:longitude":-84.234886,
+    "iso:country":"US",
+    "sg:address":"3200 Lancaster Ln",
+    "sg:city":"Albany",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 435 5613",
+    "sg:postcode":"31721",
+    "sg:province":"GA",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935991,
+        102084427,
+        85842573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hkFW6mKGRIdCi0NAH4sDM_31.614663_-84.234886@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461913031,
+    "wof:geomhash":"6699afdefbff43cac7f974726d802b46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":85842573,
+            "region_id":85688535,
+            "venue_id":739721757
+        }
+    ],
+    "wof:id":739721757,
+    "wof:lastmodified":1461913031,
+    "wof:name":"TNT Carwash",
+    "wof:parent_id":85842573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -84.234886,
+    31.614663,
+    -84.234886,
+    31.614663
+],
+  "geometry": {"coordinates":[-84.234886,31.614663],"type":"Point"}
+}

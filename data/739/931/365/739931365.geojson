@@ -1,0 +1,88 @@
+{
+  "id": 739931365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.361656,33.773928,-84.361656,33.773928",
+    "geom:latitude":33.773928,
+    "geom:longitude":-84.361656,
+    "iso:country":"US",
+    "sg:address":"789 Ponce De Leon Avenue NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 874 8611",
+    "sg:postcode":"30306",
+    "sg:province":"GA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872131,
+        85830819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t1Y12avynA2T54Nh6q8W2_33.773928_-84.361656@1303262609"
+    },
+    "wof:country":"US",
+    "wof:created":1461921088,
+    "wof:geomhash":"f62f07cc1819d5ec9cb136de6e5b81ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872131,
+            "region_id":85688535,
+            "venue_id":739931365
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85830819,
+            "region_id":85688535,
+            "venue_id":739931365
+        }
+    ],
+    "wof:id":739931365,
+    "wof:lastmodified":1461921088,
+    "wof:name":"Hotel Clermont",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.361656,
+    33.773928,
+    -84.361656,
+    33.773928
+],
+  "geometry": {"coordinates":[-84.361656,33.773928],"type":"Point"}
+}

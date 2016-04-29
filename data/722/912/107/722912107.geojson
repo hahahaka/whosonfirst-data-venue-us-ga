@@ -1,0 +1,71 @@
+{
+  "id": 722912107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.564875,33.902193,-84.564875,33.902193",
+    "geom:latitude":33.902193,
+    "geom:longitude":-84.564875,
+    "iso:country":"US",
+    "sg:address":"461 Pat Mell Rd SW",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 333 9520",
+    "sg:postcode":"30060",
+    "sg:province":"GA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Jxz3lsV9m1ojCh4xojUwO_33.902193_-84.564875@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461891028,
+    "wof:geomhash":"744c561966f4d0bbcb82a36d5a2f1cec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":722912107
+        }
+    ],
+    "wof:id":722912107,
+    "wof:lastmodified":1461891028,
+    "wof:name":"Adex Taxi Co",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -84.564875,
+    33.902193,
+    -84.564875,
+    33.902193
+],
+  "geometry": {"coordinates":[-84.564875,33.902193],"type":"Point"}
+}

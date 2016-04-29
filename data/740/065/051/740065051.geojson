@@ -1,0 +1,79 @@
+{
+  "id": 740065051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.276149,30.831771,-83.276149,30.831771",
+    "geom:latitude":30.831771,
+    "geom:longitude":-83.276149,
+    "iso:country":"US",
+    "sg:address":"320 E Hill Ave",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 244 5920",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "chicken",
+        "take"
+    ],
+    "sg:website":"http://www.churchschicken.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rVmrGGBxvmlYPh5v2KmI0_30.831771_-83.276149@1303262643"
+    },
+    "wof:country":"US",
+    "wof:created":1461926749,
+    "wof:geomhash":"535005d40a104477a178b33eb9d23e99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843077,
+            "region_id":85688535,
+            "venue_id":740065051
+        }
+    ],
+    "wof:id":740065051,
+    "wof:lastmodified":1461926749,
+    "wof:name":"Church's Chicken",
+    "wof:parent_id":85843077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken",
+        "take"
+    ]
+},
+  "bbox": [
+    -83.276149,
+    30.831771,
+    -83.276149,
+    30.831771
+],
+  "geometry": {"coordinates":[-83.276149,30.831771],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 739928801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.373329,33.81955,-84.373329,33.81955",
+    "geom:latitude":33.81955,
+    "geom:longitude":-84.373329,
+    "iso:country":"US",
+    "sg:address":"524 Peachtree Hills Cir NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 896 4119",
+    "sg:postcode":"30305",
+    "sg:province":"GA",
+    "sg:tags":[
+        "glass-wholesale",
+        "shape",
+        "circle",
+        "special",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872113,
+        85872095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AywrXA0lzLiWWSCjRGZhQ_33.819550_-84.373329@1303262608"
+    },
+    "wof:country":"US",
+    "wof:created":1461920975,
+    "wof:geomhash":"5f3035c30301521b7d4bd176bdd8429e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872113,
+            "region_id":85688535,
+            "venue_id":739928801
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872095,
+            "region_id":85688535,
+            "venue_id":739928801
+        }
+    ],
+    "wof:id":739928801,
+    "wof:lastmodified":1461920975,
+    "wof:name":"A G Glass Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-wholesale",
+        "shape",
+        "circle",
+        "special",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -84.373329,
+    33.81955,
+    -84.373329,
+    33.81955
+],
+  "geometry": {"coordinates":[-84.373329,33.81955],"type":"Point"}
+}

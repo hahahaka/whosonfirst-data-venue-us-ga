@@ -1,0 +1,87 @@
+{
+  "id": 739998835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.293892,33.899612,-84.293892,33.899612",
+    "geom:latitude":33.899612,
+    "geom:longitude":-84.293892,
+    "iso:country":"US",
+    "sg:address":"3674 N Peachtree Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 533 2257",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "labels-wholesale",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.labelsource.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85936435,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gKFllKSee2crnguZOM81X_33.899612_-84.293892@1303262626"
+    },
+    "wof:country":"US",
+    "wof:created":1461923887,
+    "wof:geomhash":"b63416bf5f218b3b2af13ae66e81ea36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":739998835
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":739998835
+        }
+    ],
+    "wof:id":739998835,
+    "wof:lastmodified":1461923887,
+    "wof:name":"Label Source Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "labels-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -84.293892,
+    33.899612,
+    -84.293892,
+    33.899612
+],
+  "geometry": {"coordinates":[-84.293892,33.899612],"type":"Point"}
+}

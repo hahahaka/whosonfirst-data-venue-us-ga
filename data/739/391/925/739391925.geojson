@@ -1,0 +1,73 @@
+{
+  "id": 739391925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.136351,33.034233,-85.136351,33.034233",
+    "geom:latitude":33.034233,
+    "geom:longitude":-85.136351,
+    "iso:country":"US",
+    "sg:address":"109 Old Pyne Rd",
+    "sg:city":"La Grange",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 883 8884",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85830157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jYygpJQF85eo9Y8KwwURa_33.034233_-85.136351@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461906428,
+    "wof:geomhash":"0268bd132ac48673c73cd7ec57feba91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85830157,
+            "region_id":85688535,
+            "venue_id":739391925
+        }
+    ],
+    "wof:id":739391925,
+    "wof:lastmodified":1461906428,
+    "wof:name":"Thunderbolt Electric",
+    "wof:parent_id":85830157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.136351,
+    33.034233,
+    -85.136351,
+    33.034233
+],
+  "geometry": {"coordinates":[-85.136351,33.034233],"type":"Point"}
+}

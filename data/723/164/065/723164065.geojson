@@ -1,0 +1,71 @@
+{
+  "id": 723164065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.887402,32.553902,-83.887402,32.553902",
+    "geom:latitude":32.553902,
+    "geom:longitude":-83.887402,
+    "iso:country":"US",
+    "sg:address":"200 W Church St",
+    "sg:city":"Fort Valley",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 822 6970",
+    "sg:postcode":"31030",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936251,
+        102082339,
+        85840991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47i10R9rRQ1sT9Eunjsv39_32.553902_-83.887402@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896364,
+    "wof:geomhash":"3d8cfeba4bc295c6d99f80e62e1eb740",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082339,
+            "locality_id":85936251,
+            "neighbourhood_id":85840991,
+            "region_id":85688535,
+            "venue_id":723164065
+        }
+    ],
+    "wof:id":723164065,
+    "wof:lastmodified":1461896364,
+    "wof:name":"Fort Valley Police Dept",
+    "wof:parent_id":85840991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -83.887402,
+    32.553902,
+    -83.887402,
+    32.553902
+],
+  "geometry": {"coordinates":[-83.88740199999999,32.553902],"type":"Point"}
+}

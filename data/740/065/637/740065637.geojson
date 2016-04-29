@@ -1,0 +1,73 @@
+{
+  "id": 740065637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.30056,30.879391,-83.30056,30.879391",
+    "geom:latitude":30.879391,
+    "geom:longitude":-83.30056,
+    "iso:country":"US",
+    "sg:address":"3398 N Valdosta Rd",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 244 2983",
+    "sg:postcode":"31602",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85815713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZEEJqmjPX1NKz4wjNE0M7_30.879391_-83.300560@1303262644"
+    },
+    "wof:country":"US",
+    "wof:created":1461926775,
+    "wof:geomhash":"3a43bb13d2fa9ca27238a7cf77feec50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85815713,
+            "region_id":85688535,
+            "venue_id":740065637
+        }
+    ],
+    "wof:id":740065637,
+    "wof:lastmodified":1461926775,
+    "wof:name":"Dr Amanda Perry",
+    "wof:parent_id":85815713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -83.30056,
+    30.879391,
+    -83.30056,
+    30.879391
+],
+  "geometry": {"coordinates":[-83.30056,30.879391],"type":"Point"}
+}

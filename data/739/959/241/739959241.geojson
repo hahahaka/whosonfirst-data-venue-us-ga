@@ -1,0 +1,84 @@
+{
+  "id": 739959241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.407822,33.798599,-84.407822,33.798599",
+    "geom:latitude":33.798599,
+    "geom:longitude":-84.407822,
+    "iso:country":"US",
+    "sg:address":"1575 Northside Dr NW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 351 8266",
+    "sg:postcode":"30318",
+    "sg:province":"GA",
+    "sg:tags":[
+        "dialysis"
+    ],
+    "sg:website":"http://www.davita.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872097,
+        85889937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aMiQVsE3926nhoKDKGIj5_33.798599_-84.407822@1303262616"
+    },
+    "wof:country":"US",
+    "wof:created":1461922337,
+    "wof:geomhash":"2ab43206291e2657703f9b83d188c212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872097,
+            "region_id":85688535,
+            "venue_id":739959241
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85889937,
+            "region_id":85688535,
+            "venue_id":739959241
+        }
+    ],
+    "wof:id":739959241,
+    "wof:lastmodified":1461922337,
+    "wof:name":"Davita Dialysis",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dialysis"
+    ]
+},
+  "bbox": [
+    -84.407822,
+    33.798599,
+    -84.407822,
+    33.798599
+],
+  "geometry": {"coordinates":[-84.407822,33.798599],"type":"Point"}
+}

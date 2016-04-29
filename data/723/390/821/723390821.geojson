@@ -1,0 +1,75 @@
+{
+  "id": 723390821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.384116,33.97524,-83.384116,33.97524",
+    "geom:latitude":33.97524,
+    "geom:longitude":-83.384116,
+    "iso:country":"US",
+    "sg:address":"1000 Alexander St",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 613 3526",
+    "sg:postcode":"30601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936177,
+        102081713,
+        85807659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Tdny44EoIigEWhlQAVCPe_33.975240_-83.384116@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900787,
+    "wof:geomhash":"8728cddaad6bb0a4ae94cd5cef77a474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081713,
+            "locality_id":85936177,
+            "neighbourhood_id":85807659,
+            "region_id":85688535,
+            "venue_id":723390821
+        }
+    ],
+    "wof:id":723390821,
+    "wof:lastmodified":1461900787,
+    "wof:name":"Athens Public Utilities Dept",
+    "wof:parent_id":85807659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [
+    -83.384116,
+    33.97524,
+    -83.384116,
+    33.97524
+],
+  "geometry": {"coordinates":[-83.38411600000001,33.97524],"type":"Point"}
+}

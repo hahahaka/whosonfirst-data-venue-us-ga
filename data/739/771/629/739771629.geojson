@@ -1,0 +1,71 @@
+{
+  "id": 739771629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.09313,33.511183,-82.09313,33.511183",
+    "geom:latitude":33.511183,
+    "geom:longitude":-82.09313,
+    "iso:country":"US",
+    "sg:address":"3861 Washington Rd",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/evans/196054-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5d8vzuBvDRc7VJZv5proxd_33.511183_-82.093130@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914605,
+    "wof:geomhash":"2346e0e8d4197b2272365af117141f94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":739771629
+        }
+    ],
+    "wof:id":739771629,
+    "wof:lastmodified":1461914605,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -82.09313,
+    33.511183,
+    -82.09313,
+    33.511183
+],
+  "geometry": {"coordinates":[-82.09313,33.511183],"type":"Point"}
+}

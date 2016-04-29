@@ -1,0 +1,85 @@
+{
+  "id": 723371995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.15243,31.601653,-84.15243,31.601653",
+    "geom:latitude":31.601653,
+    "geom:longitude":-84.15243,
+    "iso:country":"US",
+    "sg:address":"1701 N Washington St",
+    "sg:city":"Albany",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 436 3364",
+    "sg:postcode":"31701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85935991,
+        102084427,
+        420517781,
+        85829381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MXnGKKkfbzTzGEbqYfSns_31.601653_-84.152430@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900417,
+    "wof:geomhash":"32f28d115f0c9efd07efa5ef1f0a7651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":420517781,
+            "region_id":85688535,
+            "venue_id":723371995
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084427,
+            "neighbourhood_id":85829381,
+            "region_id":85688535,
+            "venue_id":723371995
+        }
+    ],
+    "wof:id":723371995,
+    "wof:lastmodified":1461900417,
+    "wof:name":"Albany Warehouse Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ]
+},
+  "bbox": [
+    -84.15243,
+    31.601653,
+    -84.15243,
+    31.601653
+],
+  "geometry": {"coordinates":[-84.15243,31.601653],"type":"Point"}
+}

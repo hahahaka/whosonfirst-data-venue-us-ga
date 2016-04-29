@@ -1,0 +1,72 @@
+{
+  "id": 739763579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.005324,33.902842,-84.005324,33.902842",
+    "geom:latitude":33.902842,
+    "geom:longitude":-84.005324,
+    "iso:country":"US",
+    "sg:address":"1215 Scenic Hwy",
+    "sg:city":"Lawrenceville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/lawrenceville/132512-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 344 4600",
+    "sg:postcode":"30045",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85808181,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dXcWdCLgEVE5v43xCnfuN_33.902842_-84.005324@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914284,
+    "wof:geomhash":"effb9c3b9edd607c2c64565668df46e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85808181,
+            "region_id":85688535,
+            "venue_id":739763579
+        }
+    ],
+    "wof:id":739763579,
+    "wof:lastmodified":1461914284,
+    "wof:name":"Subway",
+    "wof:parent_id":85808181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.005324,
+    33.902842,
+    -84.005324,
+    33.902842
+],
+  "geometry": {"coordinates":[-84.005324,33.902842],"type":"Point"}
+}

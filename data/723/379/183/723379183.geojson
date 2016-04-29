@@ -1,0 +1,75 @@
+{
+  "id": 723379183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.251913,33.89647,-84.251913,33.89647",
+    "geom:latitude":33.89647,
+    "geom:longitude":-84.251913,
+    "iso:country":"US",
+    "sg:address":"4200 Northeast Expy",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 234 0072",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "sg:tags":[
+        "renting",
+        "leasing",
+        "trailer",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xSfLoQvN585YfZrgHTWCH_33.896470_-84.251913@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900572,
+    "wof:geomhash":"910bb9dca282cea7952839021107becc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":723379183
+        }
+    ],
+    "wof:id":723379183,
+    "wof:lastmodified":1461900572,
+    "wof:name":"Star Leasing Co",
+    "wof:parent_id":85889941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "leasing",
+        "trailer",
+        "utility"
+    ]
+},
+  "bbox": [
+    -84.251913,
+    33.89647,
+    -84.251913,
+    33.89647
+],
+  "geometry": {"coordinates":[-84.251913,33.89647],"type":"Point"}
+}

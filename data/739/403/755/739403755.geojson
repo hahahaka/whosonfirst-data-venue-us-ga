@@ -1,0 +1,83 @@
+{
+  "id": 739403755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.531138,33.583499,-84.531138,33.583499",
+    "geom:latitude":33.583499,
+    "geom:longitude":-84.531138,
+    "iso:country":"US",
+    "sg:address":"6425 Oakley Rd",
+    "sg:city":"Union City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 969 4453",
+    "sg:postcode":"30291",
+    "sg:province":"GA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85848007,
+        102083603,
+        102191575,
+        85937167,
+        420517955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QjwoywyPmQy5K0tQIj1Vl_33.583499_-84.531138@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461906651,
+    "wof:geomhash":"4847269d16d87a1baa8156e1f4fd4fa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85848007,
+            "region_id":85688535,
+            "venue_id":739403755
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937167,
+            "neighbourhood_id":420517955,
+            "region_id":85688535,
+            "venue_id":739403755
+        }
+    ],
+    "wof:id":739403755,
+    "wof:lastmodified":1461906651,
+    "wof:name":"Summer Glen Apts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.531138,
+    33.583499,
+    -84.531138,
+    33.583499
+],
+  "geometry": {"coordinates":[-84.531138,33.583499],"type":"Point"}
+}

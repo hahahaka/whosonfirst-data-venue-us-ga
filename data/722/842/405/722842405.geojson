@@ -1,0 +1,71 @@
+{
+  "id": 722842405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.661843,34.021115,-84.661843,34.021115",
+    "geom:latitude":34.021115,
+    "geom:longitude":-84.661843,
+    "iso:country":"US",
+    "sg:address":"3914 Mountain View Rd NW",
+    "sg:city":"Kennesaw",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 529 3031",
+    "sg:postcode":"30152",
+    "sg:province":"GA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936129,
+        102082313,
+        85829479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fXZyYjd8SLwfrpBZNioNs_34.021115_-84.661843@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461889672,
+    "wof:geomhash":"61720098db15361d603fe82ad853142d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936129,
+            "neighbourhood_id":85829479,
+            "region_id":85688535,
+            "venue_id":722842405
+        }
+    ],
+    "wof:id":722842405,
+    "wof:lastmodified":1461889672,
+    "wof:name":"Salazar Trucking Inc",
+    "wof:parent_id":85829479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.661843,
+    34.021115,
+    -84.661843,
+    34.021115
+],
+  "geometry": {"coordinates":[-84.661843,34.021115],"type":"Point"}
+}

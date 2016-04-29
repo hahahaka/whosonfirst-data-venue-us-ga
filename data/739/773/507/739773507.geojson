@@ -1,0 +1,74 @@
+{
+  "id": 739773507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.491154,31.163494,-81.491154,31.163494",
+    "geom:latitude":31.163494,
+    "geom:longitude":-81.491154,
+    "iso:country":"US",
+    "sg:address":"1225 N St",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/brunswick/132382-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 437 6889",
+    "sg:postcode":"31520",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85833275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48WLdGQcFd9AdF5m5ooMmA_31.163494_-81.491154@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914684,
+    "wof:geomhash":"e732e5e450cf83cab52b22660462df4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85833275,
+            "region_id":85688535,
+            "venue_id":739773507
+        }
+    ],
+    "wof:id":739773507,
+    "wof:lastmodified":1461914684,
+    "wof:name":"Subway",
+    "wof:parent_id":85833275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -81.491154,
+    31.163494,
+    -81.491154,
+    31.163494
+],
+  "geometry": {"coordinates":[-81.49115399999999,31.163494],"type":"Point"}
+}

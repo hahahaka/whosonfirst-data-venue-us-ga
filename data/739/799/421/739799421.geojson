@@ -1,0 +1,76 @@
+{
+  "id": 739799421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.214569,33.674755,-84.214569,33.674755",
+    "geom:latitude":33.674755,
+    "geom:longitude":-84.214569,
+    "iso:country":"US",
+    "sg:address":"3658 Dogwood Farm Rd",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 845 629 8197",
+    "sg:postcode":"30034",
+    "sg:province":"GA",
+    "sg:tags":[
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85816491,
+        102084539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5v624ABrSkuGLuHNrTUgF7_33.674755_-84.214569@1303262575"
+    },
+    "wof:country":"US",
+    "wof:created":1461915753,
+    "wof:geomhash":"ef9294487ac57574d3a704fb9615b1ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739799421
+        }
+    ],
+    "wof:id":739799421,
+    "wof:lastmodified":1461915753,
+    "wof:name":"Transport America",
+    "wof:parent_id":85816491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.214569,
+    33.674755,
+    -84.214569,
+    33.674755
+],
+  "geometry": {"coordinates":[-84.214569,33.674755],"type":"Point"}
+}

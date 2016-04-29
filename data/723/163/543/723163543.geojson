@@ -1,0 +1,71 @@
+{
+  "id": 723163543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.094327,32.080334,-81.094327,32.080334",
+    "geom:latitude":32.080334,
+    "geom:longitude":-81.094327,
+    "iso:country":"US",
+    "sg:address":"200 W Congress St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 236 2949",
+    "sg:postcode":"31401",
+    "sg:province":"GA",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936939,
+        102082337,
+        85880917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0N2xSiRDqJqHw2ZqJcsO2J_32.080334_-81.094327@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896353,
+    "wof:geomhash":"47f5eb7f431e8529f6bb167380789c1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880917,
+            "region_id":85688535,
+            "venue_id":723163543
+        }
+    ],
+    "wof:id":723163543,
+    "wof:lastmodified":1461896353,
+    "wof:name":"City Market Parking",
+    "wof:parent_id":85880917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    -81.094327,
+    32.080334,
+    -81.094327,
+    32.080334
+],
+  "geometry": {"coordinates":[-81.09432700000001,32.080334],"type":"Point"}
+}

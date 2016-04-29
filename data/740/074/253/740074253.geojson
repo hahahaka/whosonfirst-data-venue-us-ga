@@ -1,0 +1,82 @@
+{
+  "id": 740074253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.935077,32.491766,-84.935077,32.491766",
+    "geom:latitude":32.491766,
+    "geom:longitude":-84.935077,
+    "iso:country":"US",
+    "sg:address":"2951 Tip Top Dr",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 561 5571",
+    "sg:postcode":"31907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85811533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6X9KxoEiy62ojvkhP8VniT_32.491766_-84.935077@1303262646"
+    },
+    "wof:country":"US",
+    "wof:created":1461927149,
+    "wof:geomhash":"ac53d15f60c85c71e6981c4bb1d530a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85811533,
+            "region_id":85688535,
+            "venue_id":740074253
+        }
+    ],
+    "wof:id":740074253,
+    "wof:lastmodified":1461927149,
+    "wof:name":"Hard Rock Trucking",
+    "wof:parent_id":85811533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.935077,
+    32.491766,
+    -84.935077,
+    32.491766
+],
+  "geometry": {"coordinates":[-84.93507700000001,32.491766],"type":"Point"}
+}

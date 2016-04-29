@@ -1,0 +1,78 @@
+{
+  "id": 723300213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.197347,30.80049,-83.197347,30.80049",
+    "geom:latitude":30.80049,
+    "geom:longitude":-83.197347,
+    "iso:country":"US",
+    "sg:address":"2295 New Statenville Hwy",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 245 8389",
+    "sg:postcode":"31606",
+    "sg:province":"GA",
+    "sg:tags":[
+        "grocer",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kjg46uoKOxkCyf4vfTNPa_30.800490_-83.197347@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899066,
+    "wof:geomhash":"bf055f1df8db155242a554d18e072d40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843077,
+            "region_id":85688535,
+            "venue_id":723300213
+        }
+    ],
+    "wof:id":723300213,
+    "wof:lastmodified":1461899066,
+    "wof:name":"Sandlin's Grocery",
+    "wof:parent_id":85843077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -83.197347,
+    30.80049,
+    -83.197347,
+    30.80049
+],
+  "geometry": {"coordinates":[-83.19734699999999,30.80049],"type":"Point"}
+}

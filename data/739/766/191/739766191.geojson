@@ -1,0 +1,72 @@
+{
+  "id": 739766191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.593098,34.059172,-84.593098,34.059172",
+    "geom:latitude":34.059172,
+    "geom:longitude":-84.593098,
+    "iso:country":"US",
+    "sg:address":"4375 Wade Green Rd NW",
+    "sg:city":"Kennesaw",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/acworth-kennesaw/158721-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 420 7070",
+    "sg:postcode":"30144",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85821545,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4R5dkeuzmH1PHM84susKTb_34.059172_-84.593098@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914387,
+    "wof:geomhash":"641759745e67c14e50f428737df26ef0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85821545,
+            "region_id":85688535,
+            "venue_id":739766191
+        }
+    ],
+    "wof:id":739766191,
+    "wof:lastmodified":1461914387,
+    "wof:name":"Arby's",
+    "wof:parent_id":85821545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.593098,
+    34.059172,
+    -84.593098,
+    34.059172
+],
+  "geometry": {"coordinates":[-84.593098,34.059172],"type":"Point"}
+}

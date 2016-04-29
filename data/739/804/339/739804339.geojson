@@ -1,0 +1,89 @@
+{
+  "id": 739804339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.058367,33.999385,-84.058367,33.999385",
+    "geom:latitude":33.999385,
+    "geom:longitude":-84.058367,
+    "iso:country":"US",
+    "sg:address":"2251 Paper Chase Dr",
+    "sg:city":"Lawrenceville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 513 8818",
+    "sg:postcode":"30043",
+    "sg:province":"GA",
+    "sg:tags":[
+        "electric",
+        "consumer",
+        "equipment-testing",
+        "equipment",
+        "supplies-wholesale",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85810283,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hADP8A8l1rsNWDBYYws4O_33.999385_-84.058367@1303262576"
+    },
+    "wof:country":"US",
+    "wof:created":1461915994,
+    "wof:geomhash":"21400e65b52eb8b4bd00d7ed1522815a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85810283,
+            "region_id":85688535,
+            "venue_id":739804339
+        }
+    ],
+    "wof:id":739804339,
+    "wof:lastmodified":1461915994,
+    "wof:name":"Everything Electric Inc",
+    "wof:parent_id":85810283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "consumer",
+        "equipment-testing",
+        "equipment",
+        "supplies-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -84.058367,
+    33.999385,
+    -84.058367,
+    33.999385
+],
+  "geometry": {"coordinates":[-84.058367,33.999385],"type":"Point"}
+}

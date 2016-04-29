@@ -1,0 +1,80 @@
+{
+  "id": 740065431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.326057,30.842449,-83.326057,30.842449",
+    "geom:latitude":30.842449,
+    "geom:longitude":-83.326057,
+    "iso:country":"US",
+    "sg:address":"1701 Ellis Dr",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 244 9500",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "inn"
+    ],
+    "sg:website":"http://www.jollyinnmotel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85852681,
+        102083585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zfDLOZDAr0tHZro7ybDtU_30.842449_-83.326057@1303262644"
+    },
+    "wof:country":"US",
+    "wof:created":1461926767,
+    "wof:geomhash":"797d58e325a760b64ef6a78f54bef138",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "neighbourhood_id":85852681,
+            "region_id":85688535,
+            "venue_id":740065431
+        }
+    ],
+    "wof:id":740065431,
+    "wof:lastmodified":1461926767,
+    "wof:name":"Jolly Inn",
+    "wof:parent_id":85852681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inn"
+    ]
+},
+  "bbox": [
+    -83.326057,
+    30.842449,
+    -83.326057,
+    30.842449
+],
+  "geometry": {"coordinates":[-83.32605700000001,30.842449],"type":"Point"}
+}

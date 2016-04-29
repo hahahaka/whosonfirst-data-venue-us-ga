@@ -1,0 +1,83 @@
+{
+  "id": 740072371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.874975,32.761712,-84.874975,32.761712",
+    "geom:latitude":32.761712,
+    "geom:longitude":-84.874975,
+    "iso:country":"US",
+    "sg:address":"141 N College St",
+    "sg:city":"Hamilton",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 628 4221",
+    "sg:postcode":"31811",
+    "sg:province":"GA",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"https://www.wachovia.com/?DCMP=KNL-CPS-DS-Directory-0703&HBX_PK=Banks&HBX_OU=71",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936099,
+        102084477,
+        85835873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mgwznq0TJLSaitiA7o7E2_32.761712_-84.874975@1303262645"
+    },
+    "wof:country":"US",
+    "wof:created":1461927068,
+    "wof:geomhash":"234d3e2edb34758cc348587826ea5c5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084477,
+            "locality_id":85936099,
+            "neighbourhood_id":85835873,
+            "region_id":85688535,
+            "venue_id":740072371
+        }
+    ],
+    "wof:id":740072371,
+    "wof:lastmodified":1461927068,
+    "wof:name":"Wachovia Bank",
+    "wof:parent_id":85835873,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -84.874975,
+    32.761712,
+    -84.874975,
+    32.761712
+],
+  "geometry": {"coordinates":[-84.87497500000001,32.761712],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 739694209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.468661,33.58616,-83.468661,33.58616",
+    "geom:latitude":33.58616,
+    "geom:longitude":-83.468661,
+    "iso:country":"US",
+    "sg:address":"1040 Park Ln",
+    "sg:city":"Greensboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 454 0710",
+    "sg:postcode":"30650",
+    "sg:province":"GA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937061,
+        102081701,
+        85805009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_643cQzG9ODiAaNPmomb0KR_33.586160_-83.468661@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461912423,
+    "wof:geomhash":"793fade16ad4a26df072dfee7525b9ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081701,
+            "locality_id":85937061,
+            "neighbourhood_id":85805009,
+            "region_id":85688535,
+            "venue_id":739694209
+        }
+    ],
+    "wof:id":739694209,
+    "wof:lastmodified":1461912423,
+    "wof:name":"Lake Oconee Diagnostic Ctr",
+    "wof:parent_id":85805009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -83.468661,
+    33.58616,
+    -83.468661,
+    33.58616
+],
+  "geometry": {"coordinates":[-83.468661,33.58616],"type":"Point"}
+}

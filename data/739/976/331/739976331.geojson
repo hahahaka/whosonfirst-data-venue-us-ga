@@ -1,0 +1,85 @@
+{
+  "id": 739976331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.410868,33.92076,-84.410868,33.92076",
+    "geom:latitude":33.92076,
+    "geom:longitude":-84.410868,
+    "iso:country":"US",
+    "sg:address":"685 Weatherly Ln NW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 256 1608",
+    "sg:postcode":"30328",
+    "sg:province":"GA",
+    "sg:tags":[
+        "chemicals-wholesale",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937165,
+        102083603,
+        85890017,
+        85844717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68wbpsIwrXz0grSl9TEv0n_33.920760_-84.410868@1303262620"
+    },
+    "wof:country":"US",
+    "wof:created":1461922988,
+    "wof:geomhash":"374dea7aa1b822f39accfd5120f761fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937165,
+            "neighbourhood_id":85890017,
+            "region_id":85688535,
+            "venue_id":739976331
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937165,
+            "neighbourhood_id":85844717,
+            "region_id":85688535,
+            "venue_id":739976331
+        }
+    ],
+    "wof:id":739976331,
+    "wof:lastmodified":1461922988,
+    "wof:name":"Ameritex",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemicals-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -84.410868,
+    33.92076,
+    -84.410868,
+    33.92076
+],
+  "geometry": {"coordinates":[-84.41086799999999,33.92076],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 739568921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.546798,33.902134,-84.546798,33.902134",
+    "geom:latitude":33.902134,
+    "geom:longitude":-84.546798,
+    "iso:country":"US",
+    "sg:address":"371 Pat Mell Rd SE",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 434 1991",
+    "sg:postcode":"30060",
+    "sg:province":"GA",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1saMZ642ZZr1Eg8L8DvWSz_33.902134_-84.546798@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461909759,
+    "wof:geomhash":"4a77688e410df902ffc016ecf1124c0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":739568921
+        }
+    ],
+    "wof:id":739568921,
+    "wof:lastmodified":1461909759,
+    "wof:name":"Burger's Farm Market",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -84.546798,
+    33.902134,
+    -84.546798,
+    33.902134
+],
+  "geometry": {"coordinates":[-84.546798,33.902134],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 740042731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.313739,33.41081,-82.313739,33.41081",
+    "geom:latitude":33.41081,
+    "geom:longitude":-82.313739,
+    "iso:country":"US",
+    "sg:address":"375 Louisville St",
+    "sg:city":"Harlem",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 556 9795",
+    "sg:postcode":"30814",
+    "sg:province":"GA",
+    "sg:tags":[
+        "parish",
+        "government-county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85935975,
+        102082315,
+        85847219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ubrrbJMghWQicaxtPfmYn_33.410810_-82.313739@1303262638"
+    },
+    "wof:country":"US",
+    "wof:created":1461925755,
+    "wof:geomhash":"9f8038fff093857e61b18414f87e9680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85935975,
+            "neighbourhood_id":85847219,
+            "region_id":85688535,
+            "venue_id":740042731
+        }
+    ],
+    "wof:id":740042731,
+    "wof:lastmodified":1461925755,
+    "wof:name":"County Of Columbia",
+    "wof:parent_id":85847219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parish",
+        "government-county"
+    ]
+},
+  "bbox": [
+    -82.313739,
+    33.41081,
+    -82.313739,
+    33.41081
+],
+  "geometry": {"coordinates":[-82.313739,33.41081],"type":"Point"}
+}

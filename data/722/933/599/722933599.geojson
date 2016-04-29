@@ -1,0 +1,77 @@
+{
+  "id": 722933599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.309504,33.874943,-84.309504,33.874943",
+    "geom:latitude":33.874943,
+    "geom:longitude":-84.309504,
+    "iso:country":"US",
+    "sg:address":"3826 Clairmont Rd",
+    "sg:city":"Chamblee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 216 9955",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automobile",
+        "testing",
+        "emission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102525899,
+        85688535,
+        85633793,
+        85937255,
+        102084539,
+        85807835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FoLdDL5bsq7oWIzNyP3Y8_33.874943_-84.309504@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461891481,
+    "wof:geomhash":"04b755c8e27f04ac764c17d859211d44",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525899,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937255,
+            "neighbourhood_id":85807835,
+            "region_id":85688535,
+            "venue_id":722933599
+        }
+    ],
+    "wof:id":722933599,
+    "wof:lastmodified":1461891481,
+    "wof:name":"Speedemissions",
+    "wof:parent_id":102525899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "testing",
+        "emission"
+    ]
+},
+  "bbox": [
+    -84.309504,
+    33.874943,
+    -84.309504,
+    33.874943
+],
+  "geometry": {"coordinates":[-84.309504,33.874943],"type":"Point"}
+}

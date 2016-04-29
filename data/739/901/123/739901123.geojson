@@ -1,0 +1,78 @@
+{
+  "id": 739901123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.744017,33.396881,-84.744017,33.396881",
+    "geom:latitude":33.396881,
+    "geom:longitude":-84.744017,
+    "iso:country":"US",
+    "sg:address":"1072 Highway 34 E",
+    "sg:city":"Newnan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 423 0007",
+    "sg:postcode":"30265",
+    "sg:province":"GA",
+    "sg:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ],
+    "sg:website":"http://www.banfield.net/ypoffer/?source=yp",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936351,
+        102084443,
+        85833133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54AXiTpPaWWrPBt4t2L3TI_33.396881_-84.744017@1303262601"
+    },
+    "wof:country":"US",
+    "wof:created":1461919868,
+    "wof:geomhash":"6e3f3bedccf70a6d1f282e855a90801d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084443,
+            "locality_id":85936351,
+            "neighbourhood_id":85833133,
+            "region_id":85688535,
+            "venue_id":739901123
+        }
+    ],
+    "wof:id":739901123,
+    "wof:lastmodified":1461919868,
+    "wof:name":"Banfield the Pet Hospital",
+    "wof:parent_id":85833133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -84.744017,
+    33.396881,
+    -84.744017,
+    33.396881
+],
+  "geometry": {"coordinates":[-84.744017,33.396881],"type":"Point"}
+}

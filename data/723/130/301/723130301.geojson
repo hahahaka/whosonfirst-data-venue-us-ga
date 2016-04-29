@@ -1,0 +1,73 @@
+{
+  "id": 723130301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.494913,33.885074,-84.494913,33.885074",
+    "geom:latitude":33.885074,
+    "geom:longitude":-84.494913,
+    "iso:country":"US",
+    "sg:address":"2091 Dundee Dr SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 778 6349",
+    "sg:postcode":"30080",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936139,
+        102082313,
+        85852043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5J2RMVJjnjaA1gu3PiZHMM_33.885074_-84.494913@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461895704,
+    "wof:geomhash":"4974d1855b851e20156d6dba434aa541",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85852043,
+            "region_id":85688535,
+            "venue_id":723130301
+        }
+    ],
+    "wof:id":723130301,
+    "wof:lastmodified":1461895704,
+    "wof:name":"Mobile Pit Stop Of Atlanta",
+    "wof:parent_id":85852043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.494913,
+    33.885074,
+    -84.494913,
+    33.885074
+],
+  "geometry": {"coordinates":[-84.494913,33.885074],"type":"Point"}
+}

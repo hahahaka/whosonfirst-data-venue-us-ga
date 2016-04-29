@@ -1,0 +1,68 @@
+{
+  "id": 740000299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.301201,33.867802,-84.301201,33.867802",
+    "geom:latitude":33.867802,
+    "geom:longitude":-84.301201,
+    "iso:country":"US",
+    "sg:address":"4337 Buford Hwy",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 633 7040",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102525899,
+        85688535,
+        85633793,
+        85937255,
+        102084539,
+        85807835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4J41DWyQMK0JgmOJf8ml2I_33.867802_-84.301201@1303262627"
+    },
+    "wof:country":"US",
+    "wof:created":1461923941,
+    "wof:geomhash":"64897a2190b7d58b3bb8ab327f361926",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525899,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937255,
+            "neighbourhood_id":85807835,
+            "region_id":85688535,
+            "venue_id":740000299
+        }
+    ],
+    "wof:id":740000299,
+    "wof:lastmodified":1461923941,
+    "wof:name":"T & K Auto Repair",
+    "wof:parent_id":102525899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.301201,
+    33.867802,
+    -84.301201,
+    33.867802
+],
+  "geometry": {"coordinates":[-84.30120100000001,33.867802],"type":"Point"}
+}

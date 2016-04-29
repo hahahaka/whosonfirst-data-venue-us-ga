@@ -1,0 +1,74 @@
+{
+  "id": 739765077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.134231,33.957528,-84.134231,33.957528",
+    "geom:latitude":33.957528,
+    "geom:longitude":-84.134231,
+    "iso:country":"US",
+    "sg:address":"2111 Pleasant Hill Rd",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/suwanee-duluth/160566-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 476 8229",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20lajD5m2YtwzP9MT6UCOz_33.957528_-84.134231@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914342,
+    "wof:geomhash":"5be5e84c256c36451187e05bda6050a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":739765077
+        }
+    ],
+    "wof:id":739765077,
+    "wof:lastmodified":1461914342,
+    "wof:name":"Burger King",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.134231,
+    33.957528,
+    -84.134231,
+    33.957528
+],
+  "geometry": {"coordinates":[-84.134231,33.957528],"type":"Point"}
+}

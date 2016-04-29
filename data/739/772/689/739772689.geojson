@@ -1,0 +1,74 @@
+{
+  "id": 739772689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.59459,31.85592,-81.59459,31.85592",
+    "geom:latitude":31.85592,
+    "geom:longitude":-81.59459,
+    "iso:country":"US",
+    "sg:address":"106 W General Stewart Way",
+    "sg:city":"Hinesville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/hinesville/132471-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 369 7294",
+    "sg:postcode":"31313",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936767,
+        102082901,
+        85820995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66JjzDa86bo7Ajk32Ykquc_31.855920_-81.594590@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914652,
+    "wof:geomhash":"aac8592aab33649b248c857fb214e4b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082901,
+            "locality_id":85936767,
+            "neighbourhood_id":85820995,
+            "region_id":85688535,
+            "venue_id":739772689
+        }
+    ],
+    "wof:id":739772689,
+    "wof:lastmodified":1461914652,
+    "wof:name":"Subway",
+    "wof:parent_id":85820995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -81.59459,
+    31.85592,
+    -81.59459,
+    31.85592
+],
+  "geometry": {"coordinates":[-81.59459,31.85592],"type":"Point"}
+}

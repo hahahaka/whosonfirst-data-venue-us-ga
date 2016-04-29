@@ -1,0 +1,88 @@
+{
+  "id": 739803797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.172927,34.146174,-84.172927,34.146174",
+    "geom:latitude":34.146174,
+    "geom:longitude":-84.172927,
+    "iso:country":"US",
+    "sg:address":"634 Peachtree Pkwy # 100",
+    "sg:city":"Cumming",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 889 7465",
+    "sg:postcode":"30041",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeons",
+        "pediatrics-orthopedic",
+        "orthopedics",
+        "surgery",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936811,
+        102082317,
+        85842073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18bXqHkXtBC2M2H3h12UGd_34.146174_-84.172927@1303262576"
+    },
+    "wof:country":"US",
+    "wof:created":1461915960,
+    "wof:geomhash":"0f7d9f348897fa8e14fa07e667f2fc9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082317,
+            "locality_id":85936811,
+            "neighbourhood_id":85842073,
+            "region_id":85688535,
+            "venue_id":739803797
+        }
+    ],
+    "wof:id":739803797,
+    "wof:lastmodified":1461915960,
+    "wof:name":"Georgia North Orthopedic",
+    "wof:parent_id":85842073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeons",
+        "pediatrics-orthopedic",
+        "orthopedics",
+        "surgery",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.172927,
+    34.146174,
+    -84.172927,
+    34.146174
+],
+  "geometry": {"coordinates":[-84.172927,34.146174],"type":"Point"}
+}

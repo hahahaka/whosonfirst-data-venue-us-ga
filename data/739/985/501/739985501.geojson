@@ -1,0 +1,71 @@
+{
+  "id": 739985501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.532437,33.769237,-84.532437,33.769237",
+    "geom:latitude":33.769237,
+    "geom:longitude":-84.532437,
+    "iso:country":"US",
+    "sg:address":"4500 Wendell Dr SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 691 4882",
+    "sg:postcode":"30336",
+    "sg:province":"GA",
+    "sg:tags":[
+        "supply",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85872053,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4U4yemxNHigwFL2hTDEs82_33.769237_-84.532437@1303262623"
+    },
+    "wof:country":"US",
+    "wof:created":1461923378,
+    "wof:geomhash":"751ffe7223934e388dc794fb6a5c0334",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85872053,
+            "region_id":85688535,
+            "venue_id":739985501
+        }
+    ],
+    "wof:id":739985501,
+    "wof:lastmodified":1461923378,
+    "wof:name":"Flint Equipment Company",
+    "wof:parent_id":85872053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.532437,
+    33.769237,
+    -84.532437,
+    33.769237
+],
+  "geometry": {"coordinates":[-84.532437,33.769237],"type":"Point"}
+}

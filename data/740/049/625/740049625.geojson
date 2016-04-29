@@ -1,0 +1,72 @@
+{
+  "id": 740049625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.682748,32.618527,-83.682748,32.618527",
+    "geom:latitude":32.618527,
+    "geom:longitude":-83.682748,
+    "iso:country":"US",
+    "sg:address":"2900 Watson Blvd",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 953 2006",
+    "sg:postcode":"31028",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.riteaid.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64l1rD8vLeT22SdBWsQbaT_32.618527_-83.682748@1303262639"
+    },
+    "wof:country":"US",
+    "wof:created":1461926073,
+    "wof:geomhash":"4101823e9ddb1540d9287db2813e16fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":740049625
+        }
+    ],
+    "wof:id":740049625,
+    "wof:lastmodified":1461926073,
+    "wof:name":"Rite Aid Pharmacies",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -83.682748,
+    32.618527,
+    -83.682748,
+    32.618527
+],
+  "geometry": {"coordinates":[-83.682748,32.618527],"type":"Point"}
+}

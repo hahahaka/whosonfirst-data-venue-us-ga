@@ -1,0 +1,73 @@
+{
+  "id": 723402723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.596273,33.985669,-84.596273,33.985669",
+    "geom:latitude":33.985669,
+    "geom:longitude":-84.596273,
+    "iso:country":"US",
+    "sg:address":"1370 Valley Reserve Dr NW",
+    "sg:city":"Kennesaw",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 795 9733",
+    "sg:postcode":"30152",
+    "sg:province":"GA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2svDcbkcNToRFSRj4SovFi_33.985669_-84.596273@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901020,
+    "wof:geomhash":"0b261e937c569ccfd0ec7ad73dcdd7b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":723402723
+        }
+    ],
+    "wof:id":723402723,
+    "wof:lastmodified":1461901020,
+    "wof:name":"Galileo International",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.596273,
+    33.985669,
+    -84.596273,
+    33.985669
+],
+  "geometry": {"coordinates":[-84.596273,33.985669],"type":"Point"}
+}

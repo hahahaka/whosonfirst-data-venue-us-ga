@@ -1,0 +1,71 @@
+{
+  "id": 740012775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.508776,33.600831,-84.508776,33.600831",
+    "geom:latitude":33.600831,
+    "geom:longitude":-84.508776,
+    "iso:country":"US",
+    "sg:address":"3700 Creekview Cir",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 762 7803",
+    "sg:postcode":"30349",
+    "sg:province":"GA",
+    "sg:tags":[
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85848007,
+        102083603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34crZ9Zmt0ruj5Hm0gW2JV_33.600831_-84.508776@1303262630"
+    },
+    "wof:country":"US",
+    "wof:created":1461924421,
+    "wof:geomhash":"3ca3e026979e9fb4acc942e09ba2d7e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":85848007,
+            "region_id":85688535,
+            "venue_id":740012775
+        }
+    ],
+    "wof:id":740012775,
+    "wof:lastmodified":1461924421,
+    "wof:name":"Ponder Express",
+    "wof:parent_id":85848007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.508776,
+    33.600831,
+    -84.508776,
+    33.600831
+],
+  "geometry": {"coordinates":[-84.508776,33.600831],"type":"Point"}
+}

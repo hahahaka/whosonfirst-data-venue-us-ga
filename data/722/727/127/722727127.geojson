@@ -1,0 +1,73 @@
+{
+  "id": 722727127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.734452,32.457823,-83.734452,32.457823",
+    "geom:latitude":32.457823,
+    "geom:longitude":-83.734452,
+    "iso:country":"US",
+    "sg:address":"1005 Jernigan St",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 988 4461",
+    "sg:postcode":"31069",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aVjF8tYtunQSOZB0LWkGU_32.457823_-83.734452@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461887470,
+    "wof:geomhash":"bf17dbe79cc78d219467d1e466aac391",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":722727127
+        }
+    ],
+    "wof:id":722727127,
+    "wof:lastmodified":1461887470,
+    "wof:name":"Patients First Medical Equip",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.734452,
+    32.457823,
+    -83.734452,
+    32.457823
+],
+  "geometry": {"coordinates":[-83.734452,32.457823],"type":"Point"}
+}

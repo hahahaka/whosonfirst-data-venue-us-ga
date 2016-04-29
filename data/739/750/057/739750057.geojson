@@ -1,0 +1,77 @@
+{
+  "id": 739750057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.274792,30.823045,-83.274792,30.823045",
+    "geom:latitude":30.823045,
+    "geom:longitude":-83.274792,
+    "iso:country":"US",
+    "sg:address":"704 S Patterson St",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 244 4434",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"http://www.dollargeneral.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30fJ7C9QyomQzTA1LktOZc_30.823013_-83.274849@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1461913712,
+    "wof:geomhash":"19acc23c8e470f92a42626ec35baeebe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843077,
+            "region_id":85688535,
+            "venue_id":739750057
+        }
+    ],
+    "wof:id":739750057,
+    "wof:lastmodified":1461913712,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85843077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.274792,
+    30.823045,
+    -83.274792,
+    30.823045
+],
+  "geometry": {"coordinates":[-83.27479200000001,30.823045],"type":"Point"}
+}

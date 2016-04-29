@@ -1,0 +1,83 @@
+{
+  "id": 740050531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.694681,32.547023,-83.694681,32.547023",
+    "geom:latitude":32.547023,
+    "geom:longitude":-83.694681,
+    "iso:country":"US",
+    "sg:address":"1125 Ga Highway 96",
+    "sg:city":"Kathleen",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 987 3332",
+    "sg:postcode":"31047",
+    "sg:province":"GA",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"https://www.wachovia.com/?DCMP=KNL-CPS-DS-Directory-0703&HBX_PK=Banks&HBX_OU=71",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0a0D6GxkjIVrmmSjFl12dT_32.547023_-83.694681@1303262640"
+    },
+    "wof:country":"US",
+    "wof:created":1461926120,
+    "wof:geomhash":"de49e36e09897340e448a02db6cbe1c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":740050531
+        }
+    ],
+    "wof:id":740050531,
+    "wof:lastmodified":1461926120,
+    "wof:name":"Wachovia Bank",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -83.694681,
+    32.547023,
+    -83.694681,
+    32.547023
+],
+  "geometry": {"coordinates":[-83.694681,32.547023],"type":"Point"}
+}

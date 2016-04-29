@@ -1,0 +1,73 @@
+{
+  "id": 723048125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.968006,32.517025,-84.968006,32.517025",
+    "geom:latitude":32.517025,
+    "geom:longitude":-84.968006,
+    "iso:country":"US",
+    "sg:address":"5360 Veterans Pkwy",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 324 0333",
+    "sg:postcode":"31904",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        420518109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mDxerIhWjjidKqxWMUKAF_32.517025_-84.968006@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461893973,
+    "wof:geomhash":"77bb8f0cdff687cf8e41803d5421cebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":420518109,
+            "region_id":85688535,
+            "venue_id":723048125
+        }
+    ],
+    "wof:id":723048125,
+    "wof:lastmodified":1461893973,
+    "wof:name":"Northside Animal Hospital",
+    "wof:parent_id":420518109,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.968006,
+    32.517025,
+    -84.968006,
+    32.517025
+],
+  "geometry": {"coordinates":[-84.968006,32.517025],"type":"Point"}
+}

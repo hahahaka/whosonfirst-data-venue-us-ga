@@ -1,0 +1,77 @@
+{
+  "id": 722843695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.72879,32.795825,-83.72879,32.795825",
+    "geom:latitude":32.795825,
+    "geom:longitude":-83.72879,
+    "iso:country":"US",
+    "sg:address":"106 Inlet Way",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 477 0503",
+    "sg:postcode":"31206",
+    "sg:province":"GA",
+    "sg:tags":[
+        "tile",
+        "house",
+        "dealer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936517,
+        102084373,
+        85806435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UsqUy12aTlm64MaHWKEKJ_32.795825_-83.728790@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461889694,
+    "wof:geomhash":"84a9ac3d69768f69611547786661665b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084373,
+            "locality_id":85936517,
+            "neighbourhood_id":85806435,
+            "region_id":85688535,
+            "venue_id":722843695
+        }
+    ],
+    "wof:id":722843695,
+    "wof:lastmodified":1461889694,
+    "wof:name":"Tilepatcher",
+    "wof:parent_id":85806435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "house",
+        "dealer",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.72879,
+    32.795825,
+    -83.72879,
+    32.795825
+],
+  "geometry": {"coordinates":[-83.72879,32.795825],"type":"Point"}
+}

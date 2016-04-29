@@ -1,0 +1,74 @@
+{
+  "id": 740011415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.330368,33.923149,-84.330368,33.923149",
+    "geom:latitude":33.923149,
+    "geom:longitude":-84.330368,
+    "iso:country":"US",
+    "sg:address":"41 Perimeter Center East, #100",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 382 6900",
+    "sg:postcode":"30346",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"http://www.dunwoodypolice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85889963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VTYcqoubHraSXYyFM8ua2_33.923149_-84.330368@1303262630"
+    },
+    "wof:country":"US",
+    "wof:created":1461924371,
+    "wof:geomhash":"f15fb5efb6f75e8db793e9f09bf8c8d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85889963,
+            "region_id":85688535,
+            "venue_id":740011415
+        }
+    ],
+    "wof:id":740011415,
+    "wof:lastmodified":1461924371,
+    "wof:name":"Dunwoody Police Department",
+    "wof:parent_id":85889963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.330368,
+    33.923149,
+    -84.330368,
+    33.923149
+],
+  "geometry": {"coordinates":[-84.33036800000001,33.923149],"type":"Point"}
+}

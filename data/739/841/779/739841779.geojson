@@ -1,0 +1,86 @@
+{
+  "id": 739841779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.482903,33.8983,-84.482903,33.8983",
+    "geom:latitude":33.8983,
+    "geom:longitude":-84.482903,
+    "iso:country":"US",
+    "sg:address":"2155 Cobb Pkwy SE",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 953 0100",
+    "sg:postcode":"30080",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body",
+        "shop",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818985,
+        102082313,
+        85845875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lTxBBmNknuIR2hZqOKsGs_33.898300_-84.482903@1303262586"
+    },
+    "wof:country":"US",
+    "wof:created":1461917561,
+    "wof:geomhash":"5b60a639feba7887882bf13900b4a4a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85818985,
+            "region_id":85688535,
+            "venue_id":739841779
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":739841779
+        }
+    ],
+    "wof:id":739841779,
+    "wof:lastmodified":1461917561,
+    "wof:name":"Cobb Parkway Chevrolet",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "car"
+    ]
+},
+  "bbox": [
+    -84.482903,
+    33.8983,
+    -84.482903,
+    33.8983
+],
+  "geometry": {"coordinates":[-84.48290299999999,33.8983],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 722684825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.85065,34.465358,-84.85065,34.465358",
+    "geom:latitude":34.465358,
+    "geom:longitude":-84.85065,
+    "iso:country":"US",
+    "sg:address":"625 Beason Rd SE",
+    "sg:city":"Calhoun",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 629 8069",
+    "sg:postcode":"30701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85836757,
+        102084679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JXYyFOY6BkkNMYUqbs992_34.465358_-84.850650@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886677,
+    "wof:geomhash":"dc7298fb8967d9ee1203a956a72e5dbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084679,
+            "neighbourhood_id":85836757,
+            "region_id":85688535,
+            "venue_id":722684825
+        }
+    ],
+    "wof:id":722684825,
+    "wof:lastmodified":1461886677,
+    "wof:name":"Hayes Plumbing Elect Inc",
+    "wof:parent_id":85836757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.85065,
+    34.465358,
+    -84.85065,
+    34.465358
+],
+  "geometry": {"coordinates":[-84.85065,34.465358],"type":"Point"}
+}

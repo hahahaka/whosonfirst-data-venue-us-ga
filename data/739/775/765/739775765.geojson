@@ -1,0 +1,85 @@
+{
+  "id": 739775765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.309952,33.86021,-84.309952,33.86021",
+    "geom:latitude":33.86021,
+    "geom:longitude":-84.309952,
+    "iso:country":"US",
+    "sg:address":"3473 Clairmont Rd NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/chamblee-doraville/172526-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 248 0087",
+    "sg:postcode":"30319",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102525899,
+        85688535,
+        85633793,
+        85937255,
+        102084539,
+        85807835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hQw4QfKHFZR10MOQoAEbT_33.860756_-84.309986@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461914773,
+    "wof:geomhash":"f28af88d310cca1c8cb2cf3e8f0258da",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525899,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937255,
+            "neighbourhood_id":85807835,
+            "region_id":85688535,
+            "venue_id":739775765
+        }
+    ],
+    "wof:id":739775765,
+    "wof:lastmodified":1461914773,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":102525899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -84.309952,
+    33.86021,
+    -84.309952,
+    33.86021
+],
+  "geometry": {"coordinates":[-84.309952,33.86021],"type":"Point"}
+}

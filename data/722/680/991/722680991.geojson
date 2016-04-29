@@ -1,0 +1,73 @@
+{
+  "id": 722680991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.241736,31.973621,-81.241736,31.973621",
+    "geom:latitude":31.973621,
+    "geom:longitude":-81.241736,
+    "iso:country":"US",
+    "sg:address":"133 Junco Way",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 927 6429",
+    "sg:postcode":"31419",
+    "sg:province":"GA",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936939,
+        102082337,
+        85858259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cSSivHMTzlcWBNL7YFypn_31.973621_-81.241736@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886598,
+    "wof:geomhash":"362aaeeb45586d53855420729322e32c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85858259,
+            "region_id":85688535,
+            "venue_id":722680991
+        }
+    ],
+    "wof:id":722680991,
+    "wof:lastmodified":1461886598,
+    "wof:name":"Bittner's Lock & Key",
+    "wof:parent_id":85858259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -81.241736,
+    31.973621,
+    -81.241736,
+    31.973621
+],
+  "geometry": {"coordinates":[-81.241736,31.973621],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 740049631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.687897,32.623501,-83.687897,32.623501",
+    "geom:latitude":32.623501,
+    "geom:longitude":-83.687897,
+    "iso:country":"US",
+    "sg:address":"109 Gunn Rd",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 953 3647",
+    "sg:postcode":"31028",
+    "sg:province":"GA",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Vhzyx7X1LRK4BufTJtWTR_32.623501_-83.687897@1303262639"
+    },
+    "wof:country":"US",
+    "wof:created":1461926073,
+    "wof:geomhash":"08758880ef84d0fac0ffe282d3a91c6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":740049631
+        }
+    ],
+    "wof:id":740049631,
+    "wof:lastmodified":1461926073,
+    "wof:name":"Fido's Friends Grooming Salon",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -83.687897,
+    32.623501,
+    -83.687897,
+    32.623501
+],
+  "geometry": {"coordinates":[-83.68789700000001,32.623501],"type":"Point"}
+}

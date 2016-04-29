@@ -1,0 +1,86 @@
+{
+  "id": 739955465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.388062,33.735737,-84.388062,33.735737",
+    "geom:latitude":33.735737,
+    "geom:longitude":-84.388062,
+    "iso:country":"US",
+    "sg:address":"755 Hank Aaron Drive",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 523 5854",
+    "sg:postcode":"30315",
+    "sg:province":"GA",
+    "sg:tags":[
+        "professional",
+        "team"
+    ],
+    "sg:website":"atlanta.braves.mlb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85851371,
+        85833641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WayIJIDnmbWVq0J21MyD0_33.735737_-84.388062@1303262615"
+    },
+    "wof:country":"US",
+    "wof:created":1461922200,
+    "wof:geomhash":"bd186f5e016212a1169905e9b22bfe01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85851371,
+            "region_id":85688535,
+            "venue_id":739955465
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85833641,
+            "region_id":85688535,
+            "venue_id":739955465
+        }
+    ],
+    "wof:id":739955465,
+    "wof:lastmodified":1461922200,
+    "wof:name":"Atlanta Braves",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "professional",
+        "team"
+    ]
+},
+  "bbox": [
+    -84.388062,
+    33.735737,
+    -84.388062,
+    33.735737
+],
+  "geometry": {"coordinates":[-84.38806200000001,33.735737],"type":"Point"}
+}

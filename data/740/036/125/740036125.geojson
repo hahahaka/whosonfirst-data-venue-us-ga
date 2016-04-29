@@ -1,0 +1,84 @@
+{
+  "id": 740036125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.467408,33.596232,-83.467408,33.596232",
+    "geom:latitude":33.596232,
+    "geom:longitude":-83.467408,
+    "iso:country":"US",
+    "sg:address":"118 N Main St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 342 1275",
+    "sg:postcode":"30650",
+    "sg:province":"GA",
+    "sg:tags":[
+        "department",
+        "township",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937061,
+        102081701,
+        85805009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08SGV8bY8fCYLTj84jx2Xi_33.596232_-83.467408@1303262636"
+    },
+    "wof:country":"US",
+    "wof:created":1461925415,
+    "wof:geomhash":"36b9cfe3d8916e85e99c602d53364a77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081701,
+            "locality_id":85937061,
+            "neighbourhood_id":85805009,
+            "region_id":85688535,
+            "venue_id":740036125
+        }
+    ],
+    "wof:id":740036125,
+    "wof:lastmodified":1461925415,
+    "wof:name":"Madison City Police Department",
+    "wof:parent_id":85805009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -83.467408,
+    33.596232,
+    -83.467408,
+    33.596232
+],
+  "geometry": {"coordinates":[-83.46740800000001,33.596232],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 739545843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.829604,34.448061,-84.829604,34.448061",
+    "geom:latitude":34.448061,
+    "geom:longitude":-84.829604,
+    "iso:country":"US",
+    "sg:address":"7311 Fairmount Hwy SE",
+    "sg:city":"Calhoun",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 624 0677",
+    "sg:postcode":"30701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85836757,
+        102084679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bNKLivnmPtLp0Os55Lm77_34.448061_-84.829604@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461909280,
+    "wof:geomhash":"b1ab72caffdd0966eb42dc24dc793927",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084679,
+            "neighbourhood_id":85836757,
+            "region_id":85688535,
+            "venue_id":739545843
+        }
+    ],
+    "wof:id":739545843,
+    "wof:lastmodified":1461909280,
+    "wof:name":"AGC Pediatrics",
+    "wof:parent_id":85836757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.829604,
+    34.448061,
+    -84.829604,
+    34.448061
+],
+  "geometry": {"coordinates":[-84.829604,34.448061],"type":"Point"}
+}

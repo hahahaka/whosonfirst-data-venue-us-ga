@@ -1,0 +1,85 @@
+{
+  "id": 739856787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.16829,34.000225,-84.16829,34.000225",
+    "geom:latitude":34.000225,
+    "geom:longitude":-84.16829,
+    "iso:country":"US",
+    "sg:address":"3585 Peachtree Industrial Blvd Ste 108",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 387 5980",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "frozen",
+        "dessert",
+        "yogurt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FkYHRa27jifZ30zX28fMJ_34.000225_-84.168290@1303262590"
+    },
+    "wof:country":"US",
+    "wof:created":1461918169,
+    "wof:geomhash":"df0dc5c0ee53b39e94309466c85c2ae2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":739856787
+        }
+    ],
+    "wof:id":739856787,
+    "wof:lastmodified":1461918169,
+    "wof:name":"Yogoday",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert",
+        "yogurt"
+    ]
+},
+  "bbox": [
+    -84.16829,
+    34.000225,
+    -84.16829,
+    34.000225
+],
+  "geometry": {"coordinates":[-84.16829,34.000225],"type":"Point"}
+}

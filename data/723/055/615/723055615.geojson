@@ -1,0 +1,71 @@
+{
+  "id": 723055615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.208926,34.212343,-84.208926,34.212343",
+    "geom:latitude":34.212343,
+    "geom:longitude":-84.208926,
+    "iso:country":"US",
+    "sg:address":"3795 Drew Rd",
+    "sg:city":"Cumming",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 887 2660",
+    "sg:postcode":"30040",
+    "sg:province":"GA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936811,
+        102082317,
+        85842073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZksgarfkW3pPvPDCqqF8s_34.212343_-84.208926@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461894121,
+    "wof:geomhash":"c7a9be869bdb9426357d07a685cabcf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082317,
+            "locality_id":85936811,
+            "neighbourhood_id":85842073,
+            "region_id":85688535,
+            "venue_id":723055615
+        }
+    ],
+    "wof:id":723055615,
+    "wof:lastmodified":1461894121,
+    "wof:name":"Howell's Transmission Svc",
+    "wof:parent_id":85842073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -84.208926,
+    34.212343,
+    -84.208926,
+    34.212343
+],
+  "geometry": {"coordinates":[-84.20892600000001,34.212343],"type":"Point"}
+}

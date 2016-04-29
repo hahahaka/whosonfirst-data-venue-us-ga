@@ -1,0 +1,86 @@
+{
+  "id": 722726515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.789435,32.453646,-81.789435,32.453646",
+    "geom:latitude":32.453646,
+    "geom:longitude":-81.789435,
+    "iso:country":"US",
+    "sg:address":"204 Blitch St",
+    "sg:city":"Statesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 764 3046",
+    "sg:postcode":"30458",
+    "sg:province":"GA",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85935999,
+        102084405,
+        85828471,
+        85838297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5h60Wc145ypkhRxwLKGhGS_32.453646_-81.789435@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461887460,
+    "wof:geomhash":"bfcf7fd2c7bb85692ad6e70e0533c782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85828471,
+            "region_id":85688535,
+            "venue_id":722726515
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85838297,
+            "region_id":85688535,
+            "venue_id":722726515
+        }
+    ],
+    "wof:id":722726515,
+    "wof:lastmodified":1461887460,
+    "wof:name":"Lewis & Son Muffler",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -81.789435,
+    32.453646,
+    -81.789435,
+    32.453646
+],
+  "geometry": {"coordinates":[-81.789435,32.453646],"type":"Point"}
+}

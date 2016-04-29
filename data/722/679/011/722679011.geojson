@@ -1,0 +1,84 @@
+{
+  "id": 722679011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.280165,33.924158,-84.280165,33.924158",
+    "geom:latitude":33.924158,
+    "geom:longitude":-84.280165,
+    "iso:country":"US",
+    "sg:address":"6491 Peachtree Industrial Blvd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 297 7401",
+    "sg:postcode":"30360",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52IgeaCkTNdVbI22SE3z9u_33.924158_-84.280165@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886563,
+    "wof:geomhash":"fcb3b4b9ec95ecef0a0ad287fc2be2b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":722679011
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":722679011
+        }
+    ],
+    "wof:id":722679011,
+    "wof:lastmodified":1461886563,
+    "wof:name":"Medical Management Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "management"
+    ]
+},
+  "bbox": [
+    -84.280165,
+    33.924158,
+    -84.280165,
+    33.924158
+],
+  "geometry": {"coordinates":[-84.280165,33.924158],"type":"Point"}
+}

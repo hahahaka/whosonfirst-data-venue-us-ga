@@ -1,0 +1,75 @@
+{
+  "id": 739254513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.724603,32.880348,-83.724603,32.880348",
+    "geom:latitude":32.880348,
+    "geom:longitude":-83.724603,
+    "iso:country":"US",
+    "sg:address":"4941 Forsyth Rd",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 474 4829",
+    "sg:postcode":"31210",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936517,
+        102084373,
+        85819955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qkQXGj4syGCL3IiaYI26T_32.880348_-83.724603@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461903591,
+    "wof:geomhash":"e8f9c640827d57b94f96de5c399603d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084373,
+            "locality_id":85936517,
+            "neighbourhood_id":85819955,
+            "region_id":85688535,
+            "venue_id":739254513
+        }
+    ],
+    "wof:id":739254513,
+    "wof:lastmodified":1461903591,
+    "wof:name":"Forsyth Road Animal Clinic",
+    "wof:parent_id":85819955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "animal"
+    ]
+},
+  "bbox": [
+    -83.724603,
+    32.880348,
+    -83.724603,
+    32.880348
+],
+  "geometry": {"coordinates":[-83.724603,32.880348],"type":"Point"}
+}

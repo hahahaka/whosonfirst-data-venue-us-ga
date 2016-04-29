@@ -1,0 +1,70 @@
+{
+  "id": 723019395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.556361,33.975326,-84.556361,33.975326",
+    "geom:latitude":33.975326,
+    "geom:longitude":-84.556361,
+    "iso:country":"US",
+    "sg:address":"109 Marr Ave",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 428 4784",
+    "sg:postcode":"30060",
+    "sg:province":"GA",
+    "sg:tags":[
+        "freight"
+    ],
+    "sg:website":"www.gnrr.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85839059,
+        102082313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60VOI0OlSfvoN4oEGk9iZn_33.975326_-84.556361@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461893363,
+    "wof:geomhash":"180879ae68208ce64000b60538795ca7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85839059,
+            "region_id":85688535,
+            "venue_id":723019395
+        }
+    ],
+    "wof:id":723019395,
+    "wof:lastmodified":1461893363,
+    "wof:name":"Georgia Northeastern Railroad",
+    "wof:parent_id":85839059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "freight"
+    ]
+},
+  "bbox": [
+    -84.556361,
+    33.975326,
+    -84.556361,
+    33.975326
+],
+  "geometry": {"coordinates":[-84.556361,33.975326],"type":"Point"}
+}

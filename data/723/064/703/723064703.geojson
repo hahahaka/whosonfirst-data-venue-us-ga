@@ -1,0 +1,83 @@
+{
+  "id": 723064703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.388189,33.721161,-84.388189,33.721161",
+    "geom:latitude":33.721161,
+    "geom:longitude":-84.388189,
+    "iso:country":"US",
+    "sg:address":"1107 Hank Aaron Dr SW",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 523 6606",
+    "sg:postcode":"30315",
+    "sg:province":"GA",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85841265,
+        85872129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45vvcYYG55izfY6pn6V6hY_33.721161_-84.388189@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461894314,
+    "wof:geomhash":"9dedeb73a4b571d219a6c8d7e78d710d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85841265,
+            "region_id":85688535,
+            "venue_id":723064703
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872129,
+            "region_id":85688535,
+            "venue_id":723064703
+        }
+    ],
+    "wof:id":723064703,
+    "wof:lastmodified":1461894314,
+    "wof:name":"Young Funeral Home",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -84.388189,
+    33.721161,
+    -84.388189,
+    33.721161
+],
+  "geometry": {"coordinates":[-84.388189,33.721161],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 739813569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.104698,33.710999,-84.104698,33.710999",
+    "geom:latitude":33.710999,
+    "geom:longitude":-84.104698,
+    "iso:country":"US",
+    "sg:address":"7001 Swift St",
+    "sg:city":"Lithonia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 482 8782",
+    "sg:postcode":"30058",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937263,
+        102084539,
+        85890037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20eKFy10pI4AmLqPfvEnsC_33.710999_-84.104698@1303262578"
+    },
+    "wof:country":"US",
+    "wof:created":1461916445,
+    "wof:geomhash":"4c48c8bf7d9a86babb9741e2494517c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937263,
+            "neighbourhood_id":85890037,
+            "region_id":85688535,
+            "venue_id":739813569
+        }
+    ],
+    "wof:id":739813569,
+    "wof:lastmodified":1461916445,
+    "wof:name":"Garner's Auto Body Repair",
+    "wof:parent_id":85890037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.104698,
+    33.710999,
+    -84.104698,
+    33.710999
+],
+  "geometry": {"coordinates":[-84.104698,33.710999],"type":"Point"}
+}

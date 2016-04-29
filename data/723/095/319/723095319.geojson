@@ -1,0 +1,71 @@
+{
+  "id": 723095319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.428741,34.461663,-84.428741,34.461663",
+    "geom:latitude":34.461663,
+    "geom:longitude":-84.428741,
+    "iso:country":"US",
+    "sg:address":"475 S Main St",
+    "sg:city":"Jasper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 253 3159",
+    "sg:postcode":"30143",
+    "sg:province":"GA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85846359,
+        102083619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61UoQUZrniNEZAKOMfPN03_34.461663_-84.428741@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461895023,
+    "wof:geomhash":"00b104ddab325bee928b9a0e89963a27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083619,
+            "neighbourhood_id":85846359,
+            "region_id":85688535,
+            "venue_id":723095319
+        }
+    ],
+    "wof:id":723095319,
+    "wof:lastmodified":1461895023,
+    "wof:name":"Dean's Plumbing & Electric",
+    "wof:parent_id":85846359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.428741,
+    34.461663,
+    -84.428741,
+    34.461663
+],
+  "geometry": {"coordinates":[-84.428741,34.461663],"type":"Point"}
+}

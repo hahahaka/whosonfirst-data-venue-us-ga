@@ -1,0 +1,91 @@
+{
+  "id": 739996879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.283125,33.895131,-84.283125,33.895131",
+    "geom:latitude":33.895131,
+    "geom:longitude":-84.283125,
+    "iso:country":"US",
+    "sg:address":"5217 Buford Hwy NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 457 0582",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85936435,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4p8mi4WiJmvnm83RNdzTNN_33.895131_-84.283125@1303262626"
+    },
+    "wof:country":"US",
+    "wof:created":1461923810,
+    "wof:geomhash":"595b3cf6847dbf671881c40a7d831ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":739996879
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":739996879
+        }
+    ],
+    "wof:id":739996879,
+    "wof:lastmodified":1461923810,
+    "wof:name":"Hair Creations II",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [
+    -84.283125,
+    33.895131,
+    -84.283125,
+    33.895131
+],
+  "geometry": {"coordinates":[-84.283125,33.895131],"type":"Point"}
+}

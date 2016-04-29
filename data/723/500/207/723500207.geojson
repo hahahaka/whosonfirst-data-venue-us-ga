@@ -1,0 +1,71 @@
+{
+  "id": 723500207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.886275,32.553339,-83.886275,32.553339",
+    "geom:latitude":32.553339,
+    "geom:longitude":-83.886275,
+    "iso:country":"US",
+    "sg:address":"126 E Main St",
+    "sg:city":"Fort Valley",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 827 0530",
+    "sg:postcode":"31030",
+    "sg:province":"GA",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936251,
+        102082339,
+        85840991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lQbvfZU03sDCetjzpoJfc_32.553339_-83.886275@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461902967,
+    "wof:geomhash":"7f55fe9e32adf4fd8cac5497849ac8e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082339,
+            "locality_id":85936251,
+            "neighbourhood_id":85840991,
+            "region_id":85688535,
+            "venue_id":723500207
+        }
+    ],
+    "wof:id":723500207,
+    "wof:lastmodified":1461902967,
+    "wof:name":"Bread & More",
+    "wof:parent_id":85840991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -83.886275,
+    32.553339,
+    -83.886275,
+    32.553339
+],
+  "geometry": {"coordinates":[-83.886275,32.553339],"type":"Point"}
+}

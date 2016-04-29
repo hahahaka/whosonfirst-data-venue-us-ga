@@ -1,0 +1,80 @@
+{
+  "id": 723053395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.107005,32.054393,-81.107005,32.054393",
+    "geom:latitude":32.054393,
+    "geom:longitude":-81.107005,
+    "iso:country":"US",
+    "sg:address":"2607 Martin Luther King Jr Blvd",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 201 0555",
+    "sg:postcode":"31415",
+    "sg:province":"GA",
+    "sg:tags":[
+        "seafood",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85880893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RNnvZGtVsO3jcLSFwHcmH_32.054393_-81.107005@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461894080,
+    "wof:geomhash":"6cb7e5a237075cfe2289666b7c319a97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880893,
+            "region_id":85688535,
+            "venue_id":723053395
+        }
+    ],
+    "wof:id":723053395,
+    "wof:lastmodified":1461894080,
+    "wof:name":"Lee's Seafood Market",
+    "wof:parent_id":85880893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "eating"
+    ]
+},
+  "bbox": [
+    -81.107005,
+    32.054393,
+    -81.107005,
+    32.054393
+],
+  "geometry": {"coordinates":[-81.107005,32.054393],"type":"Point"}
+}

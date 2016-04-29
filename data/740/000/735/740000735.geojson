@@ -1,0 +1,84 @@
+{
+  "id": 740000735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.291561,33.905013,-84.291561,33.905013",
+    "geom:latitude":33.905013,
+    "geom:longitude":-84.291561,
+    "iso:country":"US",
+    "sg:address":"2381 John Glenn Dr Ste 110",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 457 7800",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85936435,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31RmPnbksOZEx6ppbJvwne_33.905013_-84.291561@1303262627"
+    },
+    "wof:country":"US",
+    "wof:created":1461923955,
+    "wof:geomhash":"f0bcb98453a160c96dc26b8c5f8fdb7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":740000735
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":740000735
+        }
+    ],
+    "wof:id":740000735,
+    "wof:lastmodified":1461923955,
+    "wof:name":"East Atlanta Builders",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.291561,
+    33.905013,
+    -84.291561,
+    33.905013
+],
+  "geometry": {"coordinates":[-84.291561,33.905013],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 723199523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.560978,34.144224,-84.560978,34.144224",
+    "geom:latitude":34.144224,
+    "geom:longitude":-84.560978,
+    "iso:country":"US",
+    "sg:address":"611 Ashwood Ct",
+    "sg:city":"Woodstock",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 926 8844",
+    "sg:postcode":"30189",
+    "sg:province":"GA",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85896275,
+        102084635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qSJtvkyK8QwtcmHRplV6t_34.144224_-84.560978@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897066,
+    "wof:geomhash":"9076ee9b6127d4bcb2c3c346d67a5520",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084635,
+            "neighbourhood_id":85896275,
+            "region_id":85688535,
+            "venue_id":723199523
+        }
+    ],
+    "wof:id":723199523,
+    "wof:lastmodified":1461897066,
+    "wof:name":"GA Trucker",
+    "wof:parent_id":85896275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.560978,
+    34.144224,
+    -84.560978,
+    34.144224
+],
+  "geometry": {"coordinates":[-84.56097800000001,34.144224],"type":"Point"}
+}

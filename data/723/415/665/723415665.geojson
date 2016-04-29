@@ -1,0 +1,87 @@
+{
+  "id": 723415665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.945201,32.439612,-84.945201,32.439612",
+    "geom:latitude":32.439612,
+    "geom:longitude":-84.945201,
+    "iso:country":"US",
+    "sg:address":"3509 Cusseta Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 689 1454",
+    "sg:postcode":"31903",
+    "sg:province":"GA",
+    "sg:tags":[
+        "refrigeration",
+        "household",
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        420518095,
+        85803141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UsAPmOpy4ZWGXMGhoFfBZ_32.439612_-84.945201@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901284,
+    "wof:geomhash":"bbc4351595cb27be0381fa65031c6bcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":420518095,
+            "region_id":85688535,
+            "venue_id":723415665
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85803141,
+            "region_id":85688535,
+            "venue_id":723415665
+        }
+    ],
+    "wof:id":723415665,
+    "wof:lastmodified":1461901284,
+    "wof:name":"Artic Bear Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration",
+        "household",
+        "appliance"
+    ]
+},
+  "bbox": [
+    -84.945201,
+    32.439612,
+    -84.945201,
+    32.439612
+],
+  "geometry": {"coordinates":[-84.945201,32.439612],"type":"Point"}
+}

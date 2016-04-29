@@ -1,0 +1,73 @@
+{
+  "id": 739649899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.524541,34.096711,-84.524541,34.096711",
+    "geom:latitude":34.096711,
+    "geom:longitude":-84.524541,
+    "iso:country":"US",
+    "sg:address":"200 Dupree Rd",
+    "sg:city":"Woodstock",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 445 8294",
+    "sg:postcode":"30189",
+    "sg:province":"GA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936723,
+        102084635,
+        85841797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1W53KpWwhuNnqlDYFmYzq5_34.096711_-84.524541@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461911491,
+    "wof:geomhash":"b3aa3857bc0621c472a75624d6b9be8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084635,
+            "locality_id":85936723,
+            "neighbourhood_id":85841797,
+            "region_id":85688535,
+            "venue_id":739649899
+        }
+    ],
+    "wof:id":739649899,
+    "wof:lastmodified":1461911491,
+    "wof:name":"Georgia Taxi",
+    "wof:parent_id":85841797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -84.524541,
+    34.096711,
+    -84.524541,
+    34.096711
+],
+  "geometry": {"coordinates":[-84.524541,34.096711],"type":"Point"}
+}

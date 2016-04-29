@@ -1,0 +1,76 @@
+{
+  "id": 739803391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.138382,34.17881,-84.138382,34.17881",
+    "geom:latitude":34.17881,
+    "geom:longitude":-84.138382,
+    "iso:country":"US",
+    "sg:address":"1100 Northside Forsyth Dr",
+    "sg:city":"Cumming",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 888 0188",
+    "sg:postcode":"30041",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936811,
+        102082317,
+        85842073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IplOh84BsoaRB9TnM60j0_34.178810_-84.138382@1303262576"
+    },
+    "wof:country":"US",
+    "wof:created":1461915934,
+    "wof:geomhash":"e9ce349e66dbb2b7dc581dbfcf4262d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082317,
+            "locality_id":85936811,
+            "neighbourhood_id":85842073,
+            "region_id":85688535,
+            "venue_id":739803391
+        }
+    ],
+    "wof:id":739803391,
+    "wof:lastmodified":1461915934,
+    "wof:name":"Peachtree Womens Clinic",
+    "wof:parent_id":85842073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -84.138382,
+    34.17881,
+    -84.138382,
+    34.17881
+],
+  "geometry": {"coordinates":[-84.13838199999999,34.17881],"type":"Point"}
+}

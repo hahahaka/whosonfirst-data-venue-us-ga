@@ -1,0 +1,86 @@
+{
+  "id": 740065531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.308575,30.844945,-83.308575,30.844945",
+    "geom:latitude":30.844945,
+    "geom:longitude":-83.308575,
+    "iso:country":"US",
+    "sg:address":"1758 Poplar St",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 245 8448",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "automobile",
+        "coating",
+        "powder",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85814215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZzA5Dqrvf79zd8umOnblQ_30.844945_-83.308575@1303262644"
+    },
+    "wof:country":"US",
+    "wof:created":1461926770,
+    "wof:geomhash":"e1ad39b05916a1854677d36861856891",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85814215,
+            "region_id":85688535,
+            "venue_id":740065531
+        }
+    ],
+    "wof:id":740065531,
+    "wof:lastmodified":1461926770,
+    "wof:name":"Armor Powder Coating",
+    "wof:parent_id":85814215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "automobile",
+        "coating",
+        "powder",
+        "painting"
+    ]
+},
+  "bbox": [
+    -83.308575,
+    30.844945,
+    -83.308575,
+    30.844945
+],
+  "geometry": {"coordinates":[-83.308575,30.844945],"type":"Point"}
+}

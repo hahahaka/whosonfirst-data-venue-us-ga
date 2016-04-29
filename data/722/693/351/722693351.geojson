@@ -1,0 +1,73 @@
+{
+  "id": 722693351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.889685,32.665271,-84.889685,32.665271",
+    "geom:latitude":32.665271,
+    "geom:longitude":-84.889685,
+    "iso:country":"US",
+    "sg:address":"102 Cotton Ln",
+    "sg:city":"Lumpkin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 838 4150",
+    "sg:postcode":"31804",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936099,
+        102084477,
+        85835873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LZdvKIjEeeb7Ex6scFX7T_32.665271_-84.889685@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886841,
+    "wof:geomhash":"7c73758b14470a9588c0c7f68f70b1b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084477,
+            "locality_id":85936099,
+            "neighbourhood_id":85835873,
+            "region_id":85688535,
+            "venue_id":722693351
+        }
+    ],
+    "wof:id":722693351,
+    "wof:lastmodified":1461886841,
+    "wof:name":"Lumpkin Health Care",
+    "wof:parent_id":85835873,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.889685,
+    32.665271,
+    -84.889685,
+    32.665271
+],
+  "geometry": {"coordinates":[-84.889685,32.665271],"type":"Point"}
+}

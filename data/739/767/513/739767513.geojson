@@ -1,0 +1,75 @@
+{
+  "id": 739767513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.592056,33.397181,-84.592056,33.397181",
+    "geom:latitude":33.397181,
+    "geom:longitude":-84.592056,
+    "iso:country":"US",
+    "sg:address":"2717 Highway 54",
+    "sg:city":"Peachtree City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/tyrone/202540-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30269",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936021,
+        102081687,
+        85802325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VRMg97K69CivruIuw6lz7_33.397181_-84.592056@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914437,
+    "wof:geomhash":"92092d8a655718f79906af8dcfa27413",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081687,
+            "locality_id":85936021,
+            "neighbourhood_id":85802325,
+            "region_id":85688535,
+            "venue_id":739767513
+        }
+    ],
+    "wof:id":739767513,
+    "wof:lastmodified":1461914437,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85802325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.592056,
+    33.397181,
+    -84.592056,
+    33.397181
+],
+  "geometry": {"coordinates":[-84.592056,33.397181],"type":"Point"}
+}

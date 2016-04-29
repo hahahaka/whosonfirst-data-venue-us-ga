@@ -1,0 +1,85 @@
+{
+  "id": 739835819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.316357,34.019858,-84.316357,34.019858",
+    "geom:latitude":34.019858,
+    "geom:longitude":-84.316357,
+    "iso:country":"US",
+    "sg:address":"1490 Holcomb Bridge Rd",
+    "sg:city":"Roswell",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 865 2070",
+    "sg:postcode":"30076",
+    "sg:province":"GA",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"https://www.wachovia.com/?DCMP=KNL-CPS-DS-Directory-0703&HBX_PK=Banks&HBX_OU=71",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937163,
+        102083603,
+        85889949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RW3VmL6IVs9ESIcPgfWNt_34.019858_-84.316357@1303262584"
+    },
+    "wof:country":"US",
+    "wof:created":1461917329,
+    "wof:geomhash":"92ee937d3952f367734489720dae357c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937163,
+            "neighbourhood_id":85889949,
+            "region_id":85688535,
+            "venue_id":739835819
+        }
+    ],
+    "wof:id":739835819,
+    "wof:lastmodified":1461917329,
+    "wof:name":"Wachovia Bank",
+    "wof:parent_id":85889949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -84.316357,
+    34.019858,
+    -84.316357,
+    34.019858
+],
+  "geometry": {"coordinates":[-84.316357,34.019858],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 740000777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.300831,33.86792,-84.300831,33.86792",
+    "geom:latitude":33.86792,
+    "geom:longitude":-84.300831,
+    "iso:country":"US",
+    "sg:address":"4321 Buford Hwy Ste C",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 325 3966",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "automobile",
+        "accessory",
+        "rebuilt-wholesale",
+        "supplies-used",
+        "painting",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.benz-store.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102525899,
+        85688535,
+        85633793,
+        85937255,
+        102084539,
+        85807835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_193iqlEGfJkOX5ZCvNSwIG_33.867920_-84.300831@1303262627"
+    },
+    "wof:country":"US",
+    "wof:created":1461923957,
+    "wof:geomhash":"3016844fc0b28453d4f13b98e07fc013",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525899,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937255,
+            "neighbourhood_id":85807835,
+            "region_id":85688535,
+            "venue_id":740000777
+        }
+    ],
+    "wof:id":740000777,
+    "wof:lastmodified":1461923957,
+    "wof:name":"Benz Store",
+    "wof:parent_id":102525899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "automobile",
+        "accessory",
+        "rebuilt-wholesale",
+        "supplies-used",
+        "painting",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -84.300831,
+    33.86792,
+    -84.300831,
+    33.86792
+],
+  "geometry": {"coordinates":[-84.300831,33.86792],"type":"Point"}
+}

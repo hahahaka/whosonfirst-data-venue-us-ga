@@ -1,0 +1,106 @@
+{
+  "id": 739922465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.391098,33.758598,-84.391098,33.758598",
+    "geom:latitude":33.758598,
+    "geom:longitude":-84.391098,
+    "iso:country":"US",
+    "sg:address":"152 Luckie St.",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Music",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Exhibition Hall",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 659 9022",
+    "sg:postcode":"30303",
+    "sg:province":"GA",
+    "sg:tags":[
+        "ballroom",
+        "facility",
+        "venue",
+        "banquet",
+        "reception",
+        "halls",
+        "auditorium"
+    ],
+    "sg:website":"www.tabernacleatl.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85819463,
+        85807911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RXGF1YOsU4iEfkouG1Wek_33.758598_-84.391098@1303262607"
+    },
+    "wof:country":"US",
+    "wof:created":1461920694,
+    "wof:geomhash":"9dae366fc37e80f295592c4d63cbd79b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85819463,
+            "region_id":85688535,
+            "venue_id":739922465
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85807911,
+            "region_id":85688535,
+            "venue_id":739922465
+        }
+    ],
+    "wof:id":739922465,
+    "wof:lastmodified":1461920694,
+    "wof:name":"The Tabernacle",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ballroom",
+        "facility",
+        "venue",
+        "banquet",
+        "reception",
+        "halls",
+        "auditorium"
+    ]
+},
+  "bbox": [
+    -84.391098,
+    33.758598,
+    -84.391098,
+    33.758598
+],
+  "geometry": {"coordinates":[-84.391098,33.758598],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 723401327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.790038,30.791426,-83.790038,30.791426",
+    "geom:latitude":30.791426,
+    "geom:longitude":-83.790038,
+    "iso:country":"US",
+    "sg:address":"118 S Main St",
+    "sg:city":"Boston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 498 8000",
+    "sg:postcode":"31626",
+    "sg:province":"GA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85833309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Cnc5HGfLg69wxYAzBY2HR_30.791426_-83.790038@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900993,
+    "wof:geomhash":"3acd9a472bf31c2eb8d6a0eee75836a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85833309,
+            "region_id":85688535,
+            "venue_id":723401327
+        }
+    ],
+    "wof:id":723401327,
+    "wof:lastmodified":1461900993,
+    "wof:name":"North Court Clinic",
+    "wof:parent_id":85833309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -83.790038,
+    30.791426,
+    -83.790038,
+    30.791426
+],
+  "geometry": {"coordinates":[-83.790038,30.791426],"type":"Point"}
+}

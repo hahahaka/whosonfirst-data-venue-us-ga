@@ -1,0 +1,73 @@
+{
+  "id": 723305315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.397401,33.962312,-83.397401,33.962312",
+    "geom:latitude":33.962312,
+    "geom:longitude":-83.397401,
+    "iso:country":"US",
+    "sg:address":"1135 Prince Ave",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 543 5689",
+    "sg:postcode":"30606",
+    "sg:province":"GA",
+    "sg:tags":[
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936177,
+        102081713,
+        85807659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75Rt34o319NAbnut7xJTac_33.962312_-83.397401@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899175,
+    "wof:geomhash":"4a7d38b138c1285d283aacdce2dc65cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081713,
+            "locality_id":85936177,
+            "neighbourhood_id":85807659,
+            "region_id":85688535,
+            "venue_id":723305315
+        }
+    ],
+    "wof:id":723305315,
+    "wof:lastmodified":1461899175,
+    "wof:name":"Med Claim",
+    "wof:parent_id":85807659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "processing"
+    ]
+},
+  "bbox": [
+    -83.397401,
+    33.962312,
+    -83.397401,
+    33.962312
+],
+  "geometry": {"coordinates":[-83.397401,33.962312],"type":"Point"}
+}

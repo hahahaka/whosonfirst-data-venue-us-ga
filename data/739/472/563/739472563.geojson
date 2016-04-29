@@ -1,0 +1,71 @@
+{
+  "id": 739472563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.578728,30.775675,-81.578728,30.775675",
+    "geom:latitude":30.775675,
+    "geom:longitude":-81.578728,
+    "iso:country":"US",
+    "sg:address":"402 Maggie Way",
+    "sg:city":"St Marys",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 673 6309",
+    "sg:postcode":"31558",
+    "sg:province":"GA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937043,
+        102081693,
+        85852055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Gl93fStiBQWmyWzuY1orZ_30.775675_-81.578728@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907935,
+    "wof:geomhash":"5db56c547869831fafeb6162f3baa119",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081693,
+            "locality_id":85937043,
+            "neighbourhood_id":85852055,
+            "region_id":85688535,
+            "venue_id":739472563
+        }
+    ],
+    "wof:id":739472563,
+    "wof:lastmodified":1461907935,
+    "wof:name":"A Touch Of Clean",
+    "wof:parent_id":85852055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -81.578728,
+    30.775675,
+    -81.578728,
+    30.775675
+],
+  "geometry": {"coordinates":[-81.578728,30.775675],"type":"Point"}
+}

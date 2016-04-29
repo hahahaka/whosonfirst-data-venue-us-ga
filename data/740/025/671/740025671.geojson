@@ -1,0 +1,72 @@
+{
+  "id": 740025671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.955584,34.09335,-83.955584,34.09335",
+    "geom:latitude":34.09335,
+    "geom:longitude":-83.955584,
+    "iso:country":"US",
+    "sg:address":"2605 Hamilton Rd NE",
+    "sg:city":"Buford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 546 5352",
+    "sg:postcode":"30518",
+    "sg:province":"GA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.cvs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936281,
+        102082967,
+        85858547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nIfC58PmaUKzfqTRA7gYv_34.093350_-83.955584@1303262633"
+    },
+    "wof:country":"US",
+    "wof:created":1461924913,
+    "wof:geomhash":"86245453e9d1cc466ec909d1581e7bae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936281,
+            "neighbourhood_id":85858547,
+            "region_id":85688535,
+            "venue_id":740025671
+        }
+    ],
+    "wof:id":740025671,
+    "wof:lastmodified":1461924913,
+    "wof:name":"Cvs Pharmacy",
+    "wof:parent_id":85858547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -83.955584,
+    34.09335,
+    -83.955584,
+    34.09335
+],
+  "geometry": {"coordinates":[-83.955584,34.09335],"type":"Point"}
+}

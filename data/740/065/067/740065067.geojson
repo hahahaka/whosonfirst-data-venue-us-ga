@@ -1,0 +1,75 @@
+{
+  "id": 740065067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.324551,30.841845,-83.324551,30.841845",
+    "geom:latitude":30.841845,
+    "geom:longitude":-83.324551,
+    "iso:country":"US",
+    "sg:address":"1199 N Saint Augustine Rd",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 245 8400",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "sg:website":"http://www.tacobell.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85852681,
+        102083585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5t4vwiFkjwHAdHBN5in6VP_30.841845_-83.324551@1303262643"
+    },
+    "wof:country":"US",
+    "wof:created":1461926749,
+    "wof:geomhash":"2fdb3de19645e7a054432587dff65639",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "neighbourhood_id":85852681,
+            "region_id":85688535,
+            "venue_id":740065067
+        }
+    ],
+    "wof:id":740065067,
+    "wof:lastmodified":1461926749,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85852681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -83.324551,
+    30.841845,
+    -83.324551,
+    30.841845
+],
+  "geometry": {"coordinates":[-83.324551,30.841845],"type":"Point"}
+}

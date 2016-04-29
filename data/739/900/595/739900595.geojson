@@ -1,0 +1,89 @@
+{
+  "id": 739900595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.933325,33.431037,-84.933325,33.431037",
+    "geom:latitude":33.431037,
+    "geom:longitude":-84.933325,
+    "iso:country":"US",
+    "sg:address":"80 Bob Brewster Rd",
+    "sg:city":"Newnan",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Recycling",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 252 8604",
+    "sg:postcode":"30263",
+    "sg:province":"GA",
+    "sg:tags":[
+        "rubbish",
+        "container",
+        "collection",
+        "garbage",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936351,
+        102084443,
+        85833133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OwrrlXuNYubP6LnYfcllT_33.431037_-84.933325@1303262601"
+    },
+    "wof:country":"US",
+    "wof:created":1461919850,
+    "wof:geomhash":"f196a01ebaa1b3fe003fe57d15f0af3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084443,
+            "locality_id":85936351,
+            "neighbourhood_id":85833133,
+            "region_id":85688535,
+            "venue_id":739900595
+        }
+    ],
+    "wof:id":739900595,
+    "wof:lastmodified":1461919850,
+    "wof:name":"Reliable Sanitation",
+    "wof:parent_id":85833133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rubbish",
+        "container",
+        "collection",
+        "garbage",
+        "removal"
+    ]
+},
+  "bbox": [
+    -84.933325,
+    33.431037,
+    -84.933325,
+    33.431037
+],
+  "geometry": {"coordinates":[-84.933325,33.431037],"type":"Point"}
+}

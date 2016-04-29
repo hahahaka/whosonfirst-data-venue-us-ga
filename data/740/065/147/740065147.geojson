@@ -1,0 +1,76 @@
+{
+  "id": 740065147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.29691,30.799209,-83.29691,30.799209",
+    "geom:latitude":30.799209,
+    "geom:longitude":-83.29691,
+    "iso:country":"US",
+    "sg:address":"1555 Commerce Dr",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 241 1411",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85827233,
+        102083585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oMRWhWDHeYtBQOaYrtowR_30.799209_-83.296910@1303262643"
+    },
+    "wof:country":"US",
+    "wof:created":1461926757,
+    "wof:geomhash":"eec04aa5897185713e88da5758a4a698",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "neighbourhood_id":85827233,
+            "region_id":85688535,
+            "venue_id":740065147
+        }
+    ],
+    "wof:id":740065147,
+    "wof:lastmodified":1461926757,
+    "wof:name":"Epes Transport System Inc",
+    "wof:parent_id":85827233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.29691,
+    30.799209,
+    -83.29691,
+    30.799209
+],
+  "geometry": {"coordinates":[-83.29691,30.799209],"type":"Point"}
+}

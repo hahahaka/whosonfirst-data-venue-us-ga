@@ -1,0 +1,71 @@
+{
+  "id": 722798783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.409909,31.79495,-81.409909,31.79495",
+    "geom:latitude":31.79495,
+    "geom:longitude":-81.409909,
+    "iso:country":"US",
+    "sg:address":"40 Industrial Blvd",
+    "sg:city":"Pembroke",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 653 4339",
+    "sg:postcode":"31320",
+    "sg:province":"GA",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936767,
+        102082901,
+        85820995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qUDHYG7Rguq0YuamoyYbn_31.794950_-81.409909@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888867,
+    "wof:geomhash":"595fa2347cd97761cb85538a00a5f8e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082901,
+            "locality_id":85936767,
+            "neighbourhood_id":85820995,
+            "region_id":85688535,
+            "venue_id":722798783
+        }
+    ],
+    "wof:id":722798783,
+    "wof:lastmodified":1461888867,
+    "wof:name":"Gateway Behavioral Health Svc",
+    "wof:parent_id":85820995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -81.409909,
+    31.79495,
+    -81.409909,
+    31.79495
+],
+  "geometry": {"coordinates":[-81.409909,31.79495],"type":"Point"}
+}

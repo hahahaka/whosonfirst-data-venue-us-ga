@@ -1,0 +1,73 @@
+{
+  "id": 723329845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.345203,34.678327,-85.345203,34.678327",
+    "geom:latitude":34.678327,
+    "geom:longitude":-85.345203,
+    "iso:country":"US",
+    "sg:address":"497 Angland Dr",
+    "sg:city":"La Fayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 638 2553",
+    "sg:postcode":"30728",
+    "sg:province":"GA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936063,
+        102082321,
+        85830807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CoC2lkvT0v3IsGpdPYp6l_34.678327_-85.345203@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899623,
+    "wof:geomhash":"00dad5342bd528d6b88ddb1f380f6f84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082321,
+            "locality_id":85936063,
+            "neighbourhood_id":85830807,
+            "region_id":85688535,
+            "venue_id":723329845
+        }
+    ],
+    "wof:id":723329845,
+    "wof:lastmodified":1461899623,
+    "wof:name":"Confederate Transmission Shop",
+    "wof:parent_id":85830807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -85.345203,
+    34.678327,
+    -85.345203,
+    34.678327
+],
+  "geometry": {"coordinates":[-85.345203,34.678327],"type":"Point"}
+}

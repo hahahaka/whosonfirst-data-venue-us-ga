@@ -1,0 +1,80 @@
+{
+  "id": 722737181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.004604,32.966867,-85.004604,32.966867",
+    "geom:latitude":32.966867,
+    "geom:longitude":-85.004604,
+    "iso:country":"US",
+    "sg:address":"41 Racetrack Rd",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 812 1294",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BEpD6sNbbvtlihcITSx6U_32.966867_-85.004604@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461887687,
+    "wof:geomhash":"417507a569506f332d59fc855cdfde00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":722737181
+        }
+    ],
+    "wof:id":722737181,
+    "wof:lastmodified":1461887687,
+    "wof:name":"Brazeal's Automotive",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -85.004604,
+    32.966867,
+    -85.004604,
+    32.966867
+],
+  "geometry": {"coordinates":[-85.004604,32.966867],"type":"Point"}
+}

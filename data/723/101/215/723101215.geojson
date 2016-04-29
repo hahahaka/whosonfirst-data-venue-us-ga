@@ -1,0 +1,75 @@
+{
+  "id": 723101215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.406307,33.65639,-84.406307,33.65639",
+    "geom:latitude":33.65639,
+    "geom:longitude":-84.406307,
+    "iso:country":"US",
+    "sg:address":"3562 Elm St",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 389 0568",
+    "sg:postcode":"30354",
+    "sg:province":"GA",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85890001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bwGi3ylqd5AT716JhsE4G_33.656390_-84.406307@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461895148,
+    "wof:geomhash":"4cadf95738dca3f114c9d94180f7a72b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85890001,
+            "region_id":85688535,
+            "venue_id":723101215
+        }
+    ],
+    "wof:id":723101215,
+    "wof:lastmodified":1461895148,
+    "wof:name":"D&N Amusements",
+    "wof:parent_id":85890001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.406307,
+    33.65639,
+    -84.406307,
+    33.65639
+],
+  "geometry": {"coordinates":[-84.406307,33.65639],"type":"Point"}
+}

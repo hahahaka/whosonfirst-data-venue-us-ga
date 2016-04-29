@@ -1,0 +1,73 @@
+{
+  "id": 722981977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.305638,30.820033,-83.305638,30.820033",
+    "geom:latitude":30.820033,
+    "geom:longitude":-83.305638,
+    "iso:country":"US",
+    "sg:address":"109 Ave B",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 242 8985",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "operator",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1an5wSuj0bxohI5HgEq9TE_30.820033_-83.305638@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461892489,
+    "wof:geomhash":"c3f67cc06a7a03515a5bd2d4cc1522d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843241,
+            "region_id":85688535,
+            "venue_id":722981977
+        }
+    ],
+    "wof:id":722981977,
+    "wof:lastmodified":1461892489,
+    "wof:name":"CSX",
+    "wof:parent_id":85843241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "line"
+    ]
+},
+  "bbox": [
+    -83.305638,
+    30.820033,
+    -83.305638,
+    30.820033
+],
+  "geometry": {"coordinates":[-83.305638,30.820033],"type":"Point"}
+}

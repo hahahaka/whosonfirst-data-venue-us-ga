@@ -1,0 +1,83 @@
+{
+  "id": 739274275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.152411,31.601438,-84.152411,31.601438",
+    "geom:latitude":31.601438,
+    "geom:longitude":-84.152411,
+    "iso:country":"US",
+    "sg:address":"1725 N Washington St",
+    "sg:city":"Albany",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 273 5658",
+    "sg:postcode":"31701",
+    "sg:province":"GA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85935991,
+        102084427,
+        420517781,
+        85829381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XTC1rhWN6vcU7v9vj7Vf8_31.601438_-84.152411@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461904016,
+    "wof:geomhash":"f1fc86bbd3f07ca730013a2cbb3f877b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":420517781,
+            "region_id":85688535,
+            "venue_id":739274275
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084427,
+            "neighbourhood_id":85829381,
+            "region_id":85688535,
+            "venue_id":739274275
+        }
+    ],
+    "wof:id":739274275,
+    "wof:lastmodified":1461904016,
+    "wof:name":"Roto-Rooter Plumbing & Drain",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.152411,
+    31.601438,
+    -84.152411,
+    31.601438
+],
+  "geometry": {"coordinates":[-84.152411,31.601438],"type":"Point"}
+}

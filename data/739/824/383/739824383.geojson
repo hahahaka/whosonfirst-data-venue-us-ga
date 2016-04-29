@@ -1,0 +1,78 @@
+{
+  "id": 739824383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.483299,34.042099,-84.483299,34.042099",
+    "geom:latitude":34.042099,
+    "geom:longitude":-84.483299,
+    "iso:country":"US",
+    "sg:address":"2323 Shallowford Rd",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 926 0926",
+    "sg:postcode":"30066",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85803209,
+        102084635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_155bV054gBwaS8Aqd9c0zJ_34.042099_-84.483299@1303262581"
+    },
+    "wof:country":"US",
+    "wof:created":1461916869,
+    "wof:geomhash":"5cfa74cf1ff9af50d33a1cfc7e77ceb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084635,
+            "neighbourhood_id":85803209,
+            "region_id":85688535,
+            "venue_id":739824383
+        }
+    ],
+    "wof:id":739824383,
+    "wof:lastmodified":1461916869,
+    "wof:name":"Toner Regina DVM",
+    "wof:parent_id":85803209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.483299,
+    34.042099,
+    -84.483299,
+    34.042099
+],
+  "geometry": {"coordinates":[-84.483299,34.042099],"type":"Point"}
+}

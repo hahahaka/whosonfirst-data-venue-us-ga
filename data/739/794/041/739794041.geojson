@@ -1,0 +1,83 @@
+{
+  "id": 739794041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.27264,33.783424,-84.27264,33.783424",
+    "geom:latitude":33.783424,
+    "geom:longitude":-84.27264,
+    "iso:country":"US",
+    "sg:address":"2959 E Ponce de Leon Ave",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 378 1680",
+    "sg:postcode":"30030",
+    "sg:province":"GA",
+    "sg:tags":[
+        "boarding/pet",
+        "groomers",
+        "sitting"
+    ],
+    "sg:website":"www.petsplayhouse.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937263,
+        102084539,
+        85890037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XXqTBTNbMluPBJGM11CC3_33.783424_-84.272640@1303262573"
+    },
+    "wof:country":"US",
+    "wof:created":1461915524,
+    "wof:geomhash":"99cc43bb9bbf19194569e0b9a7f89e64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937263,
+            "neighbourhood_id":85890037,
+            "region_id":85688535,
+            "venue_id":739794041
+        }
+    ],
+    "wof:id":739794041,
+    "wof:lastmodified":1461915524,
+    "wof:name":"Pets Playhouse on Ponce",
+    "wof:parent_id":85890037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "groomers",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.27264,
+    33.783424,
+    -84.27264,
+    33.783424
+],
+  "geometry": {"coordinates":[-84.27264,33.783424],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 723438059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.982128,32.481611,-84.982128,32.481611",
+    "geom:latitude":32.481611,
+    "geom:longitude":-84.982128,
+    "iso:country":"US",
+    "sg:address":"710 Center St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 660 2560",
+    "sg:postcode":"31901",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85882101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5miYEA2mBPBRVNnH3A547A_32.481611_-84.982128@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901711,
+    "wof:geomhash":"f2f4afa5e2f37dec5e694ba022d906cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85882101,
+            "region_id":85688535,
+            "venue_id":723438059
+        }
+    ],
+    "wof:id":723438059,
+    "wof:lastmodified":1461901711,
+    "wof:name":"Amos Cancer Ctr",
+    "wof:parent_id":85882101,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.982128,
+    32.481611,
+    -84.982128,
+    32.481611
+],
+  "geometry": {"coordinates":[-84.982128,32.481611],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 723226827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.782775,33.392623,-84.782775,33.392623",
+    "geom:latitude":33.392623,
+    "geom:longitude":-84.782775,
+    "iso:country":"US",
+    "sg:address":"23 McBride St",
+    "sg:city":"Newnan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 364 8662",
+    "sg:postcode":"30263",
+    "sg:province":"GA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936351,
+        102084443,
+        85833133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PSuccd72VtJNQhXlTkzZc_33.392623_-84.782775@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897637,
+    "wof:geomhash":"a50e50ba33dada246450a0fb0a3dd665",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084443,
+            "locality_id":85936351,
+            "neighbourhood_id":85833133,
+            "region_id":85688535,
+            "venue_id":723226827
+        }
+    ],
+    "wof:id":723226827,
+    "wof:lastmodified":1461897637,
+    "wof:name":"Trans Depot",
+    "wof:parent_id":85833133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -84.782775,
+    33.392623,
+    -84.782775,
+    33.392623
+],
+  "geometry": {"coordinates":[-84.782775,33.392623],"type":"Point"}
+}

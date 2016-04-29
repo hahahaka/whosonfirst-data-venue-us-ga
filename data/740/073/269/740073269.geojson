@@ -1,0 +1,93 @@
+{
+  "id": 740073269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.99127,32.498996,-84.99127,32.498996",
+    "geom:latitude":32.498996,
+    "geom:longitude":-84.99127,
+    "iso:country":"US",
+    "sg:address":"3715 1st Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 327 9300",
+    "sg:postcode":"31904",
+    "sg:province":"GA",
+    "sg:tags":[
+        "ceremony",
+        "facility",
+        "hall",
+        "location",
+        "reception",
+        "wedding",
+        "banquet",
+        "chapel"
+    ],
+    "sg:website":"http://www.rivermilleventcentre.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85806021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aB2n8ArTUiWLPpnmNIxST_32.498996_-84.991270@1303262646"
+    },
+    "wof:country":"US",
+    "wof:created":1461927102,
+    "wof:geomhash":"6ecb9dabc7a056291da43fe008d7489b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85806021,
+            "region_id":85688535,
+            "venue_id":740073269
+        }
+    ],
+    "wof:id":740073269,
+    "wof:lastmodified":1461927102,
+    "wof:name":"RiverMill Event Center",
+    "wof:parent_id":85806021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ceremony",
+        "facility",
+        "hall",
+        "location",
+        "reception",
+        "wedding",
+        "banquet",
+        "chapel"
+    ]
+},
+  "bbox": [
+    -84.99127,
+    32.498996,
+    -84.99127,
+    32.498996
+],
+  "geometry": {"coordinates":[-84.99127,32.498996],"type":"Point"}
+}

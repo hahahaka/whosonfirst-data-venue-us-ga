@@ -1,0 +1,88 @@
+{
+  "id": 740051665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.726523,32.45981,-83.726523,32.45981",
+    "geom:latitude":32.45981,
+    "geom:longitude":-83.726523,
+    "iso:country":"US",
+    "sg:address":"1221 Houston Lake Dr",
+    "sg:city":"Perry",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 987 5277",
+    "sg:postcode":"31069",
+    "sg:province":"GA",
+    "sg:tags":[
+        "ticket",
+        "agency",
+        "services-commercial",
+        "steamship"
+    ],
+    "sg:website":"http://www.andrewpiercetravel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936249,
+        102083617,
+        85803765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uFgHlT7Jj5spXkzqHAbTR_32.459810_-83.726523@1303262640"
+    },
+    "wof:country":"US",
+    "wof:created":1461926180,
+    "wof:geomhash":"07aa2dabb8aa55c22703559ebbf4445a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083617,
+            "locality_id":85936249,
+            "neighbourhood_id":85803765,
+            "region_id":85688535,
+            "venue_id":740051665
+        }
+    ],
+    "wof:id":740051665,
+    "wof:lastmodified":1461926180,
+    "wof:name":"Andrew Pierce Travel",
+    "wof:parent_id":85803765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ticket",
+        "agency",
+        "services-commercial",
+        "steamship"
+    ]
+},
+  "bbox": [
+    -83.726523,
+    32.45981,
+    -83.726523,
+    32.45981
+],
+  "geometry": {"coordinates":[-83.726523,32.45981],"type":"Point"}
+}

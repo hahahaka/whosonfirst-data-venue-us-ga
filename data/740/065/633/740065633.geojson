@@ -1,0 +1,86 @@
+{
+  "id": 740065633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.316628,30.846951,-83.316628,30.846951",
+    "geom:latitude":30.846951,
+    "geom:longitude":-83.316628,
+    "iso:country":"US",
+    "sg:address":"1525 Baytree Rd Ste B",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 253 0515",
+    "sg:postcode":"31602",
+    "sg:province":"GA",
+    "sg:tags":[
+        "shop",
+        "sandwich",
+        "take"
+    ],
+    "sg:website":"http://www.firehousesubs.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85814215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iOScg7fhCMUVNONhFxeX2_30.846951_-83.316628@1303262644"
+    },
+    "wof:country":"US",
+    "wof:created":1461926775,
+    "wof:geomhash":"e7f3360ae8b3298261f600d5151b1352",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85814215,
+            "region_id":85688535,
+            "venue_id":740065633
+        }
+    ],
+    "wof:id":740065633,
+    "wof:lastmodified":1461926775,
+    "wof:name":"Firehouse Subs",
+    "wof:parent_id":85814215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "sandwich",
+        "take"
+    ]
+},
+  "bbox": [
+    -83.316628,
+    30.846951,
+    -83.316628,
+    30.846951
+],
+  "geometry": {"coordinates":[-83.31662799999999,30.846951],"type":"Point"}
+}

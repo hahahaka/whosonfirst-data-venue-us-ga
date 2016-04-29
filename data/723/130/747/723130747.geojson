@@ -1,0 +1,73 @@
+{
+  "id": 723130747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.023409,33.021388,-85.023409,33.021388",
+    "geom:latitude":33.021388,
+    "geom:longitude":-85.023409,
+    "iso:country":"US",
+    "sg:address":"1312 Hamilton Rd",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 882 6007",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ldVOnhOq8e5DDxV6JgJua_33.021388_-85.023409@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461895714,
+    "wof:geomhash":"2ac3e3cdec6324eae7ab11f1aa08c8fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":723130747
+        }
+    ],
+    "wof:id":723130747,
+    "wof:lastmodified":1461895714,
+    "wof:name":"Bay Food Store",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -85.023409,
+    33.021388,
+    -85.023409,
+    33.021388
+],
+  "geometry": {"coordinates":[-85.023409,33.021388],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 739984613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.5186,33.775299,-84.5186,33.775299",
+    "geom:latitude":33.775299,
+    "geom:longitude":-84.5186,
+    "iso:country":"US",
+    "sg:address":"3952 Aviation Cir NW Ste 200",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 699 4200",
+    "sg:postcode":"30336",
+    "sg:province":"GA",
+    "sg:tags":[
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937189,
+        102082313,
+        85809641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4amJ6pmaXb4hBEU0nqKkVc_33.775299_-84.518600@1303262623"
+    },
+    "wof:country":"US",
+    "wof:created":1461923328,
+    "wof:geomhash":"fc12134e03ff97639e8d1b878e9a784d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85937189,
+            "neighbourhood_id":85809641,
+            "region_id":85688535,
+            "venue_id":739984613
+        }
+    ],
+    "wof:id":739984613,
+    "wof:lastmodified":1461923328,
+    "wof:name":"Fulton County Airport-Browns Field",
+    "wof:parent_id":85809641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -84.5186,
+    33.775299,
+    -84.5186,
+    33.775299
+],
+  "geometry": {"coordinates":[-84.51860000000001,33.775299],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 739895869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.955536,33.042661,-84.955536,33.042661",
+    "geom:latitude":33.042661,
+    "geom:longitude":-84.955536,
+    "iso:country":"US",
+    "sg:address":"2119 Greenville Rd",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 812 1247",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "grooming",
+        "dog",
+        "cat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lueTdZDKHTT2WduPIt40g_33.042661_-84.955536@1303262600"
+    },
+    "wof:country":"US",
+    "wof:created":1461919655,
+    "wof:geomhash":"c87cca5b4127493dbe9b8b6ca5a51b90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739895869
+        }
+    ],
+    "wof:id":739895869,
+    "wof:lastmodified":1461919655,
+    "wof:name":"C D Grooming",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grooming",
+        "dog",
+        "cat"
+    ]
+},
+  "bbox": [
+    -84.955536,
+    33.042661,
+    -84.955536,
+    33.042661
+],
+  "geometry": {"coordinates":[-84.955536,33.042661],"type":"Point"}
+}

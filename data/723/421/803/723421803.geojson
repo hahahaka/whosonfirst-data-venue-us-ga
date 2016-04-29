@@ -1,0 +1,73 @@
+{
+  "id": 723421803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.033421,33.856875,-84.033421,33.856875",
+    "geom:latitude":33.856875,
+    "geom:longitude":-84.033421,
+    "iso:country":"US",
+    "sg:address":"2151 Fountain Sq",
+    "sg:city":"Snellville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 985 9040",
+    "sg:postcode":"30078",
+    "sg:province":"GA",
+    "sg:tags":[
+        "medical",
+        "imaging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936303,
+        102082967,
+        85857829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5j53lXdRAMVOD55sVzuNpi_33.856875_-84.033421@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461901392,
+    "wof:geomhash":"a5ea2a5dfbc54ef448cbac5bc36845c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936303,
+            "neighbourhood_id":85857829,
+            "region_id":85688535,
+            "venue_id":723421803
+        }
+    ],
+    "wof:id":723421803,
+    "wof:lastmodified":1461901392,
+    "wof:name":"Open MRI Of Snellville",
+    "wof:parent_id":85857829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "imaging"
+    ]
+},
+  "bbox": [
+    -84.033421,
+    33.856875,
+    -84.033421,
+    33.856875
+],
+  "geometry": {"coordinates":[-84.033421,33.856875],"type":"Point"}
+}

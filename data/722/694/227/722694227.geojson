@@ -1,0 +1,84 @@
+{
+  "id": 722694227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.328569,33.809818,-84.328569,33.809818",
+    "geom:latitude":33.809818,
+    "geom:longitude":-84.328569,
+    "iso:country":"US",
+    "sg:address":"1542 Rainier Falls Dr NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 727 5844",
+    "sg:postcode":"30329",
+    "sg:province":"GA",
+    "sg:tags":[
+        "geneticist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937259,
+        102084539,
+        85866913,
+        85937251,
+        85889951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PaA00BXOOZR7c6IxTnpMk_33.809818_-84.328569@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886859,
+    "wof:geomhash":"76b47c22e8dd49fbaa0764681bb1d242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937259,
+            "neighbourhood_id":85866913,
+            "region_id":85688535,
+            "venue_id":722694227
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937251,
+            "neighbourhood_id":85889951,
+            "region_id":85688535,
+            "venue_id":722694227
+        }
+    ],
+    "wof:id":722694227,
+    "wof:lastmodified":1461886859,
+    "wof:name":"Paul M Fernhoff MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "geneticist"
+    ]
+},
+  "bbox": [
+    -84.328569,
+    33.809818,
+    -84.328569,
+    33.809818
+],
+  "geometry": {"coordinates":[-84.328569,33.809818],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 722678781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.035177,33.037393,-85.035177,33.037393",
+    "geom:latitude":33.037393,
+    "geom:longitude":-85.035177,
+    "iso:country":"US",
+    "sg:address":"302 S Greenwood St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 884 8360",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.aspinwallclinic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59OPdxLnIfGHlyIbRRI8rn_33.037393_-85.035177@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886559,
+    "wof:geomhash":"d0aedd5740c22aed6baf3317b02a5399",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":722678781
+        }
+    ],
+    "wof:id":722678781,
+    "wof:lastmodified":1461886559,
+    "wof:name":"Comprehensive Care Medical Ctr",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.035177,
+    33.037393,
+    -85.035177,
+    33.037393
+],
+  "geometry": {"coordinates":[-85.035177,33.037393],"type":"Point"}
+}

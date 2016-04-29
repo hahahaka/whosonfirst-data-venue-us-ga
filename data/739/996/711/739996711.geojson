@@ -1,0 +1,77 @@
+{
+  "id": 739996711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.269897,33.906502,-84.269897,33.906502",
+    "geom:latitude":33.906502,
+    "geom:longitude":-84.269897,
+    "iso:country":"US",
+    "sg:address":"5700 Buford Hwy NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 441 7779",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Y0ufLmg8e6hK62zrlPA2a_33.906502_-84.269897@1303262626"
+    },
+    "wof:country":"US",
+    "wof:created":1461923805,
+    "wof:geomhash":"58c7d355d272a768063fead37863bdbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":739996711
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":739996711
+        }
+    ],
+    "wof:id":739996711,
+    "wof:lastmodified":1461923805,
+    "wof:name":"Peachtree Carwash and Lube",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.269897,
+    33.906502,
+    -84.269897,
+    33.906502
+],
+  "geometry": {"coordinates":[-84.269897,33.906502],"type":"Point"}
+}

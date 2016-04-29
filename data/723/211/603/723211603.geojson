@@ -1,0 +1,75 @@
+{
+  "id": 723211603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.398234,33.962423,-83.398234,33.962423",
+    "geom:latitude":33.962423,
+    "geom:longitude":-83.398234,
+    "iso:country":"US",
+    "sg:address":"1199 Prince Ave",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 475 5650",
+    "sg:postcode":"30606",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936177,
+        102081713,
+        85807659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ieJNAIuVbkADoYT4bYW2H_33.962423_-83.398234@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897299,
+    "wof:geomhash":"d1d3bbc658e6f69d3960c36e45e99722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081713,
+            "locality_id":85936177,
+            "neighbourhood_id":85807659,
+            "region_id":85688535,
+            "venue_id":723211603
+        }
+    ],
+    "wof:id":723211603,
+    "wof:lastmodified":1461897299,
+    "wof:name":"Athens Radiation Oncology",
+    "wof:parent_id":85807659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.398234,
+    33.962423,
+    -83.398234,
+    33.962423
+],
+  "geometry": {"coordinates":[-83.398234,33.962423],"type":"Point"}
+}

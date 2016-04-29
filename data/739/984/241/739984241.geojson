@@ -1,0 +1,84 @@
+{
+  "id": 739984241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.389388,33.733569,-84.389388,33.733569",
+    "geom:latitude":33.733569,
+    "geom:longitude":-84.389388,
+    "iso:country":"US",
+    "sg:address":"704 Cherry St",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 894 4500",
+    "sg:postcode":"30332",
+    "sg:province":"GA",
+    "sg:tags":[
+        "college"
+    ],
+    "sg:website":"http://www.physics.gatech.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85851371,
+        85833641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EzOe0z0u6Jb3uk3AcEY1s_33.733569_-84.389388@1303262623"
+    },
+    "wof:country":"US",
+    "wof:created":1461923315,
+    "wof:geomhash":"62589a7491dcb0451074b3ba4cfff84f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85851371,
+            "region_id":85688535,
+            "venue_id":739984241
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85833641,
+            "region_id":85688535,
+            "venue_id":739984241
+        }
+    ],
+    "wof:id":739984241,
+    "wof:lastmodified":1461923315,
+    "wof:name":"Georgia Tech Library",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [
+    -84.389388,
+    33.733569,
+    -84.389388,
+    33.733569
+],
+  "geometry": {"coordinates":[-84.389388,33.733569],"type":"Point"}
+}

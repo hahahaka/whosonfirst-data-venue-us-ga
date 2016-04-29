@@ -1,0 +1,88 @@
+{
+  "id": 722675167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.29406,33.905358,-84.29406,33.905358",
+    "geom:latitude":33.905358,
+    "geom:longitude":-84.29406,
+    "iso:country":"US",
+    "sg:address":"2381 John Glenn Dr",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 452 7423",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85936435,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gTm3gofnseY2HyuKjMNTi_33.905358_-84.294060@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886492,
+    "wof:geomhash":"6ba994ce58ffa23076fa0ef7df93abc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":722675167
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":722675167
+        }
+    ],
+    "wof:id":722675167,
+    "wof:lastmodified":1461886492,
+    "wof:name":"Johnson USA",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.29406,
+    33.905358,
+    -84.29406,
+    33.905358
+],
+  "geometry": {"coordinates":[-84.29406,33.905358],"type":"Point"}
+}

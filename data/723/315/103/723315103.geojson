@@ -1,0 +1,71 @@
+{
+  "id": 723315103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.157334,33.94844,-84.157334,33.94844",
+    "geom:latitude":33.94844,
+    "geom:longitude":-84.157334,
+    "iso:country":"US",
+    "sg:address":"4438 Hopkins Lake Dr NW",
+    "sg:city":"Duluth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 242 6567",
+    "sg:postcode":"30096",
+    "sg:province":"GA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936287,
+        102082967,
+        85826369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rqJ3HOBi3M4yC0cIKdTah_33.948440_-84.157334@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899355,
+    "wof:geomhash":"23cb012f7080514af2fa8c1796db9820",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936287,
+            "neighbourhood_id":85826369,
+            "region_id":85688535,
+            "venue_id":723315103
+        }
+    ],
+    "wof:id":723315103,
+    "wof:lastmodified":1461899355,
+    "wof:name":"AGP Cleaning Svc",
+    "wof:parent_id":85826369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -84.157334,
+    33.94844,
+    -84.157334,
+    33.94844
+],
+  "geometry": {"coordinates":[-84.15733400000001,33.94844],"type":"Point"}
+}

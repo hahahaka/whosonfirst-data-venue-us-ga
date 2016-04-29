@@ -1,0 +1,78 @@
+{
+  "id": 739664119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.278354,30.829831,-83.278354,30.829831",
+    "geom:latitude":30.829831,
+    "geom:longitude":-83.278354,
+    "iso:country":"US",
+    "sg:address":"200 S Patterson St",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 245 6000",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "hospital",
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tNThjHkAVVsHEXQnLcS3I_30.829831_-83.278354@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461911830,
+    "wof:geomhash":"b815c95757585d978027030b8b4dd3a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843077,
+            "region_id":85688535,
+            "venue_id":739664119
+        }
+    ],
+    "wof:id":739664119,
+    "wof:lastmodified":1461911830,
+    "wof:name":"Barnes Health Care Svc",
+    "wof:parent_id":85843077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -83.278354,
+    30.829831,
+    -83.278354,
+    30.829831
+],
+  "geometry": {"coordinates":[-83.27835399999999,30.829831],"type":"Point"}
+}

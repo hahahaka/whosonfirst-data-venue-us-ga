@@ -1,0 +1,73 @@
+{
+  "id": 739366185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.050303,33.84819,-84.050303,33.84819",
+    "geom:latitude":33.84819,
+    "geom:longitude":-84.050303,
+    "iso:country":"US",
+    "sg:address":"2133 Easy St SW",
+    "sg:city":"Snellville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 985 1228",
+    "sg:postcode":"30078",
+    "sg:province":"GA",
+    "sg:tags":[
+        "transmission",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936303,
+        102082967,
+        85857829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zTI7AlndCbeL2msQ4KqYs_33.848190_-84.050303@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461905928,
+    "wof:geomhash":"38a1e5766b72b2f87c3e309d3a634781",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936303,
+            "neighbourhood_id":85857829,
+            "region_id":85688535,
+            "venue_id":739366185
+        }
+    ],
+    "wof:id":739366185,
+    "wof:lastmodified":1461905928,
+    "wof:name":"Moore Automotive Transmissions",
+    "wof:parent_id":85857829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "general"
+    ]
+},
+  "bbox": [
+    -84.050303,
+    33.84819,
+    -84.050303,
+    33.84819
+],
+  "geometry": {"coordinates":[-84.050303,33.84819],"type":"Point"}
+}

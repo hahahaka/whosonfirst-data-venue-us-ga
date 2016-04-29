@@ -1,0 +1,71 @@
+{
+  "id": 722972279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.848756,30.808989,-83.848756,30.808989",
+    "geom:latitude":30.808989,
+    "geom:longitude":-83.848756,
+    "iso:country":"US",
+    "sg:address":"81 Meadow Ln",
+    "sg:city":"Thomasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 225 1999",
+    "sg:postcode":"31757",
+    "sg:province":"GA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85833309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DuUy5faxHJmSAQCl3Eqc6_30.808989_-83.848756@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461892295,
+    "wof:geomhash":"2f39bebd1c39ef1b2cb0f82d17464315",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85833309,
+            "region_id":85688535,
+            "venue_id":722972279
+        }
+    ],
+    "wof:id":722972279,
+    "wof:lastmodified":1461892295,
+    "wof:name":"Red Hills Equine Svc",
+    "wof:parent_id":85833309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.848756,
+    30.808989,
+    -83.848756,
+    30.808989
+],
+  "geometry": {"coordinates":[-83.84875599999999,30.808989],"type":"Point"}
+}

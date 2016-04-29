@@ -1,0 +1,75 @@
+{
+  "id": 739561543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.092861,32.028993,-81.092861,32.028993",
+    "geom:latitude":32.028993,
+    "geom:longitude":-81.092861,
+    "iso:country":"US",
+    "sg:address":"901 E 66th St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 352 8632",
+    "sg:postcode":"31405",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85880913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0X2UoBk32AIHgKtT4kOKEh_32.028993_-81.092861@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461909589,
+    "wof:geomhash":"fc2b7f3afee389bc21314d7291814a81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880913,
+            "region_id":85688535,
+            "venue_id":739561543
+        }
+    ],
+    "wof:id":739561543,
+    "wof:lastmodified":1461909589,
+    "wof:name":"Urological Assoc",
+    "wof:parent_id":85880913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.092861,
+    32.028993,
+    -81.092861,
+    32.028993
+],
+  "geometry": {"coordinates":[-81.092861,32.028993],"type":"Point"}
+}

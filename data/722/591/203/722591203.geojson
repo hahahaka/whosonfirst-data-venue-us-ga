@@ -1,0 +1,84 @@
+{
+  "id": 722591203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.270693,33.752732,-84.270693,33.752732",
+    "geom:latitude":33.752732,
+    "geom:longitude":-84.270693,
+    "iso:country":"US",
+    "sg:address":"3539 Memorial Dr",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 286 1050",
+    "sg:postcode":"30032",
+    "sg:province":"GA",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937245,
+        102084539,
+        85811997,
+        85937263,
+        85890037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TafuS1DmtKIddlNHRB2J6_33.752732_-84.270693@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461884813,
+    "wof:geomhash":"06e73bb11bddbebb86b7355c539bbc51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937245,
+            "neighbourhood_id":85811997,
+            "region_id":85688535,
+            "venue_id":722591203
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85937263,
+            "neighbourhood_id":85890037,
+            "region_id":85688535,
+            "venue_id":722591203
+        }
+    ],
+    "wof:id":722591203,
+    "wof:lastmodified":1461884813,
+    "wof:name":"Rent-A-Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -84.270693,
+    33.752732,
+    -84.270693,
+    33.752732
+],
+  "geometry": {"coordinates":[-84.27069299999999,33.752732],"type":"Point"}
+}

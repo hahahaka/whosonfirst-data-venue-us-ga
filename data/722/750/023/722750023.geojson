@@ -1,0 +1,75 @@
+{
+  "id": 722750023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.217331,34.287832,-85.217331,34.287832",
+    "geom:latitude":34.287832,
+    "geom:longitude":-85.217331,
+    "iso:country":"US",
+    "sg:address":"69 Rogers Dr NW",
+    "sg:city":"Rome",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 235 3913",
+    "sg:postcode":"30165",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936575,
+        102084577,
+        85821049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PlZ0uczwg6hCyOM7UJus9_34.287832_-85.217331@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461887938,
+    "wof:geomhash":"7c3aa25ee102ead383a1865a1b928c16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084577,
+            "locality_id":85936575,
+            "neighbourhood_id":85821049,
+            "region_id":85688535,
+            "venue_id":722750023
+        }
+    ],
+    "wof:id":722750023,
+    "wof:lastmodified":1461887938,
+    "wof:name":"Hill's Automotive",
+    "wof:parent_id":85821049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -85.217331,
+    34.287832,
+    -85.217331,
+    34.287832
+],
+  "geometry": {"coordinates":[-85.217331,34.287832],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 740020999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.80011,32.449551,-81.80011,32.449551",
+    "geom:latitude":32.449551,
+    "geom:longitude":-81.80011,
+    "iso:country":"US",
+    "sg:address":"1 W Altman St",
+    "sg:city":"Statesboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 764 3800",
+    "sg:postcode":"30458",
+    "sg:province":"GA",
+    "sg:tags":[
+        "government-state",
+        "medical"
+    ],
+    "sg:website":"http://www.columbushealth.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85935995,
+        102084405,
+        85868553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wv9a1AuuLtAs4CwEt5RLa_32.449551_-81.800110@1303262632"
+    },
+    "wof:country":"US",
+    "wof:created":1461924741,
+    "wof:geomhash":"d54f66ddb03c524eac765e93791ba9bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935995,
+            "neighbourhood_id":85868553,
+            "region_id":85688535,
+            "venue_id":740020999
+        }
+    ],
+    "wof:id":740020999,
+    "wof:lastmodified":1461924741,
+    "wof:name":"Bulloch County Health Dept",
+    "wof:parent_id":85868553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-state",
+        "medical"
+    ]
+},
+  "bbox": [
+    -81.80011,
+    32.449551,
+    -81.80011,
+    32.449551
+],
+  "geometry": {"coordinates":[-81.80011,32.449551],"type":"Point"}
+}

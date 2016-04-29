@@ -1,0 +1,76 @@
+{
+  "id": 739895937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.025516,33.04185,-85.025516,33.04185",
+    "geom:latitude":33.04185,
+    "geom:longitude":-85.025516,
+    "iso:country":"US",
+    "sg:address":"211 Hill St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 883 2110",
+    "sg:postcode":"30241",
+    "sg:province":"GA",
+    "sg:tags":[
+        "township",
+        "government-city",
+        "village"
+    ],
+    "sg:website":"http://www.lagrange.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jnBEaWRxlBypRxYCOHvl1_33.041850_-85.025516@1303262600"
+    },
+    "wof:country":"US",
+    "wof:created":1461919657,
+    "wof:geomhash":"7baf01eed33765e036c7451c14e5c134",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739895937
+        }
+    ],
+    "wof:id":739895937,
+    "wof:lastmodified":1461919657,
+    "wof:name":"City Of Lagrange",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -85.025516,
+    33.04185,
+    -85.025516,
+    33.04185
+],
+  "geometry": {"coordinates":[-85.025516,33.04185],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 722776111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.957639,32.446116,-84.957639,32.446116",
+    "geom:latitude":32.446116,
+    "geom:longitude":-84.957639,
+    "iso:country":"US",
+    "sg:address":"2502 N Lumpkin Rd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 685 3113",
+    "sg:postcode":"31903",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        420518159,
+        85803141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7J7DiN0co1GDAy0sbQVa90_32.446116_-84.957639@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888428,
+    "wof:geomhash":"422a12e55ce258302a54ed725c6a3650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":420518159,
+            "region_id":85688535,
+            "venue_id":722776111
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85803141,
+            "region_id":85688535,
+            "venue_id":722776111
+        }
+    ],
+    "wof:id":722776111,
+    "wof:lastmodified":1461888428,
+    "wof:name":"Staffords Garage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -84.957639,
+    32.446116,
+    -84.957639,
+    32.446116
+],
+  "geometry": {"coordinates":[-84.957639,32.446116],"type":"Point"}
+}

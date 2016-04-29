@@ -1,0 +1,73 @@
+{
+  "id": 723205519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.279061,30.831363,-83.279061,30.831363",
+    "geom:latitude":30.831363,
+    "geom:longitude":-83.279061,
+    "iso:country":"US",
+    "sg:address":"104 N Patterson St",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 333 0251",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "loan",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4te0aQt81t6pqCH2YaF6uO_30.831363_-83.279061@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897178,
+    "wof:geomhash":"15f88975ae867127fd3efec15972117d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843077,
+            "region_id":85688535,
+            "venue_id":723205519
+        }
+    ],
+    "wof:id":723205519,
+    "wof:lastmodified":1461897178,
+    "wof:name":"Service Loan Co",
+    "wof:parent_id":85843077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "broker"
+    ]
+},
+  "bbox": [
+    -83.279061,
+    30.831363,
+    -83.279061,
+    30.831363
+],
+  "geometry": {"coordinates":[-83.279061,30.831363],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 722762717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.96662,32.443095,-84.96662,32.443095",
+    "geom:latitude":32.443095,
+    "geom:longitude":-84.96662,
+    "iso:country":"US",
+    "sg:address":"222 22nd Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 653 6886",
+    "sg:postcode":"31901",
+    "sg:province":"GA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85803141,
+        420518159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6E3z2u5NwQzEhDey4t65vf_32.443095_-84.966620@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461888172,
+    "wof:geomhash":"29aca5067fac5ea891eb3e458a0c03e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85803141,
+            "region_id":85688535,
+            "venue_id":722762717
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":420518159,
+            "region_id":85688535,
+            "venue_id":722762717
+        }
+    ],
+    "wof:id":722762717,
+    "wof:lastmodified":1461888172,
+    "wof:name":"Booth Mobile Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -84.96662,
+    32.443095,
+    -84.96662,
+    32.443095
+],
+  "geometry": {"coordinates":[-84.96662000000001,32.443095],"type":"Point"}
+}

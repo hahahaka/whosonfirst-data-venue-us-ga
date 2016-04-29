@@ -1,0 +1,79 @@
+{
+  "id": 739840301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.037354,33.864447,-84.037354,33.864447",
+    "geom:latitude":33.864447,
+    "geom:longitude":-84.037354,
+    "iso:country":"US",
+    "sg:address":"2862 Oak Meadow Ln",
+    "sg:city":"Snellville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 949 3500",
+    "sg:postcode":"30078",
+    "sg:province":"GA",
+    "sg:tags":[
+        "frozen",
+        "dessert"
+    ],
+    "sg:website":"http://www.baskinrobbins.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936303,
+        102082967,
+        85857829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ArdsB6f0c4RVrXsdiplvi_33.864447_-84.037354@1303262585"
+    },
+    "wof:country":"US",
+    "wof:created":1461917501,
+    "wof:geomhash":"951384543bb7c5c25db33518a35eda5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936303,
+            "neighbourhood_id":85857829,
+            "region_id":85688535,
+            "venue_id":739840301
+        }
+    ],
+    "wof:id":739840301,
+    "wof:lastmodified":1461917501,
+    "wof:name":"Baskin Robbins",
+    "wof:parent_id":85857829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert"
+    ]
+},
+  "bbox": [
+    -84.037354,
+    33.864447,
+    -84.037354,
+    33.864447
+],
+  "geometry": {"coordinates":[-84.03735399999999,33.864447],"type":"Point"}
+}

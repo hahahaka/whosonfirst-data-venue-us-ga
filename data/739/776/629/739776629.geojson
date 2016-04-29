@@ -1,0 +1,83 @@
+{
+  "id": 739776629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.991192,30.847962,-83.991192,30.847962",
+    "geom:latitude":30.847962,
+    "geom:longitude":-83.991192,
+    "iso:country":"US",
+    "sg:address":"1118 N Madison St",
+    "sg:city":"Thomasville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/thomasville/172461-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 226 6146",
+    "sg:postcode":"31792",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85806705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vJhgfm2Q5Elnlv1Uemdr2_30.848498_-83.991777@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461914803,
+    "wof:geomhash":"7978e28a450ce5cc9572de629a634f7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85806705,
+            "region_id":85688535,
+            "venue_id":739776629
+        }
+    ],
+    "wof:id":739776629,
+    "wof:lastmodified":1461914803,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85806705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -83.991192,
+    30.847962,
+    -83.991192,
+    30.847962
+],
+  "geometry": {"coordinates":[-83.991192,30.847962],"type":"Point"}
+}

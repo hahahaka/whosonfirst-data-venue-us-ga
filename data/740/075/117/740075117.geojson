@@ -1,0 +1,82 @@
+{
+  "id": 740075117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.643854,30.932774,-84.643854,30.932774",
+    "geom:latitude":30.932774,
+    "geom:longitude":-84.643854,
+    "iso:country":"US",
+    "sg:address":"2489 Dothan Rd",
+    "sg:city":"Bainbridge",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 246 1522",
+    "sg:postcode":"39817",
+    "sg:province":"GA",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688651,
+        102191575,
+        85633793,
+        85933451,
+        102084747,
+        420517717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kr0aYGsrAL0SUWDYo13J1_30.932774_-84.643854@1303262745"
+    },
+    "wof:country":"US",
+    "wof:created":1461927183,
+    "wof:geomhash":"f13404ff80e014beb7ade4e8d553a539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084747,
+            "locality_id":85933451,
+            "neighbourhood_id":420517717,
+            "region_id":85688651,
+            "venue_id":740075117
+        }
+    ],
+    "wof:id":740075117,
+    "wof:lastmodified":1461927183,
+    "wof:name":"C Williams Trucking",
+    "wof:parent_id":420517717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.643854,
+    30.932774,
+    -84.643854,
+    30.932774
+],
+  "geometry": {"coordinates":[-84.643854,30.932774],"type":"Point"}
+}

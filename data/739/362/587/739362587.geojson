@@ -1,0 +1,75 @@
+{
+  "id": 739362587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.52829,31.300627,-81.52829,31.300627",
+    "geom:latitude":31.300627,
+    "geom:longitude":-81.52829,
+    "iso:country":"US",
+    "sg:address":"581 Green Swamp Rd",
+    "sg:city":"Brunswick",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 264 1965",
+    "sg:postcode":"31525",
+    "sg:province":"GA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937005,
+        102081695,
+        85814297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GOLwcAxaXEJ75BrMdaHaE_31.300627_-81.528290@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461905859,
+    "wof:geomhash":"274fef1668ebf5880807ae2fb2581509",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081695,
+            "locality_id":85937005,
+            "neighbourhood_id":85814297,
+            "region_id":85688535,
+            "venue_id":739362587
+        }
+    ],
+    "wof:id":739362587,
+    "wof:lastmodified":1461905859,
+    "wof:name":"Charlie's Trucking",
+    "wof:parent_id":85814297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -81.52829,
+    31.300627,
+    -81.52829,
+    31.300627
+],
+  "geometry": {"coordinates":[-81.52829,31.300627],"type":"Point"}
+}

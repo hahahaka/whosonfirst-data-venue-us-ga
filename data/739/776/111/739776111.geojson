@@ -1,0 +1,75 @@
+{
+  "id": 739776111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.985948,33.474648,-81.985948,33.474648",
+    "geom:latitude":33.474648,
+    "geom:longitude":-81.985948,
+    "iso:country":"US",
+    "sg:address":"1464 Walton Way",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/augusta/203171-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30901",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936989,
+        102082951,
+        85876037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4h8sjt5orM5A2xJN63UbZz_33.474555_-81.985643@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461914785,
+    "wof:geomhash":"1921036b43201890588548f9c19f3862",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082951,
+            "locality_id":85936989,
+            "neighbourhood_id":85876037,
+            "region_id":85688535,
+            "venue_id":739776111
+        }
+    ],
+    "wof:id":739776111,
+    "wof:lastmodified":1461914785,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85876037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -81.985948,
+    33.474648,
+    -81.985948,
+    33.474648
+],
+  "geometry": {"coordinates":[-81.98594799999999,33.474648],"type":"Point"}
+}

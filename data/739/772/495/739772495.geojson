@@ -1,0 +1,72 @@
+{
+  "id": 739772495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.766509,32.879488,-83.766509,32.879488",
+    "geom:latitude":32.879488,
+    "geom:longitude":-83.766509,
+    "iso:country":"US",
+    "sg:address":"6230 Zebulon Rd",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/macon/70695-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 478 405 6250",
+    "sg:postcode":"31210",
+    "sg:province":"GA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85848313,
+        102084373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TGOVhJwf9tmQdQNaTh27V_32.879488_-83.766509@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914645,
+    "wof:geomhash":"97d84123a1baffaa719fd265c1e8cfbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084373,
+            "neighbourhood_id":85848313,
+            "region_id":85688535,
+            "venue_id":739772495
+        }
+    ],
+    "wof:id":739772495,
+    "wof:lastmodified":1461914645,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85848313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.766509,
+    32.879488,
+    -83.766509,
+    32.879488
+],
+  "geometry": {"coordinates":[-83.766509,32.879488],"type":"Point"}
+}

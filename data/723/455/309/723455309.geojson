@@ -1,0 +1,78 @@
+{
+  "id": 723455309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.028948,33.029443,-85.028948,33.029443",
+    "geom:latitude":33.029443,
+    "geom:longitude":-85.028948,
+    "iso:country":"US",
+    "sg:address":"404 Whitesville St",
+    "sg:city":"Lagrange",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 882 7485",
+    "sg:postcode":"30240",
+    "sg:province":"GA",
+    "sg:tags":[
+        "grocer",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sYEm1vtRi2YCJCJP8XKEd_33.029443_-85.028948@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461902040,
+    "wof:geomhash":"e9b721d43842dc5a651d1bee84f7a12b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":723455309
+        }
+    ],
+    "wof:id":723455309,
+    "wof:lastmodified":1461902040,
+    "wof:name":"Poor Boy",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -85.028948,
+    33.029443,
+    -85.028948,
+    33.029443
+],
+  "geometry": {"coordinates":[-85.028948,33.029443],"type":"Point"}
+}

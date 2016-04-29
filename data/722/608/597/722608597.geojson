@@ -1,0 +1,73 @@
+{
+  "id": 722608597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.384666,31.83684,-81.384666,31.83684",
+    "geom:latitude":31.83684,
+    "geom:longitude":-81.384666,
+    "iso:country":"US",
+    "sg:address":"1604 Limerick Rd",
+    "sg:city":"Midway",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 884 2100",
+    "sg:postcode":"31320",
+    "sg:province":"GA",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936767,
+        102082901,
+        85820995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TwI8s0iNglGJS24CvwGEg_31.836840_-81.384666@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461885147,
+    "wof:geomhash":"786b3ffcb7ddb0c75f498c4c52664878",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082901,
+            "locality_id":85936767,
+            "neighbourhood_id":85820995,
+            "region_id":85688535,
+            "venue_id":722608597
+        }
+    ],
+    "wof:id":722608597,
+    "wof:lastmodified":1461885147,
+    "wof:name":"Lake George Get N Go",
+    "wof:parent_id":85820995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -81.384666,
+    31.83684,
+    -81.384666,
+    31.83684
+],
+  "geometry": {"coordinates":[-81.384666,31.83684],"type":"Point"}
+}

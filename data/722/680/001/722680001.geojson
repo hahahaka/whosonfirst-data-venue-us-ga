@@ -1,0 +1,73 @@
+{
+  "id": 722680001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.995468,30.861581,-83.995468,30.861581",
+    "geom:latitude":30.861581,
+    "geom:longitude":-83.995468,
+    "iso:country":"US",
+    "sg:address":"124 Highland St",
+    "sg:city":"Thomasville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 228 4791",
+    "sg:postcode":"31792",
+    "sg:province":"GA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85806705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MixLTXcv11VGlMrah6YEF_30.861581_-83.995468@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886580,
+    "wof:geomhash":"81a862e79e9313ef22b077432a393cef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85806705,
+            "region_id":85688535,
+            "venue_id":722680001
+        }
+    ],
+    "wof:id":722680001,
+    "wof:lastmodified":1461886580,
+    "wof:name":"Mike Godwin Electrical Service",
+    "wof:parent_id":85806705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.995468,
+    30.861581,
+    -83.995468,
+    30.861581
+],
+  "geometry": {"coordinates":[-83.995468,30.861581],"type":"Point"}
+}

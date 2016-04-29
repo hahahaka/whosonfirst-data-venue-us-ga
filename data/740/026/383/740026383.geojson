@@ -1,0 +1,93 @@
+{
+  "id": 740026383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.034401,34.106499,-84.034401,34.106499",
+    "geom:latitude":34.106499,
+    "geom:longitude":-84.034401,
+    "iso:country":"US",
+    "sg:address":"1191 Level Creek Rd",
+    "sg:city":"Sugar Hill",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 945 3995",
+    "sg:postcode":"30518",
+    "sg:province":"GA",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85824791,
+        102082967,
+        102191575,
+        85936305,
+        85820775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YApSIcM2BEXanOgdhaNrW_34.106499_-84.034401@1303262634"
+    },
+    "wof:country":"US",
+    "wof:created":1461924973,
+    "wof:geomhash":"9a313aaca28a6031a67ad837f949992b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85824791,
+            "region_id":85688535,
+            "venue_id":740026383
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082967,
+            "locality_id":85936305,
+            "neighbourhood_id":85820775,
+            "region_id":85688535,
+            "venue_id":740026383
+        }
+    ],
+    "wof:id":740026383,
+    "wof:lastmodified":1461924973,
+    "wof:name":"Great Beginnings of Sugar Hill",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -84.034401,
+    34.106499,
+    -84.034401,
+    34.106499
+],
+  "geometry": {"coordinates":[-84.034401,34.106499],"type":"Point"}
+}

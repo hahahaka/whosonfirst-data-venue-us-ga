@@ -1,0 +1,86 @@
+{
+  "id": 740000357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.290085,33.909805,-84.290085,33.909805",
+    "geom:latitude":33.909805,
+    "geom:longitude":-84.290085,
+    "iso:country":"US",
+    "sg:address":"2820 Peachtree Industrial Blvd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 451 4113",
+    "sg:postcode":"30341",
+    "sg:province":"GA",
+    "sg:tags":[
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85936435,
+        85889955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1olgQmcJ3pk7XvpXVsTopA_33.909805_-84.290085@1303262627"
+    },
+    "wof:country":"US",
+    "wof:created":1461923943,
+    "wof:geomhash":"c8db57a6baf93754f631c8485021210d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":740000357
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936435,
+            "neighbourhood_id":85889955,
+            "region_id":85688535,
+            "venue_id":740000357
+        }
+    ],
+    "wof:id":740000357,
+    "wof:lastmodified":1461923943,
+    "wof:name":"Peachtree Mower Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [
+    -84.290085,
+    33.909805,
+    -84.290085,
+    33.909805
+],
+  "geometry": {"coordinates":[-84.290085,33.909805],"type":"Point"}
+}

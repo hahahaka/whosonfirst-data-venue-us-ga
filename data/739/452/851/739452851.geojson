@@ -1,0 +1,71 @@
+{
+  "id": 739452851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.76046,32.46917,-81.76046,32.46917",
+    "geom:latitude":32.46917,
+    "geom:longitude":-81.76046,
+    "iso:country":"US",
+    "sg:address":"17257 US Hwy 301 N",
+    "sg:city":"Statesboro",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 764 6976",
+    "sg:postcode":"30458",
+    "sg:province":"GA",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935999,
+        102084405,
+        85823149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PnAuJtK1MTgsxxcYvCkfo_32.469170_-81.760460@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907592,
+    "wof:geomhash":"8ac91b82e1ba8f9dd55c71fa63d8ece9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85823149,
+            "region_id":85688535,
+            "venue_id":739452851
+        }
+    ],
+    "wof:id":739452851,
+    "wof:lastmodified":1461907592,
+    "wof:name":"Sheriff's Office-Jail",
+    "wof:parent_id":85823149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -81.76046,
+    32.46917,
+    -81.76046,
+    32.46917
+],
+  "geometry": {"coordinates":[-81.76045999999999,32.46917],"type":"Point"}
+}

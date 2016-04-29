@@ -1,0 +1,90 @@
+{
+  "id": 740011301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.344963,33.925732,-84.344963,33.925732",
+    "geom:latitude":33.925732,
+    "geom:longitude":-84.344963,
+    "iso:country":"US",
+    "sg:address":"211 Perimeter Center Pkwy NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 394 4540",
+    "sg:postcode":"30346",
+    "sg:province":"GA",
+    "sg:tags":[
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936467,
+        102084539,
+        85890003,
+        85889963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Jn4FOcjty6cQ3zXGbP6NS_33.925732_-84.344963@1303262630"
+    },
+    "wof:country":"US",
+    "wof:created":1461924367,
+    "wof:geomhash":"006fcc5d4724efada8675593d19a666c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890003,
+            "region_id":85688535,
+            "venue_id":740011301
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85889963,
+            "region_id":85688535,
+            "venue_id":740011301
+        }
+    ],
+    "wof:id":740011301,
+    "wof:lastmodified":1461924367,
+    "wof:name":"Perimeter Transportation Coalition",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.344963,
+    33.925732,
+    -84.344963,
+    33.925732
+],
+  "geometry": {"coordinates":[-84.34496300000001,33.925732],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 740065127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.256249,30.818011,-83.256249,30.818011",
+    "geom:latitude":30.818011,
+    "geom:longitude":-83.256249,
+    "iso:country":"US",
+    "sg:address":"984 Howell Rd",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 244 7700",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "logging",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dPomtzqbnQxCnqceXBrSP_30.818011_-83.256249@1303262643"
+    },
+    "wof:country":"US",
+    "wof:created":1461926751,
+    "wof:geomhash":"b5d11d215614e06103d23959348a8aa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843077,
+            "region_id":85688535,
+            "venue_id":740065127
+        }
+    ],
+    "wof:id":740065127,
+    "wof:lastmodified":1461926751,
+    "wof:name":"Aldean Dukes Logging Inc",
+    "wof:parent_id":85843077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logging",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.256249,
+    30.818011,
+    -83.256249,
+    30.818011
+],
+  "geometry": {"coordinates":[-83.256249,30.818011],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 739993577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.480212,33.909371,-84.480212,33.909371",
+    "geom:latitude":33.909371,
+    "geom:longitude":-84.480212,
+    "iso:country":"US",
+    "sg:address":"1770 The Exchange SE Ste 270",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Food Court",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 618 7490",
+    "sg:postcode":"30339",
+    "sg:province":"GA",
+    "sg:tags":[
+        "concession",
+        "management",
+        "concessionaire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818985,
+        102082313,
+        85845875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1u6I9pKfxB1jxUOJy4IDLC_33.909371_-84.480212@1303262625"
+    },
+    "wof:country":"US",
+    "wof:created":1461923679,
+    "wof:geomhash":"b52919dd0e533806ab904b68dcce85e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85818985,
+            "region_id":85688535,
+            "venue_id":739993577
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85845875,
+            "region_id":85688535,
+            "venue_id":739993577
+        }
+    ],
+    "wof:id":739993577,
+    "wof:lastmodified":1461923679,
+    "wof:name":"Sands Total Food Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concession",
+        "management",
+        "concessionaire"
+    ]
+},
+  "bbox": [
+    -84.480212,
+    33.909371,
+    -84.480212,
+    33.909371
+],
+  "geometry": {"coordinates":[-84.48021199999999,33.909371],"type":"Point"}
+}

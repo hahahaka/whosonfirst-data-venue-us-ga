@@ -1,0 +1,73 @@
+{
+  "id": 723308951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.15223,33.549357,-82.15223,33.549357",
+    "geom:latitude":33.549357,
+    "geom:longitude":-82.15223,
+    "iso:country":"US",
+    "sg:address":"656 Gibbs Rd",
+    "sg:city":"Evans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 650 0471",
+    "sg:postcode":"30809",
+    "sg:province":"GA",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85937177,
+        102082315,
+        85868555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mhSXtQpAwUdmwd04vspYk_33.549357_-82.152230@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461899243,
+    "wof:geomhash":"758a64342c440dc1db3ae9a330aa386e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082315,
+            "locality_id":85937177,
+            "neighbourhood_id":85868555,
+            "region_id":85688535,
+            "venue_id":723308951
+        }
+    ],
+    "wof:id":723308951,
+    "wof:lastmodified":1461899243,
+    "wof:name":"A-1 Locksmith",
+    "wof:parent_id":85868555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -82.15223,
+    33.549357,
+    -82.15223,
+    33.549357
+],
+  "geometry": {"coordinates":[-82.15223,33.549357],"type":"Point"}
+}

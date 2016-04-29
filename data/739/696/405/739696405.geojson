@@ -1,0 +1,71 @@
+{
+  "id": 739696405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.362321,30.800226,-83.362321,30.800226",
+    "geom:latitude":30.800226,
+    "geom:longitude":-83.362321,
+    "iso:country":"US",
+    "sg:address":"2837 Stuart Dr",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 253 0261",
+    "sg:postcode":"31601",
+    "sg:province":"GA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33Xh7nrrhDAxHI4lONFvFI_30.800226_-83.362321@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461912471,
+    "wof:geomhash":"190875a6c53659a941bef8e6c4f09e16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843241,
+            "region_id":85688535,
+            "venue_id":739696405
+        }
+    ],
+    "wof:id":739696405,
+    "wof:lastmodified":1461912471,
+    "wof:name":"B & P Wrecker Svc",
+    "wof:parent_id":85843241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -83.362321,
+    30.800226,
+    -83.362321,
+    30.800226
+],
+  "geometry": {"coordinates":[-83.36232099999999,30.800226],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 739346925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.149136,30.779597,-83.149136,30.779597",
+    "geom:latitude":30.779597,
+    "geom:longitude":-83.149136,
+    "iso:country":"US",
+    "sg:address":"5410 Bob White Rd",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 559 3214",
+    "sg:postcode":"31606",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automotive",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85843077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6abypFvEkBRDuTiIEcr5oi_30.779597_-83.149136@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461905541,
+    "wof:geomhash":"e3eeb70530a2a836fb2feebd8a7db631",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85843077,
+            "region_id":85688535,
+            "venue_id":739346925
+        }
+    ],
+    "wof:id":739346925,
+    "wof:lastmodified":1461905541,
+    "wof:name":"Larry Dorminey Wrecker Service",
+    "wof:parent_id":85843077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -83.149136,
+    30.779597,
+    -83.149136,
+    30.779597
+],
+  "geometry": {"coordinates":[-83.149136,30.779597],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 723185317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.399023,34.409855,-84.399023,34.409855",
+    "geom:latitude":34.409855,
+    "geom:longitude":-84.399023,
+    "iso:country":"US",
+    "sg:address":"99 Branch Ln",
+    "sg:city":"Tate",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 737 2450",
+    "sg:postcode":"30177",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85846359,
+        102083619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HHKvp8FulXOecf1IDW4V4_34.409855_-84.399023@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461896792,
+    "wof:geomhash":"a92a0f54bbfd398062ab22f8f11ee22b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083619,
+            "neighbourhood_id":85846359,
+            "region_id":85688535,
+            "venue_id":723185317
+        }
+    ],
+    "wof:id":723185317,
+    "wof:lastmodified":1461896792,
+    "wof:name":"T & E Auto Repair",
+    "wof:parent_id":85846359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.399023,
+    34.409855,
+    -84.399023,
+    34.409855
+],
+  "geometry": {"coordinates":[-84.399023,34.409855],"type":"Point"}
+}

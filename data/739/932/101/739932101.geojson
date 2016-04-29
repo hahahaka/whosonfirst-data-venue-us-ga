@@ -1,0 +1,93 @@
+{
+  "id": 739932101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.352849,33.778364,-84.352849,33.778364",
+    "geom:latitude":33.778364,
+    "geom:longitude":-84.352849,
+    "iso:country":"US",
+    "sg:address":"865 N Highland Ave NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 746 7287",
+    "sg:postcode":"30306",
+    "sg:province":"GA",
+    "sg:tags":[
+        "urgent",
+        "medical",
+        "nurse"
+    ],
+    "sg:website":"http://www.minuteclinic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85853981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Cd1kkBV3SsZxpvWfCK1Cb_33.778364_-84.352849@1303262609"
+    },
+    "wof:country":"US",
+    "wof:created":1461921114,
+    "wof:geomhash":"904513827ba505a9fd524282bda377c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85853981,
+            "region_id":85688535,
+            "venue_id":739932101
+        }
+    ],
+    "wof:id":739932101,
+    "wof:lastmodified":1461921114,
+    "wof:name":"MinuteClinic",
+    "wof:parent_id":85853981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "urgent",
+        "medical",
+        "nurse"
+    ]
+},
+  "bbox": [
+    -84.352849,
+    33.778364,
+    -84.352849,
+    33.778364
+],
+  "geometry": {"coordinates":[-84.35284900000001,33.778364],"type":"Point"}
+}

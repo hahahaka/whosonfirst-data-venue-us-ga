@@ -1,0 +1,73 @@
+{
+  "id": 739736839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.31496,30.84702,-83.31496,30.84702",
+    "geom:latitude":30.84702,
+    "geom:longitude":-83.31496,
+    "iso:country":"US",
+    "sg:address":"1568 Baytree Rd",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 247 1667",
+    "sg:postcode":"31602",
+    "sg:province":"GA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85814215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_618RItbUnYLP2vYJNtMLyy_30.847020_-83.314960@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461913348,
+    "wof:geomhash":"a59cce977c5cbb462481ceac95d5f79e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85814215,
+            "region_id":85688535,
+            "venue_id":739736839
+        }
+    ],
+    "wof:id":739736839,
+    "wof:lastmodified":1461913348,
+    "wof:name":"Jose Medina Inc",
+    "wof:parent_id":85814215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.31496,
+    30.84702,
+    -83.31496,
+    30.84702
+],
+  "geometry": {"coordinates":[-83.31496,30.84702],"type":"Point"}
+}

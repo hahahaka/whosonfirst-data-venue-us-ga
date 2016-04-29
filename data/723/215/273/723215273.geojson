@@ -1,0 +1,73 @@
+{
+  "id": 723215273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.48102,34.867202,-83.48102,34.867202",
+    "geom:latitude":34.867202,
+    "geom:longitude":-83.48102,
+    "iso:country":"US",
+    "sg:address":"7335 US Hwy 76 W",
+    "sg:city":"Clayton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 782 4646",
+    "sg:postcode":"30525",
+    "sg:province":"GA",
+    "sg:tags":[
+        "station",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936141,
+        102081683,
+        85821415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04mLwGswK5hRzwJ2G71KDo_34.867202_-83.481020@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897370,
+    "wof:geomhash":"bf9de7bd6dffdd12da56486c57c88e1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081683,
+            "locality_id":85936141,
+            "neighbourhood_id":85821415,
+            "region_id":85688535,
+            "venue_id":723215273
+        }
+    ],
+    "wof:id":723215273,
+    "wof:lastmodified":1461897370,
+    "wof:name":"Burton Lake Grocery & Gas",
+    "wof:parent_id":85821415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gas"
+    ]
+},
+  "bbox": [
+    -83.48102,
+    34.867202,
+    -83.48102,
+    34.867202
+],
+  "geometry": {"coordinates":[-83.48102,34.867202],"type":"Point"}
+}

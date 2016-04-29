@@ -1,0 +1,77 @@
+{
+  "id": 739828885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.475197,33.900902,-84.475197,33.900902",
+    "geom:latitude":33.900902,
+    "geom:longitude":-84.475197,
+    "iso:country":"US",
+    "sg:address":"2700 Windy Hill Rd SE",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 955 8833",
+    "sg:postcode":"30067",
+    "sg:province":"GA",
+    "sg:website":"www.mcdonalds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85818985,
+        102082313,
+        102191575,
+        85936139,
+        85813197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22OpGdJiBKWz7qkebXCoxv_33.900902_-84.475197@1303262582"
+    },
+    "wof:country":"US",
+    "wof:created":1461917035,
+    "wof:geomhash":"4e837a13380d3a1ab457b3ba22b7e748",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "neighbourhood_id":85818985,
+            "region_id":85688535,
+            "venue_id":739828885
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85813197,
+            "region_id":85688535,
+            "venue_id":739828885
+        }
+    ],
+    "wof:id":739828885,
+    "wof:lastmodified":1461917035,
+    "wof:name":"McDonalds Restaurants",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.475197,
+    33.900902,
+    -84.475197,
+    33.900902
+],
+  "geometry": {"coordinates":[-84.47519699999999,33.900902],"type":"Point"}
+}

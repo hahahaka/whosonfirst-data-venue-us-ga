@@ -1,0 +1,75 @@
+{
+  "id": 723361341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.179339,31.574428,-84.179339,31.574428",
+    "geom:latitude":31.574428,
+    "geom:longitude":-84.179339,
+    "iso:country":"US",
+    "sg:address":"208 Poplar St",
+    "sg:city":"Albany",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 438 5500",
+    "sg:postcode":"31707",
+    "sg:province":"GA",
+    "sg:tags":[
+        "warehouse",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85935991,
+        102084427,
+        85857715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IbGOnAnXw7z2erhKdFddb_31.574428_-84.179339@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461900206,
+    "wof:geomhash":"7c5e1e8d513434edca0f9c1c17ca4ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084427,
+            "locality_id":85935991,
+            "neighbourhood_id":85857715,
+            "region_id":85688535,
+            "venue_id":723361341
+        }
+    ],
+    "wof:id":723361341,
+    "wof:lastmodified":1461900206,
+    "wof:name":"King Cotton Warehouse",
+    "wof:parent_id":85857715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -84.179339,
+    31.574428,
+    -84.179339,
+    31.574428
+],
+  "geometry": {"coordinates":[-84.179339,31.574428],"type":"Point"}
+}

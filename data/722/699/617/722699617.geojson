@@ -1,0 +1,75 @@
+{
+  "id": 722699617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.123525,31.998612,-81.123525,31.998612",
+    "geom:latitude":31.998612,
+    "geom:longitude":-81.123525,
+    "iso:country":"US",
+    "sg:address":"76 W Montgomery Xrd",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 925 2233",
+    "sg:postcode":"31406",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936939,
+        102082337,
+        85880897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fVwtQZoCrNH3MmOpm7vF2_31.998612_-81.123525@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886960,
+    "wof:geomhash":"d1614813d6e5863ff27058dc9cb8231f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880897,
+            "region_id":85688535,
+            "venue_id":722699617
+        }
+    ],
+    "wof:id":722699617,
+    "wof:lastmodified":1461886960,
+    "wof:name":"Mall Auto Repairs",
+    "wof:parent_id":85880897,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -81.123525,
+    31.998612,
+    -81.123525,
+    31.998612
+],
+  "geometry": {"coordinates":[-81.123525,31.998612],"type":"Point"}
+}

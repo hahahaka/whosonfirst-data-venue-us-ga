@@ -1,0 +1,75 @@
+{
+  "id": 739323161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.00645,33.448137,-82.00645,33.448137",
+    "geom:latitude":33.448137,
+    "geom:longitude":-82.00645,
+    "iso:country":"US",
+    "sg:address":"2207 Martin Luther King Jr Blvd",
+    "sg:city":"Augusta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 738 0031",
+    "sg:postcode":"30904",
+    "sg:province":"GA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936989,
+        102082951,
+        85851375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3P9IJoDhL8rmGrLx3tz0eq_33.448137_-82.006450@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461905042,
+    "wof:geomhash":"65f04a494c935b2fcc6615e8bf8ba343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082951,
+            "locality_id":85936989,
+            "neighbourhood_id":85851375,
+            "region_id":85688535,
+            "venue_id":739323161
+        }
+    ],
+    "wof:id":739323161,
+    "wof:lastmodified":1461905042,
+    "wof:name":"G & O Auto Repair",
+    "wof:parent_id":85851375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -82.00645,
+    33.448137,
+    -82.00645,
+    33.448137
+],
+  "geometry": {"coordinates":[-82.00645,33.448137],"type":"Point"}
+}

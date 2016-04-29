@@ -1,0 +1,73 @@
+{
+  "id": 739443963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.024704,34.803836,-85.024704,34.803836",
+    "geom:latitude":34.803836,
+    "geom:longitude":-85.024704,
+    "iso:country":"US",
+    "sg:address":"2619 Chattanooga Rd",
+    "sg:city":"Rocky Face",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 226 3144",
+    "sg:postcode":"30740",
+    "sg:province":"GA",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936897,
+        102084697,
+        85809263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pyvY4uFk0r9zOQbvIQMpb_34.803836_-85.024704@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461907437,
+    "wof:geomhash":"2818ca615307e84849815e93b60f63fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084697,
+            "locality_id":85936897,
+            "neighbourhood_id":85809263,
+            "region_id":85688535,
+            "venue_id":739443963
+        }
+    ],
+    "wof:id":739443963,
+    "wof:lastmodified":1461907437,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85809263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -85.024704,
+    34.803836,
+    -85.024704,
+    34.803836
+],
+  "geometry": {"coordinates":[-85.024704,34.803836],"type":"Point"}
+}

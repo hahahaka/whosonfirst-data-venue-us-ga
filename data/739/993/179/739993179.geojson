@@ -1,0 +1,76 @@
+{
+  "id": 739993179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.46196,33.88541,-84.46196,33.88541",
+    "geom:latitude":33.88541,
+    "geom:longitude":-84.46196,
+    "iso:country":"US",
+    "sg:address":"600 Galleria Pkwy SE # 1100",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 678 385 5100",
+    "sg:postcode":"30339",
+    "sg:province":"GA",
+    "sg:tags":[
+        "satellite",
+        "cable"
+    ],
+    "sg:website":"http://www.comcast.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936139,
+        102082313,
+        85813197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2whSszSsPvlLOPSt9CuvAj_33.885410_-84.461960@1303262625"
+    },
+    "wof:country":"US",
+    "wof:created":1461923666,
+    "wof:geomhash":"5b7e883f43da5202a5d33a54a1a426e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936139,
+            "neighbourhood_id":85813197,
+            "region_id":85688535,
+            "venue_id":739993179
+        }
+    ],
+    "wof:id":739993179,
+    "wof:lastmodified":1461923666,
+    "wof:name":"Comcast",
+    "wof:parent_id":85813197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "cable"
+    ]
+},
+  "bbox": [
+    -84.46196,
+    33.88541,
+    -84.46196,
+    33.88541
+],
+  "geometry": {"coordinates":[-84.46196,33.88541],"type":"Point"}
+}

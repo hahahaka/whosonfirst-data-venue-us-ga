@@ -1,0 +1,86 @@
+{
+  "id": 739768139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.393725,33.807734,-84.393725,33.807734",
+    "geom:latitude":33.807734,
+    "geom:longitude":-84.393725,
+    "iso:country":"US",
+    "sg:address":"1931 Peachtree Rd NE",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/atlanta/106278-black-bear-tavern/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 355 9089",
+    "sg:postcode":"30309",
+    "sg:province":"GA",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "pub",
+        "soup",
+        "american",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        85872047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ieyCoroCG6PwQ7D8TDMng_33.807734_-84.393725@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914465,
+    "wof:geomhash":"b5ec870c108bc46c7814a1a28667401b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":85872047,
+            "region_id":85688535,
+            "venue_id":739768139
+        }
+    ],
+    "wof:id":739768139,
+    "wof:lastmodified":1461914465,
+    "wof:name":"Black Bear Tavern",
+    "wof:parent_id":85872047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "pub",
+        "soup",
+        "american",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -84.393725,
+    33.807734,
+    -84.393725,
+    33.807734
+],
+  "geometry": {"coordinates":[-84.393725,33.807734],"type":"Point"}
+}

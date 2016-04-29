@@ -1,0 +1,69 @@
+{
+  "id": 739994829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.25071,33.895561,-84.25071,33.895561",
+    "geom:latitude":33.895561,
+    "geom:longitude":-84.25071,
+    "iso:country":"US",
+    "sg:address":"3585 Northcrest Road",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 934 4833",
+    "sg:postcode":"30340",
+    "sg:province":"GA",
+    "sg:tags":[
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SaUM7weXKCqpyqPPRGW6p_33.895561_-84.250710@1303262625"
+    },
+    "wof:country":"US",
+    "wof:created":1461923735,
+    "wof:geomhash":"6f66bd5f979f8b507414a9c4859ecb3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":739994829
+        }
+    ],
+    "wof:id":739994829,
+    "wof:lastmodified":1461923735,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85889941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -84.25071,
+    33.895561,
+    -84.25071,
+    33.895561
+],
+  "geometry": {"coordinates":[-84.25071,33.895561],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 722669827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.305163,30.881749,-83.305163,30.881749",
+    "geom:latitude":30.881749,
+    "geom:longitude":-83.305163,
+    "iso:country":"US",
+    "sg:address":"3211 Wildwood Plantation Dr",
+    "sg:city":"Valdosta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 242 4441",
+    "sg:postcode":"31605",
+    "sg:province":"GA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936921,
+        102083585,
+        85815713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2avZPO60zRXL2qjRNXNPQm_30.881749_-83.305163@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461886393,
+    "wof:geomhash":"d0cf212c3164393c147ae8df031cd66f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083585,
+            "locality_id":85936921,
+            "neighbourhood_id":85815713,
+            "region_id":85688535,
+            "venue_id":722669827
+        }
+    ],
+    "wof:id":722669827,
+    "wof:lastmodified":1461886393,
+    "wof:name":"Advanced Dental Care",
+    "wof:parent_id":85815713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -83.305163,
+    30.881749,
+    -83.305163,
+    30.881749
+],
+  "geometry": {"coordinates":[-83.30516299999999,30.881749],"type":"Point"}
+}

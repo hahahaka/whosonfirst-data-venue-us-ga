@@ -1,0 +1,80 @@
+{
+  "id": 739948935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.462891,33.722543,-84.462891,33.722543",
+    "geom:latitude":33.722543,
+    "geom:longitude":-84.462891,
+    "iso:country":"US",
+    "sg:address":"2265 Cascade Rd SW Ste A5",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 753 1798",
+    "sg:postcode":"30311",
+    "sg:province":"GA",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936429,
+        102083603,
+        420517961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5H8TsBmpXQHfEwRVWWy2C1_33.722543_-84.462891@1303262613"
+    },
+    "wof:country":"US",
+    "wof:created":1461921893,
+    "wof:geomhash":"ad30cafb1b0101821c7c85f8dd3e9ae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "neighbourhood_id":420517961,
+            "region_id":85688535,
+            "venue_id":739948935
+        }
+    ],
+    "wof:id":739948935,
+    "wof:lastmodified":1461921893,
+    "wof:name":"Harris T L Dental Laboratory",
+    "wof:parent_id":420517961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -84.462891,
+    33.722543,
+    -84.462891,
+    33.722543
+],
+  "geometry": {"coordinates":[-84.462891,33.722543],"type":"Point"}
+}

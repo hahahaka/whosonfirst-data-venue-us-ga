@@ -1,0 +1,71 @@
+{
+  "id": 739772083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.255815,33.110015,-83.255815,33.110015",
+    "geom:latitude":33.110015,
+    "geom:longitude":-83.255815,
+    "iso:country":"US",
+    "sg:address":"2592 N Columbia St",
+    "sg:city":"Milledgeville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/milledgeville-midway-hardwick/203389-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"31061",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85806411,
+        102082319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TdUQulGFgOmtfl32QeTnM_33.110015_-83.255815@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914621,
+    "wof:geomhash":"3e8c3ee05a5ac3dadf80602ed67d2680",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082319,
+            "neighbourhood_id":85806411,
+            "region_id":85688535,
+            "venue_id":739772083
+        }
+    ],
+    "wof:id":739772083,
+    "wof:lastmodified":1461914621,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85806411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.255815,
+    33.110015,
+    -83.255815,
+    33.110015
+],
+  "geometry": {"coordinates":[-83.255815,33.110015],"type":"Point"}
+}

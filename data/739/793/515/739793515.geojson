@@ -1,0 +1,85 @@
+{
+  "id": 739793515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.296118,33.774393,-84.296118,33.774393",
+    "geom:latitude":33.774393,
+    "geom:longitude":-84.296118,
+    "iso:country":"US",
+    "sg:address":"115 Sycamore St",
+    "sg:city":"Decatur",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 404 844 4010",
+    "sg:postcode":"30030",
+    "sg:province":"GA",
+    "sg:tags":[
+        "brew",
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "sg:website":"squarepubdecatur.com/spd/Home.html",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936441,
+        102084539,
+        85890035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bANd52r9gt0Cswun1pwvs_33.774393_-84.296118@1303262573"
+    },
+    "wof:country":"US",
+    "wof:created":1461915504,
+    "wof:geomhash":"2f36ed57831e587f62e3f2497afbb9ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936441,
+            "neighbourhood_id":85890035,
+            "region_id":85688535,
+            "venue_id":739793515
+        }
+    ],
+    "wof:id":739793515,
+    "wof:lastmodified":1461915504,
+    "wof:name":"The Square Pub",
+    "wof:parent_id":85890035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brew",
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -84.296118,
+    33.774393,
+    -84.296118,
+    33.774393
+],
+  "geometry": {"coordinates":[-84.29611800000001,33.774393],"type":"Point"}
+}

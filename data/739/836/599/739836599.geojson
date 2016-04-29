@@ -1,0 +1,83 @@
+{
+  "id": 739836599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.338747,34.042673,-84.338747,34.042673",
+    "geom:latitude":34.042673,
+    "geom:longitude":-84.338747,
+    "iso:country":"US",
+    "sg:address":"875 Mansell Rd Ste C",
+    "sg:city":"Roswell",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 645 6784",
+    "sg:postcode":"30076",
+    "sg:province":"GA",
+    "sg:tags":[
+        "car",
+        "leasing",
+        "van"
+    ],
+    "sg:website":"www.avis.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85937163,
+        102083603,
+        85889949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UdEy9j5tpsW9qHO7ZgSNW_34.042673_-84.338747@1303262585"
+    },
+    "wof:country":"US",
+    "wof:created":1461917360,
+    "wof:geomhash":"737ee74f3192d00643ad5113ad939311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937163,
+            "neighbourhood_id":85889949,
+            "region_id":85688535,
+            "venue_id":739836599
+        }
+    ],
+    "wof:id":739836599,
+    "wof:lastmodified":1461917360,
+    "wof:name":"Avis Rent A Car",
+    "wof:parent_id":85889949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "leasing",
+        "van"
+    ]
+},
+  "bbox": [
+    -84.338747,
+    34.042673,
+    -84.338747,
+    34.042673
+],
+  "geometry": {"coordinates":[-84.338747,34.042673],"type":"Point"}
+}

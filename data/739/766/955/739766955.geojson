@@ -1,0 +1,76 @@
+{
+  "id": 739766955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.899963,33.166299,-84.899963,33.166299",
+    "geom:latitude":33.166299,
+    "geom:longitude":-84.899963,
+    "iso:country":"US",
+    "sg:address":"1892 E Main St",
+    "sg:city":"Hogansville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ga/hogansville/180741-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 637 8300",
+    "sg:postcode":"30230",
+    "sg:province":"GA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936703,
+        102083595,
+        85845165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NkcflP425UyvRNsjSu9cQ_33.166299_-84.899963@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1461914419,
+    "wof:geomhash":"91e62dc2f48f39878e1e8c9744313d08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083595,
+            "locality_id":85936703,
+            "neighbourhood_id":85845165,
+            "region_id":85688535,
+            "venue_id":739766955
+        }
+    ],
+    "wof:id":739766955,
+    "wof:lastmodified":1461914419,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85845165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -84.899963,
+    33.166299,
+    -84.899963,
+    33.166299
+],
+  "geometry": {"coordinates":[-84.899963,33.166299],"type":"Point"}
+}

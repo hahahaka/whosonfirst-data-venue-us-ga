@@ -1,0 +1,73 @@
+{
+  "id": 723211213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.932556,32.507474,-84.932556,32.507474",
+    "geom:latitude":32.507474,
+    "geom:longitude":-84.932556,
+    "iso:country":"US",
+    "sg:address":"3638 Gentian Blvd",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 706 569 5050",
+    "sg:postcode":"31907",
+    "sg:province":"GA",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936243,
+        102084429,
+        85856927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3msRP5CcA5hXrWe9WKPmSs_32.507474_-84.932556@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461897293,
+    "wof:geomhash":"fda42719611958d6af504b977bdce853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084429,
+            "locality_id":85936243,
+            "neighbourhood_id":85856927,
+            "region_id":85688535,
+            "venue_id":723211213
+        }
+    ],
+    "wof:id":723211213,
+    "wof:lastmodified":1461897293,
+    "wof:name":"King Lube",
+    "wof:parent_id":85856927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -84.932556,
+    32.507474,
+    -84.932556,
+    32.507474
+],
+  "geometry": {"coordinates":[-84.93255600000001,32.507474],"type":"Point"}
+}

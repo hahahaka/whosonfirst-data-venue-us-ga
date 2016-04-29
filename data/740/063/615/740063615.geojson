@@ -1,0 +1,76 @@
+{
+  "id": 740063615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.01029,30.830681,-82.01029,30.830681",
+    "geom:latitude":30.830681,
+    "geom:longitude":-82.01029,
+    "iso:country":"US",
+    "sg:address":"509 W Main St",
+    "sg:city":"Folkston",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 509 6246",
+    "sg:postcode":"31537",
+    "sg:province":"GA",
+    "sg:tags":[
+        "inn",
+        "lodging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85838899,
+        102082917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wg4XmzkQyfL7M6ONEJBWn_30.830681_-82.010290@1303262643"
+    },
+    "wof:country":"US",
+    "wof:created":1461926686,
+    "wof:geomhash":"7234cb8a793381f65bb3ee1c770b2c65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082917,
+            "neighbourhood_id":85838899,
+            "region_id":85688535,
+            "venue_id":740063615
+        }
+    ],
+    "wof:id":740063615,
+    "wof:lastmodified":1461926686,
+    "wof:name":"Inn at Folkston",
+    "wof:parent_id":85838899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inn",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -82.01029,
+    30.830681,
+    -82.01029,
+    30.830681
+],
+  "geometry": {"coordinates":[-82.01029,30.830681],"type":"Point"}
+}

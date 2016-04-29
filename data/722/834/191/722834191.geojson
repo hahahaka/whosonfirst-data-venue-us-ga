@@ -1,0 +1,82 @@
+{
+  "id": 722834191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.783799,32.457471,-81.783799,32.457471",
+    "geom:latitude":32.457471,
+    "geom:longitude":-81.783799,
+    "iso:country":"US",
+    "sg:address":"241 N Main St",
+    "sg:city":"Statesboro",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 912 764 6171",
+    "sg:postcode":"30458",
+    "sg:province":"GA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85935999,
+        102084405,
+        85823149,
+        102191575,
+        85828471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OrJaoS2xHqRvLjHy0wuWX_32.457471_-81.783799@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461889520,
+    "wof:geomhash":"ccf87871370e802a2dde9f058fb55d95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85823149,
+            "region_id":85688535,
+            "venue_id":722834191
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084405,
+            "locality_id":85935999,
+            "neighbourhood_id":85828471,
+            "region_id":85688535,
+            "venue_id":722834191
+        }
+    ],
+    "wof:id":722834191,
+    "wof:lastmodified":1461889520,
+    "wof:name":"Statesboro Summit Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -81.783799,
+    32.457471,
+    -81.783799,
+    32.457471
+],
+  "geometry": {"coordinates":[-81.783799,32.457471],"type":"Point"}
+}

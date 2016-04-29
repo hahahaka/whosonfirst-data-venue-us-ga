@@ -1,0 +1,73 @@
+{
+  "id": 723274079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.990013,30.825667,-83.990013,30.825667",
+    "geom:latitude":30.825667,
+    "geom:longitude":-83.990013,
+    "iso:country":"US",
+    "sg:address":"1031 W Jackson St",
+    "sg:city":"Thomasville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 229 227 9988",
+    "sg:postcode":"31792",
+    "sg:province":"GA",
+    "sg:tags":[
+        "retreading",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936821,
+        102083601,
+        85852137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NkiMMW5NI7HW23KjMTj7w_30.825667_-83.990013@1294087602"
+    },
+    "wof:country":"US",
+    "wof:created":1461898577,
+    "wof:geomhash":"c2a73029ee8c0be992d22e5c180265bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083601,
+            "locality_id":85936821,
+            "neighbourhood_id":85852137,
+            "region_id":85688535,
+            "venue_id":723274079
+        }
+    ],
+    "wof:id":723274079,
+    "wof:lastmodified":1461898577,
+    "wof:name":"Berlin Tire Centers",
+    "wof:parent_id":85852137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "retreading",
+        "tire"
+    ]
+},
+  "bbox": [
+    -83.990013,
+    30.825667,
+    -83.990013,
+    30.825667
+],
+  "geometry": {"coordinates":[-83.990013,30.825667],"type":"Point"}
+}

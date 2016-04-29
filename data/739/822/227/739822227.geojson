@@ -1,0 +1,91 @@
+{
+  "id": 739822227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.666603,33.968544,-84.666603,33.968544",
+    "geom:latitude":33.968544,
+    "geom:longitude":-84.666603,
+    "iso:country":"US",
+    "sg:address":"3905 Due West Rd NW",
+    "sg:city":"Marietta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 746 7287",
+    "sg:postcode":"30064",
+    "sg:province":"GA",
+    "sg:tags":[
+        "urgent",
+        "medical",
+        "nurse"
+    ],
+    "sg:website":"http://www.minuteclinic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        85633793,
+        85936129,
+        102082313,
+        85829479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ysZDtJVSMaeaASg2cmuen_33.968544_-84.666603@1303262581"
+    },
+    "wof:country":"US",
+    "wof:created":1461916780,
+    "wof:geomhash":"fd9585a2abe5de4ff7531066088b0d8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082313,
+            "locality_id":85936129,
+            "neighbourhood_id":85829479,
+            "region_id":85688535,
+            "venue_id":739822227
+        }
+    ],
+    "wof:id":739822227,
+    "wof:lastmodified":1461916780,
+    "wof:name":"MinuteClinic",
+    "wof:parent_id":85829479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "urgent",
+        "medical",
+        "nurse"
+    ]
+},
+  "bbox": [
+    -84.666603,
+    33.968544,
+    -84.666603,
+    33.968544
+],
+  "geometry": {"coordinates":[-84.66660299999999,33.968544],"type":"Point"}
+}

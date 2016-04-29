@@ -1,0 +1,94 @@
+{
+  "id": 740018307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.277032,33.918252,-84.277032,33.918252",
+    "geom:latitude":33.918252,
+    "geom:longitude":-84.277032,
+    "iso:country":"US",
+    "sg:address":"2715 Woodwin Rd",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 770 458 5556",
+    "sg:postcode":"30360",
+    "sg:province":"GA",
+    "sg:tags":[
+        "propane",
+        "bulk",
+        "petroleum-bottled",
+        "gas-liquefied"
+    ],
+    "sg:website":"http://www.amerigas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        85936447,
+        102084539,
+        85889959,
+        85889941,
+        102082967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TGWVOthQFoY1rYT1Cvp76_33.918252_-84.277032@1303262632"
+    },
+    "wof:country":"US",
+    "wof:created":1461924631,
+    "wof:geomhash":"66cf8b5a618293b0c207fa929b26e2a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936447,
+            "neighbourhood_id":85889959,
+            "region_id":85688535,
+            "venue_id":740018307
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082967,
+            "neighbourhood_id":85889941,
+            "region_id":85688535,
+            "venue_id":740018307
+        }
+    ],
+    "wof:id":740018307,
+    "wof:lastmodified":1461924631,
+    "wof:name":"AmeriGas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "propane",
+        "bulk",
+        "petroleum-bottled",
+        "gas-liquefied"
+    ]
+},
+  "bbox": [
+    -84.277032,
+    33.918252,
+    -84.277032,
+    33.918252
+],
+  "geometry": {"coordinates":[-84.27703200000001,33.918252],"type":"Point"}
+}
