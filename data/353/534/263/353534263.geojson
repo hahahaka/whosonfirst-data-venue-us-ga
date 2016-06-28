@@ -2,13 +2,14 @@
   "id": 353534263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.944736,33.586279,-81.944736,33.586279",
     "geom:latitude":33.586279,
     "geom:longitude":-81.944736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Sweetwater Rd",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":353534263,
-    "wof:lastmodified":1449018924,
+    "wof:lastmodified":1466461661,
     "wof:name":"Edgefield Cnty Convenience Ctr",
     "wof:parent_id":85876035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "system"
     ]
 },
-  "bbox": [-81.944736,33.586279,-81.944736,33.586279],
-  "geometry": {"coordinates":[-81.944736,33.586279],"type":"Point"}
+  "bbox": [
+    -81.944736,
+    33.586279,
+    -81.944736,
+    33.586279
+],
+  "geometry": {"coordinates":[-81.94473600000001,33.586279],"type":"Point"}
 }

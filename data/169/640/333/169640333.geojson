@@ -2,13 +2,14 @@
   "id": 169640333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.538707,33.478242,-84.538707,33.478242",
     "geom:latitude":33.478242,
     "geom:longitude":-84.538707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Sandy Lake Cir",
     "sg:city":"Ellenwood",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169640333,
-    "wof:lastmodified":1449034104,
+    "wof:lastmodified":1466461254,
     "wof:name":"M C R Home Repair Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-84.538707,33.478242,-84.538707,33.478242],
+  "bbox": [
+    -84.538707,
+    33.478242,
+    -84.538707,
+    33.478242
+],
   "geometry": {"coordinates":[-84.538707,33.478242],"type":"Point"}
 }

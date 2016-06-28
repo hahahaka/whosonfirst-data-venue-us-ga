@@ -2,13 +2,14 @@
   "id": 353809447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.549513,30.894841,-84.549513,30.894841",
     "geom:latitude":30.894841,
     "geom:longitude":-84.549513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1703 Twin Lakes Dr",
     "sg:city":"Bainbridge",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353809447,
-    "wof:lastmodified":1449020370,
+    "wof:lastmodified":1466461212,
     "wof:name":"A Plus Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.549513,30.894841,-84.549513,30.894841],
+  "bbox": [
+    -84.549513,
+    30.894841,
+    -84.549513,
+    30.894841
+],
   "geometry": {"coordinates":[-84.549513,30.894841],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169599057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.636202,31.399482,-83.636202,31.399482",
     "geom:latitude":31.399482,
     "geom:longitude":-83.636202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1317 Ty Ty-Sparks Rd",
     "sg:city":"Tifton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169599057,
-    "wof:lastmodified":1449034207,
+    "wof:lastmodified":1466461319,
     "wof:name":"Diesel Doctor of Tifton Ga",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-83.636202,31.399482,-83.636202,31.399482],
+  "bbox": [
+    -83.636202,
+    31.399482,
+    -83.636202,
+    31.399482
+],
   "geometry": {"coordinates":[-83.636202,31.399482],"type":"Point"}
 }

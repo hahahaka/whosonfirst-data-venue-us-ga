@@ -2,13 +2,14 @@
   "id": 370258411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.891986,33.496746,-81.891986,33.496746",
     "geom:latitude":33.496746,
     "geom:longitude":-81.891986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"937 Augusta Rd",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370258411,
-    "wof:lastmodified":1449031787,
+    "wof:lastmodified":1466461204,
     "wof:name":"Depot Food Store 118",
     "wof:parent_id":85817111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "operates"
     ]
 },
-  "bbox": [-81.891986,33.496746,-81.891986,33.496746],
+  "bbox": [
+    -81.891986,
+    33.496746,
+    -81.891986,
+    33.496746
+],
   "geometry": {"coordinates":[-81.891986,33.496746],"type":"Point"}
 }

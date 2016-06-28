@@ -2,13 +2,14 @@
   "id": 169679069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.39926,33.690405,-84.39926,33.690405",
     "geom:latitude":33.690405,
     "geom:longitude":-84.39926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2315 Pryor Rd SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169679069,
-    "wof:lastmodified":1449034806,
+    "wof:lastmodified":1466461292,
     "wof:name":"Moody Contracting",
     "wof:parent_id":85872119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-84.39926,33.690405,-84.39926,33.690405],
+  "bbox": [
+    -84.39926,
+    33.690405,
+    -84.39926,
+    33.690405
+],
   "geometry": {"coordinates":[-84.39926,33.690405],"type":"Point"}
 }

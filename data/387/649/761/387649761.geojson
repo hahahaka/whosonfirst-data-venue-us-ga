@@ -2,13 +2,14 @@
   "id": 387649761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.548238,30.903779,-84.548238,30.903779",
     "geom:latitude":30.903779,
     "geom:longitude":-84.548238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1704 E Shotwell St",
     "sg:city":"Bainbridge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387649761,
-    "wof:lastmodified":1449058703,
+    "wof:lastmodified":1466461194,
     "wof:name":"Tommy T's Mighty Lube",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lubricating"
     ]
 },
-  "bbox": [-84.548238,30.903779,-84.548238,30.903779],
+  "bbox": [
+    -84.548238,
+    30.903779,
+    -84.548238,
+    30.903779
+],
   "geometry": {"coordinates":[-84.548238,30.903779],"type":"Point"}
 }

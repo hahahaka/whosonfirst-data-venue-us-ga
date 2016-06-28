@@ -2,13 +2,14 @@
   "id": 169628609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.291538,34.872239,-85.291538,34.872239",
     "geom:latitude":34.872239,
     "geom:longitude":-85.291538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Cove Rd",
     "sg:city":"Chickamauga",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169628609,
-    "wof:lastmodified":1449035334,
+    "wof:lastmodified":1466461240,
     "wof:name":"Chickamauga Masonic Temple",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-85.291538,34.872239,-85.291538,34.872239],
+  "bbox": [
+    -85.291538,
+    34.872239,
+    -85.291538,
+    34.872239
+],
   "geometry": {"coordinates":[-85.291538,34.872239],"type":"Point"}
 }

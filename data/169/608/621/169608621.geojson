@@ -2,13 +2,14 @@
   "id": 169608621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.168001,33.733284,-84.168001,33.733284",
     "geom:latitude":33.733284,
     "geom:longitude":-84.168001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1971 Panola Rd",
     "sg:city":"Lithonia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169608621,
-    "wof:lastmodified":1449034086,
+    "wof:lastmodified":1466461210,
     "wof:name":"Christ Snctary Fllwship Church",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.168001,33.733284,-84.168001,33.733284],
+  "bbox": [
+    -84.168001,
+    33.733284,
+    -84.168001,
+    33.733284
+],
   "geometry": {"coordinates":[-84.168001,33.733284],"type":"Point"}
 }

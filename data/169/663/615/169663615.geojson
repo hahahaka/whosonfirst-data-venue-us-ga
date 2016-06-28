@@ -2,13 +2,14 @@
   "id": 169663615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.23391,33.395611,-83.23391,33.395611",
     "geom:latitude":33.395611,
     "geom:longitude":-83.23391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Ashland Pl",
     "sg:city":"Eatonton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169663615,
-    "wof:lastmodified":1449035106,
+    "wof:lastmodified":1466461287,
     "wof:name":"Carpetland USA",
     "wof:parent_id":85826761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-83.23391,33.395611,-83.23391,33.395611],
-  "geometry": {"coordinates":[-83.23391,33.395611],"type":"Point"}
+  "bbox": [
+    -83.23391,
+    33.395611,
+    -83.23391,
+    33.395611
+],
+  "geometry": {"coordinates":[-83.23390999999999,33.395611],"type":"Point"}
 }

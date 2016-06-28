@@ -2,13 +2,14 @@
   "id": 202798711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.548144,30.90378,-84.548144,30.90378",
     "geom:latitude":30.90378,
     "geom:longitude":-84.548144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1708 E Shotwell St",
     "sg:city":"Bainbridge",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202798711,
-    "wof:lastmodified":1449060583,
+    "wof:lastmodified":1466461304,
     "wof:name":"Farmers Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.548144,30.90378,-84.548144,30.90378],
-  "geometry": {"coordinates":[-84.548144,30.90378],"type":"Point"}
+  "bbox": [
+    -84.548144,
+    30.90378,
+    -84.548144,
+    30.90378
+],
+  "geometry": {"coordinates":[-84.54814399999999,30.90378],"type":"Point"}
 }

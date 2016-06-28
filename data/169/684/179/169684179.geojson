@@ -2,13 +2,14 @@
   "id": 169684179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.113632,33.655058,-85.113632,33.655058",
     "geom:latitude":33.655058,
     "geom:longitude":-85.113632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"893 Miller Academy Rd",
     "sg:city":"Carrollton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169684179,
-    "wof:lastmodified":1449033510,
+    "wof:lastmodified":1466461326,
     "wof:name":"Bobby Murrow Heating & Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.113632,33.655058,-85.113632,33.655058],
+  "bbox": [
+    -85.113632,
+    33.655058,
+    -85.113632,
+    33.655058
+],
   "geometry": {"coordinates":[-85.113632,33.655058],"type":"Point"}
 }

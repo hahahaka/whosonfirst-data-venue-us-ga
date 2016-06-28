@@ -2,13 +2,14 @@
   "id": 353573257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.930731,33.486573,-81.930731,33.486573",
     "geom:latitude":33.486573,
     "geom:longitude":-81.930731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5540 Jefferson Davis Hwy",
     "sg:city":"Beech Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353573257,
-    "wof:lastmodified":1449020128,
+    "wof:lastmodified":1466461665,
     "wof:name":"Hippodrome Horse Complex",
     "wof:parent_id":85817111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.930731,33.486573,-81.930731,33.486573],
-  "geometry": {"coordinates":[-81.930731,33.486573],"type":"Point"}
+  "bbox": [
+    -81.930731,
+    33.486573,
+    -81.930731,
+    33.486573
+],
+  "geometry": {"coordinates":[-81.93073099999999,33.486573],"type":"Point"}
 }

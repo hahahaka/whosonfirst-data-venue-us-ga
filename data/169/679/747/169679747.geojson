@@ -2,13 +2,14 @@
   "id": 169679747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.193138,33.885026,-84.193138,33.885026",
     "geom:latitude":33.885026,
     "geom:longitude":-84.193138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Merchants Dr",
     "sg:city":"Norcross",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169679747,
-    "wof:lastmodified":1449034806,
+    "wof:lastmodified":1466461296,
     "wof:name":"Grace Computer Resources Inc",
     "wof:parent_id":85803655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-84.193138,33.885026,-84.193138,33.885026],
+  "bbox": [
+    -84.193138,
+    33.885026,
+    -84.193138,
+    33.885026
+],
   "geometry": {"coordinates":[-84.193138,33.885026],"type":"Point"}
 }

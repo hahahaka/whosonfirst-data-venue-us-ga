@@ -2,13 +2,14 @@
   "id": 169590063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.38869,30.78943,-84.38869,30.78943",
     "geom:latitude":30.78943,
     "geom:longitude":-84.38869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Gibson Rd",
     "sg:city":"Climax",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169590063,
-    "wof:lastmodified":1449034652,
+    "wof:lastmodified":1466461303,
     "wof:name":"Screens Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-84.38869,30.78943,-84.38869,30.78943],
+  "bbox": [
+    -84.38869,
+    30.78943,
+    -84.38869,
+    30.78943
+],
   "geometry": {"coordinates":[-84.38869,30.78943],"type":"Point"}
 }

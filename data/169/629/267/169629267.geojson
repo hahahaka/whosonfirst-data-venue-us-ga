@@ -2,13 +2,14 @@
   "id": 169629267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.58164,30.902354,-84.58164,30.902354",
     "geom:latitude":30.902354,
     "geom:longitude":-84.58164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Emanuel St",
     "sg:city":"Bainbridge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169629267,
-    "wof:lastmodified":1449035186,
+    "wof:lastmodified":1466461241,
     "wof:name":"Jacobs Mortuary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-84.58164,30.902354,-84.58164,30.902354],
-  "geometry": {"coordinates":[-84.58164,30.902354],"type":"Point"}
+  "bbox": [
+    -84.58164,
+    30.902354,
+    -84.58164,
+    30.902354
+],
+  "geometry": {"coordinates":[-84.58163999999999,30.902354],"type":"Point"}
 }

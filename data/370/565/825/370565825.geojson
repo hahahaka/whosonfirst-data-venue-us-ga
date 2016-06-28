@@ -2,13 +2,14 @@
   "id": 370565825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.057776,33.645882,-82.057776,33.645882",
     "geom:latitude":33.645882,
     "geom:longitude":-82.057776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2409 Martintown Rd",
     "sg:city":"Clarks Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370565825,
-    "wof:lastmodified":1449032177,
+    "wof:lastmodified":1466461228,
     "wof:name":"C & A Mobile Repair",
     "wof:parent_id":85876035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-82.057776,33.645882,-82.057776,33.645882],
+  "bbox": [
+    -82.057776,
+    33.645882,
+    -82.057776,
+    33.645882
+],
   "geometry": {"coordinates":[-82.057776,33.645882],"type":"Point"}
 }

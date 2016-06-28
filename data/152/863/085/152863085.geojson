@@ -2,13 +2,14 @@
   "id": 152863085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.444009,34.484977,-85.444009,34.484977",
     "geom:latitude":34.484977,
     "geom:longitude":-85.444009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6027 Hwy 48",
     "sg:city":"Menlo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152863085,
-    "wof:lastmodified":1449047492,
+    "wof:lastmodified":1466461298,
     "wof:name":"Menlo Used Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.444009,34.484977,-85.444009,34.484977],
-  "geometry": {"coordinates":[-85.444009,34.484977],"type":"Point"}
+  "bbox": [
+    -85.444009,
+    34.484977,
+    -85.444009,
+    34.484977
+],
+  "geometry": {"coordinates":[-85.44400899999999,34.484977],"type":"Point"}
 }

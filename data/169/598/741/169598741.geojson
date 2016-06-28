@@ -2,13 +2,14 @@
   "id": 169598741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.061092,33.409656,-82.061092,33.409656",
     "geom:latitude":33.409656,
     "geom:longitude":-82.061092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2911 Panhandle Cir",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169598741,
-    "wof:lastmodified":1449032855,
+    "wof:lastmodified":1466461318,
     "wof:name":"Hankerson Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-82.061092,33.409656,-82.061092,33.409656],
+  "bbox": [
+    -82.061092,
+    33.409656,
+    -82.061092,
+    33.409656
+],
   "geometry": {"coordinates":[-82.061092,33.409656],"type":"Point"}
 }

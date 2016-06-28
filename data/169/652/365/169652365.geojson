@@ -2,13 +2,14 @@
   "id": 169652365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.378601,34.034099,-84.378601,34.034099",
     "geom:latitude":34.034099,
     "geom:longitude":-84.378601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1360 Land O Lakes Dr",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169652365,
-    "wof:lastmodified":1449034806,
+    "wof:lastmodified":1466461267,
     "wof:name":"Sacred Well Inc",
     "wof:parent_id":85823117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.378601,34.034099,-84.378601,34.034099],
+  "bbox": [
+    -84.378601,
+    34.034099,
+    -84.378601,
+    34.034099
+],
   "geometry": {"coordinates":[-84.378601,34.034099],"type":"Point"}
 }

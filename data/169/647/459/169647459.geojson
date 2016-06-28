@@ -2,13 +2,14 @@
   "id": 169647459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.1022,33.787138,-84.1022,33.787138",
     "geom:latitude":33.787138,
     "geom:longitude":-84.1022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"455 Janie Way",
     "sg:city":"Stone Mountain",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169647459,
-    "wof:lastmodified":1449034240,
+    "wof:lastmodified":1466461266,
     "wof:name":"Marvin Fields Floor Co In",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-84.1022,33.787138,-84.1022,33.787138],
+  "bbox": [
+    -84.1022,
+    33.787138,
+    -84.1022,
+    33.787138
+],
   "geometry": {"coordinates":[-84.1022,33.787138],"type":"Point"}
 }

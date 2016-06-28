@@ -2,13 +2,14 @@
   "id": 169633375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.983361,30.834073,-83.983361,30.834073",
     "geom:latitude":30.834073,
     "geom:longitude":-83.983361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 W Jackson St",
     "sg:city":"Thomasville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169633375,
-    "wof:lastmodified":1449035938,
+    "wof:lastmodified":1466461245,
     "wof:name":"Linda Gail's Southern Kitchen",
     "wof:parent_id":85852137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-83.983361,30.834073,-83.983361,30.834073],
+  "bbox": [
+    -83.983361,
+    30.834073,
+    -83.983361,
+    30.834073
+],
   "geometry": {"coordinates":[-83.983361,30.834073],"type":"Point"}
 }

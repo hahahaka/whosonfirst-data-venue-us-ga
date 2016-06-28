@@ -2,13 +2,14 @@
   "id": 169606515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.953551,32.471922,-84.953551,32.471922",
     "geom:latitude":32.471922,
     "geom:longitude":-84.953551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1324 Wynnton Ct",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169606515,
-    "wof:lastmodified":1449033201,
+    "wof:lastmodified":1466461207,
     "wof:name":"Saul R Dermer DDS",
     "wof:parent_id":85859231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.953551,32.471922,-84.953551,32.471922],
+  "bbox": [
+    -84.953551,
+    32.471922,
+    -84.953551,
+    32.471922
+],
   "geometry": {"coordinates":[-84.953551,32.471922],"type":"Point"}
 }

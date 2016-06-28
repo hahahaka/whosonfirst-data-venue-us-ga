@@ -2,13 +2,14 @@
   "id": 169644655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.2675,30.843563,-83.2675,30.843563",
     "geom:latitude":30.843563,
     "geom:longitude":-83.2675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 N Forrest St",
     "sg:city":"Valdosta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169644655,
-    "wof:lastmodified":1449034576,
+    "wof:lastmodified":1466461263,
     "wof:name":"Crystal Springs-South Valdosta",
     "wof:parent_id":85820037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-83.2675,30.843563,-83.2675,30.843563],
+  "bbox": [
+    -83.2675,
+    30.843563,
+    -83.2675,
+    30.843563
+],
   "geometry": {"coordinates":[-83.2675,30.843563],"type":"Point"}
 }

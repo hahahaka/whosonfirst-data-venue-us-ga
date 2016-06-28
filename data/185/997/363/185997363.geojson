@@ -2,13 +2,14 @@
   "id": 185997363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.914843,33.49451,-81.914843,33.49451",
     "geom:latitude":33.49451,
     "geom:longitude":-81.914843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4871 Jefferson Davis Hwy",
     "sg:city":"Beech Island",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185997363,
-    "wof:lastmodified":1449007950,
+    "wof:lastmodified":1466461313,
     "wof:name":"Hill Auto Sales",
     "wof:parent_id":85817111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.914843,33.49451,-81.914843,33.49451],
+  "bbox": [
+    -81.914843,
+    33.49451,
+    -81.914843,
+    33.49451
+],
   "geometry": {"coordinates":[-81.914843,33.49451],"type":"Point"}
 }

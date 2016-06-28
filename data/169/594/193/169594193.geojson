@@ -2,13 +2,14 @@
   "id": 169594193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.373046,33.773143,-84.373046,33.773143",
     "geom:latitude":33.773143,
     "geom:longitude":-84.373046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Ponce de Leon Ave NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169594193,
-    "wof:lastmodified":1449033163,
+    "wof:lastmodified":1466461309,
     "wof:name":"Home Association Inc",
     "wof:parent_id":85853981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.373046,33.773143,-84.373046,33.773143],
+  "bbox": [
+    -84.373046,
+    33.773143,
+    -84.373046,
+    33.773143
+],
   "geometry": {"coordinates":[-84.373046,33.773143],"type":"Point"}
 }

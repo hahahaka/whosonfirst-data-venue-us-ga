@@ -2,13 +2,14 @@
   "id": 169591859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.313351,34.915888,-85.313351,34.915888",
     "geom:latitude":34.915888,
     "geom:longitude":-85.313351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"830 Mission Ridge Rd",
     "sg:city":"Rossville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169591859,
-    "wof:lastmodified":1449034452,
+    "wof:lastmodified":1466461306,
     "wof:name":"American Auto Sales",
     "wof:parent_id":85850013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "used"
     ]
 },
-  "bbox": [-85.313351,34.915888,-85.313351,34.915888],
+  "bbox": [
+    -85.313351,
+    34.915888,
+    -85.313351,
+    34.915888
+],
   "geometry": {"coordinates":[-85.313351,34.915888],"type":"Point"}
 }

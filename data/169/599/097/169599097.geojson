@@ -2,13 +2,14 @@
   "id": 169599097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.314533,33.88333,-84.314533,33.88333",
     "geom:latitude":33.88333,
     "geom:longitude":-84.314533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4985 New Peachtree Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169599097,
-    "wof:lastmodified":1449034207,
+    "wof:lastmodified":1466461319,
     "wof:name":"E Fabrication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "custom"
     ]
 },
-  "bbox": [-84.314533,33.88333,-84.314533,33.88333],
+  "bbox": [
+    -84.314533,
+    33.88333,
+    -84.314533,
+    33.88333
+],
   "geometry": {"coordinates":[-84.314533,33.88333],"type":"Point"}
 }

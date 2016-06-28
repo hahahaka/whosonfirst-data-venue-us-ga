@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102489217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.006823,32.451416,-85.006823,32.451416",
     "geom:latitude":32.451416,
     "geom:longitude":-85.006823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Seale Rd",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882109,
+        85688535,
         85633793,
         85936243,
         102084429,
-        85688535
+        85882109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102489217,
-    "wof:lastmodified":1449069058,
+    "wof:lastmodified":1466461194,
     "wof:name":"Hood's Auto Garage",
     "wof:parent_id":85882109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.006823,32.451416,-85.006823,32.451416],
+  "bbox": [
+    -85.006823,
+    32.451416,
+    -85.006823,
+    32.451416
+],
   "geometry": {"coordinates":[-85.006823,32.451416],"type":"Point"}
 }

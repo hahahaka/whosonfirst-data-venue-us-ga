@@ -2,13 +2,14 @@
   "id": 169636521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.482669,33.935172,-84.482669,33.935172",
     "geom:latitude":33.935172,
     "geom:longitude":-84.482669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"856 Bonnie Glen Dr SE",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169636521,
-    "wof:lastmodified":1449033989,
+    "wof:lastmodified":1466461254,
     "wof:name":"Global Commerce Copr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-84.482669,33.935172,-84.482669,33.935172],
+  "bbox": [
+    -84.482669,
+    33.935172,
+    -84.482669,
+    33.935172
+],
   "geometry": {"coordinates":[-84.482669,33.935172],"type":"Point"}
 }

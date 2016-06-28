@@ -2,13 +2,14 @@
   "id": 169587011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.279892,30.838536,-83.279892,30.838536",
     "geom:latitude":30.838536,
     "geom:longitude":-83.279892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 N Ashley St",
     "sg:city":"Valdosta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169587011,
-    "wof:lastmodified":1449033822,
+    "wof:lastmodified":1466461297,
     "wof:name":"Mc Connehead Car Care",
     "wof:parent_id":85820037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "washing"
     ]
 },
-  "bbox": [-83.279892,30.838536,-83.279892,30.838536],
+  "bbox": [
+    -83.279892,
+    30.838536,
+    -83.279892,
+    30.838536
+],
   "geometry": {"coordinates":[-83.279892,30.838536],"type":"Point"}
 }

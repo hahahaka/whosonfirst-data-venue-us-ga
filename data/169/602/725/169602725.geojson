@@ -2,13 +2,14 @@
   "id": 169602725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.282525,30.858223,-83.282525,30.858223",
     "geom:latitude":30.858223,
     "geom:longitude":-83.282525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 Mimosa Dr",
     "sg:city":"Valdosta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169602725,
-    "wof:lastmodified":1449034228,
+    "wof:lastmodified":1466461202,
     "wof:name":"Georgia Telephone Svc Inc",
     "wof:parent_id":85827633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-83.282525,30.858223,-83.282525,30.858223],
-  "geometry": {"coordinates":[-83.282525,30.858223],"type":"Point"}
+  "bbox": [
+    -83.282525,
+    30.858223,
+    -83.282525,
+    30.858223
+],
+  "geometry": {"coordinates":[-83.28252500000001,30.858223],"type":"Point"}
 }

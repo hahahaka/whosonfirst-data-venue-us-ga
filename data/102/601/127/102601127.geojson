@@ -2,13 +2,14 @@
   "id": 102601127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.463962,34.502232,-85.463962,34.502232",
     "geom:latitude":34.502232,
     "geom:longitude":-85.463962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2951 Hwy 337",
     "sg:city":"Menlo",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":102601127,
-    "wof:lastmodified":1449068851,
+    "wof:lastmodified":1466461302,
     "wof:name":"US Post Office",
     "wof:parent_id":85688535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.463962,34.502232,-85.463962,34.502232],
+  "bbox": [
+    -85.463962,
+    34.502232,
+    -85.463962,
+    34.502232
+],
   "geometry": {"coordinates":[-85.463962,34.502232],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370235881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.011012,33.562239,-82.011012,33.562239",
     "geom:latitude":33.562239,
     "geom:longitude":-82.011012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Townes Rd",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370235881,
-    "wof:lastmodified":1449029673,
+    "wof:lastmodified":1466461204,
     "wof:name":"North Augusta Plumbing",
     "wof:parent_id":85876035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wood"
     ]
 },
-  "bbox": [-82.011012,33.562239,-82.011012,33.562239],
-  "geometry": {"coordinates":[-82.011012,33.562239],"type":"Point"}
+  "bbox": [
+    -82.011012,
+    33.562239,
+    -82.011012,
+    33.562239
+],
+  "geometry": {"coordinates":[-82.01101199999999,33.562239],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169659497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.404332,33.749087,-84.404332,33.749087",
     "geom:latitude":33.749087,
     "geom:longitude":-84.404332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"180 Northside Dr SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169659497,
-    "wof:lastmodified":1449033034,
+    "wof:lastmodified":1466461276,
     "wof:name":"Fantasy Images",
     "wof:parent_id":85872071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-84.404332,33.749087,-84.404332,33.749087],
+  "bbox": [
+    -84.404332,
+    33.749087,
+    -84.404332,
+    33.749087
+],
   "geometry": {"coordinates":[-84.404332,33.749087],"type":"Point"}
 }

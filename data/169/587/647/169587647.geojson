@@ -2,13 +2,14 @@
   "id": 169587647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.347906,33.626095,-84.347906,33.626095",
     "geom:latitude":33.626095,
     "geom:longitude":-84.347906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4859 Bartlett Rd",
     "sg:city":"Forest Park",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169587647,
-    "wof:lastmodified":1449033823,
+    "wof:lastmodified":1466461298,
     "wof:name":"Reel To Reel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.347906,33.626095,-84.347906,33.626095],
-  "geometry": {"coordinates":[-84.347906,33.626095],"type":"Point"}
+  "bbox": [
+    -84.347906,
+    33.626095,
+    -84.347906,
+    33.626095
+],
+  "geometry": {"coordinates":[-84.34790599999999,33.626095],"type":"Point"}
 }

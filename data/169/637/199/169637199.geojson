@@ -2,13 +2,14 @@
   "id": 169637199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.561624,34.130181,-84.561624,34.130181",
     "geom:latitude":34.130181,
     "geom:longitude":-84.561624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Morning Mist Way",
     "sg:city":"Woodstock",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169637199,
-    "wof:lastmodified":1449032688,
+    "wof:lastmodified":1466461250,
     "wof:name":"McClelland Enterprise LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "holding"
     ]
 },
-  "bbox": [-84.561624,34.130181,-84.561624,34.130181],
-  "geometry": {"coordinates":[-84.561624,34.130181],"type":"Point"}
+  "bbox": [
+    -84.561624,
+    34.130181,
+    -84.561624,
+    34.130181
+],
+  "geometry": {"coordinates":[-84.56162399999999,34.130181],"type":"Point"}
 }

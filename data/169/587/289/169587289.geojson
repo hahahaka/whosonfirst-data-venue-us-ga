@@ -2,13 +2,14 @@
   "id": 169587289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.511856,31.455916,-83.511856,31.455916",
     "geom:latitude":31.455916,
     "geom:longitude":-83.511856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Park Ave N",
     "sg:city":"Tifton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169587289,
-    "wof:lastmodified":1449033823,
+    "wof:lastmodified":1466461297,
     "wof:name":"Astro Exterminating Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.511856,31.455916,-83.511856,31.455916],
-  "geometry": {"coordinates":[-83.511856,31.455916],"type":"Point"}
+  "bbox": [
+    -83.511856,
+    31.455916,
+    -83.511856,
+    31.455916
+],
+  "geometry": {"coordinates":[-83.51185599999999,31.455916],"type":"Point"}
 }

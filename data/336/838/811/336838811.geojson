@@ -2,13 +2,14 @@
   "id": 336838811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.725916,30.771162,-84.725916,30.771162",
     "geom:latitude":30.771162,
     "geom:longitude":-84.725916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"189 River Rd",
     "sg:city":"Bainbridge",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":336838811,
-    "wof:lastmodified":1448997060,
+    "wof:lastmodified":1466461647,
     "wof:name":"Lake Siminole Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.725916,30.771162,-84.725916,30.771162],
+  "bbox": [
+    -84.725916,
+    30.771162,
+    -84.725916,
+    30.771162
+],
   "geometry": {"coordinates":[-84.725916,30.771162],"type":"Point"}
 }

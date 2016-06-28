@@ -2,13 +2,14 @@
   "id": 219584851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.574773,30.893211,-84.574773,30.893211",
     "geom:latitude":30.893211,
     "geom:longitude":-84.574773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1135 Anderson St",
     "sg:city":"Bainbridge",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219584851,
-    "wof:lastmodified":1449070775,
+    "wof:lastmodified":1466461558,
     "wof:name":"Morris Installment Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "sales"
     ]
 },
-  "bbox": [-84.574773,30.893211,-84.574773,30.893211],
-  "geometry": {"coordinates":[-84.574773,30.893211],"type":"Point"}
+  "bbox": [
+    -84.574773,
+    30.893211,
+    -84.574773,
+    30.893211
+],
+  "geometry": {"coordinates":[-84.57477299999999,30.893211],"type":"Point"}
 }

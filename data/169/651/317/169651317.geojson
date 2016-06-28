@@ -2,13 +2,14 @@
   "id": 169651317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.279961,33.992678,-84.279961,33.992678",
     "geom:latitude":33.992678,
     "geom:longitude":-84.279961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2750 Holcomb Bridge Rd",
     "sg:city":"Alpharetta",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":169651317,
-    "wof:lastmodified":1449033346,
+    "wof:lastmodified":1466461270,
     "wof:name":"Thoroughbred Equity Investment",
     "wof:parent_id":85844913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "investor"
     ]
 },
-  "bbox": [-84.279961,33.992678,-84.279961,33.992678],
+  "bbox": [
+    -84.279961,
+    33.992678,
+    -84.279961,
+    33.992678
+],
   "geometry": {"coordinates":[-84.279961,33.992678],"type":"Point"}
 }

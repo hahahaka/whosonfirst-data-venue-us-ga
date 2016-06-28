@@ -2,13 +2,14 @@
   "id": 169629275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.712214,32.538047,-83.712214,32.538047",
     "geom:latitude":32.538047,
     "geom:longitude":-83.712214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Royal Crest Cir",
     "sg:city":"Kathleen",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169629275,
-    "wof:lastmodified":1449035184,
+    "wof:lastmodified":1466461241,
     "wof:name":"Jons Custom Homes Inc",
     "wof:parent_id":85803765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-83.712214,32.538047,-83.712214,32.538047],
+  "bbox": [
+    -83.712214,
+    32.538047,
+    -83.712214,
+    32.538047
+],
   "geometry": {"coordinates":[-83.712214,32.538047],"type":"Point"}
 }

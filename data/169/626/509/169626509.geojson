@@ -2,13 +2,14 @@
   "id": 169626509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.252777,33.592451,-84.252777,33.592451",
     "geom:latitude":33.592451,
     "geom:longitude":-84.252777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"147 Hayes Cir",
     "sg:city":"Rex",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169626509,
-    "wof:lastmodified":1449035968,
+    "wof:lastmodified":1466461238,
     "wof:name":"Lavigne & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hardware"
     ]
 },
-  "bbox": [-84.252777,33.592451,-84.252777,33.592451],
-  "geometry": {"coordinates":[-84.252777,33.592451],"type":"Point"}
+  "bbox": [
+    -84.252777,
+    33.592451,
+    -84.252777,
+    33.592451
+],
+  "geometry": {"coordinates":[-84.25277699999999,33.592451],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186118139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.899794,33.466766,-81.899794,33.466766",
     "geom:latitude":33.466766,
     "geom:longitude":-81.899794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2614 Atomic Rd",
     "sg:city":"Beech Island",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186118139,
-    "wof:lastmodified":1449052497,
+    "wof:lastmodified":1466461315,
     "wof:name":"Longs Mobile Home Village",
     "wof:parent_id":85817111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "site"
     ]
 },
-  "bbox": [-81.899794,33.466766,-81.899794,33.466766],
+  "bbox": [
+    -81.899794,
+    33.466766,
+    -81.899794,
+    33.466766
+],
   "geometry": {"coordinates":[-81.899794,33.466766],"type":"Point"}
 }

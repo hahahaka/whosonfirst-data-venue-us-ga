@@ -2,13 +2,14 @@
   "id": 169653615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.658943,33.859752,-84.658943,33.859752",
     "geom:latitude":33.859752,
     "geom:longitude":-84.658943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3984 Powder Springs St S",
     "sg:city":"Powder Springs",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169653615,
-    "wof:lastmodified":1449032917,
+    "wof:lastmodified":1466461270,
     "wof:name":"Advanced Home Medical Equip",
     "wof:parent_id":85839059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bedding"
     ]
 },
-  "bbox": [-84.658943,33.859752,-84.658943,33.859752],
-  "geometry": {"coordinates":[-84.658943,33.859752],"type":"Point"}
+  "bbox": [
+    -84.658943,
+    33.859752,
+    -84.658943,
+    33.859752
+],
+  "geometry": {"coordinates":[-84.65894299999999,33.859752],"type":"Point"}
 }

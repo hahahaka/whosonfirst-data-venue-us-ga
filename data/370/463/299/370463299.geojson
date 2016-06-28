@@ -2,13 +2,14 @@
   "id": 370463299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.892095,33.496682,-81.892095,33.496682",
     "geom:latitude":33.496682,
     "geom:longitude":-81.892095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"165 Augusta Rd",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370463299,
-    "wof:lastmodified":1449031434,
+    "wof:lastmodified":1466461218,
     "wof:name":"Ken Signs",
     "wof:parent_id":85817111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.892095,33.496682,-81.892095,33.496682],
+  "bbox": [
+    -81.892095,
+    33.496682,
+    -81.892095,
+    33.496682
+],
   "geometry": {"coordinates":[-81.892095,33.496682],"type":"Point"}
 }

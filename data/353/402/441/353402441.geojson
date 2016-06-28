@@ -2,13 +2,14 @@
   "id": 353402441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.855371,33.434057,-81.855371,33.434057",
     "geom:latitude":33.434057,
     "geom:longitude":-81.855371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"519 Pine Log Pl",
     "sg:city":"Beech Island",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353402441,
-    "wof:lastmodified":1449019081,
+    "wof:lastmodified":1466461655,
     "wof:name":"Compass",
     "wof:parent_id":85817111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.855371,33.434057,-81.855371,33.434057],
-  "geometry": {"coordinates":[-81.855371,33.434057],"type":"Point"}
+  "bbox": [
+    -81.855371,
+    33.434057,
+    -81.855371,
+    33.434057
+],
+  "geometry": {"coordinates":[-81.85537100000001,33.434057],"type":"Point"}
 }

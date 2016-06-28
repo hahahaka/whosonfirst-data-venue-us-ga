@@ -2,13 +2,14 @@
   "id": 370462675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.878737,33.489725,-81.878737,33.489725",
     "geom:latitude":33.489725,
     "geom:longitude":-81.878737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 Pine Grove Rd",
     "sg:city":"Beech Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370462675,
-    "wof:lastmodified":1449032341,
+    "wof:lastmodified":1466461218,
     "wof:name":"Pine Grove Baptist Church",
     "wof:parent_id":85817111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.878737,33.489725,-81.878737,33.489725],
+  "bbox": [
+    -81.878737,
+    33.489725,
+    -81.878737,
+    33.489725
+],
   "geometry": {"coordinates":[-81.878737,33.489725],"type":"Point"}
 }

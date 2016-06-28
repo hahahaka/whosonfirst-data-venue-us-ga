@@ -2,13 +2,14 @@
   "id": 169608697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.545268,34.127978,-84.545268,34.127978",
     "geom:latitude":34.127978,
     "geom:longitude":-84.545268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7001 E Hills Way",
     "sg:city":"Woodstock",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169608697,
-    "wof:lastmodified":1449034084,
+    "wof:lastmodified":1466461211,
     "wof:name":"Managemanet Recruiters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "executive"
     ]
 },
-  "bbox": [-84.545268,34.127978,-84.545268,34.127978],
-  "geometry": {"coordinates":[-84.545268,34.127978],"type":"Point"}
+  "bbox": [
+    -84.545268,
+    34.127978,
+    -84.545268,
+    34.127978
+],
+  "geometry": {"coordinates":[-84.54526799999999,34.127978],"type":"Point"}
 }

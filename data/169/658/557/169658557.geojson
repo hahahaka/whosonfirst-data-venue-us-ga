@@ -2,13 +2,14 @@
   "id": 169658557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.411928,33.608293,-84.411928,33.608293",
     "geom:latitude":33.608293,
     "geom:longitude":-84.411928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5349 W Lees Mill Rd",
     "sg:city":"College Park",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169658557,
-    "wof:lastmodified":1449032615,
+    "wof:lastmodified":1466461277,
     "wof:name":"C W Matthews Contracting Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "asphalt"
     ]
 },
-  "bbox": [-84.411928,33.608293,-84.411928,33.608293],
+  "bbox": [
+    -84.411928,
+    33.608293,
+    -84.411928,
+    33.608293
+],
   "geometry": {"coordinates":[-84.411928,33.608293],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169657387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.955614,34.153445,-84.955614,34.153445",
     "geom:latitude":34.153445,
     "geom:longitude":-84.955614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Cliff Nelson Rd",
     "sg:city":"Euharlee",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169657387,
-    "wof:lastmodified":1449033052,
+    "wof:lastmodified":1466461276,
     "wof:name":"Corinth Baptist Church",
     "wof:parent_id":85853435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-84.955614,34.153445,-84.955614,34.153445],
+  "bbox": [
+    -84.955614,
+    34.153445,
+    -84.955614,
+    34.153445
+],
   "geometry": {"coordinates":[-84.955614,34.153445],"type":"Point"}
 }

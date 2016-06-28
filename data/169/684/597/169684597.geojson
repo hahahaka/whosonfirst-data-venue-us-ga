@@ -2,13 +2,14 @@
   "id": 169684597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.542748,33.850232,-84.542748,33.850232",
     "geom:latitude":33.850232,
     "geom:longitude":-84.542748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3805 W Cooper Lake Dr SE",
     "sg:city":"Smyrna",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169684597,
-    "wof:lastmodified":1449033510,
+    "wof:lastmodified":1466461297,
     "wof:name":"Burgiss Management Consulting",
     "wof:parent_id":85852043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.542748,33.850232,-84.542748,33.850232],
+  "bbox": [
+    -84.542748,
+    33.850232,
+    -84.542748,
+    33.850232
+],
   "geometry": {"coordinates":[-84.542748,33.850232],"type":"Point"}
 }

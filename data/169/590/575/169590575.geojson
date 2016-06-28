@@ -2,13 +2,14 @@
   "id": 169590575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.184693,33.485622,-85.184693,33.485622",
     "geom:latitude":33.485622,
     "geom:longitude":-85.184693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3761 Tyus Carrollton Rd",
     "sg:city":"Carrollton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169590575,
-    "wof:lastmodified":1449034654,
+    "wof:lastmodified":1466461304,
     "wof:name":"Thrif-Mart Super Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.184693,33.485622,-85.184693,33.485622],
+  "bbox": [
+    -85.184693,
+    33.485622,
+    -85.184693,
+    33.485622
+],
   "geometry": {"coordinates":[-85.184693,33.485622],"type":"Point"}
 }

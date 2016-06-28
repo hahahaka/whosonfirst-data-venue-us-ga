@@ -2,13 +2,14 @@
   "id": 169670567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.742563,33.201681,-84.742563,33.201681",
     "geom:latitude":33.201681,
     "geom:longitude":-84.742563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"162 S Main St",
     "sg:city":"Luthersville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169670567,
-    "wof:lastmodified":1449033188,
+    "wof:lastmodified":1466461292,
     "wof:name":"N & N Asphalt Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "asphalt"
     ]
 },
-  "bbox": [-84.742563,33.201681,-84.742563,33.201681],
+  "bbox": [
+    -84.742563,
+    33.201681,
+    -84.742563,
+    33.201681
+],
   "geometry": {"coordinates":[-84.742563,33.201681],"type":"Point"}
 }

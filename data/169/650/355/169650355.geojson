@@ -2,13 +2,14 @@
   "id": 169650355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.611539,34.544659,-83.611539,34.544659",
     "geom:latitude":34.544659,
     "geom:longitude":-83.611539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Kissimmee Trl",
     "sg:city":"Cornelia",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169650355,
-    "wof:lastmodified":1449034700,
+    "wof:lastmodified":1466461268,
     "wof:name":"Northridge Property Dev Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.611539,34.544659,-83.611539,34.544659],
-  "geometry": {"coordinates":[-83.611539,34.544659],"type":"Point"}
+  "bbox": [
+    -83.611539,
+    34.544659,
+    -83.611539,
+    34.544659
+],
+  "geometry": {"coordinates":[-83.61153899999999,34.544659],"type":"Point"}
 }

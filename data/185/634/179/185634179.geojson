@@ -2,13 +2,14 @@
   "id": 185634179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.892112,33.496671,-81.892112,33.496671",
     "geom:latitude":33.496671,
     "geom:longitude":-81.892112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Augusta Rd",
     "sg:city":"Aiken",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185634179,
-    "wof:lastmodified":1449007392,
+    "wof:lastmodified":1466461300,
     "wof:name":"Answering Aiken",
     "wof:parent_id":85817111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "answering"
     ]
 },
-  "bbox": [-81.892112,33.496671,-81.892112,33.496671],
+  "bbox": [
+    -81.892112,
+    33.496671,
+    -81.892112,
+    33.496671
+],
   "geometry": {"coordinates":[-81.892112,33.496671],"type":"Point"}
 }

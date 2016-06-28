@@ -2,13 +2,14 @@
   "id": 169666185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.301687,34.246452,-84.301687,34.246452",
     "geom:latitude":34.246452,
     "geom:longitude":-84.301687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11611 Cumming Hwy",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169666185,
-    "wof:lastmodified":1449033897,
+    "wof:lastmodified":1466461282,
     "wof:name":"Cherokeee Furniture Outlet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.301687,34.246452,-84.301687,34.246452],
+  "bbox": [
+    -84.301687,
+    34.246452,
+    -84.301687,
+    34.246452
+],
   "geometry": {"coordinates":[-84.301687,34.246452],"type":"Point"}
 }

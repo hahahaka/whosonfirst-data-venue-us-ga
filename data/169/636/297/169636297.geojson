@@ -2,13 +2,14 @@
   "id": 169636297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.252806,31.710103,-83.252806,31.710103",
     "geom:latitude":31.710103,
     "geom:longitude":-83.252806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 S Grant St",
     "sg:city":"Fitzgerald",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169636297,
-    "wof:lastmodified":1449033987,
+    "wof:lastmodified":1466461250,
     "wof:name":"Jos & Tays Bridal Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.252806,31.710103,-83.252806,31.710103],
-  "geometry": {"coordinates":[-83.252806,31.710103],"type":"Point"}
+  "bbox": [
+    -83.252806,
+    31.710103,
+    -83.252806,
+    31.710103
+],
+  "geometry": {"coordinates":[-83.25280600000001,31.710103],"type":"Point"}
 }

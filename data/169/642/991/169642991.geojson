@@ -2,13 +2,14 @@
   "id": 169642991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.828377,33.386058,-83.828377,33.386058",
     "geom:latitude":33.386058,
     "geom:longitude":-83.828377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"167 Edison Ln",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169642991,
-    "wof:lastmodified":1449032878,
+    "wof:lastmodified":1466461263,
     "wof:name":"R G Erectors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "erectors"
     ]
 },
-  "bbox": [-83.828377,33.386058,-83.828377,33.386058],
+  "bbox": [
+    -83.828377,
+    33.386058,
+    -83.828377,
+    33.386058
+],
   "geometry": {"coordinates":[-83.828377,33.386058],"type":"Point"}
 }

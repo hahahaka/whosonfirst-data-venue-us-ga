@@ -2,13 +2,14 @@
   "id": 169605703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.978882,32.517477,-84.978882,32.517477",
     "geom:latitude":32.517477,
     "geom:longitude":-84.978882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"856 Turner Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169605703,
-    "wof:lastmodified":1449034288,
+    "wof:lastmodified":1466461202,
     "wof:name":"Heavenly Green Lawn Care",
     "wof:parent_id":85807979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "grounds"
     ]
 },
-  "bbox": [-84.978882,32.517477,-84.978882,32.517477],
+  "bbox": [
+    -84.978882,
+    32.517477,
+    -84.978882,
+    32.517477
+],
   "geometry": {"coordinates":[-84.978882,32.517477],"type":"Point"}
 }

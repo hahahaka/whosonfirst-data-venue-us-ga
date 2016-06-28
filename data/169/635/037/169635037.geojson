@@ -2,13 +2,14 @@
   "id": 169635037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.3257,33.973136,-84.3257,33.973136",
     "geom:latitude":33.973136,
     "geom:longitude":-84.3257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8055 Innsbruck Dr NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":169635037,
-    "wof:lastmodified":1449034101,
+    "wof:lastmodified":1466461245,
     "wof:name":"Liu Assoc PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.3257,33.973136,-84.3257,33.973136],
+  "bbox": [
+    -84.3257,
+    33.973136,
+    -84.3257,
+    33.973136
+],
   "geometry": {"coordinates":[-84.3257,33.973136],"type":"Point"}
 }

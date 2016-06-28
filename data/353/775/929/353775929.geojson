@@ -2,13 +2,14 @@
   "id": 353775929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.576467,30.894897,-84.576467,30.894897",
     "geom:latitude":30.894897,
     "geom:longitude":-84.576467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1038 S West St",
     "sg:city":"Bainbridge",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353775929,
-    "wof:lastmodified":1449020136,
+    "wof:lastmodified":1466461208,
     "wof:name":"Henderson Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.576467,30.894897,-84.576467,30.894897],
-  "geometry": {"coordinates":[-84.576467,30.894897],"type":"Point"}
+  "bbox": [
+    -84.576467,
+    30.894897,
+    -84.576467,
+    30.894897
+],
+  "geometry": {"coordinates":[-84.57646699999999,30.894897],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169626131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.646757,32.610812,-83.646757,32.610812",
     "geom:latitude":32.610812,
     "geom:longitude":-83.646757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Ridgecrest Pl",
     "sg:city":"Warner Robins",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169626131,
-    "wof:lastmodified":1449035971,
+    "wof:lastmodified":1466461235,
     "wof:name":"Public Records Research Inc",
     "wof:parent_id":85826507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "research"
     ]
 },
-  "bbox": [-83.646757,32.610812,-83.646757,32.610812],
-  "geometry": {"coordinates":[-83.646757,32.610812],"type":"Point"}
+  "bbox": [
+    -83.646757,
+    32.610812,
+    -83.646757,
+    32.610812
+],
+  "geometry": {"coordinates":[-83.64675699999999,32.610812],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169679435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.418087,34.102408,-84.418087,34.102408",
     "geom:latitude":34.102408,
     "geom:longitude":-84.418087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13065 Old Course Dr",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169679435,
-    "wof:lastmodified":1449034805,
+    "wof:lastmodified":1466461295,
     "wof:name":"Professional Services PR",
     "wof:parent_id":85896281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.418087,34.102408,-84.418087,34.102408],
+  "bbox": [
+    -84.418087,
+    34.102408,
+    -84.418087,
+    34.102408
+],
   "geometry": {"coordinates":[-84.418087,34.102408],"type":"Point"}
 }

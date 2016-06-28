@@ -2,13 +2,14 @@
   "id": 370432499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.892032,33.496719,-81.892032,33.496719",
     "geom:latitude":33.496719,
     "geom:longitude":-81.892032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 Augusta Rd",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370432499,
-    "wof:lastmodified":1449029009,
+    "wof:lastmodified":1466461216,
     "wof:name":"L Mezcal",
     "wof:parent_id":85817111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.892032,33.496719,-81.892032,33.496719],
+  "bbox": [
+    -81.892032,
+    33.496719,
+    -81.892032,
+    33.496719
+],
   "geometry": {"coordinates":[-81.892032,33.496719],"type":"Point"}
 }

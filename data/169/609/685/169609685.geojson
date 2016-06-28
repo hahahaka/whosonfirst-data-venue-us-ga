@@ -2,13 +2,14 @@
   "id": 169609685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.461715,33.510587,-84.461715,33.510587",
     "geom:latitude":33.510587,
     "geom:longitude":-84.461715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"496 Kenwood Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169609685,
-    "wof:lastmodified":1449033922,
+    "wof:lastmodified":1466461212,
     "wof:name":"Bredy Janitorial Cleaning",
     "wof:parent_id":85823041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-84.461715,33.510587,-84.461715,33.510587],
+  "bbox": [
+    -84.461715,
+    33.510587,
+    -84.461715,
+    33.510587
+],
   "geometry": {"coordinates":[-84.461715,33.510587],"type":"Point"}
 }

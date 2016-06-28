@@ -2,13 +2,14 @@
   "id": 169658627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.297428,33.959062,-84.297428,33.959062",
     "geom:latitude":33.959062,
     "geom:longitude":-84.297428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2191 Brooke Farm Ct",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169658627,
-    "wof:lastmodified":1449032615,
+    "wof:lastmodified":1466461278,
     "wof:name":"Casual Interiors By Desig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.297428,33.959062,-84.297428,33.959062],
+  "bbox": [
+    -84.297428,
+    33.959062,
+    -84.297428,
+    33.959062
+],
   "geometry": {"coordinates":[-84.297428,33.959062],"type":"Point"}
 }

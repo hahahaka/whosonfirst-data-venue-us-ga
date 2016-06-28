@@ -2,13 +2,14 @@
   "id": 169636493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.483549,33.564435,-84.483549,33.564435",
     "geom:latitude":33.564435,
     "geom:longitude":-84.483549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Woodhue Forest Ln",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169636493,
-    "wof:lastmodified":1449033986,
+    "wof:lastmodified":1466461253,
     "wof:name":"Community Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-84.483549,33.564435,-84.483549,33.564435],
+  "bbox": [
+    -84.483549,
+    33.564435,
+    -84.483549,
+    33.564435
+],
   "geometry": {"coordinates":[-84.483549,33.564435],"type":"Point"}
 }

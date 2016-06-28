@@ -2,13 +2,14 @@
   "id": 169646217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.127937,33.946856,-84.127937,33.946856",
     "geom:latitude":33.946856,
     "geom:longitude":-84.127937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3675 Crestwood Pkwy",
     "sg:city":"Duluth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169646217,
-    "wof:lastmodified":1449032608,
+    "wof:lastmodified":1466461261,
     "wof:name":"Business Sltions Advantage LLC",
     "wof:parent_id":85810283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "software"
     ]
 },
-  "bbox": [-84.127937,33.946856,-84.127937,33.946856],
+  "bbox": [
+    -84.127937,
+    33.946856,
+    -84.127937,
+    33.946856
+],
   "geometry": {"coordinates":[-84.127937,33.946856],"type":"Point"}
 }

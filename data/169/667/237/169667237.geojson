@@ -2,13 +2,14 @@
   "id": 169667237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.257215,34.086081,-84.257215,34.086081",
     "geom:latitude":34.086081,
     "geom:longitude":-84.257215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7681 N Point Pkwy",
     "sg:city":"Alpharetta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169667237,
-    "wof:lastmodified":1449034843,
+    "wof:lastmodified":1466461285,
     "wof:name":"B Healthy",
     "wof:parent_id":85843117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "vitamin"
     ]
 },
-  "bbox": [-84.257215,34.086081,-84.257215,34.086081],
+  "bbox": [
+    -84.257215,
+    34.086081,
+    -84.257215,
+    34.086081
+],
   "geometry": {"coordinates":[-84.257215,34.086081],"type":"Point"}
 }

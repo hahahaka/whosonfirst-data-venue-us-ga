@@ -2,13 +2,14 @@
   "id": 370455585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.804651,33.352158,-81.804651,33.352158",
     "geom:latitude":33.352158,
     "geom:longitude":-81.804651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7700 Atomic Rd",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370455585,
-    "wof:lastmodified":1449031927,
+    "wof:lastmodified":1466461217,
     "wof:name":"RBW Logistics",
     "wof:parent_id":85876041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "logistics"
     ]
 },
-  "bbox": [-81.804651,33.352158,-81.804651,33.352158],
-  "geometry": {"coordinates":[-81.804651,33.352158],"type":"Point"}
+  "bbox": [
+    -81.804651,
+    33.352158,
+    -81.804651,
+    33.352158
+],
+  "geometry": {"coordinates":[-81.80465100000001,33.352158],"type":"Point"}
 }

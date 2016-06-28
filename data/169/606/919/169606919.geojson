@@ -2,13 +2,14 @@
   "id": 169606919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.965845,33.475597,-81.965845,33.475597",
     "geom:latitude":33.475597,
     "geom:longitude":-81.965845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"821 Broad St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169606919,
-    "wof:lastmodified":1449033203,
+    "wof:lastmodified":1466461213,
     "wof:name":"Career Personnel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "temporary"
     ]
 },
-  "bbox": [-81.965845,33.475597,-81.965845,33.475597],
+  "bbox": [
+    -81.965845,
+    33.475597,
+    -81.965845,
+    33.475597
+],
   "geometry": {"coordinates":[-81.965845,33.475597],"type":"Point"}
 }

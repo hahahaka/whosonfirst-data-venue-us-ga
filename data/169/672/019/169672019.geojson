@@ -2,13 +2,14 @@
   "id": 169672019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.016525,33.428395,-82.016525,33.428395",
     "geom:latitude":33.428395,
     "geom:longitude":-82.016525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2234 Woodward Ave",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169672019,
-    "wof:lastmodified":1449032891,
+    "wof:lastmodified":1466461290,
     "wof:name":"Dunn Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.016525,33.428395,-82.016525,33.428395],
+  "bbox": [
+    -82.016525,
+    33.428395,
+    -82.016525,
+    33.428395
+],
   "geometry": {"coordinates":[-82.016525,33.428395],"type":"Point"}
 }

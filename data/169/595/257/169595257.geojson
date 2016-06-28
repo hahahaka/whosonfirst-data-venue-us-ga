@@ -2,13 +2,14 @@
   "id": 169595257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.971797,34.768205,-84.971797,34.768205",
     "geom:latitude":34.768205,
     "geom:longitude":-84.971797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 S Thornton Ave",
     "sg:city":"Dalton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169595257,
-    "wof:lastmodified":1449035636,
+    "wof:lastmodified":1466461311,
     "wof:name":"Dalton 1st Methodist Church",
     "wof:parent_id":85809263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.971797,34.768205,-84.971797,34.768205],
+  "bbox": [
+    -84.971797,
+    34.768205,
+    -84.971797,
+    34.768205
+],
   "geometry": {"coordinates":[-84.971797,34.768205],"type":"Point"}
 }

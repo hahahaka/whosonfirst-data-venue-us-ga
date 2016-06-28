@@ -2,13 +2,14 @@
   "id": 370685201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.907711,33.478271,-81.907711,33.478271",
     "geom:latitude":33.478271,
     "geom:longitude":-81.907711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 Atomic Rd",
     "sg:city":"Beech Island",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370685201,
-    "wof:lastmodified":1449032386,
+    "wof:lastmodified":1466461238,
     "wof:name":"First Citizens Bank & Trust Co",
     "wof:parent_id":85817111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.907711,33.478271,-81.907711,33.478271],
-  "geometry": {"coordinates":[-81.907711,33.478271],"type":"Point"}
+  "bbox": [
+    -81.907711,
+    33.478271,
+    -81.907711,
+    33.478271
+],
+  "geometry": {"coordinates":[-81.90771100000001,33.478271],"type":"Point"}
 }

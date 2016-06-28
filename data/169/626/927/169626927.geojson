@@ -2,13 +2,14 @@
   "id": 169626927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.816429,34.185063,-84.816429,34.185063",
     "geom:latitude":34.185063,
     "geom:longitude":-84.816429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"341 Cassville Rd",
     "sg:city":"Cartersville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169626927,
-    "wof:lastmodified":1449035972,
+    "wof:lastmodified":1466461243,
     "wof:name":"Scott J Allen",
     "wof:parent_id":85837697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.816429,34.185063,-84.816429,34.185063],
+  "bbox": [
+    -84.816429,
+    34.185063,
+    -84.816429,
+    34.185063
+],
   "geometry": {"coordinates":[-84.816429,34.185063],"type":"Point"}
 }

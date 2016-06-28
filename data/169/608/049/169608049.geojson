@@ -2,13 +2,14 @@
   "id": 169608049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.942788,32.556708,-82.942788,32.556708",
     "geom:latitude":32.556708,
     "geom:longitude":-82.942788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 Brookwood Dr",
     "sg:city":"Dublin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169608049,
-    "wof:lastmodified":1449034083,
+    "wof:lastmodified":1466461205,
     "wof:name":"Brookington Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rental"
     ]
 },
-  "bbox": [-82.942788,32.556708,-82.942788,32.556708],
-  "geometry": {"coordinates":[-82.942788,32.556708],"type":"Point"}
+  "bbox": [
+    -82.942788,
+    32.556708,
+    -82.942788,
+    32.556708
+],
+  "geometry": {"coordinates":[-82.94278799999999,32.556708],"type":"Point"}
 }

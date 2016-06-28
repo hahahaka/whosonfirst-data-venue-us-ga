@@ -2,13 +2,14 @@
   "id": 169644359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.095807,33.630779,-83.095807,33.630779",
     "geom:latitude":33.630779,
     "geom:longitude":-83.095807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1990 State Rte 77",
     "sg:city":"Union Point",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169644359,
-    "wof:lastmodified":1449034573,
+    "wof:lastmodified":1466461260,
     "wof:name":"KAP Forestry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.095807,33.630779,-83.095807,33.630779],
-  "geometry": {"coordinates":[-83.095807,33.630779],"type":"Point"}
+  "bbox": [
+    -83.095807,
+    33.630779,
+    -83.095807,
+    33.630779
+],
+  "geometry": {"coordinates":[-83.09580699999999,33.630779],"type":"Point"}
 }

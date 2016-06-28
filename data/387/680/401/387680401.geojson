@@ -2,13 +2,14 @@
   "id": 387680401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.567154,30.903968,-84.567154,30.903968",
     "geom:latitude":30.903968,
     "geom:longitude":-84.567154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"832 E Shotwell St",
     "sg:city":"Bainbridge",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387680401,
-    "wof:lastmodified":1449058776,
+    "wof:lastmodified":1466461671,
     "wof:name":"Miller-Griffin Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.567154,30.903968,-84.567154,30.903968],
+  "bbox": [
+    -84.567154,
+    30.903968,
+    -84.567154,
+    30.903968
+],
   "geometry": {"coordinates":[-84.567154,30.903968],"type":"Point"}
 }

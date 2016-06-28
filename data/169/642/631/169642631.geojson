@@ -2,13 +2,14 @@
   "id": 169642631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.252523,33.708122,-84.252523,33.708122",
     "geom:latitude":33.708122,
     "geom:longitude":-84.252523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2688 Columbia Dr",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169642631,
-    "wof:lastmodified":1449032877,
+    "wof:lastmodified":1466461258,
     "wof:name":"Ashes To Ashes Pest Control",
     "wof:parent_id":85816491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.252523,33.708122,-84.252523,33.708122],
+  "bbox": [
+    -84.252523,
+    33.708122,
+    -84.252523,
+    33.708122
+],
   "geometry": {"coordinates":[-84.252523,33.708122],"type":"Point"}
 }

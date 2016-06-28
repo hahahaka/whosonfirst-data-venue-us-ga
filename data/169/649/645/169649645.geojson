@@ -2,13 +2,14 @@
   "id": 169649645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.933984,30.83737,-83.933984,30.83737",
     "geom:latitude":30.83737,
     "geom:longitude":-83.933984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Lake Trace Dr",
     "sg:city":"Thomasville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169649645,
-    "wof:lastmodified":1449034942,
+    "wof:lastmodified":1466461268,
     "wof:name":"Dudley Lewis Construction Co",
     "wof:parent_id":85833309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-83.933984,30.83737,-83.933984,30.83737],
+  "bbox": [
+    -83.933984,
+    30.83737,
+    -83.933984,
+    30.83737
+],
   "geometry": {"coordinates":[-83.933984,30.83737],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169648181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.968902,32.510907,-84.968902,32.510907",
     "geom:latitude":32.510907,
     "geom:longitude":-84.968902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4809 Hamilton Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169648181,
-    "wof:lastmodified":1449033584,
+    "wof:lastmodified":1466461264,
     "wof:name":"Brady Blackmon Construction",
     "wof:parent_id":85828445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "construction"
     ]
 },
-  "bbox": [-84.968902,32.510907,-84.968902,32.510907],
+  "bbox": [
+    -84.968902,
+    32.510907,
+    -84.968902,
+    32.510907
+],
   "geometry": {"coordinates":[-84.968902,32.510907],"type":"Point"}
 }

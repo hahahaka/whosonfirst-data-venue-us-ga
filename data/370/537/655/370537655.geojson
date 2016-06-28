@@ -2,13 +2,14 @@
   "id": 370537655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.891997,33.49674,-81.891997,33.49674",
     "geom:latitude":33.49674,
     "geom:longitude":-81.891997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"861 Augusta Rd",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370537655,
-    "wof:lastmodified":1449029923,
+    "wof:lastmodified":1466461225,
     "wof:name":"Custom Auto Sales",
     "wof:parent_id":85817111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.891997,33.49674,-81.891997,33.49674],
+  "bbox": [
+    -81.891997,
+    33.49674,
+    -81.891997,
+    33.49674
+],
   "geometry": {"coordinates":[-81.891997,33.49674],"type":"Point"}
 }

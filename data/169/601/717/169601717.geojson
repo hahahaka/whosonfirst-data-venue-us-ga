@@ -2,13 +2,14 @@
   "id": 169601717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.067559,32.396076,-82.067559,32.396076",
     "geom:latitude":32.396076,
     "geom:longitude":-82.067559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"479 W Vertia St",
     "sg:city":"Metter",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169601717,
-    "wof:lastmodified":1449034147,
+    "wof:lastmodified":1466461201,
     "wof:name":"Jhp Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.067559,32.396076,-82.067559,32.396076],
+  "bbox": [
+    -82.067559,
+    32.396076,
+    -82.067559,
+    32.396076
+],
   "geometry": {"coordinates":[-82.067559,32.396076],"type":"Point"}
 }

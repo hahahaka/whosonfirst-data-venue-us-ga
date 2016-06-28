@@ -2,13 +2,14 @@
   "id": 354084457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.79351,33.332416,-81.79351,33.332416",
     "geom:latitude":33.332416,
     "geom:longitude":-81.79351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 2nd St",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354084457,
-    "wof:lastmodified":1449066123,
+    "wof:lastmodified":1466461199,
     "wof:name":"Bethel United Methodist Church",
     "wof:parent_id":85876041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.79351,33.332416,-81.79351,33.332416],
+  "bbox": [
+    -81.79351,
+    33.332416,
+    -81.79351,
+    33.332416
+],
   "geometry": {"coordinates":[-81.79351,33.332416],"type":"Point"}
 }

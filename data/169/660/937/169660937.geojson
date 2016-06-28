@@ -2,13 +2,14 @@
   "id": 169660937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.509037,31.454426,-83.509037,31.454426",
     "geom:latitude":31.454426,
     "geom:longitude":-83.509037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 E 2 Nd St",
     "sg:city":"Donalsonville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169660937,
-    "wof:lastmodified":1449035611,
+    "wof:lastmodified":1466461283,
     "wof:name":"C J's Hair Styles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-83.509037,31.454426,-83.509037,31.454426],
-  "geometry": {"coordinates":[-83.509037,31.454426],"type":"Point"}
+  "bbox": [
+    -83.509037,
+    31.454426,
+    -83.509037,
+    31.454426
+],
+  "geometry": {"coordinates":[-83.50903700000001,31.454426],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169650383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.400039,33.881821,-84.400039,33.881821",
     "geom:latitude":33.881821,
     "geom:longitude":-84.400039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4772 E Conway Dr NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169650383,
-    "wof:lastmodified":1449034700,
+    "wof:lastmodified":1466461269,
     "wof:name":"Georgia Branch of Hugueno",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.400039,33.881821,-84.400039,33.881821],
-  "geometry": {"coordinates":[-84.400039,33.881821],"type":"Point"}
+  "bbox": [
+    -84.400039,
+    33.881821,
+    -84.400039,
+    33.881821
+],
+  "geometry": {"coordinates":[-84.40003900000001,33.881821],"type":"Point"}
 }

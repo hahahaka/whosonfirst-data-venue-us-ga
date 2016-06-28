@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102490819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.000898,32.463274,-85.000898,32.463274",
     "geom:latitude":32.463274,
     "geom:longitude":-85.000898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 Dillingham St",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882117,
+        85688535,
         85633793,
         85936243,
         102084429,
-        85688535
+        85882117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102490819,
-    "wof:lastmodified":1449069947,
+    "wof:lastmodified":1466461194,
     "wof:name":"Sunbry School Of Music",
     "wof:parent_id":85882117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.000898,32.463274,-85.000898,32.463274],
-  "geometry": {"coordinates":[-85.000898,32.463274],"type":"Point"}
+  "bbox": [
+    -85.000898,
+    32.463274,
+    -85.000898,
+    32.463274
+],
+  "geometry": {"coordinates":[-85.00089800000001,32.463274],"type":"Point"}
 }

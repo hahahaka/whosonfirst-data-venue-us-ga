@@ -2,13 +2,14 @@
   "id": 152698139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.972476,32.433766,-84.972476,32.433766",
     "geom:latitude":32.433766,
     "geom:longitude":-84.972476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 State Docks Rd",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803141,
+        85688535,
         85633793,
         85936243,
         102084429,
-        85688535
+        85803141
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152698139,
-    "wof:lastmodified":1449048638,
+    "wof:lastmodified":1466461195,
     "wof:name":"Waste Water Treatment Plant",
     "wof:parent_id":85803141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.972476,32.433766,-84.972476,32.433766],
+  "bbox": [
+    -84.972476,
+    32.433766,
+    -84.972476,
+    32.433766
+],
   "geometry": {"coordinates":[-84.972476,32.433766],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169653199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.333047,34.574902,-83.333047,34.574902",
     "geom:latitude":34.574902,
     "geom:longitude":-83.333047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 S Broad St",
     "sg:city":"Toccoa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169653199,
-    "wof:lastmodified":1449032916,
+    "wof:lastmodified":1466461267,
     "wof:name":"Dennis F Bellamy CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-83.333047,34.574902,-83.333047,34.574902],
-  "geometry": {"coordinates":[-83.333047,34.574902],"type":"Point"}
+  "bbox": [
+    -83.333047,
+    34.574902,
+    -83.333047,
+    34.574902
+],
+  "geometry": {"coordinates":[-83.33304699999999,34.574902],"type":"Point"}
 }

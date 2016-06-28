@@ -2,13 +2,14 @@
   "id": 169608607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.628635,32.822667,-83.628635,32.822667",
     "geom:latitude":32.822667,
     "geom:longitude":-83.628635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1122 7th St",
     "sg:city":"Macon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169608607,
-    "wof:lastmodified":1449034079,
+    "wof:lastmodified":1466461210,
     "wof:name":"Macon Vehicle Maintenance",
     "wof:parent_id":85837705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-83.628635,32.822667,-83.628635,32.822667],
+  "bbox": [
+    -83.628635,
+    32.822667,
+    -83.628635,
+    32.822667
+],
   "geometry": {"coordinates":[-83.628635,32.822667],"type":"Point"}
 }

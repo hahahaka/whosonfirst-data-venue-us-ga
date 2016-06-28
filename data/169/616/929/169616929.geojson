@@ -2,13 +2,14 @@
   "id": 169616929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.936685,33.460668,-81.936685,33.460668",
     "geom:latitude":33.460668,
     "geom:longitude":-81.936685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 Courtland Dr",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169616929,
-    "wof:lastmodified":1449035101,
+    "wof:lastmodified":1466461231,
     "wof:name":"Jacksons Home Health Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.936685,33.460668,-81.936685,33.460668],
+  "bbox": [
+    -81.936685,
+    33.460668,
+    -81.936685,
+    33.460668
+],
   "geometry": {"coordinates":[-81.936685,33.460668],"type":"Point"}
 }

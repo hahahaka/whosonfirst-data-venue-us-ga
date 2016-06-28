@@ -2,13 +2,14 @@
   "id": 169595537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.227547,33.69352,-84.227547,33.69352",
     "geom:latitude":33.69352,
     "geom:longitude":-84.227547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3902 Appleton Ct",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169595537,
-    "wof:lastmodified":1449035635,
+    "wof:lastmodified":1466461312,
     "wof:name":"Oil Change On Wheels",
     "wof:parent_id":85816491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lubrication"
     ]
 },
-  "bbox": [-84.227547,33.69352,-84.227547,33.69352],
+  "bbox": [
+    -84.227547,
+    33.69352,
+    -84.227547,
+    33.69352
+],
   "geometry": {"coordinates":[-84.227547,33.69352],"type":"Point"}
 }

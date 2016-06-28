@@ -2,13 +2,14 @@
   "id": 169649471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.343495,34.032797,-84.343495,34.032797",
     "geom:latitude":34.032797,
     "geom:longitude":-84.343495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"590 Colonial Park Dr",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169649471,
-    "wof:lastmodified":1449034941,
+    "wof:lastmodified":1466461266,
     "wof:name":"Brazell Myers & Associates",
     "wof:parent_id":85812681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-84.343495,34.032797,-84.343495,34.032797],
+  "bbox": [
+    -84.343495,
+    34.032797,
+    -84.343495,
+    34.032797
+],
   "geometry": {"coordinates":[-84.343495,34.032797],"type":"Point"}
 }

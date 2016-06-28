@@ -2,13 +2,14 @@
   "id": 169595655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.161296,31.982425,-81.161296,31.982425",
     "geom:latitude":31.982425,
     "geom:longitude":-81.161296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12056 Abercorn St",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169595655,
-    "wof:lastmodified":1449035636,
+    "wof:lastmodified":1466461312,
     "wof:name":"O C Welch Auto Collection",
     "wof:parent_id":85852533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "used"
     ]
 },
-  "bbox": [-81.161296,31.982425,-81.161296,31.982425],
-  "geometry": {"coordinates":[-81.161296,31.982425],"type":"Point"}
+  "bbox": [
+    -81.161296,
+    31.982425,
+    -81.161296,
+    31.982425
+],
+  "geometry": {"coordinates":[-81.16129599999999,31.982425],"type":"Point"}
 }

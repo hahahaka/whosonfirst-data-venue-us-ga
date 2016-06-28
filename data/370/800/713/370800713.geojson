@@ -2,13 +2,14 @@
   "id": 370800713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.019524,33.606723,-82.019524,33.606723",
     "geom:latitude":33.606723,
     "geom:longitude":-82.019524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1915 W Martintown Rd",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":370800713,
-    "wof:lastmodified":1449029356,
+    "wof:lastmodified":1466461249,
     "wof:name":"All American Pools",
     "wof:parent_id":85876035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-82.019524,33.606723,-82.019524,33.606723],
+  "bbox": [
+    -82.019524,
+    33.606723,
+    -82.019524,
+    33.606723
+],
   "geometry": {"coordinates":[-82.019524,33.606723],"type":"Point"}
 }

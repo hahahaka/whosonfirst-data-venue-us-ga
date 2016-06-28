@@ -2,13 +2,14 @@
   "id": 169625031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.574049,30.909339,-84.574049,30.909339",
     "geom:latitude":30.909339,
     "geom:longitude":-84.574049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E Calhoun St",
     "sg:city":"Bainbridge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169625031,
-    "wof:lastmodified":1449036022,
+    "wof:lastmodified":1466461233,
     "wof:name":"Inland Food Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-84.574049,30.909339,-84.574049,30.909339],
+  "bbox": [
+    -84.574049,
+    30.909339,
+    -84.574049,
+    30.909339
+],
   "geometry": {"coordinates":[-84.574049,30.909339],"type":"Point"}
 }

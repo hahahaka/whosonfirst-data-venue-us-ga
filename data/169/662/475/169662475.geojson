@@ -2,13 +2,14 @@
   "id": 169662475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.331286,34.953009,-85.331286,34.953009",
     "geom:latitude":34.953009,
     "geom:longitude":-85.331286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2083 Burnt Mill Rd",
     "sg:city":"Flintstone",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169662475,
-    "wof:lastmodified":1449034921,
+    "wof:lastmodified":1466461280,
     "wof:name":"Flintstone Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "dealer"
     ]
 },
-  "bbox": [-85.331286,34.953009,-85.331286,34.953009],
-  "geometry": {"coordinates":[-85.331286,34.953009],"type":"Point"}
+  "bbox": [
+    -85.331286,
+    34.953009,
+    -85.331286,
+    34.953009
+],
+  "geometry": {"coordinates":[-85.33128600000001,34.953009],"type":"Point"}
 }

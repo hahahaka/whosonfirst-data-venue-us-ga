@@ -2,13 +2,14 @@
   "id": 169671265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.716779,32.497935,-83.716779,32.497935",
     "geom:latitude":32.497935,
     "geom:longitude":-83.716779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Langston Rd",
     "sg:city":"Perry",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169671265,
-    "wof:lastmodified":1449033451,
+    "wof:lastmodified":1466461288,
     "wof:name":"Stevens Farms",
     "wof:parent_id":85803765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hatchery"
     ]
 },
-  "bbox": [-83.716779,32.497935,-83.716779,32.497935],
+  "bbox": [
+    -83.716779,
+    32.497935,
+    -83.716779,
+    32.497935
+],
   "geometry": {"coordinates":[-83.716779,32.497935],"type":"Point"}
 }

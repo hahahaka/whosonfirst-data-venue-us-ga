@@ -2,13 +2,14 @@
   "id": 169633139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.080421,33.46729,-82.080421,33.46729",
     "geom:latitude":33.46729,
     "geom:longitude":-82.080421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3450 Wrightsboro Rd",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169633139,
-    "wof:lastmodified":1449035937,
+    "wof:lastmodified":1466461244,
     "wof:name":"Mori Classics",
     "wof:parent_id":85819877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "gift"
     ]
 },
-  "bbox": [-82.080421,33.46729,-82.080421,33.46729],
+  "bbox": [
+    -82.080421,
+    33.46729,
+    -82.080421,
+    33.46729
+],
   "geometry": {"coordinates":[-82.080421,33.46729],"type":"Point"}
 }

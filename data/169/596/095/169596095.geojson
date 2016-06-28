@@ -2,13 +2,14 @@
   "id": 169596095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.516305,31.214453,-81.516305,31.214453",
     "geom:latitude":31.214453,
     "geom:longitude":-81.516305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4834 New Jesup Hwy",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169596095,
-    "wof:lastmodified":1449034371,
+    "wof:lastmodified":1466461313,
     "wof:name":"New Castle Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "used"
     ]
 },
-  "bbox": [-81.516305,31.214453,-81.516305,31.214453],
+  "bbox": [
+    -81.516305,
+    31.214453,
+    -81.516305,
+    31.214453
+],
   "geometry": {"coordinates":[-81.516305,31.214453],"type":"Point"}
 }

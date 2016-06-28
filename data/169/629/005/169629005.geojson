@@ -2,13 +2,14 @@
   "id": 169629005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.173667,32.810715,-83.173667,32.810715",
     "geom:latitude":32.810715,
     "geom:longitude":-83.173667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Bacon St",
     "sg:city":"Irwinton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169629005,
-    "wof:lastmodified":1449035187,
+    "wof:lastmodified":1466461323,
     "wof:name":"Wilkinson County Sheriff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-83.173667,32.810715,-83.173667,32.810715],
-  "geometry": {"coordinates":[-83.173667,32.810715],"type":"Point"}
+  "bbox": [
+    -83.173667,
+    32.810715,
+    -83.173667,
+    32.810715
+],
+  "geometry": {"coordinates":[-83.17366699999999,32.810715],"type":"Point"}
 }

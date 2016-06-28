@@ -2,13 +2,14 @@
   "id": 169658233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.178217,34.26456,-85.178217,34.26456",
     "geom:latitude":34.26456,
     "geom:longitude":-85.178217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 N 5th Ave",
     "sg:city":"Rome",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169658233,
-    "wof:lastmodified":1449032615,
+    "wof:lastmodified":1466461274,
     "wof:name":"Just Kids Learning Center",
     "wof:parent_id":85890045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-85.178217,34.26456,-85.178217,34.26456],
+  "bbox": [
+    -85.178217,
+    34.26456,
+    -85.178217,
+    34.26456
+],
   "geometry": {"coordinates":[-85.178217,34.26456],"type":"Point"}
 }

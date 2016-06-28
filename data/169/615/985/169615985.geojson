@@ -2,13 +2,14 @@
   "id": 169615985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.058816,33.450175,-82.058816,33.450175",
     "geom:latitude":33.450175,
     "geom:longitude":-82.058816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3302 Commerce Dr",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169615985,
-    "wof:lastmodified":1449033732,
+    "wof:lastmodified":1466461226,
     "wof:name":"Rhodes Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-82.058816,33.450175,-82.058816,33.450175],
-  "geometry": {"coordinates":[-82.058816,33.450175],"type":"Point"}
+  "bbox": [
+    -82.058816,
+    33.450175,
+    -82.058816,
+    33.450175
+],
+  "geometry": {"coordinates":[-82.05881599999999,33.450175],"type":"Point"}
 }

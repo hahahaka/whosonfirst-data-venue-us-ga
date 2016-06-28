@@ -2,13 +2,14 @@
   "id": 353481611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.889739,33.425156,-81.889739,33.425156",
     "geom:latitude":33.425156,
     "geom:longitude":-81.889739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Old Jackson Hwy",
     "sg:city":"Beech Island",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353481611,
-    "wof:lastmodified":1449020481,
+    "wof:lastmodified":1466461659,
     "wof:name":"Associated Crafts Inc",
     "wof:parent_id":85817111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.889739,33.425156,-81.889739,33.425156],
-  "geometry": {"coordinates":[-81.889739,33.425156],"type":"Point"}
+  "bbox": [
+    -81.889739,
+    33.425156,
+    -81.889739,
+    33.425156
+],
+  "geometry": {"coordinates":[-81.88973900000001,33.425156],"type":"Point"}
 }

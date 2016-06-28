@@ -2,13 +2,14 @@
   "id": 169605465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.082049,34.802019,-85.082049,34.802019",
     "geom:latitude":34.802019,
     "geom:longitude":-85.082049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1441 Dogwood Valley Rd",
     "sg:city":"Tunnel Hill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169605465,
-    "wof:lastmodified":1449034288,
+    "wof:lastmodified":1466461199,
     "wof:name":"Jones Construction",
     "wof:parent_id":85809263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.082049,34.802019,-85.082049,34.802019],
+  "bbox": [
+    -85.082049,
+    34.802019,
+    -85.082049,
+    34.802019
+],
   "geometry": {"coordinates":[-85.082049,34.802019],"type":"Point"}
 }

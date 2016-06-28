@@ -2,13 +2,14 @@
   "id": 169651767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.334006,32.597325,-82.334006,32.597325",
     "geom:latitude":32.597325,
     "geom:longitude":-82.334006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 S Main St",
     "sg:city":"Swainsboro",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169651767,
-    "wof:lastmodified":1449033344,
+    "wof:lastmodified":1466461274,
     "wof:name":"Emanuel County Board",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.334006,32.597325,-82.334006,32.597325],
+  "bbox": [
+    -82.334006,
+    32.597325,
+    -82.334006,
+    32.597325
+],
   "geometry": {"coordinates":[-82.334006,32.597325],"type":"Point"}
 }

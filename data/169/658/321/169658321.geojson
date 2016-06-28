@@ -2,13 +2,14 @@
   "id": 169658321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.097447,33.501503,-82.097447,33.501503",
     "geom:latitude":33.501503,
     "geom:longitude":-82.097447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"273 Hinman Ct",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169658321,
-    "wof:lastmodified":1449032614,
+    "wof:lastmodified":1466461275,
     "wof:name":"Total Fencing",
     "wof:parent_id":85868555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.097447,33.501503,-82.097447,33.501503],
+  "bbox": [
+    -82.097447,
+    33.501503,
+    -82.097447,
+    33.501503
+],
   "geometry": {"coordinates":[-82.097447,33.501503],"type":"Point"}
 }

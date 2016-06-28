@@ -2,13 +2,14 @@
   "id": 169657573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.861239,33.741197,-83.861239,33.741197",
     "geom:latitude":33.741197,
     "geom:longitude":-83.861239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4545 Old Hwy 138",
     "sg:city":"Loganville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169657573,
-    "wof:lastmodified":1449033052,
+    "wof:lastmodified":1466461280,
     "wof:name":"New Bethel Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-83.861239,33.741197,-83.861239,33.741197],
+  "bbox": [
+    -83.861239,
+    33.741197,
+    -83.861239,
+    33.741197
+],
   "geometry": {"coordinates":[-83.861239,33.741197],"type":"Point"}
 }

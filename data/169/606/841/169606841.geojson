@@ -2,13 +2,14 @@
   "id": 169606841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.999285,33.4406,-81.999285,33.4406",
     "geom:latitude":33.4406,
     "geom:longitude":-81.999285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2004 Olive Rd",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169606841,
-    "wof:lastmodified":1449033199,
+    "wof:lastmodified":1466461211,
     "wof:name":"Wee Kreative Learn & Play Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.999285,33.4406,-81.999285,33.4406],
+  "bbox": [
+    -81.999285,
+    33.4406,
+    -81.999285,
+    33.4406
+],
   "geometry": {"coordinates":[-81.999285,33.4406],"type":"Point"}
 }

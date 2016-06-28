@@ -2,13 +2,14 @@
   "id": 370722559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.892001,33.496738,-81.892001,33.496738",
     "geom:latitude":33.496738,
     "geom:longitude":-81.892001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"833 Augusta Rd",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370722559,
-    "wof:lastmodified":1449030278,
+    "wof:lastmodified":1466461242,
     "wof:name":"Pretty Flowers",
     "wof:parent_id":85817111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-81.892001,33.496738,-81.892001,33.496738],
-  "geometry": {"coordinates":[-81.892001,33.496738],"type":"Point"}
+  "bbox": [
+    -81.892001,
+    33.496738,
+    -81.892001,
+    33.496738
+],
+  "geometry": {"coordinates":[-81.89200099999999,33.496738],"type":"Point"}
 }

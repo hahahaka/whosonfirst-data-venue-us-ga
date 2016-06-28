@@ -2,13 +2,14 @@
   "id": 169593999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.226333,33.101798,-83.226333,33.101798",
     "geom:latitude":33.101798,
     "geom:longitude":-83.226333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Linda Dr",
     "sg:city":"Byron",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":169593999,
-    "wof:lastmodified":1449034879,
+    "wof:lastmodified":1466461309,
     "wof:name":"Tim's Total Fitness",
     "wof:parent_id":85802835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "physical"
     ]
 },
-  "bbox": [-83.226333,33.101798,-83.226333,33.101798],
+  "bbox": [
+    -83.226333,
+    33.101798,
+    -83.226333,
+    33.101798
+],
   "geometry": {"coordinates":[-83.226333,33.101798],"type":"Point"}
 }

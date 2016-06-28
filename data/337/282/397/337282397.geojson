@@ -2,13 +2,14 @@
   "id": 337282397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.968885,33.620361,-81.968885,33.620361",
     "geom:latitude":33.620361,
     "geom:longitude":-81.968885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"390 Sweetwater Rd",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337282397,
-    "wof:lastmodified":1449027462,
+    "wof:lastmodified":1466461649,
     "wof:name":"Sweetwater Farm Equipment",
     "wof:parent_id":85876035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [-81.968885,33.620361,-81.968885,33.620361],
+  "bbox": [
+    -81.968885,
+    33.620361,
+    -81.968885,
+    33.620361
+],
   "geometry": {"coordinates":[-81.968885,33.620361],"type":"Point"}
 }

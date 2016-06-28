@@ -2,13 +2,14 @@
   "id": 353669411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.892044,33.496712,-81.892044,33.496712",
     "geom:latitude":33.496712,
     "geom:longitude":-81.892044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"523 Augusta Rd",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":353669411,
-    "wof:lastmodified":1449018543,
+    "wof:lastmodified":1466461197,
     "wof:name":"Imagine Studios",
     "wof:parent_id":85817111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "publishing"
     ]
 },
-  "bbox": [-81.892044,33.496712,-81.892044,33.496712],
+  "bbox": [
+    -81.892044,
+    33.496712,
+    -81.892044,
+    33.496712
+],
   "geometry": {"coordinates":[-81.892044,33.496712],"type":"Point"}
 }

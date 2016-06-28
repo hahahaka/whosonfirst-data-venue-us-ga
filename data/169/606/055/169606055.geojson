@@ -2,13 +2,14 @@
   "id": 169606055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.775277,34.344628,-83.775277,34.344628",
     "geom:latitude":34.344628,
     "geom:longitude":-83.775277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2805 Ramsey Rd",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169606055,
-    "wof:lastmodified":1449033200,
+    "wof:lastmodified":1466461203,
     "wof:name":"Couch Construction LP",
     "wof:parent_id":85836659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-83.775277,34.344628,-83.775277,34.344628],
+  "bbox": [
+    -83.775277,
+    34.344628,
+    -83.775277,
+    34.344628
+],
   "geometry": {"coordinates":[-83.775277,34.344628],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169658871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.438157,34.192857,-83.438157,34.192857",
     "geom:latitude":34.192857,
     "geom:longitude":-83.438157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"443 Ila Rd",
     "sg:city":"Commerce",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169658871,
-    "wof:lastmodified":1449032613,
+    "wof:lastmodified":1466461280,
     "wof:name":"Banks Waste Water Treatmt Plt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.438157,34.192857,-83.438157,34.192857],
+  "bbox": [
+    -83.438157,
+    34.192857,
+    -83.438157,
+    34.192857
+],
   "geometry": {"coordinates":[-83.438157,34.192857],"type":"Point"}
 }

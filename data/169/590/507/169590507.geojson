@@ -2,13 +2,14 @@
   "id": 169590507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.408108,33.690679,-84.408108,33.690679",
     "geom:latitude":33.690679,
     "geom:longitude":-84.408108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2370 Metropolitan Pkwy SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169590507,
-    "wof:lastmodified":1449034654,
+    "wof:lastmodified":1466461303,
     "wof:name":"Matthew's Place",
     "wof:parent_id":85872119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "referral"
     ]
 },
-  "bbox": [-84.408108,33.690679,-84.408108,33.690679],
+  "bbox": [
+    -84.408108,
+    33.690679,
+    -84.408108,
+    33.690679
+],
   "geometry": {"coordinates":[-84.408108,33.690679],"type":"Point"}
 }

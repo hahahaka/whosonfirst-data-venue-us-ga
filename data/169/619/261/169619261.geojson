@@ -2,13 +2,14 @@
   "id": 169619261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.324346,32.88055,-84.324346,32.88055",
     "geom:latitude":32.88055,
     "geom:longitude":-84.324346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 Springdale Dr",
     "sg:city":"Thomaston",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169619261,
-    "wof:lastmodified":1449033281,
+    "wof:lastmodified":1466461227,
     "wof:name":"Nice Ideas",
     "wof:parent_id":85816847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-84.324346,32.88055,-84.324346,32.88055],
-  "geometry": {"coordinates":[-84.324346,32.88055],"type":"Point"}
+  "bbox": [
+    -84.324346,
+    32.88055,
+    -84.324346,
+    32.88055
+],
+  "geometry": {"coordinates":[-84.32434600000001,32.88055],"type":"Point"}
 }

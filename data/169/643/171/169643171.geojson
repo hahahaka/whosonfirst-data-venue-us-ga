@@ -2,13 +2,14 @@
   "id": 169643171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.710088,32.810958,-83.710088,32.810958",
     "geom:latitude":32.810958,
     "geom:longitude":-83.710088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1815 Crystal Lake Cir",
     "sg:city":"Macon",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169643171,
-    "wof:lastmodified":1449035524,
+    "wof:lastmodified":1466461256,
     "wof:name":"Sabrina Searcy",
     "wof:parent_id":85806435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "reporter"
     ]
 },
-  "bbox": [-83.710088,32.810958,-83.710088,32.810958],
+  "bbox": [
+    -83.710088,
+    32.810958,
+    -83.710088,
+    32.810958
+],
   "geometry": {"coordinates":[-83.710088,32.810958],"type":"Point"}
 }

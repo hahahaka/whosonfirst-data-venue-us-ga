@@ -2,13 +2,14 @@
   "id": 169652477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.835885,34.781834,-84.835885,34.781834",
     "geom:latitude":34.781834,
     "geom:longitude":-84.835885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Luffman Rd",
     "sg:city":"Chatsworth",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169652477,
-    "wof:lastmodified":1449034807,
+    "wof:lastmodified":1466461269,
     "wof:name":"Mount Olive Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.835885,34.781834,-84.835885,34.781834],
+  "bbox": [
+    -84.835885,
+    34.781834,
+    -84.835885,
+    34.781834
+],
   "geometry": {"coordinates":[-84.835885,34.781834],"type":"Point"}
 }

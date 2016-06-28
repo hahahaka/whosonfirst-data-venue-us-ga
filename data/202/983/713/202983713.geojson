@@ -2,13 +2,14 @@
   "id": 202983713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.572343,30.867431,-84.572343,30.867431",
     "geom:latitude":30.867431,
     "geom:longitude":-84.572343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2361 Fowlstown Rd",
     "sg:city":"Bainbridge",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202983713,
-    "wof:lastmodified":1449062444,
+    "wof:lastmodified":1466461311,
     "wof:name":"Larry Harrison Auto Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "general"
     ]
 },
-  "bbox": [-84.572343,30.867431,-84.572343,30.867431],
+  "bbox": [
+    -84.572343,
+    30.867431,
+    -84.572343,
+    30.867431
+],
   "geometry": {"coordinates":[-84.572343,30.867431],"type":"Point"}
 }

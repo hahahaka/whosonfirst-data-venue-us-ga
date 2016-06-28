@@ -2,13 +2,14 @@
   "id": 169593383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.499738,33.936154,-83.499738,33.936154",
     "geom:latitude":33.936154,
     "geom:longitude":-83.499738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Custom Pl",
     "sg:city":"Bogart",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169593383,
-    "wof:lastmodified":1449034878,
+    "wof:lastmodified":1466461308,
     "wof:name":"Global Paint & Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-83.499738,33.936154,-83.499738,33.936154],
-  "geometry": {"coordinates":[-83.499738,33.936154],"type":"Point"}
+  "bbox": [
+    -83.499738,
+    33.936154,
+    -83.499738,
+    33.936154
+],
+  "geometry": {"coordinates":[-83.49973799999999,33.936154],"type":"Point"}
 }

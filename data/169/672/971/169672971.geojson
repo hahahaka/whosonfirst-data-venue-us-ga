@@ -2,13 +2,14 @@
   "id": 169672971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.631324,34.039275,-84.631324,34.039275",
     "geom:latitude":34.039275,
     "geom:longitude":-84.631324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2878 Cressington Bend",
     "sg:city":"Kennesaw",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169672971,
-    "wof:lastmodified":1449032890,
+    "wof:lastmodified":1466461331,
     "wof:name":"Premier Vending Inc",
     "wof:parent_id":85821545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operator"
     ]
 },
-  "bbox": [-84.631324,34.039275,-84.631324,34.039275],
-  "geometry": {"coordinates":[-84.631324,34.039275],"type":"Point"}
+  "bbox": [
+    -84.631324,
+    34.039275,
+    -84.631324,
+    34.039275
+],
+  "geometry": {"coordinates":[-84.63132400000001,34.039275],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220171677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.567821,30.903903,-84.567821,30.903903",
     "geom:latitude":30.903903,
     "geom:longitude":-84.567821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 S Scott St",
     "sg:city":"Bainbridge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":220171677,
-    "wof:lastmodified":1449074884,
+    "wof:lastmodified":1466461559,
     "wof:name":"City Nails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-84.567821,30.903903,-84.567821,30.903903],
+  "bbox": [
+    -84.567821,
+    30.903903,
+    -84.567821,
+    30.903903
+],
   "geometry": {"coordinates":[-84.567821,30.903903],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102478755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.002403,32.452087,-85.002403,32.452087",
     "geom:latitude":32.452087,
     "geom:longitude":-85.002403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 4th Pl",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882109,
+        85688535,
         85633793,
         85936243,
         102084429,
-        85688535
+        85882109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102478755,
-    "wof:lastmodified":1449067848,
+    "wof:lastmodified":1466461194,
     "wof:name":"Hugh E Ogletree Mdm",
     "wof:parent_id":85882109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.002403,32.452087,-85.002403,32.452087],
+  "bbox": [
+    -85.002403,
+    32.452087,
+    -85.002403,
+    32.452087
+],
   "geometry": {"coordinates":[-85.002403,32.452087],"type":"Point"}
 }

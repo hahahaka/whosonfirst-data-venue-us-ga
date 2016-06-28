@@ -2,13 +2,14 @@
   "id": 169587985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.682538,34.035806,-84.682538,34.035806",
     "geom:latitude":34.035806,
     "geom:longitude":-84.682538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3344 Cobb Pkwy",
     "sg:city":"Acworth",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169587985,
-    "wof:lastmodified":1449033822,
+    "wof:lastmodified":1466461298,
     "wof:name":"Hello Gorgeous",
     "wof:parent_id":85829479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.682538,34.035806,-84.682538,34.035806],
-  "geometry": {"coordinates":[-84.682538,34.035806],"type":"Point"}
+  "bbox": [
+    -84.682538,
+    34.035806,
+    -84.682538,
+    34.035806
+],
+  "geometry": {"coordinates":[-84.68253799999999,34.035806],"type":"Point"}
 }

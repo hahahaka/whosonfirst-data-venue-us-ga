@@ -2,13 +2,14 @@
   "id": 169627917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.957499,32.534772,-84.957499,32.534772",
     "geom:latitude":32.534772,
     "geom:longitude":-84.957499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6410 W Hamilton Park Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169627917,
-    "wof:lastmodified":1449036044,
+    "wof:lastmodified":1466461242,
     "wof:name":"Terry L Wilkey DMD",
     "wof:parent_id":85820405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-84.957499,32.534772,-84.957499,32.534772],
+  "bbox": [
+    -84.957499,
+    32.534772,
+    -84.957499,
+    32.534772
+],
   "geometry": {"coordinates":[-84.957499,32.534772],"type":"Point"}
 }

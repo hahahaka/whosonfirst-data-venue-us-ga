@@ -2,13 +2,14 @@
   "id": 169649751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.799217,34.320709,-83.799217,34.320709",
     "geom:latitude":34.320709,
     "geom:longitude":-83.799217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"697 Medical Park Ln",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169649751,
-    "wof:lastmodified":1449034942,
+    "wof:lastmodified":1466461270,
     "wof:name":"Thomas Weyrich DDS PC",
     "wof:parent_id":85836659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.799217,34.320709,-83.799217,34.320709],
+  "bbox": [
+    -83.799217,
+    34.320709,
+    -83.799217,
+    34.320709
+],
   "geometry": {"coordinates":[-83.799217,34.320709],"type":"Point"}
 }

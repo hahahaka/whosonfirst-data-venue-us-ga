@@ -2,13 +2,14 @@
   "id": 169610397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.407415,33.746599,-84.407415,33.746599",
     "geom:latitude":33.746599,
     "geom:longitude":-84.407415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"565 Greensferry Ave SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169610397,
-    "wof:lastmodified":1449035909,
+    "wof:lastmodified":1466461209,
     "wof:name":"Snow & Co",
     "wof:parent_id":85872099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.407415,33.746599,-84.407415,33.746599],
+  "bbox": [
+    -84.407415,
+    33.746599,
+    -84.407415,
+    33.746599
+],
   "geometry": {"coordinates":[-84.407415,33.746599],"type":"Point"}
 }

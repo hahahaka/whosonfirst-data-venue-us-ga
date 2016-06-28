@@ -2,13 +2,14 @@
   "id": 169853089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.948022,33.600526,-81.948022,33.600526",
     "geom:latitude":33.600526,
     "geom:longitude":-81.948022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"442 Big Oak Dr",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169853089,
-    "wof:lastmodified":1449034009,
+    "wof:lastmodified":1466461330,
     "wof:name":"Finish Like New Floor Care",
     "wof:parent_id":85876035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.948022,33.600526,-81.948022,33.600526],
-  "geometry": {"coordinates":[-81.948022,33.600526],"type":"Point"}
+  "bbox": [
+    -81.948022,
+    33.600526,
+    -81.948022,
+    33.600526
+],
+  "geometry": {"coordinates":[-81.94802199999999,33.600526],"type":"Point"}
 }

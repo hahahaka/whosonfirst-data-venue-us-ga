@@ -2,13 +2,14 @@
   "id": 169679757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.771253,34.312352,-83.771253,34.312352",
     "geom:latitude":34.312352,
     "geom:longitude":-83.771253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2532 Old Cornelia Hwy",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169679757,
-    "wof:lastmodified":1449034807,
+    "wof:lastmodified":1466461296,
     "wof:name":"Gainesville Pool & Hottubs Sv",
     "wof:parent_id":85836659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tub"
     ]
 },
-  "bbox": [-83.771253,34.312352,-83.771253,34.312352],
+  "bbox": [
+    -83.771253,
+    34.312352,
+    -83.771253,
+    34.312352
+],
   "geometry": {"coordinates":[-83.771253,34.312352],"type":"Point"}
 }

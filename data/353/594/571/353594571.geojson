@@ -2,13 +2,14 @@
   "id": 353594571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.937665,33.608188,-81.937665,33.608188",
     "geom:latitude":33.608188,
     "geom:longitude":-81.937665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Ruby Rd",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353594571,
-    "wof:lastmodified":1449018627,
+    "wof:lastmodified":1466461321,
     "wof:name":"Snows Home Improvement",
     "wof:parent_id":85876035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.937665,33.608188,-81.937665,33.608188],
+  "bbox": [
+    -81.937665,
+    33.608188,
+    -81.937665,
+    33.608188
+],
   "geometry": {"coordinates":[-81.937665,33.608188],"type":"Point"}
 }

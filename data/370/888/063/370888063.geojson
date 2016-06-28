@@ -2,13 +2,14 @@
   "id": 370888063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.795458,33.354464,-81.795458,33.354464",
     "geom:latitude":33.354464,
     "geom:longitude":-81.795458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"356 Runs Creek Dr",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370888063,
-    "wof:lastmodified":1449031197,
+    "wof:lastmodified":1466461259,
     "wof:name":"Ba Trucking Company",
     "wof:parent_id":85876041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-81.795458,33.354464,-81.795458,33.354464],
+  "bbox": [
+    -81.795458,
+    33.354464,
+    -81.795458,
+    33.354464
+],
   "geometry": {"coordinates":[-81.795458,33.354464],"type":"Point"}
 }

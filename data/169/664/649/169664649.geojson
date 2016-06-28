@@ -2,13 +2,14 @@
   "id": 169664649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.78312,34.103457,-83.78312,34.103457",
     "geom:latitude":34.103457,
     "geom:longitude":-83.78312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1394 Broadway Ave",
     "sg:city":"Braselton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169664649,
-    "wof:lastmodified":1449033913,
+    "wof:lastmodified":1466461286,
     "wof:name":"Campus Critters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-83.78312,34.103457,-83.78312,34.103457],
+  "bbox": [
+    -83.78312,
+    34.103457,
+    -83.78312,
+    34.103457
+],
   "geometry": {"coordinates":[-83.78312,34.103457],"type":"Point"}
 }

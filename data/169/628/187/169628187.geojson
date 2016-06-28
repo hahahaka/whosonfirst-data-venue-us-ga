@@ -2,13 +2,14 @@
   "id": 169628187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.301619,30.848309,-83.301619,30.848309",
     "geom:latitude":30.848309,
     "geom:longitude":-83.301619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1030 Cherokee St",
     "sg:city":"Valdosta",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169628187,
-    "wof:lastmodified":1449035332,
+    "wof:lastmodified":1466461236,
     "wof:name":"Davis-Garvin Agency Inc",
     "wof:parent_id":85823589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.301619,30.848309,-83.301619,30.848309],
+  "bbox": [
+    -83.301619,
+    30.848309,
+    -83.301619,
+    30.848309
+],
   "geometry": {"coordinates":[-83.301619,30.848309],"type":"Point"}
 }

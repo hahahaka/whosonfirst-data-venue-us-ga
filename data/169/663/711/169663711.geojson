@@ -2,13 +2,14 @@
   "id": 169663711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.387479,33.7613,-84.387479,33.7613",
     "geom:latitude":33.7613,
     "geom:longitude":-84.387479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Peachtree St NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169663711,
-    "wof:lastmodified":1449035106,
+    "wof:lastmodified":1466461289,
     "wof:name":"Midway Insurance MGT Intl",
     "wof:parent_id":85866901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.387479,33.7613,-84.387479,33.7613],
+  "bbox": [
+    -84.387479,
+    33.7613,
+    -84.387479,
+    33.7613
+],
   "geometry": {"coordinates":[-84.387479,33.7613],"type":"Point"}
 }

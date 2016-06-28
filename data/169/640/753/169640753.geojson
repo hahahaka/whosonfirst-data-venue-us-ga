@@ -2,13 +2,14 @@
   "id": 169640753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.603881,33.808172,-84.603881,33.808172",
     "geom:latitude":33.808172,
     "geom:longitude":-84.603881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1725 Blossom Ln",
     "sg:city":"Austell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169640753,
-    "wof:lastmodified":1449034101,
+    "wof:lastmodified":1466461257,
     "wof:name":"Charles Photography Portrait",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-84.603881,33.808172,-84.603881,33.808172],
+  "bbox": [
+    -84.603881,
+    33.808172,
+    -84.603881,
+    33.808172
+],
   "geometry": {"coordinates":[-84.603881,33.808172],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169595367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.435634,33.510453,-84.435634,33.510453",
     "geom:latitude":33.510453,
     "geom:longitude":-84.435634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"178 State Rte 279",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169595367,
-    "wof:lastmodified":1449035635,
+    "wof:lastmodified":1466461311,
     "wof:name":"Jesses Lawn Care",
     "wof:parent_id":85823041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.435634,33.510453,-84.435634,33.510453],
-  "geometry": {"coordinates":[-84.435634,33.510453],"type":"Point"}
+  "bbox": [
+    -84.435634,
+    33.510453,
+    -84.435634,
+    33.510453
+],
+  "geometry": {"coordinates":[-84.43563399999999,33.510453],"type":"Point"}
 }

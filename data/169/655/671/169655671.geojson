@@ -2,13 +2,14 @@
   "id": 169655671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.6119,33.833529,-84.6119,33.833529",
     "geom:latitude":33.833529,
     "geom:longitude":-84.6119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4980 Austell Rd",
     "sg:city":"Austell",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169655671,
-    "wof:lastmodified":1449034587,
+    "wof:lastmodified":1466461276,
     "wof:name":"Sole Salon Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-84.6119,33.833529,-84.6119,33.833529],
-  "geometry": {"coordinates":[-84.6119,33.833529],"type":"Point"}
+  "bbox": [
+    -84.6119,
+    33.833529,
+    -84.6119,
+    33.833529
+],
+  "geometry": {"coordinates":[-84.61190000000001,33.833529],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169636045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.387485,33.762254,-84.387485,33.762254",
     "geom:latitude":33.762254,
     "geom:longitude":-84.387485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Baker St NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169636045,
-    "wof:lastmodified":1449033989,
+    "wof:lastmodified":1466461248,
     "wof:name":"AAA Parking",
     "wof:parent_id":85866901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile"
     ]
 },
-  "bbox": [-84.387485,33.762254,-84.387485,33.762254],
+  "bbox": [
+    -84.387485,
+    33.762254,
+    -84.387485,
+    33.762254
+],
   "geometry": {"coordinates":[-84.387485,33.762254],"type":"Point"}
 }

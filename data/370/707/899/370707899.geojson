@@ -2,13 +2,14 @@
   "id": 370707899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.947801,33.591724,-81.947801,33.591724",
     "geom:latitude":33.591724,
     "geom:longitude":-81.947801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Rest Master Ln",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370707899,
-    "wof:lastmodified":1449031936,
+    "wof:lastmodified":1466461240,
     "wof:name":"Rest Master Bedding Co",
     "wof:parent_id":85876035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bedding"
     ]
 },
-  "bbox": [-81.947801,33.591724,-81.947801,33.591724],
+  "bbox": [
+    -81.947801,
+    33.591724,
+    -81.947801,
+    33.591724
+],
   "geometry": {"coordinates":[-81.947801,33.591724],"type":"Point"}
 }

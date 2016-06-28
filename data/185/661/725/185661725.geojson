@@ -2,13 +2,14 @@
   "id": 185661725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.952366,33.594234,-81.952366,33.594234",
     "geom:latitude":33.594234,
     "geom:longitude":-81.952366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Sweetwater Rd",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185661725,
-    "wof:lastmodified":1449008047,
+    "wof:lastmodified":1466461300,
     "wof:name":"Kindermorgan Southeast",
     "wof:parent_id":85876035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.952366,33.594234,-81.952366,33.594234],
+  "bbox": [
+    -81.952366,
+    33.594234,
+    -81.952366,
+    33.594234
+],
   "geometry": {"coordinates":[-81.952366,33.594234],"type":"Point"}
 }

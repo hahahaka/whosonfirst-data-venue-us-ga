@@ -2,13 +2,14 @@
   "id": 169670057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.106433,33.82704,-84.106433,33.82704",
     "geom:latitude":33.82704,
     "geom:longitude":-84.106433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1940 Parker Ct",
     "sg:city":"Stone Mountain",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169670057,
-    "wof:lastmodified":1449033185,
+    "wof:lastmodified":1466461326,
     "wof:name":"T D Williamson Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-84.106433,33.82704,-84.106433,33.82704],
+  "bbox": [
+    -84.106433,
+    33.82704,
+    -84.106433,
+    33.82704
+],
   "geometry": {"coordinates":[-84.106433,33.82704],"type":"Point"}
 }

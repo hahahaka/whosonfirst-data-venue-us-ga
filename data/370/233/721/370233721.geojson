@@ -2,13 +2,14 @@
   "id": 370233721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.94318,33.601615,-81.94318,33.601615",
     "geom:latitude":33.601615,
     "geom:longitude":-81.94318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"444 Hickory Dr",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":370233721,
-    "wof:lastmodified":1449032536,
+    "wof:lastmodified":1466461203,
     "wof:name":"A Da Security Specialist",
     "wof:parent_id":85876035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-81.94318,33.601615,-81.94318,33.601615],
+  "bbox": [
+    -81.94318,
+    33.601615,
+    -81.94318,
+    33.601615
+],
   "geometry": {"coordinates":[-81.94318,33.601615],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169596569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.101331,33.991077,-84.101331,33.991077",
     "geom:latitude":33.991077,
     "geom:longitude":-84.101331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2130 Sugarloaf Club Dr",
     "sg:city":"Duluth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169596569,
-    "wof:lastmodified":1449034374,
+    "wof:lastmodified":1466461314,
     "wof:name":"Acwb Ltd Partnership",
     "wof:parent_id":85810283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.101331,33.991077,-84.101331,33.991077],
+  "bbox": [
+    -84.101331,
+    33.991077,
+    -84.101331,
+    33.991077
+],
   "geometry": {"coordinates":[-84.101331,33.991077],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169643677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.960094,32.500534,-84.960094,32.500534",
     "geom:latitude":32.500534,
     "geom:longitude":-84.960094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3760 Woodruff Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169643677,
-    "wof:lastmodified":1449035522,
+    "wof:lastmodified":1466461261,
     "wof:name":"Jarvis Michael Flowers & Gifts",
     "wof:parent_id":85845927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.960094,32.500534,-84.960094,32.500534],
+  "bbox": [
+    -84.960094,
+    32.500534,
+    -84.960094,
+    32.500534
+],
   "geometry": {"coordinates":[-84.960094,32.500534],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169677707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.239533,32.118875,-81.239533,32.118875",
     "geom:latitude":32.118875,
     "geom:longitude":-81.239533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Pinehurst Ln",
     "sg:city":"Pooler",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169677707,
-    "wof:lastmodified":1449033877,
+    "wof:lastmodified":1466461292,
     "wof:name":"Al Ellisor Consulting",
     "wof:parent_id":85857815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-81.239533,32.118875,-81.239533,32.118875],
-  "geometry": {"coordinates":[-81.239533,32.118875],"type":"Point"}
+  "bbox": [
+    -81.239533,
+    32.118875,
+    -81.239533,
+    32.118875
+],
+  "geometry": {"coordinates":[-81.23953299999999,32.118875],"type":"Point"}
 }

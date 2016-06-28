@@ -2,13 +2,14 @@
   "id": 354003875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.928388,33.492264,-81.928388,33.492264",
     "geom:latitude":33.492264,
     "geom:longitude":-81.928388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1485 Atomic Rd",
     "sg:city":"Beech Island",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":354003875,
-    "wof:lastmodified":1449067539,
+    "wof:lastmodified":1466461662,
     "wof:name":"Baynham Ornamental Iron Inc",
     "wof:parent_id":85817111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.928388,33.492264,-81.928388,33.492264],
+  "bbox": [
+    -81.928388,
+    33.492264,
+    -81.928388,
+    33.492264
+],
   "geometry": {"coordinates":[-81.928388,33.492264],"type":"Point"}
 }

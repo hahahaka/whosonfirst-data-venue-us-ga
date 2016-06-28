@@ -2,13 +2,14 @@
   "id": 169648595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.387456,33.915574,-84.387456,33.915574",
     "geom:latitude":33.915574,
     "geom:longitude":-84.387456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5780 Cameron Hall Pl NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":169648595,
-    "wof:lastmodified":1449033587,
+    "wof:lastmodified":1466461269,
     "wof:name":"Dalton Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.387456,33.915574,-84.387456,33.915574],
+  "bbox": [
+    -84.387456,
+    33.915574,
+    -84.387456,
+    33.915574
+],
   "geometry": {"coordinates":[-84.387456,33.915574],"type":"Point"}
 }

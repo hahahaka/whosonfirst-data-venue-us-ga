@@ -2,13 +2,14 @@
   "id": 169662925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.987848,34.842833,-83.987848,34.842833",
     "geom:latitude":34.842833,
     "geom:longitude":-83.987848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1865 Pine View Dr",
     "sg:city":"Blairsville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169662925,
-    "wof:lastmodified":1449034920,
+    "wof:lastmodified":1466461284,
     "wof:name":"Hook N Ladder Fire Specialist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.987848,34.842833,-83.987848,34.842833],
+  "bbox": [
+    -83.987848,
+    34.842833,
+    -83.987848,
+    34.842833
+],
   "geometry": {"coordinates":[-83.987848,34.842833],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169604097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.979985,34.788108,-84.979985,34.788108",
     "geom:latitude":34.788108,
     "geom:longitude":-84.979985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1608 Chattanooga Rd",
     "sg:city":"Dalton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169604097,
-    "wof:lastmodified":1449035569,
+    "wof:lastmodified":1466461196,
     "wof:name":"HHC Welding Supplies Inc",
     "wof:parent_id":85809263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "welding"
     ]
 },
-  "bbox": [-84.979985,34.788108,-84.979985,34.788108],
+  "bbox": [
+    -84.979985,
+    34.788108,
+    -84.979985,
+    34.788108
+],
   "geometry": {"coordinates":[-84.979985,34.788108],"type":"Point"}
 }

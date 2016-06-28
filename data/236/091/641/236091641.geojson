@@ -2,13 +2,14 @@
   "id": 236091641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.383684,34.966324,-83.383684,34.966324",
     "geom:latitude":34.966324,
     "geom:longitude":-83.383684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"892 Franklin St",
     "sg:city":"Dillard",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":236091641,
-    "wof:lastmodified":1449001922,
+    "wof:lastmodified":1466461576,
     "wof:name":"City Of Dillard Police Dept",
     "wof:parent_id":85821415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-83.383684,34.966324,-83.383684,34.966324],
+  "bbox": [
+    -83.383684,
+    34.966324,
+    -83.383684,
+    34.966324
+],
   "geometry": {"coordinates":[-83.383684,34.966324],"type":"Point"}
 }

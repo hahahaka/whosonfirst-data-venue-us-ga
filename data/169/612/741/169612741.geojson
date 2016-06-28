@@ -2,13 +2,14 @@
   "id": 169612741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.777119,32.800244,-83.777119,32.800244",
     "geom:latitude":32.800244,
     "geom:longitude":-83.777119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2806 Lilla Calhoun Dr",
     "sg:city":"Lizella",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169612741,
-    "wof:lastmodified":1449034130,
+    "wof:lastmodified":1466461220,
     "wof:name":"Bibb Mt Zion Baptist Church",
     "wof:parent_id":85806435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.777119,32.800244,-83.777119,32.800244],
+  "bbox": [
+    -83.777119,
+    32.800244,
+    -83.777119,
+    32.800244
+],
   "geometry": {"coordinates":[-83.777119,32.800244],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169661157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.096463,33.79837,-84.096463,33.79837",
     "geom:latitude":33.79837,
     "geom:longitude":-84.096463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5296 Cumberland Way SW",
     "sg:city":"Stone Mountain",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169661157,
-    "wof:lastmodified":1449035598,
+    "wof:lastmodified":1466461278,
     "wof:name":"Minter Curtis Steven Etal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-84.096463,33.79837,-84.096463,33.79837],
+  "bbox": [
+    -84.096463,
+    33.79837,
+    -84.096463,
+    33.79837
+],
   "geometry": {"coordinates":[-84.096463,33.79837],"type":"Point"}
 }

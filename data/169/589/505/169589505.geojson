@@ -2,13 +2,14 @@
   "id": 169589505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.098605,33.395016,-84.098605,33.395016",
     "geom:latitude":33.395016,
     "geom:longitude":-84.098605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Nina Cir",
     "sg:city":"Locust Grove",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169589505,
-    "wof:lastmodified":1449034449,
+    "wof:lastmodified":1466461301,
     "wof:name":"D & D Detailing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carwash"
     ]
 },
-  "bbox": [-84.098605,33.395016,-84.098605,33.395016],
-  "geometry": {"coordinates":[-84.098605,33.395016],"type":"Point"}
+  "bbox": [
+    -84.098605,
+    33.395016,
+    -84.098605,
+    33.395016
+],
+  "geometry": {"coordinates":[-84.09860500000001,33.395016],"type":"Point"}
 }

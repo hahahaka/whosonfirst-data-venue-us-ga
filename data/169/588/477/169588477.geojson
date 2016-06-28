@@ -2,13 +2,14 @@
   "id": 169588477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.361826,33.933492,-84.361826,33.933492",
     "geom:latitude":33.933492,
     "geom:longitude":-84.361826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6470 Barfield Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":169588477,
-    "wof:lastmodified":1449035308,
+    "wof:lastmodified":1466461299,
     "wof:name":"Dominion Management Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fuel"
     ]
 },
-  "bbox": [-84.361826,33.933492,-84.361826,33.933492],
-  "geometry": {"coordinates":[-84.361826,33.933492],"type":"Point"}
+  "bbox": [
+    -84.361826,
+    33.933492,
+    -84.361826,
+    33.933492
+],
+  "geometry": {"coordinates":[-84.36182599999999,33.933492],"type":"Point"}
 }

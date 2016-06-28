@@ -2,13 +2,14 @@
   "id": 169657957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.290749,30.860802,-83.290749,30.860802",
     "geom:latitude":30.860802,
     "geom:longitude":-83.290749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2306 N Toombs St",
     "sg:city":"Valdosta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169657957,
-    "wof:lastmodified":1449033051,
+    "wof:lastmodified":1466461283,
     "wof:name":"Griner Electric Co",
     "wof:parent_id":85827633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-83.290749,30.860802,-83.290749,30.860802],
-  "geometry": {"coordinates":[-83.290749,30.860802],"type":"Point"}
+  "bbox": [
+    -83.290749,
+    30.860802,
+    -83.290749,
+    30.860802
+],
+  "geometry": {"coordinates":[-83.29074900000001,30.860802],"type":"Point"}
 }

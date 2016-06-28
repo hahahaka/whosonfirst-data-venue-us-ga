@@ -2,13 +2,14 @@
   "id": 169613475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.168763,33.937366,-84.168763,33.937366",
     "geom:latitude":33.937366,
     "geom:longitude":-84.168763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4706 Greenway Rd NW",
     "sg:city":"Norcross",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169613475,
-    "wof:lastmodified":1449034214,
+    "wof:lastmodified":1466461218,
     "wof:name":"Global Processing",
     "wof:parent_id":85826369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-84.168763,33.937366,-84.168763,33.937366],
+  "bbox": [
+    -84.168763,
+    33.937366,
+    -84.168763,
+    33.937366
+],
   "geometry": {"coordinates":[-84.168763,33.937366],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169646087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.352516,33.907248,-84.352516,33.907248",
     "geom:latitude":33.907248,
     "geom:longitude":-84.352516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5671 Peachtree Dunwoody Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169646087,
-    "wof:lastmodified":1449032608,
+    "wof:lastmodified":1466461260,
     "wof:name":"Lillibridge Healthcare Svcs",
     "wof:parent_id":85890009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "real estate"
     ]
 },
-  "bbox": [-84.352516,33.907248,-84.352516,33.907248],
-  "geometry": {"coordinates":[-84.352516,33.907248],"type":"Point"}
+  "bbox": [
+    -84.352516,
+    33.907248,
+    -84.352516,
+    33.907248
+],
+  "geometry": {"coordinates":[-84.35251599999999,33.907248],"type":"Point"}
 }

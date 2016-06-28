@@ -2,13 +2,14 @@
   "id": 169587645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.148836,32.117167,-81.148836,32.117167",
     "geom:latitude":32.117167,
     "geom:longitude":-81.148836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Main St",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169587645,
-    "wof:lastmodified":1449033819,
+    "wof:lastmodified":1466461298,
     "wof:name":"Buckeye Technologies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-81.148836,32.117167,-81.148836,32.117167],
+  "bbox": [
+    -81.148836,
+    32.117167,
+    -81.148836,
+    32.117167
+],
   "geometry": {"coordinates":[-81.148836,32.117167],"type":"Point"}
 }

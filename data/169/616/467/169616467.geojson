@@ -2,13 +2,14 @@
   "id": 169616467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.220889,34.84711,-85.220889,34.84711",
     "geom:latitude":34.84711,
     "geom:longitude":-85.220889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1089 Peavine Rd",
     "sg:city":"Rock Spring",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169616467,
-    "wof:lastmodified":1449035102,
+    "wof:lastmodified":1466461226,
     "wof:name":"Peavine Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-85.220889,34.84711,-85.220889,34.84711],
+  "bbox": [
+    -85.220889,
+    34.84711,
+    -85.220889,
+    34.84711
+],
   "geometry": {"coordinates":[-85.220889,34.84711],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169630451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.266392,34.957182,-85.266392,34.957182",
     "geom:latitude":34.957182,
     "geom:longitude":-85.266392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1620 W Rebel Rd",
     "sg:city":"Rossville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169630451,
-    "wof:lastmodified":1449033870,
+    "wof:lastmodified":1466461243,
     "wof:name":"Keith Finch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-85.266392,34.957182,-85.266392,34.957182],
+  "bbox": [
+    -85.266392,
+    34.957182,
+    -85.266392,
+    34.957182
+],
   "geometry": {"coordinates":[-85.266392,34.957182],"type":"Point"}
 }

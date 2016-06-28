@@ -2,13 +2,14 @@
   "id": 185652997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.863449,33.412667,-81.863449,33.412667",
     "geom:latitude":33.412667,
     "geom:longitude":-81.863449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"181 Redcliffe Rd",
     "sg:city":"Beech Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185652997,
-    "wof:lastmodified":1449007641,
+    "wof:lastmodified":1466461300,
     "wof:name":"Redcliff State Park",
     "wof:parent_id":85817111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"
     ]
 },
-  "bbox": [-81.863449,33.412667,-81.863449,33.412667],
+  "bbox": [
+    -81.863449,
+    33.412667,
+    -81.863449,
+    33.412667
+],
   "geometry": {"coordinates":[-81.863449,33.412667],"type":"Point"}
 }

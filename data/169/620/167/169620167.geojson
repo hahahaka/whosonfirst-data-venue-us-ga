@@ -2,13 +2,14 @@
   "id": 169620167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.654792,32.853838,-83.654792,32.853838",
     "geom:latitude":32.853838,
     "geom:longitude":-83.654792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2391 Ingleside Ave",
     "sg:city":"Macon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169620167,
-    "wof:lastmodified":1449035674,
+    "wof:lastmodified":1466461227,
     "wof:name":"Cornerstone Masonry LLC",
     "wof:parent_id":85845047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-83.654792,32.853838,-83.654792,32.853838],
+  "bbox": [
+    -83.654792,
+    32.853838,
+    -83.654792,
+    32.853838
+],
   "geometry": {"coordinates":[-83.654792,32.853838],"type":"Point"}
 }

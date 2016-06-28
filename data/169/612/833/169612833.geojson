@@ -2,13 +2,14 @@
   "id": 169612833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.284777,33.050849,-83.284777,33.050849",
     "geom:latitude":33.050849,
     "geom:longitude":-83.284777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Forest Hill Rd SW",
     "sg:city":"Milledgeville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169612833,
-    "wof:lastmodified":1449034130,
+    "wof:lastmodified":1466461221,
     "wof:name":"Maybe War Zone Supply",
     "wof:parent_id":85802835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.284777,33.050849,-83.284777,33.050849],
-  "geometry": {"coordinates":[-83.284777,33.050849],"type":"Point"}
+  "bbox": [
+    -83.284777,
+    33.050849,
+    -83.284777,
+    33.050849
+],
+  "geometry": {"coordinates":[-83.28477700000001,33.050849],"type":"Point"}
 }

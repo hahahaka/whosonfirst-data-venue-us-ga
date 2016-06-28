@@ -2,13 +2,14 @@
   "id": 169684225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.329852,34.024168,-84.329852,34.024168",
     "geom:latitude":34.024168,
     "geom:longitude":-84.329852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1080 Holcomb Bridge Rd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169684225,
-    "wof:lastmodified":1449033509,
+    "wof:lastmodified":1466461296,
     "wof:name":"Critical Technologies",
     "wof:parent_id":85889949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-84.329852,34.024168,-84.329852,34.024168],
+  "bbox": [
+    -84.329852,
+    34.024168,
+    -84.329852,
+    34.024168
+],
   "geometry": {"coordinates":[-84.329852,34.024168],"type":"Point"}
 }

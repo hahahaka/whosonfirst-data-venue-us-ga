@@ -2,13 +2,14 @@
   "id": 169629893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.946124,34.358272,-82.946124,34.358272",
     "geom:latitude":34.358272,
     "geom:longitude":-82.946124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"785 W Howell St",
     "sg:city":"Hartwell",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169629893,
-    "wof:lastmodified":1449035185,
+    "wof:lastmodified":1466461246,
     "wof:name":"Big Dawgs Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cafe"
     ]
 },
-  "bbox": [-82.946124,34.358272,-82.946124,34.358272],
+  "bbox": [
+    -82.946124,
+    34.358272,
+    -82.946124,
+    34.358272
+],
   "geometry": {"coordinates":[-82.946124,34.358272],"type":"Point"}
 }

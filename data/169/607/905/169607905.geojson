@@ -2,13 +2,14 @@
   "id": 169607905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.310933,30.783293,-83.310933,30.783293",
     "geom:latitude":30.783293,
     "geom:longitude":-83.310933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2599 Indian Ford Rd",
     "sg:city":"Valdosta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169607905,
-    "wof:lastmodified":1449033122,
+    "wof:lastmodified":1466461212,
     "wof:name":"ADM Contractors Inc",
     "wof:parent_id":85827233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-83.310933,30.783293,-83.310933,30.783293],
-  "geometry": {"coordinates":[-83.310933,30.783293],"type":"Point"}
+  "bbox": [
+    -83.310933,
+    30.783293,
+    -83.310933,
+    30.783293
+],
+  "geometry": {"coordinates":[-83.31093300000001,30.783293],"type":"Point"}
 }

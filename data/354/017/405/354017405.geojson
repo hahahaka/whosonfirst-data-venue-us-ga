@@ -2,13 +2,14 @@
   "id": 354017405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.073943,33.712195,-82.073943,33.712195",
     "geom:latitude":33.712195,
     "geom:longitude":-82.073943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3300 Martintown Rd",
     "sg:city":"Edgefield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354017405,
-    "wof:lastmodified":1449066845,
+    "wof:lastmodified":1466461668,
     "wof:name":"Mt Olive Baptist Church",
     "wof:parent_id":85876035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.073943,33.712195,-82.073943,33.712195],
+  "bbox": [
+    -82.073943,
+    33.712195,
+    -82.073943,
+    33.712195
+],
   "geometry": {"coordinates":[-82.073943,33.712195],"type":"Point"}
 }

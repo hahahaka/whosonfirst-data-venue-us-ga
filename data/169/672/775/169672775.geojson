@@ -2,13 +2,14 @@
   "id": 169672775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.868455,33.5948,-83.868455,33.5948",
     "geom:latitude":33.5948,
     "geom:longitude":-83.868455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3192 Washington St SW",
     "sg:city":"Covington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169672775,
-    "wof:lastmodified":1449032890,
+    "wof:lastmodified":1466461296,
     "wof:name":"Flowers By Dorothy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.868455,33.5948,-83.868455,33.5948],
+  "bbox": [
+    -83.868455,
+    33.5948,
+    -83.868455,
+    33.5948
+],
   "geometry": {"coordinates":[-83.868455,33.5948],"type":"Point"}
 }

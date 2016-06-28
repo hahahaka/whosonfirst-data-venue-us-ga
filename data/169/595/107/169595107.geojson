@@ -2,13 +2,14 @@
   "id": 169595107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.542643,33.977051,-84.542643,33.977051",
     "geom:latitude":33.977051,
     "geom:longitude":-84.542643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1155 Hayes Industrial Dr",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169595107,
-    "wof:lastmodified":1449035636,
+    "wof:lastmodified":1466461311,
     "wof:name":"Tyco Healthcare Group L P",
     "wof:parent_id":85817769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-84.542643,33.977051,-84.542643,33.977051],
+  "bbox": [
+    -84.542643,
+    33.977051,
+    -84.542643,
+    33.977051
+],
   "geometry": {"coordinates":[-84.542643,33.977051],"type":"Point"}
 }

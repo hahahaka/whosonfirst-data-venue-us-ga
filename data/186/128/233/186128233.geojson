@@ -2,13 +2,14 @@
   "id": 186128233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.843463,33.415397,-81.843463,33.415397",
     "geom:latitude":33.415397,
     "geom:longitude":-81.843463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1679 Williston Rd",
     "sg:city":"Beech Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186128233,
-    "wof:lastmodified":1449051410,
+    "wof:lastmodified":1466461315,
     "wof:name":"Chapman Plumbing",
     "wof:parent_id":85876041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.843463,33.415397,-81.843463,33.415397],
+  "bbox": [
+    -81.843463,
+    33.415397,
+    -81.843463,
+    33.415397
+],
   "geometry": {"coordinates":[-81.843463,33.415397],"type":"Point"}
 }

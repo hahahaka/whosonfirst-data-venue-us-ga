@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102447259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.474115,34.471598,-85.474115,34.471598",
     "geom:latitude":34.471598,
     "geom:longitude":-85.474115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"991 Hwy 337",
     "sg:city":"Menlo",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102447259,
-    "wof:lastmodified":1449069494,
+    "wof:lastmodified":1466461193,
     "wof:name":"Billy M Birge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.474115,34.471598,-85.474115,34.471598],
+  "bbox": [
+    -85.474115,
+    34.471598,
+    -85.474115,
+    34.471598
+],
   "geometry": {"coordinates":[-85.474115,34.471598],"type":"Point"}
 }

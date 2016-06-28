@@ -2,13 +2,14 @@
   "id": 169602041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.949671,33.456964,-81.949671,33.456964",
     "geom:latitude":33.456964,
     "geom:longitude":-81.949671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Laney Walker Blvd Exd",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169602041,
-    "wof:lastmodified":1449034228,
+    "wof:lastmodified":1466461195,
     "wof:name":"Griffin's Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.949671,33.456964,-81.949671,33.456964],
+  "bbox": [
+    -81.949671,
+    33.456964,
+    -81.949671,
+    33.456964
+],
   "geometry": {"coordinates":[-81.949671,33.456964],"type":"Point"}
 }

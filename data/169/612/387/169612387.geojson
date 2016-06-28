@@ -2,13 +2,14 @@
   "id": 169612387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.467309,31.545352,-82.467309,31.545352",
     "geom:latitude":31.545352,
     "geom:longitude":-82.467309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Mercer St",
     "sg:city":"Alma",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169612387,
-    "wof:lastmodified":1449034131,
+    "wof:lastmodified":1466461216,
     "wof:name":"South Ga Drug Task Force",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.467309,31.545352,-82.467309,31.545352],
+  "bbox": [
+    -82.467309,
+    31.545352,
+    -82.467309,
+    31.545352
+],
   "geometry": {"coordinates":[-82.467309,31.545352],"type":"Point"}
 }

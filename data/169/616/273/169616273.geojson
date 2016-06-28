@@ -2,13 +2,14 @@
   "id": 169616273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.512378,32.151572,-81.512378,32.151572",
     "geom:latitude":32.151572,
     "geom:longitude":-81.512378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Toni Branch Rd",
     "sg:city":"Ellabell",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169616273,
-    "wof:lastmodified":1449035101,
+    "wof:lastmodified":1466461224,
     "wof:name":"Shuman Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "mfg"
     ]
 },
-  "bbox": [-81.512378,32.151572,-81.512378,32.151572],
+  "bbox": [
+    -81.512378,
+    32.151572,
+    -81.512378,
+    32.151572
+],
   "geometry": {"coordinates":[-81.512378,32.151572],"type":"Point"}
 }

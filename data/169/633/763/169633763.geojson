@@ -2,13 +2,14 @@
   "id": 169633763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.975383,33.887084,-83.975383,33.887084",
     "geom:latitude":33.887084,
     "geom:longitude":-83.975383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 Lakewood Trce",
     "sg:city":"Grayson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169633763,
-    "wof:lastmodified":1449035940,
+    "wof:lastmodified":1466461250,
     "wof:name":"Transell Investments Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-83.975383,33.887084,-83.975383,33.887084],
-  "geometry": {"coordinates":[-83.975383,33.887084],"type":"Point"}
+  "bbox": [
+    -83.975383,
+    33.887084,
+    -83.975383,
+    33.887084
+],
+  "geometry": {"coordinates":[-83.97538299999999,33.887084],"type":"Point"}
 }

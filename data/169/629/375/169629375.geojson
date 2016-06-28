@@ -2,13 +2,14 @@
   "id": 169629375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.187417,33.444409,-82.187417,33.444409",
     "geom:latitude":33.444409,
     "geom:longitude":-82.187417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 E Robinson Ave",
     "sg:city":"Grovetown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169629375,
-    "wof:lastmodified":1449035183,
+    "wof:lastmodified":1466461242,
     "wof:name":"Smart Cuts",
     "wof:parent_id":85820097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-82.187417,33.444409,-82.187417,33.444409],
+  "bbox": [
+    -82.187417,
+    33.444409,
+    -82.187417,
+    33.444409
+],
   "geometry": {"coordinates":[-82.187417,33.444409],"type":"Point"}
 }

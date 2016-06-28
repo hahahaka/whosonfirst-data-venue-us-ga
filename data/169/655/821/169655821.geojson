@@ -2,13 +2,14 @@
   "id": 169655821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.271338,30.851238,-83.271338,30.851238",
     "geom:latitude":30.851238,
     "geom:longitude":-83.271338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Woodlawn Dr",
     "sg:city":"Valdosta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169655821,
-    "wof:lastmodified":1449034588,
+    "wof:lastmodified":1466461278,
     "wof:name":"International Tent Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camping"
     ]
 },
-  "bbox": [-83.271338,30.851238,-83.271338,30.851238],
+  "bbox": [
+    -83.271338,
+    30.851238,
+    -83.271338,
+    30.851238
+],
   "geometry": {"coordinates":[-83.271338,30.851238],"type":"Point"}
 }

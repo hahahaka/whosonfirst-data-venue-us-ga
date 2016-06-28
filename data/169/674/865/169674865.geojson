@@ -2,13 +2,14 @@
   "id": 169674865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.605812,34.010597,-84.605812,34.010597",
     "geom:latitude":34.010597,
     "geom:longitude":-84.605812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Airport Rd",
     "sg:city":"Kennesaw",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169674865,
-    "wof:lastmodified":1449035137,
+    "wof:lastmodified":1466461295,
     "wof:name":"Hilo Trading",
     "wof:parent_id":85837407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-84.605812,34.010597,-84.605812,34.010597],
+  "bbox": [
+    -84.605812,
+    34.010597,
+    -84.605812,
+    34.010597
+],
   "geometry": {"coordinates":[-84.605812,34.010597],"type":"Point"}
 }

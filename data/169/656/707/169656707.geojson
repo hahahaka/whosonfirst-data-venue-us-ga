@@ -2,13 +2,14 @@
   "id": 169656707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.267174,30.815876,-83.267174,30.815876",
     "geom:latitude":30.815876,
     "geom:longitude":-83.267174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 S Patterson St",
     "sg:city":"Valdosta",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":169656707,
-    "wof:lastmodified":1449034837,
+    "wof:lastmodified":1466461278,
     "wof:name":"Mr Bob's Meats & Groceries",
     "wof:parent_id":85843077,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-83.267174,30.815876,-83.267174,30.815876],
+  "bbox": [
+    -83.267174,
+    30.815876,
+    -83.267174,
+    30.815876
+],
   "geometry": {"coordinates":[-83.267174,30.815876],"type":"Point"}
 }

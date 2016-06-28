@@ -2,13 +2,14 @@
   "id": 169611567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.981037,32.5347,-84.981037,32.5347",
     "geom:latitude":32.5347,
     "geom:longitude":-84.981037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Brookstone Centre Pkwy",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169611567,
-    "wof:lastmodified":1449035264,
+    "wof:lastmodified":1466461220,
     "wof:name":"Blue Cross and Blue Shield",
     "wof:parent_id":85807979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "provider"
     ]
 },
-  "bbox": [-84.981037,32.5347,-84.981037,32.5347],
+  "bbox": [
+    -84.981037,
+    32.5347,
+    -84.981037,
+    32.5347
+],
   "geometry": {"coordinates":[-84.981037,32.5347],"type":"Point"}
 }

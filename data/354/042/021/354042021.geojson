@@ -2,13 +2,14 @@
   "id": 354042021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.795868,33.339132,-81.795868,33.339132",
     "geom:latitude":33.339132,
     "geom:longitude":-81.795868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 4th St Exd",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354042021,
-    "wof:lastmodified":1449067232,
+    "wof:lastmodified":1466461195,
     "wof:name":"TRI-Development Center-Aiken",
     "wof:parent_id":85876041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-81.795868,33.339132,-81.795868,33.339132],
+  "bbox": [
+    -81.795868,
+    33.339132,
+    -81.795868,
+    33.339132
+],
   "geometry": {"coordinates":[-81.795868,33.339132],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370753919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.902039,33.436614,-81.902039,33.436614",
     "geom:latitude":33.436614,
     "geom:longitude":-81.902039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1113 Sand Bar Ferry Rd",
     "sg:city":"Beech Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370753919,
-    "wof:lastmodified":1449029489,
+    "wof:lastmodified":1466461245,
     "wof:name":"Lynch Appliances",
     "wof:parent_id":85817111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"
     ]
 },
-  "bbox": [-81.902039,33.436614,-81.902039,33.436614],
+  "bbox": [
+    -81.902039,
+    33.436614,
+    -81.902039,
+    33.436614
+],
   "geometry": {"coordinates":[-81.902039,33.436614],"type":"Point"}
 }

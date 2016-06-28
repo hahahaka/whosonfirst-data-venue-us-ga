@@ -2,13 +2,14 @@
   "id": 371063285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.576341,30.896994,-84.576341,30.896994",
     "geom:latitude":30.896994,
     "geom:longitude":-84.576341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"925 S West St",
     "sg:city":"Bainbridge",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371063285,
-    "wof:lastmodified":1449049113,
+    "wof:lastmodified":1466461669,
     "wof:name":"Dewey M Phillips",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.576341,30.896994,-84.576341,30.896994],
+  "bbox": [
+    -84.576341,
+    30.896994,
+    -84.576341,
+    30.896994
+],
   "geometry": {"coordinates":[-84.576341,30.896994],"type":"Point"}
 }

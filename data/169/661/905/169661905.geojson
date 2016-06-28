@@ -2,13 +2,14 @@
   "id": 169661905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.341484,33.985482,-84.341484,33.985482",
     "geom:latitude":33.985482,
     "geom:longitude":-84.341484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8300 Dunwoody Pl",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169661905,
-    "wof:lastmodified":1449035597,
+    "wof:lastmodified":1466461288,
     "wof:name":"Matlen Silver Group",
     "wof:parent_id":85890021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.341484,33.985482,-84.341484,33.985482],
-  "geometry": {"coordinates":[-84.341484,33.985482],"type":"Point"}
+  "bbox": [
+    -84.341484,
+    33.985482,
+    -84.341484,
+    33.985482
+],
+  "geometry": {"coordinates":[-84.34148399999999,33.985482],"type":"Point"}
 }

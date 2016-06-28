@@ -2,13 +2,14 @@
   "id": 169605589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.055736,33.92288,-84.055736,33.92288",
     "geom:latitude":33.92288,
     "geom:longitude":-84.055736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2354 Mulliston Ln",
     "sg:city":"Lawrenceville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169605589,
-    "wof:lastmodified":1449034288,
+    "wof:lastmodified":1466461201,
     "wof:name":"Lemay Imagery",
     "wof:parent_id":85808181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.055736,33.92288,-84.055736,33.92288],
+  "bbox": [
+    -84.055736,
+    33.92288,
+    -84.055736,
+    33.92288
+],
   "geometry": {"coordinates":[-84.055736,33.92288],"type":"Point"}
 }

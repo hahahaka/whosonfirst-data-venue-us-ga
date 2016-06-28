@@ -2,13 +2,14 @@
   "id": 169672287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.630827,32.831609,-83.630827,32.831609",
     "geom:latitude":32.831609,
     "geom:longitude":-83.630827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"746 3rd St",
     "sg:city":"Macon",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169672287,
-    "wof:lastmodified":1449032888,
+    "wof:lastmodified":1466461292,
     "wof:name":"Butler Supply Co Inc",
     "wof:parent_id":85837705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.630827,32.831609,-83.630827,32.831609],
+  "bbox": [
+    -83.630827,
+    32.831609,
+    -83.630827,
+    32.831609
+],
   "geometry": {"coordinates":[-83.630827,32.831609],"type":"Point"}
 }

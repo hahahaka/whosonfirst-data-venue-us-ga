@@ -2,13 +2,14 @@
   "id": 169655015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.013013,33.68267,-84.013013,33.68267",
     "geom:latitude":33.68267,
     "geom:longitude":-84.013013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 Northside Dr NW",
     "sg:city":"Cumming",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169655015,
-    "wof:lastmodified":1449034587,
+    "wof:lastmodified":1466461325,
     "wof:name":"Northeast Ga Diagnostics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-84.013013,33.68267,-84.013013,33.68267],
+  "bbox": [
+    -84.013013,
+    33.68267,
+    -84.013013,
+    33.68267
+],
   "geometry": {"coordinates":[-84.013013,33.68267],"type":"Point"}
 }

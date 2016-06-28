@@ -2,13 +2,14 @@
   "id": 203170261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.323382,33.417055,-84.323382,33.417055",
     "geom:latitude":33.417055,
     "geom:longitude":-84.323382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"292 North St",
     "sg:city":"Hampton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203170261,
-    "wof:lastmodified":1449025105,
+    "wof:lastmodified":1466461556,
     "wof:name":"Professional Building Inspection Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-84.323382,33.417055,-84.323382,33.417055],
+  "bbox": [
+    -84.323382,
+    33.417055,
+    -84.323382,
+    33.417055
+],
   "geometry": {"coordinates":[-84.323382,33.417055],"type":"Point"}
 }

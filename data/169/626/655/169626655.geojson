@@ -2,13 +2,14 @@
   "id": 169626655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.361251,34.045017,-84.361251,34.045017",
     "geom:latitude":34.045017,
     "geom:longitude":-84.361251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10890 Crabapple Rd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169626655,
-    "wof:lastmodified":1449035970,
+    "wof:lastmodified":1466461240,
     "wof:name":"Gvs Properties LLC",
     "wof:parent_id":85823117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-84.361251,34.045017,-84.361251,34.045017],
+  "bbox": [
+    -84.361251,
+    34.045017,
+    -84.361251,
+    34.045017
+],
   "geometry": {"coordinates":[-84.361251,34.045017],"type":"Point"}
 }

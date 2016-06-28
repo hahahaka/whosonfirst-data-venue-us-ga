@@ -2,13 +2,14 @@
   "id": 169619635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.33068,34.0355,-84.33068,34.0355",
     "geom:latitude":34.0355,
     "geom:longitude":-84.33068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1290 Warsaw Rd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169619635,
-    "wof:lastmodified":1449033281,
+    "wof:lastmodified":1466461228,
     "wof:name":"Roswell Software Inc",
     "wof:parent_id":85889949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-84.33068,34.0355,-84.33068,34.0355],
+  "bbox": [
+    -84.33068,
+    34.0355,
+    -84.33068,
+    34.0355
+],
   "geometry": {"coordinates":[-84.33068,34.0355],"type":"Point"}
 }

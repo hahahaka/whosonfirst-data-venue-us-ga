@@ -2,13 +2,14 @@
   "id": 169649147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.166249,34.063335,-84.166249,34.063335",
     "geom:latitude":34.063335,
     "geom:longitude":-84.166249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6470 E Johns Xing",
     "sg:city":"Duluth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169649147,
-    "wof:lastmodified":1449034944,
+    "wof:lastmodified":1466461264,
     "wof:name":"North Georgia Title Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "title"
     ]
 },
-  "bbox": [-84.166249,34.063335,-84.166249,34.063335],
-  "geometry": {"coordinates":[-84.166249,34.063335],"type":"Point"}
+  "bbox": [
+    -84.166249,
+    34.063335,
+    -84.166249,
+    34.063335
+],
+  "geometry": {"coordinates":[-84.16624899999999,34.063335],"type":"Point"}
 }

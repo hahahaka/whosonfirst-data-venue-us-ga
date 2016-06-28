@@ -2,13 +2,14 @@
   "id": 169666757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.709458,33.759143,-84.709458,33.759143",
     "geom:latitude":33.759143,
     "geom:longitude":-84.709458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4327 Midway Rd",
     "sg:city":"Douglasville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169666757,
-    "wof:lastmodified":1449033899,
+    "wof:lastmodified":1466461286,
     "wof:name":"Mobile Truck Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-84.709458,33.759143,-84.709458,33.759143],
+  "bbox": [
+    -84.709458,
+    33.759143,
+    -84.709458,
+    33.759143
+],
   "geometry": {"coordinates":[-84.709458,33.759143],"type":"Point"}
 }

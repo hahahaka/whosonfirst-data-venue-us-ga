@@ -2,13 +2,14 @@
   "id": 354031151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.89209,33.496685,-81.89209,33.496685",
     "geom:latitude":33.496685,
     "geom:longitude":-81.89209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Augusta Rd",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354031151,
-    "wof:lastmodified":1449066545,
+    "wof:lastmodified":1466461194,
     "wof:name":"Adams Building Inc",
     "wof:parent_id":85817111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.89209,33.496685,-81.89209,33.496685],
+  "bbox": [
+    -81.89209,
+    33.496685,
+    -81.89209,
+    33.496685
+],
   "geometry": {"coordinates":[-81.89209,33.496685],"type":"Point"}
 }

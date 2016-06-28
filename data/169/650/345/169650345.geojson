@@ -2,13 +2,14 @@
   "id": 169650345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.463267,34.060351,-84.463267,34.060351",
     "geom:latitude":34.060351,
     "geom:longitude":-84.463267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4511 Reva Way NE",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169650345,
-    "wof:lastmodified":1449034702,
+    "wof:lastmodified":1466461268,
     "wof:name":"Copy South Business Systems",
     "wof:parent_id":85803209,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "copying"
     ]
 },
-  "bbox": [-84.463267,34.060351,-84.463267,34.060351],
+  "bbox": [
+    -84.463267,
+    34.060351,
+    -84.463267,
+    34.060351
+],
   "geometry": {"coordinates":[-84.463267,34.060351],"type":"Point"}
 }

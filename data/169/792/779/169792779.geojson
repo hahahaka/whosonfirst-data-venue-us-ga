@@ -2,13 +2,14 @@
   "id": 169792779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.891983,33.496748,-81.891983,33.496748",
     "geom:latitude":33.496748,
     "geom:longitude":-81.891983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"959 Augusta Rd",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169792779,
-    "wof:lastmodified":1449033390,
+    "wof:lastmodified":1466461328,
     "wof:name":"William H Burkhalter Jr",
     "wof:parent_id":85817111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-81.891983,33.496748,-81.891983,33.496748],
+  "bbox": [
+    -81.891983,
+    33.496748,
+    -81.891983,
+    33.496748
+],
   "geometry": {"coordinates":[-81.891983,33.496748],"type":"Point"}
 }

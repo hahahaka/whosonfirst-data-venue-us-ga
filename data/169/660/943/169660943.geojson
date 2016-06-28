@@ -2,13 +2,14 @@
   "id": 169660943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.49868,31.150407,-81.49868,31.150407",
     "geom:latitude":31.150407,
     "geom:longitude":-81.49868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Saint Andrews Ct",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169660943,
-    "wof:lastmodified":1449035609,
+    "wof:lastmodified":1466461283,
     "wof:name":"Charles S Hoover MD",
     "wof:parent_id":85822091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.49868,31.150407,-81.49868,31.150407],
-  "geometry": {"coordinates":[-81.49868,31.150407],"type":"Point"}
+  "bbox": [
+    -81.49868,
+    31.150407,
+    -81.49868,
+    31.150407
+],
+  "geometry": {"coordinates":[-81.49867999999999,31.150407],"type":"Point"}
 }

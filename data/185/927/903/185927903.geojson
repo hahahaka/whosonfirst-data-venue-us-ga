@@ -2,13 +2,14 @@
   "id": 185927903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.890134,33.423573,-81.890134,33.423573",
     "geom:latitude":33.423573,
     "geom:longitude":-81.890134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"144 Old Jackson Hwy",
     "sg:city":"Beech Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185927903,
-    "wof:lastmodified":1449008051,
+    "wof:lastmodified":1466461313,
     "wof:name":"Beech Island Historical Scty",
     "wof:parent_id":85817111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.890134,33.423573,-81.890134,33.423573],
+  "bbox": [
+    -81.890134,
+    33.423573,
+    -81.890134,
+    33.423573
+],
   "geometry": {"coordinates":[-81.890134,33.423573],"type":"Point"}
 }

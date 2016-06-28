@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102449281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.000042,32.489097,-85.000042,32.489097",
     "geom:latitude":32.489097,
     "geom:longitude":-85.000042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2806 5th Ave",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806021,
+        85688535,
         85633793,
         85936243,
         102084429,
-        85688535
+        85806021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":102449281,
-    "wof:lastmodified":1449070007,
+    "wof:lastmodified":1466461193,
     "wof:name":"Mee Mees Yesterday Child",
     "wof:parent_id":85806021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.000042,32.489097,-85.000042,32.489097],
-  "geometry": {"coordinates":[-85.000042,32.489097],"type":"Point"}
+  "bbox": [
+    -85.000042,
+    32.489097,
+    -85.000042,
+    32.489097
+],
+  "geometry": {"coordinates":[-85.00004199999999,32.489097],"type":"Point"}
 }

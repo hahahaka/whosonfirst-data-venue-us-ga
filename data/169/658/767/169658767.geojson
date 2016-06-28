@@ -2,13 +2,14 @@
   "id": 169658767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.981452,34.128519,-83.981452,34.128519",
     "geom:latitude":34.128519,
     "geom:longitude":-83.981452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2705 Sawnee Ave",
     "sg:city":"Buford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169658767,
-    "wof:lastmodified":1449032615,
+    "wof:lastmodified":1466461279,
     "wof:name":"Charles Black Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-83.981452,34.128519,-83.981452,34.128519],
+  "bbox": [
+    -83.981452,
+    34.128519,
+    -83.981452,
+    34.128519
+],
   "geometry": {"coordinates":[-83.981452,34.128519],"type":"Point"}
 }

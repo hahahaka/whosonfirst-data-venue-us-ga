@@ -2,13 +2,14 @@
   "id": 353605811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.900932,33.434139,-81.900932,33.434139",
     "geom:latitude":33.434139,
     "geom:longitude":-81.900932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Laurie Dr",
     "sg:city":"Beech Island",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353605811,
-    "wof:lastmodified":1449019515,
+    "wof:lastmodified":1466461666,
     "wof:name":"UNI Mach",
     "wof:parent_id":85817111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-81.900932,33.434139,-81.900932,33.434139],
+  "bbox": [
+    -81.900932,
+    33.434139,
+    -81.900932,
+    33.434139
+],
   "geometry": {"coordinates":[-81.900932,33.434139],"type":"Point"}
 }

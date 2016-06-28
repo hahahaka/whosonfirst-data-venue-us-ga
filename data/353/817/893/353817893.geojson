@@ -2,13 +2,14 @@
   "id": 353817893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.080762,33.656819,-82.080762,33.656819",
     "geom:latitude":33.656819,
     "geom:longitude":-82.080762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"83 Penny Ln",
     "sg:city":"Edgefield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353817893,
-    "wof:lastmodified":1449020325,
+    "wof:lastmodified":1466461214,
     "wof:name":"Darrell Mercers Welding",
     "wof:parent_id":85876035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-82.080762,33.656819,-82.080762,33.656819],
-  "geometry": {"coordinates":[-82.080762,33.656819],"type":"Point"}
+  "bbox": [
+    -82.080762,
+    33.656819,
+    -82.080762,
+    33.656819
+],
+  "geometry": {"coordinates":[-82.08076199999999,33.656819],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169661445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.092025,32.0783,-81.092025,32.0783",
     "geom:latitude":32.0783,
     "geom:longitude":-81.092025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 E State St",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169661445,
-    "wof:lastmodified":1449035597,
+    "wof:lastmodified":1466461283,
     "wof:name":"Fat Pats Pizzeria",
     "wof:parent_id":85880917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-81.092025,32.0783,-81.092025,32.0783],
-  "geometry": {"coordinates":[-81.092025,32.0783],"type":"Point"}
+  "bbox": [
+    -81.092025,
+    32.0783,
+    -81.092025,
+    32.0783
+],
+  "geometry": {"coordinates":[-81.09202500000001,32.0783],"type":"Point"}
 }

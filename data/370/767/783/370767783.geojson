@@ -2,13 +2,14 @@
   "id": 370767783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.55383,30.901285,-84.55383,30.901285",
     "geom:latitude":30.901285,
     "geom:longitude":-84.55383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 S Wheat Ave",
     "sg:city":"Bainbridge",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370767783,
-    "wof:lastmodified":1449030076,
+    "wof:lastmodified":1466461246,
     "wof:name":"Bainbridge Ophthalmology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-84.55383,30.901285,-84.55383,30.901285],
+  "bbox": [
+    -84.55383,
+    30.901285,
+    -84.55383,
+    30.901285
+],
   "geometry": {"coordinates":[-84.55383,30.901285],"type":"Point"}
 }

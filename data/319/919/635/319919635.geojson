@@ -2,13 +2,14 @@
   "id": 319919635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.537973,30.878718,-84.537973,30.878718",
     "geom:latitude":30.878718,
     "geom:longitude":-84.537973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 College Rd",
     "sg:city":"Bainbridge",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":319919635,
-    "wof:lastmodified":1449024694,
+    "wof:lastmodified":1466461646,
     "wof:name":"Griffin Well Drilling LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "drilling"
     ]
 },
-  "bbox": [-84.537973,30.878718,-84.537973,30.878718],
-  "geometry": {"coordinates":[-84.537973,30.878718],"type":"Point"}
+  "bbox": [
+    -84.537973,
+    30.878718,
+    -84.537973,
+    30.878718
+],
+  "geometry": {"coordinates":[-84.53797299999999,30.878718],"type":"Point"}
 }

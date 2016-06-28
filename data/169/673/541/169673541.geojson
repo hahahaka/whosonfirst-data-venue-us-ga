@@ -2,13 +2,14 @@
   "id": 169673541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.07248,33.099966,-85.07248,33.099966",
     "geom:latitude":33.099966,
     "geom:longitude":-85.07248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Sturbridge Dr",
     "sg:city":"La Grange",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169673541,
-    "wof:lastmodified":1449033957,
+    "wof:lastmodified":1466461295,
     "wof:name":"Network Technical Services",
     "wof:parent_id":85845165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.07248,33.099966,-85.07248,33.099966],
+  "bbox": [
+    -85.07248,
+    33.099966,
+    -85.07248,
+    33.099966
+],
   "geometry": {"coordinates":[-85.07248,33.099966],"type":"Point"}
 }

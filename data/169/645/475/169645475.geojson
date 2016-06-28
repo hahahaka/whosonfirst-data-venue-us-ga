@@ -2,13 +2,14 @@
   "id": 169645475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.706285,34.020755,-83.706285,34.020755",
     "geom:latitude":34.020755,
     "geom:longitude":-83.706285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Cedar Bluff",
     "sg:city":"Winder",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169645475,
-    "wof:lastmodified":1449033004,
+    "wof:lastmodified":1466461260,
     "wof:name":"Universal Information Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-83.706285,34.020755,-83.706285,34.020755],
-  "geometry": {"coordinates":[-83.706285,34.020755],"type":"Point"}
+  "bbox": [
+    -83.706285,
+    34.020755,
+    -83.706285,
+    34.020755
+],
+  "geometry": {"coordinates":[-83.70628499999999,34.020755],"type":"Point"}
 }

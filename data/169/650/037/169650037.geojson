@@ -2,13 +2,14 @@
   "id": 169650037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.174099,31.608805,-84.174099,31.608805",
     "geom:latitude":31.608805,
     "geom:longitude":-84.174099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2216 Palmyra Rd",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169650037,
-    "wof:lastmodified":1449034702,
+    "wof:lastmodified":1466461265,
     "wof:name":"Southern Catering",
     "wof:parent_id":85857405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-84.174099,31.608805,-84.174099,31.608805],
+  "bbox": [
+    -84.174099,
+    31.608805,
+    -84.174099,
+    31.608805
+],
   "geometry": {"coordinates":[-84.174099,31.608805],"type":"Point"}
 }

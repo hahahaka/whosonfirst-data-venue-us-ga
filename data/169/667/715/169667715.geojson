@@ -2,13 +2,14 @@
   "id": 169667715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.105908,31.639191,-84.105908,31.639191",
     "geom:latitude":31.639191,
     "geom:longitude":-84.105908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1624 Philema Rd",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169667715,
-    "wof:lastmodified":1449034845,
+    "wof:lastmodified":1466461288,
     "wof:name":"Leesburg Air Conditioning Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-84.105908,31.639191,-84.105908,31.639191],
+  "bbox": [
+    -84.105908,
+    31.639191,
+    -84.105908,
+    31.639191
+],
   "geometry": {"coordinates":[-84.105908,31.639191],"type":"Point"}
 }

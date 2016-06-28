@@ -2,13 +2,14 @@
   "id": 169602155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.008361,33.610857,-85.008361,33.610857",
     "geom:latitude":33.610857,
     "geom:longitude":-85.008361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2152 Bankhead Hwy",
     "sg:city":"Carrollton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169602155,
-    "wof:lastmodified":1449034229,
+    "wof:lastmodified":1466461197,
     "wof:name":"Auto Truck Image",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cap"
     ]
 },
-  "bbox": [-85.008361,33.610857,-85.008361,33.610857],
-  "geometry": {"coordinates":[-85.008361,33.610857],"type":"Point"}
+  "bbox": [
+    -85.008361,
+    33.610857,
+    -85.008361,
+    33.610857
+],
+  "geometry": {"coordinates":[-85.00836099999999,33.610857],"type":"Point"}
 }

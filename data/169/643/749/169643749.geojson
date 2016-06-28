@@ -2,13 +2,14 @@
   "id": 169643749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.711097,34.004208,-83.711097,34.004208",
     "geom:latitude":34.004208,
     "geom:longitude":-83.711097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Buena Vista St",
     "sg:city":"Winder",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169643749,
-    "wof:lastmodified":1449035522,
+    "wof:lastmodified":1466461263,
     "wof:name":"Aarco Business Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "repair"
     ]
 },
-  "bbox": [-83.711097,34.004208,-83.711097,34.004208],
+  "bbox": [
+    -83.711097,
+    34.004208,
+    -83.711097,
+    34.004208
+],
   "geometry": {"coordinates":[-83.711097,34.004208],"type":"Point"}
 }

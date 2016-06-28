@@ -2,13 +2,14 @@
   "id": 169626967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.110399,33.954012,-84.110399,33.954012",
     "geom:latitude":33.954012,
     "geom:longitude":-84.110399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1680 Executive Dr S",
     "sg:city":"Duluth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169626967,
-    "wof:lastmodified":1449035972,
+    "wof:lastmodified":1466461244,
     "wof:name":"AMI Equipment Div",
     "wof:parent_id":85810283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [-84.110399,33.954012,-84.110399,33.954012],
+  "bbox": [
+    -84.110399,
+    33.954012,
+    -84.110399,
+    33.954012
+],
   "geometry": {"coordinates":[-84.110399,33.954012],"type":"Point"}
 }

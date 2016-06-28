@@ -2,13 +2,14 @@
   "id": 169587197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.928904,34.080234,-83.928904,34.080234",
     "geom:latitude":34.080234,
     "geom:longitude":-83.928904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3304 Saddlegate Ct",
     "sg:city":"Buford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169587197,
-    "wof:lastmodified":1449033822,
+    "wof:lastmodified":1466461297,
     "wof:name":"Whitford Properties Inc",
     "wof:parent_id":85858547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "family"
     ]
 },
-  "bbox": [-83.928904,34.080234,-83.928904,34.080234],
+  "bbox": [
+    -83.928904,
+    34.080234,
+    -83.928904,
+    34.080234
+],
   "geometry": {"coordinates":[-83.928904,34.080234],"type":"Point"}
 }

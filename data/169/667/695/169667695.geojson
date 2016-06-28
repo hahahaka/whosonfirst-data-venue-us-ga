@@ -2,13 +2,14 @@
   "id": 169667695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.391334,32.205878,-82.391334,32.205878",
     "geom:latitude":32.205878,
     "geom:longitude":-82.391334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1802 Teston Ln",
     "sg:city":"Vidalia",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169667695,
-    "wof:lastmodified":1449034845,
+    "wof:lastmodified":1466461288,
     "wof:name":"Convenience House Portable",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "toilet"
     ]
 },
-  "bbox": [-82.391334,32.205878,-82.391334,32.205878],
+  "bbox": [
+    -82.391334,
+    32.205878,
+    -82.391334,
+    32.205878
+],
   "geometry": {"coordinates":[-82.391334,32.205878],"type":"Point"}
 }

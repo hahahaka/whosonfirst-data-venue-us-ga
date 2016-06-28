@@ -2,13 +2,14 @@
   "id": 169612523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.503948,31.462647,-83.503948,31.462647",
     "geom:latitude":31.462647,
     "geom:longitude":-83.503948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 Tift Ave N",
     "sg:city":"Tifton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169612523,
-    "wof:lastmodified":1449034130,
+    "wof:lastmodified":1466461218,
     "wof:name":"Rigdon & Cross",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-83.503948,31.462647,-83.503948,31.462647],
-  "geometry": {"coordinates":[-83.503948,31.462647],"type":"Point"}
+  "bbox": [
+    -83.503948,
+    31.462647,
+    -83.503948,
+    31.462647
+],
+  "geometry": {"coordinates":[-83.50394799999999,31.462647],"type":"Point"}
 }

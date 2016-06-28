@@ -2,13 +2,14 @@
   "id": 169670495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.943933,33.593906,-83.943933,33.593906",
     "geom:latitude":33.593906,
     "geom:longitude":-83.943933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1060 Kirkland Rd",
     "sg:city":"Covington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169670495,
-    "wof:lastmodified":1449033185,
+    "wof:lastmodified":1466461291,
     "wof:name":"Dale's Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-83.943933,33.593906,-83.943933,33.593906],
+  "bbox": [
+    -83.943933,
+    33.593906,
+    -83.943933,
+    33.593906
+],
   "geometry": {"coordinates":[-83.943933,33.593906],"type":"Point"}
 }

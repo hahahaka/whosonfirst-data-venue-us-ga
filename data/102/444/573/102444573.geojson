@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102444573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.007964,32.453515,-85.007964,32.453515",
     "geom:latitude":32.453515,
     "geom:longitude":-85.007964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1019 Knowles Rd",
     "sg:city":"Phenix City",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882109,
+        85688535,
         85633793,
         85936243,
         102084429,
-        85688535
+        85882109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":102444573,
-    "wof:lastmodified":1449069844,
+    "wof:lastmodified":1466461193,
     "wof:name":"Riley Heating & Air Cond",
     "wof:parent_id":85882109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.007964,32.453515,-85.007964,32.453515],
+  "bbox": [
+    -85.007964,
+    32.453515,
+    -85.007964,
+    32.453515
+],
   "geometry": {"coordinates":[-85.007964,32.453515],"type":"Point"}
 }

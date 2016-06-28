@@ -2,13 +2,14 @@
   "id": 169604895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.623498,33.877157,-84.623498,33.877157",
     "geom:latitude":33.877157,
     "geom:longitude":-84.623498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2945 Horseshoe Bend Rd SW",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169604895,
-    "wof:lastmodified":1449035570,
+    "wof:lastmodified":1466461204,
     "wof:name":"Bill Fricks TV",
     "wof:parent_id":85839059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.623498,33.877157,-84.623498,33.877157],
+  "bbox": [
+    -84.623498,
+    33.877157,
+    -84.623498,
+    33.877157
+],
   "geometry": {"coordinates":[-84.623498,33.877157],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169602895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.540441,33.971694,-84.540441,33.971694",
     "geom:latitude":33.971694,
     "geom:longitude":-84.540441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"869 Industrial Park Dr",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169602895,
-    "wof:lastmodified":1449034228,
+    "wof:lastmodified":1466461202,
     "wof:name":"US Painted Spandrels",
     "wof:parent_id":85817769,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [-84.540441,33.971694,-84.540441,33.971694],
+  "bbox": [
+    -84.540441,
+    33.971694,
+    -84.540441,
+    33.971694
+],
   "geometry": {"coordinates":[-84.540441,33.971694],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169588315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.323426,32.10758,-81.323426,32.10758",
     "geom:latitude":32.10758,
     "geom:longitude":-81.323426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1519 Bloomingdale Rd",
     "sg:city":"Bloomingdale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169588315,
-    "wof:lastmodified":1449035309,
+    "wof:lastmodified":1466461299,
     "wof:name":"Shekina Tile Works Et Al",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-81.323426,32.10758,-81.323426,32.10758],
+  "bbox": [
+    -81.323426,
+    32.10758,
+    -81.323426,
+    32.10758
+],
   "geometry": {"coordinates":[-81.323426,32.10758],"type":"Point"}
 }

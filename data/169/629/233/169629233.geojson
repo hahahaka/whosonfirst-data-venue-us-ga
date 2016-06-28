@@ -2,13 +2,14 @@
   "id": 169629233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.147562,33.482766,-82.147562,33.482766",
     "geom:latitude":33.482766,
     "geom:longitude":-82.147562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4520 Harrowgate Dr",
     "sg:city":"Grovetown",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169629233,
-    "wof:lastmodified":1449035186,
+    "wof:lastmodified":1466461240,
     "wof:name":"Agape Zone Services",
     "wof:parent_id":85868555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.147562,33.482766,-82.147562,33.482766],
-  "geometry": {"coordinates":[-82.147562,33.482766],"type":"Point"}
+  "bbox": [
+    -82.147562,
+    33.482766,
+    -82.147562,
+    33.482766
+],
+  "geometry": {"coordinates":[-82.14756199999999,33.482766],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354224941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.024251,33.596591,-82.024251,33.596591",
     "geom:latitude":33.596591,
     "geom:longitude":-82.024251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 Stevens Creek Dr",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354224941,
-    "wof:lastmodified":1449067206,
+    "wof:lastmodified":1466461210,
     "wof:name":"Memory Makers",
     "wof:parent_id":85876035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-82.024251,33.596591,-82.024251,33.596591],
-  "geometry": {"coordinates":[-82.024251,33.596591],"type":"Point"}
+  "bbox": [
+    -82.024251,
+    33.596591,
+    -82.024251,
+    33.596591
+],
+  "geometry": {"coordinates":[-82.02425100000001,33.596591],"type":"Point"}
 }

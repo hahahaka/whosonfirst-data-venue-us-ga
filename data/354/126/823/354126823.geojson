@@ -2,13 +2,14 @@
   "id": 354126823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.938519,33.619765,-81.938519,33.619765",
     "geom:latitude":33.619765,
     "geom:longitude":-81.938519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Clay Ct",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354126823,
-    "wof:lastmodified":1449066545,
+    "wof:lastmodified":1466461204,
     "wof:name":"Kristy's Cleaning",
     "wof:parent_id":85876035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-81.938519,33.619765,-81.938519,33.619765],
+  "bbox": [
+    -81.938519,
+    33.619765,
+    -81.938519,
+    33.619765
+],
   "geometry": {"coordinates":[-81.938519,33.619765],"type":"Point"}
 }

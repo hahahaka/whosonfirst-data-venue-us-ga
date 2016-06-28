@@ -2,13 +2,14 @@
   "id": 169657395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.974769,34.950887,-84.974769,34.950887",
     "geom:latitude":34.950887,
     "geom:longitude":-84.974769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5065 Standifer Rd",
     "sg:city":"Cohutta",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169657395,
-    "wof:lastmodified":1449033052,
+    "wof:lastmodified":1466461277,
     "wof:name":"Rhonda J Howell",
     "wof:parent_id":85809263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.974769,34.950887,-84.974769,34.950887],
-  "geometry": {"coordinates":[-84.974769,34.950887],"type":"Point"}
+  "bbox": [
+    -84.974769,
+    34.950887,
+    -84.974769,
+    34.950887
+],
+  "geometry": {"coordinates":[-84.97476899999999,34.950887],"type":"Point"}
 }

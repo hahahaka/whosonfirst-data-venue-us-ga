@@ -2,13 +2,14 @@
   "id": 169627547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.979892,34.534045,-83.979892,34.534045",
     "geom:latitude":34.534045,
     "geom:longitude":-83.979892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"270 E Main St",
     "sg:city":"Dahlonega",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169627547,
-    "wof:lastmodified":1449036038,
+    "wof:lastmodified":1466461238,
     "wof:name":"Leonard's House Of Flowers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.979892,34.534045,-83.979892,34.534045],
-  "geometry": {"coordinates":[-83.979892,34.534045],"type":"Point"}
+  "bbox": [
+    -83.979892,
+    34.534045,
+    -83.979892,
+    34.534045
+],
+  "geometry": {"coordinates":[-83.97989200000001,34.534045],"type":"Point"}
 }

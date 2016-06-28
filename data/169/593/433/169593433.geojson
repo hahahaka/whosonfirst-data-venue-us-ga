@@ -2,13 +2,14 @@
   "id": 169593433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.381326,33.96821,-83.381326,33.96821",
     "geom:latitude":33.96821,
     "geom:longitude":-83.381326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"716 Pulaski St",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169593433,
-    "wof:lastmodified":1449034873,
+    "wof:lastmodified":1466461308,
     "wof:name":"Athens Foreign Car Parts",
     "wof:parent_id":85807659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-83.381326,33.96821,-83.381326,33.96821],
+  "bbox": [
+    -83.381326,
+    33.96821,
+    -83.381326,
+    33.96821
+],
   "geometry": {"coordinates":[-83.381326,33.96821],"type":"Point"}
 }

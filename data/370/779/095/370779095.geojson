@@ -2,13 +2,14 @@
   "id": 370779095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.816211,33.340261,-81.816211,33.340261",
     "geom:latitude":33.340261,
     "geom:longitude":-81.816211,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1578 Old Jackson Hwy",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370779095,
-    "wof:lastmodified":1449029608,
+    "wof:lastmodified":1466461247,
     "wof:name":"St Catherine CME Church",
     "wof:parent_id":85876041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-81.816211,33.340261,-81.816211,33.340261],
+  "bbox": [
+    -81.816211,
+    33.340261,
+    -81.816211,
+    33.340261
+],
   "geometry": {"coordinates":[-81.816211,33.340261],"type":"Point"}
 }

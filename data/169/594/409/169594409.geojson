@@ -2,13 +2,14 @@
   "id": 169594409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.436225,33.747507,-84.436225,33.747507",
     "geom:latitude":33.747507,
     "geom:longitude":-84.436225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1463 Westview Dr SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169594409,
-    "wof:lastmodified":1449033164,
+    "wof:lastmodified":1466461310,
     "wof:name":"Dejees Cleaning Svc",
     "wof:parent_id":85855423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-84.436225,33.747507,-84.436225,33.747507],
-  "geometry": {"coordinates":[-84.436225,33.747507],"type":"Point"}
+  "bbox": [
+    -84.436225,
+    33.747507,
+    -84.436225,
+    33.747507
+],
+  "geometry": {"coordinates":[-84.43622499999999,33.747507],"type":"Point"}
 }

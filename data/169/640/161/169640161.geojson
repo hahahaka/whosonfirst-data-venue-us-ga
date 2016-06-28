@@ -2,13 +2,14 @@
   "id": 169640161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.220641,33.626294,-84.220641,33.626294",
     "geom:latitude":33.626294,
     "geom:longitude":-84.220641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"326 Acaro Ct",
     "sg:city":"Ellenwood",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169640161,
-    "wof:lastmodified":1449034103,
+    "wof:lastmodified":1466461252,
     "wof:name":"RR & A Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-84.220641,33.626294,-84.220641,33.626294],
+  "bbox": [
+    -84.220641,
+    33.626294,
+    -84.220641,
+    33.626294
+],
   "geometry": {"coordinates":[-84.220641,33.626294],"type":"Point"}
 }

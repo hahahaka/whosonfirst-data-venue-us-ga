@@ -2,13 +2,14 @@
   "id": 169593189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.248565,33.854237,-84.248565,33.854237",
     "geom:latitude":33.854237,
     "geom:longitude":-84.248565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2295 Parklake Dr NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169593189,
-    "wof:lastmodified":1449034877,
+    "wof:lastmodified":1466461308,
     "wof:name":"Davita",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "center"
     ]
 },
-  "bbox": [-84.248565,33.854237,-84.248565,33.854237],
+  "bbox": [
+    -84.248565,
+    33.854237,
+    -84.248565,
+    33.854237
+],
   "geometry": {"coordinates":[-84.248565,33.854237],"type":"Point"}
 }

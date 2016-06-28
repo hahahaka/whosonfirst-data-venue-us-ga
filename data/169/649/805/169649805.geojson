@@ -2,13 +2,14 @@
   "id": 169649805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.107721,32.011197,-81.107721,32.011197",
     "geom:latitude":32.011197,
     "geom:longitude":-81.107721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Benfield Dr",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169649805,
-    "wof:lastmodified":1449034942,
+    "wof:lastmodified":1466461271,
     "wof:name":"United Adjustment Agency",
     "wof:parent_id":85838901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-81.107721,32.011197,-81.107721,32.011197],
+  "bbox": [
+    -81.107721,
+    32.011197,
+    -81.107721,
+    32.011197
+],
   "geometry": {"coordinates":[-81.107721,32.011197],"type":"Point"}
 }

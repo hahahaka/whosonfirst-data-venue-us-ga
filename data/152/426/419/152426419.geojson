@@ -2,13 +2,14 @@
   "id": 152426419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.468445,34.536761,-85.468445,34.536761",
     "geom:latitude":34.536761,
     "geom:longitude":-85.468445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Camp Juliette Low Rd",
     "sg:city":"Menlo",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152426419,
-    "wof:lastmodified":1449045290,
+    "wof:lastmodified":1466461194,
     "wof:name":"Camp Juliette Low",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.468445,34.536761,-85.468445,34.536761],
+  "bbox": [
+    -85.468445,
+    34.536761,
+    -85.468445,
+    34.536761
+],
   "geometry": {"coordinates":[-85.468445,34.536761],"type":"Point"}
 }

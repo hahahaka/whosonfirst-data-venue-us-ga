@@ -2,13 +2,14 @@
   "id": 169598345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.869531,34.105187,-82.869531,34.105187",
     "geom:latitude":34.105187,
     "geom:longitude":-82.869531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"195 S McIntosh St",
     "sg:city":"Elberton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169598345,
-    "wof:lastmodified":1449032860,
+    "wof:lastmodified":1466461318,
     "wof:name":"Chris Carpet Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.869531,34.105187,-82.869531,34.105187],
-  "geometry": {"coordinates":[-82.869531,34.105187],"type":"Point"}
+  "bbox": [
+    -82.869531,
+    34.105187,
+    -82.869531,
+    34.105187
+],
+  "geometry": {"coordinates":[-82.86953099999999,34.105187],"type":"Point"}
 }

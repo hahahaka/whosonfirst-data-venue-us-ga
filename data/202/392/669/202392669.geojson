@@ -2,13 +2,14 @@
   "id": 202392669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.568882,30.9002,-84.568882,30.9002",
     "geom:latitude":30.9002,
     "geom:longitude":-84.568882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"726 E Green St",
     "sg:city":"Bainbridge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202392669,
-    "wof:lastmodified":1449062157,
+    "wof:lastmodified":1466461300,
     "wof:name":"Bountiful Blessing Church-God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-84.568882,30.9002,-84.568882,30.9002],
+  "bbox": [
+    -84.568882,
+    30.9002,
+    -84.568882,
+    30.9002
+],
   "geometry": {"coordinates":[-84.568882,30.9002],"type":"Point"}
 }

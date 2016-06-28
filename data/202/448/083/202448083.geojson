@@ -2,13 +2,14 @@
   "id": 202448083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.569891,30.904072,-84.569891,30.904072",
     "geom:latitude":30.904072,
     "geom:longitude":-84.569891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 E Shotwell St",
     "sg:city":"Bainbridge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202448083,
-    "wof:lastmodified":1449062526,
+    "wof:lastmodified":1466461302,
     "wof:name":"David N Beauchamp DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-84.569891,30.904072,-84.569891,30.904072],
+  "bbox": [
+    -84.569891,
+    30.904072,
+    -84.569891,
+    30.904072
+],
   "geometry": {"coordinates":[-84.569891,30.904072],"type":"Point"}
 }

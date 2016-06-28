@@ -2,13 +2,14 @@
   "id": 169670073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.006506,34.731615,-85.006506,34.731615",
     "geom:latitude":34.731615,
     "geom:longitude":-85.006506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1925 Sourwood Dr",
     "sg:city":"Dalton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169670073,
-    "wof:lastmodified":1449033185,
+    "wof:lastmodified":1466461288,
     "wof:name":"Pursuing Grace & Truth Mnstrs",
     "wof:parent_id":85809263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-85.006506,34.731615,-85.006506,34.731615],
+  "bbox": [
+    -85.006506,
+    34.731615,
+    -85.006506,
+    34.731615
+],
   "geometry": {"coordinates":[-85.006506,34.731615],"type":"Point"}
 }

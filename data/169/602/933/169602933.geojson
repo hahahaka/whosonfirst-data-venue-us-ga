@@ -2,13 +2,14 @@
   "id": 169602933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.730385,34.302825,-84.730385,34.302825",
     "geom:latitude":34.302825,
     "geom:longitude":-84.730385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3794 Hwy 411 NE",
     "sg:city":"Rydal",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":169602933,
-    "wof:lastmodified":1449034227,
+    "wof:lastmodified":1466461204,
     "wof:name":"Kennesaw Transportation Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-84.730385,34.302825,-84.730385,34.302825],
+  "bbox": [
+    -84.730385,
+    34.302825,
+    -84.730385,
+    34.302825
+],
   "geometry": {"coordinates":[-84.730385,34.302825],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169634445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.268149,33.690771,-84.268149,33.690771",
     "geom:latitude":33.690771,
     "geom:longitude":-84.268149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3195 N Lanier Pkwy",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169634445,
-    "wof:lastmodified":1449034256,
+    "wof:lastmodified":1466461246,
     "wof:name":"Ups Logistics Groups",
     "wof:parent_id":85816491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-84.268149,33.690771,-84.268149,33.690771],
-  "geometry": {"coordinates":[-84.268149,33.690771],"type":"Point"}
+  "bbox": [
+    -84.268149,
+    33.690771,
+    -84.268149,
+    33.690771
+],
+  "geometry": {"coordinates":[-84.26814899999999,33.690771],"type":"Point"}
 }

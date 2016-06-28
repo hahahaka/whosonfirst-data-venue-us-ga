@@ -2,13 +2,14 @@
   "id": 169601187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.045069,32.064956,-81.045069,32.064956",
     "geom:latitude":32.064956,
     "geom:longitude":-81.045069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"328 Riverview Dr",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169601187,
-    "wof:lastmodified":1449034147,
+    "wof:lastmodified":1466461197,
     "wof:name":"R & R Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "care"
     ]
 },
-  "bbox": [-81.045069,32.064956,-81.045069,32.064956],
+  "bbox": [
+    -81.045069,
+    32.064956,
+    -81.045069,
+    32.064956
+],
   "geometry": {"coordinates":[-81.045069,32.064956],"type":"Point"}
 }

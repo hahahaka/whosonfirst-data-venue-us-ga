@@ -2,13 +2,14 @@
   "id": 169639295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.441942,34.025096,-84.441942,34.025096",
     "geom:latitude":34.025096,
     "geom:longitude":-84.441942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 Cherbourg Way",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169639295,
-    "wof:lastmodified":1449035951,
+    "wof:lastmodified":1466461251,
     "wof:name":"Celebrations By Susan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.441942,34.025096,-84.441942,34.025096],
+  "bbox": [
+    -84.441942,
+    34.025096,
+    -84.441942,
+    34.025096
+],
   "geometry": {"coordinates":[-84.441942,34.025096],"type":"Point"}
 }

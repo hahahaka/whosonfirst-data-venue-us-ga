@@ -2,13 +2,14 @@
   "id": 353631473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.131445,33.685435,-82.131445,33.685435",
     "geom:latitude":33.685435,
     "geom:longitude":-82.131445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"727 Garrett Rd",
     "sg:city":"Clarks Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353631473,
-    "wof:lastmodified":1449019049,
+    "wof:lastmodified":1466461669,
     "wof:name":"C & D Acoustics",
     "wof:parent_id":85876035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-82.131445,33.685435,-82.131445,33.685435],
+  "bbox": [
+    -82.131445,
+    33.685435,
+    -82.131445,
+    33.685435
+],
   "geometry": {"coordinates":[-82.131445,33.685435],"type":"Point"}
 }

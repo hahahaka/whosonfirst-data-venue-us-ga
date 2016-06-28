@@ -2,13 +2,14 @@
   "id": 169617611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.180874,33.77415,-84.180874,33.77415",
     "geom:latitude":33.77415,
     "geom:longitude":-84.180874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"822 Martin Rd",
     "sg:city":"Stone Mountain",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169617611,
-    "wof:lastmodified":1449032802,
+    "wof:lastmodified":1466461230,
     "wof:name":"Midtown Restaurant Services LL",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-84.180874,33.77415,-84.180874,33.77415],
+  "bbox": [
+    -84.180874,
+    33.77415,
+    -84.180874,
+    33.77415
+],
   "geometry": {"coordinates":[-84.180874,33.77415],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169671799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.130641,33.837667,-84.130641,33.837667",
     "geom:latitude":33.837667,
     "geom:longitude":-84.130641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1362 Pine Cir",
     "sg:city":"Stone Mountain",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169671799,
-    "wof:lastmodified":1449033454,
+    "wof:lastmodified":1466461292,
     "wof:name":"Habitat For Humanity Inte",
     "wof:parent_id":85803655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "social"
     ]
 },
-  "bbox": [-84.130641,33.837667,-84.130641,33.837667],
+  "bbox": [
+    -84.130641,
+    33.837667,
+    -84.130641,
+    33.837667
+],
   "geometry": {"coordinates":[-84.130641,33.837667],"type":"Point"}
 }

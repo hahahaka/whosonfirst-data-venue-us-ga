@@ -2,13 +2,14 @@
   "id": 169624577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.86768,33.580415,-84.86768,33.580415",
     "geom:latitude":33.580415,
     "geom:longitude":-84.86768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8911 Edinburgh Dr",
     "sg:city":"Winston",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169624577,
-    "wof:lastmodified":1449034960,
+    "wof:lastmodified":1466461237,
     "wof:name":"H & A Pools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "swimming"
     ]
 },
-  "bbox": [-84.86768,33.580415,-84.86768,33.580415],
-  "geometry": {"coordinates":[-84.86768,33.580415],"type":"Point"}
+  "bbox": [
+    -84.86768,
+    33.580415,
+    -84.86768,
+    33.580415
+],
+  "geometry": {"coordinates":[-84.86767999999999,33.580415],"type":"Point"}
 }

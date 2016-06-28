@@ -2,13 +2,14 @@
   "id": 169645769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.365276,33.954425,-84.365276,33.954425",
     "geom:latitude":33.954425,
     "geom:longitude":-84.365276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7318 Roswell Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169645769,
-    "wof:lastmodified":1449033004,
+    "wof:lastmodified":1466461263,
     "wof:name":"Cason Inc",
     "wof:parent_id":85889995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-84.365276,33.954425,-84.365276,33.954425],
-  "geometry": {"coordinates":[-84.365276,33.954425],"type":"Point"}
+  "bbox": [
+    -84.365276,
+    33.954425,
+    -84.365276,
+    33.954425
+],
+  "geometry": {"coordinates":[-84.36527599999999,33.954425],"type":"Point"}
 }

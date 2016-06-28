@@ -2,13 +2,14 @@
   "id": 169625859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.467679,33.834951,-84.467679,33.834951",
     "geom:latitude":33.834951,
     "geom:longitude":-84.467679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2907 Log Cabin Dr SE",
     "sg:city":"Smyrna",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169625859,
-    "wof:lastmodified":1449036025,
+    "wof:lastmodified":1466461241,
     "wof:name":"Millennium Stone-NEWWAY USA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "marble"
     ]
 },
-  "bbox": [-84.467679,33.834951,-84.467679,33.834951],
+  "bbox": [
+    -84.467679,
+    33.834951,
+    -84.467679,
+    33.834951
+],
   "geometry": {"coordinates":[-84.467679,33.834951],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169664035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.24948,33.109649,-83.24948,33.109649",
     "geom:latitude":33.109649,
     "geom:longitude":-83.24948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2361 Reeves Cir",
     "sg:city":"Milledgeville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169664035,
-    "wof:lastmodified":1449033913,
+    "wof:lastmodified":1466461280,
     "wof:name":"Hurts Logistic Corporation",
     "wof:parent_id":85806411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-83.24948,33.109649,-83.24948,33.109649],
-  "geometry": {"coordinates":[-83.24948,33.109649],"type":"Point"}
+  "bbox": [
+    -83.24948,
+    33.109649,
+    -83.24948,
+    33.109649
+],
+  "geometry": {"coordinates":[-83.24948000000001,33.109649],"type":"Point"}
 }

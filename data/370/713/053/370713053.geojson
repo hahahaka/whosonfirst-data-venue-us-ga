@@ -2,13 +2,14 @@
   "id": 370713053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.938275,33.606864,-81.938275,33.606864",
     "geom:latitude":33.606864,
     "geom:longitude":-81.938275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Eagle Rd",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370713053,
-    "wof:lastmodified":1449032159,
+    "wof:lastmodified":1466461241,
     "wof:name":"Young's Cleaning",
     "wof:parent_id":85876035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-81.938275,33.606864,-81.938275,33.606864],
+  "bbox": [
+    -81.938275,
+    33.606864,
+    -81.938275,
+    33.606864
+],
   "geometry": {"coordinates":[-81.938275,33.606864],"type":"Point"}
 }

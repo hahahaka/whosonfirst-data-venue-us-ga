@@ -2,13 +2,14 @@
   "id": 169586995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.231919,33.983181,-84.231919,33.983181",
     "geom:latitude":33.983181,
     "geom:longitude":-84.231919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5573 Brinson Way",
     "sg:city":"Norcross",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169586995,
-    "wof:lastmodified":1449035576,
+    "wof:lastmodified":1466461194,
     "wof:name":"Garden Helpers",
     "wof:parent_id":85826369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-84.231919,33.983181,-84.231919,33.983181],
+  "bbox": [
+    -84.231919,
+    33.983181,
+    -84.231919,
+    33.983181
+],
   "geometry": {"coordinates":[-84.231919,33.983181],"type":"Point"}
 }

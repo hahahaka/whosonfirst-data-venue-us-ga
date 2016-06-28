@@ -2,13 +2,14 @@
   "id": 169635287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.70152,32.245225,-81.70152,32.245225",
     "geom:latitude":32.245225,
     "geom:longitude":-81.70152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Paul Smith Rd",
     "sg:city":"Brooklet",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169635287,
-    "wof:lastmodified":1449034097,
+    "wof:lastmodified":1466461248,
     "wof:name":"Fred Smith & Sons Drywall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.70152,32.245225,-81.70152,32.245225],
+  "bbox": [
+    -81.70152,
+    32.245225,
+    -81.70152,
+    32.245225
+],
   "geometry": {"coordinates":[-81.70152,32.245225],"type":"Point"}
 }

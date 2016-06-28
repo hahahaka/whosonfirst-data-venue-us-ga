@@ -2,13 +2,14 @@
   "id": 169653625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.075835,33.468136,-82.075835,33.468136",
     "geom:latitude":33.468136,
     "geom:longitude":-82.075835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3412 Wrightsboro Rd",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":169653625,
-    "wof:lastmodified":1449032919,
+    "wof:lastmodified":1466461271,
     "wof:name":"Neco Amrketing Co",
     "wof:parent_id":85819877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "care"
     ]
 },
-  "bbox": [-82.075835,33.468136,-82.075835,33.468136],
+  "bbox": [
+    -82.075835,
+    33.468136,
+    -82.075835,
+    33.468136
+],
   "geometry": {"coordinates":[-82.075835,33.468136],"type":"Point"}
 }

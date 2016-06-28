@@ -2,13 +2,14 @@
   "id": 169650651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.090055,33.562485,-85.090055,33.562485",
     "geom:latitude":33.562485,
     "geom:longitude":-85.090055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Old Mill Dr",
     "sg:city":"Carrollton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169650651,
-    "wof:lastmodified":1449034700,
+    "wof:lastmodified":1466461271,
     "wof:name":"B&P Enterprises LP",
     "wof:parent_id":85829651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.090055,33.562485,-85.090055,33.562485],
-  "geometry": {"coordinates":[-85.090055,33.562485],"type":"Point"}
+  "bbox": [
+    -85.090055,
+    33.562485,
+    -85.090055,
+    33.562485
+],
+  "geometry": {"coordinates":[-85.09005500000001,33.562485],"type":"Point"}
 }

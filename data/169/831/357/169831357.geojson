@@ -2,13 +2,14 @@
   "id": 169831357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.553639,30.903974,-84.553639,30.903974",
     "geom:latitude":30.903974,
     "geom:longitude":-84.553639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1503 E Shotwell St",
     "sg:city":"Bainbridge",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169831357,
-    "wof:lastmodified":1449034626,
+    "wof:lastmodified":1466461329,
     "wof:name":"Computer Connections Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-84.553639,30.903974,-84.553639,30.903974],
+  "bbox": [
+    -84.553639,
+    30.903974,
+    -84.553639,
+    30.903974
+],
   "geometry": {"coordinates":[-84.553639,30.903974],"type":"Point"}
 }

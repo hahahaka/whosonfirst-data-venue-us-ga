@@ -2,13 +2,14 @@
   "id": 169641233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.77217,33.560012,-83.77217,33.560012",
     "geom:latitude":33.560012,
     "geom:longitude":-83.77217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Adams Rd",
     "sg:city":"Covington",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169641233,
-    "wof:lastmodified":1449035171,
+    "wof:lastmodified":1466461256,
     "wof:name":"Walk Walk Min",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-83.77217,33.560012,-83.77217,33.560012],
+  "bbox": [
+    -83.77217,
+    33.560012,
+    -83.77217,
+    33.560012
+],
   "geometry": {"coordinates":[-83.77217,33.560012],"type":"Point"}
 }

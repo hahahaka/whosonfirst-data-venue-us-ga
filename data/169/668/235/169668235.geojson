@@ -2,13 +2,14 @@
   "id": 169668235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.374196,33.848513,-84.374196,33.848513",
     "geom:latitude":33.848513,
     "geom:longitude":-84.374196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3312 Piedmont Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169668235,
-    "wof:lastmodified":1449034989,
+    "wof:lastmodified":1466461286,
     "wof:name":"Staffing One Inc",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-84.374196,33.848513,-84.374196,33.848513],
+  "bbox": [
+    -84.374196,
+    33.848513,
+    -84.374196,
+    33.848513
+],
   "geometry": {"coordinates":[-84.374196,33.848513],"type":"Point"}
 }

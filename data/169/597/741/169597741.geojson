@@ -2,13 +2,14 @@
   "id": 169597741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.164984,34.168546,-84.164984,34.168546",
     "geom:latitude":34.168546,
     "geom:longitude":-84.164984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1712 Atlanta Hwy",
     "sg:city":"Cumming",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169597741,
-    "wof:lastmodified":1449035920,
+    "wof:lastmodified":1466461317,
     "wof:name":"B & L Automotive",
     "wof:parent_id":85842073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-84.164984,34.168546,-84.164984,34.168546],
+  "bbox": [
+    -84.164984,
+    34.168546,
+    -84.164984,
+    34.168546
+],
   "geometry": {"coordinates":[-84.164984,34.168546],"type":"Point"}
 }

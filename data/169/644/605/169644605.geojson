@@ -2,13 +2,14 @@
   "id": 169644605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.361438,33.934653,-84.361438,33.934653",
     "geom:latitude":33.934653,
     "geom:longitude":-84.361438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Glenlake Pkwy NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":169644605,
-    "wof:lastmodified":1449034577,
+    "wof:lastmodified":1466461262,
     "wof:name":"Staffing Perfection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "consultant"
     ]
 },
-  "bbox": [-84.361438,33.934653,-84.361438,33.934653],
-  "geometry": {"coordinates":[-84.361438,33.934653],"type":"Point"}
+  "bbox": [
+    -84.361438,
+    33.934653,
+    -84.361438,
+    33.934653
+],
+  "geometry": {"coordinates":[-84.36143800000001,33.934653],"type":"Point"}
 }

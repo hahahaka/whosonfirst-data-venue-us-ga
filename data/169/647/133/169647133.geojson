@@ -2,13 +2,14 @@
   "id": 169647133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.210957,33.966518,-85.210957,33.966518",
     "geom:latitude":33.966518,
     "geom:longitude":-85.210957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2914 Lees Chapel Rd",
     "sg:city":"Cedartown",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169647133,
-    "wof:lastmodified":1449034242,
+    "wof:lastmodified":1466461261,
     "wof:name":"J C Robinson Rev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.210957,33.966518,-85.210957,33.966518],
-  "geometry": {"coordinates":[-85.210957,33.966518],"type":"Point"}
+  "bbox": [
+    -85.210957,
+    33.966518,
+    -85.210957,
+    33.966518
+],
+  "geometry": {"coordinates":[-85.21095699999999,33.966518],"type":"Point"}
 }

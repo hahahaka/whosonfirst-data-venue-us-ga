@@ -2,13 +2,14 @@
   "id": 169590279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.366902,33.806267,-84.366902,33.806267",
     "geom:latitude":33.806267,
     "geom:longitude":-84.366902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1874 Piedmont Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":169590279,
-    "wof:lastmodified":1449034653,
+    "wof:lastmodified":1466461303,
     "wof:name":"Tk Accounting & Tax Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "return"
     ]
 },
-  "bbox": [-84.366902,33.806267,-84.366902,33.806267],
+  "bbox": [
+    -84.366902,
+    33.806267,
+    -84.366902,
+    33.806267
+],
   "geometry": {"coordinates":[-84.366902,33.806267],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286729543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.547055,30.897333,-84.547055,30.897333",
     "geom:latitude":30.897333,
     "geom:longitude":-84.547055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 Dogwood Dr",
     "sg:city":"Bainbridge",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286729543,
-    "wof:lastmodified":1449016674,
+    "wof:lastmodified":1466461646,
     "wof:name":"Homer H Harrell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.547055,30.897333,-84.547055,30.897333],
+  "bbox": [
+    -84.547055,
+    30.897333,
+    -84.547055,
+    30.897333
+],
   "geometry": {"coordinates":[-84.547055,30.897333],"type":"Point"}
 }

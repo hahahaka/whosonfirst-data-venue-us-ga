@@ -2,13 +2,14 @@
   "id": 169669757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.225748,33.076726,-83.225748,33.076726",
     "geom:latitude":33.076726,
     "geom:longitude":-83.225748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 S Wayne St",
     "sg:city":"Milledgeville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169669757,
-    "wof:lastmodified":1449033059,
+    "wof:lastmodified":1466461288,
     "wof:name":"Deep South Realty",
     "wof:parent_id":85802835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.225748,33.076726,-83.225748,33.076726],
+  "bbox": [
+    -83.225748,
+    33.076726,
+    -83.225748,
+    33.076726
+],
   "geometry": {"coordinates":[-83.225748,33.076726],"type":"Point"}
 }

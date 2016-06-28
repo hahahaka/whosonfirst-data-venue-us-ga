@@ -2,13 +2,14 @@
   "id": 169617539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.217677,33.967697,-84.217677,33.967697",
     "geom:latitude":33.967697,
     "geom:longitude":-84.217677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Technology Pkwy NW",
     "sg:city":"Norcross",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169617539,
-    "wof:lastmodified":1449032802,
+    "wof:lastmodified":1466461229,
     "wof:name":"Lone Star Steel Company",
     "wof:parent_id":85826369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-84.217677,33.967697,-84.217677,33.967697],
-  "geometry": {"coordinates":[-84.217677,33.967697],"type":"Point"}
+  "bbox": [
+    -84.217677,
+    33.967697,
+    -84.217677,
+    33.967697
+],
+  "geometry": {"coordinates":[-84.21767699999999,33.967697],"type":"Point"}
 }

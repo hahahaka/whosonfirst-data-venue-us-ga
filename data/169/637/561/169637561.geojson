@@ -2,13 +2,14 @@
   "id": 169637561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.402116,33.997429,-83.402116,33.997429",
     "geom:latitude":33.997429,
     "geom:longitude":-83.402116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Vincent Rd",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169637561,
-    "wof:lastmodified":1449032689,
+    "wof:lastmodified":1466461253,
     "wof:name":"Athens Youth Sports Complex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-83.402116,33.997429,-83.402116,33.997429],
-  "geometry": {"coordinates":[-83.402116,33.997429],"type":"Point"}
+  "bbox": [
+    -83.402116,
+    33.997429,
+    -83.402116,
+    33.997429
+],
+  "geometry": {"coordinates":[-83.40211600000001,33.997429],"type":"Point"}
 }

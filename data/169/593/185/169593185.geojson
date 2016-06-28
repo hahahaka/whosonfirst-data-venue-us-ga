@@ -2,13 +2,14 @@
   "id": 169593185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.066808,32.014399,-81.066808,32.014399",
     "geom:latitude":32.014399,
     "geom:longitude":-81.066808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5501 Jasmine Ave",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169593185,
-    "wof:lastmodified":1449034876,
+    "wof:lastmodified":1466461308,
     "wof:name":"Ocean Way Vinyl Siding Constr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.066808,32.014399,-81.066808,32.014399],
-  "geometry": {"coordinates":[-81.066808,32.014399],"type":"Point"}
+  "bbox": [
+    -81.066808,
+    32.014399,
+    -81.066808,
+    32.014399
+],
+  "geometry": {"coordinates":[-81.06680799999999,32.014399],"type":"Point"}
 }

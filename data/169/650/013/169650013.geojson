@@ -2,13 +2,14 @@
   "id": 169650013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.448348,34.056338,-84.448348,34.056338",
     "geom:latitude":34.056338,
     "geom:longitude":-84.448348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4187 Long Branch Dr",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169650013,
-    "wof:lastmodified":1449034702,
+    "wof:lastmodified":1466461324,
     "wof:name":"Conrad Career Connections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.448348,34.056338,-84.448348,34.056338],
+  "bbox": [
+    -84.448348,
+    34.056338,
+    -84.448348,
+    34.056338
+],
   "geometry": {"coordinates":[-84.448348,34.056338],"type":"Point"}
 }

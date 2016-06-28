@@ -2,13 +2,14 @@
   "id": 169598677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.262591,33.990431,-84.262591,33.990431",
     "geom:latitude":33.990431,
     "geom:longitude":-84.262591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8525 Driver Cir",
     "sg:city":"Alpharetta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169598677,
-    "wof:lastmodified":1449032859,
+    "wof:lastmodified":1466461318,
     "wof:name":"Nichols Strategic Advisors",
     "wof:parent_id":85844913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-84.262591,33.990431,-84.262591,33.990431],
+  "bbox": [
+    -84.262591,
+    33.990431,
+    -84.262591,
+    33.990431
+],
   "geometry": {"coordinates":[-84.262591,33.990431],"type":"Point"}
 }

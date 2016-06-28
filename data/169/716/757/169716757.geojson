@@ -2,13 +2,14 @@
   "id": 169716757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.848469,33.402278,-81.848469,33.402278",
     "geom:latitude":33.402278,
     "geom:longitude":-81.848469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 Oak Dr",
     "sg:city":"Beech Island",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169716757,
-    "wof:lastmodified":1449033156,
+    "wof:lastmodified":1466461327,
     "wof:name":"Aiken Augusta Security Systems",
     "wof:parent_id":85876041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-81.848469,33.402278,-81.848469,33.402278],
-  "geometry": {"coordinates":[-81.848469,33.402278],"type":"Point"}
+  "bbox": [
+    -81.848469,
+    33.402278,
+    -81.848469,
+    33.402278
+],
+  "geometry": {"coordinates":[-81.84846899999999,33.402278],"type":"Point"}
 }

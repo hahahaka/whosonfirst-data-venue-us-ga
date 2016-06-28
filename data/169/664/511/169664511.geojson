@@ -2,13 +2,14 @@
   "id": 169664511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.198195,34.695682,-85.198195,34.695682",
     "geom:latitude":34.695682,
     "geom:longitude":-85.198195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Old Villanow Rd",
     "sg:city":"La Fayette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169664511,
-    "wof:lastmodified":1449033913,
+    "wof:lastmodified":1466461284,
     "wof:name":"Georgia State Government",
     "wof:parent_id":85830807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fraternal"
     ]
 },
-  "bbox": [-85.198195,34.695682,-85.198195,34.695682],
+  "bbox": [
+    -85.198195,
+    34.695682,
+    -85.198195,
+    34.695682
+],
   "geometry": {"coordinates":[-85.198195,34.695682],"type":"Point"}
 }

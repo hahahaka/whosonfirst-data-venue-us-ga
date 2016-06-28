@@ -2,13 +2,14 @@
   "id": 169640705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.004671,33.95288,-84.004671,33.95288",
     "geom:latitude":33.95288,
     "geom:longitude":-84.004671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"559 Dogwood Dr NW",
     "sg:city":"Lawrenceville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169640705,
-    "wof:lastmodified":1449034105,
+    "wof:lastmodified":1466461256,
     "wof:name":"Timothy Dobbins",
     "wof:parent_id":85851103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-84.004671,33.95288,-84.004671,33.95288],
+  "bbox": [
+    -84.004671,
+    33.95288,
+    -84.004671,
+    33.95288
+],
   "geometry": {"coordinates":[-84.004671,33.95288],"type":"Point"}
 }

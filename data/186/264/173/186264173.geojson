@@ -2,13 +2,14 @@
   "id": 186264173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.006716,33.569962,-82.006716,33.569962",
     "geom:latitude":33.569962,
     "geom:longitude":-82.006716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 Murrah Rd",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186264173,
-    "wof:lastmodified":1449052115,
+    "wof:lastmodified":1466461316,
     "wof:name":"Bethlehem Baptist Church",
     "wof:parent_id":85876035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.006716,33.569962,-82.006716,33.569962],
+  "bbox": [
+    -82.006716,
+    33.569962,
+    -82.006716,
+    33.569962
+],
   "geometry": {"coordinates":[-82.006716,33.569962],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169603257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.142033,33.973008,-84.142033,33.973008",
     "geom:latitude":33.973008,
     "geom:longitude":-84.142033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2627 Hill Ct NW",
     "sg:city":"Duluth",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169603257,
-    "wof:lastmodified":1449035451,
+    "wof:lastmodified":1466461197,
     "wof:name":"Cyr Consulting Inc",
     "wof:parent_id":85826369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-84.142033,33.973008,-84.142033,33.973008],
+  "bbox": [
+    -84.142033,
+    33.973008,
+    -84.142033,
+    33.973008
+],
   "geometry": {"coordinates":[-84.142033,33.973008],"type":"Point"}
 }

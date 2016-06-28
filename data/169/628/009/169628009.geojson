@@ -2,13 +2,14 @@
   "id": 169628009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.228696,32.284047,-81.228696,32.284047",
     "geom:latitude":32.284047,
     "geom:longitude":-81.228696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Weisenbaker Rd",
     "sg:city":"Rincon",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169628009,
-    "wof:lastmodified":1449035336,
+    "wof:lastmodified":1466461322,
     "wof:name":"Spar Clean Power Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "deck"
     ]
 },
-  "bbox": [-81.228696,32.284047,-81.228696,32.284047],
+  "bbox": [
+    -81.228696,
+    32.284047,
+    -81.228696,
+    32.284047
+],
   "geometry": {"coordinates":[-81.228696,32.284047],"type":"Point"}
 }

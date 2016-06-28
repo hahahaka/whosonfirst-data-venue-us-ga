@@ -2,13 +2,14 @@
   "id": 169660077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.023869,33.78836,-84.023869,33.78836",
     "geom:latitude":33.78836,
     "geom:longitude":-84.023869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4231 Horder Ct",
     "sg:city":"Snellville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169660077,
-    "wof:lastmodified":1449035609,
+    "wof:lastmodified":1466461274,
     "wof:name":"Drag Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.023869,33.78836,-84.023869,33.78836],
+  "bbox": [
+    -84.023869,
+    33.78836,
+    -84.023869,
+    33.78836
+],
   "geometry": {"coordinates":[-84.023869,33.78836],"type":"Point"}
 }

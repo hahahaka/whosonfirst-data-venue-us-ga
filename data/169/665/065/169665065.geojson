@@ -2,13 +2,14 @@
   "id": 169665065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.942041,30.799504,-83.942041,30.799504",
     "geom:latitude":30.799504,
     "geom:longitude":-83.942041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Pall Bearer Rd",
     "sg:city":"Thomasville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169665065,
-    "wof:lastmodified":1449033698,
+    "wof:lastmodified":1466461282,
     "wof:name":"Pall Bearer Road Grocery Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"
     ]
 },
-  "bbox": [-83.942041,30.799504,-83.942041,30.799504],
+  "bbox": [
+    -83.942041,
+    30.799504,
+    -83.942041,
+    30.799504
+],
   "geometry": {"coordinates":[-83.942041,30.799504],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169634235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.136256,33.988881,-84.136256,33.988881",
     "geom:latitude":33.988881,
     "geom:longitude":-84.136256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3065 Bugle Dr",
     "sg:city":"Duluth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169634235,
-    "wof:lastmodified":1449034256,
+    "wof:lastmodified":1466461244,
     "wof:name":"Nu Way Dental Labs",
     "wof:parent_id":85845653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dental"
     ]
 },
-  "bbox": [-84.136256,33.988881,-84.136256,33.988881],
+  "bbox": [
+    -84.136256,
+    33.988881,
+    -84.136256,
+    33.988881
+],
   "geometry": {"coordinates":[-84.136256,33.988881],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169607107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.490599,33.753165,-84.490599,33.753165",
     "geom:latitude":33.753165,
     "geom:longitude":-84.490599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Allen Temple Ct NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":169607107,
-    "wof:lastmodified":1449033121,
+    "wof:lastmodified":1466461203,
     "wof:name":"Sparkle & Sparkle Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-84.490599,33.753165,-84.490599,33.753165],
+  "bbox": [
+    -84.490599,
+    33.753165,
+    -84.490599,
+    33.753165
+],
   "geometry": {"coordinates":[-84.490599,33.753165],"type":"Point"}
 }

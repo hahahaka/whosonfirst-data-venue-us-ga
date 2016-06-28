@@ -2,13 +2,14 @@
   "id": 169644275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.176651,33.487799,-84.176651,33.487799",
     "geom:latitude":33.487799,
     "geom:longitude":-84.176651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4315 Jodeco Rd",
     "sg:city":"Mcdonough",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169644275,
-    "wof:lastmodified":1449034577,
+    "wof:lastmodified":1466461259,
     "wof:name":"Santos Taqueria Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "eating"
     ]
 },
-  "bbox": [-84.176651,33.487799,-84.176651,33.487799],
-  "geometry": {"coordinates":[-84.176651,33.487799],"type":"Point"}
+  "bbox": [
+    -84.176651,
+    33.487799,
+    -84.176651,
+    33.487799
+],
+  "geometry": {"coordinates":[-84.17665100000001,33.487799],"type":"Point"}
 }

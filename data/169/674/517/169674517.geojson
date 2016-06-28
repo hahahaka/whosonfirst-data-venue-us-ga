@@ -2,13 +2,14 @@
   "id": 169674517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.972411,33.905161,-83.972411,33.905161",
     "geom:latitude":33.905161,
     "geom:longitude":-83.972411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1565 Hill Crossing Ct",
     "sg:city":"Grayson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169674517,
-    "wof:lastmodified":1449035137,
+    "wof:lastmodified":1466461293,
     "wof:name":"Michael Harty Valet",
     "wof:parent_id":85854851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "valet"
     ]
 },
-  "bbox": [-83.972411,33.905161,-83.972411,33.905161],
-  "geometry": {"coordinates":[-83.972411,33.905161],"type":"Point"}
+  "bbox": [
+    -83.972411,
+    33.905161,
+    -83.972411,
+    33.905161
+],
+  "geometry": {"coordinates":[-83.97241099999999,33.905161],"type":"Point"}
 }

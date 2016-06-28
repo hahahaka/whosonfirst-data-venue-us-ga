@@ -2,13 +2,14 @@
   "id": 169634185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.717149,33.60591,-83.717149,33.60591",
     "geom:latitude":33.60591,
     "geom:longitude":-83.717149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"195 Old Social Cir",
     "sg:city":"Social Circle",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169634185,
-    "wof:lastmodified":1449034256,
+    "wof:lastmodified":1466461244,
     "wof:name":"Sentry Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-83.717149,33.60591,-83.717149,33.60591],
-  "geometry": {"coordinates":[-83.717149,33.60591],"type":"Point"}
+  "bbox": [
+    -83.717149,
+    33.60591,
+    -83.717149,
+    33.60591
+],
+  "geometry": {"coordinates":[-83.71714900000001,33.60591],"type":"Point"}
 }

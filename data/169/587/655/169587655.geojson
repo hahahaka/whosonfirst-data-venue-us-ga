@@ -2,13 +2,14 @@
   "id": 169587655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.971344,32.407426,-84.971344,32.407426",
     "geom:latitude":32.407426,
     "geom:longitude":-84.971344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2456 Walker St",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169587655,
-    "wof:lastmodified":1449033821,
+    "wof:lastmodified":1466461298,
     "wof:name":"C C & A Cleaning Svc",
     "wof:parent_id":85882097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-84.971344,32.407426,-84.971344,32.407426],
+  "bbox": [
+    -84.971344,
+    32.407426,
+    -84.971344,
+    32.407426
+],
   "geometry": {"coordinates":[-84.971344,32.407426],"type":"Point"}
 }

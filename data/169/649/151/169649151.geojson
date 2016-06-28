@@ -2,13 +2,14 @@
   "id": 169649151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.209473,31.232202,-84.209473,31.232202",
     "geom:latitude":31.232202,
     "geom:longitude":-84.209473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 N Court Ave",
     "sg:city":"Camilla",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169649151,
-    "wof:lastmodified":1449034941,
+    "wof:lastmodified":1466461264,
     "wof:name":"Mitchell County Administrator",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.209473,31.232202,-84.209473,31.232202],
+  "bbox": [
+    -84.209473,
+    31.232202,
+    -84.209473,
+    31.232202
+],
   "geometry": {"coordinates":[-84.209473,31.232202],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169609459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.514951,31.450104,-83.514951,31.450104",
     "geom:latitude":31.450104,
     "geom:longitude":-83.514951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 7th St W",
     "sg:city":"Tifton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169609459,
-    "wof:lastmodified":1449033921,
+    "wof:lastmodified":1466461210,
     "wof:name":"Miracle Cars & Credit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-83.514951,31.450104,-83.514951,31.450104],
+  "bbox": [
+    -83.514951,
+    31.450104,
+    -83.514951,
+    31.450104
+],
   "geometry": {"coordinates":[-83.514951,31.450104],"type":"Point"}
 }

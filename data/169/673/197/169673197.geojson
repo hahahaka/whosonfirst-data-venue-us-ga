@@ -2,13 +2,14 @@
   "id": 169673197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.551183,33.380416,-84.551183,33.380416",
     "geom:latitude":33.380416,
     "geom:longitude":-84.551183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"428 Crosstown Rd",
     "sg:city":"Peachtree City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169673197,
-    "wof:lastmodified":1449033958,
+    "wof:lastmodified":1466461290,
     "wof:name":"Cardsmart",
     "wof:parent_id":85890039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "greeting"
     ]
 },
-  "bbox": [-84.551183,33.380416,-84.551183,33.380416],
-  "geometry": {"coordinates":[-84.551183,33.380416],"type":"Point"}
+  "bbox": [
+    -84.551183,
+    33.380416,
+    -84.551183,
+    33.380416
+],
+  "geometry": {"coordinates":[-84.55118299999999,33.380416],"type":"Point"}
 }

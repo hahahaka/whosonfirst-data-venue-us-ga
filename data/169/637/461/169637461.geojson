@@ -2,13 +2,14 @@
   "id": 169637461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.186284,34.262432,-85.186284,34.262432",
     "geom:latitude":34.262432,
     "geom:longitude":-85.186284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"172 Shorter Ave",
     "sg:city":"Rome",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169637461,
-    "wof:lastmodified":1449032688,
+    "wof:lastmodified":1466461252,
     "wof:name":"King & Queen Salon & Day Spa",
     "wof:parent_id":85890045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-85.186284,34.262432,-85.186284,34.262432],
+  "bbox": [
+    -85.186284,
+    34.262432,
+    -85.186284,
+    34.262432
+],
   "geometry": {"coordinates":[-85.186284,34.262432],"type":"Point"}
 }

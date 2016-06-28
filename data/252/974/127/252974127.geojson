@@ -2,13 +2,14 @@
   "id": 252974127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.385903,34.981959,-83.385903,34.981959",
     "geom:latitude":34.981959,
     "geom:longitude":-83.385903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Miller Ln",
     "sg:city":"Dillard",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":252974127,
-    "wof:lastmodified":1449006372,
+    "wof:lastmodified":1466461594,
     "wof:name":"Jus Seamless Gutters",
     "wof:parent_id":85821415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gutter"
     ]
 },
-  "bbox": [-83.385903,34.981959,-83.385903,34.981959],
+  "bbox": [
+    -83.385903,
+    34.981959,
+    -83.385903,
+    34.981959
+],
   "geometry": {"coordinates":[-83.385903,34.981959],"type":"Point"}
 }

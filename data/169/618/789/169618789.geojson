@@ -2,13 +2,14 @@
   "id": 169618789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.250534,34.271139,-85.250534,34.271139",
     "geom:latitude":34.271139,
     "geom:longitude":-85.250534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2611 Shorter Ave",
     "sg:city":"Rome",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169618789,
-    "wof:lastmodified":1449034738,
+    "wof:lastmodified":1466461229,
     "wof:name":"Richards Advantage Housing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.250534,34.271139,-85.250534,34.271139],
+  "bbox": [
+    -85.250534,
+    34.271139,
+    -85.250534,
+    34.271139
+],
   "geometry": {"coordinates":[-85.250534,34.271139],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354389263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.918066,33.492076,-81.918066,33.492076",
     "geom:latitude":33.492076,
     "geom:longitude":-81.918066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5080 Jefferson Davis Hwy",
     "sg:city":"Beech Island",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":354389263,
-    "wof:lastmodified":1449067285,
+    "wof:lastmodified":1466461228,
     "wof:name":"J and J Building Supply",
     "wof:parent_id":85817111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "store"
     ]
 },
-  "bbox": [-81.918066,33.492076,-81.918066,33.492076],
+  "bbox": [
+    -81.918066,
+    33.492076,
+    -81.918066,
+    33.492076
+],
   "geometry": {"coordinates":[-81.918066,33.492076],"type":"Point"}
 }

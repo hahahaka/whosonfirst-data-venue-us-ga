@@ -2,13 +2,14 @@
   "id": 169647181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.146825,33.578694,-82.146825,33.578694",
     "geom:latitude":33.578694,
     "geom:longitude":-82.146825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4644 Hardy McManus Rd",
     "sg:city":"Evans",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169647181,
-    "wof:lastmodified":1449034239,
+    "wof:lastmodified":1466461261,
     "wof:name":"Perfection Details",
     "wof:parent_id":85868555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-82.146825,33.578694,-82.146825,33.578694],
-  "geometry": {"coordinates":[-82.146825,33.578694],"type":"Point"}
+  "bbox": [
+    -82.146825,
+    33.578694,
+    -82.146825,
+    33.578694
+],
+  "geometry": {"coordinates":[-82.14682500000001,33.578694],"type":"Point"}
 }

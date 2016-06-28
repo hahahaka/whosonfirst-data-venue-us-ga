@@ -2,13 +2,14 @@
   "id": 169667365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.895266,32.561697,-83.895266,32.561697",
     "geom:latitude":32.561697,
     "geom:longitude":-83.895266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Chamlee Dr",
     "sg:city":"Fort Valley",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169667365,
-    "wof:lastmodified":1449034844,
+    "wof:lastmodified":1466461285,
     "wof:name":"Phoenix Custom Primitives",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-83.895266,32.561697,-83.895266,32.561697],
-  "geometry": {"coordinates":[-83.895266,32.561697],"type":"Point"}
+  "bbox": [
+    -83.895266,
+    32.561697,
+    -83.895266,
+    32.561697
+],
+  "geometry": {"coordinates":[-83.89526600000001,32.561697],"type":"Point"}
 }

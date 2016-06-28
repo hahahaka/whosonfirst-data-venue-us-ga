@@ -2,13 +2,14 @@
   "id": 169622697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.563618,34.135937,-84.563618,34.135937",
     "geom:latitude":34.135937,
     "geom:longitude":-84.563618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"169 Colonial Dr",
     "sg:city":"Woodstock",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169622697,
-    "wof:lastmodified":1449035368,
+    "wof:lastmodified":1466461234,
     "wof:name":"J Simon & Co Inc",
     "wof:parent_id":85896275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.563618,34.135937,-84.563618,34.135937],
-  "geometry": {"coordinates":[-84.563618,34.135937],"type":"Point"}
+  "bbox": [
+    -84.563618,
+    34.135937,
+    -84.563618,
+    34.135937
+],
+  "geometry": {"coordinates":[-84.56361800000001,34.135937],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169601555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.297882,33.204236,-84.297882,33.204236",
     "geom:latitude":33.204236,
     "geom:longitude":-84.297882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1881 Carver Rd",
     "sg:city":"Griffin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169601555,
-    "wof:lastmodified":1449034150,
+    "wof:lastmodified":1466461200,
     "wof:name":"PA PA Don S3",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-84.297882,33.204236,-84.297882,33.204236],
+  "bbox": [
+    -84.297882,
+    33.204236,
+    -84.297882,
+    33.204236
+],
   "geometry": {"coordinates":[-84.297882,33.204236],"type":"Point"}
 }

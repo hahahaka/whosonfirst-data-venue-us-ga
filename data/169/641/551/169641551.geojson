@@ -2,13 +2,14 @@
   "id": 169641551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.19606,33.932679,-84.19606,33.932679",
     "geom:latitude":33.932679,
     "geom:longitude":-84.19606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5581 Shawnee Trl",
     "sg:city":"Norcross",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169641551,
-    "wof:lastmodified":1449035169,
+    "wof:lastmodified":1466461259,
     "wof:name":"Ellis Ramon A Et Al",
     "wof:parent_id":85826369,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.19606,33.932679,-84.19606,33.932679],
+  "bbox": [
+    -84.19606,
+    33.932679,
+    -84.19606,
+    33.932679
+],
   "geometry": {"coordinates":[-84.19606,33.932679],"type":"Point"}
 }

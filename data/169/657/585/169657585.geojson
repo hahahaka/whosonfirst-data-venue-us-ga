@@ -2,13 +2,14 @@
   "id": 169657585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.673683,32.849515,-83.673683,32.849515",
     "geom:latitude":32.849515,
     "geom:longitude":-83.673683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3090 Vineville Ave",
     "sg:city":"Macon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169657585,
-    "wof:lastmodified":1449033052,
+    "wof:lastmodified":1466461280,
     "wof:name":"Jeffery Michael Antiques",
     "wof:parent_id":85808013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-83.673683,32.849515,-83.673683,32.849515],
+  "bbox": [
+    -83.673683,
+    32.849515,
+    -83.673683,
+    32.849515
+],
   "geometry": {"coordinates":[-83.673683,32.849515],"type":"Point"}
 }

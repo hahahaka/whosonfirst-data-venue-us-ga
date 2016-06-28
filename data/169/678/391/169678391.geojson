@@ -2,13 +2,14 @@
   "id": 169678391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.660535,32.643665,-83.660535,32.643665",
     "geom:latitude":32.643665,
     "geom:longitude":-83.660535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1013 Carl Vinson Pkwy",
     "sg:city":"Centerville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169678391,
-    "wof:lastmodified":1449034275,
+    "wof:lastmodified":1466461294,
     "wof:name":"Northside Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.660535,32.643665,-83.660535,32.643665],
+  "bbox": [
+    -83.660535,
+    32.643665,
+    -83.660535,
+    32.643665
+],
   "geometry": {"coordinates":[-83.660535,32.643665],"type":"Point"}
 }

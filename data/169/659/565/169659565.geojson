@@ -2,13 +2,14 @@
   "id": 169659565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.096848,32.028132,-81.096848,32.028132",
     "geom:latitude":32.028132,
     "geom:longitude":-81.096848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5210 Paulsen St",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169659565,
-    "wof:lastmodified":1449033029,
+    "wof:lastmodified":1466461277,
     "wof:name":"Charles M Pugh Jr MD PC",
     "wof:parent_id":85880913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-81.096848,32.028132,-81.096848,32.028132],
-  "geometry": {"coordinates":[-81.096848,32.028132],"type":"Point"}
+  "bbox": [
+    -81.096848,
+    32.028132,
+    -81.096848,
+    32.028132
+],
+  "geometry": {"coordinates":[-81.09684799999999,32.028132],"type":"Point"}
 }

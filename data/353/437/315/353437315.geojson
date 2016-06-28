@@ -2,13 +2,14 @@
   "id": 353437315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.015951,33.575387,-82.015951,33.575387",
     "geom:latitude":33.575387,
     "geom:longitude":-82.015951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1616 W Martintown Rd",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353437315,
-    "wof:lastmodified":1449020086,
+    "wof:lastmodified":1466461655,
     "wof:name":"Countryside Landscaping",
     "wof:parent_id":85876035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "soybean"
     ]
 },
-  "bbox": [-82.015951,33.575387,-82.015951,33.575387],
+  "bbox": [
+    -82.015951,
+    33.575387,
+    -82.015951,
+    33.575387
+],
   "geometry": {"coordinates":[-82.015951,33.575387],"type":"Point"}
 }

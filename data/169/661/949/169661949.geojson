@@ -2,13 +2,14 @@
   "id": 169661949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.096851,33.853453,-84.096851,33.853453",
     "geom:latitude":33.853453,
     "geom:longitude":-84.096851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4414 Aberdeen Rd SW",
     "sg:city":"Lilburn",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169661949,
-    "wof:lastmodified":1449035598,
+    "wof:lastmodified":1466461289,
     "wof:name":"R&D Landscape",
     "wof:parent_id":85857829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-84.096851,33.853453,-84.096851,33.853453],
+  "bbox": [
+    -84.096851,
+    33.853453,
+    -84.096851,
+    33.853453
+],
   "geometry": {"coordinates":[-84.096851,33.853453],"type":"Point"}
 }

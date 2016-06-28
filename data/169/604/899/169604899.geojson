@@ -2,13 +2,14 @@
   "id": 169604899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.04564,33.761683,-84.04564,33.761683",
     "geom:latitude":33.761683,
     "geom:longitude":-84.04564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8383 Lake Dr",
     "sg:city":"Lithonia",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169604899,
-    "wof:lastmodified":1449035572,
+    "wof:lastmodified":1466461205,
     "wof:name":"Professional Home Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "carpentry"
     ]
 },
-  "bbox": [-84.04564,33.761683,-84.04564,33.761683],
-  "geometry": {"coordinates":[-84.04564,33.761683],"type":"Point"}
+  "bbox": [
+    -84.04564,
+    33.761683,
+    -84.04564,
+    33.761683
+],
+  "geometry": {"coordinates":[-84.04564000000001,33.761683],"type":"Point"}
 }

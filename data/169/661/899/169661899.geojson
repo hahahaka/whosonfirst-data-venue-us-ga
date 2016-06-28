@@ -2,13 +2,14 @@
   "id": 169661899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.938898,33.58381,-83.938898,33.58381",
     "geom:latitude":33.58381,
     "geom:longitude":-83.938898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Adams Dr",
     "sg:city":"Covington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169661899,
-    "wof:lastmodified":1449035599,
+    "wof:lastmodified":1466461287,
     "wof:name":"Trin Tile & Hardwood Floors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-83.938898,33.58381,-83.938898,33.58381],
-  "geometry": {"coordinates":[-83.938898,33.58381],"type":"Point"}
+  "bbox": [
+    -83.938898,
+    33.58381,
+    -83.938898,
+    33.58381
+],
+  "geometry": {"coordinates":[-83.93889799999999,33.58381],"type":"Point"}
 }

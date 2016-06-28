@@ -2,13 +2,14 @@
   "id": 169614997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.353566,33.772784,-84.353566,33.772784",
     "geom:latitude":33.772784,
     "geom:longitude":-84.353566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"696 Cleburne Ter NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":169614997,
-    "wof:lastmodified":1449036060,
+    "wof:lastmodified":1466461226,
     "wof:name":"Beavers Book Sale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "dealer"
     ]
 },
-  "bbox": [-84.353566,33.772784,-84.353566,33.772784],
+  "bbox": [
+    -84.353566,
+    33.772784,
+    -84.353566,
+    33.772784
+],
   "geometry": {"coordinates":[-84.353566,33.772784],"type":"Point"}
 }

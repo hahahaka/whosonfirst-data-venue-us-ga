@@ -2,13 +2,14 @@
   "id": 152211835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.490832,34.510923,-85.490832,34.510923",
     "geom:latitude":34.510923,
     "geom:longitude":-85.490832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Elm St",
     "sg:city":"Cloudland",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152211835,
-    "wof:lastmodified":1449045431,
+    "wof:lastmodified":1466461193,
     "wof:name":"Mountain Studios",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.490832,34.510923,-85.490832,34.510923],
+  "bbox": [
+    -85.490832,
+    34.510923,
+    -85.490832,
+    34.510923
+],
   "geometry": {"coordinates":[-85.490832,34.510923],"type":"Point"}
 }

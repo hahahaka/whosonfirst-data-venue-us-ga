@@ -2,13 +2,14 @@
   "id": 169635889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.271953,33.848744,-84.271953,33.848744",
     "geom:latitude":33.848744,
     "geom:longitude":-84.271953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2859 Galahad Dr NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169635889,
-    "wof:lastmodified":1449034096,
+    "wof:lastmodified":1466461254,
     "wof:name":"I R I S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "nonphysical"
     ]
 },
-  "bbox": [-84.271953,33.848744,-84.271953,33.848744],
+  "bbox": [
+    -84.271953,
+    33.848744,
+    -84.271953,
+    33.848744
+],
   "geometry": {"coordinates":[-84.271953,33.848744],"type":"Point"}
 }

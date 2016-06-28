@@ -2,13 +2,14 @@
   "id": 169608679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.142242,33.880012,-84.142242,33.880012",
     "geom:latitude":33.880012,
     "geom:longitude":-84.142242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Bailey Dr SW",
     "sg:city":"Lilburn",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169608679,
-    "wof:lastmodified":1449034084,
+    "wof:lastmodified":1466461211,
     "wof:name":"Hunter Remodeling & Repairs",
     "wof:parent_id":85803655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-84.142242,33.880012,-84.142242,33.880012],
+  "bbox": [
+    -84.142242,
+    33.880012,
+    -84.142242,
+    33.880012
+],
   "geometry": {"coordinates":[-84.142242,33.880012],"type":"Point"}
 }

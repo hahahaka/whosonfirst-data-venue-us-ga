@@ -2,13 +2,14 @@
   "id": 354116469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.932116,33.489959,-81.932116,33.489959",
     "geom:latitude":33.489959,
     "geom:longitude":-81.932116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Shultz Hill Dr",
     "sg:city":"Beech Island",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354116469,
-    "wof:lastmodified":1449066178,
+    "wof:lastmodified":1466461203,
     "wof:name":"Bob Richards Nissan",
     "wof:parent_id":85817111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-81.932116,33.489959,-81.932116,33.489959],
-  "geometry": {"coordinates":[-81.932116,33.489959],"type":"Point"}
+  "bbox": [
+    -81.932116,
+    33.489959,
+    -81.932116,
+    33.489959
+],
+  "geometry": {"coordinates":[-81.93211599999999,33.489959],"type":"Point"}
 }

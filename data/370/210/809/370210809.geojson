@@ -2,13 +2,14 @@
   "id": 370210809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.614109,30.739784,-84.614109,30.739784",
     "geom:latitude":30.739784,
     "geom:longitude":-84.614109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"178 Arnold Rd",
     "sg:city":"Bainbridge",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370210809,
-    "wof:lastmodified":1449030250,
+    "wof:lastmodified":1466461199,
     "wof:name":"Tara Clark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "establishment"
     ]
 },
-  "bbox": [-84.614109,30.739784,-84.614109,30.739784],
+  "bbox": [
+    -84.614109,
+    30.739784,
+    -84.614109,
+    30.739784
+],
   "geometry": {"coordinates":[-84.614109,30.739784],"type":"Point"}
 }

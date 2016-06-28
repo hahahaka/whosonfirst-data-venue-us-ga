@@ -2,13 +2,14 @@
   "id": 169600385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.379085,33.922136,-84.379085,33.922136",
     "geom:latitude":33.922136,
     "geom:longitude":-84.379085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6075 Roswell Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":169600385,
-    "wof:lastmodified":1449032971,
+    "wof:lastmodified":1466461321,
     "wof:name":"Dynamic Solutions of Atlanta",
     "wof:parent_id":85889967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "staffing"
     ]
 },
-  "bbox": [-84.379085,33.922136,-84.379085,33.922136],
+  "bbox": [
+    -84.379085,
+    33.922136,
+    -84.379085,
+    33.922136
+],
   "geometry": {"coordinates":[-84.379085,33.922136],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354073989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.790385,33.331603,-81.790385,33.331603",
     "geom:latitude":33.331603,
     "geom:longitude":-81.790385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 3rd St",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354073989,
-    "wof:lastmodified":1449066168,
+    "wof:lastmodified":1466461198,
     "wof:name":"Express Transport",
     "wof:parent_id":85876041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-81.790385,33.331603,-81.790385,33.331603],
+  "bbox": [
+    -81.790385,
+    33.331603,
+    -81.790385,
+    33.331603
+],
   "geometry": {"coordinates":[-81.790385,33.331603],"type":"Point"}
 }

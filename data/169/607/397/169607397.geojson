@@ -2,13 +2,14 @@
   "id": 169607397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.387407,33.754495,-84.387407,33.754495",
     "geom:latitude":33.754495,
     "geom:longitude":-84.387407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Edgewood Ave NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":169607397,
-    "wof:lastmodified":1449033122,
+    "wof:lastmodified":1466461207,
     "wof:name":"Boys & Girls Clubs Of Metro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-84.387407,33.754495,-84.387407,33.754495],
+  "bbox": [
+    -84.387407,
+    33.754495,
+    -84.387407,
+    33.754495
+],
   "geometry": {"coordinates":[-84.387407,33.754495],"type":"Point"}
 }

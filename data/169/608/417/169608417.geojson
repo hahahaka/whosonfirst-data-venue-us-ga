@@ -2,13 +2,14 @@
   "id": 169608417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.428693,33.84441,-84.428693,33.84441",
     "geom:latitude":33.84441,
     "geom:longitude":-84.428693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3156 Howell Mill Rd NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169608417,
-    "wof:lastmodified":1449034083,
+    "wof:lastmodified":1466461208,
     "wof:name":"Meyer Balser Center The",
     "wof:parent_id":85872145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.428693,33.84441,-84.428693,33.84441],
+  "bbox": [
+    -84.428693,
+    33.84441,
+    -84.428693,
+    33.84441
+],
   "geometry": {"coordinates":[-84.428693,33.84441],"type":"Point"}
 }

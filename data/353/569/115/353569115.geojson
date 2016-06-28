@@ -2,13 +2,14 @@
   "id": 353569115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.790947,33.32693,-81.790947,33.32693",
     "geom:latitude":33.32693,
     "geom:longitude":-81.790947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 Main St",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":353569115,
-    "wof:lastmodified":1449020677,
+    "wof:lastmodified":1466461664,
     "wof:name":"UPGWA Local 330",
     "wof:parent_id":85876041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.790947,33.32693,-81.790947,33.32693],
+  "bbox": [
+    -81.790947,
+    33.32693,
+    -81.790947,
+    33.32693
+],
   "geometry": {"coordinates":[-81.790947,33.32693],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353663337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.884443,33.429196,-81.884443,33.429196",
     "geom:latitude":33.429196,
     "geom:longitude":-81.884443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"255 Beech Island Ave",
     "sg:city":"Beech Island",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353663337,
-    "wof:lastmodified":1449020119,
+    "wof:lastmodified":1466461196,
     "wof:name":"A Self Storage",
     "wof:parent_id":85817111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "storage"
     ]
 },
-  "bbox": [-81.884443,33.429196,-81.884443,33.429196],
+  "bbox": [
+    -81.884443,
+    33.429196,
+    -81.884443,
+    33.429196
+],
   "geometry": {"coordinates":[-81.884443,33.429196],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169662171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.467924,33.92187,-84.467924,33.92187",
     "geom:latitude":33.92187,
     "geom:longitude":-84.467924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1234 Powers Ferry Rd",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169662171,
-    "wof:lastmodified":1449034923,
+    "wof:lastmodified":1466461278,
     "wof:name":"Lowry Group The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.467924,33.92187,-84.467924,33.92187],
+  "bbox": [
+    -84.467924,
+    33.92187,
+    -84.467924,
+    33.92187
+],
   "geometry": {"coordinates":[-84.467924,33.92187],"type":"Point"}
 }

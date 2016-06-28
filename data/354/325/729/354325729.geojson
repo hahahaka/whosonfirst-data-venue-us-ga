@@ -2,13 +2,14 @@
   "id": 354325729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.892046,33.49671,-81.892046,33.49671",
     "geom:latitude":33.49671,
     "geom:longitude":-81.892046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 Augusta Rd",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354325729,
-    "wof:lastmodified":1449066580,
+    "wof:lastmodified":1466461220,
     "wof:name":"Payday Your Way",
     "wof:parent_id":85817111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-81.892046,33.49671,-81.892046,33.49671],
-  "geometry": {"coordinates":[-81.892046,33.49671],"type":"Point"}
+  "bbox": [
+    -81.892046,
+    33.49671,
+    -81.892046,
+    33.49671
+],
+  "geometry": {"coordinates":[-81.89204599999999,33.49671],"type":"Point"}
 }

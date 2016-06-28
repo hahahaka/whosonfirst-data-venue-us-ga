@@ -2,13 +2,14 @@
   "id": 169613661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.506378,34.018623,-84.506378,34.018623",
     "geom:latitude":34.018623,
     "geom:longitude":-84.506378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1526 Sprayberry Dr",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169613661,
-    "wof:lastmodified":1449034212,
+    "wof:lastmodified":1466461221,
     "wof:name":"ABC Consulting Inc",
     "wof:parent_id":85857049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-84.506378,34.018623,-84.506378,34.018623],
+  "bbox": [
+    -84.506378,
+    34.018623,
+    -84.506378,
+    34.018623
+],
   "geometry": {"coordinates":[-84.506378,34.018623],"type":"Point"}
 }

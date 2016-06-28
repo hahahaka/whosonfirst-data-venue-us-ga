@@ -2,13 +2,14 @@
   "id": 219268407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.477951,30.852767,-84.477951,30.852767",
     "geom:latitude":30.852767,
     "geom:longitude":-84.477951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3350 Lake Douglas Rd",
     "sg:city":"Climax",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219268407,
-    "wof:lastmodified":1449072385,
+    "wof:lastmodified":1466461558,
     "wof:name":"Gregory McNair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.477951,30.852767,-84.477951,30.852767],
+  "bbox": [
+    -84.477951,
+    30.852767,
+    -84.477951,
+    30.852767
+],
   "geometry": {"coordinates":[-84.477951,30.852767],"type":"Point"}
 }

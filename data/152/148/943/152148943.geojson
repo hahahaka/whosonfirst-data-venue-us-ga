@@ -2,13 +2,14 @@
   "id": 152148943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.500751,34.467705,-85.500751,34.467705",
     "geom:latitude":34.467705,
     "geom:longitude":-85.500751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1608 Jamestown Rd",
     "sg:city":"Menlo",
     "sg:classifiers":[
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152148943,
-    "wof:lastmodified":1449048194,
+    "wof:lastmodified":1466461193,
     "wof:name":"Majors Cash & Carry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.500751,34.467705,-85.500751,34.467705],
-  "geometry": {"coordinates":[-85.500751,34.467705],"type":"Point"}
+  "bbox": [
+    -85.500751,
+    34.467705,
+    -85.500751,
+    34.467705
+],
+  "geometry": {"coordinates":[-85.50075099999999,34.467705],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169609225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.21507,31.595987,-84.21507,31.595987",
     "geom:latitude":31.595987,
     "geom:longitude":-84.21507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2617 Ridgewood Ln",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169609225,
-    "wof:lastmodified":1449033920,
+    "wof:lastmodified":1466461208,
     "wof:name":"Jsi Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "apartment"
     ]
 },
-  "bbox": [-84.21507,31.595987,-84.21507,31.595987],
+  "bbox": [
+    -84.21507,
+    31.595987,
+    -84.21507,
+    31.595987
+],
   "geometry": {"coordinates":[-84.21507,31.595987],"type":"Point"}
 }

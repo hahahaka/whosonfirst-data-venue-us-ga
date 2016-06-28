@@ -2,13 +2,14 @@
   "id": 169622935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.603927,32.625205,-83.603927,32.625205",
     "geom:latitude":32.625205,
     "geom:longitude":-83.603927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Bell Dr",
     "sg:city":"Warner Robins",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169622935,
-    "wof:lastmodified":1449035367,
+    "wof:lastmodified":1466461236,
     "wof:name":"End Time Harvest Church",
     "wof:parent_id":85826139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-83.603927,32.625205,-83.603927,32.625205],
+  "bbox": [
+    -83.603927,
+    32.625205,
+    -83.603927,
+    32.625205
+],
   "geometry": {"coordinates":[-83.603927,32.625205],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169610357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.491275,31.039809,-82.491275,31.039809",
     "geom:latitude":31.039809,
     "geom:longitude":-82.491275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6241 Suwannee Chapel Rd",
     "sg:city":"Waycross",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":169610357,
-    "wof:lastmodified":1449035911,
+    "wof:lastmodified":1466461208,
     "wof:name":"Southland Coach Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rental"
     ]
 },
-  "bbox": [-82.491275,31.039809,-82.491275,31.039809],
+  "bbox": [
+    -82.491275,
+    31.039809,
+    -82.491275,
+    31.039809
+],
   "geometry": {"coordinates":[-82.491275,31.039809],"type":"Point"}
 }

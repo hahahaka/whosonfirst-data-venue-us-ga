@@ -2,13 +2,14 @@
   "id": 169648247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.170958,34.253848,-85.170958,34.253848",
     "geom:latitude":34.253848,
     "geom:longitude":-85.170958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 E 4th Ave",
     "sg:city":"Rome",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169648247,
-    "wof:lastmodified":1449033584,
+    "wof:lastmodified":1466461265,
     "wof:name":"Soothing Source Massage Thrpy",
     "wof:parent_id":85890045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "massage"
     ]
 },
-  "bbox": [-85.170958,34.253848,-85.170958,34.253848],
+  "bbox": [
+    -85.170958,
+    34.253848,
+    -85.170958,
+    34.253848
+],
   "geometry": {"coordinates":[-85.170958,34.253848],"type":"Point"}
 }

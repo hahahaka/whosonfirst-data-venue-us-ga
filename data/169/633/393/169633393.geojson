@@ -2,13 +2,14 @@
   "id": 169633393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.128804,33.732464,-84.128804,33.732464",
     "geom:latitude":33.732464,
     "geom:longitude":-84.128804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6330 Laurel Post Dr",
     "sg:city":"Lithonia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169633393,
-    "wof:lastmodified":1449035938,
+    "wof:lastmodified":1466461246,
     "wof:name":"Triumphant Journeys LLC",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "estate"
     ]
 },
-  "bbox": [-84.128804,33.732464,-84.128804,33.732464],
+  "bbox": [
+    -84.128804,
+    33.732464,
+    -84.128804,
+    33.732464
+],
   "geometry": {"coordinates":[-84.128804,33.732464],"type":"Point"}
 }

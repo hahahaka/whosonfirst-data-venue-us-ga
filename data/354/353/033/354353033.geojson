@@ -2,13 +2,14 @@
   "id": 354353033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.904029,33.427338,-81.904029,33.427338",
     "geom:latitude":33.427338,
     "geom:longitude":-81.904029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"455 Cary Dr",
     "sg:city":"Beech Island",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354353033,
-    "wof:lastmodified":1449066389,
+    "wof:lastmodified":1466461225,
     "wof:name":"Ulteigs Construction",
     "wof:parent_id":85817111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-81.904029,33.427338,-81.904029,33.427338],
-  "geometry": {"coordinates":[-81.904029,33.427338],"type":"Point"}
+  "bbox": [
+    -81.904029,
+    33.427338,
+    -81.904029,
+    33.427338
+],
+  "geometry": {"coordinates":[-81.90402899999999,33.427338],"type":"Point"}
 }

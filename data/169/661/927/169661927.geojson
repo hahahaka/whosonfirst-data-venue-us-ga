@@ -2,13 +2,14 @@
   "id": 169661927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.639904,34.092437,-84.639904,34.092437",
     "geom:latitude":34.092437,
     "geom:longitude":-84.639904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3110 Westwood Dr",
     "sg:city":"Acworth",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169661927,
-    "wof:lastmodified":1449035599,
+    "wof:lastmodified":1466461288,
     "wof:name":"Pacesetter Computers Intl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-84.639904,34.092437,-84.639904,34.092437],
+  "bbox": [
+    -84.639904,
+    34.092437,
+    -84.639904,
+    34.092437
+],
   "geometry": {"coordinates":[-84.639904,34.092437],"type":"Point"}
 }

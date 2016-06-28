@@ -2,13 +2,14 @@
   "id": 169597555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.954452,34.87487,-83.954452,34.87487",
     "geom:latitude":34.87487,
     "geom:longitude":-83.954452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 School Cir",
     "sg:city":"Blairsville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169597555,
-    "wof:lastmodified":1449035924,
+    "wof:lastmodified":1466461317,
     "wof:name":"Veterans Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "state"
     ]
 },
-  "bbox": [-83.954452,34.87487,-83.954452,34.87487],
+  "bbox": [
+    -83.954452,
+    34.87487,
+    -83.954452,
+    34.87487
+],
   "geometry": {"coordinates":[-83.954452,34.87487],"type":"Point"}
 }

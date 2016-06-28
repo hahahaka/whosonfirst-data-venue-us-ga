@@ -2,13 +2,14 @@
   "id": 169634657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.722652,32.830071,-83.722652,32.830071",
     "geom:latitude":32.830071,
     "geom:longitude":-83.722652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Woodfield Dr",
     "sg:city":"Macon",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169634657,
-    "wof:lastmodified":1449034255,
+    "wof:lastmodified":1466461248,
     "wof:name":"Uniway Of Macon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "order"
     ]
 },
-  "bbox": [-83.722652,32.830071,-83.722652,32.830071],
+  "bbox": [
+    -83.722652,
+    32.830071,
+    -83.722652,
+    32.830071
+],
   "geometry": {"coordinates":[-83.722652,32.830071],"type":"Point"}
 }

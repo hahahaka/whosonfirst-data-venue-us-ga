@@ -2,13 +2,14 @@
   "id": 185689947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.110651,33.671619,-82.110651,33.671619",
     "geom:latitude":33.671619,
     "geom:longitude":-82.110651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Garrett Rd",
     "sg:city":"Clarks Hill",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185689947,
-    "wof:lastmodified":1449007968,
+    "wof:lastmodified":1466461305,
     "wof:name":"Carey Hill Baptist Church",
     "wof:parent_id":85876035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-82.110651,33.671619,-82.110651,33.671619],
+  "bbox": [
+    -82.110651,
+    33.671619,
+    -82.110651,
+    33.671619
+],
   "geometry": {"coordinates":[-82.110651,33.671619],"type":"Point"}
 }

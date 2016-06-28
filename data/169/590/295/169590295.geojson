@@ -2,13 +2,14 @@
   "id": 169590295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.029845,34.023219,-84.029845,34.023219",
     "geom:latitude":34.023219,
     "geom:longitude":-84.029845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Paris Dr",
     "sg:city":"Lawrenceville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169590295,
-    "wof:lastmodified":1449034655,
+    "wof:lastmodified":1466461303,
     "wof:name":"Haynes Creative Solutions",
     "wof:parent_id":85802315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.029845,34.023219,-84.029845,34.023219],
-  "geometry": {"coordinates":[-84.029845,34.023219],"type":"Point"}
+  "bbox": [
+    -84.029845,
+    34.023219,
+    -84.029845,
+    34.023219
+],
+  "geometry": {"coordinates":[-84.02984499999999,34.023219],"type":"Point"}
 }

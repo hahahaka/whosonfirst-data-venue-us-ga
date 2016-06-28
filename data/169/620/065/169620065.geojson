@@ -2,13 +2,14 @@
   "id": 169620065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.027158,33.879917,-84.027158,33.879917",
     "geom:latitude":33.879917,
     "geom:longitude":-84.027158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 Tree Ln",
     "sg:city":"Snellville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169620065,
-    "wof:lastmodified":1449035675,
+    "wof:lastmodified":1466461226,
     "wof:name":"Resurgens Orthopaedic",
     "wof:parent_id":85857829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-84.027158,33.879917,-84.027158,33.879917],
+  "bbox": [
+    -84.027158,
+    33.879917,
+    -84.027158,
+    33.879917
+],
   "geometry": {"coordinates":[-84.027158,33.879917],"type":"Point"}
 }

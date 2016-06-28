@@ -2,13 +2,14 @@
   "id": 169670905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.307607,31.131812,-84.307607,31.131812",
     "geom:latitude":31.131812,
     "geom:longitude":-84.307607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7812 Mount Olive Rd",
     "sg:city":"Camilla",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169670905,
-    "wof:lastmodified":1449033185,
+    "wof:lastmodified":1466461294,
     "wof:name":"Brent C Faircloth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-84.307607,31.131812,-84.307607,31.131812],
+  "bbox": [
+    -84.307607,
+    31.131812,
+    -84.307607,
+    31.131812
+],
   "geometry": {"coordinates":[-84.307607,31.131812],"type":"Point"}
 }

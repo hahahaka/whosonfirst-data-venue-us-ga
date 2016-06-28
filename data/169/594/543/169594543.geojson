@@ -2,13 +2,14 @@
   "id": 169594543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.3633,33.537892,-84.3633,33.537892",
     "geom:latitude":33.537892,
     "geom:longitude":-84.3633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"867 State Rte 138",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169594543,
-    "wof:lastmodified":1449033163,
+    "wof:lastmodified":1466461310,
     "wof:name":"Industrial Textile Supply Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.3633,33.537892,-84.3633,33.537892],
+  "bbox": [
+    -84.3633,
+    33.537892,
+    -84.3633,
+    33.537892
+],
   "geometry": {"coordinates":[-84.3633,33.537892],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337611529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.003883,33.550333,-82.003883,33.550333",
     "geom:latitude":33.550333,
     "geom:longitude":-82.003883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1367 W Martintown Rd",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":337611529,
-    "wof:lastmodified":1449027581,
+    "wof:lastmodified":1466461651,
     "wof:name":"Animal House Grooming",
     "wof:parent_id":85876035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-82.003883,33.550333,-82.003883,33.550333],
+  "bbox": [
+    -82.003883,
+    33.550333,
+    -82.003883,
+    33.550333
+],
   "geometry": {"coordinates":[-82.003883,33.550333],"type":"Point"}
 }

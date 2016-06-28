@@ -2,13 +2,14 @@
   "id": 169617057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.144272,33.725625,-84.144272,33.725625",
     "geom:latitude":33.725625,
     "geom:longitude":-84.144272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2130 Tiffany Trl",
     "sg:city":"Lithonia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169617057,
-    "wof:lastmodified":1449032800,
+    "wof:lastmodified":1466461223,
     "wof:name":"Jackson Hamilton & Associates",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.144272,33.725625,-84.144272,33.725625],
+  "bbox": [
+    -84.144272,
+    33.725625,
+    -84.144272,
+    33.725625
+],
   "geometry": {"coordinates":[-84.144272,33.725625],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169636459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.382738,33.412613,-82.382738,33.412613",
     "geom:latitude":33.412613,
     "geom:longitude":-82.382738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4683 Augusta Hwy",
     "sg:city":"Dearing",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169636459,
-    "wof:lastmodified":1449033986,
+    "wof:lastmodified":1466461252,
     "wof:name":"Agusta Tech Adult Education Ct",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-82.382738,33.412613,-82.382738,33.412613],
+  "bbox": [
+    -82.382738,
+    33.412613,
+    -82.382738,
+    33.412613
+],
   "geometry": {"coordinates":[-82.382738,33.412613],"type":"Point"}
 }

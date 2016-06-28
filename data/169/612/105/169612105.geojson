@@ -2,13 +2,14 @@
   "id": 169612105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.910297,34.164018,-83.910297,34.164018",
     "geom:latitude":34.164018,
     "geom:longitude":-83.910297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5006 Old Orr Rd",
     "sg:city":"Flowery Branch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169612105,
-    "wof:lastmodified":1449034130,
+    "wof:lastmodified":1466461214,
     "wof:name":"Doug Jones Painting",
     "wof:parent_id":85850511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-83.910297,34.164018,-83.910297,34.164018],
+  "bbox": [
+    -83.910297,
+    34.164018,
+    -83.910297,
+    34.164018
+],
   "geometry": {"coordinates":[-83.910297,34.164018],"type":"Point"}
 }

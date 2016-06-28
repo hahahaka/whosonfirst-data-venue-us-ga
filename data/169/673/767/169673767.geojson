@@ -2,13 +2,14 @@
   "id": 169673767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.981295,30.843217,-83.981295,30.843217",
     "geom:latitude":30.843217,
     "geom:longitude":-83.981295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 N Dawson St",
     "sg:city":"Thomasville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169673767,
-    "wof:lastmodified":1449033956,
+    "wof:lastmodified":1466461296,
     "wof:name":"Universal Adjusters Inc",
     "wof:parent_id":85806705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "adjuster"
     ]
 },
-  "bbox": [-83.981295,30.843217,-83.981295,30.843217],
+  "bbox": [
+    -83.981295,
+    30.843217,
+    -83.981295,
+    30.843217
+],
   "geometry": {"coordinates":[-83.981295,30.843217],"type":"Point"}
 }

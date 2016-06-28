@@ -2,13 +2,14 @@
   "id": 202670967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.567847,30.901426,-84.567847,30.901426",
     "geom:latitude":30.901426,
     "geom:longitude":-84.567847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"537 S Scott St",
     "sg:city":"Bainbridge",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202670967,
-    "wof:lastmodified":1449060485,
+    "wof:lastmodified":1466461302,
     "wof:name":"Public Health Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [-84.567847,30.901426,-84.567847,30.901426],
+  "bbox": [
+    -84.567847,
+    30.901426,
+    -84.567847,
+    30.901426
+],
   "geometry": {"coordinates":[-84.567847,30.901426],"type":"Point"}
 }

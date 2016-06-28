@@ -2,13 +2,14 @@
   "id": 169601153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.21963,31.586403,-84.21963,31.586403",
     "geom:latitude":31.586403,
     "geom:longitude":-84.21963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 N Westover Blvd",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169601153,
-    "wof:lastmodified":1449034150,
+    "wof:lastmodified":1466461196,
     "wof:name":"Lewis R Lamb Atty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.21963,31.586403,-84.21963,31.586403],
+  "bbox": [
+    -84.21963,
+    31.586403,
+    -84.21963,
+    31.586403
+],
   "geometry": {"coordinates":[-84.21963,31.586403],"type":"Point"}
 }

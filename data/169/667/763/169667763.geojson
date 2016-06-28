@@ -2,13 +2,14 @@
   "id": 169667763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.373678,33.752323,-84.373678,33.752323",
     "geom:latitude":33.752323,
     "geom:longitude":-84.373678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Lucy St SE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169667763,
-    "wof:lastmodified":1449034847,
+    "wof:lastmodified":1466461289,
     "wof:name":"Kareayne & Assoc Inc",
     "wof:parent_id":85872043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-84.373678,33.752323,-84.373678,33.752323],
+  "bbox": [
+    -84.373678,
+    33.752323,
+    -84.373678,
+    33.752323
+],
   "geometry": {"coordinates":[-84.373678,33.752323],"type":"Point"}
 }

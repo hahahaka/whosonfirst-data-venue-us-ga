@@ -2,13 +2,14 @@
   "id": 169634585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.412319,33.966441,-84.412319,33.966441",
     "geom:latitude":33.966441,
     "geom:longitude":-84.412319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4665 Lower Roswell Rd",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169634585,
-    "wof:lastmodified":1449034257,
+    "wof:lastmodified":1466461247,
     "wof:name":"Stars and Stripes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-84.412319,33.966441,-84.412319,33.966441],
+  "bbox": [
+    -84.412319,
+    33.966441,
+    -84.412319,
+    33.966441
+],
   "geometry": {"coordinates":[-84.412319,33.966441],"type":"Point"}
 }

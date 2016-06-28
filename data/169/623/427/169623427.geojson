@@ -2,13 +2,14 @@
   "id": 169623427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.291164,30.664038,-83.291164,30.664038",
     "geom:latitude":30.664038,
     "geom:longitude":-83.291164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6246 Jumping Gulley Rd",
     "sg:city":"Valdosta",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":169623427,
-    "wof:lastmodified":1449034998,
+    "wof:lastmodified":1466461235,
     "wof:name":"Gg & H Trucking",
     "wof:parent_id":85827233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "trucking"
     ]
 },
-  "bbox": [-83.291164,30.664038,-83.291164,30.664038],
-  "geometry": {"coordinates":[-83.291164,30.664038],"type":"Point"}
+  "bbox": [
+    -83.291164,
+    30.664038,
+    -83.291164,
+    30.664038
+],
+  "geometry": {"coordinates":[-83.29116399999999,30.664038],"type":"Point"}
 }

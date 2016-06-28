@@ -2,13 +2,14 @@
   "id": 337292961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.018811,33.618251,-82.018811,33.618251",
     "geom:latitude":33.618251,
     "geom:longitude":-82.018811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 Briggs Rd",
     "sg:city":"North Augusta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337292961,
-    "wof:lastmodified":1449027013,
+    "wof:lastmodified":1466461319,
     "wof:name":"A B Hudson Portable Welding",
     "wof:parent_id":85876035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-82.018811,33.618251,-82.018811,33.618251],
+  "bbox": [
+    -82.018811,
+    33.618251,
+    -82.018811,
+    33.618251
+],
   "geometry": {"coordinates":[-82.018811,33.618251],"type":"Point"}
 }

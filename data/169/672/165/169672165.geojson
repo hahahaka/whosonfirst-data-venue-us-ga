@@ -2,13 +2,14 @@
   "id": 169672165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.211212,30.683805,-83.211212,30.683805",
     "geom:latitude":30.683805,
     "geom:longitude":-83.211212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 Lakes Blvd",
     "sg:city":"Lake Park",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169672165,
-    "wof:lastmodified":1449032890,
+    "wof:lastmodified":1466461291,
     "wof:name":"Johnston Lakes Library",
     "wof:parent_id":85827233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.211212,30.683805,-83.211212,30.683805],
+  "bbox": [
+    -83.211212,
+    30.683805,
+    -83.211212,
+    30.683805
+],
   "geometry": {"coordinates":[-83.211212,30.683805],"type":"Point"}
 }

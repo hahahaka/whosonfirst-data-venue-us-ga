@@ -2,13 +2,14 @@
   "id": 169587191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.996271,33.953688,-83.996271,33.953688",
     "geom:latitude":33.953688,
     "geom:longitude":-83.996271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Langley Dr",
     "sg:city":"Lawrenceville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169587191,
-    "wof:lastmodified":1449033823,
+    "wof:lastmodified":1466461297,
     "wof:name":"Kevin Wilson",
     "wof:parent_id":85847023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "counselor"
     ]
 },
-  "bbox": [-83.996271,33.953688,-83.996271,33.953688],
-  "geometry": {"coordinates":[-83.996271,33.953688],"type":"Point"}
+  "bbox": [
+    -83.996271,
+    33.953688,
+    -83.996271,
+    33.953688
+],
+  "geometry": {"coordinates":[-83.99627099999999,33.953688],"type":"Point"}
 }

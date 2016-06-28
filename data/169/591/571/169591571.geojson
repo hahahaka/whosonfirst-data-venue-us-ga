@@ -2,13 +2,14 @@
   "id": 169591571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.298667,33.899533,-84.298667,33.899533",
     "geom:latitude":33.899533,
     "geom:longitude":-84.298667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2065 Peachtree Industrial Ct",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169591571,
-    "wof:lastmodified":1449034451,
+    "wof:lastmodified":1466461305,
     "wof:name":"MAB Paint Store",
     "wof:parent_id":85889955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "paint"
     ]
 },
-  "bbox": [-84.298667,33.899533,-84.298667,33.899533],
-  "geometry": {"coordinates":[-84.298667,33.899533],"type":"Point"}
+  "bbox": [
+    -84.298667,
+    33.899533,
+    -84.298667,
+    33.899533
+],
+  "geometry": {"coordinates":[-84.29866699999999,33.899533],"type":"Point"}
 }

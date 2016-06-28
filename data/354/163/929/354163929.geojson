@@ -2,13 +2,14 @@
   "id": 354163929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.918593,33.491486,-81.918593,33.491486",
     "geom:latitude":33.491486,
     "geom:longitude":-81.918593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5115 US Hwy 1",
     "sg:city":"Beech Island",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":354163929,
-    "wof:lastmodified":1449067647,
+    "wof:lastmodified":1466461207,
     "wof:name":"Line-X Of Aiken",
     "wof:parent_id":85817111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cap"
     ]
 },
-  "bbox": [-81.918593,33.491486,-81.918593,33.491486],
+  "bbox": [
+    -81.918593,
+    33.491486,
+    -81.918593,
+    33.491486
+],
   "geometry": {"coordinates":[-81.918593,33.491486],"type":"Point"}
 }

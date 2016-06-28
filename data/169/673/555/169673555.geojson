@@ -2,13 +2,14 @@
   "id": 169673555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.014955,33.09076,-82.014955,33.09076",
     "geom:latitude":33.09076,
     "geom:longitude":-82.014955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Myrick St",
     "sg:city":"Waynesboro",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169673555,
-    "wof:lastmodified":1449033959,
+    "wof:lastmodified":1466461296,
     "wof:name":"Mobley Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "plant"
     ]
 },
-  "bbox": [-82.014955,33.09076,-82.014955,33.09076],
+  "bbox": [
+    -82.014955,
+    33.09076,
+    -82.014955,
+    33.09076
+],
   "geometry": {"coordinates":[-82.014955,33.09076],"type":"Point"}
 }
