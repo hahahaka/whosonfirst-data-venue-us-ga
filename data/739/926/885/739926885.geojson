@@ -2,9 +2,14 @@
   "id": 739926885,
   "type": "Feature",
   "properties": {
+    "addr:full":"3402 Piedmont Road NE Atlanta GA 30305",
+    "addr:housenumber":"3402",
+    "addr:postcode":"30305",
+    "addr:street":"Piedmont Road Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.373597,33.848233,-84.373597,33.848233",
     "geom:latitude":33.848233,
     "geom:longitude":-84.373597,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872063,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872063
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872063,
             "region_id":85688535,
             "venue_id":739926885
         }
     ],
     "wof:id":739926885,
-    "wof:lastmodified":1466478707,
+    "wof:lastmodified":1486668913,
     "wof:name":"Aveda Institute Atlanta",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",

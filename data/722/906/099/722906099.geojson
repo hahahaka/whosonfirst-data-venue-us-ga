@@ -2,9 +2,14 @@
   "id": 722906099,
   "type": "Feature",
   "properties": {
+    "addr:full":"2125 Arlington Ave NE Atlanta GA 30324",
+    "addr:housenumber":"2125",
+    "addr:postcode":"30324",
+    "addr:street":"Arlington Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.348984,33.812287,-84.348984,33.812287",
     "geom:latitude":33.812287,
     "geom:longitude":-84.348984,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85889987,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85889987
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85889987,
             "region_id":85688535,
             "venue_id":722906099
         }
     ],
     "wof:id":722906099,
-    "wof:lastmodified":1466472615,
+    "wof:lastmodified":1486669818,
     "wof:name":"Creative Rain LLC",
     "wof:parent_id":85889987,
     "wof:placetype":"venue",

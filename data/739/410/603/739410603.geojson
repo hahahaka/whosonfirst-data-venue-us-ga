@@ -2,9 +2,14 @@
   "id": 739410603,
   "type": "Feature",
   "properties": {
+    "addr:full":"1825 Niskey Lake Rd SW Atlanta GA 30331",
+    "addr:housenumber":"1825",
+    "addr:postcode":"30331",
+    "addr:street":"Niskey Lake Rd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.529459,33.705016,-84.529459,33.705016",
     "geom:latitude":33.705016,
     "geom:longitude":-84.529459,
@@ -24,7 +29,15 @@
     "sg:postcode":"30331",
     "sg:province":"GA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108798537,
+        102191575,
+        1108797035,
+        85633793,
+        85936429,
+        102083603,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1K1MeDKEhzgS5G3ofuakiR_33.705016_-84.529459@1294087602"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461906776,
     "wof:geomhash":"6f81ae4d1e442a651f98239f1ea9fa06",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798537,
+            "region_id":85688535,
+            "venue_id":739410603
+        }
+    ],
     "wof:id":739410603,
-    "wof:lastmodified":1466466721,
+    "wof:lastmodified":1486672736,
     "wof:name":"World Wide Final Expense Plan",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108798537,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

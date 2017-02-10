@@ -2,9 +2,14 @@
   "id": 740054029,
   "type": "Feature",
   "properties": {
+    "addr:full":"1272 Murphy Ave Atlanta GA 31136",
+    "addr:housenumber":"1272",
+    "addr:postcode":"31136",
+    "addr:street":"Murphy Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.423553,33.720292,-84.423553,33.720292",
     "geom:latitude":33.720292,
     "geom:longitude":-84.423553,
@@ -26,12 +31,13 @@
     "sg:website":"www.thebcomplex.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420518003,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        420518003
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":420518003,
             "region_id":85688535,
             "venue_id":740054029
         }
     ],
     "wof:id":740054029,
-    "wof:lastmodified":1466465596,
+    "wof:lastmodified":1486667836,
     "wof:name":"The B-Complex",
     "wof:parent_id":420518003,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 723148431,
   "type": "Feature",
   "properties": {
+    "addr:full":"3451 Hamilton Blvd SW Atlanta GA 30354",
+    "addr:housenumber":"3451",
+    "addr:postcode":"30354",
+    "addr:street":"Hamilton Blvd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.385568,33.662982,-84.385568,33.662982",
     "geom:latitude":33.662982,
     "geom:longitude":-84.385568,
@@ -24,7 +29,15 @@
     "sg:postcode":"30354",
     "sg:province":"GA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85872083,
+        102191575,
+        1108797037,
+        85633793,
+        85936429,
+        102083603,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YHhj39RpJ8PegxxqmfQAi_33.662982_-84.385568@1294087602"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461896069,
     "wof:geomhash":"767281d0e54b5a84a306394f11b15bff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797037,
+            "neighbourhood_id":85872083,
+            "region_id":85688535,
+            "venue_id":723148431
+        }
+    ],
     "wof:id":723148431,
-    "wof:lastmodified":1466466475,
+    "wof:lastmodified":1486668201,
     "wof:name":"Thrasher Logistics Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872083,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

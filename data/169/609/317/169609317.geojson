@@ -2,9 +2,14 @@
   "id": 169609317,
   "type": "Feature",
   "properties": {
+    "addr:full":"490 Peyton Rd SW Atlanta GA 30311",
+    "addr:housenumber":"490",
+    "addr:postcode":"30311",
+    "addr:street":"Peyton Rd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.479263,33.741879,-84.479263,33.741879",
     "geom:latitude":33.741879,
     "geom:longitude":-84.479263,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872143,
+        102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        85872143
+        85688535,
+        1108798395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,30 @@
     "wof:geomhash":"9704ec89316f81ef415cce245f3a891e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":85872143,
+            "region_id":85688535,
+            "venue_id":169609317
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798395,
             "region_id":85688535,
             "venue_id":169609317
         }
     ],
     "wof:id":169609317,
-    "wof:lastmodified":1466461209,
+    "wof:lastmodified":1486672549,
     "wof:name":"Slum Music Entertainment",
-    "wof:parent_id":85872143,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

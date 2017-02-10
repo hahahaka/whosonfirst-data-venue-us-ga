@@ -2,9 +2,14 @@
   "id": 739972543,
   "type": "Feature",
   "properties": {
+    "addr:full":"3401 Northside Pkwy Atlanta GA 30327",
+    "addr:housenumber":"3401",
+    "addr:postcode":"30327",
+    "addr:street":"Northside Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.428272,33.84745,-84.428272,33.84745",
     "geom:latitude":33.84745,
     "geom:longitude":-84.428272,
@@ -29,12 +34,13 @@
     "sg:website":"www.facilityrepairservices.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872137,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872137
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872137,
             "region_id":85688535,
             "venue_id":739972543
         }
     ],
     "wof:id":739972543,
-    "wof:lastmodified":1466479377,
+    "wof:lastmodified":1486671767,
     "wof:name":"Facility Repair Services",
     "wof:parent_id":85872137,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 739947655,
   "type": "Feature",
   "properties": {
+    "addr:full":"1183 Oakland Ln SW Atlanta GA 30310",
+    "addr:housenumber":"1183",
+    "addr:postcode":"30310",
+    "addr:street":"Oakland Ln Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.426672,33.719697,-84.426672,33.719697",
     "geom:latitude":33.719697,
     "geom:longitude":-84.426672,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420518003,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        420518003
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":420518003,
             "region_id":85688535,
             "venue_id":739947655
         }
     ],
     "wof:id":739947655,
-    "wof:lastmodified":1466478924,
+    "wof:lastmodified":1486667981,
     "wof:name":"Alwayes 24 Hr A Locksmith",
     "wof:parent_id":420518003,
     "wof:placetype":"venue",

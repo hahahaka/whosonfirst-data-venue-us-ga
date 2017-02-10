@@ -2,9 +2,14 @@
   "id": 739957637,
   "type": "Feature",
   "properties": {
+    "addr:full":"468 Moreland Avenue SE Atlanta GA 30316",
+    "addr:housenumber":"468",
+    "addr:postcode":"30316",
+    "addr:street":"Moreland Avenue Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.349374,33.740701,-84.349374,33.740701",
     "geom:latitude":33.740701,
     "geom:longitude":-84.349374,
@@ -37,10 +42,10 @@
     "wof:belongsto":[
         85688535,
         102191575,
+        1108797037,
         85633793,
         85936429,
-        102083603,
-        85808173
+        102083603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +60,15 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85808173,
+            "macrohood_id":1108797037,
             "region_id":85688535,
             "venue_id":739957637
         }
     ],
     "wof:id":739957637,
-    "wof:lastmodified":1466479054,
+    "wof:lastmodified":1486668228,
     "wof:name":"Martha Brown United Methodist Church",
-    "wof:parent_id":85808173,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

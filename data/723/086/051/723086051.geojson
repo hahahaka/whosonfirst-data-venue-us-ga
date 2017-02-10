@@ -2,9 +2,14 @@
   "id": 723086051,
   "type": "Feature",
   "properties": {
+    "addr:full":"930 New Town Cir SE Atlanta GA 30315",
+    "addr:housenumber":"930",
+    "addr:postcode":"30315",
+    "addr:street":"New Town Cir Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.360905,33.707053,-84.360905,33.707053",
     "geom:latitude":33.707053,
     "geom:longitude":-84.360905,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420517923,
         102191575,
+        1108797037,
         85633793,
         85936429,
         102083603,
-        420517923
+        85688535,
+        85852171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,26 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797037,
             "neighbourhood_id":420517923,
+            "region_id":85688535,
+            "venue_id":723086051
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797037,
+            "neighbourhood_id":85852171,
             "region_id":85688535,
             "venue_id":723086051
         }
     ],
     "wof:id":723086051,
-    "wof:lastmodified":1466464246,
+    "wof:lastmodified":1486670670,
     "wof:name":"Sara Home Care",
-    "wof:parent_id":420517923,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

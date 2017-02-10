@@ -2,9 +2,14 @@
   "id": 739927297,
   "type": "Feature",
   "properties": {
+    "addr:full":"2969 Hardman Ct NE Atlanta GA 30305",
+    "addr:housenumber":"2969",
+    "addr:postcode":"30305",
+    "addr:street":"Hardman Ct Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.370614,33.836084,-84.370614,33.836084",
     "geom:latitude":33.836084,
     "geom:longitude":-84.370614,
@@ -37,12 +42,13 @@
     "sg:website":"http://www.tsadamsstudio.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872063,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872063
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +63,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872063,
             "region_id":85688535,
             "venue_id":739927297
         }
     ],
     "wof:id":739927297,
-    "wof:lastmodified":1466478596,
+    "wof:lastmodified":1486671454,
     "wof:name":"T S Adams Studio",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",

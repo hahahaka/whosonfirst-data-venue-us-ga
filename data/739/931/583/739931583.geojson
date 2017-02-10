@@ -2,9 +2,14 @@
   "id": 739931583,
   "type": "Feature",
   "properties": {
+    "addr:full":"1448 N Morningside Dr NE Atlanta GA 30306",
+    "addr:housenumber":"1448",
+    "addr:postcode":"30306",
+    "addr:street":"N Morningside Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.358333,33.794256,-84.358333,33.794256",
     "geom:latitude":33.794256,
     "geom:longitude":-84.358333,
@@ -38,10 +43,10 @@
     "wof:belongsto":[
         85688535,
         102191575,
+        1108797045,
         85633793,
         85936429,
-        102083603,
-        85837709
+        102083603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +61,15 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85837709,
+            "macrohood_id":1108797045,
             "region_id":85688535,
             "venue_id":739931583
         }
     ],
     "wof:id":739931583,
-    "wof:lastmodified":1466478650,
+    "wof:lastmodified":1486669740,
     "wof:name":"S A & A",
-    "wof:parent_id":85837709,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

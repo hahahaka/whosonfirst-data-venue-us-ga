@@ -2,9 +2,14 @@
   "id": 739943423,
   "type": "Feature",
   "properties": {
+    "addr:full":"1800 Peachtree St NW Atlanta GA 30309",
+    "addr:housenumber":"1800",
+    "addr:postcode":"30309",
+    "addr:street":"Peachtree St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.393019,33.803192,-84.393019,33.803192",
     "geom:latitude":33.803192,
     "geom:longitude":-84.393019,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85807999,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85807999
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85807999,
             "region_id":85688535,
             "venue_id":739943423
         }
     ],
     "wof:id":739943423,
-    "wof:lastmodified":1466478828,
+    "wof:lastmodified":1486668578,
     "wof:name":"Joshi Law Firm",
     "wof:parent_id":85807999,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 739918889,
   "type": "Feature",
   "properties": {
+    "addr:full":"65 Peachtree St SW Atlanta GA 30303",
+    "addr:housenumber":"65",
+    "addr:postcode":"30303",
+    "addr:street":"Peachtree St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.391731,33.752995,-84.391731,33.752995",
     "geom:latitude":33.752995,
     "geom:longitude":-84.391731,
@@ -26,13 +31,14 @@
     "sg:website":"www.freegeorgiahealthinsurancequ...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108797063,
+        85866901,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85819463,
-        85872071
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,24 +53,17 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85819463,
-            "region_id":85688535,
-            "venue_id":739918889
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083603,
-            "locality_id":85936429,
-            "neighbourhood_id":85872071,
+            "macrohood_id":1108797045,
+            "microhood_id":1108797063,
+            "neighbourhood_id":85866901,
             "region_id":85688535,
             "venue_id":739918889
         }
     ],
     "wof:id":739918889,
-    "wof:lastmodified":1466478485,
+    "wof:lastmodified":1486682634,
     "wof:name":"Georgia Health Insurance",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108797063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

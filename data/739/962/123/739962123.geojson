@@ -2,9 +2,14 @@
   "id": 739962123,
   "type": "Feature",
   "properties": {
+    "addr:full":"1058 Howell Mill Rd NW Atlanta GA 30318",
+    "addr:housenumber":"1058",
+    "addr:postcode":"30318",
+    "addr:street":"Howell Mill Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.4118,33.783497,-84.4118,33.783497",
     "geom:latitude":33.783497,
     "geom:longitude":-84.4118,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85805581,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85805581
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85805581,
             "region_id":85688535,
             "venue_id":739962123
         }
     ],
     "wof:id":739962123,
-    "wof:lastmodified":1466479147,
+    "wof:lastmodified":1486670225,
     "wof:name":"The Northside Tavern",
     "wof:parent_id":85805581,
     "wof:placetype":"venue",

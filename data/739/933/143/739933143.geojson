@@ -2,9 +2,14 @@
   "id": 739933143,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Krog Street NE Apt F Atlanta GA 30307",
+    "addr:housenumber":"10",
+    "addr:postcode":"30307",
+    "addr:street":"Krog Street Ne Apt F",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.363893,33.753654,-84.363893,33.753654",
     "geom:latitude":33.753654,
     "geom:longitude":-84.363893,
@@ -26,12 +31,13 @@
     "sg:website":"www.timbarrettdesigns.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85808737,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85808737
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85808737,
             "region_id":85688535,
             "venue_id":739933143
         }
     ],
     "wof:id":739933143,
-    "wof:lastmodified":1466478571,
+    "wof:lastmodified":1486669550,
     "wof:name":"Tim Barrett Designs",
     "wof:parent_id":85808737,
     "wof:placetype":"venue",

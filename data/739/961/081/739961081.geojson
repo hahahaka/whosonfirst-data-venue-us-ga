@@ -2,9 +2,14 @@
   "id": 739961081,
   "type": "Feature",
   "properties": {
+    "addr:full":"1016 Howell Mill Rd Atlanta GA 30318",
+    "addr:housenumber":"1016",
+    "addr:postcode":"30318",
+    "addr:street":"Howell Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.411611,33.782669,-84.411611,33.782669",
     "geom:latitude":33.782669,
     "geom:longitude":-84.411611,
@@ -36,12 +41,13 @@
     "sg:website":"www.1016Lofts.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85805581,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85805581
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,13 +62,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85805581,
             "region_id":85688535,
             "venue_id":739961081
         }
     ],
     "wof:id":739961081,
-    "wof:lastmodified":1466479137,
+    "wof:lastmodified":1486669692,
     "wof:name":"1016 Lofts",
     "wof:parent_id":85805581,
     "wof:placetype":"venue",

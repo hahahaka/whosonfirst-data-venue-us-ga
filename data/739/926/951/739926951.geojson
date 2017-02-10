@@ -2,9 +2,14 @@
   "id": 739926951,
   "type": "Feature",
   "properties": {
+    "addr:full":"3535 Roswell Rd NE Apt J3 Atlanta GA 30305",
+    "addr:housenumber":"3535;rd",
+    "addr:postcode":"30305",
+    "addr:street":"Roswell;Ne Apt J3",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.382977,33.851669,-84.382977,33.851669",
     "geom:latitude":33.851669,
     "geom:longitude":-84.382977,
@@ -29,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872063,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872063
+        85688535,
+        1108798177
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,26 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872063,
+            "region_id":85688535,
+            "venue_id":739926951
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":1108798177,
             "region_id":85688535,
             "venue_id":739926951
         }
     ],
     "wof:id":739926951,
-    "wof:lastmodified":1466478721,
+    "wof:lastmodified":1486672309,
     "wof:name":"On-Service.Com",
-    "wof:parent_id":85872063,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

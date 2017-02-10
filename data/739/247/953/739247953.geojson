@@ -2,9 +2,14 @@
   "id": 739247953,
   "type": "Feature",
   "properties": {
+    "addr:full":"1874 Piedmont Rd NE Atlanta GA 30324",
+    "addr:housenumber":"1874",
+    "addr:postcode":"30324",
+    "addr:street":"Piedmont Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.366902,33.806267,-84.366902,33.806267",
     "geom:latitude":33.806267,
     "geom:longitude":-84.366902,
@@ -28,13 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872115,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85832987,
-        85872115
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,24 +54,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85832987,
-            "region_id":85688535,
-            "venue_id":739247953
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083603,
-            "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85872115,
             "region_id":85688535,
             "venue_id":739247953
         }
     ],
     "wof:id":739247953,
-    "wof:lastmodified":1466461332,
+    "wof:lastmodified":1486670032,
     "wof:name":"World Link Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872115,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

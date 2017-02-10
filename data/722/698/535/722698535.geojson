@@ -2,9 +2,14 @@
   "id": 722698535,
   "type": "Feature",
   "properties": {
+    "addr:full":"1055 Delaware Ave SE Atlanta GA 30316",
+    "addr:housenumber":"1055",
+    "addr:postcode":"30316",
+    "addr:street":"Delaware Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.352644,33.73128,-84.352644,33.73128",
     "geom:latitude":33.73128,
     "geom:longitude":-84.352644,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872151,
         102191575,
+        1108797037,
         85633793,
         85936429,
         102083603,
-        85872151
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797037,
             "neighbourhood_id":85872151,
             "region_id":85688535,
             "venue_id":722698535
         }
     ],
     "wof:id":722698535,
-    "wof:lastmodified":1466467729,
+    "wof:lastmodified":1486668155,
     "wof:name":"Re/Max",
     "wof:parent_id":85872151,
     "wof:placetype":"venue",

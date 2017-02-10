@@ -2,9 +2,14 @@
   "id": 723402617,
   "type": "Feature",
   "properties": {
+    "addr:full":"2096 Bethel Dr NW Atlanta GA 30314",
+    "addr:housenumber":"2096",
+    "addr:postcode":"30314",
+    "addr:street":"Bethel Dr Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.454906,33.762431,-84.454906,33.762431",
     "geom:latitude":33.762431,
     "geom:longitude":-84.454906,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798363,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
-        85804751
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85804751,
+            "macrohood_id":1108797043,
+            "neighbourhood_id":1108798363,
             "region_id":85688535,
             "venue_id":723402617
         }
     ],
     "wof:id":723402617,
-    "wof:lastmodified":1466473154,
+    "wof:lastmodified":1486672516,
     "wof:name":"Ellipse Enterprise",
-    "wof:parent_id":85804751,
+    "wof:parent_id":1108798363,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

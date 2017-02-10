@@ -2,9 +2,14 @@
   "id": 739953807,
   "type": "Feature",
   "properties": {
+    "addr:full":"571 Spencer St NW Atlanta GA 30314",
+    "addr:housenumber":"571",
+    "addr:postcode":"30314",
+    "addr:street":"Spencer St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.406079,33.760045,-84.406079,33.760045",
     "geom:latitude":33.760045,
     "geom:longitude":-84.406079,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85853903,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
-        85853903
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797043,
             "neighbourhood_id":85853903,
             "region_id":85688535,
             "venue_id":739953807
         }
     ],
     "wof:id":739953807,
-    "wof:lastmodified":1466479084,
+    "wof:lastmodified":1486668979,
     "wof:name":"Vine City Civic Association, Inc.",
     "wof:parent_id":85853903,
     "wof:placetype":"venue",

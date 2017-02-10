@@ -2,9 +2,14 @@
   "id": 739948799,
   "type": "Feature",
   "properties": {
+    "addr:full":"1631 Stanton Rd SW Atlanta GA 30311",
+    "addr:housenumber":"1631",
+    "addr:postcode":"30311",
+    "addr:street":"Stanton Rd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.443701,33.710968,-84.443701,33.710968",
     "geom:latitude":33.710968,
     "geom:longitude":-84.443701,
@@ -32,12 +37,13 @@
     "sg:website":"http://www.forrent.com/apartment-community-profile/1018819.php?cmp=CAC-CSearchProfile",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798509,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        420517887
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +58,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":420517887,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798509,
             "region_id":85688535,
             "venue_id":739948799
         }
     ],
     "wof:id":739948799,
-    "wof:lastmodified":1466479081,
+    "wof:lastmodified":1486672689,
     "wof:name":"Spanish Villas Apartments",
-    "wof:parent_id":420517887,
+    "wof:parent_id":1108798509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

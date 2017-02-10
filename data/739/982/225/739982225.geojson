@@ -2,9 +2,14 @@
   "id": 739982225,
   "type": "Feature",
   "properties": {
+    "addr:full":"3390 Fairburn Rd SW F89 Atlanta GA 30331",
+    "addr:housenumber":"3390",
+    "addr:postcode":"30331",
+    "addr:street":"Fairburn Rd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.522812,33.664059,-84.522812,33.664059",
     "geom:latitude":33.664059,
     "geom:longitude":-84.522812,
@@ -27,7 +32,14 @@
         "importer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        1108797035,
+        85633793,
+        85936429,
+        102083603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39SiOu6BVhBbVvtlCVcJnr_33.664059_-84.522812@1303262622"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461923218,
     "wof:geomhash":"6b0669b1c3ca0dedf2332746930776a1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797035,
+            "region_id":85688535,
+            "venue_id":739982225
+        }
+    ],
     "wof:id":739982225,
-    "wof:lastmodified":1466479581,
+    "wof:lastmodified":1486668060,
     "wof:name":"Climax Adult Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

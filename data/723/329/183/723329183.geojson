@@ -2,9 +2,14 @@
   "id": 723329183,
   "type": "Feature",
   "properties": {
+    "addr:full":"133 Burre Ln SW Atlanta GA 30331",
+    "addr:housenumber":"133",
+    "addr:postcode":"30331",
+    "addr:street":"Burre Ln Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.517511,33.757867,-84.517511,33.757867",
     "geom:latitude":33.757867,
     "geom:longitude":-84.517511,
@@ -28,7 +33,15 @@
         "artist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108798379,
+        102191575,
+        1108797035,
+        85633793,
+        85936429,
+        102083603,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5t4wa8WWYhl64YfS9YUznW_33.757867_-84.517511@1294087602"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461899611,
     "wof:geomhash":"6cad00f5905ca6e0d0364c116e760ebb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798379,
+            "region_id":85688535,
+            "venue_id":723329183
+        }
+    ],
     "wof:id":723329183,
-    "wof:lastmodified":1466471327,
+    "wof:lastmodified":1486672534,
     "wof:name":"Dove's Unlimited",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108798379,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

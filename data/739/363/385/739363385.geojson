@@ -2,9 +2,14 @@
   "id": 739363385,
   "type": "Feature",
   "properties": {
+    "addr:full":"3647 Cloudland Dr NW Atlanta GA 30327",
+    "addr:housenumber":"3647",
+    "addr:postcode":"30327",
+    "addr:street":"Cloudland Dr Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.434407,33.85572,-84.434407,33.85572",
     "geom:latitude":33.85572,
     "geom:longitude":-84.434407,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798187,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872107
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872107,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":1108798187,
             "region_id":85688535,
             "venue_id":739363385
         }
     ],
     "wof:id":739363385,
-    "wof:lastmodified":1466465150,
+    "wof:lastmodified":1486672341,
     "wof:name":"Chilton D Varner",
-    "wof:parent_id":85872107,
+    "wof:parent_id":1108798187,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739717053,
   "type": "Feature",
   "properties": {
+    "addr:full":"757 Cleveland Ave SE Atlanta GA 30354",
+    "addr:housenumber":"757",
+    "addr:postcode":"30354",
+    "addr:street":"Cleveland Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.365709,33.679433,-84.365709,33.679433",
     "geom:latitude":33.679433,
     "geom:longitude":-84.365709,
@@ -27,7 +32,15 @@
         "coin"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420784727,
+        102191575,
+        1108797037,
+        85633793,
+        85936429,
+        102083603,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xQL1nAwLzbZnF7K3kZUGK_33.679433_-84.365709@1294087602"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461912929,
     "wof:geomhash":"a4f41d08e4c0b20c7c0261468ce8049c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797037,
+            "neighbourhood_id":420784727,
+            "region_id":85688535,
+            "venue_id":739717053
+        }
+    ],
     "wof:id":739717053,
-    "wof:lastmodified":1466474541,
+    "wof:lastmodified":1486672115,
     "wof:name":"24 7 Coin Laundry",
-    "wof:parent_id":-1,
+    "wof:parent_id":420784727,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

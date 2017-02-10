@@ -2,6 +2,10 @@
   "id": 723237751,
   "type": "Feature",
   "properties": {
+    "addr:full":"206 N Duke St La Fayette GA 30728",
+    "addr:housenumber":"206",
+    "addr:postcode":"30728",
+    "addr:street":"N Duke St;Fayette",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":723237751,
-    "wof:lastmodified":1466469062,
+    "wof:lastmodified":1472618677,
     "wof:name":"Transport Service",
     "wof:parent_id":85830807,
     "wof:placetype":"venue",

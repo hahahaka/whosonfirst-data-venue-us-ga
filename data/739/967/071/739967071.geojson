@@ -2,9 +2,14 @@
   "id": 739967071,
   "type": "Feature",
   "properties": {
+    "addr:full":"1540 Monroe Dr NE Atlanta GA 30324",
+    "addr:housenumber":"1540",
+    "addr:postcode":"30324",
+    "addr:street":"Monroe Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.368759,33.796829,-84.368759,33.796829",
     "geom:latitude":33.796829,
     "geom:longitude":-84.368759,
@@ -19,13 +24,14 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872115,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85835263,
-        85872115
+        85688535,
+        85835263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,7 +46,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85835263,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":85872115,
             "region_id":85688535,
             "venue_id":739967071
         },
@@ -49,15 +56,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872115,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":85835263,
             "region_id":85688535,
             "venue_id":739967071
         }
     ],
     "wof:id":739967071,
-    "wof:lastmodified":1466479139,
+    "wof:lastmodified":1486670638,
     "wof:name":"Le Bam Event Venue",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739930317,
   "type": "Feature",
   "properties": {
+    "addr:full":"505 Pharr Road Atlanta GA 30305",
+    "addr:housenumber":"505",
+    "addr:postcode":"30305",
+    "addr:street":"Pharr Road",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.371782,33.836479,-84.371782,33.836479",
     "geom:latitude":33.836479,
     "geom:longitude":-84.371782,
@@ -40,12 +45,13 @@
     "sg:website":"www.holidayinnexpress.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872063,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872063
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,13 +66,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872063,
             "region_id":85688535,
             "venue_id":739930317
         }
     ],
     "wof:id":739930317,
-    "wof:lastmodified":1466478599,
+    "wof:lastmodified":1486668336,
     "wof:name":"Holiday Inn Express Hotel & Suites Atlanta / Buckhead",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",

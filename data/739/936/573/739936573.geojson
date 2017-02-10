@@ -2,9 +2,14 @@
   "id": 739936573,
   "type": "Feature",
   "properties": {
+    "addr:full":"360 Ponce De Leon Ave Suite 25 Atlanta GA 30308",
+    "addr:housenumber":"360;25",
+    "addr:postcode":"30308",
+    "addr:street":"Ponce De Leon Ave Suite",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.375394,33.772356,-84.375394,33.772356",
     "geom:latitude":33.772356,
     "geom:longitude":-84.375394,
@@ -36,12 +41,13 @@
     "sg:website":"www.mdeventplanning.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85853981,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85853981
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,13 +62,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85853981,
             "region_id":85688535,
             "venue_id":739936573
         }
     ],
     "wof:id":739936573,
-    "wof:lastmodified":1466478740,
+    "wof:lastmodified":1486671305,
     "wof:name":"MD Event Planning",
     "wof:parent_id":85853981,
     "wof:placetype":"venue",

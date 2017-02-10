@@ -2,9 +2,14 @@
   "id": 739953231,
   "type": "Feature",
   "properties": {
+    "addr:full":"1357 Collier St NW Atlanta GA 30314",
+    "addr:housenumber":"1357",
+    "addr:postcode":"30314",
+    "addr:street":"Collier St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.433194,33.762464,-84.433194,33.762464",
     "geom:latitude":33.762464,
     "geom:longitude":-84.433194,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872091,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
-        85872091
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797043,
             "neighbourhood_id":85872091,
             "region_id":85688535,
             "venue_id":739953231
         }
     ],
     "wof:id":739953231,
-    "wof:lastmodified":1466478980,
+    "wof:lastmodified":1486669035,
     "wof:name":"Hill Street Warehouse",
     "wof:parent_id":85872091,
     "wof:placetype":"venue",

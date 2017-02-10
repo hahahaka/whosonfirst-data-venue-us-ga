@@ -2,9 +2,14 @@
   "id": 739941123,
   "type": "Feature",
   "properties": {
+    "addr:full":"2255 Peachtree Rd Atlanta GA 30309",
+    "addr:housenumber":"2255",
+    "addr:postcode":"30309",
+    "addr:street":"Peachtree Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.390459,33.815547,-84.390459,33.815547",
     "geom:latitude":33.815547,
     "geom:longitude":-84.390459,
@@ -26,12 +31,14 @@
     "sg:website":"www.hfbreadco.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85808017,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85808017
+        85688535,
+        1108798513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +53,26 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85808017,
+            "region_id":85688535,
+            "venue_id":739941123
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":1108798513,
             "region_id":85688535,
             "venue_id":739941123
         }
     ],
     "wof:id":739941123,
-    "wof:lastmodified":1466478887,
+    "wof:lastmodified":1486672715,
     "wof:name":"H&F Bread Co",
-    "wof:parent_id":85808017,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

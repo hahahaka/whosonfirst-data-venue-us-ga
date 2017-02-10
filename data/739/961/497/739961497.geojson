@@ -2,9 +2,14 @@
   "id": 739961497,
   "type": "Feature",
   "properties": {
+    "addr:full":"1050 Techwood Dr NW Atlanta GA 30318",
+    "addr:housenumber":"1050",
+    "addr:postcode":"30318",
+    "addr:street":"Techwood Dr Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.391991,33.784409,-84.391991,33.784409",
     "geom:latitude":33.784409,
     "geom:longitude":-84.391991,
@@ -29,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85805581,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85866909,
-        85805581
+        85688535,
+        85866909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +56,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85866909,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":85805581,
             "region_id":85688535,
             "venue_id":739961497
         },
@@ -59,15 +66,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85805581,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":85866909,
             "region_id":85688535,
             "venue_id":739961497
         }
     ],
     "wof:id":739961497,
-    "wof:lastmodified":1466479224,
+    "wof:lastmodified":1486669763,
     "wof:name":"Broadcast Technology Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

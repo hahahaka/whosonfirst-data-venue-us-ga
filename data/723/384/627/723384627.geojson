@@ -2,9 +2,14 @@
   "id": 723384627,
   "type": "Feature",
   "properties": {
+    "addr:full":"45 Cleveland Ave SE Atlanta GA 30315",
+    "addr:housenumber":"45",
+    "addr:postcode":"30315",
+    "addr:street":"Cleveland Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.388465,33.68101,-84.388465,33.68101",
     "geom:latitude":33.68101,
     "geom:longitude":-84.388465,
@@ -30,10 +35,10 @@
     "wof:belongsto":[
         85688535,
         102191575,
+        1108797037,
         85633793,
         85936429,
-        102083603,
-        85808085
+        102083603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +53,15 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85808085,
+            "macrohood_id":1108797037,
             "region_id":85688535,
             "venue_id":723384627
         }
     ],
     "wof:id":723384627,
-    "wof:lastmodified":1466472541,
+    "wof:lastmodified":1486671477,
     "wof:name":"St James Overcoming",
-    "wof:parent_id":85808085,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

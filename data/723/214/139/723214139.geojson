@@ -2,9 +2,14 @@
   "id": 723214139,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Glenrose Cir SW Atlanta GA 30354",
+    "addr:housenumber":"100",
+    "addr:postcode":"30354",
+    "addr:street":"Glenrose Cir Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.393185,33.67062,-84.393185,33.67062",
     "geom:latitude":33.67062,
     "geom:longitude":-84.393185,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420517949,
         102191575,
+        1108797037,
         85633793,
         85936429,
         102083603,
-        420517949
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797037,
             "neighbourhood_id":420517949,
             "region_id":85688535,
             "venue_id":723214139
         }
     ],
     "wof:id":723214139,
-    "wof:lastmodified":1466468436,
+    "wof:lastmodified":1486668128,
     "wof:name":"Fain Major Wiley & Brannan PC",
     "wof:parent_id":420517949,
     "wof:placetype":"venue",

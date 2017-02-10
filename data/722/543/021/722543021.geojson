@@ -2,9 +2,14 @@
   "id": 722543021,
   "type": "Feature",
   "properties": {
+    "addr:full":"629 Sherwood Rd NE Atlanta GA 30324",
+    "addr:housenumber":"629",
+    "addr:postcode":"30324",
+    "addr:street":"Sherwood Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.366181,33.797904,-84.366181,33.797904",
     "geom:latitude":33.797904,
     "geom:longitude":-84.366181,
@@ -29,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85835263,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85872115,
-        85835263
+        85688535,
+        85872115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +56,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872115,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":85835263,
             "region_id":85688535,
             "venue_id":722543021
         },
@@ -59,15 +66,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85835263,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":85872115,
             "region_id":85688535,
             "venue_id":722543021
         }
     ],
     "wof:id":722543021,
-    "wof:lastmodified":1466461570,
+    "wof:lastmodified":1486670061,
     "wof:name":"Solutions Software Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

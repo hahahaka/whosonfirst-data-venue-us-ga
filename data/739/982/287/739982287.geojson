@@ -2,9 +2,14 @@
   "id": 739982287,
   "type": "Feature",
   "properties": {
+    "addr:full":"4555 Campbellton Rd SW Atlanta GA 30331",
+    "addr:housenumber":"4555",
+    "addr:postcode":"30331",
+    "addr:street":"Campbellton Rd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.537987,33.694741,-84.537987,33.694741",
     "geom:latitude":33.694741,
     "geom:longitude":-84.537987,
@@ -33,7 +38,15 @@
         "churches-baptist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108798305,
+        102191575,
+        1108797035,
+        85633793,
+        85936429,
+        102083603,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0y7IMW9PCGKdOGgzGnA5uE_33.694741_-84.537987@1303262622"
@@ -41,11 +54,22 @@
     "wof:country":"US",
     "wof:created":1461923220,
     "wof:geomhash":"c4f1df3707ede0030fbf93b891f4aa67",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798305,
+            "region_id":85688535,
+            "venue_id":739982287
+        }
+    ],
     "wof:id":739982287,
-    "wof:lastmodified":1466479500,
+    "wof:lastmodified":1486672455,
     "wof:name":"Greater Elizabeth Missionary Baptist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108798305,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

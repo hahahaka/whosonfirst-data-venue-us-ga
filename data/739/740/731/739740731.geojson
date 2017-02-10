@@ -2,9 +2,14 @@
   "id": 739740731,
   "type": "Feature",
   "properties": {
+    "addr:full":"236 Moore St SE Atlanta GA 30312",
+    "addr:housenumber":"236",
+    "addr:postcode":"30312",
+    "addr:street":"Moore St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.380687,33.747577,-84.380687,33.747577",
     "geom:latitude":33.747577,
     "geom:longitude":-84.380687,
@@ -40,12 +45,13 @@
     "sg:website":"www.conklinmetal.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420784699,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85872043
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,15 +66,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872043,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":420784699,
             "region_id":85688535,
             "venue_id":739740731
         }
     ],
     "wof:id":739740731,
-    "wof:lastmodified":1466475220,
+    "wof:lastmodified":1486672001,
     "wof:name":"Conklin Metal Industries",
-    "wof:parent_id":85872043,
+    "wof:parent_id":420784699,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

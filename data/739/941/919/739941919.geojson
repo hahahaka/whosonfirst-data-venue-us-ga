@@ -2,9 +2,14 @@
   "id": 739941919,
   "type": "Feature",
   "properties": {
+    "addr:full":"2221 Peachtree Rd NE, Suite V Atlanta GA 30309",
+    "addr:housenumber":"2221",
+    "addr:postcode":"30309",
+    "addr:street":"Peachtree Rd Ne Suite V",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.391748,33.814873,-84.391748,33.814873",
     "geom:latitude":33.814873,
     "geom:longitude":-84.391748,
@@ -29,12 +34,14 @@
     "sg:website":"http://www.franchisemart-atlanta.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872089,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872089
+        85688535,
+        1108798513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,26 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872089,
+            "region_id":85688535,
+            "venue_id":739941919
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":1108798513,
             "region_id":85688535,
             "venue_id":739941919
         }
     ],
     "wof:id":739941919,
-    "wof:lastmodified":1466478884,
+    "wof:lastmodified":1486672713,
     "wof:name":"FranchiseMart",
-    "wof:parent_id":85872089,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739951597,
   "type": "Feature",
   "properties": {
+    "addr:full":"250 Georgia Avenue SE Atlanta GA 30312",
+    "addr:housenumber":"250",
+    "addr:postcode":"30312",
+    "addr:street":"Georgia Avenue Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.379874,33.736744,-84.379874,33.736744",
     "geom:latitude":33.736744,
     "geom:longitude":-84.379874,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85866905,
         102191575,
+        1108797037,
         85633793,
         85936429,
         102083603,
-        85851371,
-        85866905
+        85688535,
+        85851371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +55,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85851371,
+            "macrohood_id":1108797037,
+            "neighbourhood_id":85866905,
             "region_id":85688535,
             "venue_id":739951597
         },
@@ -58,15 +65,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85866905,
+            "macrohood_id":1108797037,
+            "neighbourhood_id":85851371,
             "region_id":85688535,
             "venue_id":739951597
         }
     ],
     "wof:id":739951597,
-    "wof:lastmodified":1466479049,
+    "wof:lastmodified":1486668146,
     "wof:name":"The South Atlanta Child Development Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

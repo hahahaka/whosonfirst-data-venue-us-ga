@@ -2,9 +2,14 @@
   "id": 740017219,
   "type": "Feature",
   "properties": {
+    "addr:full":"3173 Pennington Cir SW Atlanta GA 30354",
+    "addr:housenumber":"3173",
+    "addr:postcode":"30354",
+    "addr:street":"Pennington Cir Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.391791,33.667975,-84.391791,33.667975",
     "geom:latitude":33.667975,
     "geom:longitude":-84.391791,
@@ -18,7 +23,14 @@
     "sg:postcode":"30354",
     "sg:province":"GA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        1108797037,
+        85633793,
+        85936429,
+        102083603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YgP46yGuZ9iT12Mou0ovL_33.667975_-84.391791@1303262631"
@@ -26,9 +38,19 @@
     "wof:country":"US",
     "wof:created":1461924588,
     "wof:geomhash":"3da272f3ab602b657ccc2b90a21169bb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797037,
+            "region_id":85688535,
+            "venue_id":740017219
+        }
+    ],
     "wof:id":740017219,
-    "wof:lastmodified":1466463040,
+    "wof:lastmodified":1486668131,
     "wof:name":"Hilton Iii Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

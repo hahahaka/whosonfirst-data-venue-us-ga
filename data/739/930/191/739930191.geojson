@@ -2,9 +2,14 @@
   "id": 739930191,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 E Andrews Drive NW Atlanta GA 30305",
+    "addr:housenumber":"101",
+    "addr:postcode":"30305",
+    "addr:street":"E Andrews Drive Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.384172,33.832729,-84.384172,33.832729",
     "geom:latitude":33.832729,
     "geom:longitude":-84.384172,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872111,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872111
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872111,
             "region_id":85688535,
             "venue_id":739930191
         }
     ],
     "wof:id":739930191,
-    "wof:lastmodified":1466478577,
+    "wof:lastmodified":1486668688,
     "wof:name":"P A C Productions & Concerts",
     "wof:parent_id":85872111,
     "wof:placetype":"venue",

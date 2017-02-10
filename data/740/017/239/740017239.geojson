@@ -2,9 +2,14 @@
   "id": 740017239,
   "type": "Feature",
   "properties": {
+    "addr:full":"399 Macedonia Rd SE Atlanta GA 30354",
+    "addr:housenumber":"399",
+    "addr:postcode":"30354",
+    "addr:street":"Macedonia Rd Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.377129,33.66361,-84.377129,33.66361",
     "geom:latitude":33.66361,
     "geom:longitude":-84.377129,
@@ -28,7 +33,15 @@
         "private"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420784729,
+        102191575,
+        1108797037,
+        85633793,
+        85936429,
+        102083603,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gDsknpYlGhjLAF1B7zlAx_33.663610_-84.377129@1303262631"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461924588,
     "wof:geomhash":"2ad4616bd977bfce4b2d7313ac2cd33d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797037,
+            "neighbourhood_id":420784729,
+            "region_id":85688535,
+            "venue_id":740017239
+        }
+    ],
     "wof:id":740017239,
-    "wof:lastmodified":1466463043,
+    "wof:lastmodified":1486672118,
     "wof:name":"Premier Academy, Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":420784729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

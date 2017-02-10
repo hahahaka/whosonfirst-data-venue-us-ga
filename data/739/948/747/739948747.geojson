@@ -2,9 +2,14 @@
   "id": 739948747,
   "type": "Feature",
   "properties": {
+    "addr:full":"1413 Woodland Ter SW Atlanta GA 30311",
+    "addr:housenumber":"1413",
+    "addr:postcode":"30311",
+    "addr:street":"Woodland Ter Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.473891,33.716987,-84.473891,33.716987",
     "geom:latitude":33.716987,
     "geom:longitude":-84.473891,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85809733,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        85809733
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":85809733,
             "region_id":85688535,
             "venue_id":739948747
         }
     ],
     "wof:id":739948747,
-    "wof:lastmodified":1466479071,
+    "wof:lastmodified":1486667824,
     "wof:name":"A Locksmith A 24 7",
     "wof:parent_id":85809733,
     "wof:placetype":"venue",

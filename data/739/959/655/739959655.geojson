@@ -2,9 +2,14 @@
   "id": 739959655,
   "type": "Feature",
   "properties": {
+    "addr:full":"688 Donald Lee Hollowell Pkwy NW Atlanta GA 30318",
+    "addr:housenumber":"688",
+    "addr:postcode":"30318",
+    "addr:street":"Donald Lee Hollowell Pkwy Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.410227,33.773096,-84.410227,33.773096",
     "geom:latitude":33.773096,
     "geom:longitude":-84.410227,
@@ -34,12 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420517897,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
-        420517897
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797043,
             "neighbourhood_id":420517897,
             "region_id":85688535,
             "venue_id":739959655
         }
     ],
     "wof:id":739959655,
-    "wof:lastmodified":1466479255,
+    "wof:lastmodified":1486669090,
     "wof:name":"St Mark Baptist Church",
     "wof:parent_id":420517897,
     "wof:placetype":"venue",

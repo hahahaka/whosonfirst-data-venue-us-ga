@@ -2,9 +2,14 @@
   "id": 739375825,
   "type": "Feature",
   "properties": {
+    "addr:full":"1059 Oglethorpe Ave SW Atlanta GA 30310",
+    "addr:housenumber":"1059",
+    "addr:postcode":"30310",
+    "addr:street":"Oglethorpe Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.421669,33.735879,-84.421669,33.735879",
     "geom:latitude":33.735879,
     "geom:longitude":-84.421669,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85855423,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        85855423
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":85855423,
             "region_id":85688535,
             "venue_id":739375825
         }
     ],
     "wof:id":739375825,
-    "wof:lastmodified":1466465398,
+    "wof:lastmodified":1486667845,
     "wof:name":"Abernathy Towers",
     "wof:parent_id":85855423,
     "wof:placetype":"venue",

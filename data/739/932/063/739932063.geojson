@@ -2,9 +2,14 @@
   "id": 739932063,
   "type": "Feature",
   "properties": {
+    "addr:full":"906 Briarcliff Rd NE Atlanta GA 30306",
+    "addr:housenumber":"906",
+    "addr:postcode":"30306",
+    "addr:street":"Briarcliff Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.345206,33.779137,-84.345206,33.779137",
     "geom:latitude":33.779137,
     "geom:longitude":-84.345206,
@@ -43,12 +48,13 @@
     "sg:website":"http://www.alaneff.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85815283,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85815283
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,13 +69,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85815283,
             "region_id":85688535,
             "venue_id":739932063
         }
     ],
     "wof:id":739932063,
-    "wof:lastmodified":1466478556,
+    "wof:lastmodified":1486670173,
     "wof:name":"Alan Eff Photography",
     "wof:parent_id":85815283,
     "wof:placetype":"venue",

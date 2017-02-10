@@ -2,9 +2,14 @@
   "id": 739923029,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 Marietta St NW # 1000 Atlanta GA 30303",
+    "addr:housenumber":"55",
+    "addr:postcode":"30303",
+    "addr:street":"Marietta St Nw # 1000",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.391068,33.755428,-84.391068,33.755428",
     "geom:latitude":33.755428,
     "geom:longitude":-84.391068,
@@ -31,13 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108797055,
+        85866901,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85866901,
-        85819463
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,24 +58,17 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "microhood_id":1108797055,
             "neighbourhood_id":85866901,
-            "region_id":85688535,
-            "venue_id":739923029
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083603,
-            "locality_id":85936429,
-            "neighbourhood_id":85819463,
             "region_id":85688535,
             "venue_id":739923029
         }
     ],
     "wof:id":739923029,
-    "wof:lastmodified":1466478222,
+    "wof:lastmodified":1486672900,
     "wof:name":"Policy Studies Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108797055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

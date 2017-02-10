@@ -2,9 +2,14 @@
   "id": 722982463,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 Lois St NW Atlanta GA 30318",
+    "addr:housenumber":"900",
+    "addr:postcode":"30318",
+    "addr:street":"Lois St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.432973,33.786294,-84.432973,33.786294",
     "geom:latitude":33.786294,
     "geom:longitude":-84.432973,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85845437,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
-        85845437
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797043,
             "neighbourhood_id":85845437,
             "region_id":85688535,
             "venue_id":722982463
         }
     ],
     "wof:id":722982463,
-    "wof:lastmodified":1466474694,
+    "wof:lastmodified":1486669024,
     "wof:name":"Vulcan Materials Company",
     "wof:parent_id":85845437,
     "wof:placetype":"venue",

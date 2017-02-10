@@ -2,9 +2,14 @@
   "id": 722891607,
   "type": "Feature",
   "properties": {
+    "addr:full":"2437 Barge Rd SW Atlanta GA 30331",
+    "addr:housenumber":"2437",
+    "addr:postcode":"30331",
+    "addr:street":"Barge Rd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.506326,33.689695,-84.506326,33.689695",
     "geom:latitude":33.689695,
     "geom:longitude":-84.506326,
@@ -25,13 +30,16 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872085,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        85822133,
-        85872085
+        85688535,
+        1108798547,
+        85937155,
+        85822133
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +54,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85822133,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":85872085,
             "region_id":85688535,
             "venue_id":722891607
         },
@@ -55,15 +64,25 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872085,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798547,
+            "region_id":85688535,
+            "venue_id":722891607
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937155,
+            "neighbourhood_id":85822133,
             "region_id":85688535,
             "venue_id":722891607
         }
     ],
     "wof:id":722891607,
-    "wof:lastmodified":1466472438,
+    "wof:lastmodified":1486672747,
     "wof:name":"Majestic Properties Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

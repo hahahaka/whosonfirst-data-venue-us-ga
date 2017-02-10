@@ -2,9 +2,14 @@
   "id": 739954673,
   "type": "Feature",
   "properties": {
+    "addr:full":"451 Atlanta Avenue SE Atlanta GA 30315",
+    "addr:housenumber":"451",
+    "addr:postcode":"30315",
+    "addr:street":"Atlanta Avenue Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.377566,33.703787,-84.377566,33.703787",
     "geom:latitude":33.703787,
     "geom:longitude":-84.377566,
@@ -26,12 +31,13 @@
     "sg:website":"www.drsykes.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872129,
         102191575,
+        1108797037,
         85633793,
         85936429,
         102083603,
-        85872129
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797037,
             "neighbourhood_id":85872129,
             "region_id":85688535,
             "venue_id":739954673
         }
     ],
     "wof:id":739954673,
-    "wof:lastmodified":1466479060,
+    "wof:lastmodified":1486668191,
     "wof:name":"Cosmetic Dentures & Partials",
     "wof:parent_id":85872129,
     "wof:placetype":"venue",

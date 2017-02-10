@@ -2,9 +2,14 @@
   "id": 739983891,
   "type": "Feature",
   "properties": {
+    "addr:full":"3566 Fairburn Pl NW Atlanta GA 30331",
+    "addr:housenumber":"3566",
+    "addr:postcode":"30331",
+    "addr:street":"Fairburn Pl Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.50525,33.772015,-84.50525,33.772015",
     "geom:latitude":33.772015,
     "geom:longitude":-84.50525,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798369,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
-        420558565
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":420558565,
+            "macrohood_id":1108797043,
+            "neighbourhood_id":1108798369,
             "region_id":85688535,
             "venue_id":739983891
         }
     ],
     "wof:id":739983891,
-    "wof:lastmodified":1466479503,
+    "wof:lastmodified":1486672523,
     "wof:name":"Hall Of Fame Studios",
-    "wof:parent_id":420558565,
+    "wof:parent_id":1108798369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

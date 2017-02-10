@@ -2,9 +2,14 @@
   "id": 723130899,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Hascall Rd NW Atlanta GA 30309",
+    "addr:housenumber":"300",
+    "addr:postcode":"30309",
+    "addr:street":"Hascall Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.399427,33.797087,-84.399427,33.797087",
     "geom:latitude":33.797087,
     "geom:longitude":-84.399427,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85889937,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85889937
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85889937,
             "region_id":85688535,
             "venue_id":723130899
         }
     ],
     "wof:id":723130899,
-    "wof:lastmodified":1466465683,
+    "wof:lastmodified":1486671530,
     "wof:name":"Look South LLC",
     "wof:parent_id":85889937,
     "wof:placetype":"venue",

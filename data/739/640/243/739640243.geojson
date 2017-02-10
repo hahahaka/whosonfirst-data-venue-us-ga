@@ -2,9 +2,14 @@
   "id": 739640243,
   "type": "Feature",
   "properties": {
+    "addr:full":"1570 Northside Pkwy NW Atlanta GA 30318",
+    "addr:housenumber":"1570",
+    "addr:postcode":"30318",
+    "addr:street":"Northside Pkwy Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.407919,33.797916,-84.407919,33.797916",
     "geom:latitude":33.797916,
     "geom:longitude":-84.407919,
@@ -29,13 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85889937,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
+        85688535,
         85872097,
-        85889937
+        1108798331
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,6 +57,17 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":85889937,
+            "region_id":85688535,
+            "venue_id":739640243
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85872097,
             "region_id":85688535,
             "venue_id":739640243
@@ -59,15 +77,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85889937,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":1108798331,
             "region_id":85688535,
             "venue_id":739640243
         }
     ],
     "wof:id":739640243,
-    "wof:lastmodified":1466472720,
+    "wof:lastmodified":1486672481,
     "wof:name":"Vertis",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

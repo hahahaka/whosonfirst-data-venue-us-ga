@@ -2,9 +2,14 @@
   "id": 739491875,
   "type": "Feature",
   "properties": {
+    "addr:full":"2080 Beecher Rd SW Atlanta GA 30311",
+    "addr:housenumber":"2080",
+    "addr:postcode":"30311",
+    "addr:street":"Beecher Rd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.456653,33.733454,-84.456653,33.733454",
     "geom:latitude":33.733454,
     "geom:longitude":-84.456653,
@@ -25,12 +30,14 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420517961,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        420517961
+        85688535,
+        1108798255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,26 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":420517961,
+            "region_id":85688535,
+            "venue_id":739491875
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798255,
             "region_id":85688535,
             "venue_id":739491875
         }
     ],
     "wof:id":739491875,
-    "wof:lastmodified":1466468757,
+    "wof:lastmodified":1486672427,
     "wof:name":"Jamanda Health Care Svcs PC",
-    "wof:parent_id":420517961,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

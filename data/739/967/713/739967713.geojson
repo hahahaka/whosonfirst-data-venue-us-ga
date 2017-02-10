@@ -2,9 +2,14 @@
   "id": 739967713,
   "type": "Feature",
   "properties": {
+    "addr:full":"565 Main St Atlanta GA 30324",
+    "addr:housenumber":"565",
+    "addr:postcode":"30324",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.36934,33.822508,-84.36934,33.822508",
     "geom:latitude":33.822508,
     "geom:longitude":-84.36934,
@@ -34,12 +39,13 @@
     "sg:website":"www.tongueandgrooveonline.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872095,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872095
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872095,
             "region_id":85688535,
             "venue_id":739967713
         }
     ],
     "wof:id":739967713,
-    "wof:lastmodified":1466479271,
+    "wof:lastmodified":1486671514,
     "wof:name":"Tongue & Groove",
     "wof:parent_id":85872095,
     "wof:placetype":"venue",

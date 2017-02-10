@@ -2,9 +2,14 @@
   "id": 739957673,
   "type": "Feature",
   "properties": {
+    "addr:full":"2519 Hosea L Williams Dr NE Atlanta GA 30317",
+    "addr:housenumber":"2519",
+    "addr:postcode":"30317",
+    "addr:street":"Hosea L Williams Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.304636,33.750902,-84.304636,33.750902",
     "geom:latitude":33.750902,
     "geom:longitude":-84.304636,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
-        85633793,
         85816491,
-        102084539
+        102191575,
+        1108797045,
+        85633793,
+        85936429,
+        102083603,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +50,18 @@
     "wof:geomhash":"4fcc0145b811cbc39437245332ef4a01",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084539,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85816491,
             "region_id":85688535,
             "venue_id":739957673
         }
     ],
     "wof:id":739957673,
-    "wof:lastmodified":1466479061,
+    "wof:lastmodified":1486669431,
     "wof:name":"A A Tiger Locksmith",
     "wof:parent_id":85816491,
     "wof:placetype":"venue",

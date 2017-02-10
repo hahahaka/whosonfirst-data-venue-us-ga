@@ -2,9 +2,14 @@
   "id": 739598231,
   "type": "Feature",
   "properties": {
+    "addr:full":"2581 Piedmont Rd NE Atlanta GA 30324",
+    "addr:housenumber":"2581",
+    "addr:postcode":"30324",
+    "addr:street":"Piedmont Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.367166,33.823711,-84.367166,33.823711",
     "geom:latitude":33.823711,
     "geom:longitude":-84.367166,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872095,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872095
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872095,
             "region_id":85688535,
             "venue_id":739598231
         }
     ],
     "wof:id":739598231,
-    "wof:lastmodified":1466471533,
+    "wof:lastmodified":1486668251,
     "wof:name":"Nearly New Shop",
     "wof:parent_id":85872095,
     "wof:placetype":"venue",

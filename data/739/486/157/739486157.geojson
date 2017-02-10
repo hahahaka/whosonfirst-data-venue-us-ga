@@ -2,9 +2,14 @@
   "id": 739486157,
   "type": "Feature",
   "properties": {
+    "addr:full":"346 Woodward Way NW Atlanta GA 30305",
+    "addr:housenumber":"346",
+    "addr:postcode":"30305",
+    "addr:street":"Woodward Way Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.399836,33.817419,-84.399836,33.817419",
     "geom:latitude":33.817419,
     "geom:longitude":-84.399836,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872089,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872089
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872089,
             "region_id":85688535,
             "venue_id":739486157
         }
     ],
     "wof:id":739486157,
-    "wof:lastmodified":1466468529,
+    "wof:lastmodified":1486668255,
     "wof:name":"By Port Interiors",
     "wof:parent_id":85872089,
     "wof:placetype":"venue",

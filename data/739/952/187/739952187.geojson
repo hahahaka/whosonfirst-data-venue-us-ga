@@ -2,9 +2,14 @@
   "id": 739952187,
   "type": "Feature",
   "properties": {
+    "addr:full":"477 Windsor Street SW Atlanta GA 30312",
+    "addr:housenumber":"477",
+    "addr:postcode":"30312",
+    "addr:street":"Windsor Street Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.398202,33.742449,-84.398202,33.742449",
     "geom:latitude":33.742449,
     "geom:longitude":-84.398202,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872071,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85872071
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85872071,
             "region_id":85688535,
             "venue_id":739952187
         }
     ],
     "wof:id":739952187,
-    "wof:lastmodified":1466478973,
+    "wof:lastmodified":1486670611,
     "wof:name":"Fulton County Government",
     "wof:parent_id":85872071,
     "wof:placetype":"venue",

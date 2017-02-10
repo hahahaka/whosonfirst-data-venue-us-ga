@@ -2,9 +2,14 @@
   "id": 739957593,
   "type": "Feature",
   "properties": {
+    "addr:full":"1334 Milton Pl Atlanta GA 30316",
+    "addr:housenumber":"1334",
+    "addr:postcode":"30316",
+    "addr:street":"Milton Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.343997,33.735583,-84.343997,33.735583",
     "geom:latitude":33.735583,
     "geom:longitude":-84.343997,
@@ -37,7 +42,14 @@
         "specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        1108797045,
+        85633793,
+        85936429,
+        102083603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76HJrXOcU8aJhmCuCebzYi_33.735583_-84.343997@1303262615"
@@ -45,9 +57,19 @@
     "wof:country":"US",
     "wof:created":1461922281,
     "wof:geomhash":"4668aec666f4dc458ff95ef30bdd059b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "region_id":85688535,
+            "venue_id":739957593
+        }
+    ],
     "wof:id":739957593,
-    "wof:lastmodified":1466479047,
+    "wof:lastmodified":1486669124,
     "wof:name":"Bow Wow Meow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

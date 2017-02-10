@@ -2,9 +2,14 @@
   "id": 739931083,
   "type": "Feature",
   "properties": {
+    "addr:full":"1198 N Highland Ave NE Atlanta GA 30306",
+    "addr:housenumber":"1198",
+    "addr:postcode":"30306",
+    "addr:street":"N Highland Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.355344,33.787513,-84.355344,33.787513",
     "geom:latitude":33.787513,
     "geom:longitude":-84.355344,
@@ -35,12 +40,13 @@
     "sg:website":"www.armourandco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85853981,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85853981
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85853981,
             "region_id":85688535,
             "venue_id":739931083
         }
     ],
     "wof:id":739931083,
-    "wof:lastmodified":1466478559,
+    "wof:lastmodified":1486669492,
     "wof:name":"Armour & Co",
     "wof:parent_id":85853981,
     "wof:placetype":"venue",

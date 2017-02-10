@@ -2,9 +2,14 @@
   "id": 739933901,
   "type": "Feature",
   "properties": {
+    "addr:full":"1395 McLendon Ave NE Atlanta GA 30307",
+    "addr:housenumber":"1395",
+    "addr:postcode":"30307",
+    "addr:street":"Mclendon Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.341864,33.764863,-84.341864,33.764863",
     "geom:latitude":33.764863,
     "geom:longitude":-84.341864,
@@ -26,13 +31,14 @@
     "sg:website":"www.candlerparkflowers.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85815283,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85837755,
-        85815283
+        85688535,
+        1108798213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +53,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85837755,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":85815283,
             "region_id":85688535,
             "venue_id":739933901
         },
@@ -56,15 +63,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85815283,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":1108798213,
             "region_id":85688535,
             "venue_id":739933901
         }
     ],
     "wof:id":739933901,
-    "wof:lastmodified":1466478713,
+    "wof:lastmodified":1486672368,
     "wof:name":"Candler Park Flower Mart",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 723031451,
   "type": "Feature",
   "properties": {
+    "addr:full":"298 Hermer Cir NW Atlanta GA 30311",
+    "addr:housenumber":"298",
+    "addr:postcode":"30311",
+    "addr:street":"Hermer Cir Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.485735,33.759104,-84.485735,33.759104",
     "geom:latitude":33.759104,
     "geom:longitude":-84.485735,
@@ -25,13 +30,15 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798555,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        420559055,
-        85872073
+        85688535,
+        85872073,
+        1108797043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +53,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":420559055,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798555,
             "region_id":85688535,
             "venue_id":723031451
         },
@@ -55,15 +63,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797043,
             "neighbourhood_id":85872073,
             "region_id":85688535,
             "venue_id":723031451
         }
     ],
     "wof:id":723031451,
-    "wof:lastmodified":1466462666,
+    "wof:lastmodified":1486672752,
     "wof:name":"Ivey Rental Properties",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

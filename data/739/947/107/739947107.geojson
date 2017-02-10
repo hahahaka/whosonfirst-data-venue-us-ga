@@ -2,9 +2,14 @@
   "id": 739947107,
   "type": "Feature",
   "properties": {
+    "addr:full":"387 Joseph E Lowery Blvd SW # 110 Atlanta GA 30310",
+    "addr:housenumber":"387",
+    "addr:postcode":"30310",
+    "addr:street":"Joseph E Lowery Blvd Sw # 110",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.417545,33.743975,-84.417545,33.743975",
     "geom:latitude":33.743975,
     "geom:longitude":-84.417545,
@@ -35,13 +40,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798423,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        85872049,
-        85855423
+        85688535,
+        85855423,
+        85872049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +63,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872049,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798423,
             "region_id":85688535,
             "venue_id":739947107
         },
@@ -65,15 +73,26 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":85855423,
+            "region_id":85688535,
+            "venue_id":739947107
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":85872049,
             "region_id":85688535,
             "venue_id":739947107
         }
     ],
     "wof:id":739947107,
-    "wof:lastmodified":1466478897,
+    "wof:lastmodified":1486672578,
     "wof:name":"Harris Homes Redevelopment Pha",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 722676713,
   "type": "Feature",
   "properties": {
+    "addr:full":"239 Walker St SW Atlanta GA 30313",
+    "addr:housenumber":"239",
+    "addr:postcode":"30313",
+    "addr:street":"Walker St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.402676,33.748407,-84.402676,33.748407",
     "geom:latitude":33.748407,
     "geom:longitude":-84.402676,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872071,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85872071
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85872071,
             "region_id":85688535,
             "venue_id":722676713
         }
     ],
     "wof:id":722676713,
-    "wof:lastmodified":1466466886,
+    "wof:lastmodified":1486670004,
     "wof:name":"Julie Jumper Decorative Arts",
     "wof:parent_id":85872071,
     "wof:placetype":"venue",

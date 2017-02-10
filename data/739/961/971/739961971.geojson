@@ -2,9 +2,14 @@
   "id": 739961971,
   "type": "Feature",
   "properties": {
+    "addr:full":"2144 Hills Ave NW Atlanta GA 30318",
+    "addr:housenumber":"2144",
+    "addr:postcode":"30318",
+    "addr:street":"Hills Ave Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.431044,33.813643,-84.431044,33.813643",
     "geom:latitude":33.813643,
     "geom:longitude":-84.431044,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872079,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872079
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872079,
             "region_id":85688535,
             "venue_id":739961971
         }
     ],
     "wof:id":739961971,
-    "wof:lastmodified":1466479320,
+    "wof:lastmodified":1486668624,
     "wof:name":"Ace Electrical Inc",
     "wof:parent_id":85872079,
     "wof:placetype":"venue",

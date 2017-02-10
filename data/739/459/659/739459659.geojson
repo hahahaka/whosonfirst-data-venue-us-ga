@@ -2,9 +2,14 @@
   "id": 739459659,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 Moore St SE Atlanta GA 30312",
+    "addr:housenumber":"150",
+    "addr:postcode":"30312",
+    "addr:street":"Moore St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.380991,33.750119,-84.380991,33.750119",
     "geom:latitude":33.750119,
     "geom:longitude":-84.380991,
@@ -31,10 +36,10 @@
     "wof:belongsto":[
         85688535,
         102191575,
+        1108797045,
         85633793,
         85936429,
-        102083603,
-        85872043
+        102083603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +54,15 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872043,
+            "macrohood_id":1108797045,
             "region_id":85688535,
             "venue_id":739459659
         }
     ],
     "wof:id":739459659,
-    "wof:lastmodified":1466467960,
+    "wof:lastmodified":1486669164,
     "wof:name":"Community Concerns Inc",
-    "wof:parent_id":85872043,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

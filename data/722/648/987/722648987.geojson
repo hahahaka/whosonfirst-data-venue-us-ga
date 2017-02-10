@@ -2,9 +2,14 @@
   "id": 722648987,
   "type": "Feature",
   "properties": {
+    "addr:full":"4215 Lake Forrest Dr NW Atlanta GA 30328",
+    "addr:housenumber":"4215",
+    "addr:postcode":"30328",
+    "addr:street":"Lake Forrest Dr Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.387444,33.86922,-84.387444,33.86922",
     "geom:latitude":33.86922,
     "geom:longitude":-84.387444,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798175,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        420558877
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":420558877,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":1108798175,
             "region_id":85688535,
             "venue_id":722648987
         }
     ],
     "wof:id":722648987,
-    "wof:lastmodified":1466465912,
+    "wof:lastmodified":1486672286,
     "wof:name":"Creative Life Style Solutions",
-    "wof:parent_id":420558877,
+    "wof:parent_id":1108798175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

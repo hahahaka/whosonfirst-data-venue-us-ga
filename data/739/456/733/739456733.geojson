@@ -2,9 +2,14 @@
   "id": 739456733,
   "type": "Feature",
   "properties": {
+    "addr:full":"1309 Cascade Falls Dr SW Atlanta GA 30311",
+    "addr:housenumber":"1309",
+    "addr:postcode":"30311",
+    "addr:street":"Cascade Falls Dr Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.492965,33.720143,-84.492965,33.720143",
     "geom:latitude":33.720143,
     "geom:longitude":-84.492965,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85809733,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        85809733
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":85809733,
             "region_id":85688535,
             "venue_id":739456733
         }
     ],
     "wof:id":739456733,
-    "wof:lastmodified":1466467989,
+    "wof:lastmodified":1486667948,
     "wof:name":"Planet Travel",
     "wof:parent_id":85809733,
     "wof:placetype":"venue",

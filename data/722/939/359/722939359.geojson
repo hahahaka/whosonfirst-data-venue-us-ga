@@ -2,9 +2,14 @@
   "id": 722939359,
   "type": "Feature",
   "properties": {
+    "addr:full":"1126 Ponce de Leon Ave NE Atlanta GA 30306",
+    "addr:housenumber":"1126",
+    "addr:postcode":"30306",
+    "addr:street":"Ponce De Leon Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.349077,33.773919,-84.349077,33.773919",
     "geom:latitude":33.773919,
     "geom:longitude":-84.349077,
@@ -25,13 +30,14 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798181,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85872121,
-        85830819
+        85688535,
+        85872121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +52,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872121,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":1108798181,
             "region_id":85688535,
             "venue_id":722939359
         },
@@ -55,15 +62,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85830819,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":85872121,
             "region_id":85688535,
             "venue_id":722939359
         }
     ],
     "wof:id":722939359,
-    "wof:lastmodified":1466473665,
+    "wof:lastmodified":1486672327,
     "wof:name":"Jodi Spiegel Atty",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

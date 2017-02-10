@@ -2,9 +2,14 @@
   "id": 739960477,
   "type": "Feature",
   "properties": {
+    "addr:full":"1785 Ellsworth Industrial Blvd NW Atlanta GA 30318",
+    "addr:housenumber":"1785",
+    "addr:postcode":"30318",
+    "addr:street":"Ellsworth Industrial Blvd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.42703,33.803107,-84.42703,33.803107",
     "geom:latitude":33.803107,
     "geom:longitude":-84.42703,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872079,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872135,
-        85872079
+        85688535,
+        85872135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +55,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872135,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":85872079,
             "region_id":85688535,
             "venue_id":739960477
         },
@@ -58,15 +65,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872079,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":85872135,
             "region_id":85688535,
             "venue_id":739960477
         }
     ],
     "wof:id":739960477,
-    "wof:lastmodified":1466479217,
+    "wof:lastmodified":1486671753,
     "wof:name":"Lifting Corporation",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

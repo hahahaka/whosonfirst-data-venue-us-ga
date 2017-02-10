@@ -2,9 +2,14 @@
   "id": 722973639,
   "type": "Feature",
   "properties": {
+    "addr:full":"2600 Winslow Dr NE Atlanta GA 30305",
+    "addr:housenumber":"2600",
+    "addr:postcode":"30305",
+    "addr:street":"Winslow Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.382674,33.825911,-84.382674,33.825911",
     "geom:latitude":33.825911,
     "geom:longitude":-84.382674,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872111,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872111
+        85688535,
+        1108798179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,26 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872111,
+            "region_id":85688535,
+            "venue_id":722973639
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":1108798179,
             "region_id":85688535,
             "venue_id":722973639
         }
     ],
     "wof:id":722973639,
-    "wof:lastmodified":1466474509,
+    "wof:lastmodified":1486672323,
     "wof:name":"Mary Hataway Catering",
-    "wof:parent_id":85872111,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

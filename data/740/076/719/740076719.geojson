@@ -2,9 +2,14 @@
   "id": 740076719,
   "type": "Feature",
   "properties": {
+    "addr:full":"1800 Peachtree Road, NW Suite 655 Atlanta GA 30309",
+    "addr:housenumber":"1800",
+    "addr:postcode":"30309",
+    "addr:street":"Peachtree Road Nw Suite 655",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.393079,33.802917,-84.393079,33.802917",
     "geom:latitude":33.802917,
     "geom:longitude":-84.393079,
@@ -28,10 +33,10 @@
     "wof:belongsto":[
         85688535,
         102191575,
+        1108797041,
         85633793,
         85936429,
-        102083603,
-        85872047
+        102083603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +51,15 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872047,
+            "macrohood_id":1108797041,
             "region_id":85688535,
             "venue_id":740076719
         }
     ],
     "wof:id":740076719,
-    "wof:lastmodified":1466466667,
+    "wof:lastmodified":1486670500,
     "wof:name":"Dragonfruit Studios",
-    "wof:parent_id":85872047,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

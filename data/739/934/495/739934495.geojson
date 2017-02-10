@@ -2,9 +2,14 @@
   "id": 739934495,
   "type": "Feature",
   "properties": {
+    "addr:full":"75 5th St NE Ste E Atlanta GA 30308",
+    "addr:housenumber":"75",
+    "addr:postcode":"30308",
+    "addr:street":"5Th St Ne Ste E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.384897,33.776148,-84.384897,33.776148",
     "geom:latitude":33.776148,
     "geom:longitude":-84.384897,
@@ -26,13 +31,13 @@
     "sg:website":"www.esportausa.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85866909,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85866909,
-        85889947
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,24 +52,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85866909,
-            "region_id":85688535,
-            "venue_id":739934495
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083603,
-            "locality_id":85936429,
-            "neighbourhood_id":85889947,
             "region_id":85688535,
             "venue_id":739934495
         }
     ],
     "wof:id":739934495,
-    "wof:lastmodified":1466478592,
+    "wof:lastmodified":1486669639,
     "wof:name":"Esporta",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

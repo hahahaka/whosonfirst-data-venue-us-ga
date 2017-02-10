@@ -2,9 +2,14 @@
   "id": 739959683,
   "type": "Feature",
   "properties": {
+    "addr:full":"2072 Defoors Ferry Rd Ste L-2 Atlanta GA 30318",
+    "addr:housenumber":"2072",
+    "addr:postcode":"30318",
+    "addr:street":"Defoors Ferry Rd Ste L-2",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.42606,33.811828,-84.42606,33.811828",
     "geom:latitude":33.811828,
     "geom:longitude":-84.42606,
@@ -26,13 +31,14 @@
     "sg:website":"www.kbpollard.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872079,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872135,
-        85872079
+        85688535,
+        85872135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +53,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872135,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":85872079,
             "region_id":85688535,
             "venue_id":739959683
         },
@@ -56,15 +63,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872079,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":85872135,
             "region_id":85688535,
             "venue_id":739959683
         }
     ],
     "wof:id":739959683,
-    "wof:lastmodified":1466479261,
+    "wof:lastmodified":1486668607,
     "wof:name":"www.kbpollard.com",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

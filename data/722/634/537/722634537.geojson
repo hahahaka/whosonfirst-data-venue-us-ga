@@ -2,9 +2,14 @@
   "id": 722634537,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 Collier Rd NW Atlanta GA 30309",
+    "addr:housenumber":"35",
+    "addr:postcode":"30309",
+    "addr:street":"Collier Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.397787,33.808474,-84.397787,33.808474",
     "geom:latitude":33.808474,
     "geom:longitude":-84.397787,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798511,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872047
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872047,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":1108798511,
             "region_id":85688535,
             "venue_id":722634537
         }
     ],
     "wof:id":722634537,
-    "wof:lastmodified":1466465480,
+    "wof:lastmodified":1486672705,
     "wof:name":"Piedmont Gastroenterology PC",
-    "wof:parent_id":85872047,
+    "wof:parent_id":1108798511,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

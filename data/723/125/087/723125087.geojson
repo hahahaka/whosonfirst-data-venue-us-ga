@@ -2,9 +2,14 @@
   "id": 723125087,
   "type": "Feature",
   "properties": {
+    "addr:full":"2135 Hills Ave NW Atlanta GA 30318",
+    "addr:housenumber":"2135",
+    "addr:postcode":"30318",
+    "addr:street":"Hills Ave Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.43056,33.814287,-84.43056,33.814287",
     "geom:latitude":33.814287,
     "geom:longitude":-84.43056,
@@ -26,12 +31,13 @@
     "sg:website":"www.acmillwork.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872079,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872079
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872079,
             "region_id":85688535,
             "venue_id":723125087
         }
     ],
     "wof:id":723125087,
-    "wof:lastmodified":1466465642,
+    "wof:lastmodified":1486668644,
     "wof:name":"Atlanta Commercial Millwork",
     "wof:parent_id":85872079,
     "wof:placetype":"venue",

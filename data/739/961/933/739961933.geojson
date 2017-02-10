@@ -2,9 +2,14 @@
   "id": 739961933,
   "type": "Feature",
   "properties": {
+    "addr:full":"1465C Howell Mill Rd NW Atlanta GA 30318",
+    "addr:housenumber":"1465c",
+    "addr:postcode":"30318",
+    "addr:street":"Howell Mill Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.41523,33.794979,-84.41523,33.794979",
     "geom:latitude":33.794979,
     "geom:longitude":-84.41523,
@@ -28,13 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872135,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872135,
-        85872055
+        85688535,
+        85872055,
+        1108797043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,6 +56,7 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872135,
             "region_id":85688535,
             "venue_id":739961933
@@ -58,15 +66,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797043,
             "neighbourhood_id":85872055,
             "region_id":85688535,
             "venue_id":739961933
         }
     ],
     "wof:id":739961933,
-    "wof:lastmodified":1466479313,
+    "wof:lastmodified":1486671760,
     "wof:name":"Peachtree Laser Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739346487,
   "type": "Feature",
   "properties": {
+    "addr:full":"791 Woodland Ave SE Atlanta GA 30316",
+    "addr:housenumber":"791",
+    "addr:postcode":"30316",
+    "addr:street":"Woodland Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.351422,33.733637,-84.351422,33.733637",
     "geom:latitude":33.733637,
     "geom:longitude":-84.351422,
@@ -30,10 +35,10 @@
     "wof:belongsto":[
         85688535,
         102191575,
+        1108797037,
         85633793,
         85936429,
-        102083603,
-        85808173
+        102083603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +53,15 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85808173,
+            "macrohood_id":1108797037,
             "region_id":85688535,
             "venue_id":739346487
         }
     ],
     "wof:id":739346487,
-    "wof:lastmodified":1466464546,
+    "wof:lastmodified":1486668169,
     "wof:name":"Taste E Productions",
-    "wof:parent_id":85808173,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

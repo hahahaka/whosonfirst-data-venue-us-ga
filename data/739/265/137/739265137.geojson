@@ -2,9 +2,14 @@
   "id": 739265137,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 Thirkeld Ave SW Atlanta GA 30315",
+    "addr:housenumber":"21",
+    "addr:postcode":"30315",
+    "addr:street":"Thirkeld Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.388795,33.714642,-84.388795,33.714642",
     "geom:latitude":33.714642,
     "geom:longitude":-84.388795,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872129,
         102191575,
+        1108797037,
         85633793,
         85936429,
         102083603,
-        85872129
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797037,
             "neighbourhood_id":85872129,
             "region_id":85688535,
             "venue_id":739265137
         }
     ],
     "wof:id":739265137,
-    "wof:lastmodified":1466461854,
+    "wof:lastmodified":1486668142,
     "wof:name":"Lena Jean Campbell School",
     "wof:parent_id":85872129,
     "wof:placetype":"venue",

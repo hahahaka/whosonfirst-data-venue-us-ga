@@ -2,9 +2,14 @@
   "id": 722684735,
   "type": "Feature",
   "properties": {
+    "addr:full":"959 Northcliffe Dr NW Atlanta GA 30318",
+    "addr:housenumber":"959",
+    "addr:postcode":"30318",
+    "addr:street":"Northcliffe Dr Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.419725,33.818979,-84.419725,33.818979",
     "geom:latitude":33.818979,
     "geom:longitude":-84.419725,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872149,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872149
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872149,
             "region_id":85688535,
             "venue_id":722684735
         }
     ],
     "wof:id":722684735,
-    "wof:lastmodified":1466467229,
+    "wof:lastmodified":1486668602,
     "wof:name":"Billboard Connection",
     "wof:parent_id":85872149,
     "wof:placetype":"venue",

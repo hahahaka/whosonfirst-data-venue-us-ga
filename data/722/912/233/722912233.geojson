@@ -2,9 +2,14 @@
   "id": 722912233,
   "type": "Feature",
   "properties": {
+    "addr:full":"1959 Metropolitan Pkwy SW Atlanta GA 30315",
+    "addr:housenumber":"1959",
+    "addr:postcode":"30315",
+    "addr:street":"Metropolitan Pkwy Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.408158,33.699616,-84.408158,33.699616",
     "geom:latitude":33.699616,
     "geom:longitude":-84.408158,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420517931,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        420517931
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":420517931,
             "region_id":85688535,
             "venue_id":722912233
         }
     ],
     "wof:id":722912233,
-    "wof:lastmodified":1466472894,
+    "wof:lastmodified":1486667991,
     "wof:name":"Inside-Out Cleaning Service",
     "wof:parent_id":420517931,
     "wof:placetype":"venue",

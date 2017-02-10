@@ -2,9 +2,14 @@
   "id": 739934367,
   "type": "Feature",
   "properties": {
+    "addr:full":"650 Ponce De Leon Ave NE Ste 680A Atlanta GA 30308",
+    "addr:housenumber":"650",
+    "addr:postcode":"30308",
+    "addr:street":"Ponce De Leon Ave Ne Ste 680A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.366585,33.777013,-84.366585,33.777013",
     "geom:latitude":33.777013,
     "geom:longitude":-84.366585,
@@ -32,12 +37,13 @@
     "sg:website":"www.olivebistro.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85853981,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85853981
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +58,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85853981,
             "region_id":85688535,
             "venue_id":739934367
         }
     ],
     "wof:id":739934367,
-    "wof:lastmodified":1466478580,
+    "wof:lastmodified":1486670276,
     "wof:name":"The Olive Bistro",
     "wof:parent_id":85853981,
     "wof:placetype":"venue",

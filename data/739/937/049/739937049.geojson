@@ -2,9 +2,14 @@
   "id": 739937049,
   "type": "Feature",
   "properties": {
+    "addr:full":"45 Ivan Allen Jr. Blvd Atlanta GA 30308",
+    "addr:housenumber":"45",
+    "addr:postcode":"30308",
+    "addr:street":"Ivan Allen Jr. Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.388766,33.764679,-84.388766,33.764679",
     "geom:latitude":33.764679,
     "geom:longitude":-84.388766,
@@ -26,13 +31,14 @@
     "sg:website":"www.watlantadowntown.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108797047,
+        85866901,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85866901,
-        85872133
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,24 +53,17 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "microhood_id":1108797047,
             "neighbourhood_id":85866901,
-            "region_id":85688535,
-            "venue_id":739937049
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083603,
-            "locality_id":85936429,
-            "neighbourhood_id":85872133,
             "region_id":85688535,
             "venue_id":739937049
         }
     ],
     "wof:id":739937049,
-    "wof:lastmodified":1466478849,
+    "wof:lastmodified":1486682347,
     "wof:name":"W Atlanta Downtown",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108797047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

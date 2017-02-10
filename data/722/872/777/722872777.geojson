@@ -2,9 +2,14 @@
   "id": 722872777,
   "type": "Feature",
   "properties": {
+    "addr:full":"1261 Glenwood Ave SE Atlanta GA 30316",
+    "addr:housenumber":"1261",
+    "addr:postcode":"30316",
+    "addr:street":"Glenwood Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.346328,33.740101,-84.346328,33.740101",
     "geom:latitude":33.740101,
     "geom:longitude":-84.346328,
@@ -28,7 +33,16 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108798133,
+        85815915,
+        102191575,
+        1108797045,
+        85633793,
+        85936429,
+        102083603,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33BZiOQgpguCeDnOFIb2V7_33.740101_-84.346328@1294087602"
@@ -36,11 +50,23 @@
     "wof:country":"US",
     "wof:created":1461890250,
     "wof:geomhash":"5e3bbb673ebb6d006e85ce60d64a7b26",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "microhood_id":1108798133,
+            "neighbourhood_id":85815915,
+            "region_id":85688535,
+            "venue_id":722872777
+        }
+    ],
     "wof:id":722872777,
-    "wof:lastmodified":1466471807,
+    "wof:lastmodified":1486682683,
     "wof:name":"D T C Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108798133,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

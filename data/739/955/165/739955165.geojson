@@ -2,9 +2,14 @@
   "id": 739955165,
   "type": "Feature",
   "properties": {
+    "addr:full":"1362 Boulevard SE Atlanta GA 30315",
+    "addr:housenumber":"1362",
+    "addr:postcode":"30315",
+    "addr:street":"Boulevard Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.36853,33.717098,-84.36853,33.717098",
     "geom:latitude":33.717098,
     "geom:longitude":-84.36853,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872059,
         102191575,
+        1108797037,
         85633793,
         85936429,
         102083603,
-        85872059
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797037,
             "neighbourhood_id":85872059,
             "region_id":85688535,
             "venue_id":739955165
         }
     ],
     "wof:id":739955165,
-    "wof:lastmodified":1466478967,
+    "wof:lastmodified":1486668135,
     "wof:name":"U-Haul Neighborhood Dealer",
     "wof:parent_id":85872059,
     "wof:placetype":"venue",

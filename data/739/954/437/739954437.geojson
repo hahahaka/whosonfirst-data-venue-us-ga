@@ -2,9 +2,14 @@
   "id": 739954437,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 Boulevard SE Atlanta GA 30315",
+    "addr:housenumber":"1400",
+    "addr:postcode":"30315",
+    "addr:street":"Boulevard Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.36866,33.716112,-84.36866,33.716112",
     "geom:latitude":33.716112,
     "geom:longitude":-84.36866,
@@ -26,12 +31,14 @@
     "sg:website":"www.umc.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872059,
         102191575,
+        1108797037,
         85633793,
         85936429,
         102083603,
-        85872059
+        85688535,
+        1108798249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +53,26 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797037,
             "neighbourhood_id":85872059,
+            "region_id":85688535,
+            "venue_id":739954437
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797037,
+            "neighbourhood_id":1108798249,
             "region_id":85688535,
             "venue_id":739954437
         }
     ],
     "wof:id":739954437,
-    "wof:lastmodified":1466479016,
+    "wof:lastmodified":1486672411,
     "wof:name":"Kings Memorial United Methodist Church",
-    "wof:parent_id":85872059,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

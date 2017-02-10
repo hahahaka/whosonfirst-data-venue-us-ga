@@ -2,9 +2,14 @@
   "id": 739948785,
   "type": "Feature",
   "properties": {
+    "addr:full":"1684 Stanton Rd SW Atlanta GA 30311",
+    "addr:housenumber":"1684",
+    "addr:postcode":"30311",
+    "addr:street":"Stanton Rd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.443766,33.708701,-84.443766,33.708701",
     "geom:latitude":33.708701,
     "geom:longitude":-84.443766,
@@ -39,12 +44,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798509,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        420517887
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,15 +65,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":420517887,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798509,
             "region_id":85688535,
             "venue_id":739948785
         }
     ],
     "wof:id":739948785,
-    "wof:lastmodified":1466479078,
+    "wof:lastmodified":1486672690,
     "wof:name":"On Demand HVAC Co.",
-    "wof:parent_id":420517887,
+    "wof:parent_id":1108798509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

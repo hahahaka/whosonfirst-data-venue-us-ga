@@ -2,9 +2,14 @@
   "id": 739950929,
   "type": "Feature",
   "properties": {
+    "addr:full":"370 B AUBURN AVE NE Atlanta GA 30312",
+    "addr:housenumber":"370",
+    "addr:postcode":"30312",
+    "addr:street":"B Auburn Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.388847,33.738396,-84.388847,33.738396",
     "geom:latitude":33.738396,
     "geom:longitude":-84.388847,
@@ -41,13 +46,15 @@
     "sg:website":"http://www.rrblooms.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85833641,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        85833641,
-        85851371
+        85688535,
+        85851371,
+        1108797037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,6 +69,7 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":85833641,
             "region_id":85688535,
             "venue_id":739950929
@@ -71,15 +79,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797037,
             "neighbourhood_id":85851371,
             "region_id":85688535,
             "venue_id":739950929
         }
     ],
     "wof:id":739950929,
-    "wof:lastmodified":1466479112,
+    "wof:lastmodified":1486668193,
     "wof:name":"Blooms",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

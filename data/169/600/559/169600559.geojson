@@ -2,9 +2,14 @@
   "id": 169600559,
   "type": "Feature",
   "properties": {
+    "addr:full":"4250 Wieuca Overlook NE Atlanta GA 30342",
+    "addr:housenumber":"4250",
+    "addr:postcode":"30342",
+    "addr:street":"Wieuca Overlook Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.373554,33.870416,-84.373554,33.870416",
     "geom:latitude":33.870416,
     "geom:longitude":-84.373554,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688535,
+        102191575,
         85633793,
         85937165,
         102083603,
@@ -39,7 +45,7 @@
     "wof:geomhash":"146702f0e79d8ab80d3c1a64c4f67874",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85937165,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":169600559,
-    "wof:lastmodified":1466461321,
+    "wof:lastmodified":1486666539,
     "wof:name":"Norman Gitlin Inc",
     "wof:parent_id":85850941,
     "wof:placetype":"venue",

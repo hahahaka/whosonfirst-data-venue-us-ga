@@ -2,9 +2,14 @@
   "id": 739952543,
   "type": "Feature",
   "properties": {
+    "addr:full":"342 Marietta St NW Apt 14 Atlanta GA 30313",
+    "addr:housenumber":"342;14",
+    "addr:postcode":"30313",
+    "addr:street":"Marietta St Nw Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.396566,33.762127,-84.396566,33.762127",
     "geom:latitude":33.762127,
     "geom:longitude":-84.396566,
@@ -41,12 +46,14 @@
     "sg:website":"http://www.thejonesgroup.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108797051,
+        85866901,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85807911
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,15 +68,17 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85807911,
+            "macrohood_id":1108797045,
+            "microhood_id":1108797051,
+            "neighbourhood_id":85866901,
             "region_id":85688535,
             "venue_id":739952543
         }
     ],
     "wof:id":739952543,
-    "wof:lastmodified":1466479037,
+    "wof:lastmodified":1486682415,
     "wof:name":"Intown Express",
-    "wof:parent_id":85807911,
+    "wof:parent_id":1108797051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

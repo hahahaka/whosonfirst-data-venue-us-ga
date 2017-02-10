@@ -2,9 +2,14 @@
   "id": 723017027,
   "type": "Feature",
   "properties": {
+    "addr:full":"792 Briarcliff Rd NE Atlanta GA 30306",
+    "addr:housenumber":"792",
+    "addr:postcode":"30306",
+    "addr:street":"Briarcliff Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.349021,33.774538,-84.349021,33.774538",
     "geom:latitude":33.774538,
     "geom:longitude":-84.349021,
@@ -25,13 +30,15 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798181,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85872121,
-        85853981
+        85688535,
+        85853981,
+        85872121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +53,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872121,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":1108798181,
             "region_id":85688535,
             "venue_id":723017027
         },
@@ -55,15 +63,26 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85853981,
+            "region_id":85688535,
+            "venue_id":723017027
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":85872121,
             "region_id":85688535,
             "venue_id":723017027
         }
     ],
     "wof:id":723017027,
-    "wof:lastmodified":1466461974,
+    "wof:lastmodified":1486672328,
     "wof:name":"Higngate Management Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

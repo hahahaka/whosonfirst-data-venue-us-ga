@@ -2,9 +2,14 @@
   "id": 739972231,
   "type": "Feature",
   "properties": {
+    "addr:full":"4409 Sentinel Vw NW Atlanta GA 30327",
+    "addr:housenumber":"4409",
+    "addr:postcode":"30327",
+    "addr:street":"Sentinel Vw Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.440266,33.875808,-84.440266,33.875808",
     "geom:latitude":33.875808,
     "geom:longitude":-84.440266,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872147,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872147
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872147,
             "region_id":85688535,
             "venue_id":739972231
         }
     ],
     "wof:id":739972231,
-    "wof:lastmodified":1466479424,
+    "wof:lastmodified":1486668718,
     "wof:name":"Franco Richard D MD",
     "wof:parent_id":85872147,
     "wof:placetype":"venue",

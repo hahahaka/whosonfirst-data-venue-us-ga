@@ -2,9 +2,14 @@
   "id": 739929367,
   "type": "Feature",
   "properties": {
+    "addr:full":"3255 Peachtree St Atlanta GA 30305",
+    "addr:housenumber":"3255",
+    "addr:postcode":"30305",
+    "addr:street":"Peachtree St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.371051,33.843358,-84.371051,33.843358",
     "geom:latitude":33.843358,
     "geom:longitude":-84.371051,
@@ -30,12 +35,14 @@
     "sg:website":"www.clear.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872063,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872063
+        85688535,
+        1108798171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +57,26 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872063,
+            "region_id":85688535,
+            "venue_id":739929367
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":1108798171,
             "region_id":85688535,
             "venue_id":739929367
         }
     ],
     "wof:id":739929367,
-    "wof:lastmodified":1466478606,
+    "wof:lastmodified":1486672269,
     "wof:name":"Clear Internet",
-    "wof:parent_id":85872063,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

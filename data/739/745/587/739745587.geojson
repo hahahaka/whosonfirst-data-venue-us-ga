@@ -2,9 +2,14 @@
   "id": 739745587,
   "type": "Feature",
   "properties": {
+    "addr:full":"2000 Moores Mill Rd Atlanta GA 30318",
+    "addr:housenumber":"2000",
+    "addr:postcode":"30318",
+    "addr:street":"Moores Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.450681,33.821106,-84.450681,33.821106",
     "geom:latitude":33.821106,
     "geom:longitude":-84.450681,
@@ -32,12 +37,13 @@
     "sg:website":"www.treehouseanimalclinic.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420517865,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
-        420517865
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +58,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797043,
             "neighbourhood_id":420517865,
             "region_id":85688535,
             "venue_id":739745587
         }
     ],
     "wof:id":739745587,
-    "wof:lastmodified":1466475194,
+    "wof:lastmodified":1486669010,
     "wof:name":"Treehouse Animal Clinic",
     "wof:parent_id":420517865,
     "wof:placetype":"venue",

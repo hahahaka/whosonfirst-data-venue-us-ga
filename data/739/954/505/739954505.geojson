@@ -2,9 +2,14 @@
   "id": 739954505,
   "type": "Feature",
   "properties": {
+    "addr:full":"2670 Jonesboro Rd SE Atlanta GA 30315",
+    "addr:housenumber":"2670",
+    "addr:postcode":"30315",
+    "addr:street":"Jonesboro Rd Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.36685,33.68083,-84.36685,33.68083",
     "geom:latitude":33.68083,
     "geom:longitude":-84.36685,
@@ -32,7 +37,15 @@
     ],
     "sg:website":"http://www.allstatewaste.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420784727,
+        102191575,
+        1108797037,
+        85633793,
+        85936429,
+        102083603,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aH4SHNo3pCnYnBB1SLYxQ_33.680830_-84.366850@1303262615"
@@ -40,11 +53,22 @@
     "wof:country":"US",
     "wof:created":1461922156,
     "wof:geomhash":"61d02d042e55674ab3260513bd6031b9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797037,
+            "neighbourhood_id":420784727,
+            "region_id":85688535,
+            "venue_id":739954505
+        }
+    ],
     "wof:id":739954505,
-    "wof:lastmodified":1466479028,
+    "wof:lastmodified":1486672113,
     "wof:name":"Allstate Waste Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420784727,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

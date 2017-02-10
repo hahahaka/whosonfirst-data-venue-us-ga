@@ -2,9 +2,14 @@
   "id": 739737011,
   "type": "Feature",
   "properties": {
+    "addr:full":"1345 Milton Pl SE Atlanta GA 30316",
+    "addr:housenumber":"1345",
+    "addr:postcode":"30316",
+    "addr:street":"Milton Pl Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.343006,33.735584,-84.343006,33.735584",
     "geom:latitude":33.735584,
     "geom:longitude":-84.343006,
@@ -28,7 +33,14 @@
         "cleaning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        1108797045,
+        85633793,
+        85936429,
+        102083603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JJ9uYkOSm8Fe5nXLB6DRE_33.735584_-84.343006@1294087602"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461913361,
     "wof:geomhash":"278c07029e620ff74ca35ee0c17fd253",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "region_id":85688535,
+            "venue_id":739737011
+        }
+    ],
     "wof:id":739737011,
-    "wof:lastmodified":1466475113,
+    "wof:lastmodified":1486669213,
     "wof:name":"Wrights Building Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

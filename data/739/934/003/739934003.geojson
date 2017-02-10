@@ -2,9 +2,14 @@
   "id": 739934003,
   "type": "Feature",
   "properties": {
+    "addr:full":"1129 Euclid Ave NE Ste A Atlanta GA 30307",
+    "addr:housenumber":"1129",
+    "addr:postcode":"30307",
+    "addr:street":"Euclid Ave Ne Ste A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.349468,33.765205,-84.349468,33.765205",
     "geom:latitude":33.765205,
     "geom:longitude":-84.349468,
@@ -39,11 +44,10 @@
     "wof:belongsto":[
         85688535,
         102191575,
+        1108797045,
         85633793,
         85936429,
-        102083603,
-        85866907,
-        85830819
+        102083603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,22 +62,13 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85866907,
-            "region_id":85688535,
-            "venue_id":739934003
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083603,
-            "locality_id":85936429,
-            "neighbourhood_id":85830819,
+            "macrohood_id":1108797045,
             "region_id":85688535,
             "venue_id":739934003
         }
     ],
     "wof:id":739934003,
-    "wof:lastmodified":1466478503,
+    "wof:lastmodified":1486671967,
     "wof:name":"Cherry Bomb",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

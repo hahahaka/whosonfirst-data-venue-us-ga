@@ -2,9 +2,14 @@
   "id": 739944137,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 Collier Rd NW Ste 775 Atlanta GA 30309",
+    "addr:housenumber":"35",
+    "addr:postcode":"30309",
+    "addr:street":"Collier Rd Nw Ste 775",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.396395,33.808011,-84.396395,33.808011",
     "geom:latitude":33.808011,
     "geom:longitude":-84.396395,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798511,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872047
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872047,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":1108798511,
             "region_id":85688535,
             "venue_id":739944137
         }
     ],
     "wof:id":739944137,
-    "wof:lastmodified":1466478780,
+    "wof:lastmodified":1486672696,
     "wof:name":"Carol T. Aitcheson, MD",
-    "wof:parent_id":85872047,
+    "wof:parent_id":1108798511,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

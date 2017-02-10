@@ -2,9 +2,14 @@
   "id": 739320863,
   "type": "Feature",
   "properties": {
+    "addr:full":"2453 Coronet Way NW Atlanta GA 30318",
+    "addr:housenumber":"2453",
+    "addr:postcode":"30318",
+    "addr:street":"Coronet Way Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.449707,33.820916,-84.449707,33.820916",
     "geom:latitude":33.820916,
     "geom:longitude":-84.449707,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85844587,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85844587
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85844587,
             "region_id":85688535,
             "venue_id":739320863
         }
     ],
     "wof:id":739320863,
-    "wof:lastmodified":1466463832,
+    "wof:lastmodified":1486668969,
     "wof:name":"Travelers Aid of Metro Atlanta",
     "wof:parent_id":85844587,
     "wof:placetype":"venue",

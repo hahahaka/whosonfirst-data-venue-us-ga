@@ -2,6 +2,10 @@
   "id": 723125167,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Huddleston Rd Peachtree City GA 30269",
+    "addr:housenumber":"123",
+    "addr:postcode":"30269",
+    "addr:street":"Huddleston Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":723125167,
-    "wof:lastmodified":1466465543,
+    "wof:lastmodified":1472618313,
     "wof:name":"Mark & Theo's Auto Svc",
     "wof:parent_id":85802325,
     "wof:placetype":"venue",

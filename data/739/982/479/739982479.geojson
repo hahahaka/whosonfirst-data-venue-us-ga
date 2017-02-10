@@ -2,9 +2,14 @@
   "id": 739982479,
   "type": "Feature",
   "properties": {
+    "addr:full":"286 Wilson Mill Road SW Atlanta GA 30331",
+    "addr:housenumber":"286",
+    "addr:postcode":"30331",
+    "addr:street":"Wilson Mill Road Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.514786,33.754387,-84.514786,33.754387",
     "geom:latitude":33.754387,
     "geom:longitude":-84.514786,
@@ -29,7 +34,14 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        1108797035,
+        85633793,
+        85936429,
+        102083603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QpxCm85RFgmEdQTse9veZ_33.754387_-84.514786@1303262622"
@@ -37,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1461923226,
     "wof:geomhash":"1357f25dfe56610a03527ce995835420",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797035,
+            "region_id":85688535,
+            "venue_id":739982479
+        }
+    ],
     "wof:id":739982479,
-    "wof:lastmodified":1466479603,
+    "wof:lastmodified":1486668012,
     "wof:name":"Atlanta City School District",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

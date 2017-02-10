@@ -2,9 +2,14 @@
   "id": 739747561,
   "type": "Feature",
   "properties": {
+    "addr:full":"1419 Woodmont Ln NW Atlanta GA 30318",
+    "addr:housenumber":"1419",
+    "addr:postcode":"30318",
+    "addr:street":"Woodmont Ln Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.434765,33.803579,-84.434765,33.803579",
     "geom:latitude":33.803579,
     "geom:longitude":-84.434765,
@@ -40,13 +45,16 @@
     "sg:website":"www.amfiresafety.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85857119,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
+        85688535,
         85872135,
-        85857119
+        420784719,
+        1108797043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,6 +69,17 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":85857119,
+            "region_id":85688535,
+            "venue_id":739747561
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872135,
             "region_id":85688535,
             "venue_id":739747561
@@ -70,15 +89,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85857119,
+            "macrohood_id":1108797043,
+            "neighbourhood_id":420784719,
             "region_id":85688535,
             "venue_id":739747561
         }
     ],
     "wof:id":739747561,
-    "wof:lastmodified":1466475303,
+    "wof:lastmodified":1486672089,
     "wof:name":"American Fire And Safety Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

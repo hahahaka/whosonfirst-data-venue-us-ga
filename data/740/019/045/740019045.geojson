@@ -2,9 +2,14 @@
   "id": 740019045,
   "type": "Feature",
   "properties": {
+    "addr:full":"221 16th St NW Apt 4 Atlanta GA 30363",
+    "addr:housenumber":"221;4",
+    "addr:postcode":"30363",
+    "addr:street":"16Th St Nw Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.396713,33.7901,-84.396713,33.7901",
     "geom:latitude":33.7901,
     "geom:longitude":-84.396713,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85889937,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85889937
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85889937,
             "region_id":85688535,
             "venue_id":740019045
         }
     ],
     "wof:id":740019045,
-    "wof:lastmodified":1466463148,
+    "wof:lastmodified":1486669188,
     "wof:name":"Advance Network Soloutions Inc",
     "wof:parent_id":85889937,
     "wof:placetype":"venue",

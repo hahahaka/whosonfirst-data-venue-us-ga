@@ -2,9 +2,14 @@
   "id": 739957675,
   "type": "Feature",
   "properties": {
+    "addr:full":"45 Bates Ave SE Atlanta GA 30317",
+    "addr:housenumber":"45",
+    "addr:postcode":"30317",
+    "addr:street":"Bates Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.317627,33.749829,-84.317627,33.749829",
     "geom:latitude":33.749829,
     "geom:longitude":-84.317627,
@@ -41,7 +46,13 @@
     ],
     "sg:website":"http://wortheverydollar.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        102084539,
+        420558365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LNwNwBczgi6DqdUigSwFv_33.749829_-84.317627@1303262616"
@@ -49,9 +60,18 @@
     "wof:country":"US",
     "wof:created":1461922284,
     "wof:geomhash":"5d25781866712fa8fc142208d9f2f93b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":420558365,
+            "region_id":85688535,
+            "venue_id":739957675
+        }
+    ],
     "wof:id":739957675,
-    "wof:lastmodified":1466479390,
+    "wof:lastmodified":1486669624,
     "wof:name":"Worth Every Dollar Appraisals, Llc",
     "wof:parent_id":420558365,
     "wof:placetype":"venue",

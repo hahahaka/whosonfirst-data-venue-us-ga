@@ -2,9 +2,14 @@
   "id": 740017077,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 Mount Zion Road SW Atlanta GA 30354",
+    "addr:housenumber":"50",
+    "addr:postcode":"30354",
+    "addr:street":"Mount Zion Road Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.390654,33.672785,-84.390654,33.672785",
     "geom:latitude":33.672785,
     "geom:longitude":-84.390654,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420517949,
         102191575,
+        1108797037,
         85633793,
         85936429,
         102083603,
-        420517949
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797037,
             "neighbourhood_id":420517949,
             "region_id":85688535,
             "venue_id":740017077
         }
     ],
     "wof:id":740017077,
-    "wof:lastmodified":1466463015,
+    "wof:lastmodified":1486668223,
     "wof:name":"Highbury Terraces Apartments",
     "wof:parent_id":420517949,
     "wof:placetype":"venue",

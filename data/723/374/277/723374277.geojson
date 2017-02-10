@@ -2,9 +2,14 @@
   "id": 723374277,
   "type": "Feature",
   "properties": {
+    "addr:full":"1602 Mozley Pl SW Atlanta GA 30314",
+    "addr:housenumber":"1602",
+    "addr:postcode":"30314",
+    "addr:street":"Mozley Pl Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.438772,33.751696,-84.438772,33.751696",
     "geom:latitude":33.751696,
     "geom:longitude":-84.438772,
@@ -30,10 +35,10 @@
     "wof:belongsto":[
         85688535,
         102191575,
+        1108797043,
         85633793,
         85936429,
-        102083603,
-        85804751
+        102083603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +53,15 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85804751,
+            "macrohood_id":1108797043,
             "region_id":85688535,
             "venue_id":723374277
         }
     ],
     "wof:id":723374277,
-    "wof:lastmodified":1466472199,
+    "wof:lastmodified":1486669063,
     "wof:name":"Dept of Theater Studies",
-    "wof:parent_id":85804751,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

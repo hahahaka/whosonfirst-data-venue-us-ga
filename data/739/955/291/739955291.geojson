@@ -2,9 +2,14 @@
   "id": 739955291,
   "type": "Feature",
   "properties": {
+    "addr:full":"2409 Sunridge Ave SE Atlanta GA 30315",
+    "addr:housenumber":"2409",
+    "addr:postcode":"30315",
+    "addr:street":"Sunridge Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.382942,33.688412,-84.382942,33.688412",
     "geom:latitude":33.688412,
     "geom:longitude":-84.382942,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85808085,
         102191575,
+        1108797037,
         85633793,
         85936429,
         102083603,
-        85808085
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797037,
             "neighbourhood_id":85808085,
             "region_id":85688535,
             "venue_id":739955291
         }
     ],
     "wof:id":739955291,
-    "wof:lastmodified":1466479378,
+    "wof:lastmodified":1486670519,
     "wof:name":"Simple Hair Salon",
     "wof:parent_id":85808085,
     "wof:placetype":"venue",

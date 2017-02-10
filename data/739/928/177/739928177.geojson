@@ -2,9 +2,14 @@
   "id": 739928177,
   "type": "Feature",
   "properties": {
+    "addr:full":"78 W Wesley Rd NW Atlanta GA 30305",
+    "addr:housenumber":"78",
+    "addr:postcode":"30305",
+    "addr:street":"W Wesley Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.388995,33.82864,-84.388995,33.82864",
     "geom:latitude":33.82864,
     "geom:longitude":-84.388995,
@@ -56,12 +61,13 @@
     "sg:website":"http://www.wtbaker.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872111,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872111
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,13 +82,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872111,
             "region_id":85688535,
             "venue_id":739928177
         }
     ],
     "wof:id":739928177,
-    "wof:lastmodified":1466478573,
+    "wof:lastmodified":1486668520,
     "wof:name":"Baker William T & Associates",
     "wof:parent_id":85872111,
     "wof:placetype":"venue",

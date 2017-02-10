@@ -2,9 +2,14 @@
   "id": 723131111,
   "type": "Feature",
   "properties": {
+    "addr:full":"373 E Side Ave SE Atlanta GA 30316",
+    "addr:housenumber":"373",
+    "addr:postcode":"30316",
+    "addr:street":"E Side Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.339957,33.742552,-84.339957,33.742552",
     "geom:latitude":33.742552,
     "geom:longitude":-84.339957,
@@ -24,7 +29,14 @@
     "sg:postcode":"30316",
     "sg:province":"GA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        1108797045,
+        85633793,
+        85936429,
+        102083603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0e712spMEiQ5tY8zUH2JEt_33.742552_-84.339957@1294087602"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461895721,
     "wof:geomhash":"470a56bbc9768038376d25bb1039f78c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "region_id":85688535,
+            "venue_id":723131111
+        }
+    ],
     "wof:id":723131111,
-    "wof:lastmodified":1466465692,
+    "wof:lastmodified":1486669794,
     "wof:name":"Paul Wages Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

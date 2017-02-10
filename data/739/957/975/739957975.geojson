@@ -2,9 +2,14 @@
   "id": 739957975,
   "type": "Feature",
   "properties": {
+    "addr:full":"353 Wilkinson Dr SE Atlanta GA 30317",
+    "addr:housenumber":"353",
+    "addr:postcode":"30317",
+    "addr:street":"Wilkinson Dr Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.328003,33.742699,-84.328003,33.742699",
     "geom:latitude":33.742699,
     "geom:longitude":-84.328003,
@@ -34,7 +39,13 @@
         "team"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        102084539,
+        420558365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2T2Dg3GalsACncRxaIiAaP_33.742699_-84.328003@1303262616"
@@ -42,9 +53,18 @@
     "wof:country":"US",
     "wof:created":1461922295,
     "wof:geomhash":"97a5e0de46fbae83f50f307d3b37c2ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":420558365,
+            "region_id":85688535,
+            "venue_id":739957975
+        }
+    ],
     "wof:id":739957975,
-    "wof:lastmodified":1466479116,
+    "wof:lastmodified":1486670587,
     "wof:name":"Parkview Community Recreational Center",
     "wof:parent_id":420558365,
     "wof:placetype":"venue",

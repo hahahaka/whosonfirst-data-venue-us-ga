@@ -2,9 +2,14 @@
   "id": 740018955,
   "type": "Feature",
   "properties": {
+    "addr:full":"18814th Street, NE Atlanta GA 30361",
+    "addr:housenumber":"",
+    "addr:postcode":"30361",
+    "addr:street":"18814Th Street Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.393791,33.786579,-84.393791,33.786579",
     "geom:latitude":33.786579,
     "geom:longitude":-84.393791,
@@ -40,13 +45,14 @@
     "sg:website":"http://clk.atdmt.com/NYC/go/156799107/direct/01/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85889937,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85866909,
-        85889937
+        85688535,
+        85866909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +67,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85866909,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":85889937,
             "region_id":85688535,
             "venue_id":740018955
         },
@@ -70,15 +77,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85889937,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":85866909,
             "region_id":85688535,
             "venue_id":740018955
         }
     ],
     "wof:id":740018955,
-    "wof:lastmodified":1466463015,
+    "wof:lastmodified":1486669565,
     "wof:name":"W Atlanta Midtown",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

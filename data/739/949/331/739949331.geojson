@@ -2,9 +2,14 @@
   "id": 739949331,
   "type": "Feature",
   "properties": {
+    "addr:full":"2380 Benjamin E Mays Dr SW Ste A Atlanta GA 30311",
+    "addr:housenumber":"2380;e",
+    "addr:postcode":"30311",
+    "addr:street":"Benjamin;Mays Dr Sw Ste A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.465422,33.722539,-84.465422,33.722539",
     "geom:latitude":33.722539,
     "geom:longitude":-84.465422,
@@ -26,12 +31,13 @@
     "sg:website":"www.plusonedental.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85809733,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        85809733
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":85809733,
             "region_id":85688535,
             "venue_id":739949331
         }
     ],
     "wof:id":739949331,
-    "wof:lastmodified":1466478998,
+    "wof:lastmodified":1486667909,
     "wof:name":"Plus One Dental Associates",
     "wof:parent_id":85809733,
     "wof:placetype":"venue",

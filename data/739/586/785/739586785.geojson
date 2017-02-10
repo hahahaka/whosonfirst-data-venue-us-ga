@@ -2,9 +2,14 @@
   "id": 739586785,
   "type": "Feature",
   "properties": {
+    "addr:full":"2566 Jonesboro Rd SE Atlanta GA 30315",
+    "addr:housenumber":"2566",
+    "addr:postcode":"30315",
+    "addr:street":"Jonesboro Rd Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.36542,33.682565,-84.36542,33.682565",
     "geom:latitude":33.682565,
     "geom:longitude":-84.36542,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420517963,
         102191575,
+        1108797037,
         85633793,
         85936429,
         102083603,
-        420517963
+        85688535,
+        1108798219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,26 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797037,
             "neighbourhood_id":420517963,
+            "region_id":85688535,
+            "venue_id":739586785
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797037,
+            "neighbourhood_id":1108798219,
             "region_id":85688535,
             "venue_id":739586785
         }
     ],
     "wof:id":739586785,
-    "wof:lastmodified":1466471278,
+    "wof:lastmodified":1486672386,
     "wof:name":"Fox Auto Salvage",
-    "wof:parent_id":420517963,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739757243,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Hollow Tree Ln SW Atlanta GA 30354",
+    "addr:housenumber":"111",
+    "addr:postcode":"30354",
+    "addr:street":"Hollow Tree Ln Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.39282,33.66283,-84.39282,33.66283",
     "geom:latitude":33.66283,
     "geom:longitude":-84.39282,
@@ -27,7 +32,14 @@
         "warehouses-public-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        1108797037,
+        85633793,
+        85936429,
+        102083603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5V8sWU5O2KiJnBMWCmZdww_33.662879_-84.392159@1293134755"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461914006,
     "wof:geomhash":"5dd3e66b415a0e2b441688ace54f961e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797037,
+            "region_id":85688535,
+            "venue_id":739757243
+        }
+    ],
     "wof:id":739757243,
-    "wof:lastmodified":1466475361,
+    "wof:lastmodified":1486668103,
     "wof:name":"Mark Fride & Stanley Marks -",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

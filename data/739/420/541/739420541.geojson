@@ -2,9 +2,14 @@
   "id": 739420541,
   "type": "Feature",
   "properties": {
+    "addr:full":"1307 Battleview Dr NW Atlanta GA 30327",
+    "addr:housenumber":"1307",
+    "addr:postcode":"30327",
+    "addr:street":"Battleview Dr Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.431375,33.824402,-84.431375,33.824402",
     "geom:latitude":33.824402,
     "geom:longitude":-84.431375,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85857119,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85857119
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85857119,
             "region_id":85688535,
             "venue_id":739420541
         }
     ],
     "wof:id":739420541,
-    "wof:lastmodified":1466466981,
+    "wof:lastmodified":1486668507,
     "wof:name":"Green Hix Attorney At Law",
     "wof:parent_id":85857119,
     "wof:placetype":"venue",

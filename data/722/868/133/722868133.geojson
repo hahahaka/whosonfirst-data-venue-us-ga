@@ -2,9 +2,14 @@
   "id": 722868133,
   "type": "Feature",
   "properties": {
+    "addr:full":"866 Briarcliff Rd NE Atlanta GA 30306",
+    "addr:housenumber":"866",
+    "addr:postcode":"30306",
+    "addr:street":"Briarcliff Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.346555,33.777892,-84.346555,33.777892",
     "geom:latitude":33.777892,
     "geom:longitude":-84.346555,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85815283,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85815283
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85815283,
             "region_id":85688535,
             "venue_id":722868133
         }
     ],
     "wof:id":722868133,
-    "wof:lastmodified":1466471546,
+    "wof:lastmodified":1486669895,
     "wof:name":"Playground Apparel Inc",
     "wof:parent_id":85815283,
     "wof:placetype":"venue",

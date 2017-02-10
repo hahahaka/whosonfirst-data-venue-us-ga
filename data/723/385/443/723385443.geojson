@@ -2,9 +2,14 @@
   "id": 723385443,
   "type": "Feature",
   "properties": {
+    "addr:full":"3655 Southside Industrial Pkwy Atlanta GA 30354",
+    "addr:housenumber":"3655",
+    "addr:postcode":"30354",
+    "addr:street":"Southside Industrial Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.374324,33.655714,-84.374324,33.655714",
     "geom:latitude":33.655714,
     "geom:longitude":-84.374324,
@@ -27,7 +32,15 @@
         "logistics"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420784729,
+        102191575,
+        1108797037,
+        85633793,
+        85936429,
+        102083603,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ROP16U1RGNwA2dpualGpP_33.655714_-84.374324@1294087602"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461900687,
     "wof:geomhash":"fc744b28047b99fe5042fffa90ea2b8f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797037,
+            "neighbourhood_id":420784729,
+            "region_id":85688535,
+            "venue_id":723385443
+        }
+    ],
     "wof:id":723385443,
-    "wof:lastmodified":1466472576,
+    "wof:lastmodified":1486672121,
     "wof:name":"Captrans Logistics",
-    "wof:parent_id":-1,
+    "wof:parent_id":420784729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739615517,
   "type": "Feature",
   "properties": {
+    "addr:full":"1614 Simpson Rd NW Atlanta GA 30314",
+    "addr:housenumber":"1614",
+    "addr:postcode":"30314",
+    "addr:street":"Simpson Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.440054,33.7635,-84.440054,33.7635",
     "geom:latitude":33.7635,
     "geom:longitude":-84.440054,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85845437,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
-        85845437
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797043,
             "neighbourhood_id":85845437,
             "region_id":85688535,
             "venue_id":739615517
         }
     ],
     "wof:id":739615517,
-    "wof:lastmodified":1466472075,
+    "wof:lastmodified":1486669012,
     "wof:name":"De'Elegance Beauty & Barber",
     "wof:parent_id":85845437,
     "wof:placetype":"venue",

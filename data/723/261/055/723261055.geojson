@@ -2,9 +2,14 @@
   "id": 723261055,
   "type": "Feature",
   "properties": {
+    "addr:full":"2191 Boulevard Dr SE Atlanta GA 30317",
+    "addr:housenumber":"2191",
+    "addr:postcode":"30317",
+    "addr:street":"Boulevard Dr Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.315172,33.751073,-84.315172,33.751073",
     "geom:latitude":33.751073,
     "geom:longitude":-84.315172,
@@ -24,7 +29,13 @@
     "sg:postcode":"30317",
     "sg:province":"GA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        102084539,
+        420558365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AQJnsCz0ihHeZZkvThzJo_33.751073_-84.315172@1294087602"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461898323,
     "wof:geomhash":"645de4a3d1de7cb3122e0353392249a5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":420558365,
+            "region_id":85688535,
+            "venue_id":723261055
+        }
+    ],
     "wof:id":723261055,
-    "wof:lastmodified":1466469861,
+    "wof:lastmodified":1486667554,
     "wof:name":"Kidability Inc",
     "wof:parent_id":420558365,
     "wof:placetype":"venue",

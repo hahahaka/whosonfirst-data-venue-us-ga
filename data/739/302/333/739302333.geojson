@@ -2,9 +2,14 @@
   "id": 739302333,
   "type": "Feature",
   "properties": {
+    "addr:full":"953 Rosedale Rd NE Atlanta GA 30306",
+    "addr:housenumber":"953",
+    "addr:postcode":"30306",
+    "addr:street":"Rosedale Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.348073,33.781961,-84.348073,33.781961",
     "geom:latitude":33.781961,
     "geom:longitude":-84.348073,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85815283,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85815283
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85815283,
             "region_id":85688535,
             "venue_id":739302333
         }
     ],
     "wof:id":739302333,
-    "wof:lastmodified":1466463026,
+    "wof:lastmodified":1486669484,
     "wof:name":"Music Caterers",
     "wof:parent_id":85815283,
     "wof:placetype":"venue",

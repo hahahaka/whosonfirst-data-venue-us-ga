@@ -2,9 +2,14 @@
   "id": 722783231,
   "type": "Feature",
   "properties": {
+    "addr:full":"1600 Murphy Ave SW Atlanta GA 30310",
+    "addr:housenumber":"1600",
+    "addr:postcode":"30310",
+    "addr:street":"Murphy Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.42608,33.712781,-84.42608,33.712781",
     "geom:latitude":33.712781,
     "geom:longitude":-84.42608,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420517931,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        420517931
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":420517931,
             "region_id":85688535,
             "venue_id":722783231
         }
     ],
     "wof:id":722783231,
-    "wof:lastmodified":1466469319,
+    "wof:lastmodified":1486671904,
     "wof:name":"Rexnord Distribution Center",
     "wof:parent_id":420517931,
     "wof:placetype":"venue",

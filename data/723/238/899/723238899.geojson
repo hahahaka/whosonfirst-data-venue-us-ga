@@ -2,9 +2,14 @@
   "id": 723238899,
   "type": "Feature",
   "properties": {
+    "addr:full":"665 Tarragon Way SW Atlanta GA 30331",
+    "addr:housenumber":"665",
+    "addr:postcode":"30331",
+    "addr:street":"Tarragon Way Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.523791,33.750169,-84.523791,33.750169",
     "geom:latitude":33.750169,
     "geom:longitude":-84.523791,
@@ -25,10 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
-        85633793,
         85872053,
-        102083603
+        102191575,
+        1108797035,
+        85633793,
+        85936429,
+        102083603,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,15 +47,18 @@
     "wof:geomhash":"d3d25c8b805a9f174312117877ccba8d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":85872053,
             "region_id":85688535,
             "venue_id":723238899
         }
     ],
     "wof:id":723238899,
-    "wof:lastmodified":1466469085,
+    "wof:lastmodified":1486667957,
     "wof:name":"Jamrock Trnsp Resources",
     "wof:parent_id":85872053,
     "wof:placetype":"venue",

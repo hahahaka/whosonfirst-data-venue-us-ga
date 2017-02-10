@@ -2,9 +2,14 @@
   "id": 723460327,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Arden Moor NW Atlanta GA 30305",
+    "addr:housenumber":"6",
+    "addr:postcode":"30305",
+    "addr:street":"Arden Moor Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.40345,33.838374,-84.40345,33.838374",
     "geom:latitude":33.838374,
     "geom:longitude":-84.40345,
@@ -29,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872111,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872045,
-        85872111
+        85688535,
+        85872045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +56,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872045,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":85872111,
             "region_id":85688535,
             "venue_id":723460327
         },
@@ -59,15 +66,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872111,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":85872045,
             "region_id":85688535,
             "venue_id":723460327
         }
     ],
     "wof:id":723460327,
-    "wof:lastmodified":1466474393,
+    "wof:lastmodified":1486671384,
     "wof:name":"Claudia Interiors",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

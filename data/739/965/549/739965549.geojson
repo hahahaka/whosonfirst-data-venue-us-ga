@@ -2,9 +2,14 @@
   "id": 739965549,
   "type": "Feature",
   "properties": {
+    "addr:full":"1512 Piedmont Ave Ste 201 Atlanta GA 30324",
+    "addr:housenumber":"1512",
+    "addr:postcode":"30324",
+    "addr:street":"Piedmont Ave Ste 201",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.370403,33.796137,-84.370403,33.796137",
     "geom:latitude":33.796137,
     "geom:longitude":-84.370403,
@@ -35,13 +40,14 @@
     "sg:website":"www.neighborhoodnurse.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872115,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85835263,
-        85872115
+        85688535,
+        85835263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +62,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85835263,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":85872115,
             "region_id":85688535,
             "venue_id":739965549
         },
@@ -65,15 +72,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872115,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":85835263,
             "region_id":85688535,
             "venue_id":739965549
         }
     ],
     "wof:id":739965549,
-    "wof:lastmodified":1466479236,
+    "wof:lastmodified":1486669741,
     "wof:name":"Neighborhood Nurse",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

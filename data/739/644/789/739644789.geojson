@@ -2,9 +2,14 @@
   "id": 739644789,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 Fairfield Pl NW Atlanta GA 30314",
+    "addr:housenumber":"150",
+    "addr:postcode":"30314",
+    "addr:street":"Fairfield Pl Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.463217,33.757884,-84.463217,33.757884",
     "geom:latitude":33.757884,
     "geom:longitude":-84.463217,
@@ -28,12 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872143,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        85872143
+        85688535,
+        1108798363,
+        1108797043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +56,26 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":85872143,
+            "region_id":85688535,
+            "venue_id":739644789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797043,
+            "neighbourhood_id":1108798363,
             "region_id":85688535,
             "venue_id":739644789
         }
     ],
     "wof:id":739644789,
-    "wof:lastmodified":1466472697,
+    "wof:lastmodified":1486672515,
     "wof:name":"E Smith Daycare",
-    "wof:parent_id":85872143,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

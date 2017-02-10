@@ -2,6 +2,10 @@
   "id": 740042011,
   "type": "Feature",
   "properties": {
+    "addr:full":"4321 University Pkwy # 103 Evans GA 30809",
+    "addr:housenumber":"4321",
+    "addr:postcode":"30809",
+    "addr:street":"University Pkwy # 103",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":740042011,
-    "wof:lastmodified":1466464831,
+    "wof:lastmodified":1472618005,
     "wof:name":"Frederick Merrill Dr",
     "wof:parent_id":85868555,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 739952097,
   "type": "Feature",
   "properties": {
+    "addr:full":"370 Auburn Ave NE Ste A Atlanta GA 30312",
+    "addr:housenumber":"370",
+    "addr:postcode":"30312",
+    "addr:street":"Auburn Ave Ne Ste A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.375511,33.755508,-84.375511,33.755508",
     "geom:latitude":33.755508,
     "geom:longitude":-84.375511,
@@ -34,12 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872065,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85872065
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,13 +60,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85872065,
             "region_id":85688535,
             "venue_id":739952097
         }
     ],
     "wof:id":739952097,
-    "wof:lastmodified":1466478956,
+    "wof:lastmodified":1486671424,
     "wof:name":"Life's Healing Touch, Inc.",
     "wof:parent_id":85872065,
     "wof:placetype":"venue",

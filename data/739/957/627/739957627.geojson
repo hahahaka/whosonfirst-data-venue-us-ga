@@ -2,9 +2,14 @@
   "id": 739957627,
   "type": "Feature",
   "properties": {
+    "addr:full":"1513 Marbut Ave SE Atlanta GA 30316",
+    "addr:housenumber":"1513",
+    "addr:postcode":"30316",
+    "addr:street":"Marbut Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.337815,33.743253,-84.337815,33.743253",
     "geom:latitude":33.743253,
     "geom:longitude":-84.337815,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"http://www.hofo.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        1108797045,
+        85633793,
+        85936429,
+        102083603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Bcng6C7wRQPfotAShE7UD_33.743253_-84.337815@1303262615"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461922283,
     "wof:geomhash":"b10a4b960bfbe1316de9f47b5010ad48",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "region_id":85688535,
+            "venue_id":739957627
+        }
+    ],
     "wof:id":739957627,
-    "wof:lastmodified":1466479053,
+    "wof:lastmodified":1486669549,
     "wof:name":"Hofo Computer Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 739316807,
   "type": "Feature",
   "properties": {
+    "addr:full":"1165 Oakland Ln SW Atlanta GA 30310",
+    "addr:housenumber":"1165",
+    "addr:postcode":"30310",
+    "addr:street":"Oakland Ln Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.426619,33.719639,-84.426619,33.719639",
     "geom:latitude":33.719639,
     "geom:longitude":-84.426619,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420518003,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        420518003
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":420518003,
             "region_id":85688535,
             "venue_id":739316807
         }
     ],
     "wof:id":739316807,
-    "wof:lastmodified":1466463727,
+    "wof:lastmodified":1486668038,
     "wof:name":"Intimate Impressions",
     "wof:parent_id":420518003,
     "wof:placetype":"venue",

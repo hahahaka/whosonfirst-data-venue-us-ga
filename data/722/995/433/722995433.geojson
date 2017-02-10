@@ -2,9 +2,14 @@
   "id": 722995433,
   "type": "Feature",
   "properties": {
+    "addr:full":"1250 Arkwright Pl SE Atlanta GA 30317",
+    "addr:housenumber":"1250",
+    "addr:postcode":"30317",
+    "addr:street":"Arkwright Pl Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.345427,33.748905,-84.345427,33.748905",
     "geom:latitude":33.748905,
     "geom:longitude":-84.345427,
@@ -24,7 +29,14 @@
     "sg:postcode":"30317",
     "sg:province":"GA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        1108797045,
+        85633793,
+        85936429,
+        102083603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PODxQ1DTWEHcrvnfwKpHA_33.748905_-84.345427@1294087602"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461892793,
     "wof:geomhash":"3d8d44e891621186f28946209f6aff90",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "region_id":85688535,
+            "venue_id":722995433
+        }
+    ],
     "wof:id":722995433,
-    "wof:lastmodified":1466475107,
+    "wof:lastmodified":1486669340,
     "wof:name":"Cr Courier Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

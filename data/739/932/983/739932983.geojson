@@ -2,9 +2,14 @@
   "id": 739932983,
   "type": "Feature",
   "properties": {
+    "addr:full":"870 Inman Village Pkwy NE Atlanta GA 30307",
+    "addr:housenumber":"870",
+    "addr:postcode":"30307",
+    "addr:street":"Inman Village Pkwy Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.360518,33.76039,-84.360518,33.76039",
     "geom:latitude":33.76039,
     "geom:longitude":-84.360518,
@@ -37,10 +42,10 @@
     "wof:belongsto":[
         85688535,
         102191575,
+        1108797045,
         85633793,
         85936429,
-        102083603,
-        85812215
+        102083603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +60,15 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85812215,
+            "macrohood_id":1108797045,
             "region_id":85688535,
             "venue_id":739932983
         }
     ],
     "wof:id":739932983,
-    "wof:lastmodified":1466478719,
+    "wof:lastmodified":1486670411,
     "wof:name":"Global State Partners",
-    "wof:parent_id":85812215,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

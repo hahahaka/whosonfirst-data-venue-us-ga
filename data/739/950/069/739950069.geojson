@@ -2,9 +2,14 @@
   "id": 739950069,
   "type": "Feature",
   "properties": {
+    "addr:full":"2024 Campbellton Rd SW Atlanta GA 30311",
+    "addr:housenumber":"2024",
+    "addr:postcode":"30311",
+    "addr:street":"Campbellton Rd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.455816,33.70707,-84.455816,33.70707",
     "geom:latitude":33.70707,
     "geom:longitude":-84.455816,
@@ -41,10 +46,10 @@
     "wof:belongsto":[
         85688535,
         102191575,
+        1108797035,
         85633793,
         85936429,
-        102083603,
-        420517887
+        102083603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,15 +64,15 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":420517887,
+            "macrohood_id":1108797035,
             "region_id":85688535,
             "venue_id":739950069
         }
     ],
     "wof:id":739950069,
-    "wof:lastmodified":1466478949,
+    "wof:lastmodified":1486667936,
     "wof:name":"Dollar Tree",
-    "wof:parent_id":420517887,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

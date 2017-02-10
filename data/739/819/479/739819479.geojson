@@ -2,6 +2,10 @@
   "id": 739819479,
   "type": "Feature",
   "properties": {
+    "addr:full":"1625 Roswell Rd Apt 1010 Marietta GA 30062",
+    "addr:housenumber":"1625",
+    "addr:postcode":"1010;30062",
+    "addr:street":"Roswell Rd Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":739819479,
-    "wof:lastmodified":1466476720,
+    "wof:lastmodified":1472619408,
     "wof:name":"My Pretty Portrait",
     "wof:parent_id":85857049,
     "wof:placetype":"venue",

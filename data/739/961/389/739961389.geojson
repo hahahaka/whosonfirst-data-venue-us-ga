@@ -2,9 +2,14 @@
   "id": 739961389,
   "type": "Feature",
   "properties": {
+    "addr:full":"798 James Jackson Parkway N Atlanta GA 30318",
+    "addr:housenumber":"798",
+    "addr:postcode":"30318",
+    "addr:street":"James Jackson Parkway N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.473624,33.776339,-84.473624,33.776339",
     "geom:latitude":33.776339,
     "geom:longitude":-84.473624,
@@ -25,13 +30,15 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798351,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
-        85872073,
-        85845437
+        85688535,
+        85845437,
+        85872073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +53,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872073,
+            "macrohood_id":1108797043,
+            "neighbourhood_id":1108798351,
             "region_id":85688535,
             "venue_id":739961389
         },
@@ -55,15 +63,26 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797043,
             "neighbourhood_id":85845437,
+            "region_id":85688535,
+            "venue_id":739961389
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797043,
+            "neighbourhood_id":85872073,
             "region_id":85688535,
             "venue_id":739961389
         }
     ],
     "wof:id":739961389,
-    "wof:lastmodified":1466479201,
+    "wof:lastmodified":1486672511,
     "wof:name":"Hans Carry Out",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

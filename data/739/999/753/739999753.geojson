@@ -2,6 +2,10 @@
   "id": 739999753,
   "type": "Feature",
   "properties": {
+    "addr:full":"4321 Buford Hwy Atlanta GA 30341",
+    "addr:housenumber":"4321",
+    "addr:postcode":"30341",
+    "addr:street":"Buford Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":739999753,
-    "wof:lastmodified":1466479772,
+    "wof:lastmodified":1472619713,
     "wof:name":"Crabtree's Auto Painting",
     "wof:parent_id":102525899,
     "wof:placetype":"venue",

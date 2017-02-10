@@ -2,9 +2,14 @@
   "id": 739432585,
   "type": "Feature",
   "properties": {
+    "addr:full":"2911 Nancy Creek Rd NW Atlanta GA 30327",
+    "addr:housenumber":"2911",
+    "addr:postcode":"30327",
+    "addr:street":"Nancy Creek Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.453699,33.83916,-84.453699,33.83916",
     "geom:latitude":33.83916,
     "geom:longitude":-84.453699,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798143,
+        420784717,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85844921
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85844921,
+            "macrohood_id":1108797041,
+            "microhood_id":1108798143,
+            "neighbourhood_id":420784717,
             "region_id":85688535,
             "venue_id":739432585
         }
     ],
     "wof:id":739432585,
-    "wof:lastmodified":1466467089,
+    "wof:lastmodified":1486673151,
     "wof:name":"Alvelda Assoc LLC",
-    "wof:parent_id":85844921,
+    "wof:parent_id":1108798143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

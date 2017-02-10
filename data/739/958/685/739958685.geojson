@@ -2,9 +2,14 @@
   "id": 739958685,
   "type": "Feature",
   "properties": {
+    "addr:full":"555 10th St NW Atlanta GA 30318",
+    "addr:housenumber":"555",
+    "addr:postcode":"30318",
+    "addr:street":"10Th St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.405296,33.781601,-84.405296,33.781601",
     "geom:latitude":33.781601,
     "geom:longitude":-84.405296,
@@ -36,12 +41,13 @@
     "sg:website":"www.sportsrehabcenter.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420517947,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        420517947
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,13 +62,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":420517947,
             "region_id":85688535,
             "venue_id":739958685
         }
     ],
     "wof:id":739958685,
-    "wof:lastmodified":1466479065,
+    "wof:lastmodified":1486669953,
     "wof:name":"The Sports Rehabilitation Center",
     "wof:parent_id":420517947,
     "wof:placetype":"venue",

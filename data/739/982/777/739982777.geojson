@@ -2,9 +2,14 @@
   "id": 739982777,
   "type": "Feature",
   "properties": {
+    "addr:full":"320 Fairburn Rd SW Apt E Atlanta GA 30331",
+    "addr:housenumber":"320",
+    "addr:postcode":"30331",
+    "addr:street":"Fairburn Rd Sw Apt E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.508607,33.745377,-84.508607,33.745377",
     "geom:latitude":33.745377,
     "geom:longitude":-84.508607,
@@ -33,7 +38,15 @@
         "cleaners-interior"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108798455,
+        102191575,
+        1108797035,
+        85633793,
+        85936429,
+        102083603,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Ptq8s4tDwKUYIub5V1IMp_33.745377_-84.508607@1303262622"
@@ -41,11 +54,22 @@
     "wof:country":"US",
     "wof:created":1461923247,
     "wof:geomhash":"cfb35cd172b6a0143cbd65b03235753f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798455,
+            "region_id":85688535,
+            "venue_id":739982777
+        }
+    ],
     "wof:id":739982777,
-    "wof:lastmodified":1466479554,
+    "wof:lastmodified":1486672639,
     "wof:name":"Bf House Cleaning Servic",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108798455,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

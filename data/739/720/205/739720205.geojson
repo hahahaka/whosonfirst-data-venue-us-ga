@@ -2,9 +2,14 @@
   "id": 739720205,
   "type": "Feature",
   "properties": {
+    "addr:full":"80 Butler St SE Atlanta GA 30303",
+    "addr:housenumber":"80",
+    "addr:postcode":"30303",
+    "addr:street":"Butler St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.382579,33.752174,-84.382579,33.752174",
     "geom:latitude":33.752174,
     "geom:longitude":-84.382579,
@@ -31,10 +36,10 @@
     "wof:belongsto":[
         85688535,
         102191575,
+        1108797045,
         85633793,
         85936429,
-        102083603,
-        85872043
+        102083603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +54,15 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872043,
+            "macrohood_id":1108797045,
             "region_id":85688535,
             "venue_id":739720205
         }
     ],
     "wof:id":739720205,
-    "wof:lastmodified":1466474665,
+    "wof:lastmodified":1486669274,
     "wof:name":"Crothall Healthcare",
-    "wof:parent_id":85872043,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

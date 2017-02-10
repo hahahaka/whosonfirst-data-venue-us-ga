@@ -2,9 +2,14 @@
   "id": 739989015,
   "type": "Feature",
   "properties": {
+    "addr:full":"1535 Mount Vernon Rd Atlanta GA 30338",
+    "addr:housenumber":"1535",
+    "addr:postcode":"30338",
+    "addr:street":"Mount Vernon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.390939,33.831603,-84.390939,33.831603",
     "geom:latitude":33.831603,
     "geom:longitude":-84.390939,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872111,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872111
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872111,
             "region_id":85688535,
             "venue_id":739989015
         }
     ],
     "wof:id":739989015,
-    "wof:lastmodified":1466479657,
+    "wof:lastmodified":1486668697,
     "wof:name":"Moreland & Geheren PC",
     "wof:parent_id":85872111,
     "wof:placetype":"venue",

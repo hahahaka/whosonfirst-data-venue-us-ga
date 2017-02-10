@@ -2,9 +2,14 @@
   "id": 722642717,
   "type": "Feature",
   "properties": {
+    "addr:full":"1149 Ponce de Leon Ave NE Atlanta GA 30306",
+    "addr:housenumber":"1149",
+    "addr:postcode":"30306",
+    "addr:street":"Ponce De Leon Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.350749,33.773838,-84.350749,33.773838",
     "geom:latitude":33.773838,
     "geom:longitude":-84.350749,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798181,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85872121,
-        85830819
+        85688535,
+        85872121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +55,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872121,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":1108798181,
             "region_id":85688535,
             "venue_id":722642717
         },
@@ -58,15 +65,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85830819,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":85872121,
             "region_id":85688535,
             "venue_id":722642717
         }
     ],
     "wof:id":722642717,
-    "wof:lastmodified":1466465700,
+    "wof:lastmodified":1486672328,
     "wof:name":"Executive Management Svc Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

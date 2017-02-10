@@ -2,9 +2,14 @@
   "id": 739955105,
   "type": "Feature",
   "properties": {
+    "addr:full":"660 Mcwilliams Rd SE Atlanta GA 30315",
+    "addr:housenumber":"660",
+    "addr:postcode":"30315",
+    "addr:street":"Mcwilliams Rd Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.367027,33.688759,-84.367027,33.688759",
     "geom:latitude":33.688759,
     "geom:longitude":-84.367027,
@@ -35,12 +40,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420517963,
         102191575,
+        1108797037,
         85633793,
         85936429,
         102083603,
-        420517963
+        85688535,
+        1108798221
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +62,26 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797037,
             "neighbourhood_id":420517963,
+            "region_id":85688535,
+            "venue_id":739955105
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797037,
+            "neighbourhood_id":1108798221,
             "region_id":85688535,
             "venue_id":739955105
         }
     ],
     "wof:id":739955105,
-    "wof:lastmodified":1466478956,
+    "wof:lastmodified":1486672389,
     "wof:name":"Kipp Vision Academy",
-    "wof:parent_id":420517963,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

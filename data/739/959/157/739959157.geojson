@@ -2,9 +2,14 @@
   "id": 739959157,
   "type": "Feature",
   "properties": {
+    "addr:full":"887 West Marietta St Atlanta GA 30318",
+    "addr:housenumber":"887",
+    "addr:postcode":"30318",
+    "addr:street":"West Marietta St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.412191,33.779879,-84.412191,33.779879",
     "geom:latitude":33.779879,
     "geom:longitude":-84.412191,
@@ -26,12 +31,13 @@
     "sg:website":"www.pmtheschoolatl.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872055,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
-        85872055
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797043,
             "neighbourhood_id":85872055,
             "region_id":85688535,
             "venue_id":739959157
         }
     ],
     "wof:id":739959157,
-    "wof:lastmodified":1466479153,
+    "wof:lastmodified":1486669555,
     "wof:name":"Paul Mitchell The School Atlanta",
     "wof:parent_id":85872055,
     "wof:placetype":"venue",

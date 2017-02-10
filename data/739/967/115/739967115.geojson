@@ -2,9 +2,14 @@
   "id": 739967115,
   "type": "Feature",
   "properties": {
+    "addr:full":"2555 Chantilly Drive NE Atlanta GA 30324",
+    "addr:housenumber":"2555",
+    "addr:postcode":"30324",
+    "addr:street":"Chantilly Drive Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.350171,33.824164,-84.350171,33.824164",
     "geom:latitude":33.824164,
     "geom:longitude":-84.350171,
@@ -30,10 +35,10 @@
     "wof:belongsto":[
         85688535,
         102191575,
+        1108797045,
         85633793,
         85936429,
-        102083603,
-        85872117
+        102083603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +53,15 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872117,
+            "macrohood_id":1108797045,
             "region_id":85688535,
             "venue_id":739967115
         }
     ],
     "wof:id":739967115,
-    "wof:lastmodified":1466479148,
+    "wof:lastmodified":1486670078,
     "wof:name":"Rainwater Construction Company",
-    "wof:parent_id":85872117,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

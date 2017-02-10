@@ -2,9 +2,14 @@
   "id": 739960405,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 Marietta St NW Atlanta GA 30318",
+    "addr:housenumber":"1000",
+    "addr:postcode":"30318",
+    "addr:street":"Marietta St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.410682,33.77854,-84.410682,33.77854",
     "geom:latitude":33.77854,
     "geom:longitude":-84.410682,
@@ -35,12 +40,13 @@
     "sg:website":"www.5seasonsbrewing.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85805581,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85805581
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85805581,
             "region_id":85688535,
             "venue_id":739960405
         }
     ],
     "wof:id":739960405,
-    "wof:lastmodified":1466479203,
+    "wof:lastmodified":1486670208,
     "wof:name":"5 Seasons Brewing",
     "wof:parent_id":85805581,
     "wof:placetype":"venue",

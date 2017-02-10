@@ -2,9 +2,14 @@
   "id": 739756409,
   "type": "Feature",
   "properties": {
+    "addr:full":"2081 Dellwood Dr NW Atlanta GA 30309",
+    "addr:housenumber":"2081",
+    "addr:postcode":"30309",
+    "addr:street":"Dellwood Dr Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.397499,33.812,-84.397499,33.812",
     "geom:latitude":33.812,
     "geom:longitude":-84.397499,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872077,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872077
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872077,
             "region_id":85688535,
             "venue_id":739756409
         }
     ],
     "wof:id":739756409,
-    "wof:lastmodified":1466475394,
+    "wof:lastmodified":1486671445,
     "wof:name":"Smith Gilford R Archt",
     "wof:parent_id":85872077,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 739967099,
   "type": "Feature",
   "properties": {
+    "addr:full":"440 Armour Pl NE Atlanta GA 30324",
+    "addr:housenumber":"440",
+    "addr:postcode":"30324",
+    "addr:street":"Armour Pl Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.374847,33.811577,-84.374847,33.811577",
     "geom:latitude":33.811577,
     "geom:longitude":-84.374847,
@@ -29,13 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798507,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85832987,
-        85872115
+        85688535,
+        85872115,
+        1108797045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +57,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85832987,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":1108798507,
             "region_id":85688535,
             "venue_id":739967099
         },
@@ -59,15 +67,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85872115,
             "region_id":85688535,
             "venue_id":739967099
         }
     ],
     "wof:id":739967099,
-    "wof:lastmodified":1466479145,
+    "wof:lastmodified":1486672681,
     "wof:name":"Sheffield Dental Lab Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

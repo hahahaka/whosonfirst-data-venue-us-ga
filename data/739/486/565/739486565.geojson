@@ -2,9 +2,14 @@
   "id": 739486565,
   "type": "Feature",
   "properties": {
+    "addr:full":"624 Berne St SE Atlanta GA 30312",
+    "addr:housenumber":"624",
+    "addr:postcode":"30312",
+    "addr:street":"Berne St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.368202,33.736823,-84.368202,33.736823",
     "geom:latitude":33.736823,
     "geom:longitude":-84.368202,
@@ -24,7 +29,18 @@
     "sg:postcode":"30312",
     "sg:province":"GA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866905,
+        102191575,
+        1108797037,
+        85633793,
+        85936429,
+        102083603,
+        85688535,
+        85872061,
+        85808737,
+        1108797045
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aEkI6D6q7j0Cc3FanOR6x_33.736823_-84.368202@1294087602"
@@ -32,11 +48,42 @@
     "wof:country":"US",
     "wof:created":1461908193,
     "wof:geomhash":"0d2b3416f6090e5ca3d2133373f57c43",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797037,
+            "neighbourhood_id":85866905,
+            "region_id":85688535,
+            "venue_id":739486565
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797037,
+            "neighbourhood_id":85872061,
+            "region_id":85688535,
+            "venue_id":739486565
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":85808737,
+            "region_id":85688535,
+            "venue_id":739486565
+        }
+    ],
     "wof:id":739486565,
-    "wof:lastmodified":1466468604,
+    "wof:lastmodified":1486671201,
     "wof:name":"Bertolet Kaler Interior Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

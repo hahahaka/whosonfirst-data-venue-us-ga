@@ -2,9 +2,14 @@
   "id": 739760857,
   "type": "Feature",
   "properties": {
+    "addr:full":"871 Wheeler St NW Atlanta GA 30318",
+    "addr:housenumber":"871",
+    "addr:postcode":"30318",
+    "addr:street":"Wheeler St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.415876,33.774101,-84.415876,33.774101",
     "geom:latitude":33.774101,
     "geom:longitude":-84.415876,
@@ -32,12 +37,13 @@
     "sg:website":"http://www.chemweld.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872055,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
-        85872055
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +58,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797043,
             "neighbourhood_id":85872055,
             "region_id":85688535,
             "venue_id":739760857
         }
     ],
     "wof:id":739760857,
-    "wof:lastmodified":1466475713,
+    "wof:lastmodified":1486668960,
     "wof:name":"Chemweld Inc",
     "wof:parent_id":85872055,
     "wof:placetype":"venue",

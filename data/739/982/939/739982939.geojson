@@ -2,9 +2,14 @@
   "id": 739982939,
   "type": "Feature",
   "properties": {
+    "addr:full":"4520-B Campbellton Road SW Atlanta GA 30331",
+    "addr:housenumber":"4520-b",
+    "addr:postcode":"30331",
+    "addr:street":"Campbellton Road Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.535654,33.695475,-84.535654,33.695475",
     "geom:latitude":33.695475,
     "geom:longitude":-84.535654,
@@ -35,7 +40,15 @@
         "market"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108798305,
+        102191575,
+        1108797035,
+        85633793,
+        85936429,
+        102083603,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29n0ijXLoOEQOyn3tyynp2_33.695475_-84.535654@1303262622"
@@ -43,11 +56,22 @@
     "wof:country":"US",
     "wof:created":1461923254,
     "wof:geomhash":"6aea1518645f295a5583690ccc30cb9e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798305,
+            "region_id":85688535,
+            "venue_id":739982939
+        }
+    ],
     "wof:id":739982939,
-    "wof:lastmodified":1466479572,
+    "wof:lastmodified":1486672454,
     "wof:name":"County Line Seafood & Produce",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108798305,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

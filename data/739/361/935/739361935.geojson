@@ -2,6 +2,10 @@
   "id": 739361935,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 N Westover Blvd Albany GA 31707",
+    "addr:housenumber":"123",
+    "addr:postcode":"31707",
+    "addr:street":"N Westover Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":739361935,
-    "wof:lastmodified":1466465030,
+    "wof:lastmodified":1472618276,
     "wof:name":"Westwood Church",
     "wof:parent_id":420517805,
     "wof:placetype":"venue",

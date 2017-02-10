@@ -2,9 +2,14 @@
   "id": 723433337,
   "type": "Feature",
   "properties": {
+    "addr:full":"235 Pearl St SE Atlanta GA 30316",
+    "addr:housenumber":"235",
+    "addr:postcode":"30316",
+    "addr:street":"Pearl St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.36226,33.749356,-84.36226,33.749356",
     "geom:latitude":33.749356,
     "geom:longitude":-84.36226,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85808737,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85808737
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85808737,
             "region_id":85688535,
             "venue_id":723433337
         }
     ],
     "wof:id":723433337,
-    "wof:lastmodified":1466473869,
+    "wof:lastmodified":1486670081,
     "wof:name":"Metro Atlanta Telecom",
     "wof:parent_id":85808737,
     "wof:placetype":"venue",

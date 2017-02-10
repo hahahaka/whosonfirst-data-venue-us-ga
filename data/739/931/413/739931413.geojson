@@ -2,9 +2,14 @@
   "id": 739931413,
   "type": "Feature",
   "properties": {
+    "addr:full":"1410 Fairview Rd NE Atlanta GA 30306",
+    "addr:housenumber":"1410",
+    "addr:postcode":"30306",
+    "addr:street":"Fairview Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.341461,33.772839,-84.341461,33.772839",
     "geom:latitude":33.772839,
     "geom:longitude":-84.341461,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85815283,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85815283
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85815283,
             "region_id":85688535,
             "venue_id":739931413
         }
     ],
     "wof:id":739931413,
-    "wof:lastmodified":1466478618,
+    "wof:lastmodified":1486669666,
     "wof:name":"Claire Sterk",
     "wof:parent_id":85815283,
     "wof:placetype":"venue",

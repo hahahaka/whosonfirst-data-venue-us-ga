@@ -2,9 +2,14 @@
   "id": 739437513,
   "type": "Feature",
   "properties": {
+    "addr:full":"2759 Santa Barbara Dr NW Atlanta GA 30318",
+    "addr:housenumber":"2759",
+    "addr:postcode":"30318",
+    "addr:street":"Santa Barbara Dr Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.475442,33.766209,-84.475442,33.766209",
     "geom:latitude":33.766209,
     "geom:longitude":-84.475442,
@@ -25,13 +30,15 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872143,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
+        85688535,
         85872073,
-        85872143
+        1108797043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +53,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872073,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":85872143,
             "region_id":85688535,
             "venue_id":739437513
         },
@@ -55,15 +63,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872143,
+            "macrohood_id":1108797043,
+            "neighbourhood_id":85872073,
             "region_id":85688535,
             "venue_id":739437513
         }
     ],
     "wof:id":739437513,
-    "wof:lastmodified":1466467294,
+    "wof:lastmodified":1486669031,
     "wof:name":"A Carpet Pro",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

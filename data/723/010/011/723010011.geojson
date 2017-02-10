@@ -2,9 +2,14 @@
   "id": 723010011,
   "type": "Feature",
   "properties": {
+    "addr:full":"1533 Cave Rd NW Atlanta GA 30327",
+    "addr:housenumber":"1533",
+    "addr:postcode":"30327",
+    "addr:street":"Cave Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.434765,33.864114,-84.434765,33.864114",
     "geom:latitude":33.864114,
     "geom:longitude":-84.434765,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420784715,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872107
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872107,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":420784715,
             "region_id":85688535,
             "venue_id":723010011
         }
     ],
     "wof:id":723010011,
-    "wof:lastmodified":1466461422,
+    "wof:lastmodified":1486672056,
     "wof:name":"Salico Inc",
-    "wof:parent_id":85872107,
+    "wof:parent_id":420784715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 723027881,
   "type": "Feature",
   "properties": {
+    "addr:full":"1675 Noble Dr NE Atlanta GA 30306",
+    "addr:housenumber":"1675",
+    "addr:postcode":"30306",
+    "addr:street":"Noble Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.346728,33.7996,-84.346728,33.7996",
     "geom:latitude":33.7996,
     "geom:longitude":-84.346728,
@@ -24,7 +29,14 @@
     "sg:postcode":"30306",
     "sg:province":"GA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        1108797045,
+        85633793,
+        85936429,
+        102083603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50OsXmw2HgomLw9VzE2B6I_33.799600_-84.346728@1294087602"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461893558,
     "wof:geomhash":"374d133cbc75ff042e08a489cb55ebcf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "region_id":85688535,
+            "venue_id":723027881
+        }
+    ],
     "wof:id":723027881,
-    "wof:lastmodified":1466462549,
+    "wof:lastmodified":1486669309,
     "wof:name":"Ecolines Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

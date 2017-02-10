@@ -2,6 +2,10 @@
   "id": 740041859,
   "type": "Feature",
   "properties": {
+    "addr:full":"4321 University Pkwy # 104 Evans GA 30809",
+    "addr:housenumber":"4321",
+    "addr:postcode":"30809",
+    "addr:street":"University Pkwy # 104",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":740041859,
-    "wof:lastmodified":1466464494,
+    "wof:lastmodified":1472618033,
     "wof:name":"The Pediatric Office",
     "wof:parent_id":85868555,
     "wof:placetype":"venue",

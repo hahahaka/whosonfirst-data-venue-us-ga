@@ -2,9 +2,14 @@
   "id": 722809253,
   "type": "Feature",
   "properties": {
+    "addr:full":"826 Parsons St SW Atlanta GA 30314",
+    "addr:housenumber":"826",
+    "addr:postcode":"30314",
+    "addr:street":"Parsons St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.415116,33.750772,-84.415116,33.750772",
     "geom:latitude":33.750772,
     "geom:longitude":-84.415116,
@@ -29,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85855423,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        85872049,
-        85855423
+        85688535,
+        85872049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +56,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872049,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":85855423,
             "region_id":85688535,
             "venue_id":722809253
         },
@@ -59,15 +66,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85855423,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":85872049,
             "region_id":85688535,
             "venue_id":722809253
         }
     ],
     "wof:id":722809253,
-    "wof:lastmodified":1466470074,
+    "wof:lastmodified":1486668064,
     "wof:name":"Fons Enterprises Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

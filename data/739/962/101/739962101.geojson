@@ -2,9 +2,14 @@
   "id": 739962101,
   "type": "Feature",
   "properties": {
+    "addr:full":"2138 Adams Overlook NW Atlanta GA 30318",
+    "addr:housenumber":"2138",
+    "addr:postcode":"30318",
+    "addr:street":"Adams Overlook Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.453986,33.813247,-84.453986,33.813247",
     "geom:latitude":33.813247,
     "geom:longitude":-84.453986,
@@ -40,12 +45,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420517865,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
-        420517865
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,13 +66,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797043,
             "neighbourhood_id":420517865,
             "region_id":85688535,
             "venue_id":739962101
         }
     ],
     "wof:id":739962101,
-    "wof:lastmodified":1466479142,
+    "wof:lastmodified":1486668959,
     "wof:name":"Barking Up The Right Tree",
     "wof:parent_id":420517865,
     "wof:placetype":"venue",

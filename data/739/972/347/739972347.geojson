@@ -2,9 +2,14 @@
   "id": 739972347,
   "type": "Feature",
   "properties": {
+    "addr:full":"3193 Howell Mill Rd NW Atlanta GA 30327",
+    "addr:housenumber":"3193",
+    "addr:postcode":"30327",
+    "addr:street":"Howell Mill Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.427268,33.840715,-84.427268,33.840715",
     "geom:latitude":33.840715,
     "geom:longitude":-84.427268,
@@ -26,12 +31,13 @@
     "sg:website":"http://www.filitrac.com/Click.aspx?tid=B812D3B64AE5D4A16F1E6E18E307A35AC9798167DE606D32&FiliAff=15016&sid=Local%20Store&mwpid=YellowPages&cpag=YellowPages&cpca=YellowPages&cpao=123&bannerid=2691",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872137,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872137
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872137,
             "region_id":85688535,
             "venue_id":739972347
         }
     ],
     "wof:id":739972347,
-    "wof:lastmodified":1466479360,
+    "wof:lastmodified":1486668713,
     "wof:name":"American Laser Center",
     "wof:parent_id":85872137,
     "wof:placetype":"venue",

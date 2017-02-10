@@ -2,9 +2,14 @@
   "id": 740054059,
   "type": "Feature",
   "properties": {
+    "addr:full":"770 Deckner Ave SW Atlanta GA 31136",
+    "addr:housenumber":"770",
+    "addr:postcode":"31136",
+    "addr:street":"Deckner Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.413083,33.711911,-84.413083,33.711911",
     "geom:latitude":33.711911,
     "geom:longitude":-84.413083,
@@ -26,12 +31,13 @@
     "sg:website":"apps.atlantaga.gov/citydir/prca/...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85809417,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        85809417
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":85809417,
             "region_id":85688535,
             "venue_id":740054059
         }
     ],
     "wof:id":740054059,
-    "wof:lastmodified":1466465491,
+    "wof:lastmodified":1486667815,
     "wof:name":"Perkerson Park",
     "wof:parent_id":85809417,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 722727131,
   "type": "Feature",
   "properties": {
+    "addr:full":"3920 Peachtree Dunwoody Rd Atlanta GA 30342",
+    "addr:housenumber":"3920",
+    "addr:postcode":"30342",
+    "addr:street":"Peachtree Dunwoody Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.358009,33.864004,-84.358009,33.864004",
     "geom:latitude":33.864004,
     "geom:longitude":-84.358009,
@@ -27,10 +32,10 @@
     "wof:belongsto":[
         85688535,
         102191575,
+        1108797041,
         85633793,
         85936429,
-        102083603,
-        85889983
+        102083603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +50,15 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85889983,
+            "macrohood_id":1108797041,
             "region_id":85688535,
             "venue_id":722727131
         }
     ],
     "wof:id":722727131,
-    "wof:lastmodified":1466468068,
+    "wof:lastmodified":1486671630,
     "wof:name":"Ranck & Assoc Inc",
-    "wof:parent_id":85889983,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

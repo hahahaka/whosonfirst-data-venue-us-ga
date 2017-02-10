@@ -2,9 +2,14 @@
   "id": 722831037,
   "type": "Feature",
   "properties": {
+    "addr:full":"2563 Chattahoochee Cir NW Atlanta GA 30318",
+    "addr:housenumber":"2563",
+    "addr:postcode":"30318",
+    "addr:street":"Chattahoochee Cir Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.452248,33.823977,-84.452248,33.823977",
     "geom:latitude":33.823977,
     "geom:longitude":-84.452248,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85844587,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85844587
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85844587,
             "region_id":85688535,
             "venue_id":722831037
         }
     ],
     "wof:id":722831037,
-    "wof:lastmodified":1466470754,
+    "wof:lastmodified":1486668475,
     "wof:name":"W L Hailey AT West Cso Pump",
     "wof:parent_id":85844587,
     "wof:placetype":"venue",

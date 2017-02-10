@@ -2,9 +2,14 @@
   "id": 739962357,
   "type": "Feature",
   "properties": {
+    "addr:full":"1108 Chattahoochee Ave NW Atlanta GA 30318",
+    "addr:housenumber":"1108",
+    "addr:postcode":"30318",
+    "addr:street":"Chattahoochee Ave Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.42382,33.80114,-84.42382,33.80114",
     "geom:latitude":33.80114,
     "geom:longitude":-84.42382,
@@ -49,13 +54,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872079,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872135,
-        85872079
+        85688535,
+        85872135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +76,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872135,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":85872079,
             "region_id":85688535,
             "venue_id":739962357
         },
@@ -79,15 +86,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872079,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":85872135,
             "region_id":85688535,
             "venue_id":739962357
         }
     ],
     "wof:id":739962357,
-    "wof:lastmodified":1466479193,
+    "wof:lastmodified":1486668598,
     "wof:name":"Rosing Painting & Wallcovering Contractors",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

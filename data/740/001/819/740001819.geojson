@@ -2,6 +2,10 @@
   "id": 740001819,
   "type": "Feature",
   "properties": {
+    "addr:full":"5555 Roswell Rd Apt W12 Atlanta GA 30342",
+    "addr:housenumber":"5555",
+    "addr:postcode":"30342",
+    "addr:street":"Roswell Rd;W12",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":740001819,
-    "wof:lastmodified":1466461644,
+    "wof:lastmodified":1472617850,
     "wof:name":"J. J. Green & Co. \"L.L.C.\"",
     "wof:parent_id":85890007,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 739957349,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 Chester Ave SE Atlanta GA 30316",
+    "addr:housenumber":"215",
+    "addr:postcode":"30316",
+    "addr:street":"Chester Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.359152,33.748236,-84.359152,33.748236",
     "geom:latitude":33.748236,
     "geom:longitude":-84.359152,
@@ -36,12 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872125,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85872125
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,13 +62,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85872125,
             "region_id":85688535,
             "venue_id":739957349
         }
     ],
     "wof:id":739957349,
-    "wof:lastmodified":1466479001,
+    "wof:lastmodified":1486669310,
     "wof:name":"Cyndy's Auto Sales & Rental, Inc.",
     "wof:parent_id":85872125,
     "wof:placetype":"venue",

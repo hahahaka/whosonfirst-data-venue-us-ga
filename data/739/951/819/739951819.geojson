@@ -2,9 +2,14 @@
   "id": 739951819,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 Boulevard NE Atlanta GA 30312",
+    "addr:housenumber":"315",
+    "addr:postcode":"30312",
+    "addr:street":"Boulevard Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.371512,33.762977,-84.371512,33.762977",
     "geom:latitude":33.762977,
     "geom:longitude":-84.371512,
@@ -41,13 +46,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872109,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85872065,
-        85872109
+        85688535,
+        85872065
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +68,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872065,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":85872109,
             "region_id":85688535,
             "venue_id":739951819
         },
@@ -71,15 +78,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872109,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":85872065,
             "region_id":85688535,
             "venue_id":739951819
         }
     ],
     "wof:id":739951819,
-    "wof:lastmodified":1466479090,
+    "wof:lastmodified":1486669892,
     "wof:name":"Turk Althea L MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

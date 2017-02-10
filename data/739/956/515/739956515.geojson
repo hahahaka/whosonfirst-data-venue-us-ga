@@ -2,9 +2,14 @@
   "id": 739956515,
   "type": "Feature",
   "properties": {
+    "addr:full":"559 Flat Shaols Ave Atlanta GA 30316",
+    "addr:housenumber":"559 flat",
+    "addr:postcode":"30316",
+    "addr:street":"Shaols Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.34408,33.739015,-84.34408,33.739015",
     "geom:latitude":33.739015,
     "geom:longitude":-84.34408,
@@ -36,7 +41,14 @@
     ],
     "sg:website":"sokaisalon.vpweb.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        1108797045,
+        85633793,
+        85936429,
+        102083603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZBLDT7OOy3h9lsVuY1j7N_33.739015_-84.344080@1303262615"
@@ -44,9 +56,19 @@
     "wof:country":"US",
     "wof:created":1461922247,
     "wof:geomhash":"9f6f73a0c30d445feba45302a54eff47",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "region_id":85688535,
+            "venue_id":739956515
+        }
+    ],
     "wof:id":739956515,
-    "wof:lastmodified":1466479035,
+    "wof:lastmodified":1486669582,
     "wof:name":"SOKAI Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

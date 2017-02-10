@@ -2,6 +2,10 @@
   "id": 739803053,
   "type": "Feature",
   "properties": {
+    "addr:full":"225 Nancy Ln Apt 722 Cumming GA 30040",
+    "addr:housenumber":"225;722",
+    "addr:postcode":"30040",
+    "addr:street":"Nancy Ln Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":739803053,
-    "wof:lastmodified":1466476377,
+    "wof:lastmodified":1472619349,
     "wof:name":"Marcus Boyd",
     "wof:parent_id":85842073,
     "wof:placetype":"venue",

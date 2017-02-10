@@ -2,9 +2,14 @@
   "id": 740002289,
   "type": "Feature",
   "properties": {
+    "addr:full":"362 Broadland Rd NW Atlanta GA 30342",
+    "addr:housenumber":"362",
+    "addr:postcode":"30342",
+    "addr:street":"Broadland Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.399764,33.868141,-84.399764,33.868141",
     "geom:latitude":33.868141,
     "geom:longitude":-84.399764,
@@ -30,13 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420784709,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85816191,
-        420558877
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,24 +56,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85816191,
-            "region_id":85688535,
-            "venue_id":740002289
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083603,
-            "locality_id":85936429,
-            "neighbourhood_id":420558877,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":420784709,
             "region_id":85688535,
             "venue_id":740002289
         }
     ],
     "wof:id":740002289,
-    "wof:lastmodified":1466461752,
+    "wof:lastmodified":1486672041,
     "wof:name":"Aarons Sales And Leases",
-    "wof:parent_id":-1,
+    "wof:parent_id":420784709,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -2,6 +2,10 @@
   "id": 740015461,
   "type": "Feature",
   "properties": {
+    "addr:full":"9401 Roberts Dr Apt 18B Atlanta GA 30350",
+    "addr:housenumber":"9401;18b",
+    "addr:postcode":"30350",
+    "addr:street":"Roberts Dr Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":740015461,
-    "wof:lastmodified":1466462649,
+    "wof:lastmodified":1472617872,
     "wof:name":"American Intercontinental Univ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

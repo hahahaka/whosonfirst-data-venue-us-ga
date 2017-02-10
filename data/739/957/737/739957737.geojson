@@ -2,9 +2,14 @@
   "id": 739957737,
   "type": "Feature",
   "properties": {
+    "addr:full":"204 Lakeside Village Dr SE Atlanta GA 30317",
+    "addr:housenumber":"204",
+    "addr:postcode":"30317",
+    "addr:street":"Lakeside Village Dr Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.315018,33.743871,-84.315018,33.743871",
     "geom:latitude":33.743871,
     "geom:longitude":-84.315018,
@@ -33,10 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
-        85633793,
         85816491,
-        102084539
+        102191575,
+        1108797045,
+        85633793,
+        85936429,
+        102083603,
+        85688535,
+        1108798215
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +56,30 @@
     "wof:geomhash":"13c5f71a242eb4a96733cd4d2ab87c9a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084539,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85816491,
+            "region_id":85688535,
+            "venue_id":739957737
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":1108798215,
             "region_id":85688535,
             "venue_id":739957737
         }
     ],
     "wof:id":739957737,
-    "wof:lastmodified":1466479073,
+    "wof:lastmodified":1486672382,
     "wof:name":"Coco Cafe",
-    "wof:parent_id":85816491,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

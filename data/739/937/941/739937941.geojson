@@ -2,9 +2,14 @@
   "id": 739937941,
   "type": "Feature",
   "properties": {
+    "addr:full":"931 Monroe Dr NE Ste C202 Atlanta GA 30308",
+    "addr:housenumber":"931",
+    "addr:postcode":"30308",
+    "addr:street":"Monroe Dr Ne Ste C202",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.367962,33.779736,-84.367962,33.779736",
     "geom:latitude":33.779736,
     "geom:longitude":-84.367962,
@@ -30,12 +35,13 @@
     "sg:website":"www.desispiceatl.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85853981,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85853981
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85853981,
             "region_id":85688535,
             "venue_id":739937941
         }
     ],
     "wof:id":739937941,
-    "wof:lastmodified":1466478910,
+    "wof:lastmodified":1486670207,
     "wof:name":"Desi Spice Indian Cuisine",
     "wof:parent_id":85853981,
     "wof:placetype":"venue",

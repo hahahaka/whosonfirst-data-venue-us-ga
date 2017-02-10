@@ -2,9 +2,14 @@
   "id": 739960841,
   "type": "Feature",
   "properties": {
+    "addr:full":"683 Donald Lee Hollowell Pkwy NW Atlanta GA 30318",
+    "addr:housenumber":"683",
+    "addr:postcode":"30318",
+    "addr:street":"Donald Lee Hollowell Pkwy Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.410172,33.773101,-84.410172,33.773101",
     "geom:latitude":33.773101,
     "geom:longitude":-84.410172,
@@ -45,12 +50,13 @@
     "sg:website":"http://www.uhaul.com/Locations/Rentals-near-Atlanta-GA-30318/001336",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420517897,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
-        420517897
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,13 +71,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797043,
             "neighbourhood_id":420517897,
             "region_id":85688535,
             "venue_id":739960841
         }
     ],
     "wof:id":739960841,
-    "wof:lastmodified":1466479292,
+    "wof:lastmodified":1486669012,
     "wof:name":"U-Haul Neighborhood Dealer - D&R Automotive Inc",
     "wof:parent_id":420517897,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 739761533,
   "type": "Feature",
   "properties": {
+    "addr:full":"2102 Hollywood Rd NW Atlanta GA 30318",
+    "addr:housenumber":"2102",
+    "addr:postcode":"30318",
+    "addr:street":"Hollywood Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.470001,33.812401,-84.470001,33.812401",
     "geom:latitude":33.812401,
     "geom:longitude":-84.470001,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420517915,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
-        420517915
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797043,
             "neighbourhood_id":420517915,
             "region_id":85688535,
             "venue_id":739761533
         }
     ],
     "wof:id":739761533,
-    "wof:lastmodified":1466475654,
+    "wof:lastmodified":1486668960,
     "wof:name":"Family Corner Market",
     "wof:parent_id":420517915,
     "wof:placetype":"venue",

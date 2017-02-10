@@ -2,9 +2,14 @@
   "id": 739748273,
   "type": "Feature",
   "properties": {
+    "addr:full":"1004 Hemphill Ave NW Atlanta GA 30318",
+    "addr:housenumber":"1004",
+    "addr:postcode":"30318",
+    "addr:street":"Hemphill Ave Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.40479,33.782509,-84.40479,33.782509",
     "geom:latitude":33.782509,
     "geom:longitude":-84.40479,
@@ -37,12 +42,13 @@
     "sg:website":"www.nsti.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420517947,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        420517947
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +63,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":420517947,
             "region_id":85688535,
             "venue_id":739748273
         }
     ],
     "wof:id":739748273,
-    "wof:lastmodified":1466475281,
+    "wof:lastmodified":1486669336,
     "wof:name":"Network Systems Technology Inc",
     "wof:parent_id":420517947,
     "wof:placetype":"venue",

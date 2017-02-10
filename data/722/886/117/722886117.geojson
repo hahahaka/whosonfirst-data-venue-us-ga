@@ -2,9 +2,14 @@
   "id": 722886117,
   "type": "Feature",
   "properties": {
+    "addr:full":"216 Ollie St NW Atlanta GA 30314",
+    "addr:housenumber":"216",
+    "addr:postcode":"30314",
+    "addr:street":"Ollie St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.421652,33.760057,-84.421652,33.760057",
     "geom:latitude":33.760057,
     "geom:longitude":-84.421652,
@@ -25,12 +30,14 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872091,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
-        85872091
+        85688535,
+        1108798433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,26 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797043,
             "neighbourhood_id":85872091,
+            "region_id":85688535,
+            "venue_id":722886117
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797043,
+            "neighbourhood_id":1108798433,
             "region_id":85688535,
             "venue_id":722886117
         }
     ],
     "wof:id":722886117,
-    "wof:lastmodified":1466472317,
+    "wof:lastmodified":1486672586,
     "wof:name":"Washington Park Community Club",
-    "wof:parent_id":85872091,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

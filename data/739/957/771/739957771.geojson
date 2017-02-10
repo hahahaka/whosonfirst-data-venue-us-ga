@@ -2,9 +2,14 @@
   "id": 739957771,
   "type": "Feature",
   "properties": {
+    "addr:full":"1963 Hosea L Williams Dr Ste 108 Atlanta GA 30317",
+    "addr:housenumber":"1963",
+    "addr:postcode":"30317",
+    "addr:street":"Hosea L Williams Dr Ste 108",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.323283,33.751814,-84.323283,33.751814",
     "geom:latitude":33.751814,
     "geom:longitude":-84.323283,
@@ -35,12 +40,15 @@
     "sg:website":"thelittlemarket.net/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85828551,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85828551
+        85688535,
+        102084539,
+        420558365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +63,24 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85828551,
+            "region_id":85688535,
+            "venue_id":739957771
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":420558365,
             "region_id":85688535,
             "venue_id":739957771
         }
     ],
     "wof:id":739957771,
-    "wof:lastmodified":1466479079,
+    "wof:lastmodified":1486669431,
     "wof:name":"Le Petit Marche'",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

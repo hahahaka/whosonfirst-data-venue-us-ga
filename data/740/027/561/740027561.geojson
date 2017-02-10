@@ -2,6 +2,10 @@
   "id": 740027561,
   "type": "Feature",
   "properties": {
+    "addr:full":"3333 Buford Dr Ste 1027 Buford GA 30519",
+    "addr:housenumber":"3333;1027",
+    "addr:postcode":"30519",
+    "addr:street":"Buford Dr Ste",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":740027561,
-    "wof:lastmodified":1466463831,
+    "wof:lastmodified":1472617969,
     "wof:name":"Guess Inc",
     "wof:parent_id":85858547,
     "wof:placetype":"venue",

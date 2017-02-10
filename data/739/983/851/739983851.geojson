@@ -2,9 +2,14 @@
   "id": 739983851,
   "type": "Feature",
   "properties": {
+    "addr:full":"3361 Martin Luther King Jr Dr SW Atlanta GA 30331",
+    "addr:housenumber":"3361",
+    "addr:postcode":"30331",
+    "addr:street":"Martin Luther King Jr Dr Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.497478,33.754422,-84.497478,33.754422",
     "geom:latitude":33.754422,
     "geom:longitude":-84.497478,
@@ -28,13 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798373,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        420559055,
-        85872073
+        85688535,
+        85872073,
+        1108797043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +56,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":420559055,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798373,
             "region_id":85688535,
             "venue_id":739983851
         },
@@ -58,15 +66,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797043,
             "neighbourhood_id":85872073,
             "region_id":85688535,
             "venue_id":739983851
         }
     ],
     "wof:id":739983851,
-    "wof:lastmodified":1466479502,
+    "wof:lastmodified":1486672525,
     "wof:name":"Hunt Company The",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

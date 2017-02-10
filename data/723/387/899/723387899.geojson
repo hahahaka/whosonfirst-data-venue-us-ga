@@ -2,9 +2,14 @@
   "id": 723387899,
   "type": "Feature",
   "properties": {
+    "addr:full":"2315 Glenwood Ave SE Atlanta GA 30316",
+    "addr:housenumber":"2315",
+    "addr:postcode":"30316",
+    "addr:street":"Glenwood Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.30992,33.73997,-84.30992,33.73997",
     "geom:latitude":33.73997,
     "geom:longitude":-84.30992,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
-        85633793,
         85816491,
-        102084539
+        102191575,
+        1108797045,
+        85633793,
+        85936429,
+        102083603,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +50,18 @@
     "wof:geomhash":"6f16c8a606d7af425927f9f7c23ce489",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084539,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85816491,
             "region_id":85688535,
             "venue_id":723387899
         }
     ],
     "wof:id":723387899,
-    "wof:lastmodified":1466472796,
+    "wof:lastmodified":1486669794,
     "wof:name":"Eastlake Auto Bath",
     "wof:parent_id":85816491,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 722925953,
   "type": "Feature",
   "properties": {
+    "addr:full":"2895 Lakewood Ave SW Atlanta GA 30315",
+    "addr:housenumber":"2895",
+    "addr:postcode":"30315",
+    "addr:street":"Lakewood Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.41423,33.697428,-84.41423,33.697428",
     "geom:latitude":33.697428,
     "geom:longitude":-84.41423,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420517931,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        420517931
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":420517931,
             "region_id":85688535,
             "venue_id":722925953
         }
     ],
     "wof:id":722925953,
-    "wof:lastmodified":1466473223,
+    "wof:lastmodified":1486668048,
     "wof:name":"Perkerson Elementary School",
     "wof:parent_id":420517931,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 739954549,
   "type": "Feature",
   "properties": {
+    "addr:full":"1923 Turner Rd SE Atlanta GA 30315",
+    "addr:housenumber":"1923",
+    "addr:postcode":"30315",
+    "addr:street":"Turner Rd Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.355039,33.70132,-84.355039,33.70132",
     "geom:latitude":33.70132,
     "geom:longitude":-84.355039,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85852171,
         102191575,
+        1108797037,
         85633793,
         85936429,
         102083603,
-        85852171
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797037,
             "neighbourhood_id":85852171,
             "region_id":85688535,
             "venue_id":739954549
         }
     ],
     "wof:id":739954549,
-    "wof:lastmodified":1466479386,
+    "wof:lastmodified":1486670672,
     "wof:name":"Soul Harvest Miracle Revival Ministries Llc",
     "wof:parent_id":85852171,
     "wof:placetype":"venue",

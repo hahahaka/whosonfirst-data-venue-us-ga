@@ -2,9 +2,14 @@
   "id": 723241509,
   "type": "Feature",
   "properties": {
+    "addr:full":"905 Kipling Dr NW Atlanta GA 30318",
+    "addr:housenumber":"905",
+    "addr:postcode":"30318",
+    "addr:street":"Kipling Dr Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.418486,33.812329,-84.418486,33.812329",
     "geom:latitude":33.812329,
     "geom:longitude":-84.418486,
@@ -25,13 +30,14 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872149,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872135,
-        85872149
+        85688535,
+        85872135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +52,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872135,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":85872149,
             "region_id":85688535,
             "venue_id":723241509
         },
@@ -55,15 +62,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872149,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":85872135,
             "region_id":85688535,
             "venue_id":723241509
         }
     ],
     "wof:id":723241509,
-    "wof:lastmodified":1466469143,
+    "wof:lastmodified":1486668415,
     "wof:name":"Anastasia Enterprises PC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

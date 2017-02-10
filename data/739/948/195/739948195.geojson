@@ -2,9 +2,14 @@
   "id": 739948195,
   "type": "Feature",
   "properties": {
+    "addr:full":"826 Avon Ave SW Atlanta GA 30310",
+    "addr:housenumber":"826",
+    "addr:postcode":"30310",
+    "addr:street":"Avon Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.414984,33.722202,-84.414984,33.722202",
     "geom:latitude":33.722202,
     "geom:longitude":-84.414984,
@@ -46,12 +51,13 @@
     "sg:website":"http://www.realpagessites.com/aaascreenandwindow",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85809417,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        85809417
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,13 +72,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":85809417,
             "region_id":85688535,
             "venue_id":739948195
         }
     ],
     "wof:id":739948195,
-    "wof:lastmodified":1466478969,
+    "wof:lastmodified":1486667823,
     "wof:name":"AAA Screen & Window Co",
     "wof:parent_id":85809417,
     "wof:placetype":"venue",

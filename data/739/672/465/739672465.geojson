@@ -2,9 +2,14 @@
   "id": 739672465,
   "type": "Feature",
   "properties": {
+    "addr:full":"474 School Dr SE Atlanta GA 30354",
+    "addr:housenumber":"474",
+    "addr:postcode":"30354",
+    "addr:street":"School Dr Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.375103,33.671995,-84.375103,33.671995",
     "geom:latitude":33.671995,
     "geom:longitude":-84.375103,
@@ -27,7 +32,14 @@
         "moving"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        1108797037,
+        85633793,
+        85936429,
+        102083603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kEaAoHTvXjKySUGer5RpQ_33.671995_-84.375103@1294087602"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461911998,
     "wof:geomhash":"adfb8eeabc0a0bda0efe4250b1ff0f8b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797037,
+            "region_id":85688535,
+            "venue_id":739672465
+        }
+    ],
     "wof:id":739672465,
-    "wof:lastmodified":1466473224,
+    "wof:lastmodified":1486668125,
     "wof:name":"Anywhere Any Time Movers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

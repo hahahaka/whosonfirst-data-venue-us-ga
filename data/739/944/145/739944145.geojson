@@ -2,9 +2,14 @@
   "id": 739944145,
   "type": "Feature",
   "properties": {
+    "addr:full":"1968 Peachree Road NW 77 Building, 3rd floor Atlanta GA 30309",
+    "addr:housenumber":"1968;77",
+    "addr:postcode":"30309",
+    "addr:street":"Peachree Road Nw;Building 3Rd Floor",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.393686,33.80793,-84.393686,33.80793",
     "geom:latitude":33.80793,
     "geom:longitude":-84.393686,
@@ -29,12 +34,13 @@
     "sg:website":"www.piedmonthospital.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798511,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872047
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872047,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":1108798511,
             "region_id":85688535,
             "venue_id":739944145
         }
     ],
     "wof:id":739944145,
-    "wof:lastmodified":1466478782,
+    "wof:lastmodified":1486672709,
     "wof:name":"Doris Shaheen Breast Health Center",
-    "wof:parent_id":85872047,
+    "wof:parent_id":1108798511,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

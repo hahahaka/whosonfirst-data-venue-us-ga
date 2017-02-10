@@ -2,9 +2,14 @@
   "id": 740019185,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 17th St NW Unit 2433 Atlanta GA 30363",
+    "addr:housenumber":"400;2433",
+    "addr:postcode":"30363",
+    "addr:street":"17Th St Nw Unit",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.40197,33.7896,-84.40197,33.7896",
     "geom:latitude":33.7896,
     "geom:longitude":-84.40197,
@@ -44,12 +49,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85889937,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85889937
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,13 +70,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85889937,
             "region_id":85688535,
             "venue_id":740019185
         }
     ],
     "wof:id":740019185,
-    "wof:lastmodified":1466463055,
+    "wof:lastmodified":1486669327,
     "wof:name":"G T P Management Service",
     "wof:parent_id":85889937,
     "wof:placetype":"venue",

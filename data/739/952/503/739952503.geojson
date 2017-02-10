@@ -2,9 +2,14 @@
   "id": 739952503,
   "type": "Feature",
   "properties": {
+    "addr:full":"170 Northside Drive SW Apt 107 Atlanta GA 30313",
+    "addr:housenumber":"170;107",
+    "addr:postcode":"30313",
+    "addr:street":"Northside Drive Sw Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.403831,33.749874,-84.403831,33.749874",
     "geom:latitude":33.749874,
     "geom:longitude":-84.403831,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872071,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85872071
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85872071,
             "region_id":85688535,
             "venue_id":739952503
         }
     ],
     "wof:id":739952503,
-    "wof:lastmodified":1466479030,
+    "wof:lastmodified":1486670114,
     "wof:name":"Intown Lofts",
     "wof:parent_id":85872071,
     "wof:placetype":"venue",

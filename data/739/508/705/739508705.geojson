@@ -2,9 +2,14 @@
   "id": 739508705,
   "type": "Feature",
   "properties": {
+    "addr:full":"2384 Memorial Dr SE Atlanta GA 30317",
+    "addr:housenumber":"2384",
+    "addr:postcode":"30317",
+    "addr:street":"Memorial Dr Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.308892,33.747328,-84.308892,33.747328",
     "geom:latitude":33.747328,
     "geom:longitude":-84.308892,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
-        85633793,
         85816491,
-        102084539
+        102191575,
+        1108797045,
+        85633793,
+        85936429,
+        102083603,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +50,18 @@
     "wof:geomhash":"b61c3245300d483bbdb12c29b438c099",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084539,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85816491,
             "region_id":85688535,
             "venue_id":739508705
         }
     ],
     "wof:id":739508705,
-    "wof:lastmodified":1466469263,
+    "wof:lastmodified":1486669877,
     "wof:name":"Psalms 23rd Personal Care Home",
     "wof:parent_id":85816491,
     "wof:placetype":"venue",

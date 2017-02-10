@@ -2,9 +2,14 @@
   "id": 739753259,
   "type": "Feature",
   "properties": {
+    "addr:full":"1130 Peachtree Battle Ave NW Atlanta GA 30327",
+    "addr:housenumber":"1130",
+    "addr:postcode":"30327",
+    "addr:street":"Peachtree Battle Ave Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.424571,33.825982,-84.424571,33.825982",
     "geom:latitude":33.825982,
     "geom:longitude":-84.424571,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872145,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872145
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872145,
             "region_id":85688535,
             "venue_id":739753259
         }
     ],
     "wof:id":739753259,
-    "wof:lastmodified":1466475364,
+    "wof:lastmodified":1486668420,
     "wof:name":"M G M Imports Inc",
     "wof:parent_id":85872145,
     "wof:placetype":"venue",

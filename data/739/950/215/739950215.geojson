@@ -2,9 +2,14 @@
   "id": 739950215,
   "type": "Feature",
   "properties": {
+    "addr:full":"2770 Campbellton Road SW Atlanta GA 30311",
+    "addr:housenumber":"2770",
+    "addr:postcode":"30311",
+    "addr:street":"Campbellton Road Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.479574,33.700994,-84.479574,33.700994",
     "geom:latitude":33.700994,
     "geom:longitude":-84.479574,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420517919,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        420517919
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":420517919,
             "region_id":85688535,
             "venue_id":739950215
         }
     ],
     "wof:id":739950215,
-    "wof:lastmodified":1466478976,
+    "wof:lastmodified":1486668015,
     "wof:name":"Searcy Automotive Mechanic",
     "wof:parent_id":420517919,
     "wof:placetype":"venue",

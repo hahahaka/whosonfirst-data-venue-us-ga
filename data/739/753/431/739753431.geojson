@@ -2,9 +2,14 @@
   "id": 739753431,
   "type": "Feature",
   "properties": {
+    "addr:full":"49 Lenox Pointe NE Atlanta GA 30324",
+    "addr:housenumber":"49",
+    "addr:postcode":"30324",
+    "addr:street":"Lenox Pointe Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.355051,33.825471,-84.355051,33.825471",
     "geom:latitude":33.825471,
     "geom:longitude":-84.355051,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420784705,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872117
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872117,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":420784705,
             "region_id":85688535,
             "venue_id":739753431
         }
     ],
     "wof:id":739753431,
-    "wof:lastmodified":1466475396,
+    "wof:lastmodified":1486672020,
     "wof:name":"Haynes, Mary Earle Rn",
-    "wof:parent_id":85872117,
+    "wof:parent_id":420784705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

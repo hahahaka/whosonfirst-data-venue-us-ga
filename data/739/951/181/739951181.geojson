@@ -2,9 +2,14 @@
   "id": 739951181,
   "type": "Feature",
   "properties": {
+    "addr:full":"450 Auburn Ave NE Atlanta GA 30312",
+    "addr:housenumber":"450",
+    "addr:postcode":"30312",
+    "addr:street":"Auburn Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.373199,33.755402,-84.373199,33.755402",
     "geom:latitude":33.755402,
     "geom:longitude":-84.373199,
@@ -26,12 +31,13 @@
     "sg:website":"www.thekingcenter.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872065,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85872065
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85872065,
             "region_id":85688535,
             "venue_id":739951181
         }
     ],
     "wof:id":739951181,
-    "wof:lastmodified":1466478969,
+    "wof:lastmodified":1486670091,
     "wof:name":"Martin Luther King Jr Center",
     "wof:parent_id":85872065,
     "wof:placetype":"venue",

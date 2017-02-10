@@ -2,9 +2,14 @@
   "id": 739720583,
   "type": "Feature",
   "properties": {
+    "addr:full":"1544 Piedmont Ave NE Atlanta GA 30324",
+    "addr:housenumber":"1544",
+    "addr:postcode":"30324",
+    "addr:street":"Piedmont Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.382104,33.761975,-84.382104,33.761975",
     "geom:latitude":33.761975,
     "geom:longitude":-84.382104,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108797059,
+        85866901,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85872057
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872057,
+            "macrohood_id":1108797045,
+            "microhood_id":1108797059,
+            "neighbourhood_id":85866901,
             "region_id":85688535,
             "venue_id":739720583
         }
     ],
     "wof:id":739720583,
-    "wof:lastmodified":1466474677,
+    "wof:lastmodified":1486682476,
     "wof:name":"All Points Travel Ltd",
-    "wof:parent_id":85872057,
+    "wof:parent_id":1108797059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

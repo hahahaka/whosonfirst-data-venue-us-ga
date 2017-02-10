@@ -2,9 +2,14 @@
   "id": 723201691,
   "type": "Feature",
   "properties": {
+    "addr:full":"4231 Blanton Ave SW Atlanta GA 30331",
+    "addr:housenumber":"4231",
+    "addr:postcode":"30331",
+    "addr:street":"Blanton Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.523844,33.690947,-84.523844,33.690947",
     "geom:latitude":33.690947,
     "geom:longitude":-84.523844,
@@ -29,7 +34,15 @@
         "community"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108798309,
+        102191575,
+        1108797035,
+        85633793,
+        85936429,
+        102083603,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73k3vhs1FMcp7aoiuN7pPg_33.690947_-84.523844@1294087602"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1461897108,
     "wof:geomhash":"f35d3376d9dead53c95e9c945512e2e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798309,
+            "region_id":85688535,
+            "venue_id":723201691
+        }
+    ],
     "wof:id":723201691,
-    "wof:lastmodified":1466468063,
+    "wof:lastmodified":1486672458,
     "wof:name":"Stephens Pch",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108798309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

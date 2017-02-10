@@ -2,9 +2,14 @@
   "id": 739959177,
   "type": "Feature",
   "properties": {
+    "addr:full":"2268 Defoors Ferry Rd NW Atlanta GA 30318",
+    "addr:housenumber":"2268",
+    "addr:postcode":"30318",
+    "addr:street":"Defoors Ferry Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.432033,33.817447,-84.432033,33.817447",
     "geom:latitude":33.817447,
     "geom:longitude":-84.432033,
@@ -19,12 +24,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85857119,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85857119
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,13 +45,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85857119,
             "region_id":85688535,
             "venue_id":739959177
         }
     ],
     "wof:id":739959177,
-    "wof:lastmodified":1466479157,
+    "wof:lastmodified":1486671753,
     "wof:name":"Dimaginex Wedding Photography",
     "wof:parent_id":85857119,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 739966055,
   "type": "Feature",
   "properties": {
+    "addr:full":"2124 Cheshire Bridge Road N Atlanta GA 30324",
+    "addr:housenumber":"2124",
+    "addr:postcode":"30324",
+    "addr:street":"Cheshire Bridge Road N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.354129,33.813113,-84.354129,33.813113",
     "geom:latitude":33.813113,
     "geom:longitude":-84.354129,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85889987,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85889987
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85889987,
             "region_id":85688535,
             "venue_id":739966055
         }
     ],
     "wof:id":739966055,
-    "wof:lastmodified":1466479135,
+    "wof:lastmodified":1486670213,
     "wof:name":"Heights of Cheshire Bridge",
     "wof:parent_id":85889987,
     "wof:placetype":"venue",

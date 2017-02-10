@@ -2,6 +2,10 @@
   "id": 739998017,
   "type": "Feature",
   "properties": {
+    "addr:full":"3400 W Hospital Ave 204 Atlanta GA 30341",
+    "addr:housenumber":"3400;204",
+    "addr:postcode":"30341",
+    "addr:street":"W Hospital Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":739998017,
-    "wof:lastmodified":1466479778,
+    "wof:lastmodified":1472619707,
     "wof:name":"Gambrell Environmental Svcs",
     "wof:parent_id":85889955,
     "wof:placetype":"venue",

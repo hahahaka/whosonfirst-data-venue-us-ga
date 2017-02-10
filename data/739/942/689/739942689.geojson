@@ -2,9 +2,14 @@
   "id": 739942689,
   "type": "Feature",
   "properties": {
+    "addr:full":"1923 Peachtree Rd. Ste.A Atlanta GA 30309",
+    "addr:housenumber":"1923",
+    "addr:postcode":"30309",
+    "addr:street":"Peachtree Rd.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.374023,33.790321,-84.374023,33.790321",
     "geom:latitude":33.790321,
     "geom:longitude":-84.374023,
@@ -19,13 +24,14 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85835263,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85835263,
-        85825631
+        85688535,
+        1108798493
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,6 +46,7 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85835263,
             "region_id":85688535,
             "venue_id":739942689
@@ -49,15 +56,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85825631,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":1108798493,
             "region_id":85688535,
             "venue_id":739942689
         }
     ],
     "wof:id":739942689,
-    "wof:lastmodified":1466478914,
+    "wof:lastmodified":1486672671,
     "wof:name":"Shear Maddness Salon & Spa",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

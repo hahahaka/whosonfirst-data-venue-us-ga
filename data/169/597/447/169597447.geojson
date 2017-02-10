@@ -2,9 +2,14 @@
   "id": 169597447,
   "type": "Feature",
   "properties": {
+    "addr:full":"253 14th St NW Atlanta GA 30318",
+    "addr:housenumber":"253",
+    "addr:postcode":"30318",
+    "addr:street":"14Th St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.395037,33.786529,-84.395037,33.786529",
     "geom:latitude":33.786529,
     "geom:longitude":-84.395037,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85889937,
+        102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85889937
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"44383c2a332c0ce57bb3547da0d466bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85889937,
             "region_id":85688535,
             "venue_id":169597447
         }
     ],
     "wof:id":169597447,
-    "wof:lastmodified":1466461317,
+    "wof:lastmodified":1486671912,
     "wof:name":"McCormick Brokerage Co Inc",
     "wof:parent_id":85889937,
     "wof:placetype":"venue",

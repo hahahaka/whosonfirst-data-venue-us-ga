@@ -2,9 +2,14 @@
   "id": 740003619,
   "type": "Feature",
   "properties": {
+    "addr:full":"3872 Roswell Rd Ste D2 Atlanta GA 30342",
+    "addr:housenumber":"3872",
+    "addr:postcode":"30342",
+    "addr:street":"Roswell Rd Ste D2",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.380521,33.860345,-84.380521,33.860345",
     "geom:latitude":33.860345,
     "geom:longitude":-84.380521,
@@ -60,12 +65,13 @@
     "sg:website":"http://ad.doubleclick.net/clk;226205699;50079909;t?http://fastsigns.com/26",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872103,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872103
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,13 +86,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872103,
             "region_id":85688535,
             "venue_id":740003619
         }
     ],
     "wof:id":740003619,
-    "wof:lastmodified":1466461801,
+    "wof:lastmodified":1486668455,
     "wof:name":"FASTSIGNS",
     "wof:parent_id":85872103,
     "wof:placetype":"venue",

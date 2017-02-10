@@ -2,9 +2,14 @@
   "id": 739501887,
   "type": "Feature",
   "properties": {
+    "addr:full":"2265 Roswell St SW Atlanta GA 30331",
+    "addr:housenumber":"2265",
+    "addr:postcode":"30331",
+    "addr:street":"Roswell St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.519267,33.692715,-84.519267,33.692715",
     "geom:latitude":33.692715,
     "geom:longitude":-84.519267,
@@ -28,7 +33,15 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108798309,
+        102191575,
+        1108797035,
+        85633793,
+        85936429,
+        102083603,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BFgyK8eoO6QTIprKgv5Bc_33.692715_-84.519267@1294087602"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461908464,
     "wof:geomhash":"d4aea9add892561dda8da98da2cfb337",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798309,
+            "region_id":85688535,
+            "venue_id":739501887
+        }
+    ],
     "wof:id":739501887,
-    "wof:lastmodified":1466468982,
+    "wof:lastmodified":1486672457,
     "wof:name":"Costcor",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108798309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

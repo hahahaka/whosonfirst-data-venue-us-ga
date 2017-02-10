@@ -2,9 +2,14 @@
   "id": 739912673,
   "type": "Feature",
   "properties": {
+    "addr:full":"31st Fl 6 Atlanta GA 30303",
+    "addr:housenumber":"6",
+    "addr:postcode":"30303",
+    "addr:street":"31St Fl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.390701,33.756302,-84.390701,33.756302",
     "geom:latitude":33.756302,
     "geom:longitude":-84.390701,
@@ -29,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108797055,
+        85866901,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85866901,
-        85819463
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,24 +56,17 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "microhood_id":1108797055,
             "neighbourhood_id":85866901,
-            "region_id":85688535,
-            "venue_id":739912673
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083603,
-            "locality_id":85936429,
-            "neighbourhood_id":85819463,
             "region_id":85688535,
             "venue_id":739912673
         }
     ],
     "wof:id":739912673,
-    "wof:lastmodified":1466478509,
+    "wof:lastmodified":1486672885,
     "wof:name":"Casey Gilson Leibel PC",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108797055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739960833,
   "type": "Feature",
   "properties": {
+    "addr:full":"2105 Main St NW Atlanta GA 30318",
+    "addr:housenumber":"2105",
+    "addr:postcode":"30318",
+    "addr:street":"Main St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.473448,33.813098,-84.473448,33.813098",
     "geom:latitude":33.813098,
     "geom:longitude":-84.473448,
@@ -35,12 +40,13 @@
     "sg:website":"http://www.firstacceptancecorp.com/Locations.aspx",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85844947,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
-        85844947
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797043,
             "neighbourhood_id":85844947,
             "region_id":85688535,
             "venue_id":739960833
         }
     ],
     "wof:id":739960833,
-    "wof:lastmodified":1466479291,
+    "wof:lastmodified":1486668976,
     "wof:name":"Acceptance Auto Insurance - East Point",
     "wof:parent_id":85844947,
     "wof:placetype":"venue",

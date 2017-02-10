@@ -2,9 +2,14 @@
   "id": 722949259,
   "type": "Feature",
   "properties": {
+    "addr:full":"2114 Oakview Rd SE Atlanta GA 30317",
+    "addr:housenumber":"2114",
+    "addr:postcode":"30317",
+    "addr:street":"Oakview Rd Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.318845,33.749374,-84.318845,33.749374",
     "geom:latitude":33.749374,
     "geom:longitude":-84.318845,
@@ -28,7 +33,13 @@
         "detailing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        102084539,
+        420558365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01W9VXF8BDQef7Lc19VM8m_33.749374_-84.318845@1294087602"
@@ -36,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461891811,
     "wof:geomhash":"4ea586963383faf0348f93318200a2ca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":420558365,
+            "region_id":85688535,
+            "venue_id":722949259
+        }
+    ],
     "wof:id":722949259,
-    "wof:lastmodified":1466474045,
+    "wof:lastmodified":1486669900,
     "wof:name":"Infinite Details",
     "wof:parent_id":420558365,
     "wof:placetype":"venue",

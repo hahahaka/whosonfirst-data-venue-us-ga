@@ -2,9 +2,14 @@
   "id": 739947023,
   "type": "Feature",
   "properties": {
+    "addr:full":"1296 Murphy Ave SW Atlanta GA 30310",
+    "addr:housenumber":"1296",
+    "addr:postcode":"30310",
+    "addr:street":"Murphy Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.423404,33.72072,-84.423404,33.72072",
     "geom:latitude":33.72072,
     "geom:longitude":-84.423404,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420518003,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        420518003
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":420518003,
             "region_id":85688535,
             "venue_id":739947023
         }
     ],
     "wof:id":739947023,
-    "wof:lastmodified":1466478801,
+    "wof:lastmodified":1486667907,
     "wof:name":"Phoenix House Recreation",
     "wof:parent_id":420518003,
     "wof:placetype":"venue",

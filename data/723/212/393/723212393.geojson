@@ -2,9 +2,14 @@
   "id": 723212393,
   "type": "Feature",
   "properties": {
+    "addr:full":"860 Berkshire Rd NE Atlanta GA 30324",
+    "addr:housenumber":"860",
+    "addr:postcode":"30324",
+    "addr:street":"Berkshire Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.358976,33.799874,-84.358976,33.799874",
     "geom:latitude":33.799874,
     "geom:longitude":-84.358976,
@@ -32,11 +37,10 @@
     "wof:belongsto":[
         85688535,
         102191575,
+        1108797045,
         85633793,
         85936429,
-        102083603,
-        85832987,
-        85837709
+        102083603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,22 +55,13 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85832987,
-            "region_id":85688535,
-            "venue_id":723212393
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083603,
-            "locality_id":85936429,
-            "neighbourhood_id":85837709,
+            "macrohood_id":1108797045,
             "region_id":85688535,
             "venue_id":723212393
         }
     ],
     "wof:id":723212393,
-    "wof:lastmodified":1466468401,
+    "wof:lastmodified":1486670099,
     "wof:name":"Decision Bridges Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

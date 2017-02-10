@@ -2,9 +2,14 @@
   "id": 740006431,
   "type": "Feature",
   "properties": {
+    "addr:full":"2628 Washington Rd East Point GA 30344",
+    "addr:housenumber":"2628",
+    "addr:postcode":"30344",
+    "addr:street":"Washington Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.475103,33.773564,-84.475103,33.773564",
     "geom:latitude":33.773564,
     "geom:longitude":-84.475103,
@@ -28,13 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872143,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
+        85688535,
         85872073,
-        85872143
+        1108797043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +56,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872073,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":85872143,
             "region_id":85688535,
             "venue_id":740006431
         },
@@ -58,15 +66,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872143,
+            "macrohood_id":1108797043,
+            "neighbourhood_id":85872073,
             "region_id":85688535,
             "venue_id":740006431
         }
     ],
     "wof:id":740006431,
-    "wof:lastmodified":1466461883,
+    "wof:lastmodified":1486668995,
     "wof:name":"A Windsor Locksmith",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

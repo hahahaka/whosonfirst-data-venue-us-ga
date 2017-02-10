@@ -2,9 +2,14 @@
   "id": 723260131,
   "type": "Feature",
   "properties": {
+    "addr:full":"225 Peachtree St NE Atlanta GA 30303",
+    "addr:housenumber":"225",
+    "addr:postcode":"30303",
+    "addr:street":"Peachtree St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.387479,33.7613,-84.387479,33.7613",
     "geom:latitude":33.7613,
     "geom:longitude":-84.387479,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108797059,
+        85866901,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85866901
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "microhood_id":1108797059,
             "neighbourhood_id":85866901,
             "region_id":85688535,
             "venue_id":723260131
         }
     ],
     "wof:id":723260131,
-    "wof:lastmodified":1466469627,
+    "wof:lastmodified":1486682525,
     "wof:name":"Eugenia W Iredale",
-    "wof:parent_id":85866901,
+    "wof:parent_id":1108797059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739950145,
   "type": "Feature",
   "properties": {
+    "addr:full":"2414 Herring Rd SW Atlanta GA 30311",
+    "addr:housenumber":"2414",
+    "addr:postcode":"30311",
+    "addr:street":"Herring Rd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.462978,33.724088,-84.462978,33.724088",
     "geom:latitude":33.724088,
     "geom:longitude":-84.462978,
@@ -26,12 +31,14 @@
     "sg:website":"http://www.usps.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420517961,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        420517961
+        85688535,
+        1108798255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +53,26 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":420517961,
+            "region_id":85688535,
+            "venue_id":739950145
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798255,
             "region_id":85688535,
             "venue_id":739950145
         }
     ],
     "wof:id":739950145,
-    "wof:lastmodified":1466478962,
+    "wof:lastmodified":1486672428,
     "wof:name":"USPS - United States Post Office - Cascade Heights",
-    "wof:parent_id":420517961,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

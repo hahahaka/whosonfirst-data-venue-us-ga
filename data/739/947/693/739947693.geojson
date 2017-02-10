@@ -2,9 +2,14 @@
   "id": 739947693,
   "type": "Feature",
   "properties": {
+    "addr:full":"645 Shelton Ave Atlanta GA 30310",
+    "addr:housenumber":"645",
+    "addr:postcode":"30310",
+    "addr:street":"Shelton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.410241,33.734432,-84.410241,33.734432",
     "geom:latitude":33.734432,
     "geom:longitude":-84.410241,
@@ -37,10 +42,10 @@
     "wof:belongsto":[
         85688535,
         102191575,
+        1108797035,
         85633793,
         85936429,
-        102083603,
-        85872099
+        102083603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +60,15 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872099,
+            "macrohood_id":1108797035,
             "region_id":85688535,
             "venue_id":739947693
         }
     ],
     "wof:id":739947693,
-    "wof:lastmodified":1466478882,
+    "wof:lastmodified":1486667911,
     "wof:name":"Atlanta Storage",
-    "wof:parent_id":85872099,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

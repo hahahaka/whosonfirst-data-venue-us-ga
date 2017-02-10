@@ -2,9 +2,14 @@
   "id": 739972707,
   "type": "Feature",
   "properties": {
+    "addr:full":"2380 Northside Parkway NW Atlanta GA 30327",
+    "addr:housenumber":"2380",
+    "addr:postcode":"30327",
+    "addr:street":"Northside Parkway Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.412005,33.840236,-84.412005,33.840236",
     "geom:latitude":33.840236,
     "geom:longitude":-84.412005,
@@ -25,13 +30,14 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872137,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872045,
-        85872137
+        85688535,
+        85872045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +52,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872045,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":85872137,
             "region_id":85688535,
             "venue_id":739972707
         },
@@ -55,15 +62,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872137,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":85872045,
             "region_id":85688535,
             "venue_id":739972707
         }
     ],
     "wof:id":739972707,
-    "wof:lastmodified":1466479453,
+    "wof:lastmodified":1486671768,
     "wof:name":"Thompson Romulus H Archt",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

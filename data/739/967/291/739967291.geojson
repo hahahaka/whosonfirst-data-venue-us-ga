@@ -2,9 +2,14 @@
   "id": 739967291,
   "type": "Feature",
   "properties": {
+    "addr:full":"2441 Cheshire Bridge Rd Ste 120 Atlanta GA 30324",
+    "addr:housenumber":"2441",
+    "addr:postcode":"30324",
+    "addr:street":"Cheshire Bridge Rd Ste 120",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.351475,33.821432,-84.351475,33.821432",
     "geom:latitude":33.821432,
     "geom:longitude":-84.351475,
@@ -42,12 +47,13 @@
     "sg:website":"www.bowerswatchandclockrepair.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85889987,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85889987
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,13 +68,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85889987,
             "region_id":85688535,
             "venue_id":739967291
         }
     ],
     "wof:id":739967291,
-    "wof:lastmodified":1466479184,
+    "wof:lastmodified":1486671815,
     "wof:name":"Bowers Watch & Clock Repair",
     "wof:parent_id":85889987,
     "wof:placetype":"venue",

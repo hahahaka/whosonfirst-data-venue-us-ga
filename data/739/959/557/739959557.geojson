@@ -2,9 +2,14 @@
   "id": 739959557,
   "type": "Feature",
   "properties": {
+    "addr:full":"425 14th Street NW Atlanta GA 30318",
+    "addr:housenumber":"425",
+    "addr:postcode":"30318",
+    "addr:street":"14Th Street Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.400441,33.786593,-84.400441,33.786593",
     "geom:latitude":33.786593,
     "geom:longitude":-84.400441,
@@ -26,12 +31,13 @@
     "sg:website":"www.cbsatlanta.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85889937,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85889937
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85889937,
             "region_id":85688535,
             "venue_id":739959557
         }
     ],
     "wof:id":739959557,
-    "wof:lastmodified":1466479235,
+    "wof:lastmodified":1486671917,
     "wof:name":"CBS Atlanta",
     "wof:parent_id":85889937,
     "wof:placetype":"venue",

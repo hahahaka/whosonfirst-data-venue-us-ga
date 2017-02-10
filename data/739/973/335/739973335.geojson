@@ -2,9 +2,14 @@
   "id": 739973335,
   "type": "Feature",
   "properties": {
+    "addr:full":"3192 Howell Mill Rd NW Atlanta GA 30327",
+    "addr:housenumber":"3192",
+    "addr:postcode":"30327",
+    "addr:street":"Howell Mill Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.427275,33.840724,-84.427275,33.840724",
     "geom:latitude":33.840724,
     "geom:longitude":-84.427275,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872145,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872145
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872145,
             "region_id":85688535,
             "venue_id":739973335
         }
     ],
     "wof:id":739973335,
-    "wof:lastmodified":1466479427,
+    "wof:lastmodified":1486668463,
     "wof:name":"Atlanta Rheumatology Consultants",
     "wof:parent_id":85872145,
     "wof:placetype":"venue",

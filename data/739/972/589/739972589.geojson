@@ -2,9 +2,14 @@
   "id": 739972589,
   "type": "Feature",
   "properties": {
+    "addr:full":"1218 W Paces Ferry Road NW Atlanta GA 30327",
+    "addr:housenumber":"1218",
+    "addr:postcode":"30327",
+    "addr:street":"W Paces Ferry Road Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.427623,33.849842,-84.427623,33.849842",
     "geom:latitude":33.849842,
     "geom:longitude":-84.427623,
@@ -33,12 +38,13 @@
     "sg:website":"www.buckheadfacial.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872137,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872137
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872137,
             "region_id":85688535,
             "venue_id":739972589
         }
     ],
     "wof:id":739972589,
-    "wof:lastmodified":1466479383,
+    "wof:lastmodified":1486668904,
     "wof:name":"Buckhead Facial Plastic Surgery",
     "wof:parent_id":85872137,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 739970551,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 Park Regency Pl NE # 1004 Atlanta GA 30326",
+    "addr:housenumber":"700",
+    "addr:postcode":"30326",
+    "addr:street":"Park Regency Pl Ne # 1004",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.364883,33.854969,-84.364883,33.854969",
     "geom:latitude":33.854969,
     "geom:longitude":-84.364883,
@@ -36,12 +41,13 @@
     "sg:website":"http://www.handsonphysiotherapy.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872103,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872103
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,13 +62,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872103,
             "region_id":85688535,
             "venue_id":739970551
         }
     ],
     "wof:id":739970551,
-    "wof:lastmodified":1466479380,
+    "wof:lastmodified":1486668455,
     "wof:name":"Hands On Physiotherapy",
     "wof:parent_id":85872103,
     "wof:placetype":"venue",

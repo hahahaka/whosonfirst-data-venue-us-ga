@@ -2,9 +2,14 @@
   "id": 740076681,
   "type": "Feature",
   "properties": {
+    "addr:full":"650 Hamilton Ave SE Suite D Atlanta GA 30312 ",
+    "addr:housenumber":"650",
+    "addr:postcode":"30312",
+    "addr:street":"Hamilton Ave Se Suite D",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.366526,33.725859,-84.366526,33.725859",
     "geom:latitude":33.725859,
     "geom:longitude":-84.366526,
@@ -25,12 +30,13 @@
     "sg:website":"http://www.asmallorange.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872061,
         102191575,
+        1108797037,
         85633793,
         85936429,
         102083603,
-        85872061
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797037,
             "neighbourhood_id":85872061,
             "region_id":85688535,
             "venue_id":740076681
         }
     ],
     "wof:id":740076681,
-    "wof:lastmodified":1466466664,
+    "wof:lastmodified":1486668123,
     "wof:name":"A Small Orange",
     "wof:parent_id":85872061,
     "wof:placetype":"venue",

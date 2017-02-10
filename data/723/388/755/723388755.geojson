@@ -2,9 +2,14 @@
   "id": 723388755,
   "type": "Feature",
   "properties": {
+    "addr:full":"710 Lexington Ave SW Atlanta GA 30310",
+    "addr:housenumber":"710",
+    "addr:postcode":"30310",
+    "addr:street":"Lexington Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.412286,33.724836,-84.412286,33.724836",
     "geom:latitude":33.724836,
     "geom:longitude":-84.412286,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85809417,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        85809417
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":85809417,
             "region_id":85688535,
             "venue_id":723388755
         }
     ],
     "wof:id":723388755,
-    "wof:lastmodified":1466472824,
+    "wof:lastmodified":1486668008,
     "wof:name":"Seed Planters Christian Minist",
     "wof:parent_id":85809417,
     "wof:placetype":"venue",

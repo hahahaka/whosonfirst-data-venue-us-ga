@@ -2,9 +2,14 @@
   "id": 723034399,
   "type": "Feature",
   "properties": {
+    "addr:full":"3724 Forrest Park Rd SE Atlanta GA 30354",
+    "addr:housenumber":"3724",
+    "addr:postcode":"30354",
+    "addr:street":"Forrest Park Rd Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.357257,33.652249,-84.357257,33.652249",
     "geom:latitude":33.652249,
     "geom:longitude":-84.357257,
@@ -29,7 +34,15 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420784727,
+        102191575,
+        1108797037,
+        85633793,
+        85936429,
+        102083603,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2G5Hv2mk3xy9GPRW7AdHls_33.652249_-84.357257@1294087602"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1461893691,
     "wof:geomhash":"60601ab7d49b8e314b2c32d684b81ab3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797037,
+            "neighbourhood_id":420784727,
+            "region_id":85688535,
+            "venue_id":723034399
+        }
+    ],
     "wof:id":723034399,
-    "wof:lastmodified":1466462943,
+    "wof:lastmodified":1486672115,
     "wof:name":"Raymond's Auto Repair",
-    "wof:parent_id":-1,
+    "wof:parent_id":420784727,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

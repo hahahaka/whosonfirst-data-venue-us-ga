@@ -2,9 +2,14 @@
   "id": 739936147,
   "type": "Feature",
   "properties": {
+    "addr:full":"931 Monroe Dr Ste A102 Atlanta GA 30308",
+    "addr:housenumber":"931",
+    "addr:postcode":"30308",
+    "addr:street":"Monroe Dr Ste A102",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.367962,33.779736,-84.367962,33.779736",
     "geom:latitude":33.779736,
     "geom:longitude":-84.367962,
@@ -26,12 +31,13 @@
     "sg:website":"www.raintreepestcontrol.com/atlanta",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85853981,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85853981
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85853981,
             "region_id":85688535,
             "venue_id":739936147
         }
     ],
     "wof:id":739936147,
-    "wof:lastmodified":1466478669,
+    "wof:lastmodified":1486669684,
     "wof:name":"Raintree Pest Control",
     "wof:parent_id":85853981,
     "wof:placetype":"venue",

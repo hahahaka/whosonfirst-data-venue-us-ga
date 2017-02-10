@@ -2,9 +2,14 @@
   "id": 739983181,
   "type": "Feature",
   "properties": {
+    "addr:full":"269 Fairburn Rd NW Atlanta GA 30331",
+    "addr:housenumber":"269",
+    "addr:postcode":"30331",
+    "addr:street":"Fairburn Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.503212,33.762211,-84.503212,33.762211",
     "geom:latitude":33.762211,
     "geom:longitude":-84.503212,
@@ -32,7 +37,15 @@
         "churches-holiness"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108798373,
+        102191575,
+        1108797035,
+        85633793,
+        85936429,
+        102083603,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28yeT7dYrWp451jsPUU666_33.762211_-84.503212@1303262622"
@@ -40,11 +53,22 @@
     "wof:country":"US",
     "wof:created":1461923263,
     "wof:geomhash":"6d8e29366c06df3a5dc4978eba2b8f46",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798373,
+            "region_id":85688535,
+            "venue_id":739983181
+        }
+    ],
     "wof:id":739983181,
-    "wof:lastmodified":1466479486,
+    "wof:lastmodified":1486672527,
     "wof:name":"Fullers Tabernacle",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108798373,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

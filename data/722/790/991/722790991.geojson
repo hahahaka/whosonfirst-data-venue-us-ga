@@ -2,9 +2,14 @@
   "id": 722790991,
   "type": "Feature",
   "properties": {
+    "addr:full":"1231 Collier Rd NW Atlanta GA 30318",
+    "addr:housenumber":"1231",
+    "addr:postcode":"30318",
+    "addr:street":"Collier Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.430591,33.812128,-84.430591,33.812128",
     "geom:latitude":33.812128,
     "geom:longitude":-84.430591,
@@ -39,12 +44,13 @@
     "sg:website":"www.ossatl.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872079,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872079
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,13 +65,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872079,
             "region_id":85688535,
             "venue_id":722790991
         }
     ],
     "wof:id":722790991,
-    "wof:lastmodified":1466469610,
+    "wof:lastmodified":1486671757,
     "wof:name":"Operational Security Systems",
     "wof:parent_id":85872079,
     "wof:placetype":"venue",

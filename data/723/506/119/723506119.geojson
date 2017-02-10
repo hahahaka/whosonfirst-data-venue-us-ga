@@ -2,9 +2,14 @@
   "id": 723506119,
   "type": "Feature",
   "properties": {
+    "addr:full":"2040 Niskey Lake Rd SW Atlanta GA 30331",
+    "addr:housenumber":"2040",
+    "addr:postcode":"30331",
+    "addr:street":"Niskey Lake Rd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.52833,33.699196,-84.52833,33.699196",
     "geom:latitude":33.699196,
     "geom:longitude":-84.52833,
@@ -24,7 +29,15 @@
     "sg:postcode":"30331",
     "sg:province":"GA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108798537,
+        102191575,
+        1108797035,
+        85633793,
+        85936429,
+        102083603,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GnccsrHUEQQ5CMNZ5EFWg_33.699196_-84.528330@1294087602"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461903092,
     "wof:geomhash":"bf668eefdf811a872a5d1c1746495f0f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798537,
+            "region_id":85688535,
+            "venue_id":723506119
+        }
+    ],
     "wof:id":723506119,
-    "wof:lastmodified":1466475869,
+    "wof:lastmodified":1486672736,
     "wof:name":"Para Ray Dise Housing Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108798537,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

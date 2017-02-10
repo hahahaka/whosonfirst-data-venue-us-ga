@@ -2,9 +2,14 @@
   "id": 739560151,
   "type": "Feature",
   "properties": {
+    "addr:full":"1196 Longcourte Dr NW Atlanta GA 30327",
+    "addr:housenumber":"1196",
+    "addr:postcode":"30327",
+    "addr:street":"Longcourte Dr Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.426556,33.849544,-84.426556,33.849544",
     "geom:latitude":33.849544,
     "geom:longitude":-84.426556,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872137,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872137
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872137,
             "region_id":85688535,
             "venue_id":739560151
         }
     ],
     "wof:id":739560151,
-    "wof:lastmodified":1466470670,
+    "wof:lastmodified":1486668267,
     "wof:name":"Writesource",
     "wof:parent_id":85872137,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 739594129,
   "type": "Feature",
   "properties": {
+    "addr:full":"52 Paces West Dr NW Atlanta GA 30327",
+    "addr:housenumber":"52",
+    "addr:postcode":"30327",
+    "addr:street":"Paces West Dr Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.428074,33.851693,-84.428074,33.851693",
     "geom:latitude":33.851693,
     "geom:longitude":-84.428074,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872137,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872137
+        85688535,
+        1108798183
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,26 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872137,
+            "region_id":85688535,
+            "venue_id":739594129
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":1108798183,
             "region_id":85688535,
             "venue_id":739594129
         }
     ],
     "wof:id":739594129,
-    "wof:lastmodified":1466471457,
+    "wof:lastmodified":1486672332,
     "wof:name":"Intersteel Inc",
-    "wof:parent_id":85872137,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

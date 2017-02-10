@@ -2,9 +2,14 @@
   "id": 739492931,
   "type": "Feature",
   "properties": {
+    "addr:full":"3491 Buckhead Loop NE Atlanta GA 30326",
+    "addr:housenumber":"3491",
+    "addr:postcode":"30326",
+    "addr:street":"Buckhead Loop Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.368325,33.852355,-84.368325,33.852355",
     "geom:latitude":33.852355,
     "geom:longitude":-84.368325,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872103,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872103
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872103,
             "region_id":85688535,
             "venue_id":739492931
         }
     ],
     "wof:id":739492931,
-    "wof:lastmodified":1466468748,
+    "wof:lastmodified":1486668344,
     "wof:name":"Classic Images Photography",
     "wof:parent_id":85872103,
     "wof:placetype":"venue",

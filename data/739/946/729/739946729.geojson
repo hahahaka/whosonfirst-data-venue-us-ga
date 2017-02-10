@@ -2,9 +2,14 @@
   "id": 739946729,
   "type": "Feature",
   "properties": {
+    "addr:full":"1601 W Peachtree St NE Atlanta GA 30309",
+    "addr:housenumber":"1601",
+    "addr:postcode":"30309",
+    "addr:street":"W Peachtree St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.3877,33.798682,-84.3877,33.798682",
     "geom:latitude":33.798682,
     "geom:longitude":-84.3877,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872127,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85872127
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85872127,
             "region_id":85688535,
             "venue_id":739946729
         }
     ],
     "wof:id":739946729,
-    "wof:lastmodified":1466478755,
+    "wof:lastmodified":1486671355,
     "wof:name":"The Beat",
     "wof:parent_id":85872127,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 740001441,
   "type": "Feature",
   "properties": {
+    "addr:full":"4717 Roswell Rd Apt S1 Atlanta GA 30342",
+    "addr:housenumber":"4717",
+    "addr:postcode":"30342",
+    "addr:street":"Roswell Rd;S1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":740001441,
-    "wof:lastmodified":1466461293,
+    "wof:lastmodified":1472617809,
     "wof:name":"Chateau Villa Apts",
     "wof:parent_id":85889989,
     "wof:placetype":"venue",

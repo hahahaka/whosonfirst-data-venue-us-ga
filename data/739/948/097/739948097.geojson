@@ -2,9 +2,14 @@
   "id": 739948097,
   "type": "Feature",
   "properties": {
+    "addr:full":"1836 Westwood Ave SW Atlanta GA 30310",
+    "addr:housenumber":"1836",
+    "addr:postcode":"30310",
+    "addr:street":"Westwood Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.447713,33.738775,-84.447713,33.738775",
     "geom:latitude":33.738775,
     "geom:longitude":-84.447713,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798419,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        85804751
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +59,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85804751,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798419,
             "region_id":85688535,
             "venue_id":739948097
         }
     ],
     "wof:id":739948097,
-    "wof:lastmodified":1466478951,
+    "wof:lastmodified":1486672568,
     "wof:name":"Jinnareal Music Publishing",
-    "wof:parent_id":85804751,
+    "wof:parent_id":1108798419,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

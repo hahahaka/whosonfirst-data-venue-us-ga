@@ -2,9 +2,14 @@
   "id": 739681525,
   "type": "Feature",
   "properties": {
+    "addr:full":"1746 Noble Dr NE Atlanta GA 30306",
+    "addr:housenumber":"1746",
+    "addr:postcode":"30306",
+    "addr:street":"Noble Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.342458,33.802934,-84.342458,33.802934",
     "geom:latitude":33.802934,
     "geom:longitude":-84.342458,
@@ -24,7 +29,14 @@
     "sg:postcode":"30306",
     "sg:province":"GA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        1108797045,
+        85633793,
+        85936429,
+        102083603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Hs4eKNGICZe5yJSNcIyWC_33.802934_-84.342458@1294087602"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461912173,
     "wof:geomhash":"06d26e64b2e175f3931df2b7bfae868f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "region_id":85688535,
+            "venue_id":739681525
+        }
+    ],
     "wof:id":739681525,
-    "wof:lastmodified":1466473581,
+    "wof:lastmodified":1486669124,
     "wof:name":"Decatrite Chapter 3122 Amercn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

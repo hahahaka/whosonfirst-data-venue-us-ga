@@ -2,9 +2,14 @@
   "id": 723058219,
   "type": "Feature",
   "properties": {
+    "addr:full":"1272 Metropolitan Ave SE Atlanta GA 30316",
+    "addr:housenumber":"1272",
+    "addr:postcode":"30316",
+    "addr:street":"Metropolitan Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.347192,33.741898,-84.347192,33.741898",
     "geom:latitude":33.741898,
     "geom:longitude":-84.347192,
@@ -28,7 +33,16 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108798133,
+        85815915,
+        102191575,
+        1108797045,
+        85633793,
+        85936429,
+        102083603,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NocZUa8rCA1qDQ4g0bwGw_33.741898_-84.347192@1294087602"
@@ -36,11 +50,23 @@
     "wof:country":"US",
     "wof:created":1461894181,
     "wof:geomhash":"f095a2c6c72d61b7f5ec3cca34fe4b01",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "microhood_id":1108798133,
+            "neighbourhood_id":85815915,
+            "region_id":85688535,
+            "venue_id":723058219
+        }
+    ],
     "wof:id":723058219,
-    "wof:lastmodified":1466463431,
+    "wof:lastmodified":1486682681,
     "wof:name":"Tax Solutions",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108798133,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

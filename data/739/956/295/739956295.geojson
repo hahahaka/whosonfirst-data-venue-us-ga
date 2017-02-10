@@ -2,9 +2,14 @@
   "id": 739956295,
   "type": "Feature",
   "properties": {
+    "addr:full":"898 Emerson Ave Atlanta GA 30316",
+    "addr:housenumber":"898",
+    "addr:postcode":"30316",
+    "addr:street":"Emerson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.358133,33.733075,-84.358133,33.733075",
     "geom:latitude":33.733075,
     "geom:longitude":-84.358133,
@@ -29,13 +34,13 @@
     "sg:website":"www.weddingsbyjason.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872125,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85839789,
-        85872125
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,24 +55,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85839789,
-            "region_id":85688535,
-            "venue_id":739956295
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083603,
-            "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85872125,
             "region_id":85688535,
             "venue_id":739956295
         }
     ],
     "wof:id":739956295,
-    "wof:lastmodified":1466479379,
+    "wof:lastmodified":1486671942,
     "wof:name":"Weddings by Jason",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872125,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

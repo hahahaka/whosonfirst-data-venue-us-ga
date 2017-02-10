@@ -2,9 +2,14 @@
   "id": 739958129,
   "type": "Feature",
   "properties": {
+    "addr:full":"225 Clifton St SE Atlanta GA 30317",
+    "addr:housenumber":"225",
+    "addr:postcode":"30317",
+    "addr:street":"Clifton St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.331703,33.746399,-84.331703,33.746399",
     "geom:latitude":33.746399,
     "geom:longitude":-84.331703,
@@ -24,7 +29,13 @@
     "sg:postcode":"30317",
     "sg:province":"GA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        102084539,
+        420558365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34VNYMVLq42czolCK4Fenn_33.746399_-84.331703@1303262616"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461922300,
     "wof:geomhash":"add0aa27c52f0260578362c393e9a68d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":420558365,
+            "region_id":85688535,
+            "venue_id":739958129
+        }
+    ],
     "wof:id":739958129,
-    "wof:lastmodified":1466478896,
+    "wof:lastmodified":1486669729,
     "wof:name":"Citgo Gas Station Mini Mart",
     "wof:parent_id":420558365,
     "wof:placetype":"venue",

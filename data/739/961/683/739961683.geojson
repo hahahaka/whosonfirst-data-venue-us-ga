@@ -2,9 +2,14 @@
   "id": 739961683,
   "type": "Feature",
   "properties": {
+    "addr:full":"858 Joseph E Lowery Blvd NW Atlanta GA 30318",
+    "addr:housenumber":"858",
+    "addr:postcode":"30318",
+    "addr:street":"Joseph E Lowery Blvd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.417298,33.777983,-84.417298,33.777983",
     "geom:latitude":33.777983,
     "geom:longitude":-84.417298,
@@ -26,12 +31,13 @@
     "sg:website":"www.sjauto.repair.bz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872055,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
-        85872055
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797043,
             "neighbourhood_id":85872055,
             "region_id":85688535,
             "venue_id":739961683
         }
     ],
     "wof:id":739961683,
-    "wof:lastmodified":1466479261,
+    "wof:lastmodified":1486668969,
     "wof:name":"S & J Automotive",
     "wof:parent_id":85872055,
     "wof:placetype":"venue",

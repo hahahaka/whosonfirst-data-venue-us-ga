@@ -2,9 +2,14 @@
   "id": 739944555,
   "type": "Feature",
   "properties": {
+    "addr:full":"1374 W Peachtree St NW Atlanta GA 30309",
+    "addr:housenumber":"1374",
+    "addr:postcode":"30309",
+    "addr:street":"W Peachtree St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.387749,33.79187,-84.387749,33.79187",
     "geom:latitude":33.79187,
     "geom:longitude":-84.387749,
@@ -19,12 +24,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872127,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85872127
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,13 +45,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85872127,
             "region_id":85688535,
             "venue_id":739944555
         }
     ],
     "wof:id":739944555,
-    "wof:lastmodified":1466478843,
+    "wof:lastmodified":1486671353,
     "wof:name":"EarthLink Live",
     "wof:parent_id":85872127,
     "wof:placetype":"venue",

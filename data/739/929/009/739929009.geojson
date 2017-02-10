@@ -2,9 +2,14 @@
   "id": 739929009,
   "type": "Feature",
   "properties": {
+    "addr:full":"3120 Maple Drive NE Atlanta GA 30305",
+    "addr:housenumber":"3120",
+    "addr:postcode":"30305",
+    "addr:street":"Maple Drive Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.371771,33.839661,-84.371771,33.839661",
     "geom:latitude":33.839661,
     "geom:longitude":-84.371771,
@@ -26,12 +31,13 @@
     "sg:website":"www.eyelovelasik.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872063,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872063
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872063,
             "region_id":85688535,
             "venue_id":739929009
         }
     ],
     "wof:id":739929009,
-    "wof:lastmodified":1466478547,
+    "wof:lastmodified":1486668286,
     "wof:name":"Gillian Kris F MD",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",

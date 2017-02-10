@@ -2,9 +2,14 @@
   "id": 739947929,
   "type": "Feature",
   "properties": {
+    "addr:full":"680 Pearce St SW Atlanta GA 30310",
+    "addr:housenumber":"680",
+    "addr:postcode":"30310",
+    "addr:street":"Pearce St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.410003,33.729585,-84.410003,33.729585",
     "geom:latitude":33.729585,
     "geom:longitude":-84.410003,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420518005,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        420518005
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":420518005,
             "region_id":85688535,
             "venue_id":739947929
         }
     ],
     "wof:id":739947929,
-    "wof:lastmodified":1466478935,
+    "wof:lastmodified":1486667881,
     "wof:name":"Global Auto Trading",
     "wof:parent_id":420518005,
     "wof:placetype":"venue",

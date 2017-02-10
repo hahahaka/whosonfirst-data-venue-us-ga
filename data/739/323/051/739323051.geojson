@@ -2,9 +2,14 @@
   "id": 739323051,
   "type": "Feature",
   "properties": {
+    "addr:full":"2551 Potomac Ave NE Atlanta GA 30305",
+    "addr:housenumber":"2551",
+    "addr:postcode":"30305",
+    "addr:street":"Potomac Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.384731,33.824147,-84.384731,33.824147",
     "geom:latitude":33.824147,
     "geom:longitude":-84.384731,
@@ -25,13 +30,15 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872111,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872113,
-        85872111
+        85688535,
+        1108798179,
+        85872113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +53,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872113,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":85872111,
             "region_id":85688535,
             "venue_id":739323051
         },
@@ -55,15 +63,26 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872111,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":1108798179,
+            "region_id":85688535,
+            "venue_id":739323051
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":85872113,
             "region_id":85688535,
             "venue_id":739323051
         }
     ],
     "wof:id":739323051,
-    "wof:lastmodified":1466463770,
+    "wof:lastmodified":1486672322,
     "wof:name":"Susan H Wilcox Interiors",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739654671,
   "type": "Feature",
   "properties": {
+    "addr:full":"1799 Lakewood Ter SE Atlanta GA 30315",
+    "addr:housenumber":"1799",
+    "addr:postcode":"30315",
+    "addr:street":"Lakewood Ter Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.379059,33.705701,-84.379059,33.705701",
     "geom:latitude":33.705701,
     "geom:longitude":-84.379059,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872129,
         102191575,
+        1108797037,
         85633793,
         85936429,
         102083603,
-        85872129
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797037,
             "neighbourhood_id":85872129,
             "region_id":85688535,
             "venue_id":739654671
         }
     ],
     "wof:id":739654671,
-    "wof:lastmodified":1466472863,
+    "wof:lastmodified":1486668231,
     "wof:name":"Carter & Ringer Hm Renovations",
     "wof:parent_id":85872129,
     "wof:placetype":"venue",

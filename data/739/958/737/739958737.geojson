@@ -2,9 +2,14 @@
   "id": 739958737,
   "type": "Feature",
   "properties": {
+    "addr:full":"887 W Marietta St NW Atlanta GA 30318",
+    "addr:housenumber":"887",
+    "addr:postcode":"30318",
+    "addr:street":"W Marietta St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.417034,33.782483,-84.417034,33.782483",
     "geom:latitude":33.782483,
     "geom:longitude":-84.417034,
@@ -37,12 +42,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872055,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
-        85872055
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,13 +63,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797043,
             "neighbourhood_id":85872055,
             "region_id":85688535,
             "venue_id":739958737
         }
     ],
     "wof:id":739958737,
-    "wof:lastmodified":1466479075,
+    "wof:lastmodified":1486668994,
     "wof:name":"Jega International",
     "wof:parent_id":85872055,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 739946447,
   "type": "Feature",
   "properties": {
+    "addr:full":"3343 Peachtree Park Dr NE Ste 550 Atlanta GA 30309",
+    "addr:housenumber":"3343",
+    "addr:postcode":"30309",
+    "addr:street":"Peachtree Park Dr Ne Ste 550",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.385263,33.812162,-84.385263,33.812162",
     "geom:latitude":33.812162,
     "geom:longitude":-84.385263,
@@ -28,13 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872113,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872113,
-        85808017
+        85688535,
+        85808017,
+        1108798513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,6 +56,7 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872113,
             "region_id":85688535,
             "venue_id":739946447
@@ -58,15 +66,26 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85808017,
+            "region_id":85688535,
+            "venue_id":739946447
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":1108798513,
             "region_id":85688535,
             "venue_id":739946447
         }
     ],
     "wof:id":739946447,
-    "wof:lastmodified":1466478728,
+    "wof:lastmodified":1486672713,
     "wof:name":"Stokes, Gary D. - Lamberth, Cifelli, Stokes & Stout, P.A.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 722552197,
   "type": "Feature",
   "properties": {
+    "addr:full":"775 Conley Rd SE Atlanta GA 30354",
+    "addr:housenumber":"775",
+    "addr:postcode":"30354",
+    "addr:street":"Conley Rd Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.361014,33.649776,-84.361014,33.649776",
     "geom:latitude":33.649776,
     "geom:longitude":-84.361014,
@@ -24,7 +29,15 @@
     "sg:postcode":"30354",
     "sg:province":"GA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420784727,
+        102191575,
+        1108797037,
+        85633793,
+        85936429,
+        102083603,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1j4425ZjRyY80t8qmMbIGI_33.649776_-84.361014@1294087602"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461884050,
     "wof:geomhash":"6897540c715cfeb30972aa363e2275d0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797037,
+            "neighbourhood_id":420784727,
+            "region_id":85688535,
+            "venue_id":722552197
+        }
+    ],
     "wof:id":722552197,
-    "wof:lastmodified":1466462067,
+    "wof:lastmodified":1486672111,
     "wof:name":"Unforgettable",
-    "wof:parent_id":-1,
+    "wof:parent_id":420784727,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 723116195,
   "type": "Feature",
   "properties": {
+    "addr:full":"470 Brentwood Dr NE Atlanta GA 30305",
+    "addr:housenumber":"470",
+    "addr:postcode":"30305",
+    "addr:street":"Brentwood Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.374714,33.831541,-84.374714,33.831541",
     "geom:latitude":33.831541,
     "geom:longitude":-84.374714,
@@ -28,13 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872111,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872081,
-        85872095
+        85688535,
+        85872063,
+        85872095,
+        85872081
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +57,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872081,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":85872111,
             "region_id":85688535,
             "venue_id":723116195
         },
@@ -58,15 +67,36 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":85872063,
+            "region_id":85688535,
+            "venue_id":723116195
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872095,
+            "region_id":85688535,
+            "venue_id":723116195
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":85872081,
             "region_id":85688535,
             "venue_id":723116195
         }
     ],
     "wof:id":723116195,
-    "wof:lastmodified":1466465379,
+    "wof:lastmodified":1486668295,
     "wof:name":"Qrp Home Renovations Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

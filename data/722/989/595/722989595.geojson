@@ -2,9 +2,14 @@
   "id": 722989595,
   "type": "Feature",
   "properties": {
+    "addr:full":"472 Grant St SE Atlanta GA 30312",
+    "addr:housenumber":"472",
+    "addr:postcode":"30312",
+    "addr:street":"Grant St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.376351,33.741938,-84.376351,33.741938",
     "geom:latitude":33.741938,
     "geom:longitude":-84.376351,
@@ -30,10 +35,10 @@
     "wof:belongsto":[
         85688535,
         102191575,
+        1108797037,
         85633793,
         85936429,
-        102083603,
-        85872043
+        102083603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +53,15 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872043,
+            "macrohood_id":1108797037,
             "region_id":85688535,
             "venue_id":722989595
         }
     ],
     "wof:id":722989595,
-    "wof:lastmodified":1466475086,
+    "wof:lastmodified":1486668173,
     "wof:name":"Thorne/Ramsey Communications",
-    "wof:parent_id":85872043,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739983939,
   "type": "Feature",
   "properties": {
+    "addr:full":"3617 Martin Luther King Jr Dr SW Atlanta GA 30331",
+    "addr:housenumber":"3617",
+    "addr:postcode":"30331",
+    "addr:street":"Martin Luther King Jr Dr Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.506048,33.76015,-84.506048,33.76015",
     "geom:latitude":33.76015,
     "geom:longitude":-84.506048,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798373,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        420558565
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":420558565,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798373,
             "region_id":85688535,
             "venue_id":739983939
         }
     ],
     "wof:id":739983939,
-    "wof:lastmodified":1466479504,
+    "wof:lastmodified":1486672527,
     "wof:name":"Thang Laundry",
-    "wof:parent_id":420558565,
+    "wof:parent_id":1108798373,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

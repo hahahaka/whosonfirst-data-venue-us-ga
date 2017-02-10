@@ -2,9 +2,14 @@
   "id": 723398547,
   "type": "Feature",
   "properties": {
+    "addr:full":"455 North Ave NE Atlanta GA 30308",
+    "addr:housenumber":"455",
+    "addr:postcode":"30308",
+    "addr:street":"North Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.372191,33.771103,-84.372191,33.771103",
     "geom:latitude":33.771103,
     "geom:longitude":-84.372191,
@@ -29,12 +34,14 @@
     "sg:website":"www.familydollar.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798129,
+        85872109,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85853981
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,17 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85853981,
+            "macrohood_id":1108797045,
+            "microhood_id":1108798129,
+            "neighbourhood_id":85872109,
             "region_id":85688535,
             "venue_id":723398547
         }
     ],
     "wof:id":723398547,
-    "wof:lastmodified":1466473056,
+    "wof:lastmodified":1486682678,
     "wof:name":"Family Dollar Store",
-    "wof:parent_id":85853981,
+    "wof:parent_id":1108798129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 722919827,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 Ardmore Pl NW Atlanta GA 30309",
+    "addr:housenumber":"102",
+    "addr:postcode":"30309",
+    "addr:street":"Ardmore Pl Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.396924,33.803854,-84.396924,33.803854",
     "geom:latitude":33.803854,
     "geom:longitude":-84.396924,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798447,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872047
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872047,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":1108798447,
             "region_id":85688535,
             "venue_id":722919827
         }
     ],
     "wof:id":722919827,
-    "wof:lastmodified":1466473118,
+    "wof:lastmodified":1486672625,
     "wof:name":"Emma Enterprises",
-    "wof:parent_id":85872047,
+    "wof:parent_id":1108798447,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739678165,
   "type": "Feature",
   "properties": {
+    "addr:full":"720 Law St NW Atlanta GA 30318",
+    "addr:housenumber":"720",
+    "addr:postcode":"30318",
+    "addr:street":"Law St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.4242,33.774322,-84.4242,33.774322",
     "geom:latitude":33.774322,
     "geom:longitude":-84.4242,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872055,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
-        85872055
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797043,
             "neighbourhood_id":85872055,
             "region_id":85688535,
             "venue_id":739678165
         }
     ],
     "wof:id":739678165,
-    "wof:lastmodified":1466473291,
+    "wof:lastmodified":1486668971,
     "wof:name":"All Pro Auto Detailing",
     "wof:parent_id":85872055,
     "wof:placetype":"venue",

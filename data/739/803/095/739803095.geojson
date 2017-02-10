@@ -2,6 +2,10 @@
   "id": 739803095,
   "type": "Feature",
   "properties": {
+    "addr:full":"765 Lanier 400 Pkwy Cumming GA 30040",
+    "addr:housenumber":"765;400",
+    "addr:postcode":"30040",
+    "addr:street":"Lanier;Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":739803095,
-    "wof:lastmodified":1466476386,
+    "wof:lastmodified":1472619350,
     "wof:name":"Cumming Family Medicine",
     "wof:parent_id":85842073,
     "wof:placetype":"venue",

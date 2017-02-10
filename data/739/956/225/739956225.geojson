@@ -2,9 +2,14 @@
   "id": 739956225,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 Moreland Avenue SE Atlanta GA 30316",
+    "addr:housenumber":"55",
+    "addr:postcode":"30316",
+    "addr:street":"Moreland Avenue Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.349021,33.752286,-84.349021,33.752286",
     "geom:latitude":33.752286,
     "geom:longitude":-84.349021,
@@ -28,7 +33,14 @@
         "market"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        1108797045,
+        85633793,
+        85936429,
+        102083603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67pq42QNVzR63no1e3bvJX_33.752286_-84.349021@1303262615"
@@ -36,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1461922231,
     "wof:geomhash":"bfa44621db1b5f10d9c7729a0eb6db3e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "region_id":85688535,
+            "venue_id":739956225
+        }
+    ],
     "wof:id":739956225,
-    "wof:lastmodified":1466478978,
+    "wof:lastmodified":1486670582,
     "wof:name":"Discount Meat Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

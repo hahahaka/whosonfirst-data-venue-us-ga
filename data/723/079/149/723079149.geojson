@@ -2,9 +2,14 @@
   "id": 723079149,
   "type": "Feature",
   "properties": {
+    "addr:full":"3234 Andrews Ct NW Atlanta GA 30305",
+    "addr:housenumber":"3234",
+    "addr:postcode":"30305",
+    "addr:street":"Andrews Ct Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.388936,33.84355,-84.388936,33.84355",
     "geom:latitude":33.84355,
     "geom:longitude":-84.388936,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420517867,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        420517867
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":420517867,
             "region_id":85688535,
             "venue_id":723079149
         }
     ],
     "wof:id":723079149,
-    "wof:lastmodified":1466464336,
+    "wof:lastmodified":1486668346,
     "wof:name":"Thompson & Assoc At Law",
     "wof:parent_id":420517867,
     "wof:placetype":"venue",

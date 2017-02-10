@@ -2,9 +2,14 @@
   "id": 723218485,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 Scott St SW Atlanta GA 30311",
+    "addr:housenumber":"311",
+    "addr:postcode":"30311",
+    "addr:street":"Scott St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.496035,33.749725,-84.496035,33.749725",
     "geom:latitude":33.749725,
     "geom:longitude":-84.496035,
@@ -25,12 +30,15 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798557,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        85872073
+        85688535,
+        85872073,
+        1108797043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +53,26 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798557,
+            "region_id":85688535,
+            "venue_id":723218485
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797043,
             "neighbourhood_id":85872073,
             "region_id":85688535,
             "venue_id":723218485
         }
     ],
     "wof:id":723218485,
-    "wof:lastmodified":1466468498,
+    "wof:lastmodified":1486672753,
     "wof:name":"Nelcia Cullars",
-    "wof:parent_id":85872073,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

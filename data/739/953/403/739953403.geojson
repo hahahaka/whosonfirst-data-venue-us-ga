@@ -2,9 +2,14 @@
   "id": 739953403,
   "type": "Feature",
   "properties": {
+    "addr:full":"336 Archer Way NW Atlanta GA 30314",
+    "addr:housenumber":"336",
+    "addr:postcode":"30314",
+    "addr:street":"Archer Way Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.423502,33.7638,-84.423502,33.7638",
     "geom:latitude":33.7638,
     "geom:longitude":-84.423502,
@@ -20,12 +25,13 @@
     "sg:website":"http://ushomesecurity.com/georgia/atlanta",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872091,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
-        85872091
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,13 +46,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797043,
             "neighbourhood_id":85872091,
             "region_id":85688535,
             "venue_id":739953403
         }
     ],
     "wof:id":739953403,
-    "wof:lastmodified":1466479013,
+    "wof:lastmodified":1486669006,
     "wof:name":"Atlanta Security Systems-Protect Your Home",
     "wof:parent_id":85872091,
     "wof:placetype":"venue",

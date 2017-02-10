@@ -2,9 +2,14 @@
   "id": 723313291,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 Trinity Ave SW Atlanta GA 30303",
+    "addr:housenumber":"55",
+    "addr:postcode":"30303",
+    "addr:street":"Trinity Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.390061,33.747807,-84.390061,33.747807",
     "geom:latitude":33.747807,
     "geom:longitude":-84.390061,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108797063,
+        85866901,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85872071
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872071,
+            "macrohood_id":1108797045,
+            "microhood_id":1108797063,
+            "neighbourhood_id":85866901,
             "region_id":85688535,
             "venue_id":723313291
         }
     ],
     "wof:id":723313291,
-    "wof:lastmodified":1466470985,
+    "wof:lastmodified":1486682575,
     "wof:name":"Mayor's Office-Constituent Svc",
-    "wof:parent_id":85872071,
+    "wof:parent_id":1108797063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739950983,
   "type": "Feature",
   "properties": {
+    "addr:full":"708 Bryan St Atlanta GA 30312",
+    "addr:housenumber":"708",
+    "addr:postcode":"30312",
+    "addr:street":"Bryan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.364826,33.744259,-84.364826,33.744259",
     "geom:latitude":33.744259,
     "geom:longitude":-84.364826,
@@ -20,12 +25,13 @@
     "sg:website":"http://viplawncare.weebly.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85808737,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85808737
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,13 +46,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85808737,
             "region_id":85688535,
             "venue_id":739950983
         }
     ],
     "wof:id":739950983,
-    "wof:lastmodified":1466479123,
+    "wof:lastmodified":1486671212,
     "wof:name":"V.I.P. Lawn Care Atl",
     "wof:parent_id":85808737,
     "wof:placetype":"venue",

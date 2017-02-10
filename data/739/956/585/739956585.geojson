@@ -2,9 +2,14 @@
   "id": 739956585,
   "type": "Feature",
   "properties": {
+    "addr:full":"490 Flat Shoals Avenue SE Atlanta GA 30316",
+    "addr:housenumber":"490",
+    "addr:postcode":"30316",
+    "addr:street":"Flat Shoals Avenue Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.346435,33.740957,-84.346435,33.740957",
     "geom:latitude":33.740957,
     "geom:longitude":-84.346435,
@@ -30,7 +35,16 @@
     "sg:province":"GA",
     "sg:website":"tannmore.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108798133,
+        85815915,
+        102191575,
+        1108797045,
+        85633793,
+        85936429,
+        102083603,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DRxKWv8iU6kLWGu6YhQOQ_33.740957_-84.346435@1303262615"
@@ -38,11 +52,23 @@
     "wof:country":"US",
     "wof:created":1461922249,
     "wof:geomhash":"461b98f64dd5306ae60af021032f33dc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "microhood_id":1108798133,
+            "neighbourhood_id":85815915,
+            "region_id":85688535,
+            "venue_id":739956585
+        }
+    ],
     "wof:id":739956585,
-    "wof:lastmodified":1466479049,
+    "wof:lastmodified":1486682682,
     "wof:name":"Tan & More",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108798133,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

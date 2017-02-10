@@ -2,9 +2,14 @@
   "id": 739947639,
   "type": "Feature",
   "properties": {
+    "addr:full":"2023 Brewer Blvd SW Atlanta GA 30310",
+    "addr:housenumber":"2023",
+    "addr:postcode":"30310",
+    "addr:street":"Brewer Blvd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.412579,33.699434,-84.412579,33.699434",
     "geom:latitude":33.699434,
     "geom:longitude":-84.412579,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420517931,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        420517931
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":420517931,
             "region_id":85688535,
             "venue_id":739947639
         }
     ],
     "wof:id":739947639,
-    "wof:lastmodified":1466478875,
+    "wof:lastmodified":1486667962,
     "wof:name":"Lock Pop 24 Hr Locksmith",
     "wof:parent_id":420517931,
     "wof:placetype":"venue",

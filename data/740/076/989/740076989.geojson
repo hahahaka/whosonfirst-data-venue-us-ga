@@ -2,6 +2,10 @@
   "id": 740076989,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 Abernathy Road N.E. Building 600, Suite 175 Atlanta GA 30328",
+    "addr:housenumber":"1200;600 suite 175",
+    "addr:postcode":"30328",
+    "addr:street":"Abernathy Road",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":740076989,
-    "wof:lastmodified":1466466624,
+    "wof:lastmodified":1472618228,
     "wof:name":"Kinetix",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 739929639,
   "type": "Feature",
   "properties": {
+    "addr:full":"2852 Piedmont Road NE Atlanta GA 30305",
+    "addr:housenumber":"2852",
+    "addr:postcode":"30305",
+    "addr:street":"Piedmont Road Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.367886,33.832221,-84.367886,33.832221",
     "geom:latitude":33.832221,
     "geom:longitude":-84.367886,
@@ -29,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798171,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872081,
-        85872117
+        85688535,
+        85872081
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +56,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872081,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":1108798171,
             "region_id":85688535,
             "venue_id":739929639
         },
@@ -59,15 +66,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872117,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":85872081,
             "region_id":85688535,
             "venue_id":739929639
         }
     ],
     "wof:id":739929639,
-    "wof:lastmodified":1466478655,
+    "wof:lastmodified":1486672265,
     "wof:name":"Bozeman Michael C",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

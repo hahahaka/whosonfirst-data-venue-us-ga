@@ -2,9 +2,14 @@
   "id": 723334341,
   "type": "Feature",
   "properties": {
+    "addr:full":"3294 Browns Mill Rd Atlanta GA 30354",
+    "addr:housenumber":"3294",
+    "addr:postcode":"30354",
+    "addr:street":"Browns Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.379864,33.667997,-84.379864,33.667997",
     "geom:latitude":33.667997,
     "geom:longitude":-84.379864,
@@ -27,7 +32,14 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        1108797037,
+        85633793,
+        85936429,
+        102083603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Vc6IkJTlPnsNojM2uJEkp_33.667997_-84.379864@1294087602"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461899704,
     "wof:geomhash":"dd3589ad4af840bd6d0883f61376bdd6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797037,
+            "region_id":85688535,
+            "venue_id":723334341
+        }
+    ],
     "wof:id":723334341,
-    "wof:lastmodified":1466471465,
+    "wof:lastmodified":1486668196,
     "wof:name":"Jack & Jill Day Care Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

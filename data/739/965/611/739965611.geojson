@@ -2,9 +2,14 @@
   "id": 739965611,
   "type": "Feature",
   "properties": {
+    "addr:full":"1615 N Pelham Rd NE Atlanta GA 30324",
+    "addr:housenumber":"1615",
+    "addr:postcode":"30324",
+    "addr:street":"N Pelham Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.359158,33.798288,-84.359158,33.798288",
     "geom:latitude":33.798288,
     "geom:longitude":-84.359158,
@@ -39,11 +44,10 @@
     "wof:belongsto":[
         85688535,
         102191575,
+        1108797045,
         85633793,
         85936429,
-        102083603,
-        85832987,
-        85837709
+        102083603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,22 +62,13 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85832987,
-            "region_id":85688535,
-            "venue_id":739965611
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083603,
-            "locality_id":85936429,
-            "neighbourhood_id":85837709,
+            "macrohood_id":1108797045,
             "region_id":85688535,
             "venue_id":739965611
         }
     ],
     "wof:id":739965611,
-    "wof:lastmodified":1466479248,
+    "wof:lastmodified":1486669862,
     "wof:name":"Healthcare Project Resources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

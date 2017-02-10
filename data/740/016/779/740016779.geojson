@@ -2,9 +2,14 @@
   "id": 740016779,
   "type": "Feature",
   "properties": {
+    "addr:full":"3520 Empire Blvd SW Atlanta GA 30354",
+    "addr:housenumber":"3520",
+    "addr:postcode":"30354",
+    "addr:street":"Empire Blvd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.391357,33.658601,-84.391357,33.658601",
     "geom:latitude":33.658601,
     "geom:longitude":-84.391357,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872083,
         102191575,
+        1108797037,
         85633793,
         85936429,
         102083603,
-        85872083
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797037,
             "neighbourhood_id":85872083,
             "region_id":85688535,
             "venue_id":740016779
         }
     ],
     "wof:id":740016779,
-    "wof:lastmodified":1466462802,
+    "wof:lastmodified":1486668237,
     "wof:name":"1 & A Emergency Locksmith",
     "wof:parent_id":85872083,
     "wof:placetype":"venue",

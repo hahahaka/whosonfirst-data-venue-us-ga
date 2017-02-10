@@ -2,9 +2,14 @@
   "id": 723323505,
   "type": "Feature",
   "properties": {
+    "addr:full":"1020 Moreland Ave SE Atlanta GA 30316",
+    "addr:housenumber":"1020",
+    "addr:postcode":"30316",
+    "addr:street":"Moreland Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.349289,33.727409,-84.349289,33.727409",
     "geom:latitude":33.727409,
     "geom:longitude":-84.349289,
@@ -30,7 +35,14 @@
         "sewer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        1108797045,
+        85633793,
+        85936429,
+        102083603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GSxVfy9xXPQXsxL5eE0zS_33.727409_-84.349289@1294087602"
@@ -38,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1461899511,
     "wof:geomhash":"5cc2e926b4a485220dd6251991450b3c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "region_id":85688535,
+            "venue_id":723323505
+        }
+    ],
     "wof:id":723323505,
-    "wof:lastmodified":1466471289,
+    "wof:lastmodified":1486669907,
     "wof:name":"Al's Plumbing & Drain Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

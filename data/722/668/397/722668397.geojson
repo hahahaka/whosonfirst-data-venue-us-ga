@@ -2,9 +2,14 @@
   "id": 722668397,
   "type": "Feature",
   "properties": {
+    "addr:full":"3333 Renault Rd SE Atlanta GA 30354",
+    "addr:housenumber":"3333",
+    "addr:postcode":"30354",
+    "addr:street":"Renault Rd Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.379185,33.663346,-84.379185,33.663346",
     "geom:latitude":33.663346,
     "geom:longitude":-84.379185,
@@ -27,7 +32,15 @@
         "wrecker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420784729,
+        102191575,
+        1108797037,
+        85633793,
+        85936429,
+        102083603,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0o1bw4Bw1mIWEM64KhOwne_33.663346_-84.379185@1294087602"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461886366,
     "wof:geomhash":"ec67ba4bbd42d18d05975bea3a0f603e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797037,
+            "neighbourhood_id":420784729,
+            "region_id":85688535,
+            "venue_id":722668397
+        }
+    ],
     "wof:id":722668397,
-    "wof:lastmodified":1466466711,
+    "wof:lastmodified":1486672122,
     "wof:name":"Brown's Towing",
-    "wof:parent_id":-1,
+    "wof:parent_id":420784729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739963167,
   "type": "Feature",
   "properties": {
+    "addr:full":"2676 Baker Ridge Dr NW Atlanta GA 30318",
+    "addr:housenumber":"2676",
+    "addr:postcode":"30318",
+    "addr:street":"Baker Ridge Dr Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.475645,33.768256,-84.475645,33.768256",
     "geom:latitude":33.768256,
     "geom:longitude":-84.475645,
@@ -34,13 +39,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872143,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
+        85688535,
         85872073,
-        85872143
+        1108797043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +62,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872073,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":85872143,
             "region_id":85688535,
             "venue_id":739963167
         },
@@ -64,15 +72,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872143,
+            "macrohood_id":1108797043,
+            "neighbourhood_id":85872073,
             "region_id":85688535,
             "venue_id":739963167
         }
     ],
     "wof:id":739963167,
-    "wof:lastmodified":1466479155,
+    "wof:lastmodified":1486669028,
     "wof:name":"Vision Of Hope Community Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

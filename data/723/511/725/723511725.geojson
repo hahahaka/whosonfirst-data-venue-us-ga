@@ -2,9 +2,14 @@
   "id": 723511725,
   "type": "Feature",
   "properties": {
+    "addr:full":"221 Bobby Dodd Way NW Atlanta GA 30332",
+    "addr:housenumber":"221",
+    "addr:postcode":"30332",
+    "addr:street":"Bobby Dodd Way Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.396326,33.773903,-84.396326,33.773903",
     "geom:latitude":33.773903,
     "geom:longitude":-84.396326,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85805581,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85805581
+        85688535,
+        1108798439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,26 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85805581,
+            "region_id":85688535,
+            "venue_id":723511725
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":1108798439,
             "region_id":85688535,
             "venue_id":723511725
         }
     ],
     "wof:id":723511725,
-    "wof:lastmodified":1466475846,
+    "wof:lastmodified":1486672616,
     "wof:name":"Modern Languages",
-    "wof:parent_id":85805581,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

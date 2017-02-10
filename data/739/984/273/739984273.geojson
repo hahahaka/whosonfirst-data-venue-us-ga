@@ -2,9 +2,14 @@
   "id": 739984273,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 Jesse Hill Jr Dr SE # 1152 Atlanta GA 30334",
+    "addr:housenumber":"205",
+    "addr:postcode":"30334",
+    "addr:street":"Jesse Hill Jr Dr Se # 1152",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.38546,33.749439,-84.38546,33.749439",
     "geom:latitude":33.749439,
     "geom:longitude":-84.38546,
@@ -34,12 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108797063,
+        85866901,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85872043
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +61,17 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872043,
+            "macrohood_id":1108797045,
+            "microhood_id":1108797063,
+            "neighbourhood_id":85866901,
             "region_id":85688535,
             "venue_id":739984273
         }
     ],
     "wof:id":739984273,
-    "wof:lastmodified":1466479615,
+    "wof:lastmodified":1486682638,
     "wof:name":"Parks Dnr",
-    "wof:parent_id":85872043,
+    "wof:parent_id":1108797063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

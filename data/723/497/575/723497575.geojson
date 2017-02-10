@@ -2,9 +2,14 @@
   "id": 723497575,
   "type": "Feature",
   "properties": {
+    "addr:full":"1296 Avon Ave SW Atlanta GA 30310",
+    "addr:housenumber":"1296",
+    "addr:postcode":"30310",
+    "addr:street":"Avon Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.429459,33.722237,-84.429459,33.722237",
     "geom:latitude":33.722237,
     "geom:longitude":-84.429459,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420518003,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        420518003
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":420518003,
             "region_id":85688535,
             "venue_id":723497575
         }
     ],
     "wof:id":723497575,
-    "wof:lastmodified":1466475630,
+    "wof:lastmodified":1486668051,
     "wof:name":"Dione T Duckett Esq",
     "wof:parent_id":420518003,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 739965193,
   "type": "Feature",
   "properties": {
+    "addr:full":"2325 Cheshire Bridge Rd NE Ste 400 Atlanta GA 30324",
+    "addr:housenumber":"2325",
+    "addr:postcode":"30324",
+    "addr:street":"Cheshire Bridge Rd Ne Ste 400",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.351689,33.818273,-84.351689,33.818273",
     "geom:latitude":33.818273,
     "geom:longitude":-84.351689,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85889987,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85889987
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85889987,
             "region_id":85688535,
             "venue_id":739965193
         }
     ],
     "wof:id":739965193,
-    "wof:lastmodified":1466479163,
+    "wof:lastmodified":1486669557,
     "wof:name":"Carriage Cleaners & Laundry",
     "wof:parent_id":85889987,
     "wof:placetype":"venue",

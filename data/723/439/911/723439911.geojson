@@ -2,6 +2,10 @@
   "id": 723439911,
   "type": "Feature",
   "properties": {
+    "addr:full":"9876 Main St Woodstock GA 30188",
+    "addr:housenumber":"9876",
+    "addr:postcode":"30188",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":723439911,
-    "wof:lastmodified":1466473909,
+    "wof:lastmodified":1472619230,
     "wof:name":"Guaranteed Reconstruction",
     "wof:parent_id":420517435,
     "wof:placetype":"venue",

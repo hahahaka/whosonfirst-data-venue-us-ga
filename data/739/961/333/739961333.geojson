@@ -2,9 +2,14 @@
   "id": 739961333,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Northside 75 NW Ste 500 Atlanta GA 30318",
+    "addr:housenumber":"2;75",
+    "addr:postcode":"30318",
+    "addr:street":"Northside;Ste 500",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.407811,33.800281,-84.407811,33.800281",
     "geom:latitude":33.800281,
     "geom:longitude":-84.407811,
@@ -38,13 +43,15 @@
     "sg:website":"http://www.osah.state.ga.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872097,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85872097,
-        85872077
+        85688535,
+        85872077,
+        1108797041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,6 +66,7 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85872097,
             "region_id":85688535,
             "venue_id":739961333
@@ -68,15 +76,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872077,
             "region_id":85688535,
             "venue_id":739961333
         }
     ],
     "wof:id":739961333,
-    "wof:lastmodified":1466479189,
+    "wof:lastmodified":1486669556,
     "wof:name":"Executv Ofc Of State Of Ga",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

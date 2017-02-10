@@ -2,9 +2,14 @@
   "id": 739920191,
   "type": "Feature",
   "properties": {
+    "addr:full":"505 Whitehall St SW Atlanta GA 30303",
+    "addr:housenumber":"505",
+    "addr:postcode":"30303",
+    "addr:street":"Whitehall St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.405086,33.74316,-84.405086,33.74316",
     "geom:latitude":33.74316,
     "geom:longitude":-84.405086,
@@ -38,10 +43,10 @@
     "wof:belongsto":[
         85688535,
         102191575,
+        1108797035,
         85633793,
         85936429,
-        102083603,
-        85872099
+        102083603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +61,15 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872099,
+            "macrohood_id":1108797035,
             "region_id":85688535,
             "venue_id":739920191
         }
     ],
     "wof:id":739920191,
-    "wof:lastmodified":1466478371,
+    "wof:lastmodified":1486670607,
     "wof:name":"Century Lofts Boj",
-    "wof:parent_id":85872099,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

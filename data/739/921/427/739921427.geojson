@@ -2,9 +2,14 @@
   "id": 739921427,
   "type": "Feature",
   "properties": {
+    "addr:full":"240 Auburn Ave NE Atlanta GA 30303",
+    "addr:housenumber":"240",
+    "addr:postcode":"30303",
+    "addr:street":"Auburn Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.379774,33.755526,-84.379774,33.755526",
     "geom:latitude":33.755526,
     "geom:longitude":-84.379774,
@@ -37,10 +42,10 @@
     "wof:belongsto":[
         85688535,
         102191575,
+        1108797045,
         85633793,
         85936429,
-        102083603,
-        85872043
+        102083603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +60,15 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872043,
+            "macrohood_id":1108797045,
             "region_id":85688535,
             "venue_id":739921427
         }
     ],
     "wof:id":739921427,
-    "wof:lastmodified":1466478422,
+    "wof:lastmodified":1486670736,
     "wof:name":"Tookes Foundation, Inc.",
-    "wof:parent_id":85872043,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

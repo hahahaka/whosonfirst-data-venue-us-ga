@@ -2,9 +2,14 @@
   "id": 740076775,
   "type": "Feature",
   "properties": {
+    "addr:full":"730 Peachtree Street Suite 350 Atlanta GA 30308",
+    "addr:housenumber":"730",
+    "addr:postcode":"30308",
+    "addr:street":"Peachtree Street Suite 350",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.387562,33.760985,-84.387562,33.760985",
     "geom:latitude":33.760985,
     "geom:longitude":-84.387562,
@@ -34,12 +39,14 @@
     "sg:website":"http://www.kabbage.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108797059,
+        85866901,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85866901
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +61,17 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "microhood_id":1108797059,
             "neighbourhood_id":85866901,
             "region_id":85688535,
             "venue_id":740076775
         }
     ],
     "wof:id":740076775,
-    "wof:lastmodified":1466466597,
+    "wof:lastmodified":1486682508,
     "wof:name":"Kabbage",
-    "wof:parent_id":85866901,
+    "wof:parent_id":1108797059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

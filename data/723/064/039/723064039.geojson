@@ -2,9 +2,14 @@
   "id": 723064039,
   "type": "Feature",
   "properties": {
+    "addr:full":"185 Southside Industrial Pkwy Atlanta GA 30354",
+    "addr:housenumber":"185",
+    "addr:postcode":"30354",
+    "addr:street":"Southside Industrial Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.3879,33.652237,-84.3879,33.652237",
     "geom:latitude":33.652237,
     "geom:longitude":-84.3879,
@@ -28,7 +33,15 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420784729,
+        102191575,
+        1108797037,
+        85633793,
+        85936429,
+        102083603,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LzoOtKoiomWAhHhsYK6Ts_33.652237_-84.387900@1294087602"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461894302,
     "wof:geomhash":"981ae35afeb8947d19f6347b537b20b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797037,
+            "neighbourhood_id":420784729,
+            "region_id":85688535,
+            "venue_id":723064039
+        }
+    ],
     "wof:id":723064039,
-    "wof:lastmodified":1466463751,
+    "wof:lastmodified":1486672122,
     "wof:name":"M T E Service Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":420784729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

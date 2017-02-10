@@ -2,9 +2,14 @@
   "id": 739961515,
   "type": "Feature",
   "properties": {
+    "addr:full":"935 Chattahoochee Avenue NW Atlanta GA 30318",
+    "addr:housenumber":"935",
+    "addr:postcode":"30318",
+    "addr:street":"Chattahoochee Avenue Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.419386,33.79987,-84.419386,33.79987",
     "geom:latitude":33.79987,
     "geom:longitude":-84.419386,
@@ -31,13 +36,15 @@
     "sg:website":"www.jamalifashion.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85845437,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
+        85688535,
         85872135,
-        85845437
+        1108797041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +59,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872135,
+            "macrohood_id":1108797043,
+            "neighbourhood_id":85845437,
             "region_id":85688535,
             "venue_id":739961515
         },
@@ -61,15 +69,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85845437,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":85872135,
             "region_id":85688535,
             "venue_id":739961515
         }
     ],
     "wof:id":739961515,
-    "wof:lastmodified":1466479227,
+    "wof:lastmodified":1486671749,
     "wof:name":"Jamali Fashion & Accessories",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

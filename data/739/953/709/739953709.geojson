@@ -2,9 +2,14 @@
   "id": 739953709,
   "type": "Feature",
   "properties": {
+    "addr:full":"830 Westview Drive SW Atlanta GA 30314",
+    "addr:housenumber":"830",
+    "addr:postcode":"30314",
+    "addr:street":"Westview Drive Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.415275,33.750854,-84.415275,33.750854",
     "geom:latitude":33.750854,
     "geom:longitude":-84.415275,
@@ -25,13 +30,15 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872091,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
+        85688535,
         85872049,
-        85872091
+        1108797035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +53,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872049,
+            "macrohood_id":1108797043,
+            "neighbourhood_id":85872091,
             "region_id":85688535,
             "venue_id":739953709
         },
@@ -55,15 +63,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872091,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":85872049,
             "region_id":85688535,
             "venue_id":739953709
         }
     ],
     "wof:id":739953709,
-    "wof:lastmodified":1466479391,
+    "wof:lastmodified":1486671389,
     "wof:name":"Suntrust",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

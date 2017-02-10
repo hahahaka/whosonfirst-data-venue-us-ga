@@ -2,9 +2,14 @@
   "id": 722549959,
   "type": "Feature",
   "properties": {
+    "addr:full":"3453 Rilman Rd NW Atlanta GA 30327",
+    "addr:housenumber":"3453",
+    "addr:postcode":"30327",
+    "addr:street":"Rilman Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.419239,33.850159,-84.419239,33.850159",
     "geom:latitude":33.850159,
     "geom:longitude":-84.419239,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872137,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872137
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872137,
             "region_id":85688535,
             "venue_id":722549959
         }
     ],
     "wof:id":722549959,
-    "wof:lastmodified":1466462208,
+    "wof:lastmodified":1486671768,
     "wof:name":"Paul Little",
     "wof:parent_id":85872137,
     "wof:placetype":"venue",

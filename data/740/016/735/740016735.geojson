@@ -2,9 +2,14 @@
   "id": 740016735,
   "type": "Feature",
   "properties": {
+    "addr:full":"2929 Hapeville Road SW Atlanta GA 30354",
+    "addr:housenumber":"2929",
+    "addr:postcode":"30354",
+    "addr:street":"Hapeville Road Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.393242,33.676652,-84.393242,33.676652",
     "geom:latitude":33.676652,
     "geom:longitude":-84.393242,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872119,
         102191575,
+        1108797037,
         85633793,
         85936429,
         102083603,
-        85872119
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797037,
             "neighbourhood_id":85872119,
             "region_id":85688535,
             "venue_id":740016735
         }
     ],
     "wof:id":740016735,
-    "wof:lastmodified":1466462961,
+    "wof:lastmodified":1486668117,
     "wof:name":"Kiddie Village Day Care Center",
     "wof:parent_id":85872119,
     "wof:placetype":"venue",

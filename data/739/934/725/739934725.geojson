@@ -2,9 +2,14 @@
   "id": 739934725,
   "type": "Feature",
   "properties": {
+    "addr:full":"835 Glendale Ter NE Apt 2 Atlanta GA 30308",
+    "addr:housenumber":"835;2",
+    "addr:postcode":"30308",
+    "addr:street":"Glendale Ter Ne Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.376414,33.777305,-84.376414,33.777305",
     "geom:latitude":33.777305,
     "geom:longitude":-84.376414,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85853981,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85866909,
-        85853981
+        85688535,
+        85866909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +55,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85866909,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":85853981,
             "region_id":85688535,
             "venue_id":739934725
         },
@@ -58,15 +65,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85853981,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":85866909,
             "region_id":85688535,
             "venue_id":739934725
         }
     ],
     "wof:id":739934725,
-    "wof:lastmodified":1466478614,
+    "wof:lastmodified":1486669952,
     "wof:name":"Motley Motion, Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

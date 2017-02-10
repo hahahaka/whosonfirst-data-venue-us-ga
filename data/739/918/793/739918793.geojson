@@ -2,9 +2,14 @@
   "id": 739918793,
   "type": "Feature",
   "properties": {
+    "addr:full":"292C Spring Street SW Atlanta GA 30303",
+    "addr:housenumber":"292c",
+    "addr:postcode":"30303",
+    "addr:street":"Spring Street Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.397906,33.7466,-84.397906,33.7466",
     "geom:latitude":33.7466,
     "geom:longitude":-84.397906,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872071,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85872071
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85872071,
             "region_id":85688535,
             "venue_id":739918793
         }
     ],
     "wof:id":739918793,
-    "wof:lastmodified":1466478527,
+    "wof:lastmodified":1486669574,
     "wof:name":"Pizza Hut",
     "wof:parent_id":85872071,
     "wof:placetype":"venue",

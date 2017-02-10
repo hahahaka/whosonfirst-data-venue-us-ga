@@ -2,9 +2,14 @@
   "id": 722573535,
   "type": "Feature",
   "properties": {
+    "addr:full":"1590 Simpson Rd NW Atlanta GA 30314",
+    "addr:housenumber":"1590",
+    "addr:postcode":"30314",
+    "addr:street":"Simpson Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.440786,33.763503,-84.440786,33.763503",
     "geom:latitude":33.763503,
     "geom:longitude":-84.440786,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85845437,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
-        85845437
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797043,
             "neighbourhood_id":85845437,
             "region_id":85688535,
             "venue_id":722573535
         }
     ],
     "wof:id":722573535,
-    "wof:lastmodified":1466463206,
+    "wof:lastmodified":1486669041,
     "wof:name":"Epiphany Funding LLC",
     "wof:parent_id":85845437,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 739931041,
   "type": "Feature",
   "properties": {
+    "addr:full":"589 Elmwood Dr NE Atlanta GA 30306",
+    "addr:housenumber":"589",
+    "addr:postcode":"30306",
+    "addr:street":"Elmwood Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.367789,33.784742,-84.367789,33.784742",
     "geom:latitude":33.784742,
     "geom:longitude":-84.367789,
@@ -27,10 +32,10 @@
     "wof:belongsto":[
         85688535,
         102191575,
+        1108797045,
         85633793,
         85936429,
-        102083603,
-        85825631
+        102083603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +50,15 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85825631,
+            "macrohood_id":1108797045,
             "region_id":85688535,
             "venue_id":739931041
         }
     ],
     "wof:id":739931041,
-    "wof:lastmodified":1466478805,
+    "wof:lastmodified":1486670688,
     "wof:name":"Muscle Elements",
-    "wof:parent_id":85825631,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

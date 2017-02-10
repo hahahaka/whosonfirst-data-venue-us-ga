@@ -2,9 +2,14 @@
   "id": 740016785,
   "type": "Feature",
   "properties": {
+    "addr:full":"330 Susy Griffin Rd SE Atlanta GA 30354",
+    "addr:housenumber":"330",
+    "addr:postcode":"30354",
+    "addr:street":"Susy Griffin Rd Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.378676,33.673223,-84.378676,33.673223",
     "geom:latitude":33.673223,
     "geom:longitude":-84.378676,
@@ -34,7 +39,14 @@
         "churches-baptist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        1108797037,
+        85633793,
+        85936429,
+        102083603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wBCNMlnGw2sQe5CVzvev3_33.673223_-84.378676@1303262631"
@@ -42,9 +54,19 @@
     "wof:country":"US",
     "wof:created":1461924573,
     "wof:geomhash":"541f129d599bf91bf952dcb7b9bdfa01",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797037,
+            "region_id":85688535,
+            "venue_id":740016785
+        }
+    ],
     "wof:id":740016785,
-    "wof:lastmodified":1466462803,
+    "wof:lastmodified":1486668149,
     "wof:name":"First Baptist Ch Stewardship",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

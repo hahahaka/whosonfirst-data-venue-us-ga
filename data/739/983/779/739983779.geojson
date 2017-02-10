@@ -2,9 +2,14 @@
   "id": 739983779,
   "type": "Feature",
   "properties": {
+    "addr:full":"1045 Research Center Dr. SW Suite A Atlanta GA 30331",
+    "addr:housenumber":"1045",
+    "addr:postcode":"30331",
+    "addr:street":"Research Center Dr. Sw Suite A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.543187,33.698565,-84.543187,33.698565",
     "geom:latitude":33.698565,
     "geom:longitude":-84.543187,
@@ -36,7 +41,15 @@
     ],
     "sg:website":"www.opare.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108798537,
+        102191575,
+        1108797035,
+        85633793,
+        85936429,
+        102083603,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Rl5t1uLlzTeegXCcl7GXG_33.698565_-84.543187@1303262622"
@@ -44,11 +57,22 @@
     "wof:country":"US",
     "wof:created":1461923295,
     "wof:geomhash":"9145a515de3ea21b3e266ee220072d17",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798537,
+            "region_id":85688535,
+            "venue_id":739983779
+        }
+    ],
     "wof:id":739983779,
-    "wof:lastmodified":1466479500,
+    "wof:lastmodified":1486672736,
     "wof:name":"Opare Integrative Health Care",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108798537,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

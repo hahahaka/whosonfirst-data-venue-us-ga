@@ -2,9 +2,14 @@
   "id": 739926589,
   "type": "Feature",
   "properties": {
+    "addr:full":"2928 Habersham Rd NW Atlanta GA 30305",
+    "addr:housenumber":"2928",
+    "addr:postcode":"30305",
+    "addr:street":"Habersham Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.395993,33.834419,-84.395993,33.834419",
     "geom:latitude":33.834419,
     "geom:longitude":-84.395993,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872111,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872111
+        85688535,
+        1108798197
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,26 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872111,
+            "region_id":85688535,
+            "venue_id":739926589
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":1108798197,
             "region_id":85688535,
             "venue_id":739926589
         }
     ],
     "wof:id":739926589,
-    "wof:lastmodified":1466478647,
+    "wof:lastmodified":1486672351,
     "wof:name":"Dk-Jd Holdings Inc",
-    "wof:parent_id":85872111,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

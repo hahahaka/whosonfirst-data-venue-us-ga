@@ -2,9 +2,14 @@
   "id": 723352731,
   "type": "Feature",
   "properties": {
+    "addr:full":"225 Clifton St SE Atlanta GA 30317",
+    "addr:housenumber":"225",
+    "addr:postcode":"30317",
+    "addr:street":"Clifton St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.332038,33.744172,-84.332038,33.744172",
     "geom:latitude":33.744172,
     "geom:longitude":-84.332038,
@@ -24,7 +29,13 @@
     "sg:postcode":"30317",
     "sg:province":"GA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        102084539,
+        420558365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cEfjeSPTrPVQzwVP3IDe7_33.744172_-84.332038@1294087602"
@@ -32,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461900048,
     "wof:geomhash":"506e04e517ade03a9bf3f7553d3ae5bc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":420558365,
+            "region_id":85688535,
+            "venue_id":723352731
+        }
+    ],
     "wof:id":723352731,
-    "wof:lastmodified":1466471885,
+    "wof:lastmodified":1486667196,
     "wof:name":"Abandoned Motor Vehicles Inc",
     "wof:parent_id":420558365,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 740017045,
   "type": "Feature",
   "properties": {
+    "addr:full":"3685 Ruby H Harper Blvd SE Atlanta GA 30354",
+    "addr:housenumber":"3685;h",
+    "addr:postcode":"30354",
+    "addr:street":"Ruby;Harper Blvd Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.380582,33.653114,-84.380582,33.653114",
     "geom:latitude":33.653114,
     "geom:longitude":-84.380582,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420784729,
         102191575,
+        1108797037,
         85633793,
         85936429,
         102083603,
-        85851825
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85851825,
+            "macrohood_id":1108797037,
+            "neighbourhood_id":420784729,
             "region_id":85688535,
             "venue_id":740017045
         }
     ],
     "wof:id":740017045,
-    "wof:lastmodified":1466463008,
+    "wof:lastmodified":1486672121,
     "wof:name":"Mako Refrigeration",
-    "wof:parent_id":85851825,
+    "wof:parent_id":420784729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

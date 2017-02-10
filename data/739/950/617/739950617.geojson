@@ -2,9 +2,14 @@
   "id": 739950617,
   "type": "Feature",
   "properties": {
+    "addr:full":"575 Boulevard SE Atlanta GA 30312",
+    "addr:housenumber":"575",
+    "addr:postcode":"30312",
+    "addr:street":"Boulevard Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.368506,33.738774,-84.368506,33.738774",
     "geom:latitude":33.738774,
     "geom:longitude":-84.368506,
@@ -29,12 +34,13 @@
     "sg:website":"www.thedairproject.org/HTMLfiles...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85866905,
         102191575,
+        1108797037,
         85633793,
         85936429,
         102083603,
-        85866905
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797037,
             "neighbourhood_id":85866905,
             "region_id":85688535,
             "venue_id":739950617
         }
     ],
     "wof:id":739950617,
-    "wof:lastmodified":1466479050,
+    "wof:lastmodified":1486668182,
     "wof:name":"DAIR",
     "wof:parent_id":85866905,
     "wof:placetype":"venue",

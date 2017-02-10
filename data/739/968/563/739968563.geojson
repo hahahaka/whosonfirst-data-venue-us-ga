@@ -2,9 +2,14 @@
   "id": 739968563,
   "type": "Feature",
   "properties": {
+    "addr:full":"3315 Peachtree Rd NE Atlanta GA 30326",
+    "addr:housenumber":"3315",
+    "addr:postcode":"30326",
+    "addr:street":"Peachtree Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.368988,33.845119,-84.368988,33.845119",
     "geom:latitude":33.845119,
     "geom:longitude":-84.368988,
@@ -43,12 +48,13 @@
     "sg:website":"http://ad.doubleclick.net/clk;222817169;46581827;s?http://www.intercontinental.com/redirect?path=hd&brandCode=ic&hotelCode=atlbh&_PMID=99601036&cm_mmc=mdpr-_-yellowpages-_-ic-_-atlbh",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872063,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872063
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,13 +69,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872063,
             "region_id":85688535,
             "venue_id":739968563
         }
     ],
     "wof:id":739968563,
-    "wof:lastmodified":1466479241,
+    "wof:lastmodified":1486668407,
     "wof:name":"InterContinental Buckhead Atlanta",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",

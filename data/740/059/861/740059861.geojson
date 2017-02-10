@@ -2,6 +2,10 @@
   "id": 740059861,
   "type": "Feature",
   "properties": {
+    "addr:full":"7805 Abercorn St Ste 21 Savannah GA 31406",
+    "addr:housenumber":"7805;21",
+    "addr:postcode":"31406",
+    "addr:street":"Abercorn St Ste",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":740059861,
-    "wof:lastmodified":1466465907,
+    "wof:lastmodified":1472618174,
     "wof:name":"T-Mobile",
     "wof:parent_id":85890047,
     "wof:placetype":"venue",

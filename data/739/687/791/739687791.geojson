@@ -2,9 +2,14 @@
   "id": 739687791,
   "type": "Feature",
   "properties": {
+    "addr:full":"926 Winall Down Rd NE Atlanta GA 30319",
+    "addr:housenumber":"926",
+    "addr:postcode":"30319",
+    "addr:street":"Winall Down Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.357017,33.864421,-84.357017,33.864421",
     "geom:latitude":33.864421,
     "geom:longitude":-84.357017,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420784711,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85889983
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85889983,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":420784711,
             "region_id":85688535,
             "venue_id":739687791
         }
     ],
     "wof:id":739687791,
-    "wof:lastmodified":1466473686,
+    "wof:lastmodified":1486672053,
     "wof:name":"Deyonker Real Estate Group",
-    "wof:parent_id":85889983,
+    "wof:parent_id":420784711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

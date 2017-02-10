@@ -2,6 +2,10 @@
   "id": 740033981,
   "type": "Feature",
   "properties": {
+    "addr:full":"196 Alps Rd Ste 42A Athens GA 30606",
+    "addr:housenumber":"196;42a",
+    "addr:postcode":"30606",
+    "addr:street":"Alps Rd Ste",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":740033981,
-    "wof:lastmodified":1466463883,
+    "wof:lastmodified":1472617996,
     "wof:name":"T-Mobile",
     "wof:parent_id":85802413,
     "wof:placetype":"venue",

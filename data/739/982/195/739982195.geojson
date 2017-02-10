@@ -2,9 +2,14 @@
   "id": 739982195,
   "type": "Feature",
   "properties": {
+    "addr:full":"3640 Bakers Ferry Rd SW Atlanta GA 30331",
+    "addr:housenumber":"3640",
+    "addr:postcode":"30331",
+    "addr:street":"Bakers Ferry Rd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.507125,33.759712,-84.507125,33.759712",
     "geom:latitude":33.759712,
     "geom:longitude":-84.507125,
@@ -29,7 +34,15 @@
     ],
     "sg:website":"http://www.libertytax.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108798373,
+        102191575,
+        1108797035,
+        85633793,
+        85936429,
+        102083603,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_476xiRxzyWzhzQv8sX4B3A_33.759712_-84.507125@1303262622"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1461923217,
     "wof:geomhash":"dae4a0a2ecadf85a7bd9b62b7e4c1664",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798373,
+            "region_id":85688535,
+            "venue_id":739982195
+        }
+    ],
     "wof:id":739982195,
-    "wof:lastmodified":1466479496,
+    "wof:lastmodified":1486672525,
     "wof:name":"Liberty Tax Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108798373,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

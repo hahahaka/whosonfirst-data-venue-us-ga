@@ -2,9 +2,14 @@
   "id": 739956687,
   "type": "Feature",
   "properties": {
+    "addr:full":"508 Flat Shoals Ave Atlanta GA 30316",
+    "addr:housenumber":"508",
+    "addr:postcode":"30316",
+    "addr:street":"Flat Shoals Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.34555,33.740304,-84.34555,33.740304",
     "geom:latitude":33.740304,
     "geom:longitude":-84.34555,
@@ -28,7 +33,16 @@
     ],
     "sg:website":"www.outofhandtheater.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108798133,
+        85815915,
+        102191575,
+        1108797045,
+        85633793,
+        85936429,
+        102083603,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7460ddcDgBUI9BfUNbwVIk_33.740304_-84.345550@1303262615"
@@ -36,11 +50,23 @@
     "wof:country":"US",
     "wof:created":1461922252,
     "wof:geomhash":"f3870199ad86a77f5f0c237ebcfafd74",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "microhood_id":1108798133,
+            "neighbourhood_id":85815915,
+            "region_id":85688535,
+            "venue_id":739956687
+        }
+    ],
     "wof:id":739956687,
-    "wof:lastmodified":1466479067,
+    "wof:lastmodified":1486682680,
     "wof:name":"Out of Hand Theater",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108798133,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

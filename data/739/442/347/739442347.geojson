@@ -2,9 +2,14 @@
   "id": 739442347,
   "type": "Feature",
   "properties": {
+    "addr:full":"2342 Ben Hill Rd Atlanta GA 30311",
+    "addr:housenumber":"2342",
+    "addr:postcode":"30311",
+    "addr:street":"Ben Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.484215,33.691301,-84.484215,33.691301",
     "geom:latitude":33.691301,
     "geom:longitude":-84.484215,
@@ -28,10 +33,12 @@
         85688535,
         102191575,
         85633793,
-        85936429,
+        85937155,
         102083603,
         85822133,
-        85872085
+        85872085,
+        1108797035,
+        85936429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +52,7 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083603,
-            "locality_id":85936429,
+            "locality_id":85937155,
             "neighbourhood_id":85822133,
             "region_id":85688535,
             "venue_id":739442347
@@ -55,15 +62,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":85872085,
             "region_id":85688535,
             "venue_id":739442347
         }
     ],
     "wof:id":739442347,
-    "wof:lastmodified":1466467297,
+    "wof:lastmodified":1486667785,
     "wof:name":"Mc Coy Properties",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

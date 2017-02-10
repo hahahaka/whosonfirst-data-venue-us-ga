@@ -2,9 +2,14 @@
   "id": 739400897,
   "type": "Feature",
   "properties": {
+    "addr:full":"93 Mortimer St SE Atlanta GA 30317",
+    "addr:housenumber":"93",
+    "addr:postcode":"30317",
+    "addr:street":"Mortimer St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.348203,33.75069,-84.348203,33.75069",
     "geom:latitude":33.75069,
     "geom:longitude":-84.348203,
@@ -32,7 +37,14 @@
         "investor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        1108797045,
+        85633793,
+        85936429,
+        102083603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jDvdtbu0i6dfSlTA3dQ5M_33.750690_-84.348203@1294087602"
@@ -40,9 +52,19 @@
     "wof:country":"US",
     "wof:created":1461906597,
     "wof:geomhash":"f93bf9a973be67a4ae95bc6d891b03b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "region_id":85688535,
+            "venue_id":739400897
+        }
+    ],
     "wof:id":739400897,
-    "wof:lastmodified":1466466418,
+    "wof:lastmodified":1486670474,
     "wof:name":"Turnipseed Investment Group LL",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

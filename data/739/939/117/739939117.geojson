@@ -2,9 +2,14 @@
   "id": 739939117,
   "type": "Feature",
   "properties": {
+    "addr:full":"1819 Peachtree Rd NE Ste 201 Atlanta GA 30309",
+    "addr:housenumber":"1819",
+    "addr:postcode":"30309",
+    "addr:street":"Peachtree Rd Ne Ste 201",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.393501,33.804798,-84.393501,33.804798",
     "geom:latitude":33.804798,
     "geom:longitude":-84.393501,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85807999,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85807999
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85807999,
             "region_id":85688535,
             "venue_id":739939117
         }
     ],
     "wof:id":739939117,
-    "wof:lastmodified":1466478734,
+    "wof:lastmodified":1486668516,
     "wof:name":"Gaston W Wylie Brookwood Group",
     "wof:parent_id":85807999,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 739956721,
   "type": "Feature",
   "properties": {
+    "addr:full":"492-A Flat Shoals Ave Atlanta GA 30316",
+    "addr:housenumber":"492-a",
+    "addr:postcode":"30316",
+    "addr:street":"Flat Shoals Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.345698,33.740879,-84.345698,33.740879",
     "geom:latitude":33.740879,
     "geom:longitude":-84.345698,
@@ -37,7 +42,16 @@
     ],
     "sg:website":"www.cigarvillageatl.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108798133,
+        85815915,
+        102191575,
+        1108797045,
+        85633793,
+        85936429,
+        102083603,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14aiMI6xyS4SOn6PUAhxO3_33.740879_-84.345698@1303262615"
@@ -45,11 +59,23 @@
     "wof:country":"US",
     "wof:created":1461922253,
     "wof:geomhash":"288c0f3f27de0d8b92d9e4372d6bd62e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "microhood_id":1108798133,
+            "neighbourhood_id":85815915,
+            "region_id":85688535,
+            "venue_id":739956721
+        }
+    ],
     "wof:id":739956721,
-    "wof:lastmodified":1466479074,
+    "wof:lastmodified":1486682680,
     "wof:name":"Cigar Village",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108798133,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

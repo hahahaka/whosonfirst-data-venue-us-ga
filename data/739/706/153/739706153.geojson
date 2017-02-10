@@ -2,9 +2,14 @@
   "id": 739706153,
   "type": "Feature",
   "properties": {
+    "addr:full":"397 Englewood Ave SE Atlanta GA 30315",
+    "addr:housenumber":"397",
+    "addr:postcode":"30315",
+    "addr:street":"Englewood Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.375736,33.721916,-84.375736,33.721916",
     "geom:latitude":33.721916,
     "geom:longitude":-84.375736,
@@ -25,13 +30,15 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872059,
         102191575,
+        1108797037,
         85633793,
         85936429,
         102083603,
+        85688535,
         85841265,
-        85872059
+        1108798249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,6 +53,17 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797037,
+            "neighbourhood_id":85872059,
+            "region_id":85688535,
+            "venue_id":739706153
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797037,
             "neighbourhood_id":85841265,
             "region_id":85688535,
             "venue_id":739706153
@@ -55,15 +73,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872059,
+            "macrohood_id":1108797037,
+            "neighbourhood_id":1108798249,
             "region_id":85688535,
             "venue_id":739706153
         }
     ],
     "wof:id":739706153,
-    "wof:lastmodified":1466474224,
+    "wof:lastmodified":1486672409,
     "wof:name":"Romeros Boutique",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

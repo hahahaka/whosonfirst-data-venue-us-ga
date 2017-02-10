@@ -2,9 +2,14 @@
   "id": 722918131,
   "type": "Feature",
   "properties": {
+    "addr:full":"2800 Forrest Park Rd SE Atlanta GA 30354",
+    "addr:housenumber":"2800",
+    "addr:postcode":"30354",
+    "addr:street":"Forrest Park Rd Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.356573,33.672065,-84.356573,33.672065",
     "geom:latitude":33.672065,
     "geom:longitude":-84.356573,
@@ -32,12 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420784727,
         102191575,
+        1108797037,
         85633793,
         85936429,
         102083603,
-        420517943
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +58,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":420517943,
+            "macrohood_id":1108797037,
+            "neighbourhood_id":420784727,
             "region_id":85688535,
             "venue_id":722918131
         }
     ],
     "wof:id":722918131,
-    "wof:lastmodified":1466473199,
+    "wof:lastmodified":1486672115,
     "wof:name":"C S E",
-    "wof:parent_id":420517943,
+    "wof:parent_id":420784727,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

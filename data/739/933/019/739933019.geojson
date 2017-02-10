@@ -2,9 +2,14 @@
   "id": 739933019,
   "type": "Feature",
   "properties": {
+    "addr:full":"74 Waddell St NE Atlanta GA 30307",
+    "addr:housenumber":"74",
+    "addr:postcode":"30307",
+    "addr:street":"Waddell St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.363221,33.756269,-84.363221,33.756269",
     "geom:latitude":33.756269,
     "geom:longitude":-84.363221,
@@ -31,13 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872125,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85872109,
-        85872125
+        85688535,
+        85872109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +58,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872109,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":85872125,
             "region_id":85688535,
             "venue_id":739933019
         },
@@ -61,15 +68,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872125,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":85872109,
             "region_id":85688535,
             "venue_id":739933019
         }
     ],
     "wof:id":739933019,
-    "wof:lastmodified":1466478548,
+    "wof:lastmodified":1486669915,
     "wof:name":"Druid Assoc Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 723223383,
   "type": "Feature",
   "properties": {
+    "addr:full":"1009 Washington St SW Atlanta GA 30315",
+    "addr:housenumber":"1009",
+    "addr:postcode":"30315",
+    "addr:street":"Washington St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.391076,33.726332,-84.391076,33.726332",
     "geom:latitude":33.726332,
     "geom:longitude":-84.391076,
@@ -29,13 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85833641,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
+        85688535,
         85841265,
-        85833641
+        1108797037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +57,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85841265,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":85833641,
             "region_id":85688535,
             "venue_id":723223383
         },
@@ -59,15 +67,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85833641,
+            "macrohood_id":1108797037,
+            "neighbourhood_id":85841265,
             "region_id":85688535,
             "venue_id":723223383
         }
     ],
     "wof:id":723223383,
-    "wof:lastmodified":1466468790,
+    "wof:lastmodified":1486668104,
     "wof:name":"Hfr & Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 723020513,
   "type": "Feature",
   "properties": {
+    "addr:full":"4465 Danforth Rd SW Atlanta GA 30331",
+    "addr:housenumber":"4465",
+    "addr:postcode":"30331",
+    "addr:street":"Danforth Rd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.532523,33.726299,-84.532523,33.726299",
     "geom:latitude":33.726299,
     "geom:longitude":-84.532523,
@@ -29,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420517925,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        420517925
+        85688535,
+        1108798467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,26 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":420517925,
+            "region_id":85688535,
+            "venue_id":723020513
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798467,
             "region_id":85688535,
             "venue_id":723020513
         }
     ],
     "wof:id":723020513,
-    "wof:lastmodified":1466462045,
+    "wof:lastmodified":1486672652,
     "wof:name":"Flow-Tec Plumbing Co",
-    "wof:parent_id":420517925,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

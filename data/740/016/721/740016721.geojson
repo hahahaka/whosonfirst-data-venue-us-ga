@@ -2,9 +2,14 @@
   "id": 740016721,
   "type": "Feature",
   "properties": {
+    "addr:full":"2739 Waters Road SW Atlanta GA 30354",
+    "addr:housenumber":"2739",
+    "addr:postcode":"30354",
+    "addr:street":"Waters Road Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.390427,33.678907,-84.390427,33.678907",
     "geom:latitude":33.678907,
     "geom:longitude":-84.390427,
@@ -30,10 +35,10 @@
     "wof:belongsto":[
         85688535,
         102191575,
+        1108797037,
         85633793,
         85936429,
-        102083603,
-        85808085
+        102083603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +53,15 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85808085,
+            "macrohood_id":1108797037,
             "region_id":85688535,
             "venue_id":740016721
         }
     ],
     "wof:id":740016721,
-    "wof:lastmodified":1466462790,
+    "wof:lastmodified":1486671475,
     "wof:name":"Shaheed's Construction Company",
-    "wof:parent_id":85808085,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

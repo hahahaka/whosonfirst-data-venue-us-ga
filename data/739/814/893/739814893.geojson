@@ -2,6 +2,10 @@
   "id": 739814893,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Camellia Ln Apt 1027 Lithonia GA 30058",
+    "addr:housenumber":"100",
+    "addr:postcode":"1027;30058",
+    "addr:street":"Camellia Ln Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":739814893,
-    "wof:lastmodified":1466476805,
+    "wof:lastmodified":1472619392,
     "wof:name":"Mobile Drug Testing",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",

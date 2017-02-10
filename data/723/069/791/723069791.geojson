@@ -2,9 +2,14 @@
   "id": 723069791,
   "type": "Feature",
   "properties": {
+    "addr:full":"165 Alexander St NW Atlanta GA 30313",
+    "addr:housenumber":"165",
+    "addr:postcode":"30313",
+    "addr:street":"Alexander St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.392327,33.764742,-84.392327,33.764742",
     "geom:latitude":33.764742,
     "geom:longitude":-84.392327,
@@ -30,13 +35,14 @@
     "sg:website":"www.aumcares.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108797047,
+        85866901,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85872133,
-        85807911
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,24 +57,17 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872133,
-            "region_id":85688535,
-            "venue_id":723069791
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083603,
-            "locality_id":85936429,
-            "neighbourhood_id":85807911,
+            "macrohood_id":1108797045,
+            "microhood_id":1108797047,
+            "neighbourhood_id":85866901,
             "region_id":85688535,
             "venue_id":723069791
         }
     ],
     "wof:id":723069791,
-    "wof:lastmodified":1466464072,
+    "wof:lastmodified":1486682349,
     "wof:name":"Atlanta Union Mission Thrift",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108797047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

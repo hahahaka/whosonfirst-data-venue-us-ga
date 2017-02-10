@@ -2,9 +2,14 @@
   "id": 739956349,
   "type": "Feature",
   "properties": {
+    "addr:full":"1166 Woodland Ave SE Atlanta GA 30316",
+    "addr:housenumber":"1166",
+    "addr:postcode":"30316",
+    "addr:street":"Woodland Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.353219,33.722463,-84.353219,33.722463",
     "geom:latitude":33.722463,
     "geom:longitude":-84.353219,
@@ -32,12 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872151,
         102191575,
+        1108797037,
         85633793,
         85936429,
         102083603,
-        85872151
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +58,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797037,
             "neighbourhood_id":85872151,
             "region_id":85688535,
             "venue_id":739956349
         }
     ],
     "wof:id":739956349,
-    "wof:lastmodified":1466479002,
+    "wof:lastmodified":1486668185,
     "wof:name":"Shanti Glassworks",
     "wof:parent_id":85872151,
     "wof:placetype":"venue",

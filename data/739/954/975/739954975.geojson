@@ -2,9 +2,14 @@
   "id": 739954975,
   "type": "Feature",
   "properties": {
+    "addr:full":"1255 S River Industrial Blvd SE Atlanta GA 30315",
+    "addr:housenumber":"1255",
+    "addr:postcode":"30315",
+    "addr:street":"S River Industrial Blvd Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.349685,33.682963,-84.349685,33.682963",
     "geom:latitude":33.682963,
     "geom:longitude":-84.349685,
@@ -64,7 +69,15 @@
     ],
     "sg:website":"http://www.metrotrailer.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108798219,
+        102191575,
+        1108797037,
+        85633793,
+        85936429,
+        102083603,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Vwk8VtFRJXh4mGnKBOCxu_33.682963_-84.349685@1303262615"
@@ -72,11 +85,22 @@
     "wof:country":"US",
     "wof:created":1461922183,
     "wof:geomhash":"c6003a6cdca0a48bd311f30080f459a1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797037,
+            "neighbourhood_id":1108798219,
+            "region_id":85688535,
+            "venue_id":739954975
+        }
+    ],
     "wof:id":739954975,
-    "wof:lastmodified":1466479118,
+    "wof:lastmodified":1486672386,
     "wof:name":"Metro Trailer Leasing Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108798219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

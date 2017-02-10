@@ -2,9 +2,14 @@
   "id": 739957981,
   "type": "Feature",
   "properties": {
+    "addr:full":"2462 Memorial Dr SE Atlanta GA 30317",
+    "addr:housenumber":"2462",
+    "addr:postcode":"30317",
+    "addr:street":"Memorial Dr Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.306092,33.747226,-84.306092,33.747226",
     "geom:latitude":33.747226,
     "geom:longitude":-84.306092,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
-        85633793,
         85816491,
-        102084539
+        102191575,
+        1108797045,
+        85633793,
+        85936429,
+        102083603,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +50,18 @@
     "wof:geomhash":"2a00084d707b3e85986180227cab8bb0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084539,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85816491,
             "region_id":85688535,
             "venue_id":739957981
         }
     ],
     "wof:id":739957981,
-    "wof:lastmodified":1466479117,
+    "wof:lastmodified":1486670180,
     "wof:name":"Fit For Kids Foundation, Inc.",
     "wof:parent_id":85816491,
     "wof:placetype":"venue",

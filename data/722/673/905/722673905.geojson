@@ -2,9 +2,14 @@
   "id": 722673905,
   "type": "Feature",
   "properties": {
+    "addr:full":"119 Elysian Way NW Atlanta GA 30327",
+    "addr:housenumber":"119",
+    "addr:postcode":"30327",
+    "addr:street":"Elysian Way Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.425325,33.820371,-84.425325,33.820371",
     "geom:latitude":33.820371,
     "geom:longitude":-84.425325,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872079,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872079
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872079,
             "region_id":85688535,
             "venue_id":722673905
         }
     ],
     "wof:id":722673905,
-    "wof:lastmodified":1466466854,
+    "wof:lastmodified":1486671446,
     "wof:name":"Vonnlee Enterprises Inc",
     "wof:parent_id":85872079,
     "wof:placetype":"venue",

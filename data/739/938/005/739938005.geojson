@@ -2,9 +2,14 @@
   "id": 739938005,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Ponce De Leon Avenue NE Atlanta GA 30308",
+    "addr:housenumber":"101",
+    "addr:postcode":"30308",
+    "addr:street":"Ponce De Leon Avenue Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.377765,33.771251,-84.377765,33.771251",
     "geom:latitude":33.771251,
     "geom:longitude":-84.377765,
@@ -25,12 +30,14 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798129,
+        85872109,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85889947
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,17 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85889947,
+            "macrohood_id":1108797045,
+            "microhood_id":1108798129,
+            "neighbourhood_id":85872109,
             "region_id":85688535,
             "venue_id":739938005
         }
     ],
     "wof:id":739938005,
-    "wof:lastmodified":1466478726,
+    "wof:lastmodified":1486682676,
     "wof:name":"Egleston Children's Hospital At Emory University",
-    "wof:parent_id":85889947,
+    "wof:parent_id":1108798129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

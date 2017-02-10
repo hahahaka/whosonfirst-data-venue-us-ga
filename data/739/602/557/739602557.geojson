@@ -2,9 +2,14 @@
   "id": 739602557,
   "type": "Feature",
   "properties": {
+    "addr:full":"2179 Cheshire Bridge Rd Atlanta GA 30324",
+    "addr:housenumber":"2179",
+    "addr:postcode":"30324",
+    "addr:street":"Cheshire Bridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.353694,33.813423,-84.353694,33.813423",
     "geom:latitude":33.813423,
     "geom:longitude":-84.353694,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85889987,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85889987
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85889987,
             "region_id":85688535,
             "venue_id":739602557
         }
     ],
     "wof:id":739602557,
-    "wof:lastmodified":1466471663,
+    "wof:lastmodified":1486669272,
     "wof:name":"Video Store Mex America #2",
     "wof:parent_id":85889987,
     "wof:placetype":"venue",

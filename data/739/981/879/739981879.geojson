@@ -2,9 +2,14 @@
   "id": 739981879,
   "type": "Feature",
   "properties": {
+    "addr:full":"1322 Cobb St SW Bldg 181 Atlanta GA 30330",
+    "addr:housenumber":"1322;181",
+    "addr:postcode":"30330",
+    "addr:street":"Cobb St Sw Bldg",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.43074,33.711603,-84.43074,33.711603",
     "geom:latitude":33.711603,
     "geom:longitude":-84.43074,
@@ -29,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420517931,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        420517931
+        85688535,
+        1108798251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,26 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":420517931,
+            "region_id":85688535,
+            "venue_id":739981879
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798251,
             "region_id":85688535,
             "venue_id":739981879
         }
     ],
     "wof:id":739981879,
-    "wof:lastmodified":1466479565,
+    "wof:lastmodified":1486672414,
     "wof:name":"Us Army Installation Supp",
-    "wof:parent_id":420517931,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

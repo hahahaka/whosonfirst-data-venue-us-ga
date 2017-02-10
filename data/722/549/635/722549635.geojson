@@ -2,9 +2,14 @@
   "id": 722549635,
   "type": "Feature",
   "properties": {
+    "addr:full":"448 Ralph David Abernathy Blvd Atlanta GA 30312",
+    "addr:housenumber":"448",
+    "addr:postcode":"30312",
+    "addr:street":"Ralph David Abernathy Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.402703,33.736947,-84.402703,33.736947",
     "geom:latitude":33.736947,
     "geom:longitude":-84.402703,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85833641,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        85833641
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":85833641,
             "region_id":85688535,
             "venue_id":722549635
         }
     ],
     "wof:id":722549635,
-    "wof:lastmodified":1466462077,
+    "wof:lastmodified":1486667771,
     "wof:name":"A Pro Services of America",
     "wof:parent_id":85833641,
     "wof:placetype":"venue",

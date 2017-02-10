@@ -2,9 +2,14 @@
   "id": 723426211,
   "type": "Feature",
   "properties": {
+    "addr:full":"2085 Howell Mill Rd Atlanta GA 30318",
+    "addr:housenumber":"2085",
+    "addr:postcode":"30318",
+    "addr:street":"Howell Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.413042,33.811248,-84.413042,33.811248",
     "geom:latitude":33.811248,
     "geom:longitude":-84.413042,
@@ -28,14 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798203,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872135,
+        85688535,
+        85872149,
         85872075,
-        85872149
+        85872135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +57,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872135,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":1108798203,
             "region_id":85688535,
             "venue_id":723426211
         },
@@ -59,6 +67,17 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":85872149,
+            "region_id":85688535,
+            "venue_id":723426211
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872075,
             "region_id":85688535,
             "venue_id":723426211
@@ -68,15 +87,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872149,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":85872135,
             "region_id":85688535,
             "venue_id":723426211
         }
     ],
     "wof:id":723426211,
-    "wof:lastmodified":1466473762,
+    "wof:lastmodified":1486672358,
     "wof:name":"Vacation Resort Graphic",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

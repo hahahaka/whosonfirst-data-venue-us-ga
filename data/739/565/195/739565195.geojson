@@ -2,9 +2,14 @@
   "id": 739565195,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Plasters Ave NE Atlanta GA 30324",
+    "addr:housenumber":"500",
+    "addr:postcode":"30324",
+    "addr:street":"Plasters Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.374851,33.810614,-84.374851,33.810614",
     "geom:latitude":33.810614,
     "geom:longitude":-84.374851,
@@ -28,13 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798507,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85832987,
-        85872115
+        85688535,
+        85872115,
+        1108797045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +56,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85832987,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":1108798507,
             "region_id":85688535,
             "venue_id":739565195
         },
@@ -58,15 +66,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85872115,
             "region_id":85688535,
             "venue_id":739565195
         }
     ],
     "wof:id":739565195,
-    "wof:lastmodified":1466470796,
+    "wof:lastmodified":1486672683,
     "wof:name":"Tribune Creative Svcs Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

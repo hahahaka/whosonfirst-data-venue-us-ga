@@ -2,6 +2,10 @@
   "id": 740004469,
   "type": "Feature",
   "properties": {
+    "addr:full":"5620 Roswell Rd NE Suite 110 Atlanta GA 30342",
+    "addr:housenumber":"5620;rd ne suite 110",
+    "addr:postcode":"30342",
+    "addr:street":"Roswell",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":740004469,
-    "wof:lastmodified":1466461425,
+    "wof:lastmodified":1472617845,
     "wof:name":"Mattress Giant",
     "wof:parent_id":85890007,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 739953215,
   "type": "Feature",
   "properties": {
+    "addr:full":"825 Mrtn Lthr Kng Jr Drive # J Atlanta GA 30314",
+    "addr:housenumber":"825",
+    "addr:postcode":"30314",
+    "addr:street":"Mrtn Lthr;Jr Drive # J",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.426267,33.761124,-84.426267,33.761124",
     "geom:latitude":33.761124,
     "geom:longitude":-84.426267,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872091,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
-        85872091
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797043,
             "neighbourhood_id":85872091,
             "region_id":85688535,
             "venue_id":739953215
         }
     ],
     "wof:id":739953215,
-    "wof:lastmodified":1466478977,
+    "wof:lastmodified":1486669098,
     "wof:name":"Publix Super Markets",
     "wof:parent_id":85872091,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 723462059,
   "type": "Feature",
   "properties": {
+    "addr:full":"539 10th St NW Atlanta GA 30318",
+    "addr:housenumber":"539",
+    "addr:postcode":"30318",
+    "addr:street":"10Th St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.405271,33.781615,-84.405271,33.781615",
     "geom:latitude":33.781615,
     "geom:longitude":-84.405271,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420517947,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        420517947
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":420517947,
             "region_id":85688535,
             "venue_id":723462059
         }
     ],
     "wof:id":723462059,
-    "wof:lastmodified":1466474515,
+    "wof:lastmodified":1486670069,
     "wof:name":"Tara Burrough's Salon",
     "wof:parent_id":420517947,
     "wof:placetype":"venue",

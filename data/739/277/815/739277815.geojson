@@ -2,9 +2,14 @@
   "id": 739277815,
   "type": "Feature",
   "properties": {
+    "addr:full":"1954 Akron Dr SE Atlanta GA 30315",
+    "addr:housenumber":"1954",
+    "addr:postcode":"30315",
+    "addr:street":"Akron Dr Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.353047,33.701972,-84.353047,33.701972",
     "geom:latitude":33.701972,
     "geom:longitude":-84.353047,
@@ -32,12 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85852171,
         102191575,
+        1108797037,
         85633793,
         85936429,
         102083603,
-        85852171
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +58,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797037,
             "neighbourhood_id":85852171,
             "region_id":85688535,
             "venue_id":739277815
         }
     ],
     "wof:id":739277815,
-    "wof:lastmodified":1466462594,
+    "wof:lastmodified":1486670670,
     "wof:name":"Heavens Transit Systems",
     "wof:parent_id":85852171,
     "wof:placetype":"venue",

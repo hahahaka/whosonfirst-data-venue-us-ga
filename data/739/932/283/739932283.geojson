@@ -2,9 +2,14 @@
   "id": 739932283,
   "type": "Feature",
   "properties": {
+    "addr:full":"980 Rupley Dr NE Atlanta GA 30306",
+    "addr:housenumber":"980",
+    "addr:postcode":"30306",
+    "addr:street":"Rupley Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.35502,33.781539,-84.35502,33.781539",
     "geom:latitude":33.781539,
     "geom:longitude":-84.35502,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85853981,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85853981
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85853981,
             "region_id":85688535,
             "venue_id":739932283
         }
     ],
     "wof:id":739932283,
-    "wof:lastmodified":1466478592,
+    "wof:lastmodified":1486670259,
     "wof:name":"Pet Koolers",
     "wof:parent_id":85853981,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 739376653,
   "type": "Feature",
   "properties": {
+    "addr:full":"2971 Tribble Ln NW Atlanta GA 30311",
+    "addr:housenumber":"2971",
+    "addr:postcode":"30311",
+    "addr:street":"Tribble Ln Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.483983,33.759396,-84.483983,33.759396",
     "geom:latitude":33.759396,
     "geom:longitude":-84.483983,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798555,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        420559055
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":420559055,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798555,
             "region_id":85688535,
             "venue_id":739376653
         }
     ],
     "wof:id":739376653,
-    "wof:lastmodified":1466465464,
+    "wof:lastmodified":1486672752,
     "wof:name":"Candys Traveling Boutique",
-    "wof:parent_id":420559055,
+    "wof:parent_id":1108798555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739960091,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 Marietta St Suite 302 Atlanta GA 30318",
+    "addr:housenumber":"1000",
+    "addr:postcode":"30318",
+    "addr:street":"Marietta St Suite 302",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.411892,33.779758,-84.411892,33.779758",
     "geom:latitude":33.779758,
     "geom:longitude":-84.411892,
@@ -31,12 +36,13 @@
     "sg:website":"www.hopcitybeer.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85805581,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85805581
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85805581,
             "region_id":85688535,
             "venue_id":739960091
         }
     ],
     "wof:id":739960091,
-    "wof:lastmodified":1466479139,
+    "wof:lastmodified":1486669556,
     "wof:name":"Hop City",
     "wof:parent_id":85805581,
     "wof:placetype":"venue",

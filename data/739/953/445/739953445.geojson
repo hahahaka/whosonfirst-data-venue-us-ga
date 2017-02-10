@@ -2,9 +2,14 @@
   "id": 739953445,
   "type": "Feature",
   "properties": {
+    "addr:full":"168 Vine St NW Atlanta GA 30314",
+    "addr:housenumber":"168",
+    "addr:postcode":"30314",
+    "addr:street":"Vine St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.407768,33.75927,-84.407768,33.75927",
     "geom:latitude":33.75927,
     "geom:longitude":-84.407768,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85853903,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
-        85853903
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797043,
             "neighbourhood_id":85853903,
             "region_id":85688535,
             "venue_id":739953445
         }
     ],
     "wof:id":739953445,
-    "wof:lastmodified":1466479020,
+    "wof:lastmodified":1486669059,
     "wof:name":"The Bonds Of Gideon Prayer Band Inc",
     "wof:parent_id":85853903,
     "wof:placetype":"venue",

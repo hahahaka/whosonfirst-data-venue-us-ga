@@ -2,9 +2,14 @@
   "id": 722712101,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 18th St NW Atlanta GA 30309",
+    "addr:housenumber":"10",
+    "addr:postcode":"30309",
+    "addr:street":"18Th St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.387757,33.793316,-84.387757,33.793316",
     "geom:latitude":33.793316,
     "geom:longitude":-84.387757,
@@ -25,12 +30,15 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85807999,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872127
+        85688535,
+        85872127,
+        1108797045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +53,26 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":85807999,
+            "region_id":85688535,
+            "venue_id":722712101
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85872127,
             "region_id":85688535,
             "venue_id":722712101
         }
     ],
     "wof:id":722712101,
-    "wof:lastmodified":1466467560,
+    "wof:lastmodified":1486669940,
     "wof:name":"Arkhora Associates Inc",
-    "wof:parent_id":85872127,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

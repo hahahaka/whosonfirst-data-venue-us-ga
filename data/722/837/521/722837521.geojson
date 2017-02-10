@@ -2,9 +2,14 @@
   "id": 722837521,
   "type": "Feature",
   "properties": {
+    "addr:full":"1133 Euclid Ave NE Atlanta GA 30307",
+    "addr:housenumber":"1133",
+    "addr:postcode":"30307",
+    "addr:street":"Euclid Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.349369,33.765146,-84.349369,33.765146",
     "geom:latitude":33.765146,
     "geom:longitude":-84.349369,
@@ -30,11 +35,10 @@
     "wof:belongsto":[
         85688535,
         102191575,
+        1108797045,
         85633793,
         85936429,
-        102083603,
-        85866907,
-        85830819
+        102083603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,22 +53,13 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85866907,
-            "region_id":85688535,
-            "venue_id":722837521
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083603,
-            "locality_id":85936429,
-            "neighbourhood_id":85830819,
+            "macrohood_id":1108797045,
             "region_id":85688535,
             "venue_id":722837521
         }
     ],
     "wof:id":722837521,
-    "wof:lastmodified":1466470756,
+    "wof:lastmodified":1486669407,
     "wof:name":"Teaspace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

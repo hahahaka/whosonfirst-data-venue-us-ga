@@ -2,9 +2,14 @@
   "id": 739982899,
   "type": "Feature",
   "properties": {
+    "addr:full":"2849 Fairburn Rd SW Atlanta GA 30331",
+    "addr:housenumber":"2849",
+    "addr:postcode":"30331",
+    "addr:street":"Fairburn Rd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.517049,33.676001,-84.517049,33.676001",
     "geom:latitude":33.676001,
     "geom:longitude":-84.517049,
@@ -30,10 +35,10 @@
     "wof:belongsto":[
         85688535,
         102191575,
+        1108797035,
         85633793,
         85936429,
-        102083603,
-        420559629
+        102083603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +53,15 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":420559629,
+            "macrohood_id":1108797035,
             "region_id":85688535,
             "venue_id":739982899
         }
     ],
     "wof:id":739982899,
-    "wof:lastmodified":1466479634,
+    "wof:lastmodified":1486667816,
     "wof:name":"Georgia Crime Prevention Association, Inc.",
-    "wof:parent_id":420559629,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

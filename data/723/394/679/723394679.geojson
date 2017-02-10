@@ -2,9 +2,14 @@
   "id": 723394679,
   "type": "Feature",
   "properties": {
+    "addr:full":"1542 Alder Ct SE Atlanta GA 30317",
+    "addr:housenumber":"1542",
+    "addr:postcode":"30317",
+    "addr:street":"Alder Ct Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.333916,33.749492,-84.333916,33.749492",
     "geom:latitude":33.749492,
     "geom:longitude":-84.333916,
@@ -31,9 +36,12 @@
         85688535,
         102191575,
         85633793,
+        102084539,
+        420558365,
+        85817483,
+        1108797045,
         85936429,
-        102083603,
-        85817483
+        102083603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +54,26 @@
         {
             "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":420558365,
+            "region_id":85688535,
+            "venue_id":723394679
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85817483,
             "region_id":85688535,
             "venue_id":723394679
         }
     ],
     "wof:id":723394679,
-    "wof:lastmodified":1466473049,
+    "wof:lastmodified":1486669945,
     "wof:name":"My Personal Office",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

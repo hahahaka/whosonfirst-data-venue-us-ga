@@ -2,9 +2,14 @@
   "id": 739955287,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 Pavillion St SE Atlanta GA 30315",
+    "addr:housenumber":"315",
+    "addr:postcode":"30315",
+    "addr:street":"Pavillion St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.37737,33.735668,-84.37737,33.735668",
     "geom:latitude":33.735668,
     "geom:longitude":-84.37737,
@@ -34,13 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85866905,
         102191575,
+        1108797037,
         85633793,
         85936429,
         102083603,
-        85841265,
-        85866905
+        85688535,
+        85841265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +61,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85841265,
+            "macrohood_id":1108797037,
+            "neighbourhood_id":85866905,
             "region_id":85688535,
             "venue_id":739955287
         },
@@ -64,15 +71,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85866905,
+            "macrohood_id":1108797037,
+            "neighbourhood_id":85841265,
             "region_id":85688535,
             "venue_id":739955287
         }
     ],
     "wof:id":739955287,
-    "wof:lastmodified":1466478988,
+    "wof:lastmodified":1486668108,
     "wof:name":"County Road Mortgage Solutions",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

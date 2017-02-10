@@ -2,9 +2,14 @@
   "id": 739983881,
   "type": "Feature",
   "properties": {
+    "addr:full":"4093 Alex Dr SW Atlanta GA 30331",
+    "addr:housenumber":"4093",
+    "addr:postcode":"30331",
+    "addr:street":"Alex Dr Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.521763,33.751378,-84.521763,33.751378",
     "geom:latitude":33.751378,
     "geom:longitude":-84.521763,
@@ -27,7 +32,14 @@
         "osteopathic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        1108797035,
+        85633793,
+        85936429,
+        102083603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0C629fIYPqKAPSt8P1E6zv_33.751378_-84.521763@1303262622"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461923298,
     "wof:geomhash":"f3a4388e0f541739b67613c0dd3a6308",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797035,
+            "region_id":85688535,
+            "venue_id":739983881
+        }
+    ],
     "wof:id":739983881,
-    "wof:lastmodified":1466479502,
+    "wof:lastmodified":1486667888,
     "wof:name":"Graddy Do",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

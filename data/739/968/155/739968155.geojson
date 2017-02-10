@@ -2,9 +2,14 @@
   "id": 739968155,
   "type": "Feature",
   "properties": {
+    "addr:full":"3379 Peachtree Road NE Atlanta GA 30326",
+    "addr:housenumber":"3379",
+    "addr:postcode":"30326",
+    "addr:street":"Peachtree Road Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.366375,33.848665,-84.366375,33.848665",
     "geom:latitude":33.848665,
     "geom:longitude":-84.366375,
@@ -26,12 +31,13 @@
     "sg:website":"www.wmolaw.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872063,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872063
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872063,
             "region_id":85688535,
             "venue_id":739968155
         }
     ],
     "wof:id":739968155,
-    "wof:lastmodified":1466479158,
+    "wof:lastmodified":1486668320,
     "wof:name":"Lavinger Kathleen Atty",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",

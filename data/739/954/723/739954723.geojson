@@ -2,9 +2,14 @@
   "id": 739954723,
   "type": "Feature",
   "properties": {
+    "addr:full":"2155 Moreland Ave SE Atlanta GA 30315",
+    "addr:housenumber":"2155",
+    "addr:postcode":"30315",
+    "addr:street":"Moreland Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.34955,33.695493,-84.34955,33.695493",
     "geom:latitude":33.695493,
     "geom:longitude":-84.34955,
@@ -27,7 +32,14 @@
         "compressors-repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        1108797037,
+        85633793,
+        85936429,
+        102083603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xQCJRGW9PCBJpXckAkfiw_33.695493_-84.349550@1303262615"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461922164,
     "wof:geomhash":"0c864c54270e36596a66c5fc8571d0c9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797037,
+            "region_id":85688535,
+            "venue_id":739954723
+        }
+    ],
     "wof:id":739954723,
-    "wof:lastmodified":1466479069,
+    "wof:lastmodified":1486668231,
     "wof:name":"Air Compressor Service Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

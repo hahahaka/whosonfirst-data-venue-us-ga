@@ -2,9 +2,14 @@
   "id": 722545205,
   "type": "Feature",
   "properties": {
+    "addr:full":"3181 Bankhead Hwy NW Atlanta GA 30318",
+    "addr:housenumber":"3181",
+    "addr:postcode":"30318",
+    "addr:street":"Bankhead Hwy Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.489634,33.785525,-84.489634,33.785525",
     "geom:latitude":33.785525,
     "geom:longitude":-84.489634,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798349,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
-        85872073,
-        420558851
+        85688535,
+        85872073
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +55,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872073,
+            "macrohood_id":1108797043,
+            "neighbourhood_id":1108798349,
             "region_id":85688535,
             "venue_id":722545205
         },
@@ -58,15 +65,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":420558851,
+            "macrohood_id":1108797043,
+            "neighbourhood_id":85872073,
             "region_id":85688535,
             "venue_id":722545205
         }
     ],
     "wof:id":722545205,
-    "wof:lastmodified":1466461755,
+    "wof:lastmodified":1486672503,
     "wof:name":"Crete Carrier Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

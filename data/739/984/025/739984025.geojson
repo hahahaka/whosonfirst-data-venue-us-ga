@@ -2,9 +2,14 @@
   "id": 739984025,
   "type": "Feature",
   "properties": {
+    "addr:full":"3413 Maynard Ct NW Atlanta GA 30331",
+    "addr:housenumber":"3413",
+    "addr:postcode":"30331",
+    "addr:street":"Maynard Ct Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.50235,33.792381,-84.50235,33.792381",
     "geom:latitude":33.792381,
     "geom:longitude":-84.50235,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85804391,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
-        85804391
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797043,
             "neighbourhood_id":85804391,
             "region_id":85688535,
             "venue_id":739984025
         }
     ],
     "wof:id":739984025,
-    "wof:lastmodified":1466479589,
+    "wof:lastmodified":1486668994,
     "wof:name":"Marshall Walker Community Service Center",
     "wof:parent_id":85804391,
     "wof:placetype":"venue",

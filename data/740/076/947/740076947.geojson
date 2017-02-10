@@ -2,9 +2,14 @@
   "id": 740076947,
   "type": "Feature",
   "properties": {
+    "addr:full":"3399 Peachtree Road Suite 400 Atlanta GA 30326",
+    "addr:housenumber":"3399",
+    "addr:postcode":"30326",
+    "addr:street":"Peachtree Road Suite 400",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.36723,33.847944,-84.36723,33.847944",
     "geom:latitude":33.847944,
     "geom:longitude":-84.36723,
@@ -38,12 +43,13 @@
     "sg:website":"http://www.iresume.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872063,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872063
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,13 +64,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872063,
             "region_id":85688535,
             "venue_id":740076947
         }
     ],
     "wof:id":740076947,
-    "wof:lastmodified":1466466617,
+    "wof:lastmodified":1486668943,
     "wof:name":"iResume",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",

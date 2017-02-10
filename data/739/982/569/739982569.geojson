@@ -2,9 +2,14 @@
   "id": 739982569,
   "type": "Feature",
   "properties": {
+    "addr:full":"3430 Somerset Trl SW Atlanta GA 30331",
+    "addr:housenumber":"3430",
+    "addr:postcode":"30331",
+    "addr:street":"Somerset Trl Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.526656,33.660955,-84.526656,33.660955",
     "geom:latitude":33.660955,
     "geom:longitude":-84.526656,
@@ -29,7 +34,16 @@
     ],
     "sg:website":"http://www.bjdesigns.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        102083603,
+        420517997,
+        1108798481,
+        1108797035,
+        85936429
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NJXmCn6OiLan9GRtAZ3dr_33.660955_-84.526656@1303262622"
@@ -37,11 +51,30 @@
     "wof:country":"US",
     "wof:created":1461923239,
     "wof:geomhash":"52d0195c63f0caee4d67f9fd1a4f91fd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":420517997,
+            "region_id":85688535,
+            "venue_id":739982569
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798481,
+            "region_id":85688535,
+            "venue_id":739982569
+        }
+    ],
     "wof:id":739982569,
-    "wof:lastmodified":1466479612,
+    "wof:lastmodified":1486672664,
     "wof:name":"B J Designs",
-    "wof:parent_id":420517997,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

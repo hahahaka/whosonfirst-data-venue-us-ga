@@ -2,9 +2,14 @@
   "id": 739983399,
   "type": "Feature",
   "properties": {
+    "addr:full":"3419 Maynard Ct NW # 314 Atlanta GA 30331",
+    "addr:housenumber":"3419",
+    "addr:postcode":"30331",
+    "addr:street":"Maynard Ct Nw # 314",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.502894,33.791983,-84.502894,33.791983",
     "geom:latitude":33.791983,
     "geom:longitude":-84.502894,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85804391,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
-        85804391
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797043,
             "neighbourhood_id":85804391,
             "region_id":85688535,
             "venue_id":739983399
         }
     ],
     "wof:id":739983399,
-    "wof:lastmodified":1466479491,
+    "wof:lastmodified":1486668978,
     "wof:name":"Orthodocs",
     "wof:parent_id":85804391,
     "wof:placetype":"venue",

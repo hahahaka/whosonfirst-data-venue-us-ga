@@ -2,6 +2,10 @@
   "id": 740030471,
   "type": "Feature",
   "properties": {
+    "addr:full":"333 Rebel Cir 323 Dillard GA 30537",
+    "addr:housenumber":"333;323",
+    "addr:postcode":"30537",
+    "addr:street":"Rebel Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":740030471,
-    "wof:lastmodified":1466464063,
+    "wof:lastmodified":1472617959,
     "wof:name":"Toms Golf Service",
     "wof:parent_id":85821415,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 739959825,
   "type": "Feature",
   "properties": {
+    "addr:full":"1605 Marietta Blvd NW Atlanta GA 30318",
+    "addr:housenumber":"1605",
+    "addr:postcode":"30318",
+    "addr:street":"Marietta Blvd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.434254,33.798865,-84.434254,33.798865",
     "geom:latitude":33.798865,
     "geom:longitude":-84.434254,
@@ -30,13 +35,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85845437,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
+        85688535,
         85872135,
-        85845437
+        1108797041,
+        420784719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,6 +59,17 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797043,
+            "neighbourhood_id":85845437,
+            "region_id":85688535,
+            "venue_id":739959825
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872135,
             "region_id":85688535,
             "venue_id":739959825
@@ -60,15 +79,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85845437,
+            "macrohood_id":1108797043,
+            "neighbourhood_id":420784719,
             "region_id":85688535,
             "venue_id":739959825
         }
     ],
     "wof:id":739959825,
-    "wof:lastmodified":1466479290,
+    "wof:lastmodified":1486672094,
     "wof:name":"General Wholesale",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

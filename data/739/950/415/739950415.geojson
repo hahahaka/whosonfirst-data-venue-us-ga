@@ -2,9 +2,14 @@
   "id": 739950415,
   "type": "Feature",
   "properties": {
+    "addr:full":"309 Highland Ave NE Atlanta GA 30312",
+    "addr:housenumber":"309",
+    "addr:postcode":"30312",
+    "addr:street":"Highland Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.376302,33.761389,-84.376302,33.761389",
     "geom:latitude":33.761389,
     "geom:longitude":-84.376302,
@@ -20,12 +25,14 @@
     "sg:website":"http://www.frittirestaurant.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798129,
+        85872109,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85872065
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +47,17 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872065,
+            "macrohood_id":1108797045,
+            "microhood_id":1108798129,
+            "neighbourhood_id":85872109,
             "region_id":85688535,
             "venue_id":739950415
         }
     ],
     "wof:id":739950415,
-    "wof:lastmodified":1466479012,
+    "wof:lastmodified":1486682668,
     "wof:name":"Fritti",
-    "wof:parent_id":85872065,
+    "wof:parent_id":1108798129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

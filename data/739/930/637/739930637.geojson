@@ -2,9 +2,14 @@
   "id": 739930637,
   "type": "Feature",
   "properties": {
+    "addr:full":"3005 Peachtree Rd Ste 100 Atlanta GA 30305",
+    "addr:housenumber":"3005",
+    "addr:postcode":"30305",
+    "addr:street":"Peachtree Rd Ste 100",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.381158,33.836772,-84.381158,33.836772",
     "geom:latitude":33.836772,
     "geom:longitude":-84.381158,
@@ -35,12 +40,13 @@
     "sg:website":"www.bodysolutionsatlanta.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872111,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872111
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,13 +61,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872111,
             "region_id":85688535,
             "venue_id":739930637
         }
     ],
     "wof:id":739930637,
-    "wof:lastmodified":1466478656,
+    "wof:lastmodified":1486668521,
     "wof:name":"Body Solutions",
     "wof:parent_id":85872111,
     "wof:placetype":"venue",

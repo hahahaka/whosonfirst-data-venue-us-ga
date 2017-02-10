@@ -2,9 +2,14 @@
   "id": 740017487,
   "type": "Feature",
   "properties": {
+    "addr:full":"3515 Zip Industrial Boulevard Atlanta GA 30354",
+    "addr:housenumber":"3515",
+    "addr:postcode":"30354",
+    "addr:street":"Zip Industrial Boulevard",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.383786,33.659646,-84.383786,33.659646",
     "geom:latitude":33.659646,
     "geom:longitude":-84.383786,
@@ -39,12 +44,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420784729,
         102191575,
+        1108797037,
         85633793,
         85936429,
         102083603,
-        85851825
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,15 +65,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85851825,
+            "macrohood_id":1108797037,
+            "neighbourhood_id":420784729,
             "region_id":85688535,
             "venue_id":740017487
         }
     ],
     "wof:id":740017487,
-    "wof:lastmodified":1466463180,
+    "wof:lastmodified":1486672119,
     "wof:name":"El Progreso Warehouse",
-    "wof:parent_id":85851825,
+    "wof:parent_id":420784729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739958227,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 Lakeside Village Dr SE Atlanta GA 30317",
+    "addr:housenumber":"104",
+    "addr:postcode":"30317",
+    "addr:street":"Lakeside Village Dr Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.319009,33.747032,-84.319009,33.747032",
     "geom:latitude":33.747032,
     "geom:longitude":-84.319009,
@@ -27,7 +32,17 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        102084539,
+        420558365,
+        1108798215,
+        1108797045,
+        85936429,
+        102083603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5s7GsyCsfPGUKp4PBVd8WK_33.747032_-84.319009@1303262616"
@@ -35,11 +50,30 @@
     "wof:country":"US",
     "wof:created":1461922303,
     "wof:geomhash":"7a5109fbc5b7211dc4cbc6e2b147088c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "neighbourhood_id":420558365,
+            "region_id":85688535,
+            "venue_id":739958227
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":1108798215,
+            "region_id":85688535,
+            "venue_id":739958227
+        }
+    ],
     "wof:id":739958227,
-    "wof:lastmodified":1466478979,
+    "wof:lastmodified":1486672381,
     "wof:name":"Villages of Eastlake Credit Counseling",
-    "wof:parent_id":420558365,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

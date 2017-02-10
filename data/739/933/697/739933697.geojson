@@ -2,9 +2,14 @@
   "id": 739933697,
   "type": "Feature",
   "properties": {
+    "addr:full":"1410 Euclid Ave NE Atlanta GA 30307",
+    "addr:housenumber":"1410",
+    "addr:postcode":"30307",
+    "addr:street":"Euclid Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.342798,33.770384,-84.342798,33.770384",
     "geom:latitude":33.770384,
     "geom:longitude":-84.342798,
@@ -24,12 +29,14 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85815283,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85815283
+        85688535,
+        1108798213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +51,26 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85815283,
+            "region_id":85688535,
+            "venue_id":739933697
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":1108798213,
             "region_id":85688535,
             "venue_id":739933697
         }
     ],
     "wof:id":739933697,
-    "wof:lastmodified":1466478671,
+    "wof:lastmodified":1486672372,
     "wof:name":"Goldsboro Park Tennis Court",
-    "wof:parent_id":85815283,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

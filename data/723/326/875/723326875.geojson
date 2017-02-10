@@ -2,9 +2,14 @@
   "id": 723326875,
   "type": "Feature",
   "properties": {
+    "addr:full":"1270 W Peachtree St NW Atlanta GA 30309",
+    "addr:housenumber":"1270",
+    "addr:postcode":"30309",
+    "addr:street":"W Peachtree St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.387862,33.789281,-84.387862,33.789281",
     "geom:latitude":33.789281,
     "geom:longitude":-84.387862,
@@ -26,13 +31,15 @@
     "sg:website":"www.europeanhairextensions.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85807999,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85807999,
-        85866909
+        85688535,
+        85866909,
+        1108797045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,6 +54,7 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85807999,
             "region_id":85688535,
             "venue_id":723326875
@@ -56,15 +64,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85866909,
             "region_id":85688535,
             "venue_id":723326875
         }
     ],
     "wof:id":723326875,
-    "wof:lastmodified":1466471275,
+    "wof:lastmodified":1486670029,
     "wof:name":"European Hair Extensions",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

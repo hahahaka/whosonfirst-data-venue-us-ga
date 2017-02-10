@@ -2,9 +2,14 @@
   "id": 739955041,
   "type": "Feature",
   "properties": {
+    "addr:full":"1275 Capitol Ave SW Atlanta GA 30315",
+    "addr:housenumber":"1275",
+    "addr:postcode":"30315",
+    "addr:street":"Capitol Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.388299,33.72104,-84.388299,33.72104",
     "geom:latitude":33.72104,
     "geom:longitude":-84.388299,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872129,
         102191575,
+        1108797037,
         85633793,
         85936429,
         102083603,
-        85841265,
-        85872129
+        85688535,
+        85841265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +55,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85841265,
+            "macrohood_id":1108797037,
+            "neighbourhood_id":85872129,
             "region_id":85688535,
             "venue_id":739955041
         },
@@ -58,15 +65,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872129,
+            "macrohood_id":1108797037,
+            "neighbourhood_id":85841265,
             "region_id":85688535,
             "venue_id":739955041
         }
     ],
     "wof:id":739955041,
-    "wof:lastmodified":1466478945,
+    "wof:lastmodified":1486668229,
     "wof:name":"555 Emergency Locksmith",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

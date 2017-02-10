@@ -2,9 +2,14 @@
   "id": 739933567,
   "type": "Feature",
   "properties": {
+    "addr:full":"296 Moreland Avenue Point Center Building Atlanta GA 30307",
+    "addr:housenumber":"296",
+    "addr:postcode":"30307",
+    "addr:street":"Moreland Avenue;Center Building",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.349264,33.762264,-84.349264,33.762264",
     "geom:latitude":33.762264,
     "geom:longitude":-84.349264,
@@ -31,11 +36,10 @@
     "wof:belongsto":[
         85688535,
         102191575,
+        1108797045,
         85633793,
         85936429,
-        102083603,
-        85866907,
-        85812215
+        102083603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,22 +54,13 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85866907,
-            "region_id":85688535,
-            "venue_id":739933567
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083603,
-            "locality_id":85936429,
-            "neighbourhood_id":85812215,
+            "macrohood_id":1108797045,
             "region_id":85688535,
             "venue_id":739933567
         }
     ],
     "wof:id":739933567,
-    "wof:lastmodified":1466478645,
+    "wof:lastmodified":1486669307,
     "wof:name":"If Coffeehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

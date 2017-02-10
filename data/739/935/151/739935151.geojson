@@ -2,9 +2,14 @@
   "id": 739935151,
   "type": "Feature",
   "properties": {
+    "addr:full":"355 North Avenue NE Apt 1106 Atlanta GA 30308",
+    "addr:housenumber":"355;1106",
+    "addr:postcode":"30308",
+    "addr:street":"North Avenue Ne Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.376368,33.771195,-84.376368,33.771195",
     "geom:latitude":33.771195,
     "geom:longitude":-84.376368,
@@ -29,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798129,
+        85872109,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85872057
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,17 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872057,
+            "macrohood_id":1108797045,
+            "microhood_id":1108798129,
+            "neighbourhood_id":85872109,
             "region_id":85688535,
             "venue_id":739935151
         }
     ],
     "wof:id":739935151,
-    "wof:lastmodified":1466478670,
+    "wof:lastmodified":1486682672,
     "wof:name":"Cosby Spears Neighborhood Center",
-    "wof:parent_id":85872057,
+    "wof:parent_id":1108798129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

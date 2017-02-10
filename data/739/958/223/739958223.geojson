@@ -2,9 +2,14 @@
   "id": 739958223,
   "type": "Feature",
   "properties": {
+    "addr:full":"2277 Sutton St SE Atlanta GA 30317",
+    "addr:housenumber":"2277",
+    "addr:postcode":"30317",
+    "addr:street":"Sutton St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.314102,33.748299,-84.314102,33.748299",
     "geom:latitude":33.748299,
     "geom:longitude":-84.314102,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
-        85633793,
         85816491,
-        102084539
+        102191575,
+        1108797045,
+        85633793,
+        85936429,
+        102083603,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +50,18 @@
     "wof:geomhash":"58a2d3991ad24f5e35929d8c3152352b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084539,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85816491,
             "region_id":85688535,
             "venue_id":739958223
         }
     ],
     "wof:id":739958223,
-    "wof:lastmodified":1466478978,
+    "wof:lastmodified":1486669624,
     "wof:name":"Dekalb County Board of Health",
     "wof:parent_id":85816491,
     "wof:placetype":"venue",

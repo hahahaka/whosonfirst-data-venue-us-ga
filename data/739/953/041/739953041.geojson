@@ -2,9 +2,14 @@
   "id": 739953041,
   "type": "Feature",
   "properties": {
+    "addr:full":"285 Andrew Young International Blvd NW Atlanta GA 30313",
+    "addr:housenumber":"285;young",
+    "addr:postcode":"30313",
+    "addr:street":"Andrew;International Blvd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.395651,33.758229,-84.395651,33.758229",
     "geom:latitude":33.758229,
     "geom:longitude":-84.395651,
@@ -38,12 +43,14 @@
     "sg:website":"http://www.starbuckscoffee.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108797051,
+        85866901,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85807911
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,15 +65,17 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85807911,
+            "macrohood_id":1108797045,
+            "microhood_id":1108797051,
+            "neighbourhood_id":85866901,
             "region_id":85688535,
             "venue_id":739953041
         }
     ],
     "wof:id":739953041,
-    "wof:lastmodified":1466478944,
+    "wof:lastmodified":1486682399,
     "wof:name":"Starbucks Coffee",
-    "wof:parent_id":85807911,
+    "wof:parent_id":1108797051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -2,6 +2,10 @@
   "id": 739652041,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 N Main St La Fayette GA 30728",
+    "addr:housenumber":"800",
+    "addr:postcode":"30728",
+    "addr:street":"N Main St;Fayette",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":739652041,
-    "wof:lastmodified":1466472825,
+    "wof:lastmodified":1472618955,
     "wof:name":"Circle K",
     "wof:parent_id":85830807,
     "wof:placetype":"venue",

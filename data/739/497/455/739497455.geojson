@@ -2,9 +2,14 @@
   "id": 739497455,
   "type": "Feature",
   "properties": {
+    "addr:full":"1789 White Oak Hollow NE Atlanta GA 30324",
+    "addr:housenumber":"1789",
+    "addr:postcode":"30324",
+    "addr:street":"White Oak Hollow Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.3694,33.803468,-84.3694,33.803468",
     "geom:latitude":33.803468,
     "geom:longitude":-84.3694,
@@ -29,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872115,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85835263,
-        85872115
+        85688535,
+        85835263
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +56,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85835263,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":85872115,
             "region_id":85688535,
             "venue_id":739497455
         },
@@ -59,15 +66,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872115,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":85835263,
             "region_id":85688535,
             "venue_id":739497455
         }
     ],
     "wof:id":739497455,
-    "wof:lastmodified":1466468945,
+    "wof:lastmodified":1486669789,
     "wof:name":"Vista Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

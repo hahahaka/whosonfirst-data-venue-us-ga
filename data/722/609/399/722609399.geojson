@@ -2,9 +2,14 @@
   "id": 722609399,
   "type": "Feature",
   "properties": {
+    "addr:full":"1397 Blashfield St SE Atlanta GA 30315",
+    "addr:housenumber":"1397",
+    "addr:postcode":"30315",
+    "addr:street":"Blashfield St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.380463,33.717182,-84.380463,33.717182",
     "geom:latitude":33.717182,
     "geom:longitude":-84.380463,
@@ -30,12 +35,13 @@
     "sg:website":"www.industrialelec.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872129,
         102191575,
+        1108797037,
         85633793,
         85936429,
         102083603,
-        85872129
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797037,
             "neighbourhood_id":85872129,
             "region_id":85688535,
             "venue_id":722609399
         }
     ],
     "wof:id":722609399,
-    "wof:lastmodified":1466464717,
+    "wof:lastmodified":1486668160,
     "wof:name":"Industrial Electric Co-Georgia",
     "wof:parent_id":85872129,
     "wof:placetype":"venue",

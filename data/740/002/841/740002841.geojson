@@ -2,9 +2,14 @@
   "id": 740002841,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Putnam Dr NW Atlanta GA 30342",
+    "addr:housenumber":"2",
+    "addr:postcode":"30342",
+    "addr:street":"Putnam Dr Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.3871,33.8591,-84.3871,33.8591",
     "geom:latitude":33.8591,
     "geom:longitude":-84.3871,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420784707,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        420558877
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":420558877,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":420784707,
             "region_id":85688535,
             "venue_id":740002841
         }
     ],
     "wof:id":740002841,
-    "wof:lastmodified":1466461824,
+    "wof:lastmodified":1486672034,
     "wof:name":"Llewellyn David J Atty",
-    "wof:parent_id":420558877,
+    "wof:parent_id":420784707,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

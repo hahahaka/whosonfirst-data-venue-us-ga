@@ -2,9 +2,14 @@
   "id": 722593167,
   "type": "Feature",
   "properties": {
+    "addr:full":"285 International Blvd Atlanta GA 30313",
+    "addr:housenumber":"285",
+    "addr:postcode":"30313",
+    "addr:street":"International Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.396911,33.758097,-84.396911,33.758097",
     "geom:latitude":33.758097,
     "geom:longitude":-84.396911,
@@ -30,12 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108797051,
+        85866901,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85807911
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +57,17 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85807911,
+            "macrohood_id":1108797045,
+            "microhood_id":1108797051,
+            "neighbourhood_id":85866901,
             "region_id":85688535,
             "venue_id":722593167
         }
     ],
     "wof:id":722593167,
-    "wof:lastmodified":1466464014,
+    "wof:lastmodified":1486682416,
     "wof:name":"World Congress Ctr-Security",
-    "wof:parent_id":85807911,
+    "wof:parent_id":1108797051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

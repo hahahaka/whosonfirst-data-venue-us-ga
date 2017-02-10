@@ -2,9 +2,14 @@
   "id": 739934749,
   "type": "Feature",
   "properties": {
+    "addr:full":"530 Piedmont Ave NE # 611 Atlanta GA 30308",
+    "addr:housenumber":"530",
+    "addr:postcode":"30308",
+    "addr:street":"Piedmont Ave Ne # 611",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.381955,33.769168,-84.381955,33.769168",
     "geom:latitude":33.769168,
     "geom:longitude":-84.381955,
@@ -25,12 +30,14 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798129,
+        85872109,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85872057
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,17 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872057,
+            "macrohood_id":1108797045,
+            "microhood_id":1108798129,
+            "neighbourhood_id":85872109,
             "region_id":85688535,
             "venue_id":739934749
         }
     ],
     "wof:id":739934749,
-    "wof:lastmodified":1466478616,
+    "wof:lastmodified":1486682674,
     "wof:name":"Hoxide",
-    "wof:parent_id":85872057,
+    "wof:parent_id":1108798129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

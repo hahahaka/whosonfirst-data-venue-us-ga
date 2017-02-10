@@ -2,9 +2,14 @@
   "id": 723459677,
   "type": "Feature",
   "properties": {
+    "addr:full":"793 Kennedy St NW Atlanta GA 30318",
+    "addr:housenumber":"793",
+    "addr:postcode":"30318",
+    "addr:street":"Kennedy St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.412855,33.768286,-84.412855,33.768286",
     "geom:latitude":33.768286,
     "geom:longitude":-84.412855,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420517897,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
-        420517897
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797043,
             "neighbourhood_id":420517897,
             "region_id":85688535,
             "venue_id":723459677
         }
     ],
     "wof:id":723459677,
-    "wof:lastmodified":1466474428,
+    "wof:lastmodified":1486669045,
     "wof:name":"Community Grocery Store",
     "wof:parent_id":420517897,
     "wof:placetype":"venue",

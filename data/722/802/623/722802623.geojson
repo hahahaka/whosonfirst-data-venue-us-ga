@@ -2,9 +2,14 @@
   "id": 722802623,
   "type": "Feature",
   "properties": {
+    "addr:full":"2086 General Truman St NW Atlanta GA 30318",
+    "addr:housenumber":"2086",
+    "addr:postcode":"30318",
+    "addr:street":"General Truman St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.446834,33.812928,-84.446834,33.812928",
     "geom:latitude":33.812928,
     "geom:longitude":-84.446834,
@@ -28,13 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420517865,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
-        85852255,
-        420517865
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,24 +54,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85852255,
-            "region_id":85688535,
-            "venue_id":722802623
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083603,
-            "locality_id":85936429,
+            "macrohood_id":1108797043,
             "neighbourhood_id":420517865,
             "region_id":85688535,
             "venue_id":722802623
         }
     ],
     "wof:id":722802623,
-    "wof:lastmodified":1466469892,
+    "wof:lastmodified":1486669010,
     "wof:name":"World Tex D B A",
-    "wof:parent_id":-1,
+    "wof:parent_id":420517865,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

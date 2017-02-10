@@ -2,9 +2,14 @@
   "id": 739954131,
   "type": "Feature",
   "properties": {
+    "addr:full":"2873 Lakewood Avenue SW Atlanta GA 30315",
+    "addr:housenumber":"2873",
+    "addr:postcode":"30315",
+    "addr:street":"Lakewood Avenue Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.411285,33.69712,-84.411285,33.69712",
     "geom:latitude":33.69712,
     "geom:longitude":-84.411285,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872119,
         102191575,
+        1108797037,
         85633793,
         85936429,
         102083603,
-        85872119
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797037,
             "neighbourhood_id":85872119,
             "region_id":85688535,
             "venue_id":739954131
         }
     ],
     "wof:id":739954131,
-    "wof:lastmodified":1466478959,
+    "wof:lastmodified":1486671900,
     "wof:name":"The Hair Galaxy",
     "wof:parent_id":85872119,
     "wof:placetype":"venue",

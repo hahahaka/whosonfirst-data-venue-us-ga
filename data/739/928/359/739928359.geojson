@@ -2,9 +2,14 @@
   "id": 739928359,
   "type": "Feature",
   "properties": {
+    "addr:full":"3125 Roswell Rd NE Atlanta GA 30305",
+    "addr:housenumber":"3125;rd",
+    "addr:postcode":"30305",
+    "addr:street":"Roswell;Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.379071,33.840805,-84.379071,33.840805",
     "geom:latitude":33.840805,
     "geom:longitude":-84.379071,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872063,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872063
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872063,
             "region_id":85688535,
             "venue_id":739928359
         }
     ],
     "wof:id":739928359,
-    "wof:lastmodified":1466478605,
+    "wof:lastmodified":1486668514,
     "wof:name":"24 7 Emergency Locksmith",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",

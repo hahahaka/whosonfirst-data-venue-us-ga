@@ -2,9 +2,14 @@
   "id": 739982461,
   "type": "Feature",
   "properties": {
+    "addr:full":"4042 Moheb St SW Atlanta GA 30331",
+    "addr:housenumber":"4042",
+    "addr:postcode":"30331",
+    "addr:street":"Moheb St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.527129,33.704349,-84.527129,33.704349",
     "geom:latitude":33.704349,
     "geom:longitude":-84.527129,
@@ -28,7 +33,15 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108798537,
+        102191575,
+        1108797035,
+        85633793,
+        85936429,
+        102083603,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Wea5Fz43R86TwuhJpiPfz_33.704349_-84.527129@1303262622"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461923226,
     "wof:geomhash":"b6a7830688e1cf6e3c058c85553fd2ba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798537,
+            "region_id":85688535,
+            "venue_id":739982461
+        }
+    ],
     "wof:id":739982461,
-    "wof:lastmodified":1466479600,
+    "wof:lastmodified":1486672735,
     "wof:name":"Atlanta Theatresouth Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108798537,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

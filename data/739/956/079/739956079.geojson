@@ -2,9 +2,14 @@
   "id": 739956079,
   "type": "Feature",
   "properties": {
+    "addr:full":"2283 Glenwood Ave SE Atlanta GA 30316",
+    "addr:housenumber":"2283",
+    "addr:postcode":"30316",
+    "addr:street":"Glenwood Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.312157,33.740103,-84.312157,33.740103",
     "geom:latitude":33.740103,
     "geom:longitude":-84.312157,
@@ -37,10 +42,13 @@
     "sg:website":"https://www.wachovia.com/?DCMP=KNL-CPS-DS-Directory-0703&HBX_PK=Banks&HBX_OU=71",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
-        85633793,
         85816491,
-        102084539
+        102191575,
+        1108797045,
+        85633793,
+        85936429,
+        102083603,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +59,18 @@
     "wof:geomhash":"c79f6b64c613b1b82adaa3684d3f87d4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084539,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85816491,
             "region_id":85688535,
             "venue_id":739956079
         }
     ],
     "wof:id":739956079,
-    "wof:lastmodified":1466478951,
+    "wof:lastmodified":1486669737,
     "wof:name":"Wachovia Bank",
     "wof:parent_id":85816491,
     "wof:placetype":"venue",

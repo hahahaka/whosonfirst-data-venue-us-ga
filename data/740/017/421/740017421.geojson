@@ -2,9 +2,14 @@
   "id": 740017421,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Hollow Tree Lane SW Atlanta GA 30354",
+    "addr:housenumber":"111",
+    "addr:postcode":"30354",
+    "addr:street":"Hollow Tree Lane Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.392186,33.662801,-84.392186,33.662801",
     "geom:latitude":33.662801,
     "geom:longitude":-84.392186,
@@ -24,7 +29,14 @@
     "sg:postcode":"30354",
     "sg:province":"GA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        1108797037,
+        85633793,
+        85936429,
+        102083603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0X7VvOT6lM735xZE09o8xb_33.662801_-84.392186@1303262631"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461924595,
     "wof:geomhash":"655c3aaa2bd767091d09c0282c00e440",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797037,
+            "region_id":85688535,
+            "venue_id":740017421
+        }
+    ],
     "wof:id":740017421,
-    "wof:lastmodified":1466463174,
+    "wof:lastmodified":1486668157,
     "wof:name":"Appliance Recyclers USA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

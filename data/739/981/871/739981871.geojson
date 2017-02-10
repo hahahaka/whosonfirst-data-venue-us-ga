@@ -2,9 +2,14 @@
   "id": 739981871,
   "type": "Feature",
   "properties": {
+    "addr:full":"1788 Hardee Ave SW Atlanta GA 30330",
+    "addr:housenumber":"1788",
+    "addr:postcode":"30330",
+    "addr:street":"Hardee Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.42959,33.70491,-84.42959,33.70491",
     "geom:latitude":33.70491,
     "geom:longitude":-84.42959,
@@ -30,12 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420517931,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        420517931
+        85688535,
+        1108798251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +57,26 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":420517931,
+            "region_id":85688535,
+            "venue_id":739981871
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798251,
             "region_id":85688535,
             "venue_id":739981871
         }
     ],
     "wof:id":739981871,
-    "wof:lastmodified":1466479563,
+    "wof:lastmodified":1486672415,
     "wof:name":"Fort McPherson",
-    "wof:parent_id":420517931,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

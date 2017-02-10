@@ -2,9 +2,14 @@
   "id": 722943903,
   "type": "Feature",
   "properties": {
+    "addr:full":"2066 Simpson Rd NW Atlanta GA 30314",
+    "addr:housenumber":"2066",
+    "addr:postcode":"30314",
+    "addr:street":"Simpson Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.455931,33.763615,-84.455931,33.763615",
     "geom:latitude":33.763615,
     "geom:longitude":-84.455931,
@@ -25,13 +30,15 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872143,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        85866915,
-        85872143
+        85688535,
+        1108798363,
+        1108797043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +53,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85866915,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":85872143,
             "region_id":85688535,
             "venue_id":722943903
         },
@@ -55,15 +63,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872143,
+            "macrohood_id":1108797043,
+            "neighbourhood_id":1108798363,
             "region_id":85688535,
             "venue_id":722943903
         }
     ],
     "wof:id":722943903,
-    "wof:lastmodified":1466473688,
+    "wof:lastmodified":1486672515,
     "wof:name":"Grace Amazing Variety Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

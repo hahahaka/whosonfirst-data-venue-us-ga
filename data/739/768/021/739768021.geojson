@@ -2,9 +2,14 @@
   "id": 739768021,
   "type": "Feature",
   "properties": {
+    "addr:full":"61 North Ave Atlanta GA 30308",
+    "addr:housenumber":"61",
+    "addr:postcode":"30308",
+    "addr:street":"North Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.384882,33.77122,-84.384882,33.77122",
     "geom:latitude":33.77122,
     "geom:longitude":-84.384882,
@@ -29,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108797049,
+        85866901,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85889947
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,17 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85889947,
+            "macrohood_id":1108797045,
+            "microhood_id":1108797049,
+            "neighbourhood_id":85866901,
             "region_id":85688535,
             "venue_id":739768021
         }
     ],
     "wof:id":739768021,
-    "wof:lastmodified":1466475849,
+    "wof:lastmodified":1486682357,
     "wof:name":"The Varsity",
-    "wof:parent_id":85889947,
+    "wof:parent_id":1108797049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

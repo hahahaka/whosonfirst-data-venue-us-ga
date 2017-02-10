@@ -2,9 +2,14 @@
   "id": 723162229,
   "type": "Feature",
   "properties": {
+    "addr:full":"3094 E Pine Valley Rd NW Atlanta GA 30305",
+    "addr:housenumber":"3094",
+    "addr:postcode":"30305",
+    "addr:street":"E Pine Valley Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.398477,33.839897,-84.398477,33.839897",
     "geom:latitude":33.839897,
     "geom:longitude":-84.398477,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872111,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872111
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872111,
             "region_id":85688535,
             "venue_id":723162229
         }
     ],
     "wof:id":723162229,
-    "wof:lastmodified":1466466944,
+    "wof:lastmodified":1486671384,
     "wof:name":"Jow Investments LP",
     "wof:parent_id":85872111,
     "wof:placetype":"venue",

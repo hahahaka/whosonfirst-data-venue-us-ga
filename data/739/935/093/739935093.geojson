@@ -2,9 +2,14 @@
   "id": 739935093,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 Ivan Allen Jr Blvd NW Atlanta GA 30308",
+    "addr:housenumber":"55",
+    "addr:postcode":"30308",
+    "addr:street":"Ivan Allen Jr Blvd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.389218,33.764673,-84.389218,33.764673",
     "geom:latitude":33.764673,
     "geom:longitude":-84.389218,
@@ -25,13 +30,14 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108797047,
+        85866901,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85807911,
-        85872133
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,24 +52,17 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85807911,
-            "region_id":85688535,
-            "venue_id":739935093
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083603,
-            "locality_id":85936429,
-            "neighbourhood_id":85872133,
+            "macrohood_id":1108797045,
+            "microhood_id":1108797047,
+            "neighbourhood_id":85866901,
             "region_id":85688535,
             "venue_id":739935093
         }
     ],
     "wof:id":739935093,
-    "wof:lastmodified":1466478658,
+    "wof:lastmodified":1486682346,
     "wof:name":"45 Allen Plaza Master Condominium Association, Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108797047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

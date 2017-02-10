@@ -2,9 +2,14 @@
   "id": 739926935,
   "type": "Feature",
   "properties": {
+    "addr:full":"2385 Peachtree Rd NE Atlanta GA 30305",
+    "addr:housenumber":"2385",
+    "addr:postcode":"30305",
+    "addr:street":"Peachtree Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.38839,33.819958,-84.38839,33.819958",
     "geom:latitude":33.819958,
     "geom:longitude":-84.38839,
@@ -31,13 +36,14 @@
     "sg:website":"www.naturalbody.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872111,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872113,
-        85872111
+        85688535,
+        85872113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +58,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872113,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":85872111,
             "region_id":85688535,
             "venue_id":739926935
         },
@@ -61,15 +68,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872111,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":85872113,
             "region_id":85688535,
             "venue_id":739926935
         }
     ],
     "wof:id":739926935,
-    "wof:lastmodified":1466478718,
+    "wof:lastmodified":1486668603,
     "wof:name":"Natural Body Spa and Shoppe",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

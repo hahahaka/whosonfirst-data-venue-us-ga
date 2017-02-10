@@ -2,9 +2,14 @@
   "id": 739459479,
   "type": "Feature",
   "properties": {
+    "addr:full":"4250 Somerset Cir SW Atlanta GA 30331",
+    "addr:housenumber":"4250",
+    "addr:postcode":"30331",
+    "addr:street":"Somerset Cir Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.527282,33.661283,-84.527282,33.661283",
     "geom:latitude":33.661283,
     "geom:longitude":-84.527282,
@@ -27,7 +32,16 @@
         "sandblasting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        102083603,
+        420517997,
+        1108798481,
+        1108797035,
+        85936429
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32M9e0DCClMUQwItmpYkf2_33.661283_-84.527282@1294087602"
@@ -35,11 +49,30 @@
     "wof:country":"US",
     "wof:created":1461907707,
     "wof:geomhash":"81d30dd27c61004af65b44645102afb6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":420517997,
+            "region_id":85688535,
+            "venue_id":739459479
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798481,
+            "region_id":85688535,
+            "venue_id":739459479
+        }
+    ],
     "wof:id":739459479,
-    "wof:lastmodified":1466467949,
+    "wof:lastmodified":1486672663,
     "wof:name":"Atlanta Pacific Sndblst LLC",
-    "wof:parent_id":420517997,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

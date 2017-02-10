@@ -2,9 +2,14 @@
   "id": 722838223,
   "type": "Feature",
   "properties": {
+    "addr:full":"3375 Somerset Trl SW Atlanta GA 30331",
+    "addr:housenumber":"3375",
+    "addr:postcode":"30331",
+    "addr:street":"Somerset Trl Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.52687,33.662755,-84.52687,33.662755",
     "geom:latitude":33.662755,
     "geom:longitude":-84.52687,
@@ -24,7 +29,16 @@
     "sg:postcode":"30331",
     "sg:province":"GA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        85633793,
+        102083603,
+        420517997,
+        1108798481,
+        1108797035,
+        85936429
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IWIJ9eMw3dDQoYdMcu7Nt_33.662755_-84.526870@1294087602"
@@ -32,11 +46,30 @@
     "wof:country":"US",
     "wof:created":1461889593,
     "wof:geomhash":"105a8337c2f1f47443e721b0be603570",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "neighbourhood_id":420517997,
+            "region_id":85688535,
+            "venue_id":722838223
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798481,
+            "region_id":85688535,
+            "venue_id":722838223
+        }
+    ],
     "wof:id":722838223,
-    "wof:lastmodified":1466470698,
+    "wof:lastmodified":1486672663,
     "wof:name":"Ada Real Estate Ventures LLC",
-    "wof:parent_id":420517997,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

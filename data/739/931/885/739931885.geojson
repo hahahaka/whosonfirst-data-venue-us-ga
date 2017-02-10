@@ -2,9 +2,14 @@
   "id": 739931885,
   "type": "Feature",
   "properties": {
+    "addr:full":"1735 Johnson Rd NE Atlanta GA 30306",
+    "addr:housenumber":"1735",
+    "addr:postcode":"30306",
+    "addr:street":"Johnson Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.343331,33.800698,-84.343331,33.800698",
     "geom:latitude":33.800698,
     "geom:longitude":-84.343331,
@@ -37,7 +42,14 @@
     ],
     "sg:website":"http://www.mediumcool.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        1108797045,
+        85633793,
+        85936429,
+        102083603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Xcd2EDpZDtSPyG12dnJaY_33.800698_-84.343331@1303262609"
@@ -45,9 +57,19 @@
     "wof:country":"US",
     "wof:created":1461921107,
     "wof:geomhash":"55c1dc3e52db97692de0f6100a7f7ecf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "region_id":85688535,
+            "venue_id":739931885
+        }
+    ],
     "wof:id":739931885,
-    "wof:lastmodified":1466478712,
+    "wof:lastmodified":1486669491,
     "wof:name":"Mediumcool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 722660363,
   "type": "Feature",
   "properties": {
+    "addr:full":"321 Tarragon Way SW Atlanta GA 30331",
+    "addr:housenumber":"321",
+    "addr:postcode":"30331",
+    "addr:street":"Tarragon Way Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.515202,33.754961,-84.515202,33.754961",
     "geom:latitude":33.754961,
     "geom:longitude":-84.515202,
@@ -27,7 +32,14 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        1108797035,
+        85633793,
+        85936429,
+        102083603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bBz7ORxdo7SEM7jRVMUrx_33.754961_-84.515202@1294087602"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461886210,
     "wof:geomhash":"448f16951519f6725dc22ed5bb498ce0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797035,
+            "region_id":85688535,
+            "venue_id":722660363
+        }
+    ],
     "wof:id":722660363,
-    "wof:lastmodified":1466466388,
+    "wof:lastmodified":1486667924,
     "wof:name":"Bbs Cleaning Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

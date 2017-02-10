@@ -2,9 +2,14 @@
   "id": 739948307,
   "type": "Feature",
   "properties": {
+    "addr:full":"1443 Desoto Ave SW Atlanta GA 30310",
+    "addr:housenumber":"1443",
+    "addr:postcode":"30310",
+    "addr:street":"Desoto Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.411836,33.715685,-84.411836,33.715685",
     "geom:latitude":33.715685,
     "geom:longitude":-84.411836,
@@ -30,12 +35,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85809417,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        85809417
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":85809417,
             "region_id":85688535,
             "venue_id":739948307
         }
     ],
     "wof:id":739948307,
-    "wof:lastmodified":1466478989,
+    "wof:lastmodified":1486667840,
     "wof:name":"Kathleen Sobush",
     "wof:parent_id":85809417,
     "wof:placetype":"venue",

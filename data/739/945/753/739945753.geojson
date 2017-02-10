@@ -2,9 +2,14 @@
   "id": 739945753,
   "type": "Feature",
   "properties": {
+    "addr:full":"1776 Peachtree St NW Atlanta GA 30309",
+    "addr:housenumber":"1776",
+    "addr:postcode":"30309",
+    "addr:street":"Peachtree St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.387981,33.796783,-84.387981,33.796783",
     "geom:latitude":33.796783,
     "geom:longitude":-84.387981,
@@ -32,12 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85807999,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85807999
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +58,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85807999,
             "region_id":85688535,
             "venue_id":739945753
         }
     ],
     "wof:id":739945753,
-    "wof:lastmodified":1466478594,
+    "wof:lastmodified":1486671302,
     "wof:name":"Joe's Custom Clothier",
     "wof:parent_id":85807999,
     "wof:placetype":"venue",

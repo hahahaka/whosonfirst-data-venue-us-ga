@@ -2,9 +2,14 @@
   "id": 739477603,
   "type": "Feature",
   "properties": {
+    "addr:full":"616 Brownwood Ave SE Atlanta GA 30316",
+    "addr:housenumber":"616",
+    "addr:postcode":"30316",
+    "addr:street":"Brownwood Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.34797,33.737461,-84.34797,33.737461",
     "geom:latitude":33.737461,
     "geom:longitude":-84.34797,
@@ -24,7 +29,14 @@
     "sg:postcode":"30316",
     "sg:province":"GA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        1108797045,
+        85633793,
+        85936429,
+        102083603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3P9LHIrGp984okAhhrosja_33.737461_-84.347970@1294087602"
@@ -32,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1461908025,
     "wof:geomhash":"feff47a78a8cb03b032f47b4ad6c9d87",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "region_id":85688535,
+            "venue_id":739477603
+        }
+    ],
     "wof:id":739477603,
-    "wof:lastmodified":1466468425,
+    "wof:lastmodified":1486670068,
     "wof:name":"Phil Makes Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

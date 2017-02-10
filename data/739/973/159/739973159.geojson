@@ -2,9 +2,14 @@
   "id": 739973159,
   "type": "Feature",
   "properties": {
+    "addr:full":"3224 Northside Pkwy NW Atlanta GA 30327",
+    "addr:housenumber":"3224",
+    "addr:postcode":"30327",
+    "addr:street":"Northside Pkwy Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.422543,33.842349,-84.422543,33.842349",
     "geom:latitude":33.842349,
     "geom:longitude":-84.422543,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872137,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872137
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872137,
             "region_id":85688535,
             "venue_id":739973159
         }
     ],
     "wof:id":739973159,
-    "wof:lastmodified":1466479417,
+    "wof:lastmodified":1486671791,
     "wof:name":"A 24 Hour A Speedy A Locksmith",
     "wof:parent_id":85872137,
     "wof:placetype":"venue",

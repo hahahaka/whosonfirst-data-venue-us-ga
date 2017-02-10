@@ -2,9 +2,14 @@
   "id": 723362579,
   "type": "Feature",
   "properties": {
+    "addr:full":"2945 Stone Hogan Conn SW Atlanta GA 30331",
+    "addr:housenumber":"2945",
+    "addr:postcode":"30331",
+    "addr:street":"Stone Hogan Conn Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.497091,33.677053,-84.497091,33.677053",
     "geom:latitude":33.677053,
     "geom:longitude":-84.497091,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872085,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        85872085
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":85872085,
             "region_id":85688535,
             "venue_id":723362579
         }
     ],
     "wof:id":723362579,
-    "wof:lastmodified":1466471878,
+    "wof:lastmodified":1486667875,
     "wof:name":"God s Mracles Ministries Intl",
     "wof:parent_id":85872085,
     "wof:placetype":"venue",

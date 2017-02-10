@@ -2,6 +2,10 @@
   "id": 723140853,
   "type": "Feature",
   "properties": {
+    "addr:full":"1337 Virginia Ave Atlanta GA 30354",
+    "addr:housenumber":"1337",
+    "addr:postcode":"30354",
+    "addr:street":"Virginia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":723140853,
-    "wof:lastmodified":1466466062,
+    "wof:lastmodified":1472618377,
     "wof:name":"Chevron",
     "wof:parent_id":420517873,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 739958435,
   "type": "Feature",
   "properties": {
+    "addr:full":"144 14th St NW Atlanta GA 30318",
+    "addr:housenumber":"144",
+    "addr:postcode":"30318",
+    "addr:street":"14Th St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.391894,33.78656,-84.391894,33.78656",
     "geom:latitude":33.78656,
     "geom:longitude":-84.391894,
@@ -40,13 +45,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85805581,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85866909,
-        85805581
+        85688535,
+        85866909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +67,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85866909,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":85805581,
             "region_id":85688535,
             "venue_id":739958435
         },
@@ -70,15 +77,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85805581,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":85866909,
             "region_id":85688535,
             "venue_id":739958435
         }
     ],
     "wof:id":739958435,
-    "wof:lastmodified":1466479018,
+    "wof:lastmodified":1486670059,
     "wof:name":"Chinese Buddha",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

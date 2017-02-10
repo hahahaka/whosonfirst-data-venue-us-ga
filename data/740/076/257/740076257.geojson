@@ -2,9 +2,14 @@
   "id": 740076257,
   "type": "Feature",
   "properties": {
+    "addr:full":"250 Auburn Ave NE #101 Atlanta GA 53562",
+    "addr:housenumber":"250",
+    "addr:postcode":"53562",
+    "addr:street":"Auburn Ave Ne # 101",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.379584,33.755749,-84.379584,33.755749",
     "geom:latitude":33.755749,
     "geom:longitude":-84.379584,
@@ -31,10 +36,10 @@
     "wof:belongsto":[
         85688535,
         102191575,
+        1108797045,
         85633793,
         85936429,
-        102083603,
-        85872043
+        102083603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +54,15 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872043,
+            "macrohood_id":1108797045,
             "region_id":85688535,
             "venue_id":740076257
         }
     ],
     "wof:id":740076257,
-    "wof:lastmodified":1466466628,
+    "wof:lastmodified":1486670399,
     "wof:name":"Wok N' Roll",
-    "wof:parent_id":85872043,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

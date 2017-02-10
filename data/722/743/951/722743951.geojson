@@ -2,9 +2,14 @@
   "id": 722743951,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Jackson St SE Atlanta GA 30312",
+    "addr:housenumber":"12",
+    "addr:postcode":"30312",
+    "addr:street":"Jackson St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.374302,33.754137,-84.374302,33.754137",
     "geom:latitude":33.754137,
     "geom:longitude":-84.374302,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872065,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85872065
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85872065,
             "region_id":85688535,
             "venue_id":722743951
         }
     ],
     "wof:id":722743951,
-    "wof:lastmodified":1466468508,
+    "wof:lastmodified":1486670115,
     "wof:name":"Nibor World Travel",
     "wof:parent_id":85872065,
     "wof:placetype":"venue",

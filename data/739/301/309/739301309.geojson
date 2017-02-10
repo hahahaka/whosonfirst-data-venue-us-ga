@@ -2,9 +2,14 @@
   "id": 739301309,
   "type": "Feature",
   "properties": {
+    "addr:full":"760 Piedmont Way NE Atlanta GA 30324",
+    "addr:housenumber":"760",
+    "addr:postcode":"30324",
+    "addr:street":"Piedmont Way Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.372332,33.803925,-84.372332,33.803925",
     "geom:latitude":33.803925,
     "geom:longitude":-84.372332,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872115,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85872115
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85872115,
             "region_id":85688535,
             "venue_id":739301309
         }
     ],
     "wof:id":739301309,
-    "wof:lastmodified":1466463142,
+    "wof:lastmodified":1486669210,
     "wof:name":"Serving Atlanta Inc",
     "wof:parent_id":85872115,
     "wof:placetype":"venue",

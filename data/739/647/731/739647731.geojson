@@ -2,9 +2,14 @@
   "id": 739647731,
   "type": "Feature",
   "properties": {
+    "addr:full":"990 Edgewood Ave NE Atlanta GA 30307",
+    "addr:housenumber":"990",
+    "addr:postcode":"30307",
+    "addr:street":"Edgewood Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.354246,33.757412,-84.354246,33.757412",
     "geom:latitude":33.757412,
     "geom:longitude":-84.354246,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872125,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85872125
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85872125,
             "region_id":85688535,
             "venue_id":739647731
         }
     ],
     "wof:id":739647731,
-    "wof:lastmodified":1466472638,
+    "wof:lastmodified":1486669192,
     "wof:name":"Georgia Frst Admndment Fndtion",
     "wof:parent_id":85872125,
     "wof:placetype":"venue",

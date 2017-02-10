@@ -2,9 +2,14 @@
   "id": 739362883,
   "type": "Feature",
   "properties": {
+    "addr:full":"492 Harlan Rd SW Atlanta GA 30311",
+    "addr:housenumber":"492",
+    "addr:postcode":"30311",
+    "addr:street":"Harlan Rd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.479371,33.744523,-84.479371,33.744523",
     "geom:latitude":33.744523,
     "geom:longitude":-84.479371,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872143,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        85872143
+        85688535,
+        1108798395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,26 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":85872143,
+            "region_id":85688535,
+            "venue_id":739362883
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798395,
             "region_id":85688535,
             "venue_id":739362883
         }
     ],
     "wof:id":739362883,
-    "wof:lastmodified":1466465243,
+    "wof:lastmodified":1486672550,
     "wof:name":"Anu Productions Ltd",
-    "wof:parent_id":85872143,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

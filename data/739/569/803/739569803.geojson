@@ -2,9 +2,14 @@
   "id": 739569803,
   "type": "Feature",
   "properties": {
+    "addr:full":"731 Plainville Dr SW Atlanta GA 30331",
+    "addr:housenumber":"731",
+    "addr:postcode":"30331",
+    "addr:street":"Plainville Dr Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.519578,33.740604,-84.519578,33.740604",
     "geom:latitude":33.740604,
     "geom:longitude":-84.519578,
@@ -24,7 +29,15 @@
     "sg:postcode":"30331",
     "sg:province":"GA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108798385,
+        102191575,
+        1108797035,
+        85633793,
+        85936429,
+        102083603,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dbxIlr68i0aGcmaSkCjZl_33.740604_-84.519578@1294087602"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461909775,
     "wof:geomhash":"41dd3a2ec451df1d167007ab119697c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798385,
+            "region_id":85688535,
+            "venue_id":739569803
+        }
+    ],
     "wof:id":739569803,
-    "wof:lastmodified":1466470997,
+    "wof:lastmodified":1486672537,
     "wof:name":"Shanks Lawn Care & Repair",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108798385,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

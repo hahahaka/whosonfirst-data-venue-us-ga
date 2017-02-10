@@ -2,9 +2,14 @@
   "id": 739931205,
   "type": "Feature",
   "properties": {
+    "addr:full":"640 N Highland Ave Atlanta GA 30306",
+    "addr:housenumber":"640",
+    "addr:postcode":"30306",
+    "addr:street":"N Highland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.352543,33.771864,-84.352543,33.771864",
     "geom:latitude":33.771864,
     "geom:longitude":-84.352543,
@@ -35,10 +40,10 @@
     "wof:belongsto":[
         85688535,
         102191575,
+        1108797045,
         85633793,
         85936429,
-        102083603,
-        85830819
+        102083603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +58,15 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85830819,
+            "macrohood_id":1108797045,
             "region_id":85688535,
             "venue_id":739931205
         }
     ],
     "wof:id":739931205,
-    "wof:lastmodified":1466478818,
+    "wof:lastmodified":1486671731,
     "wof:name":"Cafe di Sol",
-    "wof:parent_id":85830819,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

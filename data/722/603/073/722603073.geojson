@@ -2,9 +2,14 @@
   "id": 722603073,
   "type": "Feature",
   "properties": {
+    "addr:full":"1851 Penelope Rd NW Atlanta GA 30314",
+    "addr:housenumber":"1851",
+    "addr:postcode":"30314",
+    "addr:street":"Penelope Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.449354,33.753941,-84.449354,33.753941",
     "geom:latitude":33.753941,
     "geom:longitude":-84.449354,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798361,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
-        85804751
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85804751,
+            "macrohood_id":1108797043,
+            "neighbourhood_id":1108798361,
             "region_id":85688535,
             "venue_id":722603073
         }
     ],
     "wof:id":722603073,
-    "wof:lastmodified":1466464466,
+    "wof:lastmodified":1486672513,
     "wof:name":"General Publishing Inc",
-    "wof:parent_id":85804751,
+    "wof:parent_id":1108798361,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

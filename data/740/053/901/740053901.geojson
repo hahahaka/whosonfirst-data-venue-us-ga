@@ -2,9 +2,14 @@
   "id": 740053901,
   "type": "Feature",
   "properties": {
+    "addr:full":"Little 5 Points Euclid Avenue at Colquitt Atlanta GA 31132",
+    "addr:housenumber":"",
+    "addr:postcode":"31132",
+    "addr:street":"Euclid Avenue At Colquitt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.387733,33.73317,-84.387733,33.73317",
     "geom:latitude":33.73317,
     "geom:longitude":-84.387733,
@@ -38,13 +43,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85833641,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
+        85688535,
         85851371,
-        85833641
+        1108797037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +66,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85851371,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":85833641,
             "region_id":85688535,
             "venue_id":740053901
         },
@@ -68,15 +76,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85833641,
+            "macrohood_id":1108797037,
+            "neighbourhood_id":85851371,
             "region_id":85688535,
             "venue_id":740053901
         }
     ],
     "wof:id":740053901,
-    "wof:lastmodified":1466465474,
+    "wof:lastmodified":1486668200,
     "wof:name":"Little 5 Soul",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

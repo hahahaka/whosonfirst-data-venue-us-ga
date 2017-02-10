@@ -2,9 +2,14 @@
   "id": 723201449,
   "type": "Feature",
   "properties": {
+    "addr:full":"91 Hilliard St NE Atlanta GA 30312",
+    "addr:housenumber":"91",
+    "addr:postcode":"30312",
+    "addr:street":"Hilliard St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.376506,33.756861,-84.376506,33.756861",
     "geom:latitude":33.756861,
     "geom:longitude":-84.376506,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872065,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85872065
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85872065,
             "region_id":85688535,
             "venue_id":723201449
         }
     ],
     "wof:id":723201449,
-    "wof:lastmodified":1466468054,
+    "wof:lastmodified":1486670040,
     "wof:name":"Greater Home Resident Assn",
     "wof:parent_id":85872065,
     "wof:placetype":"venue",

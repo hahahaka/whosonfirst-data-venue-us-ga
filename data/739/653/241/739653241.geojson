@@ -2,9 +2,14 @@
   "id": 739653241,
   "type": "Feature",
   "properties": {
+    "addr:full":"3645 Bakers Ferry Rd SW Atlanta GA 30331",
+    "addr:housenumber":"3645",
+    "addr:postcode":"30331",
+    "addr:street":"Bakers Ferry Rd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.505462,33.759217,-84.505462,33.759217",
     "geom:latitude":33.759217,
     "geom:longitude":-84.505462,
@@ -29,7 +34,15 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108798373,
+        102191575,
+        1108797035,
+        85633793,
+        85936429,
+        102083603,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XefitV9Cy0s58IE1ItKD1_33.759217_-84.505462@1294087602"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1461911579,
     "wof:geomhash":"fc94e537b8e66fd5d6b5b00fbb77d811",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798373,
+            "region_id":85688535,
+            "venue_id":739653241
+        }
+    ],
     "wof:id":739653241,
-    "wof:lastmodified":1466472835,
+    "wof:lastmodified":1486672529,
     "wof:name":"Bakers Ferry Dialysis",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108798373,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

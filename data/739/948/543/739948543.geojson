@@ -2,9 +2,14 @@
   "id": 739948543,
   "type": "Feature",
   "properties": {
+    "addr:full":"2031 Sylvan Rd SW Atlanta GA 30310",
+    "addr:housenumber":"2031",
+    "addr:postcode":"30310",
+    "addr:street":"Sylvan Rd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.418198,33.699902,-84.418198,33.699902",
     "geom:latitude":33.699902,
     "geom:longitude":-84.418198,
@@ -33,12 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420517931,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        420517931
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +59,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":420517931,
             "region_id":85688535,
             "venue_id":739948543
         }
     ],
     "wof:id":739948543,
-    "wof:lastmodified":1466479035,
+    "wof:lastmodified":1486667927,
     "wof:name":"Sims Academy For Early Learning",
     "wof:parent_id":420517931,
     "wof:placetype":"venue",

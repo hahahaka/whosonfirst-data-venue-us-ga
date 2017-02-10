@@ -2,9 +2,14 @@
   "id": 739767929,
   "type": "Feature",
   "properties": {
+    "addr:full":"255 W Paces Ferry Rd NW Atlanta GA 30305",
+    "addr:housenumber":"255",
+    "addr:postcode":"30305",
+    "addr:street":"W Paces Ferry Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.394253,33.844063,-84.394253,33.844063",
     "geom:latitude":33.844063,
     "geom:longitude":-84.394253,
@@ -30,13 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872111,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872045,
-        85872111
+        85688535,
+        85872045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,7 +57,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872045,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":85872111,
             "region_id":85688535,
             "venue_id":739767929
         },
@@ -60,15 +67,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872111,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":85872045,
             "region_id":85688535,
             "venue_id":739767929
         }
     ],
     "wof:id":739767929,
-    "wof:lastmodified":1466475547,
+    "wof:lastmodified":1486671684,
     "wof:name":"The Capital Grille",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739939183,
   "type": "Feature",
   "properties": {
+    "addr:full":"2284 Peachtree Road NW Atlanta GA 30309",
+    "addr:housenumber":"2284",
+    "addr:postcode":"30309",
+    "addr:street":"Peachtree Road Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.389685,33.816775,-84.389685,33.816775",
     "geom:latitude":33.816775,
     "geom:longitude":-84.389685,
@@ -54,13 +59,15 @@
     "sg:website":"www.officedepot.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85808017,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872113,
-        85808017
+        85688535,
+        1108798513,
+        85872113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +82,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872113,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":85808017,
             "region_id":85688535,
             "venue_id":739939183
         },
@@ -84,15 +92,26 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85808017,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":1108798513,
+            "region_id":85688535,
+            "venue_id":739939183
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":85872113,
             "region_id":85688535,
             "venue_id":739939183
         }
     ],
     "wof:id":739939183,
-    "wof:lastmodified":1466478736,
+    "wof:lastmodified":1486672716,
     "wof:name":"Office Depot",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

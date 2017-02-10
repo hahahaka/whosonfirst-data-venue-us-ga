@@ -2,9 +2,14 @@
   "id": 739342421,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 Park Ave Atlanta GA 30326",
+    "addr:housenumber":"700",
+    "addr:postcode":"30326",
+    "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.363389,33.855343,-84.363389,33.855343",
     "geom:latitude":33.855343,
     "geom:longitude":-84.363389,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872103,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872103
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797041,
             "neighbourhood_id":85872103,
             "region_id":85688535,
             "venue_id":739342421
         }
     ],
     "wof:id":739342421,
-    "wof:lastmodified":1466464423,
+    "wof:lastmodified":1486668437,
     "wof:name":"Nuci Phllips Mem Fundation Inc",
     "wof:parent_id":85872103,
     "wof:placetype":"venue",

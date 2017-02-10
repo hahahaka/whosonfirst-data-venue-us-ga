@@ -2,9 +2,14 @@
   "id": 739984803,
   "type": "Feature",
   "properties": {
+    "addr:full":"720 Fulton Industrial Bl Atlanta GA 30336",
+    "addr:housenumber":"720",
+    "addr:postcode":"30336",
+    "addr:street":"Fulton Industrial Bl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.514664,33.773298,-84.514664,33.773298",
     "geom:latitude":33.773298,
     "geom:longitude":-84.514664,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798367,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
-        85837101
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85837101,
+            "macrohood_id":1108797043,
+            "neighbourhood_id":1108798367,
             "region_id":85688535,
             "venue_id":739984803
         }
     ],
     "wof:id":739984803,
-    "wof:lastmodified":1466479656,
+    "wof:lastmodified":1486672520,
     "wof:name":"Airway Motel",
-    "wof:parent_id":85837101,
+    "wof:parent_id":1108798367,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739695283,
   "type": "Feature",
   "properties": {
+    "addr:full":"514 Pine Tree Dr NE Atlanta GA 30305",
+    "addr:housenumber":"514",
+    "addr:postcode":"30305",
+    "addr:street":"Pine Tree Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.369728,33.829716,-84.369728,33.829716",
     "geom:latitude":33.829716,
     "geom:longitude":-84.369728,
@@ -25,13 +30,14 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872095,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872081,
-        85872095
+        85688535,
+        85872081
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +52,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872081,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":85872095,
             "region_id":85688535,
             "venue_id":739695283
         },
@@ -55,15 +62,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872095,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":85872081,
             "region_id":85688535,
             "venue_id":739695283
         }
     ],
     "wof:id":739695283,
-    "wof:lastmodified":1466473945,
+    "wof:lastmodified":1486668328,
     "wof:name":"Arstin Young",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

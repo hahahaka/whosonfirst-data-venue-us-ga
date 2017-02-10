@@ -2,9 +2,14 @@
   "id": 739952819,
   "type": "Feature",
   "properties": {
+    "addr:full":"479 Stonewall St SW Apt 202 Atlanta GA 30313",
+    "addr:housenumber":"479;202",
+    "addr:postcode":"30313",
+    "addr:street":"Stonewall St Sw Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.403422,33.749755,-84.403422,33.749755",
     "geom:latitude":33.749755,
     "geom:longitude":-84.403422,
@@ -19,12 +24,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872071,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85872071
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,13 +45,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85872071,
             "region_id":85688535,
             "venue_id":739952819
         }
     ],
     "wof:id":739952819,
-    "wof:lastmodified":1466479090,
+    "wof:lastmodified":1486669345,
     "wof:name":"Makin' Memories Creative Design Studio",
     "wof:parent_id":85872071,
     "wof:placetype":"venue",

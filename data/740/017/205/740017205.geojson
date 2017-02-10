@@ -2,9 +2,14 @@
   "id": 740017205,
   "type": "Feature",
   "properties": {
+    "addr:full":"2835 Browns Mill Rd SE Atlanta GA 30354",
+    "addr:housenumber":"2835",
+    "addr:postcode":"30354",
+    "addr:street":"Browns Mill Rd Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.384163,33.676788,-84.384163,33.676788",
     "geom:latitude":33.676788,
     "geom:longitude":-84.384163,
@@ -37,10 +42,10 @@
     "wof:belongsto":[
         85688535,
         102191575,
+        1108797037,
         85633793,
         85936429,
-        102083603,
-        85808085
+        102083603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +60,15 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85808085,
+            "macrohood_id":1108797037,
             "region_id":85688535,
             "venue_id":740017205
         }
     ],
     "wof:id":740017205,
-    "wof:lastmodified":1466463152,
+    "wof:lastmodified":1486671979,
     "wof:name":"Swing Construction Co",
-    "wof:parent_id":85808085,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

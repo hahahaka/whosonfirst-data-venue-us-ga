@@ -2,6 +2,10 @@
   "id": 740006015,
   "type": "Feature",
   "properties": {
+    "addr:full":"5501 Glenridge Dr NE Apt 528 Atlanta GA 30342",
+    "addr:housenumber":"5501;528",
+    "addr:postcode":"30342",
+    "addr:street":"Glenridge Dr Ne Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":740006015,
-    "wof:lastmodified":1466461706,
+    "wof:lastmodified":1472617810,
     "wof:name":"Bertolli Floors (2)",
     "wof:parent_id":85890019,
     "wof:placetype":"venue",

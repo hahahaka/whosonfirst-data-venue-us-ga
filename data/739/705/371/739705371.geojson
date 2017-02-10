@@ -2,9 +2,14 @@
   "id": 739705371,
   "type": "Feature",
   "properties": {
+    "addr:full":"406 E Rhinehill Rd SE Atlanta GA 30315",
+    "addr:housenumber":"406",
+    "addr:postcode":"30315",
+    "addr:street":"E Rhinehill Rd Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.374768,33.691599,-84.374768,33.691599",
     "geom:latitude":33.691599,
     "geom:longitude":-84.374768,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798221,
         102191575,
+        1108797037,
         85633793,
         85936429,
         102083603,
-        85808085
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85808085,
+            "macrohood_id":1108797037,
+            "neighbourhood_id":1108798221,
             "region_id":85688535,
             "venue_id":739705371
         }
     ],
     "wof:id":739705371,
-    "wof:lastmodified":1466474246,
+    "wof:lastmodified":1486672387,
     "wof:name":"Metro Home Discounters LLC",
-    "wof:parent_id":85808085,
+    "wof:parent_id":1108798221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739946291,
   "type": "Feature",
   "properties": {
+    "addr:full":"2140 Peachtree Road NW Suite 100 Atlanta GA 30309",
+    "addr:housenumber":"2140",
+    "addr:postcode":"30309",
+    "addr:street":"Peachtree Road Nw Suite 100",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.393446,33.813125,-84.393446,33.813125",
     "geom:latitude":33.813125,
     "geom:longitude":-84.393446,
@@ -34,12 +39,13 @@
     "sg:website":"www.woabuckhead.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798517,
         102191575,
+        1108797041,
         85633793,
         85936429,
         102083603,
-        85872047
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +60,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872047,
+            "macrohood_id":1108797041,
+            "neighbourhood_id":1108798517,
             "region_id":85688535,
             "venue_id":739946291
         }
     ],
     "wof:id":739946291,
-    "wof:lastmodified":1466478696,
+    "wof:lastmodified":1486672721,
     "wof:name":"Workout Anytime",
-    "wof:parent_id":85872047,
+    "wof:parent_id":1108798517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

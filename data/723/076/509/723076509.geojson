@@ -2,9 +2,14 @@
   "id": 723076509,
   "type": "Feature",
   "properties": {
+    "addr:full":"852 Confederate Ave SE Atlanta GA 30312",
+    "addr:housenumber":"852",
+    "addr:postcode":"30312",
+    "addr:street":"Confederate Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.364597,33.731477,-84.364597,33.731477",
     "geom:latitude":33.731477,
     "geom:longitude":-84.364597,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85872061,
         102191575,
+        1108797037,
         85633793,
         85936429,
         102083603,
-        85872061
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797037,
             "neighbourhood_id":85872061,
             "region_id":85688535,
             "venue_id":723076509
         }
     ],
     "wof:id":723076509,
-    "wof:lastmodified":1466464303,
+    "wof:lastmodified":1486668209,
     "wof:name":"Sculptural Designs",
     "wof:parent_id":85872061,
     "wof:placetype":"venue",

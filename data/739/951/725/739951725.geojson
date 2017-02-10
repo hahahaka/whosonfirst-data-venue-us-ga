@@ -2,9 +2,14 @@
   "id": 739951725,
   "type": "Feature",
   "properties": {
+    "addr:full":"505 Fulton St SW Atlanta GA 30312",
+    "addr:housenumber":"505",
+    "addr:postcode":"30312",
+    "addr:street":"Fulton St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.403007,33.741556,-84.403007,33.741556",
     "geom:latitude":33.741556,
     "geom:longitude":-84.403007,
@@ -30,10 +35,10 @@
     "wof:belongsto":[
         85688535,
         102191575,
+        1108797035,
         85633793,
         85936429,
-        102083603,
-        85872099
+        102083603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +53,15 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85872099,
+            "macrohood_id":1108797035,
             "region_id":85688535,
             "venue_id":739951725
         }
     ],
     "wof:id":739951725,
-    "wof:lastmodified":1466479072,
+    "wof:lastmodified":1486667980,
     "wof:name":"Divas Child Care",
-    "wof:parent_id":85872099,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

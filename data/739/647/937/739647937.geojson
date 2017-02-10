@@ -2,9 +2,14 @@
   "id": 739647937,
   "type": "Feature",
   "properties": {
+    "addr:full":"560 Dutch Valley Rd NE Atlanta GA 30324",
+    "addr:housenumber":"560",
+    "addr:postcode":"30324",
+    "addr:street":"Dutch Valley Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.368789,33.792168,-84.368789,33.792168",
     "geom:latitude":33.792168,
     "geom:longitude":-84.368789,
@@ -25,13 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85835263,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85835263,
-        85825631
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,24 +51,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85835263,
-            "region_id":85688535,
-            "venue_id":739647937
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083603,
-            "locality_id":85936429,
-            "neighbourhood_id":85825631,
             "region_id":85688535,
             "venue_id":739647937
         }
     ],
     "wof:id":739647937,
-    "wof:lastmodified":1466472754,
+    "wof:lastmodified":1486670636,
     "wof:name":"Habersham Interior Consulting",
-    "wof:parent_id":-1,
+    "wof:parent_id":85835263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

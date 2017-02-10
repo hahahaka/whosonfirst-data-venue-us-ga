@@ -2,9 +2,14 @@
   "id": 722855931,
   "type": "Feature",
   "properties": {
+    "addr:full":"381 Moreland Ave SE Atlanta GA 30316",
+    "addr:housenumber":"381",
+    "addr:postcode":"30316",
+    "addr:street":"Moreland Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.349216,33.743444,-84.349216,33.743444",
     "geom:latitude":33.743444,
     "geom:longitude":-84.349216,
@@ -24,7 +29,15 @@
     "sg:postcode":"30316",
     "sg:province":"GA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85872125,
+        102191575,
+        1108797045,
+        85633793,
+        85936429,
+        102083603,
+        85688535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01GJSDuQCNfx5gMKL5dS3K_33.743444_-84.349216@1294087602"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461889936,
     "wof:geomhash":"5da11d21cc7dc4c39c5c1b83e2922e27",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "neighbourhood_id":85872125,
+            "region_id":85688535,
+            "venue_id":722855931
+        }
+    ],
     "wof:id":722855931,
-    "wof:lastmodified":1466471283,
+    "wof:lastmodified":1486670552,
     "wof:name":"Golden Wing",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872125,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -2,6 +2,10 @@
   "id": 740000253,
   "type": "Feature",
   "properties": {
+    "addr:full":"1945 Savoy Dr Apt 6301 Atlanta GA 30341",
+    "addr:housenumber":"1945;6301",
+    "addr:postcode":"30341",
+    "addr:street":"Savoy Dr Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":740000253,
-    "wof:lastmodified":1466461375,
+    "wof:lastmodified":1472617812,
     "wof:name":"S & L Photography",
     "wof:parent_id":85890023,
     "wof:placetype":"venue",

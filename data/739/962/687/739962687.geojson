@@ -2,9 +2,14 @@
   "id": 739962687,
   "type": "Feature",
   "properties": {
+    "addr:full":"1085 Howell Mill Rd NW Atlanta GA 30318",
+    "addr:housenumber":"1085",
+    "addr:postcode":"30318",
+    "addr:street":"Howell Mill Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.411905,33.784257,-84.411905,33.784257",
     "geom:latitude":33.784257,
     "geom:longitude":-84.411905,
@@ -59,12 +64,13 @@
     "sg:website":"http://www.ironworks-intl.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85805581,
         102191575,
+        1108797045,
         85633793,
         85936429,
         102083603,
-        85805581
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,13 +85,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797045,
             "neighbourhood_id":85805581,
             "region_id":85688535,
             "venue_id":739962687
         }
     ],
     "wof:id":739962687,
-    "wof:lastmodified":1466479261,
+    "wof:lastmodified":1486670177,
     "wof:name":"Ironworks International Inc",
     "wof:parent_id":85805581,
     "wof:placetype":"venue",

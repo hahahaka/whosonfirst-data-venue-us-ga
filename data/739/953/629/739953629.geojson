@@ -2,9 +2,14 @@
   "id": 739953629,
   "type": "Feature",
   "properties": {
+    "addr:full":"293 Abbey St NW Atlanta GA 30314",
+    "addr:housenumber":"293",
+    "addr:postcode":"30314",
+    "addr:street":"Abbey St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.450769,33.754919,-84.450769,33.754919",
     "geom:latitude":33.754919,
     "geom:longitude":-84.450769,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798361,
         102191575,
+        1108797043,
         85633793,
         85936429,
         102083603,
-        85804751
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85804751,
+            "macrohood_id":1108797043,
+            "neighbourhood_id":1108798361,
             "region_id":85688535,
             "venue_id":739953629
         }
     ],
     "wof:id":739953629,
-    "wof:lastmodified":1466479052,
+    "wof:lastmodified":1486672513,
     "wof:name":"Gig Electric",
-    "wof:parent_id":85804751,
+    "wof:parent_id":1108798361,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739300967,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 Pulliam St SW Atlanta GA 30312",
+    "addr:housenumber":"501",
+    "addr:postcode":"30312",
+    "addr:street":"Pulliam St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.392564,33.741769,-84.392564,33.741769",
     "geom:latitude":33.741769,
     "geom:longitude":-84.392564,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85833641,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        85833641
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":85833641,
             "region_id":85688535,
             "venue_id":739300967
         }
     ],
     "wof:id":739300967,
-    "wof:lastmodified":1466463178,
+    "wof:lastmodified":1486667925,
     "wof:name":"IBEW 613 Credit Union Inc",
     "wof:parent_id":85833641,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 739650511,
   "type": "Feature",
   "properties": {
+    "addr:full":"718 E Side Ave SE Atlanta GA 30316",
+    "addr:housenumber":"718",
+    "addr:postcode":"30316",
+    "addr:street":"E Side Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.339947,33.734279,-84.339947,33.734279",
     "geom:latitude":33.734279,
     "geom:longitude":-84.339947,
@@ -27,7 +32,14 @@
         "personal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688535,
+        102191575,
+        1108797045,
+        85633793,
+        85936429,
+        102083603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YVC7uK0HVT3AhCNFXi4xr_33.734279_-84.339947@1294087602"
@@ -35,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1461911507,
     "wof:geomhash":"e4449bd29d86d88bf8b504bfb4112e7a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85936429,
+            "macrohood_id":1108797045,
+            "region_id":85688535,
+            "venue_id":739650511
+        }
+    ],
     "wof:id":739650511,
-    "wof:lastmodified":1466472754,
+    "wof:lastmodified":1486669944,
     "wof:name":"Caleco Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

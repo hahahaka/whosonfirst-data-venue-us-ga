@@ -2,9 +2,14 @@
   "id": 739950239,
   "type": "Feature",
   "properties": {
+    "addr:full":"1320 Westmont Rd SW Atlanta GA 30311",
+    "addr:housenumber":"1320",
+    "addr:postcode":"30311",
+    "addr:street":"Westmont Rd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.437619,33.719314,-84.437619,33.719314",
     "geom:latitude":33.719314,
     "geom:longitude":-84.437619,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        1108798253,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        420517887
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":420517887,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":1108798253,
             "region_id":85688535,
             "venue_id":739950239
         }
     ],
     "wof:id":739950239,
-    "wof:lastmodified":1466478981,
+    "wof:lastmodified":1486672421,
     "wof:name":"Dream Logistics",
-    "wof:parent_id":420517887,
+    "wof:parent_id":1108798253,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

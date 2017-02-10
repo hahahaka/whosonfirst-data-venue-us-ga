@@ -2,9 +2,14 @@
   "id": 739954743,
   "type": "Feature",
   "properties": {
+    "addr:full":"1044 Washington St SW # 1 Atlanta GA 30315",
+    "addr:housenumber":"1044",
+    "addr:postcode":"30315",
+    "addr:street":"Washington St Sw # 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.390987,33.726591,-84.390987,33.726591",
     "geom:latitude":33.726591,
     "geom:longitude":-84.390987,
@@ -30,13 +35,15 @@
     "sg:website":"http://www.peoplestown.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85833641,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
+        85688535,
         85841265,
-        85833641
+        1108797037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,7 +58,8 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85841265,
+            "macrohood_id":1108797035,
+            "neighbourhood_id":85833641,
             "region_id":85688535,
             "venue_id":739954743
         },
@@ -60,15 +68,16 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
-            "neighbourhood_id":85833641,
+            "macrohood_id":1108797037,
+            "neighbourhood_id":85841265,
             "region_id":85688535,
             "venue_id":739954743
         }
     ],
     "wof:id":739954743,
-    "wof:lastmodified":1466479074,
+    "wof:lastmodified":1486668149,
     "wof:name":"Peoplestown Revitalization Corporation",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

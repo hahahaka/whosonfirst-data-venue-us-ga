@@ -2,9 +2,14 @@
   "id": 723336323,
   "type": "Feature",
   "properties": {
+    "addr:full":"2920 3rd Ave SW Atlanta GA 30315",
+    "addr:housenumber":"2920",
+    "addr:postcode":"30315",
+    "addr:street":"3Rd Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.406413,33.676058,-84.406413,33.676058",
     "geom:latitude":33.676058,
     "geom:longitude":-84.406413,
@@ -25,12 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420517905,
         102191575,
+        1108797035,
         85633793,
         85936429,
         102083603,
-        420517905
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85936429,
+            "macrohood_id":1108797035,
             "neighbourhood_id":420517905,
             "region_id":85688535,
             "venue_id":723336323
         }
     ],
     "wof:id":723336323,
-    "wof:lastmodified":1466471403,
+    "wof:lastmodified":1486667963,
     "wof:name":"Wtjh Power 1260 Outreach Inc",
     "wof:parent_id":420517905,
     "wof:placetype":"venue",
