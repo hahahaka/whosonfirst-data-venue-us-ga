@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.103009,32.07497,-81.103009,32.07497",
     "geom:latitude":32.07497,
     "geom:longitude":-81.103009,
@@ -38,8 +39,10 @@
         85633793,
         85936939,
         102082337,
+        85811497,
         85880909,
-        85880921
+        85880921,
+        85880891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,6 +52,15 @@
     "wof:created":1461886347,
     "wof:geomhash":"7461a704357b97ae43de288751b954bd",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85811497,
+            "region_id":85688535,
+            "venue_id":722667611
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -66,12 +78,21 @@
             "neighbourhood_id":85880921,
             "region_id":85688535,
             "venue_id":722667611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880891,
+            "region_id":85688535,
+            "venue_id":722667611
         }
     ],
     "wof:id":722667611,
-    "wof:lastmodified":1472618280,
+    "wof:lastmodified":1491893403,
     "wof:name":"Foremost Record Storage Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

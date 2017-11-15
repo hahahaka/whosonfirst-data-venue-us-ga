@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.109033,32.009549,-81.109033,32.009549",
     "geom:latitude":32.009549,
     "geom:longitude":-81.109033,
@@ -40,7 +41,8 @@
         85633793,
         85936939,
         102082337,
-        85838901
+        85838901,
+        85890047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,12 +60,21 @@
             "neighbourhood_id":85838901,
             "region_id":85688535,
             "venue_id":739422787
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85890047,
+            "region_id":85688535,
+            "venue_id":739422787
         }
     ],
     "wof:id":739422787,
-    "wof:lastmodified":1472618408,
+    "wof:lastmodified":1491934000,
     "wof:name":"Parcel Forwarding Services",
-    "wof:parent_id":85838901,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

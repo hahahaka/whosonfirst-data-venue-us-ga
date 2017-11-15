@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.520168,33.767522,-84.520168,33.767522",
     "geom:latitude":33.767522,
     "geom:longitude":-84.520168,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"740 Wendell Ct SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -33,35 +35,32 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
-        85936429,
-        102083603,
-        85837101
+        85688535,
+        102083603
     ],
+    "wof:brand_id":1125153721,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JIXNR8QN7TTv33NHuujrP_33.767522_-84.520168@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461891197,
-    "wof:geomhash":"1423f6edabe66821311517aa3638e412",
+    "wof:geomhash":"d707e1c6ec7ae584f4af5b08c30dfac4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083603,
-            "locality_id":85936429,
-            "neighbourhood_id":85837101,
             "region_id":85688535,
             "venue_id":722920693
         }
     ],
     "wof:id":722920693,
-    "wof:lastmodified":1472618980,
+    "wof:lastmodified":1510695749,
     "wof:name":"Spherion Staffing Group",
-    "wof:parent_id":85837101,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

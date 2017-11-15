@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.313725,33.973448,-84.313725,33.973448",
     "geom:latitude":33.973448,
     "geom:longitude":-84.313725,
@@ -40,8 +41,8 @@
         85633793,
         85937165,
         102083603,
-        85890011,
-        420517933
+        420517933,
+        85890011
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +57,7 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85937165,
-            "neighbourhood_id":85890011,
+            "neighbourhood_id":420517933,
             "region_id":85688535,
             "venue_id":723215113
         },
@@ -65,15 +66,15 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85937165,
-            "neighbourhood_id":420517933,
+            "neighbourhood_id":85890011,
             "region_id":85688535,
             "venue_id":723215113
         }
     ],
     "wof:id":723215113,
-    "wof:lastmodified":1472618555,
+    "wof:lastmodified":1491904471,
     "wof:name":"Creative Solution Company",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

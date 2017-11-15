@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.122318,31.99836,-81.122318,31.99836",
     "geom:latitude":31.99836,
     "geom:longitude":-81.122318,
@@ -38,7 +39,9 @@
         85633793,
         85936939,
         102082337,
-        420517363
+        420517363,
+        85880897,
+        85857423
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,12 +59,30 @@
             "neighbourhood_id":420517363,
             "region_id":85688535,
             "venue_id":739726165
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880897,
+            "region_id":85688535,
+            "venue_id":739726165
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85857423,
+            "region_id":85688535,
+            "venue_id":739726165
         }
     ],
     "wof:id":739726165,
-    "wof:lastmodified":1472619156,
+    "wof:lastmodified":1491904214,
     "wof:name":"Bedtime Waterbeds",
-    "wof:parent_id":420517363,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

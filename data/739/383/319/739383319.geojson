@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.351442,33.923673,-84.351442,33.923673",
     "geom:latitude":33.923673,
     "geom:longitude":-84.351442,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6160 Peachtree Dunwoody Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -35,30 +37,22 @@
         85688535,
         102191575,
         85633793,
-        85936467,
-        102084539,
-        85890003,
         85937165,
         102083603,
-        85889977
+        85889977,
+        85936467,
+        102084539,
+        85890003
     ],
+    "wof:brand_id":1125152367,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NjLFEVrL26OgKpq9HqvIX_33.923673_-84.351442@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461906256,
-    "wof:geomhash":"5d54b7de048c1daecff517924ada281e",
+    "wof:geomhash":"f5b07eee3fcfa5b644f45b9dbb8ef561",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084539,
-            "locality_id":85936467,
-            "neighbourhood_id":85890003,
-            "region_id":85688535,
-            "venue_id":739383319
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -67,12 +61,21 @@
             "neighbourhood_id":85889977,
             "region_id":85688535,
             "venue_id":739383319
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890003,
+            "region_id":85688535,
+            "venue_id":739383319
         }
     ],
     "wof:id":739383319,
-    "wof:lastmodified":1472618268,
+    "wof:lastmodified":1510696798,
     "wof:name":"Raymond James Financial Svcs",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

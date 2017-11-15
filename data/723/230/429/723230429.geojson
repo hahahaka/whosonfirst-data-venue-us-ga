@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.101132,32.054944,-81.101132,32.054944",
     "geom:latitude":32.054944,
     "geom:longitude":-81.101132,
@@ -37,6 +38,7 @@
         85633793,
         85936939,
         102082337,
+        85880915,
         85880923
     ],
     "wof:breaches":[],
@@ -52,15 +54,24 @@
             "country_id":85633793,
             "county_id":102082337,
             "locality_id":85936939,
+            "neighbourhood_id":85880915,
+            "region_id":85688535,
+            "venue_id":723230429
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
             "neighbourhood_id":85880923,
             "region_id":85688535,
             "venue_id":723230429
         }
     ],
     "wof:id":723230429,
-    "wof:lastmodified":1472618625,
+    "wof:lastmodified":1491918321,
     "wof:name":"Savannah Soul Saving Church",
-    "wof:parent_id":85880923,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

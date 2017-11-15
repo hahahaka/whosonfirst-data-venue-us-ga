@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.112282,32.074558,-81.112282,32.074558",
     "geom:latitude":32.074558,
     "geom:longitude":-81.112282,
@@ -39,8 +40,8 @@
         85633793,
         85936939,
         102082337,
-        85880891,
-        85880909
+        85880909,
+        85880891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +56,7 @@
             "country_id":85633793,
             "county_id":102082337,
             "locality_id":85936939,
-            "neighbourhood_id":85880891,
+            "neighbourhood_id":85880909,
             "region_id":85688535,
             "venue_id":739748279
         },
@@ -64,15 +65,15 @@
             "country_id":85633793,
             "county_id":102082337,
             "locality_id":85936939,
-            "neighbourhood_id":85880909,
+            "neighbourhood_id":85880891,
             "region_id":85688535,
             "venue_id":739748279
         }
     ],
     "wof:id":739748279,
-    "wof:lastmodified":1472619213,
+    "wof:lastmodified":1491893403,
     "wof:name":"Savannah Wood Preserving Co Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

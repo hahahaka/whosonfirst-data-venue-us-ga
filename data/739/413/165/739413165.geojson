@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.339051,33.920637,-84.339051,33.920637",
     "geom:latitude":33.920637,
     "geom:longitude":-84.339051,
@@ -38,6 +39,7 @@
         85633793,
         85936467,
         102084539,
+        85889963,
         85890003
     ],
     "wof:breaches":[],
@@ -53,15 +55,24 @@
             "country_id":85633793,
             "county_id":102084539,
             "locality_id":85936467,
+            "neighbourhood_id":85889963,
+            "region_id":85688535,
+            "venue_id":739413165
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
             "neighbourhood_id":85890003,
             "region_id":85688535,
             "venue_id":739413165
         }
     ],
     "wof:id":739413165,
-    "wof:lastmodified":1472618367,
+    "wof:lastmodified":1491914202,
     "wof:name":"Barnie's Coffee & Tea Co",
-    "wof:parent_id":85890003,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

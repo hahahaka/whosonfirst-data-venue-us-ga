@@ -34,14 +34,13 @@
     "sg:website":"www.sakurastix.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872135,
+        85872149,
         102191575,
         1108797041,
         85633793,
         85936429,
         102083603,
-        85688535,
-        85872149
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,25 +56,15 @@
             "county_id":102083603,
             "locality_id":85936429,
             "macrohood_id":1108797041,
-            "neighbourhood_id":85872135,
-            "region_id":85688535,
-            "venue_id":739962601
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083603,
-            "locality_id":85936429,
-            "macrohood_id":1108797041,
             "neighbourhood_id":85872149,
             "region_id":85688535,
             "venue_id":739962601
         }
     ],
     "wof:id":739962601,
-    "wof:lastmodified":1486671797,
+    "wof:lastmodified":1491890022,
     "wof:name":"Sakura Stix",
-    "wof:parent_id":-3,
+    "wof:parent_id":85872149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

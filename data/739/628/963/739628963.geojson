@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.098328,32.065134,-81.098328,32.065134",
     "geom:latitude":32.065134,
     "geom:longitude":-81.098328,
@@ -34,7 +35,9 @@
         85633793,
         85936939,
         102082337,
-        85880903
+        85880903,
+        85880921,
+        85880927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,12 +55,30 @@
             "neighbourhood_id":85880903,
             "region_id":85688535,
             "venue_id":739628963
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880921,
+            "region_id":85688535,
+            "venue_id":739628963
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880927,
+            "region_id":85688535,
+            "venue_id":739628963
         }
     ],
     "wof:id":739628963,
-    "wof:lastmodified":1472618940,
+    "wof:lastmodified":1491893411,
     "wof:name":"Powertel Engineering Inc",
-    "wof:parent_id":85880903,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

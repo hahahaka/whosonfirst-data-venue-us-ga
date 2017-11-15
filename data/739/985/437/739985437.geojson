@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.520953,33.767026,-84.520953,33.767026",
     "geom:latitude":33.767026,
     "geom:longitude":-84.520953,
@@ -30,12 +31,10 @@
     "sg:website":"www.laborready.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
         102191575,
         85633793,
-        85936429,
-        102083603,
-        85837101
+        85688535,
+        102083603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,16 +48,14 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083603,
-            "locality_id":85936429,
-            "neighbourhood_id":85837101,
             "region_id":85688535,
             "venue_id":739985437
         }
     ],
     "wof:id":739985437,
-    "wof:lastmodified":1472619679,
+    "wof:lastmodified":1491887315,
     "wof:name":"Labor Ready",
-    "wof:parent_id":85837101,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

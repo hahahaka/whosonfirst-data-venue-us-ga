@@ -15,6 +15,7 @@
     "geom:longitude":-84.369428,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"551 John Wesley Dobbs Ave NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -39,16 +40,16 @@
         85633793,
         85936429,
         102083603,
-        85688535,
-        85872065
+        85688535
     ],
+    "wof:brand_id":1125152021,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06xSydFIce4cr6Nf44OnrY_33.759152_-84.369428@1303262614"
     },
     "wof:country":"US",
     "wof:created":1461922009,
-    "wof:geomhash":"573d4975127393168804f46a217057ab",
+    "wof:geomhash":"be09c21e66dede58715ae7b863196219",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,22 +60,12 @@
             "neighbourhood_id":85872109,
             "region_id":85688535,
             "venue_id":739951337
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083603,
-            "locality_id":85936429,
-            "macrohood_id":1108797045,
-            "neighbourhood_id":85872065,
-            "region_id":85688535,
-            "venue_id":739951337
         }
     ],
     "wof:id":739951337,
-    "wof:lastmodified":1486670358,
+    "wof:lastmodified":1510696813,
     "wof:name":"777 Emergency Locksmith",
-    "wof:parent_id":-3,
+    "wof:parent_id":85872109,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.097785,32.073598,-81.097785,32.073598",
     "geom:latitude":32.073598,
     "geom:longitude":-81.097785,
@@ -38,8 +39,8 @@
         85633793,
         85936939,
         102082337,
-        85880921,
-        85880901
+        85880901,
+        85880921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +55,7 @@
             "country_id":85633793,
             "county_id":102082337,
             "locality_id":85936939,
-            "neighbourhood_id":85880921,
+            "neighbourhood_id":85880901,
             "region_id":85688535,
             "venue_id":739772839
         },
@@ -63,15 +64,15 @@
             "country_id":85633793,
             "county_id":102082337,
             "locality_id":85936939,
-            "neighbourhood_id":85880901,
+            "neighbourhood_id":85880921,
             "region_id":85688535,
             "venue_id":739772839
         }
     ],
     "wof:id":739772839,
-    "wof:lastmodified":1472619327,
+    "wof:lastmodified":1491893408,
     "wof:name":"The Historical Crystal Beer Parlor",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

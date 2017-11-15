@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.099483,32.083134,-81.099483,32.083134",
     "geom:latitude":32.083134,
     "geom:longitude":-81.099483,
@@ -34,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688535,
+        102191575,
         85633793,
         85936939,
         102082337,
-        85880917
+        85880891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,18 +50,19 @@
     "wof:geomhash":"bcae2841dc4db50e91b56bd8f07befa0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082337,
             "locality_id":85936939,
-            "neighbourhood_id":85880917,
+            "neighbourhood_id":85880891,
             "region_id":85688535,
             "venue_id":739523701
         }
     ],
     "wof:id":739523701,
-    "wof:lastmodified":1472618645,
+    "wof:lastmodified":1491893400,
     "wof:name":"US Post Office",
-    "wof:parent_id":85880917,
+    "wof:parent_id":85880891,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -31,12 +31,13 @@
     "sg:website":"www.burgerking.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85815915,
         102191575,
         1108797045,
         85633793,
         85936429,
-        102083603
+        102083603,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,15 @@
             "county_id":102083603,
             "locality_id":85936429,
             "macrohood_id":1108797045,
+            "neighbourhood_id":85815915,
             "region_id":85688535,
             "venue_id":739956475
         }
     ],
     "wof:id":739956475,
-    "wof:lastmodified":1486669742,
+    "wof:lastmodified":1491905013,
     "wof:name":"Burger King",
-    "wof:parent_id":-1,
+    "wof:parent_id":85815915,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

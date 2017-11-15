@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.098567,32.067802,-81.098567,32.067802",
     "geom:latitude":32.067802,
     "geom:longitude":-81.098567,
@@ -37,6 +38,7 @@
         85633793,
         85936939,
         102082337,
+        85880921,
         85880927
     ],
     "wof:breaches":[],
@@ -52,15 +54,24 @@
             "country_id":85633793,
             "county_id":102082337,
             "locality_id":85936939,
+            "neighbourhood_id":85880921,
+            "region_id":85688535,
+            "venue_id":722844863
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
             "neighbourhood_id":85880927,
             "region_id":85688535,
             "venue_id":722844863
         }
     ],
     "wof:id":722844863,
-    "wof:lastmodified":1472618766,
+    "wof:lastmodified":1491893417,
     "wof:name":"Emmoth Construction",
-    "wof:parent_id":85880927,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.352207,33.93092,-84.352207,33.93092",
     "geom:latitude":33.93092,
     "geom:longitude":-84.352207,
@@ -37,8 +38,8 @@
         85633793,
         85937165,
         102083603,
-        85889991,
-        85889977
+        85889977,
+        85889991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +54,7 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85937165,
-            "neighbourhood_id":85889991,
+            "neighbourhood_id":85889977,
             "region_id":85688535,
             "venue_id":739987239
         },
@@ -62,15 +63,15 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85937165,
-            "neighbourhood_id":85889977,
+            "neighbourhood_id":85889991,
             "region_id":85688535,
             "venue_id":739987239
         }
     ],
     "wof:id":739987239,
-    "wof:lastmodified":1472619678,
+    "wof:lastmodified":1491902588,
     "wof:name":"Printelligent",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

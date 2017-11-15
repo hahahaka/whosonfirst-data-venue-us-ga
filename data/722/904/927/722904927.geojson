@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.104008,31.998137,-81.104008,31.998137",
     "geom:latitude":31.998137,
     "geom:longitude":-81.104008,
@@ -38,6 +39,7 @@
         85633793,
         85936939,
         102082337,
+        420517331,
         85847011
     ],
     "wof:breaches":[],
@@ -53,15 +55,24 @@
             "country_id":85633793,
             "county_id":102082337,
             "locality_id":85936939,
+            "neighbourhood_id":420517331,
+            "region_id":85688535,
+            "venue_id":722904927
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
             "neighbourhood_id":85847011,
             "region_id":85688535,
             "venue_id":722904927
         }
     ],
     "wof:id":722904927,
-    "wof:lastmodified":1472618926,
+    "wof:lastmodified":1491913391,
     "wof:name":"Colorfield",
-    "wof:parent_id":85847011,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

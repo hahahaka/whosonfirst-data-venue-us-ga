@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.348983,33.93021,-84.348983,33.93021",
     "geom:latitude":33.93021,
     "geom:longitude":-84.348983,
@@ -47,8 +48,8 @@
         85633793,
         85937165,
         102083603,
-        85889991,
-        85889977
+        85889977,
+        85889991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +64,7 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85937165,
-            "neighbourhood_id":85889991,
+            "neighbourhood_id":85889977,
             "region_id":85688535,
             "venue_id":739989605
         },
@@ -72,15 +73,15 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85937165,
-            "neighbourhood_id":85889977,
+            "neighbourhood_id":85889991,
             "region_id":85688535,
             "venue_id":739989605
         }
     ],
     "wof:id":739989605,
-    "wof:lastmodified":1472619700,
+    "wof:lastmodified":1491902605,
     "wof:name":"Mmc 20/20 Systems, Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

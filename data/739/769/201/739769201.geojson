@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.338115,33.923765,-84.338115,33.923765",
     "geom:latitude":33.923765,
     "geom:longitude":-84.338115,
@@ -42,8 +43,8 @@
         85633793,
         85936467,
         102084539,
-        85890003,
-        85889963
+        85889963,
+        85890003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +59,7 @@
             "country_id":85633793,
             "county_id":102084539,
             "locality_id":85936467,
-            "neighbourhood_id":85890003,
+            "neighbourhood_id":85889963,
             "region_id":85688535,
             "venue_id":739769201
         },
@@ -67,15 +68,15 @@
             "country_id":85633793,
             "county_id":102084539,
             "locality_id":85936467,
-            "neighbourhood_id":85889963,
+            "neighbourhood_id":85890003,
             "region_id":85688535,
             "venue_id":739769201
         }
     ],
     "wof:id":739769201,
-    "wof:lastmodified":1472619278,
+    "wof:lastmodified":1491914206,
     "wof:name":"Goldfish",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

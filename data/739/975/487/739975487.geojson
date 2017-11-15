@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.350761,33.927582,-84.350761,33.927582",
     "geom:latitude":33.927582,
     "geom:longitude":-84.350761,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9000 Central Park W # 240",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -39,26 +41,18 @@
         85633793,
         85937165,
         102083603,
-        85889991,
-        85889977
+        85889977,
+        85889991
     ],
+    "wof:brand_id":1125159545,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QK6Yop5XFINd2Cvf6r2Jh_33.927582_-84.350761@1303262620"
     },
     "wof:country":"US",
     "wof:created":1461922960,
-    "wof:geomhash":"e0e706648093f6a8c159b379fea7fef1",
+    "wof:geomhash":"36ab1e5c7a61b8c9fa03eed3266cd725",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083603,
-            "locality_id":85937165,
-            "neighbourhood_id":85889991,
-            "region_id":85688535,
-            "venue_id":739975487
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -67,12 +61,21 @@
             "neighbourhood_id":85889977,
             "region_id":85688535,
             "venue_id":739975487
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083603,
+            "locality_id":85937165,
+            "neighbourhood_id":85889991,
+            "region_id":85688535,
+            "venue_id":739975487
         }
     ],
     "wof:id":739975487,
-    "wof:lastmodified":1472619654,
+    "wof:lastmodified":1510699958,
     "wof:name":"Equity Corporate Housing",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

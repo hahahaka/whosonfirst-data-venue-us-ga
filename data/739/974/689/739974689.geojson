@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.363795,33.928037,-84.363795,33.928037",
     "geom:latitude":33.928037,
     "geom:longitude":-84.363795,
@@ -39,8 +40,8 @@
         85633793,
         85937165,
         102083603,
-        85889935,
-        85889977
+        85889977,
+        85889935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +56,7 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85937165,
-            "neighbourhood_id":85889935,
+            "neighbourhood_id":85889977,
             "region_id":85688535,
             "venue_id":739974689
         },
@@ -64,15 +65,15 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85937165,
-            "neighbourhood_id":85889977,
+            "neighbourhood_id":85889935,
             "region_id":85688535,
             "venue_id":739974689
         }
     ],
     "wof:id":739974689,
-    "wof:lastmodified":1472619669,
+    "wof:lastmodified":1491902525,
     "wof:name":"LabCorp - Patient Service Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

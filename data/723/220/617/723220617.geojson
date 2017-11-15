@@ -30,14 +30,13 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872061,
+        85866905,
         102191575,
         1108797037,
         85633793,
         85936429,
         102083603,
-        85688535,
-        85841265
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,25 +52,15 @@
             "county_id":102083603,
             "locality_id":85936429,
             "macrohood_id":1108797037,
-            "neighbourhood_id":85872061,
-            "region_id":85688535,
-            "venue_id":723220617
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083603,
-            "locality_id":85936429,
-            "macrohood_id":1108797037,
-            "neighbourhood_id":85841265,
+            "neighbourhood_id":85866905,
             "region_id":85688535,
             "venue_id":723220617
         }
     ],
     "wof:id":723220617,
-    "wof:lastmodified":1486668151,
+    "wof:lastmodified":1491915432,
     "wof:name":"King Masons Sherwood Cut Stone",
-    "wof:parent_id":-3,
+    "wof:parent_id":85866905,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.157737,32.07812,-81.157737,32.07812",
     "geom:latitude":32.07812,
     "geom:longitude":-81.157737,
@@ -33,9 +34,11 @@
         85688535,
         102191575,
         85633793,
-        85936947,
+        85936939,
         102082337,
-        85851907
+        85851907,
+        85936947,
+        85858847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,16 +52,25 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082337,
-            "locality_id":85936947,
+            "locality_id":85936939,
             "neighbourhood_id":85851907,
+            "region_id":85688535,
+            "venue_id":722712855
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936947,
+            "neighbourhood_id":85858847,
             "region_id":85688535,
             "venue_id":722712855
         }
     ],
     "wof:id":722712855,
-    "wof:lastmodified":1472618473,
+    "wof:lastmodified":1491906212,
     "wof:name":"Savannah Christian School",
-    "wof:parent_id":85851907,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

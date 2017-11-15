@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.102609,32.001995,-81.102609,32.001995",
     "geom:latitude":32.001995,
     "geom:longitude":-81.102609,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7602 Waters Ave",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -41,16 +43,27 @@
         85633793,
         85936939,
         102082337,
+        420517331,
         85847011
     ],
+    "wof:brand_id":1125150757,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cdzfgfTNze5XerQ9V3tgX_32.001995_-81.102609@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461906900,
-    "wof:geomhash":"4aae5d6f8c9868b715d9356fc310a512",
+    "wof:geomhash":"9493465bf4873d597124d94884d4e334",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":420517331,
+            "region_id":85688535,
+            "venue_id":739417255
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -62,9 +75,9 @@
         }
     ],
     "wof:id":739417255,
-    "wof:lastmodified":1472618373,
+    "wof:lastmodified":1510697588,
     "wof:name":"American Homepatient",
-    "wof:parent_id":85847011,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

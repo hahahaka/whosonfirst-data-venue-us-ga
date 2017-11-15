@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.337731,33.924412,-84.337731,33.924412",
     "geom:latitude":33.924412,
     "geom:longitude":-84.337731,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4502 Ashford Dunwoody Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -38,26 +40,18 @@
         85633793,
         85936467,
         102084539,
-        85890003,
-        85889963
+        85889963,
+        85890003
     ],
+    "wof:brand_id":1125153515,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tSwPyw7RKPATXnHTedI11_33.924412_-84.337731@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461885417,
-    "wof:geomhash":"7ed2f33b2da5f15fec5fdd0cf72d4c7f",
+    "wof:geomhash":"3b7485c1531cf1088457598f3c864e2b",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084539,
-            "locality_id":85936467,
-            "neighbourhood_id":85890003,
-            "region_id":85688535,
-            "venue_id":722621417
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -66,12 +60,21 @@
             "neighbourhood_id":85889963,
             "region_id":85688535,
             "venue_id":722621417
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890003,
+            "region_id":85688535,
+            "venue_id":722621417
         }
     ],
     "wof:id":722621417,
-    "wof:lastmodified":1472618071,
+    "wof:lastmodified":1510698959,
     "wof:name":"Delta Airlines",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

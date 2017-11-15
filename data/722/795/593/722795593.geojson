@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.153562,32.090342,-81.153562,32.090342",
     "geom:latitude":32.090342,
     "geom:longitude":-81.153562,
@@ -35,9 +36,9 @@
         85688535,
         102191575,
         85633793,
-        85936947,
+        85936939,
         102082337,
-        420517399
+        85851907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,16 +52,16 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082337,
-            "locality_id":85936947,
-            "neighbourhood_id":420517399,
+            "locality_id":85936939,
+            "neighbourhood_id":85851907,
             "region_id":85688535,
             "venue_id":722795593
         }
     ],
     "wof:id":722795593,
-    "wof:lastmodified":1472618640,
+    "wof:lastmodified":1491906221,
     "wof:name":"Kessler's Restaurant",
-    "wof:parent_id":420517399,
+    "wof:parent_id":85851907,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

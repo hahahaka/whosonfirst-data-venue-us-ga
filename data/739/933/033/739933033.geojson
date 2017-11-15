@@ -15,6 +15,7 @@
     "geom:longitude":-84.347642,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1230 Caroline Street NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -30,20 +31,22 @@
     "sg:province":"GA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        85817483,
         102191575,
         1108797045,
         85633793,
         85936429,
-        102083603
+        102083603,
+        85688535
     ],
+    "wof:brand_id":1125155729,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4d07ioFXaiS6YwXI7lkrO1_33.758478_-84.347642@1303262609"
     },
     "wof:country":"US",
     "wof:created":1461921150,
-    "wof:geomhash":"510df68c22f4ba2c5ea9ba8add6b3fc4",
+    "wof:geomhash":"d03480f81f8d92a8d7eeb3f8955937fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,14 +54,15 @@
             "county_id":102083603,
             "locality_id":85936429,
             "macrohood_id":1108797045,
+            "neighbourhood_id":85817483,
             "region_id":85688535,
             "venue_id":739933033
         }
     ],
     "wof:id":739933033,
-    "wof:lastmodified":1486669889,
+    "wof:lastmodified":1510697286,
     "wof:name":"Carriage Cleaners",
-    "wof:parent_id":-1,
+    "wof:parent_id":85817483,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

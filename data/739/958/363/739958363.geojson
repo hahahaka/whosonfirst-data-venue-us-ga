@@ -15,6 +15,7 @@
     "geom:longitude":-84.407822,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1575 Northside Dr NW Ste 405",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -44,16 +45,16 @@
         85633793,
         85936429,
         102083603,
-        85688535,
-        85889937
+        85688535
     ],
+    "wof:brand_id":1125153511,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MzLIK6p3I4otHGsapqVyY_33.798599_-84.407822@1303262616"
     },
     "wof:country":"US",
     "wof:created":1461922308,
-    "wof:geomhash":"2ab43206291e2657703f9b83d188c212",
+    "wof:geomhash":"f92bee118a7fbacf17e58e6d532ed9aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,22 +65,12 @@
             "neighbourhood_id":85872097,
             "region_id":85688535,
             "venue_id":739958363
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083603,
-            "locality_id":85936429,
-            "macrohood_id":1108797045,
-            "neighbourhood_id":85889937,
-            "region_id":85688535,
-            "venue_id":739958363
         }
     ],
     "wof:id":739958363,
-    "wof:lastmodified":1486669609,
+    "wof:lastmodified":1510698962,
     "wof:name":"Da Vita Inc",
-    "wof:parent_id":-3,
+    "wof:parent_id":85872097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

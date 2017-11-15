@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.129795,31.999917,-81.129795,31.999917",
     "geom:latitude":31.999917,
     "geom:longitude":-81.129795,
@@ -37,6 +38,7 @@
         85633793,
         85936939,
         102082337,
+        85880897,
         420517371
     ],
     "wof:breaches":[],
@@ -52,15 +54,24 @@
             "country_id":85633793,
             "county_id":102082337,
             "locality_id":85936939,
+            "neighbourhood_id":85880897,
+            "region_id":85688535,
+            "venue_id":739391015
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
             "neighbourhood_id":420517371,
             "region_id":85688535,
             "venue_id":739391015
         }
     ],
     "wof:id":739391015,
-    "wof:lastmodified":1472618302,
+    "wof:lastmodified":1491904211,
     "wof:name":"Rauls Construction Co Inc",
-    "wof:parent_id":420517371,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

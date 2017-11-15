@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.111533,32.002324,-81.111533,32.002324",
     "geom:latitude":32.002324,
     "geom:longitude":-81.111533,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688535,
+        102191575,
         85633793,
         85936939,
-        102082337
+        102082337,
+        420517331,
+        85890047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,28 @@
     "wof:geomhash":"fb86006c008547be79f29e8a87f2f984",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082337,
             "locality_id":85936939,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420517331,
+            "region_id":85688535,
+            "venue_id":169601509
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85890047,
             "region_id":85688535,
             "venue_id":169601509
         }
     ],
     "wof:id":169601509,
-    "wof:lastmodified":1472617800,
+    "wof:lastmodified":1491933995,
     "wof:name":"Formal Focus",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

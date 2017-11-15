@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.147508,32.09402,-81.147508,32.09402",
     "geom:latitude":32.09402,
     "geom:longitude":-81.147508,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"500 US Hwy 80",
     "sg:city":"Garden City",
     "sg:classifiers":[
@@ -38,30 +40,42 @@
         85633793,
         85936947,
         102082337,
+        420517399,
+        85936939,
         85851907
     ],
+    "wof:brand_id":1125159437,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gKcXoYTe4C93eexxT5ehQ_32.094020_-81.147508@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461912593,
-    "wof:geomhash":"a54de2bd16c085dc71ea670af11cc963",
+    "wof:geomhash":"f749086910365df3494b12f55ea460f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082337,
             "locality_id":85936947,
+            "neighbourhood_id":420517399,
+            "region_id":85688535,
+            "venue_id":739700639
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
             "neighbourhood_id":85851907,
             "region_id":85688535,
             "venue_id":739700639
         }
     ],
     "wof:id":739700639,
-    "wof:lastmodified":1472619107,
+    "wof:lastmodified":1510697978,
     "wof:name":"Wingfoot Commercial Tire Systs",
-    "wof:parent_id":85851907,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

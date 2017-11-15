@@ -39,12 +39,13 @@
     "sg:website":"www.stefansvintage.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688535,
+        420517975,
         102191575,
         1108797045,
         85633793,
         85936429,
-        102083603
+        102083603,
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +61,15 @@
             "county_id":102083603,
             "locality_id":85936429,
             "macrohood_id":1108797045,
+            "neighbourhood_id":420517975,
             "region_id":85688535,
             "venue_id":739754753
         }
     ],
     "wof:id":739754753,
-    "wof:lastmodified":1486669839,
+    "wof:lastmodified":1491905634,
     "wof:name":"Stefan's Vintage Clothing",
-    "wof:parent_id":-1,
+    "wof:parent_id":420517975,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

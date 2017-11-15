@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.315006,33.971938,-84.315006,33.971938",
     "geom:latitude":33.971938,
     "geom:longitude":-84.315006,
@@ -34,8 +35,8 @@
         85633793,
         85937165,
         102083603,
-        85890011,
-        420517933
+        420517933,
+        85890011
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +51,7 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85937165,
-            "neighbourhood_id":85890011,
+            "neighbourhood_id":420517933,
             "region_id":85688535,
             "venue_id":739406161
         },
@@ -59,15 +60,15 @@
             "country_id":85633793,
             "county_id":102083603,
             "locality_id":85937165,
-            "neighbourhood_id":420517933,
+            "neighbourhood_id":85890011,
             "region_id":85688535,
             "venue_id":739406161
         }
     ],
     "wof:id":739406161,
-    "wof:lastmodified":1472618326,
+    "wof:lastmodified":1491904470,
     "wof:name":"Hill Claims Service Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

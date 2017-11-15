@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.10058,32.071596,-81.10058,32.071596",
     "geom:latitude":32.071596,
     "geom:longitude":-81.10058,
@@ -35,7 +36,8 @@
         85633793,
         85936939,
         102082337,
-        85880921
+        85880921,
+        85880891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +55,21 @@
             "neighbourhood_id":85880921,
             "region_id":85688535,
             "venue_id":739519161
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880891,
+            "region_id":85688535,
+            "venue_id":739519161
         }
     ],
     "wof:id":739519161,
-    "wof:lastmodified":1472618616,
+    "wof:lastmodified":1491893401,
     "wof:name":"Ralph Gilbert Mark Civil Rghts",
-    "wof:parent_id":85880921,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

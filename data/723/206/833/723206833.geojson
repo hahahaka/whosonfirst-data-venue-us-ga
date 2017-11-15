@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.337024,33.92894,-84.337024,33.92894",
     "geom:latitude":33.92894,
     "geom:longitude":-84.337024,
@@ -37,8 +38,9 @@
         85633793,
         85936467,
         102084539,
-        85890003,
-        420559945
+        85889963,
+        420559945,
+        85890003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +55,7 @@
             "country_id":85633793,
             "county_id":102084539,
             "locality_id":85936467,
-            "neighbourhood_id":85890003,
+            "neighbourhood_id":85889963,
             "region_id":85688535,
             "venue_id":723206833
         },
@@ -65,12 +67,21 @@
             "neighbourhood_id":420559945,
             "region_id":85688535,
             "venue_id":723206833
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890003,
+            "region_id":85688535,
+            "venue_id":723206833
         }
     ],
     "wof:id":723206833,
-    "wof:lastmodified":1472618579,
+    "wof:lastmodified":1491914267,
     "wof:name":"Memo Enterprises Group Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

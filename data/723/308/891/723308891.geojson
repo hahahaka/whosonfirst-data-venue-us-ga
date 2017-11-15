@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.144059,31.966458,-81.144059,31.966458",
     "geom:latitude":31.966458,
     "geom:longitude":-81.144059,
@@ -43,8 +44,8 @@
         85633793,
         85936939,
         102082337,
-        85858231,
-        85855079
+        85855079,
+        85858231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +60,7 @@
             "country_id":85633793,
             "county_id":102082337,
             "locality_id":85936939,
-            "neighbourhood_id":85858231,
+            "neighbourhood_id":85855079,
             "region_id":85688535,
             "venue_id":723308891
         },
@@ -68,15 +69,15 @@
             "country_id":85633793,
             "county_id":102082337,
             "locality_id":85936939,
-            "neighbourhood_id":85855079,
+            "neighbourhood_id":85858231,
             "region_id":85688535,
             "venue_id":723308891
         }
     ],
     "wof:id":723308891,
-    "wof:lastmodified":1472618872,
+    "wof:lastmodified":1491923126,
     "wof:name":"Savannah Country Day Schl Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

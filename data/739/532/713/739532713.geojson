@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.111533,32.002324,-81.111533,32.002324",
     "geom:latitude":32.002324,
     "geom:longitude":-81.111533,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 Mall Blvd",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -34,15 +36,17 @@
         85633793,
         85936939,
         102082337,
-        420517331
+        420517331,
+        85890047
     ],
+    "wof:brand_id":1125151903,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19roMEUMDTObYDHlICIEMU_32.002324_-81.111533@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461909022,
-    "wof:geomhash":"fb86006c008547be79f29e8a87f2f984",
+    "wof:geomhash":"ec334f3a33d605bbda9e5d938e8de57c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +56,21 @@
             "neighbourhood_id":420517331,
             "region_id":85688535,
             "venue_id":739532713
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85890047,
+            "region_id":85688535,
+            "venue_id":739532713
         }
     ],
     "wof:id":739532713,
-    "wof:lastmodified":1472618677,
+    "wof:lastmodified":1510697316,
     "wof:name":"Muscular Dystrophy Assn",
-    "wof:parent_id":420517331,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

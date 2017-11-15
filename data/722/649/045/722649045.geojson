@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.116024,32.056207,-81.116024,32.056207",
     "geom:latitude":32.056207,
     "geom:longitude":-81.116024,
@@ -37,7 +38,9 @@
         85633793,
         85936939,
         102082337,
-        85880893
+        85880893,
+        85880911,
+        420517355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,12 +58,30 @@
             "neighbourhood_id":85880893,
             "region_id":85688535,
             "venue_id":722649045
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85880911,
+            "region_id":85688535,
+            "venue_id":722649045
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":420517355,
+            "region_id":85688535,
+            "venue_id":722649045
         }
     ],
     "wof:id":722649045,
-    "wof:lastmodified":1472618112,
+    "wof:lastmodified":1491932925,
     "wof:name":"Sarah Mills Hodge Elementary",
-    "wof:parent_id":85880893,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

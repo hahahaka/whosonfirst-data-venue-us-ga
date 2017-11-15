@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.11316,32.001728,-81.11316,32.001728",
     "geom:latitude":32.001728,
     "geom:longitude":-81.11316,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7370 Hodgson Memorial Dr",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -34,15 +36,17 @@
         85633793,
         85936939,
         102082337,
-        420517331
+        420517331,
+        85890047
     ],
+    "wof:brand_id":1125151945,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bnp9T1oQlnS6RKXsMrlPM_32.001728_-81.113160@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461890136,
-    "wof:geomhash":"eb4a4cc7f65a1ab7c5baedf733eb235e",
+    "wof:geomhash":"92a089f936e51dc974ee5bb6698a150d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +56,21 @@
             "neighbourhood_id":420517331,
             "region_id":85688535,
             "venue_id":722866483
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
+            "neighbourhood_id":85890047,
+            "region_id":85688535,
+            "venue_id":722866483
         }
     ],
     "wof:id":722866483,
-    "wof:lastmodified":1472618816,
+    "wof:lastmodified":1510698672,
     "wof:name":"Hair Loft",
-    "wof:parent_id":420517331,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

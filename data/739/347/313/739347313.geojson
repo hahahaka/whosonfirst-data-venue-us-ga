@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.098361,32.00593,-81.098361,32.00593",
     "geom:latitude":32.00593,
     "geom:longitude":-81.098361,
@@ -34,6 +35,7 @@
         85633793,
         85936939,
         102082337,
+        85838901,
         85847011
     ],
     "wof:breaches":[],
@@ -49,15 +51,24 @@
             "country_id":85633793,
             "county_id":102082337,
             "locality_id":85936939,
+            "neighbourhood_id":85838901,
+            "region_id":85688535,
+            "venue_id":739347313
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
             "neighbourhood_id":85847011,
             "region_id":85688535,
             "venue_id":739347313
         }
     ],
     "wof:id":739347313,
-    "wof:lastmodified":1472618208,
+    "wof:lastmodified":1491913389,
     "wof:name":"Botanical Gardens & Garden Ctr",
-    "wof:parent_id":85847011,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

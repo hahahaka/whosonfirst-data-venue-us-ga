@@ -33,14 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872097,
+        85889937,
         102191575,
         1108797045,
         85633793,
         85936429,
         102083603,
-        85688535,
-        85889937
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,25 +55,15 @@
             "county_id":102083603,
             "locality_id":85936429,
             "macrohood_id":1108797045,
-            "neighbourhood_id":85872097,
-            "region_id":85688535,
-            "venue_id":722839317
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083603,
-            "locality_id":85936429,
-            "macrohood_id":1108797045,
             "neighbourhood_id":85889937,
             "region_id":85688535,
             "venue_id":722839317
         }
     ],
     "wof:id":722839317,
-    "wof:lastmodified":1486670332,
+    "wof:lastmodified":1491918316,
     "wof:name":"International SEC MGT Group",
-    "wof:parent_id":-3,
+    "wof:parent_id":85889937,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

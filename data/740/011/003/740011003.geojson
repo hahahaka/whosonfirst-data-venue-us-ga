@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.337799,33.923877,-84.337799,33.923877",
     "geom:latitude":33.923877,
     "geom:longitude":-84.337799,
@@ -39,8 +40,8 @@
         85633793,
         85936467,
         102084539,
-        85890003,
-        85889963
+        85889963,
+        85890003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +56,7 @@
             "country_id":85633793,
             "county_id":102084539,
             "locality_id":85936467,
-            "neighbourhood_id":85890003,
+            "neighbourhood_id":85889963,
             "region_id":85688535,
             "venue_id":740011003
         },
@@ -64,15 +65,15 @@
             "country_id":85633793,
             "county_id":102084539,
             "locality_id":85936467,
-            "neighbourhood_id":85889963,
+            "neighbourhood_id":85890003,
             "region_id":85688535,
             "venue_id":740011003
         }
     ],
     "wof:id":740011003,
-    "wof:lastmodified":1472617811,
+    "wof:lastmodified":1491914232,
     "wof:name":"Stockton H. Atlanta Clothing & Haberdashery",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.132391,31.974822,-81.132391,31.974822",
     "geom:latitude":31.974822,
     "geom:longitude":-81.132391,
@@ -37,6 +38,7 @@
         85633793,
         85936939,
         102082337,
+        85852533,
         85855079
     ],
     "wof:breaches":[],
@@ -52,15 +54,24 @@
             "country_id":85633793,
             "county_id":102082337,
             "locality_id":85936939,
+            "neighbourhood_id":85852533,
+            "region_id":85688535,
+            "venue_id":723177669
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082337,
+            "locality_id":85936939,
             "neighbourhood_id":85855079,
             "region_id":85688535,
             "venue_id":723177669
         }
     ],
     "wof:id":723177669,
-    "wof:lastmodified":1472618465,
+    "wof:lastmodified":1491923127,
     "wof:name":"Lovin' Oven",
-    "wof:parent_id":85855079,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],

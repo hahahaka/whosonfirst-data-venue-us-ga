@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.077918,31.9985,-81.077918,31.9985",
     "geom:latitude":31.9985,
     "geom:longitude":-81.077918,
@@ -35,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688535,
+        102191575,
         85633793,
         85936939,
         102082337,
@@ -48,7 +50,7 @@
     "wof:geomhash":"86fc3ca7f7cc8a8d028acef03bcb58cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082337,
             "locality_id":85936939,
@@ -58,7 +60,7 @@
         }
     ],
     "wof:id":169643267,
-    "wof:lastmodified":1472617823,
+    "wof:lastmodified":1491913388,
     "wof:name":"Finish Master",
     "wof:parent_id":85847011,
     "wof:placetype":"venue",

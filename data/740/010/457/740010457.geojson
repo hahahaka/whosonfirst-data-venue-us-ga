@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.33862,33.922287,-84.33862,33.922287",
     "geom:latitude":33.922287,
     "geom:longitude":-84.33862,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4300 Ashford Dunwoody Road",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -37,26 +39,18 @@
         85633793,
         85936467,
         102084539,
-        85890003,
-        85889963
+        85889963,
+        85890003
     ],
+    "wof:brand_id":1125153449,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bk7IUrDglus5bNtthe2C5_33.922287_-84.338620@1303262629"
     },
     "wof:country":"US",
     "wof:created":1461924333,
-    "wof:geomhash":"1f0fe98abe255a129223b5382ea50a4a",
+    "wof:geomhash":"36e645431acf01d24a656f4f2a6a7831",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084539,
-            "locality_id":85936467,
-            "neighbourhood_id":85890003,
-            "region_id":85688535,
-            "venue_id":740010457
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -65,12 +59,21 @@
             "neighbourhood_id":85889963,
             "region_id":85688535,
             "venue_id":740010457
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084539,
+            "locality_id":85936467,
+            "neighbourhood_id":85890003,
+            "region_id":85688535,
+            "venue_id":740010457
         }
     ],
     "wof:id":740010457,
-    "wof:lastmodified":1472617859,
+    "wof:lastmodified":1510699407,
     "wof:name":"Goodyear Auto Service Centers",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
