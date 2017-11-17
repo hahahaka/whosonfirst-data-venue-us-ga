@@ -7,13 +7,16 @@
     "addr:postcode":"30605",
     "addr:street":"Gaines School Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.339248,33.925693,-83.339248,33.925693",
     "geom:latitude":33.925693,
     "geom:longitude":-83.339248,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1059 Gaines School Rd",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461925298,
-    "wof:geomhash":"c9776ea1f6188c8278f17dffb577ffc0",
+    "wof:geomhash":"3c860753ce3e14426138cb8725e70309",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":740033267,
-    "wof:lastmodified":1472617947,
+    "wof:lastmodified":1510941536,
     "wof:name":"SouthTrust Bank",
     "wof:parent_id":85822729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722568999
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

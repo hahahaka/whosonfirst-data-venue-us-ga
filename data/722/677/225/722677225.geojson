@@ -7,6 +7,7 @@
     "addr:postcode":"30309",
     "addr:street":"Collier Rd Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.397173,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"105 Collier Rd NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461886533,
-    "wof:geomhash":"5f2b78a9982edb77f45d7364352873f3",
+    "wof:geomhash":"67fb8b27d8f745c5e65bb8f1e3fd918f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":722677225,
-    "wof:lastmodified":1486672708,
+    "wof:lastmodified":1510942032,
     "wof:name":"Soriano Maria J R MD",
     "wof:parent_id":1108798511,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723297437
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

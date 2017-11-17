@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.070602,34.084702,-84.070602,34.084702",
     "geom:latitude":34.084702,
     "geom:longitude":-84.070602,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20 Level Creek Rd",
     "sg:city":"Suwanee",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915377,
-    "wof:geomhash":"eb5de10e128b85b707e1b641fd6ccf66",
+    "wof:geomhash":"8ce4877bb42276804893b800687486e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":739790227,
-    "wof:lastmodified":1472619344,
+    "wof:lastmodified":1510944080,
     "wof:name":"North Gwinnett High School",
     "wof:parent_id":85802315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739791451
+    ],
     "wof:tags":[
         "high",
         "middle",

@@ -7,6 +7,7 @@
     "addr:postcode":"30326",
     "addr:street":"Peachtree Rd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.360573,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3500 Peachtree Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922770,
-    "wof:geomhash":"55e38878aed0a6d14d50506b6b83712a",
+    "wof:geomhash":"1cd5f32435e0aecbd6e286f9d021c485",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":739970525,
-    "wof:lastmodified":1486668927,
+    "wof:lastmodified":1510942489,
     "wof:name":"Davio's Northern Italian Steakhouse",
     "wof:parent_id":85872103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739970179
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "steakhouse",

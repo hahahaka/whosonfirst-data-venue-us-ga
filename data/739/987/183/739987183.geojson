@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.340056,33.933197,-84.340056,33.933197",
     "geom:latitude":33.933197,
     "geom:longitude":-84.340056,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"900 Ashwood Pkwy Ste 290",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923444,
-    "wof:geomhash":"6a2c6d2d0bbc2a5630bdfd256e8c1ff4",
+    "wof:geomhash":"eef7d3a368f5b1047923a16186153eb1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,13 +76,15 @@
         }
     ],
     "wof:id":739987183,
-    "wof:lastmodified":1472619677,
+    "wof:lastmodified":1510942700,
     "wof:name":"Vigilar Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739274449
+    ],
     "wof:tags":[
         "repair",
         "contractor"

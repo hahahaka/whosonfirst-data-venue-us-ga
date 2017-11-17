@@ -7,13 +7,16 @@
     "addr:postcode":"30035",
     "addr:street":"Covington Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.217844,33.739654,-84.217844,33.739654",
     "geom:latitude":33.739654,
     "geom:longitude":-84.217844,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4806 Covington Hwy",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461892603,
-    "wof:geomhash":"d6b5f5bd9c96e7726dba1301172c0771",
+    "wof:geomhash":"d1f35b71fdfc95cbe7ee8887c1fc1d95",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":722986089,
-    "wof:lastmodified":1472619118,
+    "wof:lastmodified":1510942156,
     "wof:name":"Budget Rent-A-Car",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739800505
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"

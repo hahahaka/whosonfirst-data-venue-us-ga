@@ -15,6 +15,7 @@
     "geom:longitude":-84.387778,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"240 Peachtree St NW Ste 12D6",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920335,
-    "wof:geomhash":"0fffd3ead5e8b43099c427c266b4d8f7",
+    "wof:geomhash":"31b10d90a8d8bf5e23046b297d5c20b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +64,15 @@
         }
     ],
     "wof:id":739913279,
-    "wof:lastmodified":1486682543,
+    "wof:lastmodified":1510941190,
     "wof:name":"Michael Boyd & Assoc",
     "wof:parent_id":1108797059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723321565
+    ],
     "wof:tags":[
         "store"
     ]

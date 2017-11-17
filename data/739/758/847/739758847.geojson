@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.343339,34.037602,-84.343339,34.037602",
     "geom:latitude":34.037602,
     "geom:longitude":-84.343339,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10516 Alpharetta Hwy",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914079,
-    "wof:geomhash":"b6451e92943e9c1c4193737a5a7afc66",
+    "wof:geomhash":"2496ff930080732cff5560af2bc50343",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":739758847,
-    "wof:lastmodified":1472619246,
+    "wof:lastmodified":1510943110,
     "wof:name":"CiCi's Pizza",
     "wof:parent_id":85889949,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739764417
+    ],
     "wof:tags":[
         "eating",
         "pizza"

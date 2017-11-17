@@ -7,6 +7,7 @@
     "addr:postcode":"30309",
     "addr:street":"Peachtree Rd Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.393819,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1938 Peachtree Rd NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921400,
-    "wof:geomhash":"902f792e1554e2e5e7b71013c8f64a5b",
+    "wof:geomhash":"c6dc2c85df283fada2ca35e329287e6e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":739939285,
-    "wof:lastmodified":1486672702,
+    "wof:lastmodified":1510943961,
     "wof:name":"Piedmont Podiatry",
     "wof:parent_id":1108798511,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739943637
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.304327,33.864807,-84.304327,33.864807",
     "geom:latitude":33.864807,
     "geom:longitude":-84.304327,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4186 Buford Hwy NE #G",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"US",
     "wof:created":1461924310,
-    "wof:geomhash":"9c9511598d0f704fb3c3c12b99c4b373",
+    "wof:geomhash":"bed9ce03217f2224596c475f0cb42e1c",
     "wof:hierarchy":[],
     "wof:id":740009891,
-    "wof:lastmodified":1472617884,
+    "wof:lastmodified":1510942748,
     "wof:name":"Pho Dai Loi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740009219
+    ],
     "wof:tags":[
         "vietnamese"
     ]

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.986374,32.468486,-84.986374,32.468486",
     "geom:latitude":32.468486,
     "geom:longitude":-84.986374,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"416 12th St",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461911096,
-    "wof:geomhash":"89a8edb6bd50495ccd371f56aa174491",
+    "wof:geomhash":"56a6d52aa68f6c71c17f831b0fadb144",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":739633201,
-    "wof:lastmodified":1472618946,
+    "wof:lastmodified":1510942928,
     "wof:name":"Brinks Incorporated",
     "wof:parent_id":85882117,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722607645
+    ],
     "wof:tags":[
         "car"
     ]

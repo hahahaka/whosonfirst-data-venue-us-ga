@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.294916,33.774741,-84.294916,33.774741",
     "geom:latitude":33.774741,
     "geom:longitude":-84.294916,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"418 Church St",
     "sg:city":"Decatur",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915509,
-    "wof:geomhash":"9c5cc19ab91f6002457d2cf969f1e342",
+    "wof:geomhash":"af7b6677bc147517db24965fd4f05fe8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":739793661,
-    "wof:lastmodified":1472619355,
+    "wof:lastmodified":1510942186,
     "wof:name":"Blue Moon Designs Inc",
     "wof:parent_id":85890035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723430549
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"30033",
     "addr:street":"N Decatur Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.278499,33.793509,-84.278499,33.793509",
     "geom:latitude":33.793509,
     "geom:longitude":-84.278499,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2801 N Decatur Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -55,7 +58,7 @@
     },
     "wof:country":"US",
     "wof:created":1461913562,
-    "wof:geomhash":"73e27fe34f99250fde04dec9ed787916",
+    "wof:geomhash":"6f31028c14b43f0b3ff3b1d21241bb10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,12 +71,14 @@
         }
     ],
     "wof:id":739746215,
-    "wof:lastmodified":1472619191,
+    "wof:lastmodified":1510942999,
     "wof:name":"Atlanta Center For Medicine",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739797951
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

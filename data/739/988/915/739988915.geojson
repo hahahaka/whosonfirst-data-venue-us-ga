@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.335602,33.947899,-84.335602,33.947899",
     "geom:latitude":33.947899,
     "geom:longitude":-84.335602,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5482 Chamblee Dunwoody Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923512,
-    "wof:geomhash":"8c39ced17fd13a353a939e3919922bd4",
+    "wof:geomhash":"19a936807c9136ba48c890fdaa79107c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,13 +73,17 @@
         }
     ],
     "wof:id":739988915,
-    "wof:lastmodified":1472619694,
+    "wof:lastmodified":1510944193,
     "wof:name":"Nancy's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722541679,
+        723078881,
+        739987895
+    ],
     "wof:tags":[
         "accessory",
         "clothing",

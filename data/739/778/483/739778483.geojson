@@ -7,13 +7,16 @@
     "addr:postcode":"30005",
     "addr:street":"Windward Plz",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.239186,34.093876,-84.239186,34.093876",
     "geom:latitude":34.093876,
     "geom:longitude":-84.239186,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3070 Windward Plz",
     "sg:city":"Alpharetta",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914876,
-    "wof:geomhash":"d78e8b837dc7c3d198e16aaf0c01a199",
+    "wof:geomhash":"886265fbcb5944f1f8a680ad9dbb59bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +62,17 @@
         }
     ],
     "wof:id":739778483,
-    "wof:lastmodified":1472619313,
+    "wof:lastmodified":1510943414,
     "wof:name":"J Christopher's",
     "wof:parent_id":85843117,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739762377
+    ],
+    "wof:supersedes":[
+        722992705
+    ],
     "wof:tags":[
         "style",
         "family"

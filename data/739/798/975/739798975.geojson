@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.265406,33.701611,-84.265406,33.701611",
     "geom:latitude":33.701611,
     "geom:longitude":-84.265406,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3100 Lumby Dr",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915737,
-    "wof:geomhash":"2958db32d18823ab8ef22a9a99577135",
+    "wof:geomhash":"603c4ebe3748f53912e8da35b51aad89",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":739798975,
-    "wof:lastmodified":1472619381,
+    "wof:lastmodified":1510942596,
     "wof:name":"Creekside Vista",
     "wof:parent_id":85816491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739799021
+    ],
     "wof:tags":[
         "apartment"
     ]

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.335565,33.947871,-84.335565,33.947871",
     "geom:latitude":33.947871,
     "geom:longitude":-84.335565,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5500 Chamblee Dunwoody Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923418,
-    "wof:geomhash":"26bae8d7e0d1d132b77e96d1bf9e4832",
+    "wof:geomhash":"15bc8680f447c4d8761391b8f70edd4f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":739986693,
-    "wof:lastmodified":1472619695,
+    "wof:lastmodified":1510941551,
     "wof:name":"Wasabi House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739987621
+    ],
     "wof:tags":[]
 },
   "bbox": [

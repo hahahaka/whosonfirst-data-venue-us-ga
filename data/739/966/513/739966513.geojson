@@ -7,6 +7,7 @@
     "addr:postcode":"30324",
     "addr:street":"Miami Cir Ne Ste 21",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.366996,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"631 Miami Cir NE Ste 21",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -59,7 +61,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922626,
-    "wof:geomhash":"904998c47f23cc88f4dcd219835da066",
+    "wof:geomhash":"d6cf3ca6d4331c9c750a66729865b1bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,12 +75,14 @@
         }
     ],
     "wof:id":739966513,
-    "wof:lastmodified":1491907512,
+    "wof:lastmodified":1510943808,
     "wof:name":"Antique & Art Emporium",
     "wof:parent_id":85872095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739967655
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "auction",

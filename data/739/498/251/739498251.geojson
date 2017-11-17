@@ -15,6 +15,7 @@
     "geom:longitude":-84.367599,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4207 McClatchey Cir NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461908396,
-    "wof:geomhash":"7ddec1abb78a7889550ec9b3fcea417a",
+    "wof:geomhash":"c3eddfd7a87d17db02a870581f4e282b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":739498251,
-    "wof:lastmodified":1486671553,
+    "wof:lastmodified":1510943525,
     "wof:name":"Georgia Instruments Inc",
     "wof:parent_id":85850941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740002099
+    ],
     "wof:tags":[
         "laboratory",
         "dist",

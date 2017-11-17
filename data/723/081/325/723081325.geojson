@@ -7,13 +7,16 @@
     "addr:postcode":"30035",
     "addr:street":"Wesley Chapel Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.215318,33.718568,-84.215318,33.718568",
     "geom:latitude":33.718568,
     "geom:longitude":-84.215318,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2446 Wesley Chapel Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461894738,
-    "wof:geomhash":"eed28d90ce27528d5a888d4756e9308a",
+    "wof:geomhash":"be630eb7d53201e90f7841fb3cc10d1c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":723081325,
-    "wof:lastmodified":1472618207,
+    "wof:lastmodified":1510941365,
     "wof:name":"Le Styles Styling Salon",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739799801
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"

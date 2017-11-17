@@ -7,13 +7,16 @@
     "addr:postcode":"30339",
     "addr:street":"Paces Ferry Rd Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.470712,33.865792,-84.470712,33.865792",
     "geom:latitude":33.865792,
     "geom:longitude":-84.470712,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2859 Paces Ferry Rd SE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461896509,
-    "wof:geomhash":"9a7077bcfd791d9e30e947ec7805c6b1",
+    "wof:geomhash":"70a05f193b07c544345abbf9f0a222c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":723171705,
-    "wof:lastmodified":1472618435,
+    "wof:lastmodified":1510944049,
     "wof:name":"Magellan Transit Media",
     "wof:parent_id":85813197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739994115
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "marketing",

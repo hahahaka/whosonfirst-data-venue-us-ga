@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.341559,33.93257,-84.341559,33.93257",
     "geom:latitude":33.93257,
     "geom:longitude":-84.341559,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1200 Ashwood Parkway Suite 500",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923476,
-    "wof:geomhash":"73225ab4800370d5ed34944ad841114a",
+    "wof:geomhash":"1c0174250c731a9062d076ca777fe3e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,13 +70,15 @@
         }
     ],
     "wof:id":739987985,
-    "wof:lastmodified":1472619696,
+    "wof:lastmodified":1510942926,
     "wof:name":"Greystone Capital Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722999935
+    ],
     "wof:tags":[
         "investing"
     ]

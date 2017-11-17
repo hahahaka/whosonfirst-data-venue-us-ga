@@ -7,13 +7,16 @@
     "addr:postcode":"30041",
     "addr:street":"Keith Bridge Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.088902,34.252744,-84.088902,34.252744",
     "geom:latitude":34.252744,
     "geom:longitude":-84.088902,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2810 Keith Bridge Rd",
     "sg:city":"Cumming",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461893513,
-    "wof:geomhash":"429090eba2cbd3c8203d3e82feec2018",
+    "wof:geomhash":"8623e2364c5fac66a930bd4494dd4a9f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":723025463,
-    "wof:lastmodified":1472617924,
+    "wof:lastmodified":1510942182,
     "wof:name":"Zaxbys",
     "wof:parent_id":85842073,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739763287
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "chicken"

@@ -15,6 +15,7 @@
     "geom:longitude":-84.364299,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"112 Krog St NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -53,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921159,
-    "wof:geomhash":"9ac5a93d69ce17187797c7e4cfab3379",
+    "wof:geomhash":"9da0cce4948dc08b8eab57c57e412d7f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,13 +78,15 @@
         }
     ],
     "wof:id":739933309,
-    "wof:lastmodified":1486669703,
+    "wof:lastmodified":1510942794,
     "wof:name":"Rathbun's Restaurant",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739669333
+    ],
     "wof:tags":[
         "style",
         "family",

@@ -7,13 +7,16 @@
     "addr:postcode":"31903",
     "addr:street":"Shelby St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.940788,32.417019,-84.940788,32.417019",
     "geom:latitude":32.417019,
     "geom:longitude":-84.940788,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2360 Shelby St",
     "sg:city":"Columbus",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461927088,
-    "wof:geomhash":"39f9f2e132167c138800af9f96adb2f3",
+    "wof:geomhash":"7e001386f66e47d0884fe3f3e9856348",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":740072995,
-    "wof:lastmodified":1472618234,
+    "wof:lastmodified":1510942721,
     "wof:name":"A Beautiful Touch",
     "wof:parent_id":85882097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739273423
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

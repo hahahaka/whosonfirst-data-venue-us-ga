@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.000615,33.617345,-84.000615,33.617345",
     "geom:latitude":33.617345,
     "geom:longitude":-84.000615,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1861 Lancaster Dr SE",
     "sg:city":"Conyers",
     "sg:classifiers":[
@@ -40,16 +42,18 @@
     },
     "wof:country":"US",
     "wof:created":1461915090,
-    "wof:geomhash":"2309e02ad586a4f370c6cdd5e8486c83",
+    "wof:geomhash":"c18980edd055a7bce6ed101a5387a9f6",
     "wof:hierarchy":[],
     "wof:id":739783703,
-    "wof:lastmodified":1472619333,
+    "wof:lastmodified":1510943629,
     "wof:name":"Moore's Home Inspection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722699159
+    ],
     "wof:tags":[
         "home",
         "inspector"

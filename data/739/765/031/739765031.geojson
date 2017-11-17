@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.133447,33.957452,-84.133447,33.957452",
     "geom:latitude":33.957452,
     "geom:longitude":-84.133447,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2100 Pleasant Hill Rd",
     "sg:city":"Duluth",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914340,
-    "wof:geomhash":"84b9894d7a311d87bc069f011bcd5b9d",
+    "wof:geomhash":"b2278e46bbbbd5c9890d2ed004ec4007",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":739765031,
-    "wof:lastmodified":1472619260,
+    "wof:lastmodified":1510943353,
     "wof:name":"Panera Bread",
     "wof:parent_id":85826369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739334117
+    ],
     "wof:tags":[
         "american",
         "sandwich",

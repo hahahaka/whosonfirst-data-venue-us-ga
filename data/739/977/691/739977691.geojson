@@ -7,13 +7,16 @@
     "addr:postcode":"30328",
     "addr:street":"Glenridge Dr Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.362099,33.913399,-84.362099,33.913399",
     "geom:latitude":33.913399,
     "geom:longitude":-84.362099,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5775 Glenridge Dr NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -51,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923050,
-    "wof:geomhash":"839e9f8421af0981cfea1d6ee8c41710",
+    "wof:geomhash":"2a182d462bdc88aff76e111edc2d99fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +67,14 @@
         }
     ],
     "wof:id":739977691,
-    "wof:lastmodified":1472619687,
+    "wof:lastmodified":1510943344,
     "wof:name":"Greene Wendy-Metro Brokers GMAC Real Estate",
     "wof:parent_id":85889977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739975213
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "school",

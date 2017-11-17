@@ -7,13 +7,16 @@
     "addr:postcode":"30121",
     "addr:street":"Hwy 411 Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.780171,34.235011,-84.780171,34.235011",
     "geom:latitude":34.235011,
     "geom:longitude":-84.780171,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2212 Hwy 411 NE",
     "sg:city":"Cartersville",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461884931,
-    "wof:geomhash":"bfd9012dc336119e9e9296a24bf37985",
+    "wof:geomhash":"dfabe374095892c3d3e2608cd7a76475",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":722597777,
-    "wof:lastmodified":1472618030,
+    "wof:lastmodified":1510943096,
     "wof:name":"Up To Code Inc",
     "wof:parent_id":85823399,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739870055
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical",

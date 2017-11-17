@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.2789,33.793301,-84.2789,33.793301",
     "geom:latitude":33.793301,
     "geom:longitude":-84.2789,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2801 N Decatur Rd Ste 300",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915683,
-    "wof:geomhash":"cc1869a28a360ea3bf61968006f9992e",
+    "wof:geomhash":"042207529e601c8736609806d5084749",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":739797819,
-    "wof:lastmodified":1472619374,
+    "wof:lastmodified":1510942890,
     "wof:name":"Osteoperosis Center of Atlanta",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739304283
+    ],
     "wof:tags":[
         "medicine",
         "internal"

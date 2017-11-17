@@ -15,6 +15,7 @@
     "geom:longitude":-84.349548,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7000 Central Pkwy NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -51,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923070,
-    "wof:geomhash":"df826d5674008c2a19f35fab01875d39",
+    "wof:geomhash":"fb1077e27f3a5ab5e5eb57614275a4a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,13 +74,16 @@
         }
     ],
     "wof:id":739978271,
-    "wof:lastmodified":1491902556,
+    "wof:lastmodified":1510942005,
     "wof:name":"Morris Hardwick Schneider",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739975361,
+        722855551
+    ],
     "wof:tags":[
         "attorney",
         "real estate"

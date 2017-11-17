@@ -7,6 +7,7 @@
     "addr:postcode":"30030",
     "addr:street":"E College Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.277199,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2753 E College Ave",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -61,12 +62,14 @@
         }
     ],
     "wof:id":739750541,
-    "wof:lastmodified":1510696663,
+    "wof:lastmodified":1510943298,
     "wof:name":"Finders Keepers",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739792913
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory"

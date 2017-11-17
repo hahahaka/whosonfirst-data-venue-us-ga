@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.438959,33.872527,-83.438959,33.872527",
     "geom:latitude":33.872527,
     "geom:longitude":-83.438959,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2061 Experiment Station Rd",
     "sg:city":"Watkinsville",
     "sg:classifiers":[
@@ -40,16 +42,18 @@
     },
     "wof:country":"US",
     "wof:created":1461914568,
-    "wof:geomhash":"24c89908d63404ec1bb6b31e026e6b09",
+    "wof:geomhash":"66d85a2b569c9a6887efdcaf7528efb5",
     "wof:hierarchy":[],
     "wof:id":739770691,
-    "wof:lastmodified":1472619309,
+    "wof:lastmodified":1510943375,
     "wof:name":"Papa John's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740037413
+    ],
     "wof:tags":[
         "american",
         "pizza"

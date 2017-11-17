@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.583702,34.008202,-84.583702,34.008202",
     "geom:latitude":34.008202,
     "geom:longitude":-84.583702,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"975 Cobb Place Blvd NW Ste 114",
     "sg:city":"Kennesaw",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461919079,
-    "wof:geomhash":"bdc766e8ba3c90d266e203bb796e7067",
+    "wof:geomhash":"e44ff99ca9b9d6a93e0881d7b96b384f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,13 +53,15 @@
         }
     ],
     "wof:id":739880507,
-    "wof:lastmodified":1472619501,
+    "wof:lastmodified":1510941232,
     "wof:name":"Digital Rio Inc",
     "wof:parent_id":85839059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722816275
+    ],
     "wof:tags":[]
 },
   "bbox": [

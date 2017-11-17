@@ -7,13 +7,16 @@
     "addr:postcode":"3950;30106",
     "addr:street":"Austell Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.600538,33.858275,-84.600538,33.858275",
     "geom:latitude":33.858275,
     "geom:longitude":-84.600538,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3950 Austell Rd",
     "sg:city":"Austell",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461906931,
-    "wof:geomhash":"c5c4f24e5c2756b8cd1c7edd3ed3fc83",
+    "wof:geomhash":"4c4010645604bcda67626c34418a26e3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":739418757,
-    "wof:lastmodified":1472618404,
+    "wof:lastmodified":1510943023,
     "wof:name":"Wellstar Cobb Hospital",
     "wof:parent_id":85852043,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739864541
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.84465,33.923809,-84.84465,33.923809",
     "geom:latitude":33.923809,
     "geom:longitude":-84.84465,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"351 W Memorial Dr",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461918807,
-    "wof:geomhash":"0d823625ea2dfe0f543f8b89e3bcdfed",
+    "wof:geomhash":"22447c0f3fdec950ceb5a58d1bb2c1ac",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":739873297,
-    "wof:lastmodified":1472619483,
+    "wof:lastmodified":1510942179,
     "wof:name":"Campbell Creek Apartments",
     "wof:parent_id":85835843,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739351745
+    ],
     "wof:tags":[
         "apartment"
     ]

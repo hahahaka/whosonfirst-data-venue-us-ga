@@ -15,6 +15,7 @@
     "geom:longitude":-84.396301,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"95 Collier Rd NW Ste 3000",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921681,
-    "wof:geomhash":"eb94d645571a84aa013fc2d6cd359bef",
+    "wof:geomhash":"7c5ec48616f25ae9db96f9778c2190da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":739944469,
-    "wof:lastmodified":1486672694,
+    "wof:lastmodified":1510943533,
     "wof:name":"Patorgis Charles J OD",
     "wof:parent_id":1108798511,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739258719
+    ],
     "wof:tags":[
         "ophthalmologist"
     ]

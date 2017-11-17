@@ -7,13 +7,16 @@
     "addr:postcode":"30342",
     "addr:street":"Johnson Ferry Rd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.35968,33.906792,-84.35968,33.906792",
     "geom:latitude":33.906792,
     "geom:longitude":-84.35968,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"875 Johnson Ferry Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923967,
-    "wof:geomhash":"4ddc16a5ac6aba609fcd3805521d4146",
+    "wof:geomhash":"29f784ea1a49c14510721b6b0e48b23b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":740001093,
-    "wof:lastmodified":1472617802,
+    "wof:lastmodified":1510941556,
     "wof:name":"Emory Laser Vision",
     "wof:parent_id":85890019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740003101
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

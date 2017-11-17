@@ -15,6 +15,7 @@
     "geom:longitude":-84.383547,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"121 Linden Ave NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -50,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461913824,
-    "wof:geomhash":"769aa62f829ebaddacffe89705bd25e9",
+    "wof:geomhash":"5679e37002fb83999d1420b50abcc1ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,13 +66,15 @@
         }
     ],
     "wof:id":739752959,
-    "wof:lastmodified":1486682386,
+    "wof:lastmodified":1510942441,
     "wof:name":"Da Vita Midtown Dialysis Ctr",
     "wof:parent_id":1108797049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739742051
+    ],
     "wof:tags":[
         "clinic",
         "dialysis"

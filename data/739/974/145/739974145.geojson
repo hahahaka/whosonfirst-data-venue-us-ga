@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.381081,33.9135,-84.381081,33.9135",
     "geom:latitude":33.9135,
     "geom:longitude":-84.381081,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"180 Allen Rd NE Ste 210S",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922915,
-    "wof:geomhash":"3f923e12f4a625fa8bf757e040bd72e2",
+    "wof:geomhash":"0fe6bb6c60307d3e774adf95346d3b24",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":739974145,
-    "wof:lastmodified":1472619643,
+    "wof:lastmodified":1510943066,
     "wof:name":"Atlanta Delivery Express",
     "wof:parent_id":85889967,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723001187
+    ],
     "wof:tags":[
         "delivery"
     ]

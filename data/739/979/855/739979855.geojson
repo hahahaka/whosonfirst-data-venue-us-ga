@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.338454,33.828331,-84.338454,33.828331",
     "geom:latitude":33.828331,
     "geom:longitude":-84.338454,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"17 Executive Park Drive NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923129,
-    "wof:geomhash":"3e68ef74c2ca2e76948bf14ac5bfe913",
+    "wof:geomhash":"c6556a7d2d351d101a6b8b0d35b07e22",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":739979855,
-    "wof:lastmodified":1472619701,
+    "wof:lastmodified":1510942169,
     "wof:name":"P F M Mortgage Services",
     "wof:parent_id":420517723,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723140435
+    ],
     "wof:tags":[
         "broker",
         "mortgage"

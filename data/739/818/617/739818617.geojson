@@ -7,13 +7,16 @@
     "addr:postcode":"30060",
     "addr:street":"Church St Ne Ste 155",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.550598,33.971401,-84.550598,33.971401",
     "geom:latitude":33.971401,
     "geom:longitude":-84.550598,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"790 Church St NE Ste 155",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916636,
-    "wof:geomhash":"12e240bd893861494b34b42c21e18e08",
+    "wof:geomhash":"280a5b9da3f8b72830503f85e7bf71a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":739818617,
-    "wof:lastmodified":1472619404,
+    "wof:lastmodified":1510943516,
     "wof:name":"Atlanta Perinatal Consultants",
     "wof:parent_id":85817769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739817949
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "obstetrician",

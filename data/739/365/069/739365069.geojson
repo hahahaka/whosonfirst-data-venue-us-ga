@@ -7,13 +7,16 @@
     "addr:postcode":"30084",
     "addr:street":"Northlake Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.24453,33.84728,-84.24453,33.84728",
     "geom:latitude":33.84728,
     "geom:longitude":-84.24453,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2191 Northlake Pkwy",
     "sg:city":"Tucker",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461905902,
-    "wof:geomhash":"abcfdfd91cc3f96074c7f059368f00ad",
+    "wof:geomhash":"af705162ae8e234c8ec22fd749de0ec0",
     "wof:hierarchy":[],
     "wof:id":739365069,
-    "wof:lastmodified":1472618237,
+    "wof:lastmodified":1510943621,
     "wof:name":"Careers In Transition Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739848629
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "program"

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.534865,33.966476,-84.534865,33.966476",
     "geom:latitude":33.966476,
     "geom:longitude":-84.534865,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"611 Cobb Pkwy N",
     "sg:city":"Marietta",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916676,
-    "wof:geomhash":"9b01ff0d22be9887ae4eedb863f1940d",
+    "wof:geomhash":"ea1061b68f81517d4caea8582762ee10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":739819551,
-    "wof:lastmodified":1472619409,
+    "wof:lastmodified":1510941615,
     "wof:name":"El Nopal",
     "wof:parent_id":85817769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739763987
+    ],
     "wof:tags":[]
 },
   "bbox": [

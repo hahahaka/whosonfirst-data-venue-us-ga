@@ -7,13 +7,16 @@
     "addr:postcode":"31028",
     "addr:street":"Watson Blvd Ste 840",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.685405,32.618395,-83.685405,32.618395",
     "geom:latitude":32.618395,
     "geom:longitude":-83.685405,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2922 Watson Blvd Ste 840",
     "sg:city":"Centerville",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461926069,
-    "wof:geomhash":"9a50a1cb0e0099fdeb183ffec7064161",
+    "wof:geomhash":"92b7df413285e0b4a03d566d92847861",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":740049569,
-    "wof:lastmodified":1472618085,
+    "wof:lastmodified":1510942121,
     "wof:name":"Chick-Fil-A",
     "wof:parent_id":85803765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739776191
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

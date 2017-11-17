@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.470596,33.8657,-84.470596,33.8657",
     "geom:latitude":33.8657,
     "geom:longitude":-84.470596,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2810 Paces Ferry Rd SE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"US",
     "wof:created":1461913515,
-    "wof:geomhash":"17496fbded2e612e0c0208e20c47faff",
+    "wof:geomhash":"452dd53e225c3473151470d2b55be369",
     "wof:hierarchy":[],
     "wof:id":739744129,
-    "wof:lastmodified":1472619188,
+    "wof:lastmodified":1510943516,
     "wof:name":"It's You",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739735037
+    ],
     "wof:tags":[
         "accessory"
     ]

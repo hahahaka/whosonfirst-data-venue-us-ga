@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.274777,33.810229,-84.274777,33.810229",
     "geom:latitude":33.810229,
     "geom:longitude":-84.274777,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3893 N Druid Hills Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914258,
-    "wof:geomhash":"e2d109225de602b12e8d25b83a3a0cda",
+    "wof:geomhash":"886a525a20419fdffd878d86f9e7cdd1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":739763015,
-    "wof:lastmodified":1472619259,
+    "wof:lastmodified":1510941783,
     "wof:name":"McDonald's",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723458951
+    ],
     "wof:tags":[
         "burger",
         "american"

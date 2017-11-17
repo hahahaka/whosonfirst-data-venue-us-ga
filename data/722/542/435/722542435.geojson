@@ -7,13 +7,16 @@
     "addr:postcode":"30084",
     "addr:street":"Hugh Howell Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.205284,33.849552,-84.205284,33.849552",
     "geom:latitude":33.849552,
     "geom:longitude":-84.205284,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4500 Hugh Howell Rd",
     "sg:city":"Tucker",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461883857,
-    "wof:geomhash":"88c5424d267f8fdfcb18d8ba0f59bbc4",
+    "wof:geomhash":"353359007bfd4d3eb3f935058e3a12c8",
     "wof:hierarchy":[],
     "wof:id":722542435,
-    "wof:lastmodified":1472617821,
+    "wof:lastmodified":1510941811,
     "wof:name":"Washington Dental Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739846293
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"

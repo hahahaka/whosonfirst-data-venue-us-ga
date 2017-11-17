@@ -7,13 +7,16 @@
     "addr:postcode":"30815",
     "addr:street":"Hephzibah Mcbean Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.968555,33.255148,-81.968555,33.255148",
     "geom:latitude":33.255148,
     "geom:longitude":-81.968555,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1155 Hephzibah Mcbean Rd",
     "sg:city":"Hephzibah",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461925764,
-    "wof:geomhash":"b1d5d476ff0628e2bc5b933f1c7cfadc",
+    "wof:geomhash":"fa8f49cb1446e721484f58f313f0c070",
     "wof:hierarchy":[],
     "wof:id":740043013,
-    "wof:lastmodified":1472618009,
+    "wof:lastmodified":1510941747,
     "wof:name":"McBean Community Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739294127
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "recreation"

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.844874,34.553461,-84.844874,34.553461",
     "geom:latitude":34.553461,
     "geom:longitude":-84.844874,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"581 Fields Ferry Dr NE",
     "sg:city":"Calhoun",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461902259,
-    "wof:geomhash":"ff65a8755925794a9acce78fcd6c8353",
+    "wof:geomhash":"6844543e9827951eb5d6e270fd201d2b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":723466761,
-    "wof:lastmodified":1472619270,
+    "wof:lastmodified":1510942824,
     "wof:name":"Mulligan's",
     "wof:parent_id":85836757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740038321
+    ],
     "wof:tags":[
         "course",
         "eating"

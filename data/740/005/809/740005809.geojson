@@ -7,13 +7,16 @@
     "addr:postcode":"30342",
     "addr:street":"Glenridge Dr Ne # 600",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.364105,33.907317,-84.364105,33.907317",
     "geom:latitude":33.907317,
     "geom:longitude":-84.364105,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5605 Glenridge Dr NE # 600",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924152,
-    "wof:geomhash":"5fdc160fc0a4ae8a1ff0c34f030293c4",
+    "wof:geomhash":"7dac166ddd6db9cfa9c768ffd4e5ffdc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":740005809,
-    "wof:lastmodified":1472617904,
+    "wof:lastmodified":1510942985,
     "wof:name":"Glenridge Mental Health Assoc",
     "wof:parent_id":85890019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722920573
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "psychiatry",

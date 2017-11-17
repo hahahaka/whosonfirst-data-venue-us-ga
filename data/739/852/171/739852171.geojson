@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.26065,33.934084,-84.26065,33.934084",
     "geom:latitude":33.934084,
     "geom:longitude":-84.26065,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7001 Peachtree Industrial Blvd",
     "sg:city":"Norcross",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"US",
     "wof:created":1461918003,
-    "wof:geomhash":"280b65b6f4312ca716d70b3f383090d6",
+    "wof:geomhash":"ad8af92342f8cb1d785893b55a52bf95",
     "wof:hierarchy":[],
     "wof:id":739852171,
-    "wof:lastmodified":1472619439,
+    "wof:lastmodified":1510942713,
     "wof:name":"Intown Management Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723052769
+    ],
     "wof:tags":[
         "management",
         "property"

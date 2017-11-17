@@ -7,13 +7,16 @@
     "addr:postcode":"30096",
     "addr:street":"Satellite Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.132921,33.961578,-84.132921,33.961578",
     "geom:latitude":33.961578,
     "geom:longitude":-84.132921,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3505 Satellite Blvd",
     "sg:city":"Duluth",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914342,
-    "wof:geomhash":"9ca7ef739b341301d1f3cd155b3df346",
+    "wof:geomhash":"e73d95fe4fb90dad675ddb6c77b7d75a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":739765085,
-    "wof:lastmodified":1472619257,
+    "wof:lastmodified":1510941634,
     "wof:name":"Bugaboo Creek Steakhouse",
     "wof:parent_id":85826369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739857619
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

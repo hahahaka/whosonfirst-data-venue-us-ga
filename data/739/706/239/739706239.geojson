@@ -7,6 +7,7 @@
     "addr:postcode":"30303",
     "addr:street":"Spring St Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.395049,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"75 Spring St SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461912699,
-    "wof:geomhash":"9812865fb5df7b3ec21f7060dea04aa4",
+    "wof:geomhash":"b2458fc0248ac25812440d6399851115",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":739706239,
-    "wof:lastmodified":1486682583,
+    "wof:lastmodified":1510942329,
     "wof:name":"Atlanta Regional Audit Office",
     "wof:parent_id":1108797063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739919779
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "audit"

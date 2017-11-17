@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.206055,33.906745,-84.206055,33.906745",
     "geom:latitude":33.906745,
     "geom:longitude":-84.206055,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5430 Jimmy Carter Blvd # 110",
     "sg:city":"Norcross",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461918048,
-    "wof:geomhash":"63f3217e54a574e22d18a86ef504dd8e",
+    "wof:geomhash":"7fd2739db98dc34b2782b7c5d2eebc6d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":739853329,
-    "wof:lastmodified":1472619446,
+    "wof:lastmodified":1510941853,
     "wof:name":"Peak Time Intl Aviation Inc",
     "wof:parent_id":85803655,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723073219
+    ],
     "wof:tags":[
         "agency",
         "services-commercial"

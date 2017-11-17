@@ -7,13 +7,16 @@
     "addr:postcode":"31904",
     "addr:street":"Bradley Park Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.968522,32.532294,-84.968522,32.532294",
     "geom:latitude":32.532294,
     "geom:longitude":-84.968522,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1619 Bradley Park Dr",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461884270,
-    "wof:geomhash":"b97874b827ec7ecf7bc1622954cf5b80",
+    "wof:geomhash":"3e756dbea7d74c4ec1d9481889966b58",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":722562877,
-    "wof:lastmodified":1472617951,
+    "wof:lastmodified":1510942679,
     "wof:name":"McDonalds",
     "wof:parent_id":85820405,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739774727
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

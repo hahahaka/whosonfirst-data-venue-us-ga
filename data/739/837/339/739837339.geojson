@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.322601,34.063301,-84.322601,34.063301",
     "geom:latitude":34.063301,
     "geom:longitude":-84.322601,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11660 Alpharetta Hwy Ste 470",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461917387,
-    "wof:geomhash":"5be634f01676a79d2a471cf9bb55ff9b",
+    "wof:geomhash":"1b0782c2e5b8da454e8092c07e180ef3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":739837339,
-    "wof:lastmodified":1472619440,
+    "wof:lastmodified":1510942998,
     "wof:name":"Lorillard Tobacco Company",
     "wof:parent_id":85851631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723086409
+    ],
     "wof:tags":[
         "shop"
     ]

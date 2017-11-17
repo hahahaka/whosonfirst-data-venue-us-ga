@@ -7,13 +7,16 @@
     "addr:postcode":"30907",
     "addr:street":"Hightower Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.10136,33.512931,-82.10136,33.512931",
     "geom:latitude":33.512931,
     "geom:longitude":-82.10136,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"215 Hightower Dr",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -51,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461905440,
-    "wof:geomhash":"96f067b50408c1d034dba7a8fa378f23",
+    "wof:geomhash":"9f7c652c0361e4ee92892ca40ef694f4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -63,12 +66,15 @@
         }
     ],
     "wof:id":739342775,
-    "wof:lastmodified":1472618206,
+    "wof:lastmodified":1510943995,
     "wof:name":"Medcom Inc Of Georgia",
     "wof:parent_id":85868555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739637345,
+        739432437
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "paging",

@@ -7,13 +7,16 @@
     "addr:postcode":"30030",
     "addr:street":"Commerce Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.29308,33.777814,-84.29308,33.777814",
     "geom:latitude":33.777814,
     "geom:longitude":-84.29308,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"755 Commerce Dr",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461908597,
-    "wof:geomhash":"29529d1b5f39500900801e301fe12cf1",
+    "wof:geomhash":"1d39a85177939b253f9de0cb416102cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":739509261,
-    "wof:lastmodified":1472618616,
+    "wof:lastmodified":1510941563,
     "wof:name":"Hyatt & Hyatt PC",
     "wof:parent_id":85890031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739793901
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

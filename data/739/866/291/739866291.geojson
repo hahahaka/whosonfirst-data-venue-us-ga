@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.47341,34.253865,-84.47341,34.253865",
     "geom:latitude":34.253865,
     "geom:longitude":-84.47341,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2200 Riverstone Blvd #0145",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461918539,
-    "wof:geomhash":"964b4ae1c1a339e0c7c70e5ecd75fa81",
+    "wof:geomhash":"0c86f85f3945871d091986a5094c40cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":739866291,
-    "wof:lastmodified":1472619477,
+    "wof:lastmodified":1510943768,
     "wof:name":"The Home Depot",
     "wof:parent_id":420517523,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739311797
+    ],
     "wof:tags":[
         "supply"
     ]

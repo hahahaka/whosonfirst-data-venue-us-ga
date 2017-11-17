@@ -7,13 +7,16 @@
     "addr:postcode":"31406",
     "addr:street":"Hodgson Memorial Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.11398,31.999469,-81.11398,31.999469",
     "geom:latitude":31.999469,
     "geom:longitude":-81.11398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7370 Hodgson Memorial Dr",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461926510,
-    "wof:geomhash":"feddd560c3c94efd1f68cc9996e0860b",
+    "wof:geomhash":"6e4cebe5aba241c272dc339064a4cde0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":740059511,
-    "wof:lastmodified":1472618157,
+    "wof:lastmodified":1510942805,
     "wof:name":"Coastal Chiropractic Clinic",
     "wof:parent_id":420517331,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739688451
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"

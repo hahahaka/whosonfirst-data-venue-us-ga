@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.130586,33.531779,-82.130586,33.531779",
     "geom:latitude":33.531779,
     "geom:longitude":-82.130586,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"464 N Belair Rd",
     "sg:city":"Evans",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914592,
-    "wof:geomhash":"da370088e7e90d8232afbeab91ce32fb",
+    "wof:geomhash":"f858fc154b8e13ce8050eaf2d8a82b2c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":739771251,
-    "wof:lastmodified":1472619282,
+    "wof:lastmodified":1510944164,
     "wof:name":"Fatz Cafe",
     "wof:parent_id":85868555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740041883
+    ],
     "wof:tags":[
         "american"
     ]

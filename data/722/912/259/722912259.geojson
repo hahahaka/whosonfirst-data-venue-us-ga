@@ -7,13 +7,16 @@
     "addr:postcode":"30344",
     "addr:street":"Norman Berry Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.428354,33.658971,-84.428354,33.658971",
     "geom:latitude":33.658971,
     "geom:longitude":-84.428354,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3401 Norman Berry Dr",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461891031,
-    "wof:geomhash":"8e38d27dec5fd789a84d745d741b8faa",
+    "wof:geomhash":"c03f5e526dfbcf2e8b459475620b7252",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":722912259,
-    "wof:lastmodified":1472618909,
+    "wof:lastmodified":1510943390,
     "wof:name":"Legacy Atlanta Inc",
     "wof:parent_id":85890001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739542849
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"

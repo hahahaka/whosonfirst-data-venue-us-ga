@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.585503,34.049198,-84.585503,34.049198",
     "geom:latitude":34.049198,
     "geom:longitude":-84.585503,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1301 Shiloh Rd NW Ste 140",
     "sg:city":"Kennesaw",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461919017,
-    "wof:geomhash":"96cfcb0500e8b24784c92e198141e04d",
+    "wof:geomhash":"9fe0becb3986f53ea4693177e7afc417",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":739878829,
-    "wof:lastmodified":1472619511,
+    "wof:lastmodified":1510943471,
     "wof:name":"A-Plus Tax & Accounting",
     "wof:parent_id":85821545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722716579
+    ],
     "wof:tags":[
         "accountant"
     ]

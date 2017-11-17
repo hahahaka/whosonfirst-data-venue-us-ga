@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.982637,33.473441,-81.982637,33.473441",
     "geom:latitude":33.473441,
     "geom:longitude":-81.982637,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1350 Walton Way",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -41,11 +43,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":490952184,
         "sg:id":"SG_65j8VVE03nsJ9aSN4WNf2v_33.473441_-81.982637@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461885040,
-    "wof:geomhash":"6d3856765a08bf8feb14c51e7cf18f3c",
+    "wof:geomhash":"337eed10e54ce39a83baa57e9c31257b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +61,15 @@
         }
     ],
     "wof:id":722602749,
-    "wof:lastmodified":1472618059,
+    "wof:lastmodified":1510943514,
     "wof:name":"University Hospital",
     "wof:parent_id":85876037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740043761
+    ],
     "wof:tags":[
         "specialty"
     ]

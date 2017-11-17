@@ -7,13 +7,16 @@
     "addr:postcode":"30038",
     "addr:street":"Turner Hill Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.088747,33.697121,-84.088747,33.697121",
     "geom:latitude":33.697121,
     "geom:longitude":-84.088747,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2929 Turner Hill Rd",
     "sg:city":"Lithonia",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461891446,
-    "wof:geomhash":"f650770278063085b3e99b5e674841b2",
+    "wof:geomhash":"b51778de8e1f4c7725869408ad56834f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":722931981,
-    "wof:lastmodified":1472618991,
+    "wof:lastmodified":1510941987,
     "wof:name":"Buffalo's Southwest Cafe",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739763153
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

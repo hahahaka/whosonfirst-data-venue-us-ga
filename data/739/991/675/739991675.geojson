@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.436942,33.903247,-84.436942,33.903247",
     "geom:latitude":33.903247,
     "geom:longitude":-84.436942,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6640 Powers Ferry Rd NW # 100",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923613,
-    "wof:geomhash":"9cd055466581b966e8656564a958caf2",
+    "wof:geomhash":"f4ddf2580500fab83b74e3afd76624f7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":739991675,
-    "wof:lastmodified":1472619703,
+    "wof:lastmodified":1510941692,
     "wof:name":"Hanging Valley Developmen",
     "wof:parent_id":85890005,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723394479
+    ],
     "wof:tags":[
         "wallcoverings-installation",
         "wallpaper"

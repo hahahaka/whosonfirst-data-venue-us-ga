@@ -7,6 +7,7 @@
     "addr:postcode":"30309",
     "addr:street":"Bennett St Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.395418,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"75 Bennett St NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461885330,
-    "wof:geomhash":"8ef3bc1756bc4c38cb6dca69549bcbce",
+    "wof:geomhash":"d493a73879fbf93d9ea538f8e64d4a24",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":722618481,
-    "wof:lastmodified":1486672722,
+    "wof:lastmodified":1510943937,
     "wof:name":"Matre Gallery-Buckhead",
     "wof:parent_id":1108798517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739942401
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "art",

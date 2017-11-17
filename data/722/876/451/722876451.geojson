@@ -7,6 +7,7 @@
     "addr:postcode":"30305",
     "addr:street":"Piedmont Rd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.369748,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3111 Piedmont Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461890319,
-    "wof:geomhash":"6cc9a714f3eb792d12eefe2a301a2991",
+    "wof:geomhash":"2128691791ec97d8dbf1988354ce9e8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":722876451,
-    "wof:lastmodified":1486668489,
+    "wof:lastmodified":1510943890,
     "wof:name":"Weitman R Terrell DDS",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739930547
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

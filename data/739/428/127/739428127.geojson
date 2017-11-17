@@ -7,13 +7,16 @@
     "addr:postcode":"30084",
     "addr:street":"Northlake Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.24453,33.847204,-84.24453,33.847204",
     "geom:latitude":33.847204,
     "geom:longitude":-84.24453,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2193 Northlake Pkwy",
     "sg:city":"Tucker",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461907126,
-    "wof:geomhash":"c20396140670f7c567b3fe6b4a864d34",
+    "wof:geomhash":"733843cc1680f1191caf78eff3eccf73",
     "wof:hierarchy":[],
     "wof:id":739428127,
-    "wof:lastmodified":1472618395,
+    "wof:lastmodified":1510942760,
     "wof:name":"Sheldon Soble DPM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739846127
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

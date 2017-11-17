@@ -7,13 +7,16 @@
     "addr:postcode":"30093",
     "addr:street":"Oakbrook Pkwy Ste 640",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.186301,33.920447,-84.186301,33.920447",
     "geom:latitude":33.920447,
     "geom:longitude":-84.186301,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5555 Oakbrook Pkwy Ste 640",
     "sg:city":"Norcross",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461918083,
-    "wof:geomhash":"288fbfcbfa0ecaf5027b9031c6fee8ec",
+    "wof:geomhash":"261de241e3f46c99abf9f125f307b4b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +58,17 @@
         }
     ],
     "wof:id":739854335,
-    "wof:lastmodified":1472619447,
+    "wof:lastmodified":1510944048,
     "wof:name":"Sonny's Real Pit Bar-B-Q",
     "wof:parent_id":85803655,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739853309
+    ],
+    "wof:supersedes":[
+        722974695
+    ],
     "wof:tags":[]
 },
   "bbox": [

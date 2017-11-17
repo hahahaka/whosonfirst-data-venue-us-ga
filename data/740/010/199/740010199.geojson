@@ -7,13 +7,16 @@
     "addr:postcode":"30345",
     "addr:street":"Briarcliff Rd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.255282,33.849735,-84.255282,33.849735",
     "geom:latitude":33.849735,
     "geom:longitude":-84.255282,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4800 Briarcliff Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -38,15 +41,18 @@
     },
     "wof:country":"US",
     "wof:created":1461924321,
-    "wof:geomhash":"c13a8f24501fde9d1f274804d2aff760",
+    "wof:geomhash":"a65c686ac5a6930653f8d7b6123cd218",
     "wof:hierarchy":[],
     "wof:id":740010199,
-    "wof:lastmodified":1472617836,
+    "wof:lastmodified":1510943925,
     "wof:name":"Doctor's Vision Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722803589,
+        740009559
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eyewear"

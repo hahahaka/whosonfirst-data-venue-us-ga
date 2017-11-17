@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.351786,33.976625,-84.351786,33.976625",
     "geom:latitude":33.976625,
     "geom:longitude":-84.351786,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8215 Roswell Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461908847,
-    "wof:geomhash":"35dafeb887db99d1d7d2928309accfc4",
+    "wof:geomhash":"e5cba1427763cd8e482f66e23de63804",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":739522735,
-    "wof:lastmodified":1472618647,
+    "wof:lastmodified":1510943018,
     "wof:name":"Erected Systems Inc",
     "wof:parent_id":85890021,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740015093
+    ],
     "wof:tags":[
         "equipment",
         "erection",

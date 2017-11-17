@@ -7,13 +7,16 @@
     "addr:postcode":"30014",
     "addr:street":"Hwy 278 Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.85281,33.602926,-83.85281,33.602926",
     "geom:latitude":33.602926,
     "geom:longitude":-83.85281,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4112 Hwy 278 NE",
     "sg:city":"Covington",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461902418,
-    "wof:geomhash":"a453f069e526388b7f88a9325ca23903",
+    "wof:geomhash":"aa797450df9ab6eda039dbde8b84cc87",
     "wof:hierarchy":[],
     "wof:id":723474961,
-    "wof:lastmodified":1472619280,
+    "wof:lastmodified":1510943292,
     "wof:name":"McDonalds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739784593
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

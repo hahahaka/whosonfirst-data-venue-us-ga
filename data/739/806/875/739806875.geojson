@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.03455,33.937976,-84.03455,33.937976",
     "geom:latitude":33.937976,
     "geom:longitude":-84.03455,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1575 Lawrenceville Hwy Davisville Statio Suite E",
     "sg:city":"Lawrenceville",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916154,
-    "wof:geomhash":"a114ff2918ba15da345885c251786df7",
+    "wof:geomhash":"ec0f95f12918988b13116408af995161",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":739806875,
-    "wof:lastmodified":1472619380,
+    "wof:lastmodified":1510942058,
     "wof:name":"Hi Energy Weight Control Center",
     "wof:parent_id":85808181,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722877203
+    ],
     "wof:tags":[
         "shop"
     ]

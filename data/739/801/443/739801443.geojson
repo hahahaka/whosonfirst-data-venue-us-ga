@@ -7,13 +7,16 @@
     "addr:postcode":"30038",
     "addr:street":"Stonecrest Cir",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.091124,33.699186,-84.091124,33.699186",
     "geom:latitude":33.699186,
     "geom:longitude":-84.091124,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2910 Stonecrest Cir",
     "sg:city":"Lithonia",
     "sg:classifiers":[
@@ -50,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915843,
-    "wof:geomhash":"9efee5f37ce132a59f2a8139fa487279",
+    "wof:geomhash":"8015861c16fb6f243186eedcd53ce186",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":739801443,
-    "wof:lastmodified":1472619362,
+    "wof:lastmodified":1510943209,
     "wof:name":"International House Of Pancakes",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739801677
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "style",

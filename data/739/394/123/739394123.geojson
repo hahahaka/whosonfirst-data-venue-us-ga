@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.97952,33.470103,-81.97952,33.470103",
     "geom:latitude":33.470103,
     "geom:longitude":-81.97952,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1303 Dantignac St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461906469,
-    "wof:geomhash":"852c7b7cfe4d7347c803d1234e17a17d",
+    "wof:geomhash":"91b03affa1979c8cad1d820bf1f41d78",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":739394123,
-    "wof:lastmodified":1472618304,
+    "wof:lastmodified":1510942454,
     "wof:name":"Charles G McClure MD PC",
     "wof:parent_id":85876037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740044105
+    ],
     "wof:tags":[
         "medical"
     ]

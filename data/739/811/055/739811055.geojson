@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.154818,33.882032,-84.154818,33.882032",
     "geom:latitude":33.882032,
     "geom:longitude":-84.154818,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5106 Cobblestone Way NW",
     "sg:city":"Lilburn",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916348,
-    "wof:geomhash":"2b0b0f36aeb1fe57d7221f615cc0eecf",
+    "wof:geomhash":"309e9c6530b2347b49f1ca6e656979b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":739811055,
-    "wof:lastmodified":1472619384,
+    "wof:lastmodified":1510941499,
     "wof:name":"Aha Enterprises Inc",
     "wof:parent_id":85803655,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739507207
+    ],
     "wof:tags":[]
 },
   "bbox": [

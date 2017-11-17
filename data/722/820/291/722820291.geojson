@@ -7,13 +7,16 @@
     "addr:postcode":"30340",
     "addr:street":"Presidential Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.257984,33.888798,-84.257984,33.888798",
     "geom:latitude":33.888798,
     "geom:longitude":-84.257984,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4001 Presidential Pkwy",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -50,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461889266,
-    "wof:geomhash":"7144a800434563ae7813c2be0228969c",
+    "wof:geomhash":"b4180afa47d1a50efc38ecbb9c966414",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":722820291,
-    "wof:lastmodified":1472618689,
+    "wof:lastmodified":1510942934,
     "wof:name":"Club Europe",
     "wof:parent_id":85889941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739994545
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "club",

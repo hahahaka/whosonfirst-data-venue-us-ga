@@ -7,13 +7,16 @@
     "addr:postcode":"30342",
     "addr:street":"Johnson Ferry Rd Ste 100",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.355656,33.907815,-84.355656,33.907815",
     "geom:latitude":33.907815,
     "geom:longitude":-84.355656,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"975 Johnson Ferry Rd Ste 100",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924061,
-    "wof:geomhash":"8b18ca24faed121bc3cee23d40a3b3b9",
+    "wof:geomhash":"ba5f2c750b3236d1b75733ea291f0573",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":740003543,
-    "wof:lastmodified":1472617872,
+    "wof:lastmodified":1510942319,
     "wof:name":"Atlanta Plastic Surgery, PC",
     "wof:parent_id":85890019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739517843
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon",

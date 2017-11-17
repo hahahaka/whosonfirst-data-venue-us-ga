@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.471786,33.450711,-84.471786,33.450711",
     "geom:latitude":33.450711,
     "geom:longitude":-84.471786,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"160 Belle Dr",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461919380,
-    "wof:geomhash":"2cfb24734a7e35daa500f497d1bbbc0b",
+    "wof:geomhash":"60914d70e52acf0342e1e6d34111728f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":739888485,
-    "wof:lastmodified":1472619515,
+    "wof:lastmodified":1510941265,
     "wof:name":"Brandywine at LaFayette",
     "wof:parent_id":85819123,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739259797
+    ],
     "wof:tags":[
         "apartment"
     ]

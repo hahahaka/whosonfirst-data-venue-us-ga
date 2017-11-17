@@ -7,6 +7,7 @@
     "addr:postcode":"30318",
     "addr:street":"Northside Dr Nw Ste B4",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.408045,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1700 Northside Dr NW Ste B4",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922314,
-    "wof:geomhash":"477ddbf513272e4091ab639d853ddb9b",
+    "wof:geomhash":"f3b318031b7f391ac9e4bdc8ba3de7c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,12 +82,14 @@
         }
     ],
     "wof:id":739958559,
-    "wof:lastmodified":1486672471,
+    "wof:lastmodified":1510943593,
     "wof:name":"The Arena Barber Salon",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739961957
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

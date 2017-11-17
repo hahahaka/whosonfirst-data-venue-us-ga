@@ -15,6 +15,7 @@
     "geom:longitude":-84.389198,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1100 Spring St NW Ste 400",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921632,
-    "wof:geomhash":"f6aabd5eff05059028e18a3b6862abbf",
+    "wof:geomhash":"2da1f60f9a6fb826b7d4daa03c5dfcb8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,13 +74,15 @@
         }
     ],
     "wof:id":739943403,
-    "wof:lastmodified":1486669733,
+    "wof:lastmodified":1510943584,
     "wof:name":"Stan Topol & Associates Inc",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723426973
+    ],
     "wof:tags":[
         "interior",
         "design"

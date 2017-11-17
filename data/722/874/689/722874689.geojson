@@ -7,13 +7,16 @@
     "addr:postcode":"31310",
     "addr:street":"Elma;Miles Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.603581,31.839183,-81.603581,31.839183",
     "geom:latitude":31.839183,
     "geom:longitude":-81.603581,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"462 Elma G Miles Pkwy",
     "sg:city":"Hinesville",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461890289,
-    "wof:geomhash":"47c40891897b8e13a16e5914d12111f5",
+    "wof:geomhash":"e6aa7d0a628fca3f22045c42394ea13b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +58,17 @@
         }
     ],
     "wof:id":722874689,
-    "wof:lastmodified":1472618863,
+    "wof:lastmodified":1510942726,
     "wof:name":"Liberty Regional Medical Ctr",
     "wof:parent_id":85803773,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        740056677
+    ],
+    "wof:supersedes":[
+        740056677
+    ],
     "wof:tags":[]
 },
   "bbox": [

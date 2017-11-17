@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.2267,33.9491,-84.2267,33.9491",
     "geom:latitude":33.9491,
     "geom:longitude":-84.2267,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5965 Peachtree Cors E",
     "sg:city":"Norcross",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1461917130,
-    "wof:geomhash":"872fd9152a5dbcf7dfe8ddab0e6a47ac",
+    "wof:geomhash":"630d6137a30bf694bb9a16cadf2888c6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":739831335,
-    "wof:lastmodified":1472619409,
+    "wof:lastmodified":1510941886,
     "wof:name":"Mike's Finest Wholesale Flowers",
     "wof:parent_id":85826369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739833153
+    ],
     "wof:tags":[]
 },
   "bbox": [

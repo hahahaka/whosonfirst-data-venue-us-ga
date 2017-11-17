@@ -15,6 +15,7 @@
     "geom:longitude":-84.359802,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6205 Barfield Rd NE Ste 127",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922921,
-    "wof:geomhash":"7115e587389da9be7d9fa425d155bf67",
+    "wof:geomhash":"2de47c6b5152c74d9770f0a1be4f1299",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,13 +71,15 @@
         }
     ],
     "wof:id":739974327,
-    "wof:lastmodified":1491902598,
+    "wof:lastmodified":1510943829,
     "wof:name":"Finance America Llc",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722699915
+    ],
     "wof:tags":[
         "broker",
         "mortgage"

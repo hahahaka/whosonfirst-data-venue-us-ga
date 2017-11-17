@@ -7,13 +7,16 @@
     "addr:postcode":"30047",
     "addr:street":"Webb Pkwy Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.154365,33.877934,-84.154365,33.877934",
     "geom:latitude":33.877934,
     "geom:longitude":-84.154365,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5225 Webb Pkwy NW",
     "sg:city":"Lilburn",
     "sg:classifiers":[
@@ -50,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461905005,
-    "wof:geomhash":"bdaee8f351f8ebd7f83d4aa02abe9926",
+    "wof:geomhash":"e2d521b3eb9c1e32d2d2d951ad7ccc94",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":739321351,
-    "wof:lastmodified":1472618123,
+    "wof:lastmodified":1510943602,
     "wof:name":"Vinson-Mc Donald Inc",
     "wof:parent_id":85803655,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739810735
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "conveying",

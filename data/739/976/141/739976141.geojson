@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.379402,33.914501,-84.379402,33.914501",
     "geom:latitude":33.914501,
     "geom:longitude":-84.379402,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5801 Roswell Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922981,
-    "wof:geomhash":"969934bcafccce5b7c95fb28728fbc7f",
+    "wof:geomhash":"7a2952f8fde3a363c1d1331f974f231d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":739976141,
-    "wof:lastmodified":1472619671,
+    "wof:lastmodified":1510943002,
     "wof:name":"Farsi Jewelers",
     "wof:parent_id":85889967,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739977131
+    ],
     "wof:tags":[]
 },
   "bbox": [

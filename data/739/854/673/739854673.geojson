@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.189854,33.918279,-84.189854,33.918279",
     "geom:latitude":33.918279,
     "geom:longitude":-84.189854,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5600 Oakbrook Pkwy Ste 250",
     "sg:city":"Norcross",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461918096,
-    "wof:geomhash":"f2756a5922ccec3eea42722af8035584",
+    "wof:geomhash":"f7bdc9c94863ab4d4ab91a2035994341",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":739854673,
-    "wof:lastmodified":1472619466,
+    "wof:lastmodified":1510941217,
     "wof:name":"Atlanta Professional Electronics",
     "wof:parent_id":85803655,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739853039
+    ],
     "wof:tags":[]
 },
   "bbox": [

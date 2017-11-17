@@ -7,13 +7,16 @@
     "addr:postcode":"30075",
     "addr:street":"W Crossville Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.381798,34.058701,-84.381798,34.058701",
     "geom:latitude":34.058701,
     "geom:longitude":-84.381798,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"675 W Crossville Rd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461913886,
-    "wof:geomhash":"3a55b4ac33ba4e7752cb1ec3455821f7",
+    "wof:geomhash":"0c53c6570a3da65c851ab2c4cbb87737",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":739754531,
-    "wof:lastmodified":1472619238,
+    "wof:lastmodified":1510944016,
     "wof:name":"Bruster's Old Fashion Ice Cream",
     "wof:parent_id":85823117,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739834935
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "frozen",

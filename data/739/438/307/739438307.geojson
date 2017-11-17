@@ -7,13 +7,16 @@
     "addr:postcode":"30096",
     "addr:street":"Buford Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.132418,34.007889,-84.132418,34.007889",
     "geom:latitude":34.007889,
     "geom:longitude":-84.132418,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2750 Buford Hwy",
     "sg:city":"Duluth",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461907324,
-    "wof:geomhash":"b9e1e5a53548dcb78ac305d02d0172ec",
+    "wof:geomhash":"6978409ffc849ceb148338524bc1598b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":739438307,
-    "wof:lastmodified":1472618441,
+    "wof:lastmodified":1510942457,
     "wof:name":"Cedar Creek Grill",
     "wof:parent_id":85810283,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739857217
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

@@ -7,13 +7,16 @@
     "addr:postcode":"30144",
     "addr:street":"Ernest W Barrett Pkwy Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.564077,34.012346,-84.564077,34.012346",
     "geom:latitude":34.012346,
     "geom:longitude":-84.564077,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"440 Ernest W Barrett Pkwy NW",
     "sg:city":"Kennesaw",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914390,
-    "wof:geomhash":"33a45b8b8c56112913c8c99b31cea7a8",
+    "wof:geomhash":"b2a2378092f127f3b4d2f1a8e22220be",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":739766257,
-    "wof:lastmodified":1472619282,
+    "wof:lastmodified":1510941530,
     "wof:name":"Provino's",
     "wof:parent_id":85839059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739879995
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "italian"

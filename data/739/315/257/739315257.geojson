@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.009175,34.093287,-84.009175,34.093287",
     "geom:latitude":34.093287,
     "geom:longitude":-84.009175,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4300 Buford Dr",
     "sg:city":"Buford",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461904871,
-    "wof:geomhash":"b265b20493def781cfb579ad432e6b00",
+    "wof:geomhash":"bc7e4f9d68d9296c568150961526f382",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,16 @@
         }
     ],
     "wof:id":739315257,
-    "wof:lastmodified":1472618099,
+    "wof:lastmodified":1510941961,
     "wof:name":"T's Nail Salon",
     "wof:parent_id":85820775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740025607,
+        740025183
+    ],
     "wof:tags":[
         "shop",
         "manicuring"

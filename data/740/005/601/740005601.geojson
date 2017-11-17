@@ -7,13 +7,16 @@
     "addr:postcode":"30342",
     "addr:street":"Glenridge Dr Ne Ste 900",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.363643,33.90639,-84.363643,33.90639",
     "geom:latitude":33.90639,
     "geom:longitude":-84.363643,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5605 Glenridge Dr NE Ste 900",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924145,
-    "wof:geomhash":"1fa0ebf341cf293d6a9cf92739a755cb",
+    "wof:geomhash":"8113fed9b49edb8c8043def022be5b06",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":740005601,
-    "wof:lastmodified":1472617890,
+    "wof:lastmodified":1510942398,
     "wof:name":"Mozley Finlayson & Loggins",
     "wof:parent_id":85890019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722708531
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

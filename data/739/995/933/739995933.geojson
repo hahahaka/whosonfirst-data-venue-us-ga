@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.260591,33.89866,-84.260591,33.89866",
     "geom:latitude":33.89866,
     "geom:longitude":-84.260591,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3069 Mccall Dr",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -65,7 +67,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923779,
-    "wof:geomhash":"151061d6132c8140d33454aee45d1062",
+    "wof:geomhash":"2ef0b63e6ac5085eaf71f244e18d373a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -76,13 +78,15 @@
         }
     ],
     "wof:id":739995933,
-    "wof:lastmodified":1472619706,
+    "wof:lastmodified":1510941528,
     "wof:name":"Hair South Inc",
     "wof:parent_id":85889941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739660919
+    ],
     "wof:tags":[
         "stylist",
         "supply",

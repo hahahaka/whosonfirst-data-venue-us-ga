@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.479698,33.924999,-84.479698,33.924999",
     "geom:latitude":33.924999,
     "geom:longitude":-84.479698,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1110 Northchase Pkwy SE Ste 200",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"US",
     "wof:created":1461916946,
-    "wof:geomhash":"bc61de8d60db069e7c0a5c14df4a3cdc",
+    "wof:geomhash":"37d9636a6998643952f31da94cf5c9fb",
     "wof:hierarchy":[],
     "wof:id":739826389,
-    "wof:lastmodified":1472619409,
+    "wof:lastmodified":1510944133,
     "wof:name":"Budget Rent A Car",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723099949
+    ],
     "wof:tags":[
         "car"
     ]

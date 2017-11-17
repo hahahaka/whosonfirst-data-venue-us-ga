@@ -7,13 +7,16 @@
     "addr:postcode":"30004",
     "addr:street":"Sanctuary Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.311961,34.049425,-84.311961,34.049425",
     "geom:latitude":34.049425,
     "geom:longitude":-84.311961,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1105 Sanctuary Pkwy",
     "sg:city":"Alpharetta",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461890594,
-    "wof:geomhash":"c40722a609f4736729b6315e701b375e",
+    "wof:geomhash":"3d9fef01ad3e9d60e5205f6acf18591a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":722890689,
-    "wof:lastmodified":1472618877,
+    "wof:lastmodified":1510942868,
     "wof:name":"Morgan Keegan & Company Inc",
     "wof:parent_id":85853841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739777817
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "security"

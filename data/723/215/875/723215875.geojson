@@ -7,13 +7,16 @@
     "addr:postcode":"30337",
     "addr:street":"Columbia Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.442888,33.652273,-84.442888,33.652273",
     "geom:latitude":33.652273,
     "geom:longitude":-84.442888,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1701 Columbia Ave",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461897381,
-    "wof:geomhash":"0913d225d28f8a060c698944e7771b9e",
+    "wof:geomhash":"26b45a32bf5d1f39c67985bc5059d10f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":723215875,
-    "wof:lastmodified":1472618587,
+    "wof:lastmodified":1510943514,
     "wof:name":"Aircraft Certification Office",
     "wof:parent_id":85890001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739986429
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"

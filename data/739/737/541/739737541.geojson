@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.206095,33.906416,-84.206095,33.906416",
     "geom:latitude":33.906416,
     "geom:longitude":-84.206095,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5430 Jimmy Carter Blvd",
     "sg:city":"Norcross",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461913377,
-    "wof:geomhash":"66fde7cd3d2b144285272af5d1246158",
+    "wof:geomhash":"ffede162d193af8c23817ca29b6264ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":739737541,
-    "wof:lastmodified":1472619214,
+    "wof:lastmodified":1510942381,
     "wof:name":"Travel Express Intl",
     "wof:parent_id":85803655,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722893801
+    ],
     "wof:tags":[
         "agency",
         "bureau"

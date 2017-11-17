@@ -7,13 +7,16 @@
     "addr:postcode":"30032",
     "addr:street":"Redwing Cir",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.237162,33.755489,-84.237162,33.755489",
     "geom:latitude":33.755489,
     "geom:longitude":-84.237162,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3653 Redwing Cir",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461888450,
-    "wof:geomhash":"db2dd326304bd4dbec7c957871334c6a",
+    "wof:geomhash":"dbb139197fd7b0f0e3c3d48b4f939291",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":722777441,
-    "wof:lastmodified":1472618559,
+    "wof:lastmodified":1510942246,
     "wof:name":"Dekalb Roofing Co Inc",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739795661
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "roofing",

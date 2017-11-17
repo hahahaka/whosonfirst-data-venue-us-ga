@@ -7,13 +7,16 @@
     "addr:postcode":"30106",
     "addr:street":"Hospital South Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.606377,33.858024,-84.606377,33.858024",
     "geom:latitude":33.858024,
     "geom:longitude":-84.606377,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1700 Hospital South Dr",
     "sg:city":"Austell",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461899158,
-    "wof:geomhash":"cd208eebada2a5729edeac84713fb254",
+    "wof:geomhash":"80f24ddac3bea40d2ade4b3a00ebfe3f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":723304721,
-    "wof:lastmodified":1472618821,
+    "wof:lastmodified":1510942744,
     "wof:name":"Atlanta West Dermatology PC",
     "wof:parent_id":85852043,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739864493
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

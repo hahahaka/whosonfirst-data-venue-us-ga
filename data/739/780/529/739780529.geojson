@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.294748,34.069654,-84.294748,34.069654",
     "geom:latitude":34.069654,
     "geom:longitude":-84.294748,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11770 Haynes Bridge Rd # 601",
     "sg:city":"Alpharetta",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914965,
-    "wof:geomhash":"2009d72c7ea3afdd3938cbe4b10157c9",
+    "wof:geomhash":"395fc9a15d75650c5997858d8a6e850e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":739780529,
-    "wof:lastmodified":1472619312,
+    "wof:lastmodified":1510942792,
     "wof:name":"Mambo's Cafe",
     "wof:parent_id":85853841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739762187
+    ],
     "wof:tags":[
         "peruvian",
         "cuban"

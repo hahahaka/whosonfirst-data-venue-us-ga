@@ -7,13 +7,16 @@
     "addr:postcode":"31405",
     "addr:street":"Reynolds St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.101608,32.027736,-81.101608,32.027736",
     "geom:latitude":32.027736,
     "geom:longitude":-81.101608,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5354 Reynolds St",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461926489,
-    "wof:geomhash":"964a43dd6ebfd75f83b53ad73b497e19",
+    "wof:geomhash":"4d1f620b6c26bb216eebf703b3ebbcc9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":740059031,
-    "wof:lastmodified":1472618106,
+    "wof:lastmodified":1510941587,
     "wof:name":"Biggerstaff, E Daniel III MD",
     "wof:parent_id":420517369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739586897
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "gynecology",

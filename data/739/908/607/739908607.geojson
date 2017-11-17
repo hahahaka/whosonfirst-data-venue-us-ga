@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.527199,33.5746,-84.527199,33.5746",
     "geom:latitude":33.5746,
     "geom:longitude":-84.527199,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4405 Mall Blvd",
     "sg:city":"Union City",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920141,
-    "wof:geomhash":"c7ff7714a883a4f45034a09ad231b3ac",
+    "wof:geomhash":"4d5faf2b90fea43d80639db69fc421b6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -67,13 +69,15 @@
         }
     ],
     "wof:id":739908607,
-    "wof:lastmodified":1472619560,
+    "wof:lastmodified":1510943198,
     "wof:name":"American Discount Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722598215
+    ],
     "wof:tags":[
         "broker",
         "mortgage"

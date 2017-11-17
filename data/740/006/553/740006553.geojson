@@ -7,13 +7,16 @@
     "addr:postcode":"30344",
     "addr:street":"Central Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.43899,33.675197,-84.43899,33.675197",
     "geom:latitude":33.675197,
     "geom:longitude":-84.43899,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2941 Central Ave",
     "sg:city":"Atlanta",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924176,
-    "wof:geomhash":"d6c1322e0d8811ae58a50ea5e7b5778e",
+    "wof:geomhash":"67a98d42cd316402df1b06aea0d5e255",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":740006553,
-    "wof:lastmodified":1472617876,
+    "wof:lastmodified":1510942533,
     "wof:name":"Allied Motor Parts",
     "wof:parent_id":85889981,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723002519
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

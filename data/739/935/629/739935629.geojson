@@ -15,6 +15,7 @@
     "geom:longitude":-84.383358,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"120 Ralph McGill Boulevard NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921238,
-    "wof:geomhash":"42678cf6c94637d6d474af87cc27e070",
+    "wof:geomhash":"5d43942e7984a2d6542583979eb3e3ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,13 +65,15 @@
         }
     ],
     "wof:id":739935629,
-    "wof:lastmodified":1486682386,
+    "wof:lastmodified":1510943466,
     "wof:name":"Bo Unlimited",
     "wof:parent_id":1108797049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739934533
+    ],
     "wof:tags":[
         "interior",
         "design"

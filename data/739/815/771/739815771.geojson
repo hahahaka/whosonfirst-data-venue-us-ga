@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.496897,33.913237,-84.496897,33.913237",
     "geom:latitude":33.913237,
     "geom:longitude":-84.496897,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1581 Cobb Pkwy S Ste 100",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -75,7 +77,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916538,
-    "wof:geomhash":"cb82b40249afd6e8ee5af9e96f6c864d",
+    "wof:geomhash":"b7bf869b78e9e2c9ad5997d7a6a87f7b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -86,13 +88,15 @@
         }
     ],
     "wof:id":739815771,
-    "wof:lastmodified":1472619403,
+    "wof:lastmodified":1510941331,
     "wof:name":"FASTSIGNS",
     "wof:parent_id":85845875,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722667209
+    ],
     "wof:tags":[
         "lettering",
         "product",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.088582,34.051959,-84.088582,34.051959",
     "geom:latitude":34.051959,
     "geom:longitude":-84.088582,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1000 Peachtree Industrial Blvd Ste 11",
     "sg:city":"Suwanee",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915355,
-    "wof:geomhash":"f277d67a66254130a0bcd230e8fe4fef",
+    "wof:geomhash":"1a9cef1bb5e2c812a12b2398b5ab24be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":739789747,
-    "wof:lastmodified":1472619358,
+    "wof:lastmodified":1510944175,
     "wof:name":"Nail Capri",
     "wof:parent_id":85802315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739791779
+    ],
     "wof:tags":[]
 },
   "bbox": [

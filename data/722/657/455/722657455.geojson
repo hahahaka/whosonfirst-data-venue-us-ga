@@ -7,13 +7,16 @@
     "addr:postcode":"30083",
     "addr:street":"Memorial Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.21485,33.800523,-84.21485,33.800523",
     "geom:latitude":33.800523,
     "geom:longitude":-84.21485,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5300 Memorial Dr",
     "sg:city":"Stone Mountain",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461886158,
-    "wof:geomhash":"7378bbcf7c6bb9e57723599f88067307",
+    "wof:geomhash":"2c3871b540b00d9c9d3ba940aad5933b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":722657455,
-    "wof:lastmodified":1472618272,
+    "wof:lastmodified":1510942655,
     "wof:name":"JFW Inc",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723257781
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant",

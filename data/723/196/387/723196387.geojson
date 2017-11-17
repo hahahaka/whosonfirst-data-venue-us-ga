@@ -7,13 +7,16 @@
     "addr:postcode":"30060",
     "addr:street":"Washington Ave Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.54608,33.952273,-84.54608,33.952273",
     "geom:latitude":33.952273,
     "geom:longitude":-84.54608,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"241 Washington Ave NE",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461897001,
-    "wof:geomhash":"6909258af5d535a8fee62ab37f947836",
+    "wof:geomhash":"543c378eea608957afdbe5a026cdfe1b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":723196387,
-    "wof:lastmodified":1472618513,
+    "wof:lastmodified":1510943317,
     "wof:name":"Bentley Bentley & Bentley",
     "wof:parent_id":85857593,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739817347
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

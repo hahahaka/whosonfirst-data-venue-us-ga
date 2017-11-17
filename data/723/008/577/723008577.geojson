@@ -7,13 +7,16 @@
     "addr:postcode":"30067",
     "addr:street":"Windy Hill Rd Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.480368,33.902087,-84.480368,33.902087",
     "geom:latitude":33.902087,
     "geom:longitude":-84.480368,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2550 Windy Hill Rd SE",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461893111,
-    "wof:geomhash":"c0b1044a1e8acf3d2bd8bc013cb8c31d",
+    "wof:geomhash":"2f2f496de34c59c327fb6c8a833f135b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -67,12 +70,14 @@
         }
     ],
     "wof:id":723008577,
-    "wof:lastmodified":1472617862,
+    "wof:lastmodified":1510943493,
     "wof:name":"Nova Ob-Gyn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739826977
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

@@ -15,6 +15,7 @@
     "geom:longitude":-84.379015,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"265 Ponce De Leon Ave NE Ste F",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921291,
-    "wof:geomhash":"80d445c2444369a9791e383ab7f4fbce",
+    "wof:geomhash":"e5e262fc943a96bb907f3e889837a30d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":739936813,
-    "wof:lastmodified":1486670202,
+    "wof:lastmodified":1510943640,
     "wof:name":"Too Groovy",
     "wof:parent_id":85866909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739713797
+    ],
     "wof:tags":[
         "hair"
     ]

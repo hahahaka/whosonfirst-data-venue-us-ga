@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.95107,32.53964,-84.95107,32.53964",
     "geom:latitude":32.53964,
     "geom:longitude":-84.95107,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2528 Weems Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914744,
-    "wof:geomhash":"4e93f2adc153593497ef75c58c1c8068",
+    "wof:geomhash":"14889cb8b3da812edf40e7538c1b1a3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":739774925,
-    "wof:lastmodified":1472619323,
+    "wof:lastmodified":1510942976,
     "wof:name":"Bavarian House",
     "wof:parent_id":85850603,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740074585
+    ],
     "wof:tags":[
         "german"
     ]

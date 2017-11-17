@@ -7,13 +7,16 @@
     "addr:postcode":"30134",
     "addr:street":"Professional Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.730914,33.740842,-84.730914,33.740842",
     "geom:latitude":33.740842,
     "geom:longitude":-84.730914,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6095 Professional Pkwy",
     "sg:city":"Douglasville",
     "sg:classifiers":[
@@ -51,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461918858,
-    "wof:geomhash":"0f171363f521ebdfa4b1e8e1504a9d5e",
+    "wof:geomhash":"935f5966bd09d714a1327c9582647009",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +67,14 @@
         }
     ],
     "wof:id":739874485,
-    "wof:lastmodified":1472619497,
+    "wof:lastmodified":1510941849,
     "wof:name":"Heart Clinic PC The-",
     "wof:parent_id":85803185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739873739
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

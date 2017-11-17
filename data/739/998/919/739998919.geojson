@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.312914,33.86969,-84.312914,33.86969",
     "geom:latitude":33.86969,
     "geom:longitude":-84.312914,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1846 Duke Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923890,
-    "wof:geomhash":"6910c78292a464ebe7c786731d938def",
+    "wof:geomhash":"d32de63af1a100458fef07f81ec50038",
     "wof:hierarchy":[
         {
             "campus_id":102525899,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":739998919,
-    "wof:lastmodified":1472619711,
+    "wof:lastmodified":1510941698,
     "wof:name":"Artisan Gourmet",
     "wof:parent_id":102525899,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739590463
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"30260",
     "addr:street":"Southlake Mall",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.3527,33.573057,-84.3527,33.573057",
     "geom:latitude":33.573057,
     "geom:longitude":-84.3527,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1000 Southlake Mall",
     "sg:city":"Morrow",
     "sg:classifiers":[
@@ -38,16 +41,20 @@
     },
     "wof:country":"US",
     "wof:created":1461919792,
-    "wof:geomhash":"9186eab718a1b6523c8f8e6ed2610b85",
+    "wof:geomhash":"35a31711eee464722d3982d42eba2370",
     "wof:hierarchy":[],
     "wof:id":739899267,
-    "wof:lastmodified":1472619538,
+    "wof:lastmodified":1510943441,
     "wof:name":"Levtran Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739898949
+    ],
+    "wof:supersedes":[
+        722626357
+    ],
     "wof:tags":[
         "wear"
     ]

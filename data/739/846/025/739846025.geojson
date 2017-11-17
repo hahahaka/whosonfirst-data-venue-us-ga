@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.254698,33.846007,-84.254698,33.846007",
     "geom:latitude":33.846007,
     "geom:longitude":-84.254698,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4006 Lavista Rd",
     "sg:city":"Tucker",
     "sg:classifiers":[],
@@ -26,20 +28,23 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":1633294134,
         "sg:id":"SG_5VsDc9QCiGOkqrm9zhcjhr_33.846007_-84.254698@1303262587"
     },
     "wof:country":"US",
     "wof:created":1461917742,
-    "wof:geomhash":"1189592898a0be5774ce6c545f5c2482",
+    "wof:geomhash":"1c0621f59924b5fe032cb34020bb8e71",
     "wof:hierarchy":[],
     "wof:id":739846025,
-    "wof:lastmodified":1472619425,
+    "wof:lastmodified":1510943589,
     "wof:name":"Blue Ribbon Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739761009
+    ],
     "wof:tags":[]
 },
   "bbox": [

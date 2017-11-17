@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.387061,33.920803,-84.387061,33.920803",
     "geom:latitude":33.920803,
     "geom:longitude":-84.387061,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6100 Lake Forrest Drive NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922917,
-    "wof:geomhash":"e894e47a0d3a9958d6085b63c02d5307",
+    "wof:geomhash":"bbaa2c969a6e5b13ef03cc2872b49102",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,13 +71,15 @@
         }
     ],
     "wof:id":739974205,
-    "wof:lastmodified":1472619649,
+    "wof:lastmodified":1510943213,
     "wof:name":"P & P Entertainment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722987449
+    ],
     "wof:tags":[
         "broker",
         "mortgage"

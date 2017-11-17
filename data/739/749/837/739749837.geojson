@@ -7,6 +7,7 @@
     "addr:postcode":"30303",
     "addr:street":"Peachtree St Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.389426,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"34 Peachtree St NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461913705,
-    "wof:geomhash":"e636786e79ea4995958daad5b012a7f4",
+    "wof:geomhash":"d5e5c76843b64a16a053aca2ea9a8394",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":739749837,
-    "wof:lastmodified":1486670067,
+    "wof:lastmodified":1510943625,
     "wof:name":"Mhm Services",
     "wof:parent_id":85866901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739924517
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mental"

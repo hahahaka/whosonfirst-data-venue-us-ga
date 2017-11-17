@@ -7,13 +7,16 @@
     "addr:postcode":"30606",
     "addr:street":"S Lumpkin St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.387506,33.937412,-83.387506,33.937412",
     "geom:latitude":33.937412,
     "geom:longitude":-83.387506,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1655 S Lumpkin St",
     "sg:city":"Athens",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1461925331,
-    "wof:geomhash":"1d9dbd96c1388856ce1623fef8bacb6d",
+    "wof:geomhash":"6a515856fb31f5e284805714001cc8d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":740034077,
-    "wof:lastmodified":1472617926,
+    "wof:lastmodified":1510943102,
     "wof:name":"Five Points Bottle Shop",
     "wof:parent_id":85845017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723473957
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"30141",
     "addr:street":"Jimmy Lee Smith Pkwy Ste I",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.753314,33.891093,-84.753314,33.891093",
     "geom:latitude":33.891093,
     "geom:longitude":-84.753314,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4471 Jimmy Lee Smith Pkwy Ste I",
     "sg:city":"Hiram",
     "sg:classifiers":[
@@ -77,7 +80,7 @@
     },
     "wof:country":"US",
     "wof:created":1461918942,
-    "wof:geomhash":"3e0ff2e570b219c353c2e5455a4857f3",
+    "wof:geomhash":"43ece8c65a9a5244e8a71859103cc30d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -89,12 +92,14 @@
         }
     ],
     "wof:id":739876807,
-    "wof:lastmodified":1472619509,
+    "wof:lastmodified":1510944200,
     "wof:name":"STAPLES",
     "wof:parent_id":85835843,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739877129
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "printer",

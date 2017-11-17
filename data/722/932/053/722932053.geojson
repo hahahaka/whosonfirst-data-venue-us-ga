@@ -7,13 +7,16 @@
     "addr:postcode":"30044",
     "addr:street":"Club Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.123047,33.94121,-84.123047,33.94121",
     "geom:latitude":33.94121,
     "geom:longitude":-84.123047,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3664 Club Dr",
     "sg:city":"Lawrenceville",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461891448,
-    "wof:geomhash":"32896b4bfc463336ca33a448f85d2a56",
+    "wof:geomhash":"5c2a6723f9a75dd75c8d430b0faf9b02",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":722932053,
-    "wof:lastmodified":1472618995,
+    "wof:lastmodified":1510943749,
     "wof:name":"Luv My Pet",
     "wof:parent_id":85810283,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739806653
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "pet",

@@ -7,13 +7,16 @@
     "addr:postcode":"30260",
     "addr:street":"Lake Harbin Rd;N7",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.322098,33.5816,-84.322098,33.5816",
     "geom:latitude":33.5816,
     "geom:longitude":-84.322098,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2070 Lake Harbin Rd Apt N7",
     "sg:city":"Morrow",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461919784,
-    "wof:geomhash":"75ac97f6c111e01a8b901bac36d3b72e",
+    "wof:geomhash":"9a600b3698035fb58e106d51dd208fbc",
     "wof:hierarchy":[],
     "wof:id":739899029,
-    "wof:lastmodified":1472619535,
+    "wof:lastmodified":1510943673,
     "wof:name":"Lake Harbin Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739898629
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"

@@ -7,13 +7,16 @@
     "addr:postcode":"30213",
     "addr:street":"Pinehurst Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.593192,33.581066,-84.593192,33.581066",
     "geom:latitude":33.581066,
     "geom:longitude":-84.593192,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"626 Pinehurst Dr",
     "sg:city":"Fairburn",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461896337,
-    "wof:geomhash":"52f175ba90f30a8042ba8dfd657eb56f",
+    "wof:geomhash":"101845c7df6815df65498e02a99a3eae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":723162857,
-    "wof:lastmodified":1472618430,
+    "wof:lastmodified":1510942110,
     "wof:name":"Byrd's Child Care",
     "wof:parent_id":85819325,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739685715
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

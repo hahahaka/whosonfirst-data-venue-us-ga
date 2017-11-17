@@ -7,6 +7,7 @@
     "addr:postcode":"30305",
     "addr:street":"Peachtree Rd Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.380696,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3050 Peachtree Rd NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914458,
-    "wof:geomhash":"bd82f8be56e2aa9bd8132032848f6696",
+    "wof:geomhash":"1a739207a8880fb8fd3ab4573190292d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":739767945,
-    "wof:lastmodified":1486671684,
+    "wof:lastmodified":1510942969,
     "wof:name":"J. Christopher's",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739930557
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american"

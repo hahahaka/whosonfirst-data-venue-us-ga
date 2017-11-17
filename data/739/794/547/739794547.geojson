@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.250923,33.769641,-84.250923,33.769641",
     "geom:latitude":33.769641,
     "geom:longitude":-84.250923,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4151 Memorial Dr Ste 209B",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915547,
-    "wof:geomhash":"d35bfd4a95b3674d02ce71c82015be1b",
+    "wof:geomhash":"c5dc641f470dd05464b7688532399fe5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,13 +66,15 @@
         }
     ],
     "wof:id":739794547,
-    "wof:lastmodified":1472619367,
+    "wof:lastmodified":1510941420,
     "wof:name":"Robert Itkin Pc",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722764889
+    ],
     "wof:tags":[
         "information",
         "attorney",

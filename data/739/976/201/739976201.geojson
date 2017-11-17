@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.351918,33.91644,-84.351918,33.91644",
     "geom:latitude":33.91644,
     "geom:longitude":-84.351918,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5 Concourse Parkway NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922983,
-    "wof:geomhash":"ca0d01ed0c072d28bca542215c50051c",
+    "wof:geomhash":"ed90161df907fdb17722482483863a15",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":739976201,
-    "wof:lastmodified":1472619672,
+    "wof:lastmodified":1510943232,
     "wof:name":"David's Gourmet Grille III",
     "wof:parent_id":85889977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722806967
+    ],
     "wof:tags":[]
 },
   "bbox": [

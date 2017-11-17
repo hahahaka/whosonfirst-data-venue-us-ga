@@ -7,13 +7,16 @@
     "addr:postcode":"30079",
     "addr:street":"E Ponce De Leon Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.264731,33.78666,-84.264731,33.78666",
     "geom:latitude":33.78666,
     "geom:longitude":-84.264731,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3155 E Ponce de Leon Ave",
     "sg:city":"Scottdale",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461892466,
-    "wof:geomhash":"08052224ea07b135ca85461300c17ba7",
+    "wof:geomhash":"76281b26bdbee489005b8e02d78d0bb5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":722980649,
-    "wof:lastmodified":1472619109,
+    "wof:lastmodified":1510943774,
     "wof:name":"Grand Autosales & Service",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739840543
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "general"

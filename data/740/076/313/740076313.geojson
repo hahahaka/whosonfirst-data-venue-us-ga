@@ -7,13 +7,16 @@
     "addr:postcode":"30144",
     "addr:street":"Airport Rd Suite 115",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.604883,34.010712,-84.604883,34.010712",
     "geom:latitude":34.010712,
     "geom:longitude":-84.604883,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1640 Airport Rd Suite 115",
     "sg:city":"Kennesaw",
     "sg:classifiers":[
@@ -50,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461927230,
-    "wof:geomhash":"348f1b7785a9a739983a54b564a4e6f1",
+    "wof:geomhash":"0ddcd39b25c90c980d680335b7b1dfa0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":740076313,
-    "wof:lastmodified":1472618203,
+    "wof:lastmodified":1510943154,
     "wof:name":"MicroBilt Corporation",
     "wof:parent_id":85837407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739580415
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "credit-reports",

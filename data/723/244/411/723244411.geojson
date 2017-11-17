@@ -7,13 +7,16 @@
     "addr:postcode":"30907",
     "addr:street":"Flowing Wells Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.109859,33.492297,-82.109859,33.492297",
     "geom:latitude":33.492297,
     "geom:longitude":-82.109859,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"472 Flowing Wells Rd",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -52,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461898001,
-    "wof:geomhash":"ae3aaf138ea2a57ea88992610098b339",
+    "wof:geomhash":"d94e93470faee0ace1bed23377a89a22",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -64,12 +67,14 @@
         }
     ],
     "wof:id":723244411,
-    "wof:lastmodified":1472618668,
+    "wof:lastmodified":1510942396,
     "wof:name":"Atlas Industrial Services Inc",
     "wof:parent_id":85868555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739686863
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "leak",

@@ -7,6 +7,7 @@
     "addr:postcode":"30305",
     "addr:street":"Piedmont Rd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.378241,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3535 Piedmont Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461902439,
-    "wof:geomhash":"d02110c2471dfa9eadf3c9e971d4e905",
+    "wof:geomhash":"dfce7ed0d659088427a61619dfd29277",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":723476053,
-    "wof:lastmodified":1486671635,
+    "wof:lastmodified":1510943123,
     "wof:name":"Cumulus Media Inc",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739925729
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcasting"

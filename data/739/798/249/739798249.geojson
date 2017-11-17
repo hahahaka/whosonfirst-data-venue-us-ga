@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.2842,33.792032,-84.2842,33.792032",
     "geom:latitude":33.792032,
     "geom:longitude":-84.2842,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2675 N Decatur Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915700,
-    "wof:geomhash":"83449c38180df3282488df4398f39bf7",
+    "wof:geomhash":"edef4b668b9c07d483603bbfa9b70ce4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":739798249,
-    "wof:lastmodified":1472619353,
+    "wof:lastmodified":1510941706,
     "wof:name":"Metro Vascular P C",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739353929
+    ],
     "wof:tags":[
         "laboratories-pathological",
         "laboratory"

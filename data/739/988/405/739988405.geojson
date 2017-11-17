@@ -7,13 +7,16 @@
     "addr:postcode":"30338",
     "addr:street":"Ashford Dunwoody Road Suite 530",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.337815,33.934043,-84.337815,33.934043",
     "geom:latitude":33.934043,
     "geom:longitude":-84.337815,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4780 Ashford Dunwoody Road Suite 530",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923491,
-    "wof:geomhash":"68a3f404f5281dd27296911b179dafb9",
+    "wof:geomhash":"85fbef5465fefc18a031021bc737a826",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":739988405,
-    "wof:lastmodified":1472619679,
+    "wof:lastmodified":1510942495,
     "wof:name":"Eye To Eye Vision Center",
     "wof:parent_id":420559925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739988767
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

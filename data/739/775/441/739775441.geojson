@@ -7,13 +7,16 @@
     "addr:postcode":"30117",
     "addr:street":"Bankhead Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.058581,33.586648,-85.058581,33.586648",
     "geom:latitude":33.586648,
     "geom:longitude":-85.058581,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"530 Bankhead Hwy",
     "sg:city":"Carrollton",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914763,
-    "wof:geomhash":"5cd3c26de392a933482b354670d4a64f",
+    "wof:geomhash":"fb964a575d6c5071fad9c11d910c75a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":739775441,
-    "wof:lastmodified":1472619303,
+    "wof:lastmodified":1510943237,
     "wof:name":"Long John Silver's",
     "wof:parent_id":85829651,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739869177
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.097132,32.064187,-81.097132,32.064187",
     "geom:latitude":32.064187,
     "geom:longitude":-81.097132,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1110 Bull St",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914661,
-    "wof:geomhash":"bfc85a7a3f7717de587864af98b19766",
+    "wof:geomhash":"c45d33872fa7662de362603f98e7cdc3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":739772949,
-    "wof:lastmodified":1472619327,
+    "wof:lastmodified":1510941408,
     "wof:name":"Local 11 Ten",
     "wof:parent_id":85880903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740057899
+    ],
     "wof:tags":[
         "mediterranean"
     ]

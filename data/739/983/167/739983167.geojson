@@ -7,6 +7,7 @@
     "addr:postcode":"30331",
     "addr:street":"Greenbriar Pkwy Sw Ste X124",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.492549,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2841 Greenbriar Pkwy SW Ste X124",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923262,
-    "wof:geomhash":"4c578e0e1d79b2e183e03368adb3e636",
+    "wof:geomhash":"c7595d20e37abdd40a1326d2802b8456",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,13 +75,17 @@
         }
     ],
     "wof:id":739983167,
-    "wof:lastmodified":1486671487,
+    "wof:lastmodified":1510941396,
     "wof:name":"Greenbriar Mall Furniture",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739983683
+    ],
+    "wof:supersedes":[
+        723065061
+    ],
     "wof:tags":[
         "store"
     ]

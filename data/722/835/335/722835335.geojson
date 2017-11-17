@@ -7,13 +7,16 @@
     "addr:postcode":"31904",
     "addr:street":"Airport Throughway",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.958785,32.520364,-84.958785,32.520364",
     "geom:latitude":32.520364,
     "geom:longitude":-84.958785,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2450 Airport Throughway",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461889544,
-    "wof:geomhash":"fa52efe973ff430daf6c6f25a76d6d19",
+    "wof:geomhash":"dafcb0898d6c50c99e30a58ef2019820",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":722835335,
-    "wof:lastmodified":1472618727,
+    "wof:lastmodified":1510941245,
     "wof:name":"Taco Bell",
     "wof:parent_id":85828445,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739774679
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

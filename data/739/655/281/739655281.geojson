@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.296254,31.195552,-82.296254,31.195552",
     "geom:latitude":31.195552,
     "geom:longitude":-82.296254,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3800 Brunswick Hwy",
     "sg:city":"Waycross",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"US",
     "wof:created":1461911634,
-    "wof:geomhash":"9bf0c711d47cc00bd83bf452381b0cd7",
+    "wof:geomhash":"1c2d1b1333b43332f9ba60a0caff0085",
     "wof:hierarchy":[],
     "wof:id":739655281,
-    "wof:lastmodified":1472618976,
+    "wof:lastmodified":1510943799,
     "wof:name":"Taylor Feed Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740061329
+    ],
     "wof:tags":[
         "feed"
     ]

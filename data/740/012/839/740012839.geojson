@@ -7,13 +7,16 @@
     "addr:postcode":"30349",
     "addr:street":"Godby Road",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.474672,33.616499,-84.474672,33.616499",
     "geom:latitude":33.616499,
     "geom:longitude":-84.474672,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2660 Godby Road",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924428,
-    "wof:geomhash":"de90b7877de48c45a5c4da8b7575a3c0",
+    "wof:geomhash":"0e4ad4b71098df622ce0f5f985a644af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":740012839,
-    "wof:lastmodified":1472617882,
+    "wof:lastmodified":1510942569,
     "wof:name":"Vam Jewelry",
     "wof:parent_id":420517977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739605101
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

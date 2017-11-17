@@ -7,6 +7,7 @@
     "addr:postcode":"30344",
     "addr:street":"Camp Creek Parkway",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.493885,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"3241 Camp Creek Parkway",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -69,12 +70,14 @@
         }
     ],
     "wof:id":740006639,
-    "wof:lastmodified":1510693878,
+    "wof:lastmodified":1510942869,
     "wof:name":"Exxon Food Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740007917
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

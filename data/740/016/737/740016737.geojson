@@ -7,13 +7,16 @@
     "addr:postcode":"30354",
     "addr:street":"Norman Berry Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.42831,33.662315,-84.42831,33.662315",
     "geom:latitude":33.662315,
     "geom:longitude":-84.42831,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3420 Norman Berry Dr",
     "sg:city":"Atlanta",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924572,
-    "wof:geomhash":"8fefaebe880c112c2fe708326204912b",
+    "wof:geomhash":"e20e736031ee7d1bd78e0cd11c6af28a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":740016737,
-    "wof:lastmodified":1472617941,
+    "wof:lastmodified":1510943416,
     "wof:name":"B52's",
     "wof:parent_id":85817933,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723177119
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

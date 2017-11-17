@@ -7,6 +7,7 @@
     "addr:postcode":"30305",
     "addr:street":"Piedmont Rd Ne Ste 430",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.37039,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3098 Piedmont Rd NE Ste 430",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -53,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920804,
-    "wof:geomhash":"3c088d7f0cd4f0e33b798dced3680892",
+    "wof:geomhash":"bab8b04664e925a873d959bd343a81c7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,12 +69,14 @@
         }
     ],
     "wof:id":739925525,
-    "wof:lastmodified":1486671840,
+    "wof:lastmodified":1510943597,
     "wof:name":"Christopher Scoma D.C.",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739929323
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "nutritionist"

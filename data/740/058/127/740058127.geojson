@@ -7,13 +7,16 @@
     "addr:postcode":"31401",
     "addr:street":"W Bay St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.091366,32.080957,-81.091366,32.080957",
     "geom:latitude":32.080957,
     "geom:longitude":-81.091366,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13 W Bay St",
     "sg:city":"Savannah",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461926456,
-    "wof:geomhash":"158527463d312780deb8c597ca74f74b",
+    "wof:geomhash":"395a880eec55a1dfe83bfb393a8b53bf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":740058127,
-    "wof:lastmodified":1472618106,
+    "wof:lastmodified":1510944152,
     "wof:name":"Churchill's Pub & Restaurant",
     "wof:parent_id":85880917,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739772885
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"30319",
     "addr:street":"Windsor Pkwy Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.338679,33.880213,-84.338679,33.880213",
     "geom:latitude":33.880213,
     "geom:longitude":-84.338679,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1424 Windsor Pkwy NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461922530,
-    "wof:geomhash":"06bf992af4c39cf6ee46e18ebefda37e",
+    "wof:geomhash":"e7a1c97bc17f31efd2e1e6158301c416",
     "wof:hierarchy":[],
     "wof:id":739964217,
-    "wof:lastmodified":1472619631,
+    "wof:lastmodified":1510942132,
     "wof:name":"Lynwood Park United Church Of God In Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739963267
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "church"

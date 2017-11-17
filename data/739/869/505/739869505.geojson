@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.793587,34.165779,-84.793587,34.165779",
     "geom:latitude":34.165779,
     "geom:longitude":-84.793587,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20 S Tennessee St",
     "sg:city":"Cartersville",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461918663,
-    "wof:geomhash":"9a2ec0a3caa11c65f28b01056bbe8566",
+    "wof:geomhash":"527c2924b3199d6b2f33eb5e24a746c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":739869505,
-    "wof:lastmodified":1472619505,
+    "wof:lastmodified":1510944033,
     "wof:name":"Papa John's Pizza",
     "wof:parent_id":85851959,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739765711
+    ],
     "wof:tags":[]
 },
   "bbox": [

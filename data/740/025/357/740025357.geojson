@@ -7,13 +7,16 @@
     "addr:postcode":"30518",
     "addr:street":"Nelson Brogdon Blvd # 230",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.021751,34.101871,-84.021751,34.101871",
     "geom:latitude":34.101871,
     "geom:longitude":-84.021751,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4700 Nelson Brogdon Blvd # 230",
     "sg:city":"Buford",
     "sg:classifiers":[
@@ -51,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924901,
-    "wof:geomhash":"d3e516f0a42a6df22605d4191d1e1de0",
+    "wof:geomhash":"650a3cb0786b122c3859e2a2b1155b9c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +67,14 @@
         }
     ],
     "wof:id":740025357,
-    "wof:lastmodified":1472617948,
+    "wof:lastmodified":1510943208,
     "wof:name":"Buford Sugar Hill Specialty",
     "wof:parent_id":85820775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722593457
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

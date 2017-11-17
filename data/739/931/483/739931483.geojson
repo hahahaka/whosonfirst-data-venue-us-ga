@@ -7,6 +7,7 @@
     "addr:postcode":"30306",
     "addr:street":"Courtenay Drive Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.36492,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"690 Courtenay Drive NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921093,
-    "wof:geomhash":"1f9f6960dc459dd82f21c63a8f71f885",
+    "wof:geomhash":"a810ce82b006fcaba93172bc3735b41c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":739931483,
-    "wof:lastmodified":1486669903,
+    "wof:lastmodified":1510943623,
     "wof:name":"Hillside Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739931837
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

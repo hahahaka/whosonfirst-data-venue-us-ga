@@ -7,13 +7,16 @@
     "addr:postcode":"30067",
     "addr:street":"Windy Hill Rd Se Ste 104",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.479432,33.901283,-84.479432,33.901283",
     "geom:latitude":33.901283,
     "geom:longitude":-84.479432,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2520 Windy Hill Rd SE Ste 104",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -57,7 +60,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916933,
-    "wof:geomhash":"4a8fba76a7cd813cc512e16911ed6393",
+    "wof:geomhash":"c16193d293767bdd01e3c47deff2ed70",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -75,12 +78,14 @@
         }
     ],
     "wof:id":739826011,
-    "wof:lastmodified":1472619397,
+    "wof:lastmodified":1510941456,
     "wof:name":"Foot & Leg Health Care Specialists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739825937
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

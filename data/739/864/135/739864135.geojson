@@ -7,13 +7,16 @@
     "addr:postcode":"30106",
     "addr:street":"Hospital South Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.603401,33.856098,-84.603401,33.856098",
     "geom:latitude":33.856098,
     "geom:longitude":-84.603401,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1700 Hospital South Dr",
     "sg:city":"Austell",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461918463,
-    "wof:geomhash":"b3d25018cb2ecc4620f8f8366b9b2200",
+    "wof:geomhash":"139a2c28ec996a7f343994099d551126",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +60,17 @@
         }
     ],
     "wof:id":739864135,
-    "wof:lastmodified":1472619471,
+    "wof:lastmodified":1510943680,
     "wof:name":"South Cobb Obgyn",
     "wof:parent_id":85852043,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739864499
+    ],
+    "wof:supersedes":[
+        739397361
+    ],
     "wof:tags":[
         "obstetrician",
         "gynecologist"

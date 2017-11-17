@@ -7,13 +7,16 @@
     "addr:postcode":"30336",
     "addr:street":"Aviation Cir Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.521647,33.775814,-84.521647,33.775814",
     "geom:latitude":33.775814,
     "geom:longitude":-84.521647,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3952 Aviation Cir NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923354,
-    "wof:geomhash":"187d4ceee15426bd5aab4b13f2e7f92e",
+    "wof:geomhash":"ab8d7ffe3909ad661f8d3591274f4950",
     "wof:hierarchy":[
         {
             "campus_id":102530775,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":739985205,
-    "wof:lastmodified":1472619678,
+    "wof:lastmodified":1510943783,
     "wof:name":"Flight Deck Cafe",
     "wof:parent_id":102530775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739984579
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

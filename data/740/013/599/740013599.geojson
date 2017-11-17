@@ -7,13 +7,16 @@
     "addr:postcode":"30349",
     "addr:street":"Old National Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.471622,33.605887,-84.471622,33.605887",
     "geom:latitude":33.605887,
     "geom:longitude":-84.471622,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5495 Old National Hwy",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924453,
-    "wof:geomhash":"db4ee34c5d64c8e4a66ff3fc0cefd0c0",
+    "wof:geomhash":"e05a4a58e7026027e2bfed0d7965b05a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":740013599,
-    "wof:lastmodified":1472617879,
+    "wof:lastmodified":1510943797,
     "wof:name":"Fashion Center",
     "wof:parent_id":420517977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722609389
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"

@@ -15,6 +15,7 @@
     "geom:longitude":-84.378483,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3535 Piedmont Rd NE # 14",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920811,
-    "wof:geomhash":"3bddf00d1c0ca55a9f64348d2898fad6",
+    "wof:geomhash":"bda5175de3828a3d6880f06de6399872",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":739925729,
-    "wof:lastmodified":1486668367,
+    "wof:lastmodified":1510943123,
     "wof:name":"Cumulus Media Inc.",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723476053
+    ],
     "wof:tags":[
         "broadcast"
     ]

@@ -7,13 +7,16 @@
     "addr:postcode":"30701",
     "addr:street":"Fields Ferry Dr Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.844128,34.552484,-84.844128,34.552484",
     "geom:latitude":34.552484,
     "geom:longitude":-84.844128,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"581 Fields Ferry Dr NE",
     "sg:city":"Calhoun",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461925501,
-    "wof:geomhash":"b6413bf0a3101c46a1a24983ba1a0c5b",
+    "wof:geomhash":"7f6faebf2d6504ef063a6c83a4680302",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":740038321,
-    "wof:lastmodified":1472617954,
+    "wof:lastmodified":1510942824,
     "wof:name":"Mulligans",
     "wof:parent_id":85836757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723466761
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

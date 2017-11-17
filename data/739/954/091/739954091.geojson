@@ -15,6 +15,7 @@
     "geom:longitude":-84.380525,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1519 Lakewood Avenue SE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922143,
-    "wof:geomhash":"fdec9db5af1c187e2d0bc5cae505617c",
+    "wof:geomhash":"287216d1f3d153c452873e472e2ac83c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":739954091,
-    "wof:lastmodified":1486668100,
+    "wof:lastmodified":1510942216,
     "wof:name":"Agape Christian Academy",
     "wof:parent_id":85872129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739954031
+    ],
     "wof:tags":[
         "day"
     ]

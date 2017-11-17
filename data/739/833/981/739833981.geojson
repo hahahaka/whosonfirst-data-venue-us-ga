@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.361099,34.0494,-84.361099,34.0494",
     "geom:latitude":34.0494,
     "geom:longitude":-84.361099,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11050 Crabapple Rd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461917251,
-    "wof:geomhash":"2bcd411954f04bb95e122c58f8af9935",
+    "wof:geomhash":"c5c85604538b907317066cac56626ce5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":739833981,
-    "wof:lastmodified":1472619462,
+    "wof:lastmodified":1510943002,
     "wof:name":"Atlanta North Gynecology PC",
     "wof:parent_id":85823117,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722869239
+    ],
     "wof:tags":[
         "obstetrician",
         "gynecologist"

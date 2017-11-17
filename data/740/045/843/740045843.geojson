@@ -7,13 +7,16 @@
     "addr:postcode":"30907",
     "addr:street":"Washington Rd Ste 31",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.089936,33.512042,-82.089936,33.512042",
     "geom:latitude":33.512042,
     "geom:longitude":-82.089936,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3830 Washington Rd Ste 31",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461925877,
-    "wof:geomhash":"b8d22cff9e2a0644b7e342363f97f5dc",
+    "wof:geomhash":"5df3e513c852910fa6152ec7f6c445ac",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,12 +60,15 @@
         }
     ],
     "wof:id":740045843,
-    "wof:lastmodified":1472618091,
+    "wof:lastmodified":1510942147,
     "wof:name":"Ryan's Family Hair Care Ctr",
     "wof:parent_id":85868555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739362401,
+        739366203
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "hair",

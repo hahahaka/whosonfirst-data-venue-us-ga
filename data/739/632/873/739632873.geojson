@@ -7,6 +7,7 @@
     "addr:postcode":"30311",
     "addr:street":"Campbellton Rd Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.449696,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1840 Campbellton Rd SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461911087,
-    "wof:geomhash":"48988a761420da50ef05e6dee0550109",
+    "wof:geomhash":"f3eeb9e7bcc1a3b15772cf7856c46d2a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":739632873,
-    "wof:lastmodified":1486672689,
+    "wof:lastmodified":1510943190,
     "wof:name":"Q L S Haven Apartments",
     "wof:parent_id":1108798509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739949719
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "building",

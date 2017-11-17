@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.28247,33.790765,-84.28247,33.790765",
     "geom:latitude":33.790765,
     "geom:longitude":-84.28247,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2701 N Decatur Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915684,
-    "wof:geomhash":"fcb0715bb08f412982f711989186ad40",
+    "wof:geomhash":"1e94f7471a7079a29da43ca36f7ee459",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":739797833,
-    "wof:lastmodified":1472619372,
+    "wof:lastmodified":1510942896,
     "wof:name":"Dekalb Medical Center",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723199009
+    ],
     "wof:tags":[
         "spa",
         "medical"

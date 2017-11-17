@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.466856,33.918111,-84.466856,33.918111",
     "geom:latitude":33.918111,
     "geom:longitude":-84.466856,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1360 Powers Ferry Rd SE Ste B",
     "sg:city":"Marietta",
     "sg:classifiers":[],
@@ -25,20 +27,23 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":2706470152,
         "sg:id":"SG_5p6GDgmz9t3yKU2YtuZQmm_33.918111_-84.466856@1303262582"
     },
     "wof:country":"US",
     "wof:created":1461917031,
-    "wof:geomhash":"3bac68c56c3038677285f68b25ad7b59",
+    "wof:geomhash":"6e80e78f5cac0f25e58c37de217d5d79",
     "wof:hierarchy":[],
     "wof:id":739828751,
-    "wof:lastmodified":1472619414,
+    "wof:lastmodified":1510943741,
     "wof:name":"Los Bravos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739826683
+    ],
     "wof:tags":[]
 },
   "bbox": [

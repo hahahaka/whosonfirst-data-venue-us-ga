@@ -7,13 +7,16 @@
     "addr:postcode":"30034",
     "addr:street":"Wesley Chapel Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.217377,33.711628,-84.217377,33.711628",
     "geom:latitude":33.711628,
     "geom:longitude":-84.217377,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2636 Wesley Chapel Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -31,20 +34,25 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":1578975900,
         "sg:id":"SG_6B6pXVHI1hodU2xUdK1Luq_33.711628_-84.217377@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461904019,
-    "wof:geomhash":"30373133d1ffb90f4d85c056d1be26dd",
+    "wof:geomhash":"f24d345672a9745e1985658da83f96ee",
     "wof:hierarchy":[],
     "wof:id":739274433,
-    "wof:lastmodified":1472617940,
+    "wof:lastmodified":1510942034,
     "wof:name":"McDonalds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739763077
+    ],
+    "wof:supersedes":[
+        739763077
+    ],
     "wof:tags":[]
 },
   "bbox": [

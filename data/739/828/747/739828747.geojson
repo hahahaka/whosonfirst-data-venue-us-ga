@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.480619,33.902286,-84.480619,33.902286",
     "geom:latitude":33.902286,
     "geom:longitude":-84.480619,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2480 Windy Hill Rd SE",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461917031,
-    "wof:geomhash":"dfe36993a7dbdae260e0fa4b6aec51f0",
+    "wof:geomhash":"71e70e48241fc3869d04773cfcd14316",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -66,13 +68,15 @@
         }
     ],
     "wof:id":739828747,
-    "wof:lastmodified":1472619414,
+    "wof:lastmodified":1510943717,
     "wof:name":"A Family Practice Medicine Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739828433
+    ],
     "wof:tags":[
         "physician",
         "family",

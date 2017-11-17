@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.298698,34.0476,-84.298698,34.0476",
     "geom:latitude":34.0476,
     "geom:longitude":-84.298698,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"555 N Point Ctr E",
     "sg:city":"Alpharetta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915220,
-    "wof:geomhash":"1bb18a75091ce2e167b0acd8d55273f3",
+    "wof:geomhash":"6e2ab978fa1982f5b4037fc40c9cc07e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":739787027,
-    "wof:lastmodified":1472619334,
+    "wof:lastmodified":1510943750,
     "wof:name":"Jacob Steven R Attorney",
     "wof:parent_id":85827335,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723305899
+    ],
     "wof:tags":[
         "bankruptcy"
     ]

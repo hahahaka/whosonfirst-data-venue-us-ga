@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.258965,34.07003,-84.258965,34.07003",
     "geom:latitude":34.07003,
     "geom:longitude":-84.258965,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3655 N Point Pkwy # 450",
     "sg:city":"Alpharetta",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914885,
-    "wof:geomhash":"7ad570df691cb12f317b8eb8d9c2ed68",
+    "wof:geomhash":"fe9154fb3b3539f408475b1a251a584b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":739778585,
-    "wof:lastmodified":1472619318,
+    "wof:lastmodified":1510943935,
     "wof:name":"Ista North America, Inc.",
     "wof:parent_id":85843117,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739779177
+    ],
     "wof:tags":[
         "system",
         "specialty",

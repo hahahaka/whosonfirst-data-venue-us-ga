@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.029764,33.883121,-84.029764,33.883121",
     "geom:latitude":33.883121,
     "geom:longitude":-84.029764,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1700 Tree Ln",
     "sg:city":"Snellville",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461917463,
-    "wof:geomhash":"a522d465e16e43560c6638e7c6770f80",
+    "wof:geomhash":"0b799e3beac8745d09ad6f3398fb0eea",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":739839327,
-    "wof:lastmodified":1472619430,
+    "wof:lastmodified":1510942053,
     "wof:name":"Women's Group Of Gwinnett",
     "wof:parent_id":85857829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739549101
+    ],
     "wof:tags":[
         "physician",
         "gynecology",

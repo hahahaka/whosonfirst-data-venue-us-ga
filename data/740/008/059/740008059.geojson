@@ -7,13 +7,16 @@
     "addr:postcode":"30344",
     "addr:street":"Camp Creek Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.500007,33.656427,-84.500007,33.656427",
     "geom:latitude":33.656427,
     "geom:longitude":-84.500007,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3330 Camp Creek Pkwy",
     "sg:city":"Atlanta",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924232,
-    "wof:geomhash":"7b89ae99380e785aa28bbb7a1afc739c",
+    "wof:geomhash":"6b9edeed8b24e77f3bb5e9a5ee66f8f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":740008059,
-    "wof:lastmodified":1472617820,
+    "wof:lastmodified":1510943344,
     "wof:name":"Johnny Carino's Italian Restaurant",
     "wof:parent_id":420559629,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740008437
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

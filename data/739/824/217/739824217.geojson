@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.489998,34.02,-84.489998,34.02",
     "geom:latitude":34.02,
     "geom:longitude":-84.489998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2692 Sandy Plains Rd",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916863,
-    "wof:geomhash":"8983f1ebd6eff4a0dd8d0eabe04abff4",
+    "wof:geomhash":"1343e82ed77a18e36c457aec00b98695",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":739824217,
-    "wof:lastmodified":1472619396,
+    "wof:lastmodified":1510943358,
     "wof:name":"Sprayberry Bottle Shoppe",
     "wof:parent_id":85857049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723459055
+    ],
     "wof:tags":[
         "beer",
         "spirit",

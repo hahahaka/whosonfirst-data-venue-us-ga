@@ -7,13 +7,16 @@
     "addr:postcode":"30067",
     "addr:street":"Delk Rd Se Ste 1700",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.46674,33.923116,-84.46674,33.923116",
     "geom:latitude":33.923116,
     "geom:longitude":-84.46674,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2900 Delk Rd SE Ste 1700",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -39,15 +42,17 @@
     },
     "wof:country":"US",
     "wof:created":1461916947,
-    "wof:geomhash":"ff539c33ed08db698358dc5aab54a3c4",
+    "wof:geomhash":"81f940045b20b9155e4b7c9907b6116e",
     "wof:hierarchy":[],
     "wof:id":739826425,
-    "wof:lastmodified":1472619410,
+    "wof:lastmodified":1510943363,
     "wof:name":"Christo's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739826295
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"

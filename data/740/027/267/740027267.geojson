@@ -7,13 +7,16 @@
     "addr:postcode":"30519",
     "addr:street":"Buford Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.985313,34.068981,-83.985313,34.068981",
     "geom:latitude":34.068981,
     "geom:longitude":-83.985313,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3333 Buford Dr",
     "sg:city":"Buford",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461925051,
-    "wof:geomhash":"0acd248c3b9c30a95c6cbb7a46762a7a",
+    "wof:geomhash":"89b01c61ad2f8cb57e7a91b5e0e99dac",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":740027267,
-    "wof:lastmodified":1472617933,
+    "wof:lastmodified":1510943830,
     "wof:name":"P.F. Chang's China Bistro",
     "wof:parent_id":85858547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739769819
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "asian",

@@ -7,13 +7,16 @@
     "addr:postcode":"31204",
     "addr:street":"Mercer University Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.683214,32.82302,-83.683214,32.82302",
     "geom:latitude":32.82302,
     "geom:longitude":-83.683214,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3240 Mercer University Dr",
     "sg:city":"Macon",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1461926299,
-    "wof:geomhash":"4fb6295a1283d8ba59b304250e4485ad",
+    "wof:geomhash":"417c36cc52ddd80e30017c8467d73279",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":740054551,
-    "wof:lastmodified":1472618150,
+    "wof:lastmodified":1510942588,
     "wof:name":"Precision Tune Auto Care",
     "wof:parent_id":420517207,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723423881
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

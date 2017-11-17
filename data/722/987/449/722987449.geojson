@@ -7,13 +7,16 @@
     "addr:postcode":"30328",
     "addr:street":"Lake Forrest Dr Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.387108,33.921004,-84.387108,33.921004",
     "geom:latitude":33.921004,
     "geom:longitude":-84.387108,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6100 Lake Forrest Dr NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -53,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1461892639,
-    "wof:geomhash":"16c162c614e945dbd926f02c7471f950",
+    "wof:geomhash":"8cedfe87f987ae81b17bc6c42ab4b471",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,12 +78,14 @@
         }
     ],
     "wof:id":722987449,
-    "wof:lastmodified":1472619129,
+    "wof:lastmodified":1510943213,
     "wof:name":"P & P Entertainment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739974205
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "loan",

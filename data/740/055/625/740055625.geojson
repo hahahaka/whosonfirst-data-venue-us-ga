@@ -7,13 +7,16 @@
     "addr:postcode":"31211",
     "addr:street":"Clinton Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.620453,32.852631,-83.620453,32.852631",
     "geom:latitude":32.852631,
     "geom:longitude":-83.620453,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"900 Clinton Rd",
     "sg:city":"Macon",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1461926342,
-    "wof:geomhash":"c39f41b41a03003f4da8fbb594d29213",
+    "wof:geomhash":"c5847e5591188d67e97460dc44f920e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":740055625,
-    "wof:lastmodified":1472618165,
+    "wof:lastmodified":1510942829,
     "wof:name":"Harrison's Body Shop Inc",
     "wof:parent_id":85837705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739650593
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

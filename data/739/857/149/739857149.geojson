@@ -7,13 +7,16 @@
     "addr:postcode":"30096",
     "addr:street":"Satellite Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.132393,33.962542,-84.132393,33.962542",
     "geom:latitude":33.962542,
     "geom:longitude":-84.132393,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3483 Satellite Blvd",
     "sg:city":"Duluth",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461918190,
-    "wof:geomhash":"19e4c4be52efca479dba5b6a469959d6",
+    "wof:geomhash":"e873d7fc37ae0960638923768f0e9e45",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":739857149,
-    "wof:lastmodified":1472619442,
+    "wof:lastmodified":1510943796,
     "wof:name":"Clark & Washington P C",
     "wof:parent_id":85826369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739856441
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "bankruptcy"

@@ -15,6 +15,7 @@
     "geom:longitude":-84.509491,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3760 Princeton Lakes Pkwy SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923241,
-    "wof:geomhash":"1db2fda89927ee15f092b1832e45cc39",
+    "wof:geomhash":"a0dcf243f012fd83e5e207dc5bccd7e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,13 +70,15 @@
         }
     ],
     "wof:id":739982589,
-    "wof:lastmodified":1486672645,
+    "wof:lastmodified":1510943842,
     "wof:name":"Movies ATL",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739982197
+    ],
     "wof:tags":[]
 },
   "bbox": [

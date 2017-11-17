@@ -7,13 +7,16 @@
     "addr:postcode":"30022",
     "addr:street":"N Point Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.25895,34.082706,-84.25895,34.082706",
     "geom:latitude":34.082706,
     "geom:longitude":-84.25895,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7231 N Point Pkwy",
     "sg:city":"Alpharetta",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461888345,
-    "wof:geomhash":"586492a7f6055b942bce796221849148",
+    "wof:geomhash":"07782e5c7e6b32590c21d74a8b2f38a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":722771747,
-    "wof:lastmodified":1472618588,
+    "wof:lastmodified":1510942046,
     "wof:name":"Rich's-Macy's",
     "wof:parent_id":85843117,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722937557
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.475304,33.883701,-84.475304,33.883701",
     "geom:latitude":33.883701,
     "geom:longitude":-84.475304,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2810 Spring Rd SE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923712,
-    "wof:geomhash":"19527985c34ee318676a1b31ac13c885",
+    "wof:geomhash":"8c892e80c1eda371b170caec8079b795",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":739994225,
-    "wof:lastmodified":1472619692,
+    "wof:lastmodified":1510943765,
     "wof:name":"Whitaker Lloyd T",
     "wof:parent_id":85813197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739991281
+    ],
     "wof:tags":[
         "management",
         "property"

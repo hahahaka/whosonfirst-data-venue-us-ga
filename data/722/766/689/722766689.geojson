@@ -7,13 +7,16 @@
     "addr:postcode":"30281",
     "addr:street":"Country Club Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.225667,33.50586,-84.225667,33.50586",
     "geom:latitude":33.50586,
     "geom:longitude":-84.225667,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"175 Country Club Dr",
     "sg:city":"Stockbridge",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461888247,
-    "wof:geomhash":"307002a381ce23ff6063054d335aaf81",
+    "wof:geomhash":"911779c0814eafc821a7e48bc4dcdd40",
     "wof:hierarchy":[],
     "wof:id":722766689,
-    "wof:lastmodified":1472618569,
+    "wof:lastmodified":1510942138,
     "wof:name":"Denise C Deveranez MD PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739905445
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

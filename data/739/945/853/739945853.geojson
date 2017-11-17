@@ -15,6 +15,7 @@
     "geom:longitude":-84.384632,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"75 14th St NE Fl 24",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921752,
-    "wof:geomhash":"097cf50ac60a8fdcd840a9d29c2dac2d",
+    "wof:geomhash":"be64e98f55a671b78ce88ef9c5f0856f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,13 +74,15 @@
         }
     ],
     "wof:id":739945853,
-    "wof:lastmodified":1486670264,
+    "wof:lastmodified":1510943141,
     "wof:name":"Arcapita Inc",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722687909
+    ],
     "wof:tags":[
         "propane"
     ]

@@ -7,13 +7,16 @@
     "addr:postcode":"30337",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.444698,33.667278,-84.444698,33.667278",
     "geom:latitude":33.667278,
     "geom:longitude":-84.444698,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3254 Main St",
     "sg:city":"Atlanta",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923392,
-    "wof:geomhash":"08f413a5c27e1785c6efa0e09fb44237",
+    "wof:geomhash":"6c519d81c2a2ed6b90220e3480196957",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":739985921,
-    "wof:lastmodified":1472619692,
+    "wof:lastmodified":1510944026,
     "wof:name":"Precision Auto Repairs Inc",
     "wof:parent_id":420517879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739985971
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"30066",
     "addr:street":"Canton Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.528236,34.019569,-84.528236,34.019569",
     "geom:latitude":34.019569,
     "geom:longitude":-84.528236,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2800 Canton Rd",
     "sg:city":"Marietta",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916892,
-    "wof:geomhash":"bfec8db801e08323447aace0b53224ee",
+    "wof:geomhash":"d63e3c277cfaceb5c0aeeca5843d207a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":739825049,
-    "wof:lastmodified":1472619397,
+    "wof:lastmodified":1510942978,
     "wof:name":"Dynastic Buffet",
     "wof:parent_id":85857049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739823903
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

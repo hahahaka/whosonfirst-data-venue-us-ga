@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.145638,33.96917,-84.145638,33.96917",
     "geom:latitude":33.96917,
     "geom:longitude":-84.145638,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2570 Pleasant Hill Rd",
     "sg:city":"Duluth",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461918232,
-    "wof:geomhash":"5ad8e065bac032878d19742b4265ab0a",
+    "wof:geomhash":"4f24b8397182d93038f50969ca5ba1b6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -63,13 +65,15 @@
         }
     ],
     "wof:id":739858151,
-    "wof:lastmodified":1472619441,
+    "wof:lastmodified":1510943251,
     "wof:name":"Suno Dessert",
     "wof:parent_id":85826369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739856983
+    ],
     "wof:tags":[
         "frozen",
         "dessert"

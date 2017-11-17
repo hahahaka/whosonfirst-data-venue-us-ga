@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.265976,34.074539,-84.265976,34.074539",
     "geom:latitude":34.074539,
     "geom:longitude":-84.265976,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11975 Morris Rd",
     "sg:city":"Alpharetta",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914928,
-    "wof:geomhash":"368c4dda075a93ffba681908c24f92f6",
+    "wof:geomhash":"99b9deed9c130ee5295f65ab37d8b2e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":739779463,
-    "wof:lastmodified":1472619307,
+    "wof:lastmodified":1510942884,
     "wof:name":"Segal Julie A MD Faap",
     "wof:parent_id":85843117,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739779315
+    ],
     "wof:tags":[]
 },
   "bbox": [

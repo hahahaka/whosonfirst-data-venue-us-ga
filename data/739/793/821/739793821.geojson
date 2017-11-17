@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.3004,33.7756,-84.3004,33.7756",
     "geom:latitude":33.7756,
     "geom:longitude":-84.3004,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"315 W Ponce De Leon Ave Ste 1065",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915514,
-    "wof:geomhash":"fc41f96e2ad5cb7539163ba12c02b399",
+    "wof:geomhash":"eacdcc88754ffc2710218812a00b6e84",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":739793821,
-    "wof:lastmodified":1472619361,
+    "wof:lastmodified":1510941489,
     "wof:name":"Brownlow & Schaefer",
     "wof:parent_id":85890035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722917281
+    ],
     "wof:tags":[]
 },
   "bbox": [

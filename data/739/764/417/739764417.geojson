@@ -7,13 +7,16 @@
     "addr:postcode":"30076",
     "addr:street":"Alpharetta Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.343165,34.038333,-84.343165,34.038333",
     "geom:latitude":34.038333,
     "geom:longitude":-84.343165,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10516 Alpharetta Hwy",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914314,
-    "wof:geomhash":"a6624016d711b1a5073342e0b4787ec8",
+    "wof:geomhash":"82bacb038bb00f5c4850ececd77b3861",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":739764417,
-    "wof:lastmodified":1472619298,
+    "wof:lastmodified":1510943110,
     "wof:name":"Ci Ci's Pizza",
     "wof:parent_id":85889949,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739758847
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

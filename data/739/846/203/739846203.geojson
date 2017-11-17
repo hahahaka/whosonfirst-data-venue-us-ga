@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.197594,33.836941,-84.197594,33.836941",
     "geom:latitude":33.836941,
     "geom:longitude":-84.197594,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4760 Hammermill Rd",
     "sg:city":"Tucker",
     "sg:classifiers":[
@@ -62,7 +64,7 @@
     },
     "wof:country":"US",
     "wof:created":1461917748,
-    "wof:geomhash":"0aa06eed51e1b3cfc5392654cb453bda",
+    "wof:geomhash":"b0dab441997709b026c18dbc4c3b76aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,13 +77,15 @@
         }
     ],
     "wof:id":739846203,
-    "wof:lastmodified":1472619427,
+    "wof:lastmodified":1510941367,
     "wof:name":"Atlanta Controls Inc",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739601863
+    ],
     "wof:tags":[
         "control",
         "electric",

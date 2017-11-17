@@ -7,13 +7,16 @@
     "addr:postcode":"30338",
     "addr:street":"Crown Pointe Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.344338,33.9308,-84.344338,33.9308",
     "geom:latitude":33.9308,
     "geom:longitude":-84.344338,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1050 Crown Pointe Pkwy",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461884544,
-    "wof:geomhash":"cf46972085c6c1ce1d0fce136208b6d6",
+    "wof:geomhash":"9341ac63685ce9992f37b149fce44fb7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,12 +71,14 @@
         }
     ],
     "wof:id":722576783,
-    "wof:lastmodified":1472617978,
+    "wof:lastmodified":1510942256,
     "wof:name":"Obenschain & Chandler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739987829
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

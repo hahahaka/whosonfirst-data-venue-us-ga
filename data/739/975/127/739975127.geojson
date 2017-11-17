@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.361218,33.935295,-84.361218,33.935295",
     "geom:latitude":33.935295,
     "geom:longitude":-84.361218,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10 Glenlake Parkway NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922947,
-    "wof:geomhash":"6299f130b9836d5fe5d2e17c6b77b756",
+    "wof:geomhash":"9dace4c5d7216ad14417c077cdff6b4d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,13 +67,15 @@
         }
     ],
     "wof:id":739975127,
-    "wof:lastmodified":1472619639,
+    "wof:lastmodified":1510943077,
     "wof:name":"The Mulling Companies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723273099
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"30076",
     "addr:street":"Elkins Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.3346,34.052597,-84.3346,34.052597",
     "geom:latitude":34.052597,
     "geom:longitude":-84.3346,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11285 Elkins Rd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461902207,
-    "wof:geomhash":"e5857a56ab6e7227d77ceccc3a12b9e0",
+    "wof:geomhash":"a1999920677ddb9436a178ab2f085e6b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +61,17 @@
         }
     ],
     "wof:id":723463943,
-    "wof:lastmodified":1472619258,
+    "wof:lastmodified":1510944122,
     "wof:name":"Accounting Inc",
     "wof:parent_id":85812681,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739837805
+    ],
+    "wof:supersedes":[
+        739458023
+    ],
     "wof:tags":[
         "accountant"
     ]

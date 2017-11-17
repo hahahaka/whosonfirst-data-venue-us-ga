@@ -7,6 +7,7 @@
     "addr:postcode":"30308",
     "addr:street":"Linden Ave Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.383547,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"121 Linden Ave NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461913474,
-    "wof:geomhash":"769aa62f829ebaddacffe89705bd25e9",
+    "wof:geomhash":"5679e37002fb83999d1420b50abcc1ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +67,14 @@
         }
     ],
     "wof:id":739742051,
-    "wof:lastmodified":1486682357,
+    "wof:lastmodified":1510942441,
     "wof:name":"DaVita-Midtown Dialysis Center",
     "wof:parent_id":1108797049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739752959
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dialysis",

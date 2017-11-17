@@ -7,13 +7,16 @@
     "addr:postcode":"30068",
     "addr:street":"Johnson Ferry Rd Ste 114",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.418533,33.978439,-84.418533,33.978439",
     "geom:latitude":33.978439,
     "geom:longitude":-84.418533,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1205 Johnson Ferry Rd Ste 114",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -41,16 +44,20 @@
     },
     "wof:country":"US",
     "wof:created":1461917095,
-    "wof:geomhash":"1265b7b749079f3de951ceda2c3e18d4",
+    "wof:geomhash":"c7dcaa87487551103ca8f903a0be82fb",
     "wof:hierarchy":[],
     "wof:id":739830301,
-    "wof:lastmodified":1472619411,
+    "wof:lastmodified":1510943587,
     "wof:name":"J. Christopher's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739830081
+    ],
+    "wof:supersedes":[
+        739764215
+    ],
     "wof:tags":[
         "lunch",
         "american",

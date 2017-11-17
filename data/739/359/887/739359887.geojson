@@ -7,6 +7,7 @@
     "addr:postcode":"30310",
     "addr:street":"Mcdaniel St Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.401703,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1029 McDaniel St SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461905813,
-    "wof:geomhash":"ede123bdd8ac25547c1cb49c3c4ece09",
+    "wof:geomhash":"b98d92675788cab8148310b29489f8ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,12 +74,14 @@
         }
     ],
     "wof:id":739359887,
-    "wof:lastmodified":1486672612,
+    "wof:lastmodified":1510943350,
     "wof:name":"EZ Access Coin Laundry Inc",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739946995
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "coin"

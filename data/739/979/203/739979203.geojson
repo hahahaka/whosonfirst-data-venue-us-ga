@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.333641,33.803638,-84.333641,33.803638",
     "geom:latitude":33.803638,
     "geom:longitude":-84.333641,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1841 Clifton Rd NE Fl 4",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923101,
-    "wof:geomhash":"0e761243076e08a368e1b261feead00c",
+    "wof:geomhash":"e8e5d9af02f087fe0e98054381d112ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,13 +67,15 @@
         }
     ],
     "wof:id":739979203,
-    "wof:lastmodified":1472619685,
+    "wof:lastmodified":1510941410,
     "wof:name":"Emory University",
     "wof:parent_id":85889951,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723279167
+    ],
     "wof:tags":[
         "medical",
         "college"

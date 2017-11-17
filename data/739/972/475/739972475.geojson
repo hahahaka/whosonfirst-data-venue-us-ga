@@ -15,6 +15,7 @@
     "geom:longitude":-84.42746,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3280 Howell Mill Rd NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922845,
-    "wof:geomhash":"25ab7c124d4988276293f2fb7314d867",
+    "wof:geomhash":"4d14c13cedf11f7014630c56c06aee1f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +64,15 @@
         }
     ],
     "wof:id":739972475,
-    "wof:lastmodified":1486668714,
+    "wof:lastmodified":1510942179,
     "wof:name":"Berry, Thomas D MD DDS",
     "wof:parent_id":85872137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739973571
+    ],
     "wof:tags":[
         "dentists-oral",
         "surgery",

@@ -7,6 +7,7 @@
     "addr:postcode":"30327",
     "addr:street":"Howell Mill Rd Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.42851,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3280 Howell Mill Rd NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922891,
-    "wof:geomhash":"26b29688b762cc8eca195bd47e60ba62",
+    "wof:geomhash":"8dfafcb7fc1853353934a6569c25515c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":739973571,
-    "wof:lastmodified":1486668303,
+    "wof:lastmodified":1510942179,
     "wof:name":"Berry Thomas D MD DDS",
     "wof:parent_id":85872145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739972475
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

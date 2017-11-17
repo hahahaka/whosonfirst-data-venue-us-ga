@@ -7,6 +7,7 @@
     "addr:postcode":"30312",
     "addr:street":"Pulliam St Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.392564,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"501 Pulliam St SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461907378,
-    "wof:geomhash":"5cd77fd9d03a0d4792d09df1d596b63b",
+    "wof:geomhash":"632e6f93b2725640f0602b127b2f4fd6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":739441477,
-    "wof:lastmodified":1486667890,
+    "wof:lastmodified":1510941689,
     "wof:name":"North GA Bldg Trades Council",
     "wof:parent_id":85833641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739950911
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "union"

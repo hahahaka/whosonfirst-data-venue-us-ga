@@ -7,13 +7,16 @@
     "addr:postcode":"30062",
     "addr:street":"Cobb Pkwy N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.535314,33.966183,-84.535314,33.966183",
     "geom:latitude":33.966183,
     "geom:longitude":-84.535314,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"611 Cobb Pkwy N",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914298,
-    "wof:geomhash":"c240ee5ad9c22395b86936812bf849a6",
+    "wof:geomhash":"3982145c52b2852b5976176651855794",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":739763987,
-    "wof:lastmodified":1472619313,
+    "wof:lastmodified":1510941615,
     "wof:name":"El Nopal",
     "wof:parent_id":85817769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739819551
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"

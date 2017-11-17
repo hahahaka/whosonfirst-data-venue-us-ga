@@ -7,13 +7,16 @@
     "addr:postcode":"30030",
     "addr:street":"Dekalb Industrial Way",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.275266,33.782453,-84.275266,33.782453",
     "geom:latitude":33.782453,
     "geom:longitude":-84.275266,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"225 Dekalb Industrial Way",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461895618,
-    "wof:geomhash":"6bafd44ed9d956342a1fad23ae0bd7d7",
+    "wof:geomhash":"b53b62f09a4b1eca3d0f5b0d9e5ed2b0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":723125847,
-    "wof:lastmodified":1472618349,
+    "wof:lastmodified":1510942711,
     "wof:name":"Wag-A-Lot",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739793753
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

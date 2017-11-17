@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.724854,33.991565,-83.724854,33.991565",
     "geom:latitude":33.991565,
     "geom:longitude":-83.724854,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7 S Center St",
     "sg:city":"Winder",
     "sg:classifiers":[
@@ -40,16 +42,18 @@
     },
     "wof:country":"US",
     "wof:created":1461914570,
-    "wof:geomhash":"5339102db47190bd173051da762e1ee4",
+    "wof:geomhash":"57b202ac8086ef229dafdd80ed3a4cd9",
     "wof:hierarchy":[],
     "wof:id":739770753,
-    "wof:lastmodified":1472619313,
+    "wof:lastmodified":1510943629,
     "wof:name":"Sonic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740037813
+    ],
     "wof:tags":[
         "burger",
         "american"

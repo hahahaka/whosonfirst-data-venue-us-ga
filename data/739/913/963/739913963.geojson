@@ -7,6 +7,7 @@
     "addr:postcode":"30303",
     "addr:street":"Marietta Street Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.390535,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"30 Marietta Street NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920360,
-    "wof:geomhash":"e9a2e5d763dc87f98e49e148b29e061f",
+    "wof:geomhash":"e23ce4dffb1ba4883fac34de1ddfa57b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,17 @@
         }
     ],
     "wof:id":739913963,
-    "wof:lastmodified":1486672894,
+    "wof:lastmodified":1510941884,
     "wof:name":"McDonald's",
     "wof:parent_id":1108797055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739987669
+    ],
+    "wof:supersedes":[
+        739767891
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -15,6 +15,7 @@
     "geom:longitude":-84.377391,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3145 Peachtree Rd NE # 121",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -61,7 +62,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921034,
-    "wof:geomhash":"887a7d078d7723cc287b94ec1a944096",
+    "wof:geomhash":"310bb86d3704842ba420bab8bfc11cee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,13 +76,15 @@
         }
     ],
     "wof:id":739930067,
-    "wof:lastmodified":1486668567,
+    "wof:lastmodified":1510942148,
     "wof:name":"Subway",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739767949
+    ],
     "wof:tags":[
         "shop",
         "american",

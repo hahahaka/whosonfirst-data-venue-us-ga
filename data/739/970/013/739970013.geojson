@@ -15,6 +15,7 @@
     "geom:longitude":-84.359328,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3355 Lenox Road NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -51,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922753,
-    "wof:geomhash":"fb8e4176e40c16b7172153cfde4a354c",
+    "wof:geomhash":"6da219c815276ed0b3d0b566aaeb11d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,13 +75,15 @@
         }
     ],
     "wof:id":739970013,
-    "wof:lastmodified":1486672191,
+    "wof:lastmodified":1510941556,
     "wof:name":"Lenox Center",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739971481
+    ],
     "wof:tags":[
         "management",
         "property"

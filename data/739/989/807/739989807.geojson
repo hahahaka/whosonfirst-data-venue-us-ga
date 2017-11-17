@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.309097,33.925701,-84.309097,33.925701",
     "geom:latitude":33.925701,
     "geom:longitude":-84.309097,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4575 N Shallowford Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923545,
-    "wof:geomhash":"13f3b2bf13f1a91adb2f0a264cf28b18",
+    "wof:geomhash":"0b470b686ef847ae7a0e9371c6a97123",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +57,17 @@
         }
     ],
     "wof:id":739989807,
-    "wof:lastmodified":1472619703,
+    "wof:lastmodified":1510944054,
     "wof:name":"Emory Dunwoody Medical Center",
     "wof:parent_id":85890023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739987671,
+        723009353,
+        739486369
+    ],
     "wof:tags":[]
 },
   "bbox": [

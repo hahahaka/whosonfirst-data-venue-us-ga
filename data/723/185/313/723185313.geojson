@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.441796,33.61436,-84.441796,33.61436",
     "geom:latitude":33.61436,
     "geom:longitude":-84.441796,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1720 Phoenix Blvd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"US",
     "wof:created":1461896792,
-    "wof:geomhash":"c698b860b0cceef132e67e541abc6f4a",
+    "wof:geomhash":"7e698d17013b43b75691470e257360ab",
     "wof:hierarchy":[],
     "wof:id":723185313,
-    "wof:lastmodified":1472618487,
+    "wof:lastmodified":1510941305,
     "wof:name":"Kids Avenue Pediatrics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740014467
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

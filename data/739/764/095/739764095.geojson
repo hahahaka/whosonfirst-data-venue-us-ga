@@ -7,13 +7,16 @@
     "addr:postcode":"30066",
     "addr:street":"Canton Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.527814,34.029825,-84.527814,34.029825",
     "geom:latitude":34.029825,
     "geom:longitude":-84.527814,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3205 Canton Rd",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914302,
-    "wof:geomhash":"e80002ffe88e72ce75f237ebe6998b7e",
+    "wof:geomhash":"bb3f77504014bdce29655d227e03bad6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":739764095,
-    "wof:lastmodified":1472619263,
+    "wof:lastmodified":1510943511,
     "wof:name":"G Angelos",
     "wof:parent_id":85857049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739824277
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "italian"

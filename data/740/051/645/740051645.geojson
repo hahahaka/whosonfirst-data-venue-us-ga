@@ -7,13 +7,16 @@
     "addr:postcode":"31069",
     "addr:street":"Saint Patricks Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.742939,32.471036,-83.742939,32.471036",
     "geom:latitude":32.471036,
     "geom:longitude":-83.742939,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1013 Saint Patricks Dr",
     "sg:city":"Perry",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461926179,
-    "wof:geomhash":"1b9085b84dee64afaf8f1cb961a2da19",
+    "wof:geomhash":"3af5cd702f41177db25cd3c57318ea46",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":740051645,
-    "wof:lastmodified":1472618143,
+    "wof:lastmodified":1510942777,
     "wof:name":"Dollar Tree",
     "wof:parent_id":85803765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722605393
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

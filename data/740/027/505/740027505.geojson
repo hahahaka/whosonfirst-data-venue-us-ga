@@ -7,13 +7,16 @@
     "addr:postcode":"30519",
     "addr:street":"Woodward Crossing Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.983368,34.068581,-83.983368,34.068581",
     "geom:latitude":34.068581,
     "geom:longitude":-83.983368,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3250 Woodward Crossing Blvd",
     "sg:city":"Buford",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461925059,
-    "wof:geomhash":"c7a1f3cc42269f7076adad1d4da3278c",
+    "wof:geomhash":"dc52ea777ecb5bb47989f5b3013bb336",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":740027505,
-    "wof:lastmodified":1472617962,
+    "wof:lastmodified":1510943549,
     "wof:name":"Taco Mac",
     "wof:parent_id":85858547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740026545
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

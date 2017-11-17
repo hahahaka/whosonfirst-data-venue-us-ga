@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.132418,34.007889,-84.132418,34.007889",
     "geom:latitude":34.007889,
     "geom:longitude":-84.132418,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2750 Buford Hwy",
     "sg:city":"Duluth",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461898174,
-    "wof:geomhash":"b9e1e5a53548dcb78ac305d02d0172ec",
+    "wof:geomhash":"6978409ffc849ceb148338524bc1598b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":723252649,
-    "wof:lastmodified":1472618694,
+    "wof:lastmodified":1510941707,
     "wof:name":"PDQ-PC Inc",
     "wof:parent_id":85810283,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722820869
+    ],
     "wof:tags":[
         "equipment",
         "dealer"

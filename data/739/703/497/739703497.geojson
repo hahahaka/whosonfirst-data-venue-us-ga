@@ -7,13 +7,16 @@
     "addr:postcode":"4880;30068",
     "addr:street":"Lower Roswell Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.410361,33.966234,-84.410361,33.966234",
     "geom:latitude":33.966234,
     "geom:longitude":-84.410361,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4880 Lower Roswell Rd",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -41,11 +44,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":214525279,
         "sg:id":"SG_6N2nlM2YVXMv8v4iihGAuU_33.966234_-84.410361@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461912648,
-    "wof:geomhash":"27991fa2ec6b4d3d425296fbfb240b58",
+    "wof:geomhash":"e8e18d5f13bf493deb61d312e84770c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +62,19 @@
         }
     ],
     "wof:id":739703497,
-    "wof:lastmodified":1472619122,
+    "wof:lastmodified":1510944000,
     "wof:name":"Taco Bell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739764229,
+        739829899
+    ],
+    "wof:supersedes":[
+        739764229,
+        739829899
+    ],
     "wof:tags":[
         "eating"
     ]

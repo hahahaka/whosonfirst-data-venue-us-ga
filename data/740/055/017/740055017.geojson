@@ -7,13 +7,16 @@
     "addr:postcode":"31210",
     "addr:street":"Forsyth Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.702476,32.870663,-83.702476,32.870663",
     "geom:latitude":32.870663,
     "geom:longitude":-83.702476,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4500 Forsyth Rd",
     "sg:city":"Macon",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1461926315,
-    "wof:geomhash":"2fc111e2b8b7ef7b83449db66137ecd5",
+    "wof:geomhash":"a390a6d7f9b1af99f9ce5aa92c61a81f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":740055017,
-    "wof:lastmodified":1472618105,
+    "wof:lastmodified":1510942875,
     "wof:name":"Arby's",
     "wof:parent_id":85819955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739772485
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

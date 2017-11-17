@@ -7,13 +7,16 @@
     "addr:postcode":"30328",
     "addr:street":"Hammond Dr Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.35128,33.918941,-84.35128,33.918941",
     "geom:latitude":33.918941,
     "geom:longitude":-84.35128,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1100 Hammond Dr NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923094,
-    "wof:geomhash":"daaad6f0650e36fdb5465229d70d365c",
+    "wof:geomhash":"ebc8422070d9e2c77eb62557a38ddfd2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":739979029,
-    "wof:lastmodified":1472619679,
+    "wof:lastmodified":1510942053,
     "wof:name":"Schakolad Chocolate Factory",
     "wof:parent_id":85889977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739975505
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

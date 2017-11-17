@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.4798,33.909129,-84.4798,33.909129",
     "geom:latitude":33.909129,
     "geom:longitude":-84.4798,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1820 The Exchange SE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923590,
-    "wof:geomhash":"8a19ce3da92c6c23be19fffafbe3fc04",
+    "wof:geomhash":"37a6a6e7f3e6f1ec8109fc8b6bdd8cb6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":739991069,
-    "wof:lastmodified":1472619689,
+    "wof:lastmodified":1510942300,
     "wof:name":"Lane & Lane",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723342565
+    ],
     "wof:tags":[]
 },
   "bbox": [

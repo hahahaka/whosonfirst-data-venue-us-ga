@@ -7,6 +7,7 @@
     "addr:postcode":"30308",
     "addr:street":"Monroe Dr Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.368896,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"985 Monroe Dr NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914031,
-    "wof:geomhash":"cfb0ff00140ce57805c5e11e04f37994",
+    "wof:geomhash":"ca0686d4195a0faee590b59180cd6760",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":739757859,
-    "wof:lastmodified":1486670328,
+    "wof:lastmodified":1510941893,
     "wof:name":"Professional Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739938081
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

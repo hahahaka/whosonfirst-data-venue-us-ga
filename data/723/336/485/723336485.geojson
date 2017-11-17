@@ -7,13 +7,16 @@
     "addr:postcode":"30033",
     "addr:street":"Clairmont Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.305444,33.793867,-84.305444,33.793867",
     "geom:latitude":33.793867,
     "geom:longitude":-84.305444,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1359 Clairmont Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461899740,
-    "wof:geomhash":"1f94ce0eab148e37699b4d4a7518e329",
+    "wof:geomhash":"90d7d1bb6770da2ae67d0f45c140676b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":723336485,
-    "wof:lastmodified":1472618931,
+    "wof:lastmodified":1510943079,
     "wof:name":"Amazing Thai Cuisine",
     "wof:parent_id":85890029,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739797187
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

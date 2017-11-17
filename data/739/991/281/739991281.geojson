@@ -7,13 +7,16 @@
     "addr:postcode":"30339",
     "addr:street":"Spring Rd Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.473257,33.885212,-84.473257,33.885212",
     "geom:latitude":33.885212,
     "geom:longitude":-84.473257,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2810 Spring Rd SE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923598,
-    "wof:geomhash":"df09644f219164f72bbcebdd7c93cb6e",
+    "wof:geomhash":"e93951068a71536775b8d28c3e9555a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":739991281,
-    "wof:lastmodified":1472619696,
+    "wof:lastmodified":1510943765,
     "wof:name":"Whitaker, Lloyd T",
     "wof:parent_id":85813197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739994225
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

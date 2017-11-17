@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.235929,33.950465,-84.235929,33.950465",
     "geom:latitude":33.950465,
     "geom:longitude":-84.235929,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"3280 Holcomb Bridge Rd",
     "sg:city":"Norcross",
     "sg:classifiers":[],
@@ -26,20 +28,23 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":4100863548,
         "sg:id":"SG_1wardStkxwXmb9KfuHaJz1_33.950465_-84.235929@1303262589"
     },
     "wof:country":"US",
     "wof:created":1461917989,
-    "wof:geomhash":"591778e0f2b209b94f2cc6a414916796",
+    "wof:geomhash":"27654fbba02be37135d9f1fa6605f150",
     "wof:hierarchy":[],
     "wof:id":739851935,
-    "wof:lastmodified":1472619464,
+    "wof:lastmodified":1510941968,
     "wof:name":"Panera Bread",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739764941
+    ],
     "wof:tags":[]
 },
   "bbox": [

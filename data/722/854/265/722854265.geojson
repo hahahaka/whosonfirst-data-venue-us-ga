@@ -7,6 +7,7 @@
     "addr:postcode":"30309",
     "addr:street":"Spring St Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.389232,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1350 Spring St NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461889900,
-    "wof:geomhash":"3ea219dcc2794106b1248cad201740c9",
+    "wof:geomhash":"b3fe4ca71be8370615c06cbc5008fb21",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":722854265,
-    "wof:lastmodified":1486671264,
+    "wof:lastmodified":1510942605,
     "wof:name":"Spherion",
     "wof:parent_id":85807999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739941731
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "help",

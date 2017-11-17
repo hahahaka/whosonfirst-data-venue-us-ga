@@ -7,13 +7,16 @@
     "addr:postcode":"30032",
     "addr:street":"Memorial Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.249682,33.771262,-84.249682,33.771262",
     "geom:latitude":33.771262,
     "geom:longitude":-84.249682,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4151 Memorial Dr",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461911379,
-    "wof:geomhash":"90b712cfb07197903a09ac1500e27578",
+    "wof:geomhash":"4b987ba505d1553d2efc60fb4373daca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":739645351,
-    "wof:lastmodified":1472618957,
+    "wof:lastmodified":1510942901,
     "wof:name":"Bess Staffing Services",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739795839
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "business"

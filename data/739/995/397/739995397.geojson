@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.250897,33.900076,-84.250897,33.900076",
     "geom:latitude":33.900076,
     "geom:longitude":-84.250897,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3731 Northcrest Road",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923761,
-    "wof:geomhash":"867778186a3d4d0bee96c58b6ee35cfb",
+    "wof:geomhash":"0e42b470451ca4e39d06ab973fac2159",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":739995397,
-    "wof:lastmodified":1472619705,
+    "wof:lastmodified":1510942419,
     "wof:name":"C & J Showroom",
     "wof:parent_id":85889941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723362719
+    ],
     "wof:tags":[
         "store"
     ]

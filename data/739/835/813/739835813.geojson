@@ -7,13 +7,16 @@
     "addr:postcode":"30076",
     "addr:street":"Hospital Blvd Ste 115",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.322421,34.062117,-84.322421,34.062117",
     "geom:latitude":34.062117,
     "geom:longitude":-84.322421,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2500 Hospital Blvd Ste 115",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461917329,
-    "wof:geomhash":"ed92e21583a4019ef3846cac75d1a26f",
+    "wof:geomhash":"c51d3dbb173c97dbf229f713c16786db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +61,17 @@
         }
     ],
     "wof:id":739835813,
-    "wof:lastmodified":1472619451,
+    "wof:lastmodified":1510943006,
     "wof:name":"North Fulton Eye Center",
     "wof:parent_id":85851631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739837875
+    ],
+    "wof:supersedes":[
+        722702365
+    ],
     "wof:tags":[
         "ophthalmologist"
     ]

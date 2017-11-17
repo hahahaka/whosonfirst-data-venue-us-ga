@@ -15,6 +15,7 @@
     "geom:longitude":-84.377524,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3495 Piedmont Road NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921042,
-    "wof:geomhash":"4b6ed012b914eff39bf7947808833369",
+    "wof:geomhash":"c50674767ae9ebbc54b95595790ef486",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":739930309,
-    "wof:lastmodified":1486668617,
+    "wof:lastmodified":1510943731,
     "wof:name":"Jones and Kolb",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739927091
+    ],
     "wof:tags":[
         "accountant"
     ]

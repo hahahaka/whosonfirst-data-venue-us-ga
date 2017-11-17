@@ -7,13 +7,16 @@
     "addr:postcode":"30342",
     "addr:street":"Roswell Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.381549,33.888651,-84.381549,33.888651",
     "geom:latitude":33.888651,
     "geom:longitude":-84.381549,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4920 Roswell Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -51,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924008,
-    "wof:geomhash":"b41ff1588147293437e58e3052685838",
+    "wof:geomhash":"ef6de5b24a6714a9aac27d38e9f258e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +67,14 @@
         }
     ],
     "wof:id":740002121,
-    "wof:lastmodified":1472617807,
+    "wof:lastmodified":1510944188,
     "wof:name":"Eye 1st Vision Center",
     "wof:parent_id":85834317,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722845583
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eyewear"

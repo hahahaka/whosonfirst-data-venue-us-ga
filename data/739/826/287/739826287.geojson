@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.463699,33.9058,-84.463699,33.9058",
     "geom:latitude":33.9058,
     "geom:longitude":-84.463699,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3000 Windy Hill Rd SE",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916943,
-    "wof:geomhash":"7951bac62d1fc5278fbe88cc89ac4782",
+    "wof:geomhash":"c716e2a67167297687c4587c3981c8b1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,13 +53,15 @@
         }
     ],
     "wof:id":739826287,
-    "wof:lastmodified":1472619404,
+    "wof:lastmodified":1510943349,
     "wof:name":"Center of Wireless",
     "wof:parent_id":85818985,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723389989
+    ],
     "wof:tags":[]
 },
   "bbox": [

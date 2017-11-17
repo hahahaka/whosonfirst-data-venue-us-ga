@@ -7,13 +7,16 @@
     "addr:postcode":"30024",
     "addr:street":"Lawrenceville Suwanee Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.044342,34.025057,-84.044342,34.025057",
     "geom:latitude":34.025057,
     "geom:longitude":-84.044342,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2855 Lawrenceville Suwanee Rd",
     "sg:city":"Suwanee",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461901050,
-    "wof:geomhash":"696410d076608f94025dad81b85e9697",
+    "wof:geomhash":"59f4f85cc50e481a3fdedb0388697bf7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":723403957,
-    "wof:lastmodified":1472619125,
+    "wof:lastmodified":1510942118,
     "wof:name":"Hair Cuttery",
     "wof:parent_id":85802315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739790457
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

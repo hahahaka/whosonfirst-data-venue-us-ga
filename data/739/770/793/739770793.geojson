@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.922184,34.511837,-84.922184,34.511837",
     "geom:latitude":34.511837,
     "geom:longitude":-84.922184,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1098 Red Bud Rd NE",
     "sg:city":"Calhoun",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914571,
-    "wof:geomhash":"64500e534783e81ddf7b48d2131366ae",
+    "wof:geomhash":"c6ad32e228101367db8937a0908c4692",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":739770793,
-    "wof:lastmodified":1472619314,
+    "wof:lastmodified":1510942477,
     "wof:name":"Arby's",
     "wof:parent_id":85836757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740038531
+    ],
     "wof:tags":[
         "burger",
         "american"

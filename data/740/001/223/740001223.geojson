@@ -7,6 +7,7 @@
     "addr:postcode":"30342",
     "addr:street":"Roswell Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.382667,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3655 Roswell Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -59,7 +61,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923971,
-    "wof:geomhash":"5f23688ed7dda67b54e320e9dad42e77",
+    "wof:geomhash":"f58d8f571ed705ccf86b6beb265f4558",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,12 +85,14 @@
         }
     ],
     "wof:id":740001223,
-    "wof:lastmodified":1486672032,
+    "wof:lastmodified":1510942896,
     "wof:name":"Buckhead Italian Market Deli",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739508637
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen",

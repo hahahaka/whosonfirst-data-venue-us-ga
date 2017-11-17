@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.246338,33.94088,-84.246338,33.94088",
     "geom:latitude":33.94088,
     "geom:longitude":-84.246338,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6575 Peachtree Industrial Blvd",
     "sg:city":"Norcross",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"US",
     "wof:created":1461917963,
-    "wof:geomhash":"17a6477bc0196eb28c886399f46be9cc",
+    "wof:geomhash":"80aa0bbc028334600827557eefb76d36",
     "wof:hierarchy":[],
     "wof:id":739851205,
-    "wof:lastmodified":1472619444,
+    "wof:lastmodified":1510941199,
     "wof:name":"Las Vegas Villa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723358639
+    ],
     "wof:tags":[
         "caterer"
     ]

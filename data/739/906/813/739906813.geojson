@@ -7,13 +7,16 @@
     "addr:postcode":"30281",
     "addr:street":"N Henry Blvd Ste B",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.261398,33.564899,-84.261398,33.564899",
     "geom:latitude":33.564899,
     "geom:longitude":-84.261398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6001 N Henry Blvd Ste B",
     "sg:city":"Stockbridge",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461920068,
-    "wof:geomhash":"96ca5e7ff79f5d945b6baa18bc269749",
+    "wof:geomhash":"3d2d84ab47f3c6441ab690fd987fb6f4",
     "wof:hierarchy":[],
     "wof:id":739906813,
-    "wof:lastmodified":1472619550,
+    "wof:lastmodified":1510943647,
     "wof:name":"South of Buckhead Hair Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739906863
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"

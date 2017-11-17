@@ -7,13 +7,16 @@
     "addr:postcode":"30066",
     "addr:street":"Piedmont Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.5228,34.020557,-84.5228,34.020557",
     "geom:latitude":34.020557,
     "geom:longitude":-84.5228,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1000 Piedmont Rd",
     "sg:city":"Marietta",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916896,
-    "wof:geomhash":"1e211a88e84ae2ce7b5d585ef7823441",
+    "wof:geomhash":"03eacf3f2ca7c0c818c1875dbf5aa310",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":739825153,
-    "wof:lastmodified":1472619401,
+    "wof:lastmodified":1510941435,
     "wof:name":"Allgood Pest Solutions",
     "wof:parent_id":85857049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739824635
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

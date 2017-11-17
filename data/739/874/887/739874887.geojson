@@ -7,13 +7,16 @@
     "addr:postcode":"30134",
     "addr:street":"Bankhead Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.702103,33.783298,-84.702103,33.783298",
     "geom:latitude":33.783298,
     "geom:longitude":-84.702103,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4015 Bankhead Hwy",
     "sg:city":"Douglasville",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461918871,
-    "wof:geomhash":"2a623333e5ce887e834150f8ef1e0377",
+    "wof:geomhash":"1728825606c84cb060738a3371e4d631",
     "wof:hierarchy":[],
     "wof:id":739874887,
-    "wof:lastmodified":1472619520,
+    "wof:lastmodified":1510941178,
     "wof:name":"Bankhead Animal Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739874171
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"

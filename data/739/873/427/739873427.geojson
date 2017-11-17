@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.731257,33.744458,-84.731257,33.744458",
     "geom:latitude":33.744458,
     "geom:longitude":-84.731257,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8700 Hospital Dr",
     "sg:city":"Douglasville",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461918813,
-    "wof:geomhash":"c715a87b7878aa34ff651b52f374d16c",
+    "wof:geomhash":"35e65d2212349d4406b985f223e11934",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,13 +66,15 @@
         }
     ],
     "wof:id":739873427,
-    "wof:lastmodified":1472619494,
+    "wof:lastmodified":1510942671,
     "wof:name":"Real Estate Appraisal",
     "wof:parent_id":85846763,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722976927
+    ],
     "wof:tags":[
         "buyer",
         "broker"

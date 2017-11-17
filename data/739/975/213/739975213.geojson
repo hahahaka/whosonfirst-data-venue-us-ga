@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.361784,33.912404,-84.361784,33.912404",
     "geom:latitude":33.912404,
     "geom:longitude":-84.361784,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5775 Glenridge Drive NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922950,
-    "wof:geomhash":"c13c47100500ee9ee9e064d24d53976d",
+    "wof:geomhash":"7275e699ae40e8a6b85e8dadf57027b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":739975213,
-    "wof:lastmodified":1472619642,
+    "wof:lastmodified":1510943344,
     "wof:name":"Greene Wendy-Metro Brokers GMAC Real Estate",
     "wof:parent_id":85889977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739977691
+    ],
     "wof:tags":[
         "school",
         "driving"

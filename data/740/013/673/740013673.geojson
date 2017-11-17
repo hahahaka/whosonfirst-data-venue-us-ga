@@ -7,13 +7,16 @@
     "addr:postcode":"30349",
     "addr:street":"Old National Hwy Ste B2",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.471572,33.6059,-84.471572,33.6059",
     "geom:latitude":33.6059,
     "geom:longitude":-84.471572,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5495 Old National Hwy Ste B2",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -55,7 +58,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924455,
-    "wof:geomhash":"337ecd1db3173a5be8a9b99dfd419d7b",
+    "wof:geomhash":"8d0d034b8644bcbe922e2edf8c370d3b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,12 +71,14 @@
         }
     ],
     "wof:id":740013673,
-    "wof:lastmodified":1472617888,
+    "wof:lastmodified":1510941951,
     "wof:name":"Precious Care Pediatrics",
     "wof:parent_id":420517977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739617819
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

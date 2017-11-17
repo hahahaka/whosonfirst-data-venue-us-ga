@@ -7,13 +7,16 @@
     "addr:postcode":"30035",
     "addr:street":"Covington Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.229026,33.751186,-84.229026,33.751186",
     "geom:latitude":33.751186,
     "geom:longitude":-84.229026,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4324 Covington Hwy",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461890533,
-    "wof:geomhash":"4cefc25d60423cf704c58e3590445e9a",
+    "wof:geomhash":"d9b40c834d24493d9463262eff78f655",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":722887611,
-    "wof:lastmodified":1472618879,
+    "wof:lastmodified":1510942013,
     "wof:name":"Family Dental Lab Inc",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739800397
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory",

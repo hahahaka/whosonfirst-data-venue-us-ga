@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.355698,33.907799,-84.355698,33.907799",
     "geom:latitude":33.907799,
     "geom:longitude":-84.355698,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"960 Johnson Ferry Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924148,
-    "wof:geomhash":"83e6a7b97f8df663bc706a80d39347ee",
+    "wof:geomhash":"a5afcfb22efa2ba43801d825ed2c206d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":740005715,
-    "wof:lastmodified":1472617897,
+    "wof:lastmodified":1510941841,
     "wof:name":"Line Robin M D",
     "wof:parent_id":85890019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740006193
+    ],
     "wof:tags":[]
 },
   "bbox": [

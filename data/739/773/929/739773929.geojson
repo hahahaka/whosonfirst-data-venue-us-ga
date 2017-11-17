@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.281168,30.857892,-83.281168,30.857892",
     "geom:latitude":30.857892,
     "geom:longitude":-83.281168,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2102 N Ashley St",
     "sg:city":"Valdosta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914707,
-    "wof:geomhash":"73f5caa3e29b494ae5ceab2366df7a5d",
+    "wof:geomhash":"d8071e05712ea996066c5bc8c7563fb4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":739773929,
-    "wof:lastmodified":1472619329,
+    "wof:lastmodified":1510942972,
     "wof:name":"McDonald's",
     "wof:parent_id":85827633,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723195593
+    ],
     "wof:tags":[
         "burger",
         "american"

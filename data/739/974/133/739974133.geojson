@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.351898,33.916401,-84.351898,33.916401",
     "geom:latitude":33.916401,
     "geom:longitude":-84.351898,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5 Concourse Pkwy NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922914,
-    "wof:geomhash":"2ccdd2025d899b5473200264e8dcee2d",
+    "wof:geomhash":"6ea2ba410c592dfd1cfde7e48ee90471",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":739974133,
-    "wof:lastmodified":1472619647,
+    "wof:lastmodified":1510943051,
     "wof:name":"Kennedy Davis & Kennedy",
     "wof:parent_id":85889977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723171553
+    ],
     "wof:tags":[]
 },
   "bbox": [

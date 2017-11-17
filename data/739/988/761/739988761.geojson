@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.33717,33.94166,-84.33717,33.94166",
     "geom:latitude":33.94166,
     "geom:longitude":-84.33717,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 Ashford Center N Suite 150",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923507,
-    "wof:geomhash":"6b3649279ca47c13aeb11979a180a610",
+    "wof:geomhash":"d23fa20f933b6666feb6dc7ef0d0de36",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,13 +67,15 @@
         }
     ],
     "wof:id":739988761,
-    "wof:lastmodified":1472619690,
+    "wof:lastmodified":1510942455,
     "wof:name":"Dunwoody Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722802381
+    ],
     "wof:tags":[]
 },
   "bbox": [

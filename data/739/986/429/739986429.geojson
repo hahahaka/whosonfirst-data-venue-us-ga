@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.444725,33.65226,-84.444725,33.65226",
     "geom:latitude":33.65226,
     "geom:longitude":-84.444725,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1701 Columbia Ave",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923410,
-    "wof:geomhash":"29e1f47f4a4fb70f311fca80f8d1bfc7",
+    "wof:geomhash":"475e8e519a6364e1027211e41afe7065",
     "wof:hierarchy":[
         {
             "campus_id":102526927,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":739986429,
-    "wof:lastmodified":1472619683,
+    "wof:lastmodified":1510943514,
     "wof:name":"Aircraft Certification Office",
     "wof:parent_id":102526927,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723215875
+    ],
     "wof:tags":[
         "government-united",
         "state"

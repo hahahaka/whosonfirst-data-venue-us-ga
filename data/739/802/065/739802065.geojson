@@ -7,13 +7,16 @@
     "addr:postcode":"30039",
     "addr:street":"Scenic Hwy S # 124",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.031872,33.825991,-84.031872,33.825991",
     "geom:latitude":33.825991,
     "geom:longitude":-84.031872,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3010 Scenic Hwy S # 124",
     "sg:city":"Snellville",
     "sg:classifiers":[
@@ -39,15 +42,17 @@
     },
     "wof:country":"US",
     "wof:created":1461915871,
-    "wof:geomhash":"c9e3b6e9a3d8d699b20d933ba3269c39",
+    "wof:geomhash":"2cd5fc3159db79712571236cebc35719",
     "wof:hierarchy":[],
     "wof:id":739802065,
-    "wof:lastmodified":1472619348,
+    "wof:lastmodified":1510942713,
     "wof:name":"CVS Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739802573
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"

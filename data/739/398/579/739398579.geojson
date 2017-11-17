@@ -7,13 +7,16 @@
     "addr:postcode":"30071",
     "addr:street":"Jimmy Carter Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.208217,33.913413,-84.208217,33.913413",
     "geom:latitude":33.913413,
     "geom:longitude":-84.208217,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5675 Jimmy Carter Blvd",
     "sg:city":"Norcross",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461906558,
-    "wof:geomhash":"f488076ac04526ad1299a1e6819e9193",
+    "wof:geomhash":"af40625b02ecb6b5aeb03221378945de",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":739398579,
-    "wof:lastmodified":1472618327,
+    "wof:lastmodified":1510941972,
     "wof:name":"Andrea's Place",
     "wof:parent_id":85826369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739832973
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "colonic",

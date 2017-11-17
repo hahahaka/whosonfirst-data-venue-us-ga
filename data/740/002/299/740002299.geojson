@@ -7,13 +7,16 @@
     "addr:postcode":"30342",
     "addr:street":"Glenridge Dr Ne Ste 690",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.364403,33.9072,-84.364403,33.9072",
     "geom:latitude":33.9072,
     "geom:longitude":-84.364403,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5605 Glenridge Dr NE Ste 690",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924015,
-    "wof:geomhash":"5872ada1c985fbbc011001c829326132",
+    "wof:geomhash":"0b186e5ceabf1199b9b9aec2deb76fb3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":740002299,
-    "wof:lastmodified":1472617821,
+    "wof:lastmodified":1510944031,
     "wof:name":"Siegel & Golder Attorneys",
     "wof:parent_id":85890019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723208697
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

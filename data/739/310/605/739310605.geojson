@@ -7,6 +7,7 @@
     "addr:postcode":"30324",
     "addr:street":"Lenox Pointe Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.353943,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"24 Lenox Pointe NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461904779,
-    "wof:geomhash":"4b6a5339e0da595b6d9981db367af4b3",
+    "wof:geomhash":"3616d14bf013b4cd5340466e9160af81",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":739310605,
-    "wof:lastmodified":1486672019,
+    "wof:lastmodified":1510943217,
     "wof:name":"Greg B Walling PC",
     "wof:parent_id":420784705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739965453
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

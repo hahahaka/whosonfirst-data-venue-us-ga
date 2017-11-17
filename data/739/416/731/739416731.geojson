@@ -7,13 +7,16 @@
     "addr:postcode":"30060",
     "addr:street":"Lawrence St Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.546208,33.953134,-84.546208,33.953134",
     "geom:latitude":33.953134,
     "geom:longitude":-84.546208,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"250 Lawrence St NE",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461906892,
-    "wof:geomhash":"e15e78547bb1cb518ab91855f7660051",
+    "wof:geomhash":"3c4663d0d9ce8d2fa29067082412bf88",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":739416731,
-    "wof:lastmodified":1472618387,
+    "wof:lastmodified":1510943275,
     "wof:name":"George C Childs Jr PC",
     "wof:parent_id":85857593,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739817339
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

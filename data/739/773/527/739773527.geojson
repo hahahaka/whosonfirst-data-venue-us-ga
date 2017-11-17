@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.519811,31.218028,-81.519811,31.218028",
     "geom:latitude":31.218028,
     "geom:longitude":-81.519811,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5043 New Jesup Hwy",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"US",
     "wof:created":1461914685,
-    "wof:geomhash":"edb31c83dfd9cca5a070abb51a036005",
+    "wof:geomhash":"37f674b8d4c7eb1ce0a1aa98bafd39c6",
     "wof:hierarchy":[],
     "wof:id":739773527,
-    "wof:lastmodified":1472619313,
+    "wof:lastmodified":1510942387,
     "wof:name":"Starbucks Coffee",
     "wof:parent_id":420518013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740062681
+    ],
     "wof:tags":[
         "american"
     ]

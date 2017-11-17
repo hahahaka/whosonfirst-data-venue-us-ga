@@ -7,13 +7,16 @@
     "addr:postcode":"30329",
     "addr:street":"Briarcliff Rd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.335938,33.806247,-84.335938,33.806247",
     "geom:latitude":33.806247,
     "geom:longitude":-84.335938,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1800 Briarcliff Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461888471,
-    "wof:geomhash":"e189aef5e503156ede63cc4017dd47b4",
+    "wof:geomhash":"7a5aacad656396769e1b0a31c934af2b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":722778607,
-    "wof:lastmodified":1472618581,
+    "wof:lastmodified":1510942881,
     "wof:name":"Shepherd Construction Co",
     "wof:parent_id":85889951,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739979443
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "paving",

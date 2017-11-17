@@ -7,13 +7,16 @@
     "addr:postcode":"30341",
     "addr:street":"New Peachtree Road",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.302063,33.889537,-84.302063,33.889537",
     "geom:latitude":33.889537,
     "geom:longitude":-84.302063,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5303 New Peachtree Road",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923962,
-    "wof:geomhash":"23084fae530b9dd795a69a5fb221dc82",
+    "wof:geomhash":"7181a1f5c993675e1bb0759877060e49",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":740000929,
-    "wof:lastmodified":1472617881,
+    "wof:lastmodified":1510942915,
     "wof:name":"Interactive College of Technology",
     "wof:parent_id":85889955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739998439
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "college"

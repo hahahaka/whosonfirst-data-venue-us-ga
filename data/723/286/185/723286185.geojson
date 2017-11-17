@@ -15,6 +15,7 @@
     "geom:longitude":-84.379711,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"278 Midvale Dr NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -51,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461898795,
-    "wof:geomhash":"301bf779cd04dd6506fef88e3a6b83c9",
+    "wof:geomhash":"ffc4f1ce4ecca7bf10763565308f630f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,13 +65,15 @@
         }
     ],
     "wof:id":723286185,
-    "wof:lastmodified":1486668483,
+    "wof:lastmodified":1510943298,
     "wof:name":"Concierge Services Of Atlanta",
     "wof:parent_id":85850941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740001541
+    ],
     "wof:tags":[
         "concierge"
     ]

@@ -15,6 +15,7 @@
     "geom:longitude":-84.385884,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 Edgewood Avenue NE Bsmt",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -52,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920621,
-    "wof:geomhash":"d3ba8a394d649fc71253787478006cd5",
+    "wof:geomhash":"ec3b11b163dc520db441ee20cde586ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,13 +67,15 @@
         }
     ],
     "wof:id":739920881,
-    "wof:lastmodified":1486670767,
+    "wof:lastmodified":1510941743,
     "wof:name":"YMCA of Metro Atlanta",
     "wof:parent_id":85866901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739913905
+    ],
     "wof:tags":[
         "elementary"
     ]

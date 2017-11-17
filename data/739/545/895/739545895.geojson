@@ -15,6 +15,7 @@
     "geom:longitude":-84.384085,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"255 Courtland St NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461909281,
-    "wof:geomhash":"f658ff129d8644d35f9244c0ca23fb52",
+    "wof:geomhash":"747963740f85af6c5bb3a44630012c87",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":739545895,
-    "wof:lastmodified":1486682495,
+    "wof:lastmodified":1510941724,
     "wof:name":"Atlanta Center Limited",
     "wof:parent_id":1108797059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739342073
+    ],
     "wof:tags":[]
 },
   "bbox": [

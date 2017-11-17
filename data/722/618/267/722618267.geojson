@@ -7,13 +7,16 @@
     "addr:postcode":"30126",
     "addr:street":"Mableton Pkwy Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.571908,33.81095,-84.571908,33.81095",
     "geom:latitude":33.81095,
     "geom:longitude":-84.571908,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5701 Mableton Pkwy SE",
     "sg:city":"Mableton",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461885326,
-    "wof:geomhash":"ce8bf6369c2769df2daab1ca28eb3674",
+    "wof:geomhash":"2984d77266e2d3b13ba5740f71c03b12",
     "wof:hierarchy":[],
     "wof:id":722618267,
-    "wof:lastmodified":1472618063,
+    "wof:lastmodified":1510942986,
     "wof:name":"Saint James Medical Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722809177
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

@@ -7,13 +7,16 @@
     "addr:postcode":"30341",
     "addr:street":"Airport Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.308698,33.876598,-84.308698,33.876598",
     "geom:latitude":33.876598,
     "geom:longitude":-84.308698,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1954 Airport Rd",
     "sg:city":"Chamblee",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461901717,
-    "wof:geomhash":"e62ec6c46ffcb51231a74e31ea486a62",
+    "wof:geomhash":"346043c0fe0e5551b9d2a3279892d4ee",
     "wof:hierarchy":[
         {
             "campus_id":102525899,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":723438415,
-    "wof:lastmodified":1472619184,
+    "wof:lastmodified":1510941293,
     "wof:name":"YOURMARK.COM",
     "wof:parent_id":102525899,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739999373
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "website",

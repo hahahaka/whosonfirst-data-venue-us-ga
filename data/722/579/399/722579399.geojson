@@ -7,13 +7,16 @@
     "addr:postcode":"30328",
     "addr:street":"Sandy;Pl Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.381752,33.921477,-84.381752,33.921477",
     "geom:latitude":33.921477,
     "geom:longitude":-84.381752,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"227 Sandy Springs Pl NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461884590,
-    "wof:geomhash":"5c31e6c55d8fd401b16b537731dba63a",
+    "wof:geomhash":"5d028821eece7801a9f1901576d5514d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,15 @@
         }
     ],
     "wof:id":722579399,
-    "wof:lastmodified":1472617957,
+    "wof:lastmodified":1510943110,
     "wof:name":"Potpourri Of Sandy Springs",
     "wof:parent_id":85889967,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739974593,
+        739974709
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

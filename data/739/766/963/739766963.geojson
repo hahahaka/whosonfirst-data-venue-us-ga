@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.900593,33.16673,-84.900593,33.16673",
     "geom:latitude":33.16673,
     "geom:longitude":-84.900593,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1829 E Main St",
     "sg:city":"Hogansville",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914420,
-    "wof:geomhash":"3002ea796e002be3af136026cf1318f4",
+    "wof:geomhash":"0eaf31181d16246206699dd856c3ac1f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":739766963,
-    "wof:lastmodified":1472619323,
+    "wof:lastmodified":1510942834,
     "wof:name":"McDonald's",
     "wof:parent_id":85845165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739486201
+    ],
     "wof:tags":[
         "burger",
         "american"

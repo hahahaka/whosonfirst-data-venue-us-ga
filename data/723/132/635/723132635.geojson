@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.965218,34.14487,-83.965218,34.14487",
     "geom:latitude":34.14487,
     "geom:longitude":-83.965218,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"922 Gainesville Hwy",
     "sg:city":"Buford",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461895747,
-    "wof:geomhash":"148e6c43d1fee3701b2fb2cd11c98899",
+    "wof:geomhash":"fbe5a0516fb072f98c5863c270b3ff07",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":723132635,
-    "wof:lastmodified":1472618351,
+    "wof:lastmodified":1510943613,
     "wof:name":"Allergy & Asthma Care Ctr",
     "wof:parent_id":85846603,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740024787
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

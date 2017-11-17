@@ -7,13 +7,16 @@
     "addr:postcode":"30079",
     "addr:street":"E Ponce De Leon Ave Ste E",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.265419,33.785811,-84.265419,33.785811",
     "geom:latitude":33.785811,
     "geom:longitude":-84.265419,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3155 E Ponce De Leon Ave Ste E",
     "sg:city":"Scottdale",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461917504,
-    "wof:geomhash":"c727727a0235ef936fb88c92effa94ca",
+    "wof:geomhash":"b04a79d0091f791b08717f17b2b866ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":739840421,
-    "wof:lastmodified":1472619434,
+    "wof:lastmodified":1510943739,
     "wof:name":"Auto Fitness & Service",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739840537
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

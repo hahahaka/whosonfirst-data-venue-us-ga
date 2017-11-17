@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.206918,33.856705,-84.206918,33.856705",
     "geom:latitude":33.856705,
     "geom:longitude":-84.206918,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4373 Lawrenceville Hwy",
     "sg:city":"Tucker",
     "sg:classifiers":[
@@ -40,16 +42,18 @@
     },
     "wof:country":"US",
     "wof:created":1461917791,
-    "wof:geomhash":"4ab290788987be474cf76de5051adce7",
+    "wof:geomhash":"f756640a6c26f9ee6a3b2fc4ac1d8284",
     "wof:hierarchy":[],
     "wof:id":739847245,
-    "wof:lastmodified":1472619427,
+    "wof:lastmodified":1510943721,
     "wof:name":"Sheridan's Frozen Custard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739845763
+    ],
     "wof:tags":[
         "frozen",
         "yogurt"

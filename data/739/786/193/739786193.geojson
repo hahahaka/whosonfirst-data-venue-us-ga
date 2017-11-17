@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.929078,34.050081,-83.929078,34.050081",
     "geom:latitude":34.050081,
     "geom:longitude":-83.929078,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2700 Braselton Hwy",
     "sg:city":"Dacula",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915180,
-    "wof:geomhash":"d262d1a8bc58cf671480de79744e1709",
+    "wof:geomhash":"5981caa3fb184fe6e4297915eadaf359",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":739786193,
-    "wof:lastmodified":1472619338,
+    "wof:lastmodified":1510943916,
     "wof:name":"Balance Architects Llc",
     "wof:parent_id":85858547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723292211
+    ],
     "wof:tags":[
         "architects'",
         "specification",

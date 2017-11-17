@@ -7,13 +7,16 @@
     "addr:postcode":"30004",
     "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.279593,34.093703,-84.279593,34.093703",
     "geom:latitude":34.093703,
     "geom:longitude":-84.279593,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"875 N Main St",
     "sg:city":"Alpharetta",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914228,
-    "wof:geomhash":"23484820c6a4d3c33853714c1e0e919f",
+    "wof:geomhash":"c0a3b44f056c7b802f679a04a2d3db17",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":739762213,
-    "wof:lastmodified":1472619276,
+    "wof:lastmodified":1510941700,
     "wof:name":"Cold Stone Creamery",
     "wof:parent_id":85854917,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739780519
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "smoothy",

@@ -7,13 +7,16 @@
     "addr:postcode":"30083",
     "addr:street":"Memorial Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.217953,33.799428,-84.217953,33.799428",
     "geom:latitude":33.799428,
     "geom:longitude":-84.217953,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5405 Memorial Dr",
     "sg:city":"Stone Mountain",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461884149,
-    "wof:geomhash":"48b4fed12f95447a79abe6b89b346d3b",
+    "wof:geomhash":"c9beeddb778cf05c081531700067bcf0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":722557011,
-    "wof:lastmodified":1472617906,
+    "wof:lastmodified":1510943178,
     "wof:name":"Infinity Mortgage Corporation",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739845579
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage",

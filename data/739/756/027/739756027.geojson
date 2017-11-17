@@ -7,6 +7,7 @@
     "addr:postcode":"30309",
     "addr:street":"Collier Rd Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.397919,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"77 Collier Rd NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -53,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461913940,
-    "wof:geomhash":"d7b265a276fdf6cf63d7ca93d4cbf698",
+    "wof:geomhash":"426547d6d61afaeb186373a830647995",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,12 +79,15 @@
         }
     ],
     "wof:id":739756027,
-    "wof:lastmodified":1486672626,
+    "wof:lastmodified":1510943851,
     "wof:name":"Piedmont Physicians Group",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739945055,
+        739942363
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medicine",

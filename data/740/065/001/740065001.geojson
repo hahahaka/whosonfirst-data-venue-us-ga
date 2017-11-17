@@ -7,13 +7,16 @@
     "addr:postcode":"31601",
     "addr:street":"N Saint Augustine Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.320648,30.839975,-83.320648,30.839975",
     "geom:latitude":30.839975,
     "geom:longitude":-83.320648,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1100 N Saint Augustine Rd",
     "sg:city":"Valdosta",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461926747,
-    "wof:geomhash":"5a88bc7404afcf77e126c011d460c1a1",
+    "wof:geomhash":"46aca881fb842ef0ca98830c3bf72c88",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":740065001,
-    "wof:lastmodified":1472618104,
+    "wof:lastmodified":1510941863,
     "wof:name":"Chick-Fil-A",
     "wof:parent_id":85843241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739773875
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

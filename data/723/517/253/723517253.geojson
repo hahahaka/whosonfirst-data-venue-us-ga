@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.019198,33.467811,-82.019198,33.467811",
     "geom:latitude":33.467811,
     "geom:longitude":-82.019198,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2260 Wrightsboro Rd",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461903386,
-    "wof:geomhash":"1af1a2ba83fb27014f66e9b944cb83d0",
+    "wof:geomhash":"0392d7ac1e54a72f49605eadafc53d6e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":723517253,
-    "wof:lastmodified":1472619347,
+    "wof:lastmodified":1510941523,
     "wof:name":"Saint Josephs Hospice",
     "wof:parent_id":85851375,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723046793
+    ],
     "wof:tags":[
         "social",
         "medical",

@@ -7,13 +7,16 @@
     "addr:postcode":"30338",
     "addr:street":"Chamblee Dunwoody Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.335823,33.94859,-84.335823,33.94859",
     "geom:latitude":33.94859,
     "geom:longitude":-84.335823,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5501 Chamblee Dunwoody Rd",
     "sg:city":"Dunwoody",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461898494,
-    "wof:geomhash":"e9fad0eccf95718ae6463c6affc9580b",
+    "wof:geomhash":"0ee2cdb4c52a739ed594ed66f291875d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,12 +72,14 @@
         }
     ],
     "wof:id":723269437,
-    "wof:lastmodified":1472618719,
+    "wof:lastmodified":1510942045,
     "wof:name":"Dunwoody Pediatrics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739988043
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

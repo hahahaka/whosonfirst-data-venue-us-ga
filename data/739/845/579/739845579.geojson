@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.216904,33.799702,-84.216904,33.799702",
     "geom:latitude":33.799702,
     "geom:longitude":-84.216904,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5405 Memorial Dr",
     "sg:city":"Stone Mountain",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461917722,
-    "wof:geomhash":"f6e28e0a4c9853eab808cae217a79d00",
+    "wof:geomhash":"99095b0a3079d9309e43c762346a04b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":739845579,
-    "wof:lastmodified":1472619446,
+    "wof:lastmodified":1510943178,
     "wof:name":"Infinity Mortgage Corp",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722557011
+    ],
     "wof:tags":[
         "broker",
         "mortgage"

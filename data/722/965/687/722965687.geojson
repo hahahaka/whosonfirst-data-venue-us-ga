@@ -7,6 +7,7 @@
     "addr:postcode":"30303",
     "addr:street":"Marietta St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.393507,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"190 Marietta St",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461892148,
-    "wof:geomhash":"c52bb7ff2046841ad72da57b84833b9f",
+    "wof:geomhash":"010cd9097bf541eb4d4170e8af7aa55b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":722965687,
-    "wof:lastmodified":1486682435,
+    "wof:lastmodified":1510943177,
     "wof:name":"Rimini Pizza Of CNN Ctr",
     "wof:parent_id":1108797051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739738855
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

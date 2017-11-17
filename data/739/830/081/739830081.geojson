@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.421501,33.979301,-84.421501,33.979301",
     "geom:latitude":33.979301,
     "geom:longitude":-84.421501,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1205 Johnson Ferry Rd",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -40,16 +42,19 @@
     },
     "wof:country":"US",
     "wof:created":1461917087,
-    "wof:geomhash":"32863aa2e7ac4404c1e3eb9450cf0f0e",
+    "wof:geomhash":"b070def3e3153bf3acac6088eedf235d",
     "wof:hierarchy":[],
     "wof:id":739830081,
-    "wof:lastmodified":1472619404,
+    "wof:lastmodified":1510943587,
     "wof:name":"J Christopher's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739830301,
+        739764215
+    ],
     "wof:tags":[
         "breakfast",
         "brunch"

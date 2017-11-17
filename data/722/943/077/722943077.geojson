@@ -7,13 +7,16 @@
     "addr:postcode":"30214",
     "addr:street":"W Lanier Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.463111,33.447606,-84.463111,33.447606",
     "geom:latitude":33.447606,
     "geom:longitude":-84.463111,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"500 W Lanier Ave",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461891692,
-    "wof:geomhash":"6b8614899ab143049799bfb72602fdb1",
+    "wof:geomhash":"93a54c92319ab1204407c56bad268b7e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":722943077,
-    "wof:lastmodified":1472619004,
+    "wof:lastmodified":1510944081,
     "wof:name":"Georgia Mortgage Services Inc",
     "wof:parent_id":85833669,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739889839
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage",

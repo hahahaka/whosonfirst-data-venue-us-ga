@@ -7,13 +7,16 @@
     "addr:postcode":"30342",
     "addr:street":"Peachtree Dunwoody R",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.35183,33.90895,-84.35183,33.90895",
     "geom:latitude":33.90895,
     "geom:longitude":-84.35183,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5669 Peachtree Dunwoody R",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924079,
-    "wof:geomhash":"05684457820ca7a6d22e75c7dec4eff5",
+    "wof:geomhash":"479ac101f3c52d7cf1186df701c29987",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":740004063,
-    "wof:lastmodified":1472617805,
+    "wof:lastmodified":1510942003,
     "wof:name":"Hirsh Eugene H MD Facp Facg",
     "wof:parent_id":85890019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723180845
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

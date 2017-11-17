@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.418752,33.978502,-84.418752,33.978502",
     "geom:latitude":33.978502,
     "geom:longitude":-84.418752,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1205 Johnson Ferry Rd.",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"US",
     "wof:created":1461917043,
-    "wof:geomhash":"329306f1996250912cf4191661879e16",
+    "wof:geomhash":"baff41178d26f3a7ee0980e329754841",
     "wof:hierarchy":[],
     "wof:id":739829037,
-    "wof:lastmodified":1472619401,
+    "wof:lastmodified":1510943940,
     "wof:name":"Scalini's Italian Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722880389
+    ],
     "wof:tags":[
         "italian"
     ]

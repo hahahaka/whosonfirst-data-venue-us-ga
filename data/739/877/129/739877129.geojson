@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.753662,33.891355,-84.753662,33.891355",
     "geom:latitude":33.891355,
     "geom:longitude":-84.753662,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4471 Jimmy Lee Smith Pkwy",
     "sg:city":"Hiram",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461918954,
-    "wof:geomhash":"9da0fd7d960833efeba096b52b9269a2",
+    "wof:geomhash":"842998fb727aab5fa960ce10616327c5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":739877129,
-    "wof:lastmodified":1472619474,
+    "wof:lastmodified":1510944200,
     "wof:name":"Staples",
     "wof:parent_id":85835843,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739876807
+    ],
     "wof:tags":[
         "equipment"
     ]

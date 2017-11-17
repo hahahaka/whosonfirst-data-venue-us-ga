@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.307799,33.808875,-84.307799,33.808875",
     "geom:latitude":33.808875,
     "geom:longitude":-84.307799,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1276 Mcconnell Dr Ste A",
     "sg:city":"Decatur",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915693,
-    "wof:geomhash":"c2c68c7f00d26e5c9553023e57d52f4e",
+    "wof:geomhash":"fce0fe135775ac2bea52b8eccaa38cc9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":739798057,
-    "wof:lastmodified":1472619345,
+    "wof:lastmodified":1510942544,
     "wof:name":"Toco Hills Urgent Care",
     "wof:parent_id":85890013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739424361
+    ],
     "wof:tags":[]
 },
   "bbox": [

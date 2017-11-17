@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.170831,33.98528,-84.170831,33.98528",
     "geom:latitude":33.98528,
     "geom:longitude":-84.170831,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3990 Peachtree Industrial Blvd Ste 100",
     "sg:city":"Duluth",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461918283,
-    "wof:geomhash":"a41e5853b263e95b82a85649794fcb84",
+    "wof:geomhash":"f302d2c3e48a611c7989892e4c92bcfd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":739859261,
-    "wof:lastmodified":1472619469,
+    "wof:lastmodified":1510942646,
     "wof:name":"Berkeley Lake Pet Boutique",
     "wof:parent_id":85826369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739856175
+    ],
     "wof:tags":[
         "store"
     ]

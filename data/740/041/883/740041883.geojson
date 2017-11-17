@@ -7,13 +7,16 @@
     "addr:postcode":"30809",
     "addr:street":"N Belair Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.130632,33.531717,-82.130632,33.531717",
     "geom:latitude":33.531717,
     "geom:longitude":-82.130632,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"464 N Belair Rd",
     "sg:city":"Evans",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461925711,
-    "wof:geomhash":"0e8bff83a84f26dd6e1bf206006ea6cc",
+    "wof:geomhash":"3aa2aebd83e4426618db44d5aff3f331",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":740041883,
-    "wof:lastmodified":1472618033,
+    "wof:lastmodified":1510944164,
     "wof:name":"Fatz Cafe",
     "wof:parent_id":85868555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739771251
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

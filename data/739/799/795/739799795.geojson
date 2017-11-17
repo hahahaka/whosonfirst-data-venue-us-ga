@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.178611,33.704979,-84.178611,33.704979",
     "geom:latitude":33.704979,
     "geom:longitude":-84.178611,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5200 Panola Industrial Blvd",
     "sg:city":"Decatur",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915769,
-    "wof:geomhash":"56cc67b7cbb8779f4487916a1b2d9aaa",
+    "wof:geomhash":"b10f8268933fe26e0177aabebb9b8423",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":739799795,
-    "wof:lastmodified":1472619377,
+    "wof:lastmodified":1510942494,
     "wof:name":"Comcast",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739800179
+    ],
     "wof:tags":[]
 },
   "bbox": [

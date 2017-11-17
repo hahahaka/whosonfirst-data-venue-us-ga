@@ -7,13 +7,16 @@
     "addr:postcode":"30060",
     "addr:street":"Cobb Pkwy S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.499981,33.916849,-84.499981,33.916849",
     "geom:latitude":33.916849,
     "geom:longitude":-84.499981,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1355 Cobb Pkwy S",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461904484,
-    "wof:geomhash":"4af17d84f382721559b536c4d7571ecc",
+    "wof:geomhash":"bd59f9b9b14a73e0b0a7549c8e6e8228",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":739296113,
-    "wof:lastmodified":1472618040,
+    "wof:lastmodified":1510942200,
     "wof:name":"Nalley Acura",
     "wof:parent_id":85845875,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739819133
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "car",

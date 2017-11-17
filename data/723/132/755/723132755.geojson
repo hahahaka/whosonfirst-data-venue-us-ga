@@ -7,13 +7,16 @@
     "addr:postcode":"30097",
     "addr:street":"E Johns Xing",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.165174,34.063231,-84.165174,34.063231",
     "geom:latitude":34.063231,
     "geom:longitude":-84.165174,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6455 E Johns Xing",
     "sg:city":"Duluth",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461895749,
-    "wof:geomhash":"4c0fa289563eb7e6ce5b267703959231",
+    "wof:geomhash":"8cf2c74bc572f4b93e5707b75f43329b",
     "wof:hierarchy":[],
     "wof:id":723132755,
-    "wof:lastmodified":1472618353,
+    "wof:lastmodified":1510942565,
     "wof:name":"A G Edwards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739859767
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "security"

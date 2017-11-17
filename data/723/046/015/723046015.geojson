@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.17942,33.569394,-83.17942,33.569394",
     "geom:latitude":33.569394,
     "geom:longitude":-83.17942,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1340 Martin Luther King Jr Dr",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"US",
     "wof:created":1461893932,
-    "wof:geomhash":"5c4b40519da1c699a59cb746b5cfee43",
+    "wof:geomhash":"65c3abdd3b24bd76a133fe07187522ad",
     "wof:hierarchy":[],
     "wof:id":723046015,
-    "wof:lastmodified":1472618026,
+    "wof:lastmodified":1510943295,
     "wof:name":"MLK Market",
     "wof:parent_id":420518027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740035409
+    ],
     "wof:tags":[
         "grocer"
     ]

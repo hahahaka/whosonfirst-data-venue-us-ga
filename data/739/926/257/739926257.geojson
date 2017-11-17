@@ -15,6 +15,7 @@
     "geom:longitude":-84.372679,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3365 Piedmont Rd NE #1350",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920856,
-    "wof:geomhash":"0cc6eb6f861c4e0974f8886c6aa8b134",
+    "wof:geomhash":"d4b9071cb716e3f0e279da58c73c7c5e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":739926257,
-    "wof:lastmodified":1486671536,
+    "wof:lastmodified":1510942987,
     "wof:name":"Copeland's",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739767935
+    ],
     "wof:tags":[
         "cajun/creole"
     ]

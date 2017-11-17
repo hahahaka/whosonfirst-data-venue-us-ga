@@ -7,13 +7,16 @@
     "addr:postcode":"30044",
     "addr:street":"Sugarloaf Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.017018,33.922484,-84.017018,33.922484",
     "geom:latitude":33.922484,
     "geom:longitude":-84.017018,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3375 Sugarloaf Pkwy",
     "sg:city":"Lawrenceville",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916163,
-    "wof:geomhash":"327f216ec62bb9d83debba927d20fe84",
+    "wof:geomhash":"5606e483b5f807ac3bd35363a65e09f6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -45,12 +48,14 @@
         }
     ],
     "wof:id":739807103,
-    "wof:lastmodified":1472619356,
+    "wof:lastmodified":1510942403,
     "wof:name":"Johnny's New York Style Pizza",
     "wof:parent_id":85808181,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739806429
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

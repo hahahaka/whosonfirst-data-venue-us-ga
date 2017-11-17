@@ -7,13 +7,16 @@
     "addr:postcode":"30076",
     "addr:street":"Alpharetta Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.320377,34.065286,-84.320377,34.065286",
     "geom:latitude":34.065286,
     "geom:longitude":-84.320377,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11660 Alpharetta Hwy",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461904882,
-    "wof:geomhash":"6d5a18dfdcd86f84170088d2b416bd25",
+    "wof:geomhash":"13797b68f17118dfb7a50837387b7c5a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":739315933,
-    "wof:lastmodified":1472618141,
+    "wof:lastmodified":1510942581,
     "wof:name":"Alpharetta Pediatrics",
     "wof:parent_id":85851631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739836551
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "pediatrician"

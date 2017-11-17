@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.991096,33.968201,-83.991096,33.968201",
     "geom:latitude":33.968201,
     "geom:longitude":-83.991096,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"478 Northdale Rd Ste 302",
     "sg:city":"Lawrenceville",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916232,
-    "wof:geomhash":"17303c7973c3aa28a6d21fdc9a309c55",
+    "wof:geomhash":"c2cc57f275ffeef0eae689be8f805f9d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":739808709,
-    "wof:lastmodified":1472619373,
+    "wof:lastmodified":1510943566,
     "wof:name":"Gs Construction Inc",
     "wof:parent_id":85847023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739396497
+    ],
     "wof:tags":[
         "contractor"
     ]

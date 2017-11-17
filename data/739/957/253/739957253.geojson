@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.303625,33.697928,-84.303625,33.697928",
     "geom:latitude":33.697928,
     "geom:longitude":-84.303625,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3113 Gresham Road SE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -44,16 +46,18 @@
     },
     "wof:country":"US",
     "wof:created":1461922271,
-    "wof:geomhash":"7513bf78cf3a91550e1bac781293b8dd",
+    "wof:geomhash":"1251289f4fa7329d198a47ea1c28cad1",
     "wof:hierarchy":[],
     "wof:id":739957253,
-    "wof:lastmodified":1472619636,
+    "wof:lastmodified":1510941173,
     "wof:name":"Dekalb County Government",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739956581
+    ],
     "wof:tags":[
         "amateur",
         "team"

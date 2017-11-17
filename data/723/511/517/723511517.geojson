@@ -7,6 +7,7 @@
     "addr:postcode":"30084",
     "addr:street":"Lavista Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.24874,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"4135 Lavista Rd",
     "sg:city":"Tucker",
     "sg:classifiers":[
@@ -46,12 +47,14 @@
     "wof:geomhash":"038a40172265c18d2877f56fe984c29a",
     "wof:hierarchy":[],
     "wof:id":723511517,
-    "wof:lastmodified":1510602728,
+    "wof:lastmodified":1510943713,
     "wof:name":"Fastsigns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739847237
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "advertising",

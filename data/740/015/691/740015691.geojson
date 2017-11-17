@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.3489,33.99494,-84.3489,33.99494",
     "geom:latitude":33.99494,
     "geom:longitude":-84.3489,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8775 Dunwoody Pl",
     "sg:city":"Atlanta",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924533,
-    "wof:geomhash":"28070416b33c5f433f0a0ed9eb1dc620",
+    "wof:geomhash":"fd985afb4619677b8122379566761a82",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":740015691,
-    "wof:lastmodified":1472617890,
+    "wof:lastmodified":1510944033,
     "wof:name":"Sharon United Methodist Church",
     "wof:parent_id":85889973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740015565
+    ],
     "wof:tags":[]
 },
   "bbox": [

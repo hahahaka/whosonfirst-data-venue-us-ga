@@ -7,13 +7,16 @@
     "addr:postcode":"31707",
     "addr:street":"Dawson Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.217823,31.614867,-84.217823,31.614867",
     "geom:latitude":31.614867,
     "geom:longitude":-84.217823,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2601 Dawson Rd",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461885867,
-    "wof:geomhash":"245c5171bfc724e9a67de2fa8650ca66",
+    "wof:geomhash":"6f93ce3342159129cdc60dd57a695198",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":722641355,
-    "wof:lastmodified":1472618116,
+    "wof:lastmodified":1510942189,
     "wof:name":"Auntie Annes",
     "wof:parent_id":85842573,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739774201
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mfg"

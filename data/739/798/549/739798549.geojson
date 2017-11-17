@@ -7,13 +7,16 @@
     "addr:postcode":"30034",
     "addr:street":"Candler Rd Ste 53",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.271896,33.709702,-84.271896,33.709702",
     "geom:latitude":33.709702,
     "geom:longitude":-84.271896,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2801 Candler Rd Ste 53",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915716,
-    "wof:geomhash":"639de973d16af655a08be8e26c5e3a41",
+    "wof:geomhash":"b5e778cf457e0e41a8eb2dbd30771a7c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +59,17 @@
         }
     ],
     "wof:id":739798549,
-    "wof:lastmodified":1472619372,
+    "wof:lastmodified":1510943815,
     "wof:name":"Fashion Villa",
     "wof:parent_id":85816491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739798367
+    ],
+    "wof:supersedes":[
+        723484931
+    ],
     "wof:tags":[
         "accessory",
         "clothing",

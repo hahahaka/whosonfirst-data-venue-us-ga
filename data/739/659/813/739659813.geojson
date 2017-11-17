@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.664344,32.874637,-83.664344,32.874637",
     "geom:latitude":32.874637,
     "geom:longitude":-83.664344,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"900 Burrus Rd",
     "sg:city":"Macon",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461911737,
-    "wof:geomhash":"1f0fc4b89cabf94fd2eb30e8506c8476",
+    "wof:geomhash":"a110f7435625419a8148cb3baaf8cde5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":739659813,
-    "wof:lastmodified":1472619050,
+    "wof:lastmodified":1510943574,
     "wof:name":"Sho Gun Japanese Bar & Grill",
     "wof:parent_id":85838473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740054533
+    ],
     "wof:tags":[
         "eating"
     ]

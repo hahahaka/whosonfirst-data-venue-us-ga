@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.026468,33.879457,-84.026468,33.879457",
     "geom:latitude":33.879457,
     "geom:longitude":-84.026468,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1700 Tree Ln Ste 290",
     "sg:city":"Snellville",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461917490,
-    "wof:geomhash":"db905865ef9a137e6a141d27b91af00f",
+    "wof:geomhash":"361cba30b45e740dfe4f475bc0804124",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":739839973,
-    "wof:lastmodified":1472619458,
+    "wof:lastmodified":1510943312,
     "wof:name":"Gwinnett OB-Gyn Associates PC",
     "wof:parent_id":85857829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723214743
+    ],
     "wof:tags":[
         "obstetrician",
         "gynecologist"

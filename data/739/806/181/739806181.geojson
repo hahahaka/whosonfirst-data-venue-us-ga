@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.027091,33.969294,-84.027091,33.969294",
     "geom:latitude":33.969294,
     "geom:longitude":-84.027091,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"909 Parkside Walk Ln",
     "sg:city":"Lawrenceville",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916116,
-    "wof:geomhash":"d6f63a41719316177f9348477dbd12b4",
+    "wof:geomhash":"1ad8da77bc32e34b12c9ba1db91a5e28",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":739806181,
-    "wof:lastmodified":1472619363,
+    "wof:lastmodified":1510944097,
     "wof:name":"Diggers Sports Grill",
     "wof:parent_id":85851103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739763371
+    ],
     "wof:tags":[]
 },
   "bbox": [

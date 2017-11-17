@@ -7,6 +7,7 @@
     "addr:postcode":"30327",
     "addr:street":"Downwood Cir Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.426422,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3200 Downwood Cir NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461913499,
-    "wof:geomhash":"c53b8d932cbf14f98663e82d43dca9ca",
+    "wof:geomhash":"52ee48969d6c62e24e60fa323a05ec32",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +67,14 @@
         }
     ],
     "wof:id":739743257,
-    "wof:lastmodified":1486668511,
+    "wof:lastmodified":1510944139,
     "wof:name":"Atlanta Spine Institute",
     "wof:parent_id":85872137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739973449
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

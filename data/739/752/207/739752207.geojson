@@ -7,13 +7,16 @@
     "addr:postcode":"30328",
     "addr:street":"Sandy Springs Cir Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.379275,33.926684,-84.379275,33.926684",
     "geom:latitude":33.926684,
     "geom:longitude":-84.379275,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"334 Sandy Springs Cir NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461913793,
-    "wof:geomhash":"bc26e0a78989da5ac6df450234345fe5",
+    "wof:geomhash":"af2ef7be8ad85fc602663fb8ff4017d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":739752207,
-    "wof:lastmodified":1472619211,
+    "wof:lastmodified":1510943242,
     "wof:name":"Little European Bakery",
     "wof:parent_id":420517927,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739977829
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "baker"

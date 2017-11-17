@@ -7,6 +7,7 @@
     "addr:postcode":"30309",
     "addr:street":"Peachtree St Ne Ste 2800",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.383024,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1100 Peachtree St NE Ste 2800",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921489,
-    "wof:geomhash":"f06598801d47a643a21f45d47263b817",
+    "wof:geomhash":"ec98f5b1c18a30a46d11cc1057e48b4c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,12 +75,14 @@
         }
     ],
     "wof:id":739940575,
-    "wof:lastmodified":1486671269,
+    "wof:lastmodified":1510943699,
     "wof:name":"Biafore Thomas J /Atty",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739944619
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney",

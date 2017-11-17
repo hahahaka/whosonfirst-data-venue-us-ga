@@ -7,13 +7,16 @@
     "addr:postcode":"31904",
     "addr:street":"Armour Rd Bldg E",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.95373,32.510732,-84.95373,32.510732",
     "geom:latitude":32.510732,
     "geom:longitude":-84.95373,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4800 Armour Rd Bldg E",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461927114,
-    "wof:geomhash":"01f426d6086e879b3fa5fa1213c61581",
+    "wof:geomhash":"f67fccdf370f8c0fb1c3c46f3fa583cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":740073643,
-    "wof:lastmodified":1472618232,
+    "wof:lastmodified":1510941500,
     "wof:name":"Cosgrove Gaus And Company Inc",
     "wof:parent_id":85828445,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723238357
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "bookkeeping"

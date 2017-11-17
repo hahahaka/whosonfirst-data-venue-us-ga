@@ -7,13 +7,16 @@
     "addr:postcode":"30316",
     "addr:street":"Moreland Ave Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.349454,33.721841,-84.349454,33.721841",
     "geom:latitude":33.721841,
     "geom:longitude":-84.349454,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1160 Moreland Ave SE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461913515,
-    "wof:geomhash":"8cbef970b47c04d8bf1732e1737d9754",
+    "wof:geomhash":"027bdc7ea87a97b0fce19673cb42900d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":739744113,
-    "wof:lastmodified":1472619187,
+    "wof:lastmodified":1510942895,
     "wof:name":"Kroger",
     "wof:parent_id":85872151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739955809
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"

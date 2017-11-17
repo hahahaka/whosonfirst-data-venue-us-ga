@@ -7,13 +7,16 @@
     "addr:postcode":"31088",
     "addr:street":"Hospital Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.629439,32.618111,-83.629439,32.618111",
     "geom:latitude":32.618111,
     "geom:longitude":-83.629439,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"100 Hospital Dr",
     "sg:city":"Warner Robins",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461926213,
-    "wof:geomhash":"4f7d13d27fd648676e1266221513fe79",
+    "wof:geomhash":"1d342cf13c02b1f00e41f8ba76a1a85d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":740052335,
-    "wof:lastmodified":1472618119,
+    "wof:lastmodified":1510943675,
     "wof:name":"Prinnie-Mack Coffee Co.",
     "wof:parent_id":85826507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740052407
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

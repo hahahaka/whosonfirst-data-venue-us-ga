@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.310988,34.016992,-84.310988,34.016992",
     "geom:latitude":34.016992,
     "geom:longitude":-84.310988,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1590 Holcomb Bridge Rd Ste 400",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461917353,
-    "wof:geomhash":"709b986d8fe785b8fb634302fa993166",
+    "wof:geomhash":"02aa95a37766eb80c8dc9b6efc32bc16",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":739836397,
-    "wof:lastmodified":1472619437,
+    "wof:lastmodified":1510943356,
     "wof:name":"Ideal Jewelry & Pawn",
     "wof:parent_id":85889949,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739838109
+    ],
     "wof:tags":[]
 },
   "bbox": [

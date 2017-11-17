@@ -7,13 +7,16 @@
     "addr:postcode":"30328",
     "addr:street":"Sandy;Pl Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.381727,33.921544,-84.381727,33.921544",
     "geom:latitude":33.921544,
     "geom:longitude":-84.381727,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"227 Sandy Springs Pl NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914774,
-    "wof:geomhash":"6881c3c02c5f63188f5e16dbcff8e72f",
+    "wof:geomhash":"35fdc52da91c05ac1e8c1a988c6510a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":739775783,
-    "wof:lastmodified":1472619319,
+    "wof:lastmodified":1510943145,
     "wof:name":"J. Christopher's",
     "wof:parent_id":85889967,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739973779
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american"

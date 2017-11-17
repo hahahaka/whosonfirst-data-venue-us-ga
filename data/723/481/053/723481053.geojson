@@ -7,13 +7,16 @@
     "addr:postcode":"30327",
     "addr:street":"Powers Ferry Rd Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.432529,33.90399,-84.432529,33.90399",
     "geom:latitude":33.90399,
     "geom:longitude":-84.432529,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6425 Powers Ferry Rd NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461902558,
-    "wof:geomhash":"f996958f38c1a51a3fb3b732084ff328",
+    "wof:geomhash":"ed4f29c507464ed1782effeb04fa2ab9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":723481053,
-    "wof:lastmodified":1472619254,
+    "wof:lastmodified":1510943393,
     "wof:name":"F L G Express",
     "wof:parent_id":85890005,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739990393
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "forwarding"

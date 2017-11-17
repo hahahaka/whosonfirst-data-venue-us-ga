@@ -15,6 +15,7 @@
     "geom:longitude":-84.368853,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3340 Peachtree Rd NE Ste 8",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922711,
-    "wof:geomhash":"68ff0eae077b3151c6f88e3dfe0142b7",
+    "wof:geomhash":"5d864039a7ca777903e345a0f024ad3d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":739969013,
-    "wof:lastmodified":1486668529,
+    "wof:lastmodified":1510941369,
     "wof:name":"Tower Cafe",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739970917
+    ],
     "wof:tags":[
         "print",
         "medium"

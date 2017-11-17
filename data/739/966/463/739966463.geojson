@@ -7,6 +7,7 @@
     "addr:postcode":"30324",
     "addr:street":"Piedmont Rd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.366997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2625 Piedmont Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -57,7 +59,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922624,
-    "wof:geomhash":"60e72d80c2db38adb19d1b032b807e36",
+    "wof:geomhash":"71d99f9ecc2433115aaea91e9d4c7d16",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,13 +73,17 @@
         }
     ],
     "wof:id":739966463,
-    "wof:lastmodified":1486668451,
+    "wof:lastmodified":1510942706,
     "wof:name":"Ross Dress For Less",
     "wof:parent_id":85872095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739965347
+    ],
+    "wof:supersedes":[
+        739450621
+    ],
     "wof:tags":[
         "children's",
         "women's",

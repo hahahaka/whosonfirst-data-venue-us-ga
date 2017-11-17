@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.294357,34.110538,-84.294357,34.110538",
     "geom:latitude":34.110538,
     "geom:longitude":-84.294357,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13580 Hopewell Rd",
     "sg:city":"Alpharetta",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914866,
-    "wof:geomhash":"1d5e79db22482b2be1d9a725d2cf559a",
+    "wof:geomhash":"c2d21dc139fe75f55f9e27463d97cf03",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":739778197,
-    "wof:lastmodified":1472619280,
+    "wof:lastmodified":1510942190,
     "wof:name":"Chandler Academy",
     "wof:parent_id":85854917,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723361371
+    ],
     "wof:tags":[]
 },
   "bbox": [

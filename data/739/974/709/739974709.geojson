@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.383433,33.920474,-84.383433,33.920474",
     "geom:latitude":33.920474,
     "geom:longitude":-84.383433,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"227 Sandy Springs Pl NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922934,
-    "wof:geomhash":"ee02bfa6138d776d66ccaabb06028b3a",
+    "wof:geomhash":"5e2d5e04cf15b193f1fc880b7b0bb4d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,16 @@
         }
     ],
     "wof:id":739974709,
-    "wof:lastmodified":1472619669,
+    "wof:lastmodified":1510943110,
     "wof:name":"Potpourri of Sandy Springs",
     "wof:parent_id":85889967,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739974593,
+        722579399
+    ],
     "wof:tags":[
         "accessory",
         "clothing",

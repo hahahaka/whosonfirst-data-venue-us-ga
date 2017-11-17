@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.199388,33.909079,-84.199388,33.909079",
     "geom:latitude":33.909079,
     "geom:longitude":-84.199388,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6000 Live Oak Pkwy",
     "sg:city":"Norcross",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461918086,
-    "wof:geomhash":"565789be4cfecdd1525a09a9eb2e009b",
+    "wof:geomhash":"7306f622fc18c18dac87c4e89cccda89",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":739854385,
-    "wof:lastmodified":1472619456,
+    "wof:lastmodified":1510944077,
     "wof:name":"Omega Residential Cleaning Inc",
     "wof:parent_id":85803655,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722721629
+    ],
     "wof:tags":[
         "home"
     ]

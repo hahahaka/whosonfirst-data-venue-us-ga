@@ -7,13 +7,16 @@
     "addr:postcode":"30906",
     "addr:street":"Augusta Tech Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.054233,33.425205,-82.054233,33.425205",
     "geom:latitude":33.425205,
     "geom:longitude":-82.054233,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3114 Augusta Tech Dr",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461925845,
-    "wof:geomhash":"7da77c645de76d25151dc4ca9a76d8bd",
+    "wof:geomhash":"373eefe7bbb601233f0baa584e8cc1c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":740045153,
-    "wof:lastmodified":1472618064,
+    "wof:lastmodified":1510941878,
     "wof:name":"Augusta Shopper",
     "wof:parent_id":420518199,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722804443
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

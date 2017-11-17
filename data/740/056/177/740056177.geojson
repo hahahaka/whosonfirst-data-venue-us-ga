@@ -7,13 +7,16 @@
     "addr:postcode":"31302",
     "addr:street":"Ash St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.295914,32.125129,-81.295914,32.125129",
     "geom:latitude":32.125129,
     "geom:longitude":-81.295914,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"310 Ash St",
     "sg:city":"Bloomingdale",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461926361,
-    "wof:geomhash":"482c13fb99278cc82e9aa23aefb49960",
+    "wof:geomhash":"243e618b7da8319e3903b15229ad8cec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":740056177,
-    "wof:lastmodified":1472618122,
+    "wof:lastmodified":1510942021,
     "wof:name":"Ash Street Baptist Church",
     "wof:parent_id":420517409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739362347
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

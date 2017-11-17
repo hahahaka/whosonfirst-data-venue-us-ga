@@ -15,6 +15,7 @@
     "geom:longitude":-84.389469,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"34 Peachtree Street NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -54,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920757,
-    "wof:geomhash":"b6110867d8455e79a931ffb4ebfdce0a",
+    "wof:geomhash":"7842c5c0dd32814fe611b8830bd0d5c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,13 +70,15 @@
         }
     ],
     "wof:id":739924273,
-    "wof:lastmodified":1486672876,
+    "wof:lastmodified":1510943021,
     "wof:name":"Carlsten Pucciano & English Architects",
     "wof:parent_id":1108797055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739748123
+    ],
     "wof:tags":[
         "interior",
         "design"

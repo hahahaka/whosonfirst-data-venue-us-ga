@@ -7,13 +7,16 @@
     "addr:postcode":"30076",
     "addr:street":"Mansell Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.293064,34.037317,-84.293064,34.037317",
     "geom:latitude":34.037317,
     "geom:longitude":-84.293064,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3780 Mansell Rd",
     "sg:city":"Alpharetta",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461901809,
-    "wof:geomhash":"e33157b15a31c5c80c82f81f85b01d38",
+    "wof:geomhash":"bdbe7600c89c7d4318d0a956cbb015f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":723442393,
-    "wof:lastmodified":1472619191,
+    "wof:lastmodified":1510942739,
     "wof:name":"J Thomas Salata",
     "wof:parent_id":85836903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739788517
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

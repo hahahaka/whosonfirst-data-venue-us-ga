@@ -7,13 +7,16 @@
     "addr:postcode":"30518",
     "addr:street":"Buford Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.010269,34.09362,-84.010269,34.09362",
     "geom:latitude":34.09362,
     "geom:longitude":-84.010269,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4300 Buford Dr",
     "sg:city":"Buford",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924910,
-    "wof:geomhash":"8f6e247a5a8a38f70ae9ce00dc0265b5",
+    "wof:geomhash":"61f9831735ae8a2caa783142ff7bec99",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +58,17 @@
         }
     ],
     "wof:id":740025607,
-    "wof:lastmodified":1472617972,
+    "wof:lastmodified":1510942911,
     "wof:name":"T's Nail Salon",
     "wof:parent_id":85820775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739315257
+    ],
+    "wof:supersedes":[
+        740025183
+    ],
     "wof:tags":[]
 },
   "bbox": [

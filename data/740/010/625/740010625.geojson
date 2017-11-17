@@ -15,6 +15,7 @@
     "geom:longitude":-84.335234,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3 Ravinia Dr Ste 1450",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924339,
-    "wof:geomhash":"509c439cef79af8088112346ab0be4db",
+    "wof:geomhash":"d0f6681df458b006e224573df93dcb9b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,13 +68,15 @@
         }
     ],
     "wof:id":740010625,
-    "wof:lastmodified":1491914212,
+    "wof:lastmodified":1510941318,
     "wof:name":"Friend, Hudak & Harris, LLP",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740010279
+    ],
     "wof:tags":[]
 },
   "bbox": [

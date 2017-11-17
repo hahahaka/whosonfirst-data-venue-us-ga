@@ -7,13 +7,16 @@
     "addr:postcode":"30341",
     "addr:street":"Airport Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.308474,33.876502,-84.308474,33.876502",
     "geom:latitude":33.876502,
     "geom:longitude":-84.308474,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1954 Airport Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923956,
-    "wof:geomhash":"092f9545730cc0287367cb8c198339c7",
+    "wof:geomhash":"10fcfdc177726d3e7ff864dfdf1004f4",
     "wof:hierarchy":[
         {
             "campus_id":102525899,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":740000753,
-    "wof:lastmodified":1472617878,
+    "wof:lastmodified":1510943436,
     "wof:name":"Flight Safety International",
     "wof:parent_id":102525899,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722774489
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "aircraft",

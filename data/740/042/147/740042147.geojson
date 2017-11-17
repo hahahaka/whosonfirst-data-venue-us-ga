@@ -7,13 +7,16 @@
     "addr:postcode":"30809",
     "addr:street":"Washington Rd Ste A",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.131438,33.539406,-82.131438,33.539406",
     "geom:latitude":33.539406,
     "geom:longitude":-82.131438,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4336 Washington Rd Ste A",
     "sg:city":"Evans",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461925727,
-    "wof:geomhash":"9c3ae68f8c13da77c82ecf8045def7d4",
+    "wof:geomhash":"2da08da65ca79a127c954b5af7100721",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":740042147,
-    "wof:lastmodified":1472618016,
+    "wof:lastmodified":1510941488,
     "wof:name":"What-Ever A Unique Boutique",
     "wof:parent_id":85868555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739423543
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

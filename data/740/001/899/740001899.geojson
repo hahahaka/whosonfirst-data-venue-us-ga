@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.354752,33.906109,-84.354752,33.906109",
     "geom:latitude":33.906109,
     "geom:longitude":-84.354752,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5455 Meridian Marks Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923999,
-    "wof:geomhash":"bf95eabdb9c78e6c776c579373575eed",
+    "wof:geomhash":"03c4870b56692532c0c5171b7ba8b215",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":740001899,
-    "wof:lastmodified":1472617870,
+    "wof:lastmodified":1510942784,
     "wof:name":"Jurkiewicz, M J MD",
     "wof:parent_id":85890019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740004199
+    ],
     "wof:tags":[
         "physician",
         "reconstructive",

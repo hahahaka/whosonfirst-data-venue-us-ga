@@ -7,13 +7,16 @@
     "addr:postcode":"30034",
     "addr:street":"Calumet Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.24102,33.702974,-84.24102,33.702974",
     "geom:latitude":33.702974,
     "geom:longitude":-84.24102,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3675 Calumet Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461886133,
-    "wof:geomhash":"a4e0bc77fbc7ed070cec8c3bceb1a455",
+    "wof:geomhash":"33c7ccc6f7f00b8b1d8c45c01f9d3553",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":722655983,
-    "wof:lastmodified":1472618295,
+    "wof:lastmodified":1510941178,
     "wof:name":"Vacation Intrln Plnnrs Trvl",
     "wof:parent_id":85816491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739798765
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery"

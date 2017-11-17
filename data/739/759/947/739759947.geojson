@@ -7,13 +7,16 @@
     "addr:postcode":"30097",
     "addr:street":"Medlock Bridge Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.191113,34.014876,-84.191113,34.014876",
     "geom:latitude":34.014876,
     "geom:longitude":-84.191113,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9590 Medlock Bridge Rd",
     "sg:city":"Duluth",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914132,
-    "wof:geomhash":"4a2bfd439714982e37c54376119c49ab",
+    "wof:geomhash":"091c7dfeb00c22cd7bbc5e5d23515ec4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":739759947,
-    "wof:lastmodified":1472619313,
+    "wof:lastmodified":1510941720,
     "wof:name":"Slone, Anglea DMD",
     "wof:parent_id":85854579,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739859615
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dental",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.028029,33.44138,-82.028029,33.44138",
     "geom:latitude":33.44138,
     "geom:longitude":-82.028029,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1759 Gordon Hwy",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461898222,
-    "wof:geomhash":"76b65231b2a2ddc3e558856fa3d89e18",
+    "wof:geomhash":"4e9429a7e5649173495be7f42879895f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":723255413,
-    "wof:lastmodified":1472618695,
+    "wof:lastmodified":1510943805,
     "wof:name":"Rent-A-Center",
     "wof:parent_id":85838489,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740044421
+    ],
     "wof:tags":[
         "home",
         "electronics",

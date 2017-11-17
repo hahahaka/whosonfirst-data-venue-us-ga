@@ -7,6 +7,7 @@
     "addr:postcode":"30303",
     "addr:street":"Peachtree St Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.389503,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"34 Peachtree St NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461913639,
-    "wof:geomhash":"41b1bb29084fe9988c6a9afd9e11da2d",
+    "wof:geomhash":"14df22995eb1b71fea880ac570623b39",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":739748123,
-    "wof:lastmodified":1486669280,
+    "wof:lastmodified":1510943021,
     "wof:name":"Carlsten Pucciano & English Architects",
     "wof:parent_id":85866901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739924273
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "architecture"

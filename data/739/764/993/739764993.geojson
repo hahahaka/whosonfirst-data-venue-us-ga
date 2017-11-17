@@ -7,13 +7,16 @@
     "addr:postcode":"30093",
     "addr:street":"Jimmy Carter Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.204677,33.90902,-84.204677,33.90902",
     "geom:latitude":33.90902,
     "geom:longitude":-84.204677,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5495 Jimmy Carter Blvd",
     "sg:city":"Norcross",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914339,
-    "wof:geomhash":"59b7a249649d1949f43b11a3b2f0e0d9",
+    "wof:geomhash":"22d3acad03b182f8935d2e1ecc7781d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":739764993,
-    "wof:lastmodified":1472619324,
+    "wof:lastmodified":1510944186,
     "wof:name":"Kokai Thai Bistro",
     "wof:parent_id":85803655,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739854593
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "thai",

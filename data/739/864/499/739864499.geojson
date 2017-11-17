@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.601972,33.856013,-84.601972,33.856013",
     "geom:latitude":33.856013,
     "geom:longitude":-84.601972,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1700 Hospital South Dr Ste 500",
     "sg:city":"Austell",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461918476,
-    "wof:geomhash":"67b78949a93cf4fbe80d0cd4b7a9dc07",
+    "wof:geomhash":"ec38895b7e330ee1c04cefd0da3e4255",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":739864499,
-    "wof:lastmodified":1472619491,
+    "wof:lastmodified":1510942781,
     "wof:name":"South Cobb OB Gyn",
     "wof:parent_id":85852043,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739864135
+    ],
     "wof:tags":[
         "obstetrician",
         "gynecologist"

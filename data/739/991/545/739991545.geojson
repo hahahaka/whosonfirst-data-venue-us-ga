@@ -7,13 +7,16 @@
     "addr:postcode":"30339",
     "addr:street":"Galleria Pkwy Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.464119,33.88541,-84.464119,33.88541",
     "geom:latitude":33.88541,
     "geom:longitude":-84.464119,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"200 Galleria Pkwy SE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923608,
-    "wof:geomhash":"02f8b093ad1166b397390fbbf5aea9c0",
+    "wof:geomhash":"ef7a57c971e2c919794bc1c32f04fe49",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":739991545,
-    "wof:lastmodified":1472619702,
+    "wof:lastmodified":1510943754,
     "wof:name":"Galleria Dry Cleaners",
     "wof:parent_id":85813197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739990673
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaner",

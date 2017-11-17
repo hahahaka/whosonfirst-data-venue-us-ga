@@ -7,6 +7,7 @@
     "addr:postcode":"30342",
     "addr:street":"W Wieuca Rd Ne # 107",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.3805,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"173 W Wieuca Rd NE # 107",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -59,7 +61,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923993,
-    "wof:geomhash":"cef5512f736d31a30162da61dab954a2",
+    "wof:geomhash":"dd89c9a7844053ecb891b350cf480cc0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,12 +84,14 @@
         }
     ],
     "wof:id":740001715,
-    "wof:lastmodified":1486672291,
+    "wof:lastmodified":1510942923,
     "wof:name":"Andrew Garrett Inc",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723465781
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "transfer",

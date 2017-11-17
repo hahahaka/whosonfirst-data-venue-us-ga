@@ -7,13 +7,16 @@
     "addr:postcode":"31204",
     "addr:street":"Burrus Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.665894,32.873373,-83.665894,32.873373",
     "geom:latitude":32.873373,
     "geom:longitude":-83.665894,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"900 Burrus Rd",
     "sg:city":"Macon",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461926298,
-    "wof:geomhash":"00604392d0b2f77b0e0e8c7853bbd3fc",
+    "wof:geomhash":"ee9610f883d8ed447c32d30a3369db28",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":740054533,
-    "wof:lastmodified":1472618149,
+    "wof:lastmodified":1510943574,
     "wof:name":"Sho Gun Japanese Bar & Grill",
     "wof:parent_id":85838473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739659813
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

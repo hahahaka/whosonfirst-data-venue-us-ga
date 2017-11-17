@@ -7,13 +7,16 @@
     "addr:postcode":"30030",
     "addr:street":"Winn Way Suite 101",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.279785,33.784773,-84.279785,33.784773",
     "geom:latitude":33.784773,
     "geom:longitude":-84.279785,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"320 Winn Way Suite 101",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915493,
-    "wof:geomhash":"d48f1b433d20c1dc326e7cee26d6b066",
+    "wof:geomhash":"a607a620d04d83ddd7826ab90a048d08",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":739793213,
-    "wof:lastmodified":1472619340,
+    "wof:lastmodified":1510943130,
     "wof:name":"Center For Holistic Health",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739793315
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

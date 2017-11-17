@@ -7,13 +7,16 @@
     "addr:postcode":"30022",
     "addr:street":"Royal Blvd S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.271997,34.053455,-84.271997,34.053455",
     "geom:latitude":34.053455,
     "geom:longitude":-84.271997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3050 Royal Blvd S",
     "sg:city":"Alpharetta",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461895713,
-    "wof:geomhash":"dad2f15568b62ff1cdb2908187278be0",
+    "wof:geomhash":"2b98e3a2c5c0b70f26e9b59d76ce1d04",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":723130699,
-    "wof:lastmodified":1472618353,
+    "wof:lastmodified":1510942361,
     "wof:name":"Salcon Inc",
     "wof:parent_id":85843117,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723256383
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant",

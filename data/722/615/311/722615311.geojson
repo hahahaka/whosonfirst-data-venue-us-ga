@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.425715,33.681414,-84.425715,33.681414",
     "geom:latitude":33.681414,
     "geom:longitude":-84.425715,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1136 Cleveland Ave",
     "sg:city":"East Point",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461885269,
-    "wof:geomhash":"3146fdc817c15d333d7176cea13c56e5",
+    "wof:geomhash":"19adedc4bb3281c9dcc2e043751e199f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":722615311,
-    "wof:lastmodified":1472618069,
+    "wof:lastmodified":1510941498,
     "wof:name":"Orthopaedics Of Atlanta",
     "wof:parent_id":420517885,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740006651
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

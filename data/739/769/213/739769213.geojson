@@ -15,6 +15,7 @@
     "geom:longitude":-84.33938,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"94 Perimeter Ctr W",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914514,
-    "wof:geomhash":"32aa6bb7450495e6e16aa5fb77a19f8b",
+    "wof:geomhash":"d2c9a429adb26ef525475f149f5b3d18",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,13 +72,15 @@
         }
     ],
     "wof:id":739769213,
-    "wof:lastmodified":1491914209,
+    "wof:lastmodified":1510943873,
     "wof:name":"Wildfire",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740011565
+    ],
     "wof:tags":[
         "american",
         "steakhouse"

@@ -7,13 +7,16 @@
     "addr:postcode":"30032",
     "addr:street":"Glenwood Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.233983,33.737276,-84.233983,33.737276",
     "geom:latitude":33.737276,
     "geom:longitude":-84.233983,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4525 Glenwood Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461909052,
-    "wof:geomhash":"9f8e404f1bd3a6e8aabb6b710f434a80",
+    "wof:geomhash":"48963a720286d1c46553b9bdbec76966",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":739534481,
-    "wof:lastmodified":1472618671,
+    "wof:lastmodified":1510942988,
     "wof:name":"Yong's Place",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739795285
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "designer"

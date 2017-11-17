@@ -15,6 +15,7 @@
     "geom:longitude":-84.363457,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"690 Courtenay Dr NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[],
@@ -38,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921105,
-    "wof:geomhash":"d9115825282e4dc5e5493ce35096e746",
+    "wof:geomhash":"2e786ebcd77bd3548441d7bb85d5d769",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,13 +52,15 @@
         }
     ],
     "wof:id":739931837,
-    "wof:lastmodified":1486670136,
+    "wof:lastmodified":1510943623,
     "wof:name":"Hillside Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739931483
+    ],
     "wof:tags":[]
 },
   "bbox": [

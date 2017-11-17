@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.247317,33.732673,-84.247317,33.732673",
     "geom:latitude":33.732673,
     "geom:longitude":-84.247317,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1380 Snapfinger Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915566,
-    "wof:geomhash":"b532c28adbbe4dde537f83d38cde5c16",
+    "wof:geomhash":"239d1279dbed637e629a4f8b8c0510b5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -45,13 +47,15 @@
         }
     ],
     "wof:id":739795015,
-    "wof:lastmodified":1472619340,
+    "wof:lastmodified":1510941260,
     "wof:name":"Word Of Truth Christian Center",
     "wof:parent_id":85816491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739642565
+    ],
     "wof:tags":[]
 },
   "bbox": [

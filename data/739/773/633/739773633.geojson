@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.480885,31.212756,-81.480885,31.212756",
     "geom:latitude":31.212756,
     "geom:longitude":-81.480885,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5701 Altama Ave",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914688,
-    "wof:geomhash":"56ca7afca9a347b893bb77711874975c",
+    "wof:geomhash":"b20853d8d209deead72d4cdd8aeba84d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":739773633,
-    "wof:lastmodified":1472619316,
+    "wof:lastmodified":1510943961,
     "wof:name":"Wok 'n Roll",
     "wof:parent_id":85814297,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740063021
+    ],
     "wof:tags":[
         "asian",
         "chinese"

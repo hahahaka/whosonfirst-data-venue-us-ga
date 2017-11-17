@@ -15,6 +15,7 @@
     "geom:longitude":-84.380973,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"205 Pharr Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -55,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921044,
-    "wof:geomhash":"5e65451f69070129f2aa1ae1cecee308",
+    "wof:geomhash":"ff7c665c522b92ae5ff0b6a18a3ba1a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,13 +70,15 @@
         }
     ],
     "wof:id":739930381,
-    "wof:lastmodified":1486668861,
+    "wof:lastmodified":1510943753,
     "wof:name":"ABRA Auto Body & Glass",
     "wof:parent_id":85872111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739748173
+    ],
     "wof:tags":[
         "body",
         "shop",

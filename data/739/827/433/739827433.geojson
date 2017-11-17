@@ -7,13 +7,16 @@
     "addr:postcode":"30067",
     "addr:street":"Windy Hill Rd Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.4804,33.9021,-84.4804,33.9021",
     "geom:latitude":33.9021,
     "geom:longitude":-84.4804,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2520 Windy Hill Rd SE",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -52,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916981,
-    "wof:geomhash":"61f56f808836ba404dc7937d5207773a",
+    "wof:geomhash":"1714a9fa36f2942be52a6bf672fbf5ce",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -72,12 +75,14 @@
         }
     ],
     "wof:id":739827433,
-    "wof:lastmodified":1472619411,
+    "wof:lastmodified":1510943593,
     "wof:name":"Kraus Steven B MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739828099
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling",

@@ -7,13 +7,16 @@
     "addr:postcode":"31404",
     "addr:street":"Dogwood Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.049881,32.034567,-81.049881,32.034567",
     "geom:latitude":32.034567,
     "geom:longitude":-81.049881,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2612 Dogwood Ave",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461887538,
-    "wof:geomhash":"48fe56ab163e10d24c17efd5ae13b30e",
+    "wof:geomhash":"3c05e9c700258a1dccfd09038efa044d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":722730541,
-    "wof:lastmodified":1472618467,
+    "wof:lastmodified":1510943620,
     "wof:name":"River Crossing Apartments",
     "wof:parent_id":85808955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722673883
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"

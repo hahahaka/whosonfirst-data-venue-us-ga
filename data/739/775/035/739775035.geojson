@@ -7,13 +7,16 @@
     "addr:postcode":"30004",
     "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.280035,34.093281,-84.280035,34.093281",
     "geom:latitude":34.093281,
     "geom:longitude":-84.280035,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"875 N Main St",
     "sg:city":"Alpharetta",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914747,
-    "wof:geomhash":"1d18aa7f839497a1b3f869a437779a6c",
+    "wof:geomhash":"dc6e899d0295b0b7575c3664c25842b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":739775035,
-    "wof:lastmodified":1472619263,
+    "wof:lastmodified":1510942702,
     "wof:name":"Taco Mac",
     "wof:parent_id":85854917,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739780465
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican",

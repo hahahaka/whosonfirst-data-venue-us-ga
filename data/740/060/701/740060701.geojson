@@ -7,13 +7,16 @@
     "addr:postcode":"31419",
     "addr:street":"Abercorn St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.146722,31.981076,-81.146722,31.981076",
     "geom:latitude":31.981076,
     "geom:longitude":-81.146722,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11410 Abercorn St",
     "sg:city":"Savannah",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461926555,
-    "wof:geomhash":"06ad1377d242319f5dabf0b4a0d50ac9",
+    "wof:geomhash":"1cb423de23b107c5dba628f376429ba0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":740060701,
-    "wof:lastmodified":1472618169,
+    "wof:lastmodified":1510944193,
     "wof:name":"Nature's Pantry",
     "wof:parent_id":85852533,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723504163
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

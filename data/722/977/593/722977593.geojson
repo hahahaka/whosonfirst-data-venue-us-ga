@@ -7,13 +7,16 @@
     "addr:postcode":"30328",
     "addr:street":"Glenlake Pkwy Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.361512,33.934668,-84.361512,33.934668",
     "geom:latitude":33.934668,
     "geom:longitude":-84.361512,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10 Glenlake Pkwy NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461892408,
-    "wof:geomhash":"18679edabf66317705b237adf2d4dea1",
+    "wof:geomhash":"6d975af5d65d6ef36ca5372e2a66a58a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,12 +72,14 @@
         }
     ],
     "wof:id":722977593,
-    "wof:lastmodified":1472619103,
+    "wof:lastmodified":1510941550,
     "wof:name":"Compuware Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723339289
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "programing",

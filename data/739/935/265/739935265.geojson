@@ -15,6 +15,7 @@
     "geom:longitude":-84.38318,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"120 Renaissance Parkway NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921226,
-    "wof:geomhash":"ecab5e436bdb1bd3aacc69cc0a8a687e",
+    "wof:geomhash":"349dc386f0b04c0781f24da36273bd5b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +64,15 @@
         }
     ],
     "wof:id":739935265,
-    "wof:lastmodified":1486682360,
+    "wof:lastmodified":1510941563,
     "wof:name":"Beacon of Hope Learning Center",
     "wof:parent_id":1108797049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723044099
+    ],
     "wof:tags":[
         "day"
     ]

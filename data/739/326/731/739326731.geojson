@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.214497,31.6123,-84.214497,31.6123",
     "geom:latitude":31.6123,
     "geom:longitude":-84.214497,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2526 Dawson Rd",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461905115,
-    "wof:geomhash":"5ec6ce68473b5a1b6926c066178757ca",
+    "wof:geomhash":"2664c087e073249c33824deb4632241c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":739326731,
-    "wof:lastmodified":1472618141,
+    "wof:lastmodified":1510943905,
     "wof:name":"House Of China Restaurant II",
     "wof:parent_id":420517795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740068295
+    ],
     "wof:tags":[]
 },
   "bbox": [

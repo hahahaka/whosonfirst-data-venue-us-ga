@@ -7,13 +7,16 @@
     "addr:postcode":"30720",
     "addr:street":"W Walnut Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.990713,34.759371,-84.990713,34.759371",
     "geom:latitude":34.759371,
     "geom:longitude":-84.990713,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1308 W Walnut Ave",
     "sg:city":"Dalton",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461925543,
-    "wof:geomhash":"d785818fa3fa0035c41f7364dbb23c55",
+    "wof:geomhash":"69e465a91acd922552d00c4f81b9ef50",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":740039369,
-    "wof:lastmodified":1472618022,
+    "wof:lastmodified":1510942247,
     "wof:name":"Kmart",
     "wof:parent_id":85809263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722539397
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

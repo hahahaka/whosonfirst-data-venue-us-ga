@@ -7,6 +7,7 @@
     "addr:postcode":"30308",
     "addr:street":"5Th St Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.389632,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"75 5th St NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914463,
-    "wof:geomhash":"695c790f872c472a116031755d8092de",
+    "wof:geomhash":"2860e15e559667ca6ff123ff5aa9322f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":739768087,
-    "wof:lastmodified":1486669357,
+    "wof:lastmodified":1510943631,
     "wof:name":"The Globe",
     "wof:parent_id":85866909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739934715
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "new",

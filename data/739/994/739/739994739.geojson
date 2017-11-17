@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.27926,33.898717,-84.27926,33.898717",
     "geom:latitude":33.898717,
     "geom:longitude":-84.27926,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5368 Buford Hwy NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923732,
-    "wof:geomhash":"5618f394d3630f9e4f4a3d433cc3c64a",
+    "wof:geomhash":"17673a052c12df0ec79c226504b01a20",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":739994739,
-    "wof:lastmodified":1472619704,
+    "wof:lastmodified":1510941463,
     "wof:name":"Instant Car Title Loans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739740811
+    ],
     "wof:tags":[]
 },
   "bbox": [

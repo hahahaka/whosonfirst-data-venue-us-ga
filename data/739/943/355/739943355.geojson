@@ -15,6 +15,7 @@
     "geom:longitude":-84.397147,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"105 Collier Road NW Suite 4060",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921630,
-    "wof:geomhash":"53807bed3ef9f476474de7238c5a6f97",
+    "wof:geomhash":"f01c26d3ca51de810e15319b0b98574f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":739943355,
-    "wof:lastmodified":1486672696,
+    "wof:lastmodified":1510942363,
     "wof:name":"Piedmont Pediatrics",
     "wof:parent_id":1108798511,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739558571
+    ],
     "wof:tags":[
         "pediatrician"
     ]

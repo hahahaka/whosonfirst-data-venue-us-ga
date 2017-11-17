@@ -7,13 +7,16 @@
     "addr:postcode":"30080",
     "addr:street":"Atlanta Rd Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.524035,33.901589,-84.524035,33.901589",
     "geom:latitude":33.901589,
     "geom:longitude":-84.524035,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2220 Atlanta Rd SE",
     "sg:city":"Smyrna",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461906593,
-    "wof:geomhash":"a9728d080a22f78ddef93a0ab99376e1",
+    "wof:geomhash":"24e61134bdb65bd89bd54fe14882f60c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":739400641,
-    "wof:lastmodified":1472618339,
+    "wof:lastmodified":1510942616,
     "wof:name":"Sioga Counseling Ctr",
     "wof:parent_id":85845875,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739841759
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "information",

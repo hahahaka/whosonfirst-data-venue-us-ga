@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.60199,33.855999,-84.60199,33.855999",
     "geom:latitude":33.855999,
     "geom:longitude":-84.60199,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3950 Austell Rd",
     "sg:city":"Austell",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461918462,
-    "wof:geomhash":"e1188945edd83926c35fa37006aa4b15",
+    "wof:geomhash":"fc1198ae82160d09259f09c331f56e0f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":739864083,
-    "wof:lastmodified":1472619472,
+    "wof:lastmodified":1510943386,
     "wof:name":"Promina Health System",
     "wof:parent_id":85852043,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739864061
+    ],
     "wof:tags":[]
 },
   "bbox": [

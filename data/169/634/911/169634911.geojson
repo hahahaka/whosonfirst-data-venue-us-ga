@@ -7,13 +7,16 @@
     "addr:postcode":"31028",
     "addr:street":"N Houston Lake Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.68322,32.619003,-83.68322,32.619003",
     "geom:latitude":32.619003,
     "geom:longitude":-83.68322,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"100 N Houston Lake Blvd",
     "sg:city":"Centerville",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_5yGoI6vhcoKfipvMY7PNXq_32.619003_-83.683220@1294087602"
     },
     "wof:country":"US",
-    "wof:geomhash":"9bf3ae7a6fc47f943f920e8151b4d9f4",
+    "wof:geomhash":"e17b2f73f56f243bbbbbec10fda0a988",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":169634911,
-    "wof:lastmodified":1472617822,
+    "wof:lastmodified":1510944058,
     "wof:name":"Florence's Boutique",
     "wof:parent_id":85803765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740049501
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

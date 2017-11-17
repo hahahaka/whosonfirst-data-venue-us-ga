@@ -7,13 +7,16 @@
     "addr:postcode":"31707",
     "addr:street":"Nottingham Way",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.204208,31.610661,-84.204208,31.610661",
     "geom:latitude":31.610661,
     "geom:longitude":-84.204208,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2401 Nottingham Way",
     "sg:city":"Albany",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461926881,
-    "wof:geomhash":"f661fa58ff7220f395bd3341331d9b75",
+    "wof:geomhash":"b36a83d06bb4e3348f02b189b8880f86",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":740068141,
-    "wof:lastmodified":1472618118,
+    "wof:lastmodified":1510942039,
     "wof:name":"Nottingham North Apartments",
     "wof:parent_id":420517749,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722828211
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

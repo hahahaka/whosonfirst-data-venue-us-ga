@@ -7,13 +7,16 @@
     "addr:postcode":"30329",
     "addr:street":"Executive Park Dr Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.33849,33.828063,-84.33849,33.828063",
     "geom:latitude":33.828063,
     "geom:longitude":-84.33849,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"17 Executive Park Dr NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -51,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461895909,
-    "wof:geomhash":"baea96e1e6e3350fdd8b7eba9162adb1",
+    "wof:geomhash":"e516521cb1cd68f4dbb949cfd10fd922",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +67,14 @@
         }
     ],
     "wof:id":723140435,
-    "wof:lastmodified":1472618364,
+    "wof:lastmodified":1510942169,
     "wof:name":"Pfm Mortgage Services",
     "wof:parent_id":420517723,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739979855
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "for",

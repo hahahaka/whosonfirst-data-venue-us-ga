@@ -7,13 +7,16 @@
     "addr:postcode":"30004",
     "addr:street":"Haynes Bridge Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.293688,34.069525,-84.293688,34.069525",
     "geom:latitude":34.069525,
     "geom:longitude":-84.293688,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11770 Haynes Bridge Rd",
     "sg:city":"Alpharetta",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914228,
-    "wof:geomhash":"7c31317e7ba55b1323dc3ad55a6df703",
+    "wof:geomhash":"2f741d6a5ff2787c772c35b18733804a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":739762187,
-    "wof:lastmodified":1472619276,
+    "wof:lastmodified":1510942792,
     "wof:name":"Mambo's Cafe",
     "wof:parent_id":85853841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739780529
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cuban"

@@ -7,13 +7,16 @@
     "addr:postcode":"30291",
     "addr:street":"Mall Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.529126,33.574672,-84.529126,33.574672",
     "geom:latitude":33.574672,
     "geom:longitude":-84.529126,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4405 Mall Blvd",
     "sg:city":"Union City",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461884939,
-    "wof:geomhash":"835449f3479a498777ea78669d50a8be",
+    "wof:geomhash":"71eb8a1694634f30fab39bcf6125dc8d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -67,12 +70,14 @@
         }
     ],
     "wof:id":722598215,
-    "wof:lastmodified":1472618039,
+    "wof:lastmodified":1510943198,
     "wof:name":"American Discount Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739908607
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "loan",

@@ -15,6 +15,7 @@
     "geom:longitude":-84.427268,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3193 Howell Mill Rd NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -57,7 +58,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922879,
-    "wof:geomhash":"cb372c0a61a09f86ef303ca838133b2a",
+    "wof:geomhash":"35071d0c7c73e69dd2b1209ce76ffb66",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,13 +72,15 @@
         }
     ],
     "wof:id":739973233,
-    "wof:lastmodified":1486668516,
+    "wof:lastmodified":1510942514,
     "wof:name":"West Paces Imaging Associates",
     "wof:parent_id":85872137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722887005
+    ],
     "wof:tags":[
         "physician",
         "radiology",

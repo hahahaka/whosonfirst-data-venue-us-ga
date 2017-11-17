@@ -7,13 +7,16 @@
     "addr:postcode":"30076",
     "addr:street":"Old Alabama Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.2862,34.021014,-84.2862,34.021014",
     "geom:latitude":34.021014,
     "geom:longitude":-84.2862,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2500 Old Alabama Rd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461895091,
-    "wof:geomhash":"3f37670f982da2d9f2c0ef3744eb9784",
+    "wof:geomhash":"36dca8f857a7bbcb4c8e8255d5c2355f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":723098379,
-    "wof:lastmodified":1472618246,
+    "wof:lastmodified":1510943270,
     "wof:name":"Willow Springs Dry Cleaners",
     "wof:parent_id":85836903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739836367
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "garment",

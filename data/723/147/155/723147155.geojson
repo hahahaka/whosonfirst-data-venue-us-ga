@@ -7,13 +7,16 @@
     "addr:postcode":"30328",
     "addr:street":"Concourse Pkwy Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.350949,33.916401,-84.350949,33.916401",
     "geom:latitude":33.916401,
     "geom:longitude":-84.350949,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6 Concourse Pkwy NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461896045,
-    "wof:geomhash":"ea5273eab9c3c5612b01683b20e31862",
+    "wof:geomhash":"12c06ac2a27c6dd4c32093adaff7ca40",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":723147155,
-    "wof:lastmodified":1472618364,
+    "wof:lastmodified":1510943109,
     "wof:name":"Ericsson Inc",
     "wof:parent_id":85889977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739977655
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "communications",

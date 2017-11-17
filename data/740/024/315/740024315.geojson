@@ -7,13 +7,16 @@
     "addr:postcode":"30518",
     "addr:street":"Sycamore Trl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.954978,34.138104,-83.954978,34.138104",
     "geom:latitude":34.138104,
     "geom:longitude":-83.954978,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5108 Sycamore Trl",
     "sg:city":"Buford",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924863,
-    "wof:geomhash":"5de0008fbe31646bb8eae4a99e344005",
+    "wof:geomhash":"9966d1d0cf6512aa2db2ac1fc6c776ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":740024315,
-    "wof:lastmodified":1472617945,
+    "wof:lastmodified":1510941548,
     "wof:name":"A-1 Taxi",
     "wof:parent_id":85846603,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740024353
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

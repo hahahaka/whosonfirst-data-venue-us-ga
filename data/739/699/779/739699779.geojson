@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.379931,33.882645,-84.379931,33.882645",
     "geom:latitude":33.882645,
     "geom:longitude":-84.379931,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4651 Roswell Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461912556,
-    "wof:geomhash":"d7a9351d8c246f0d728f6b7dd1fb8e4a",
+    "wof:geomhash":"a5bfbc22c723e1d4620c84a17000e757",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":739699779,
-    "wof:lastmodified":1472619109,
+    "wof:lastmodified":1510943861,
     "wof:name":"C Peck Co",
     "wof:parent_id":85889989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740006149
+    ],
     "wof:tags":[
         "opportunity"
     ]

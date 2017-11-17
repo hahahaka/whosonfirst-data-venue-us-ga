@@ -7,13 +7,16 @@
     "addr:postcode":"30022",
     "addr:street":"Holcomb Bridge Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.278413,33.991221,-84.278413,33.991221",
     "geom:latitude":33.991221,
     "geom:longitude":-84.278413,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2850 Holcomb Bridge Rd",
     "sg:city":"Alpharetta",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914243,
-    "wof:geomhash":"d909687310887112f31c9985b0dc21e4",
+    "wof:geomhash":"8aaaea1149cf4dd64bc1e71d8037274a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":739762661,
-    "wof:lastmodified":1472619307,
+    "wof:lastmodified":1510943951,
     "wof:name":"Waffle House",
     "wof:parent_id":85844913,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739787703
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american"

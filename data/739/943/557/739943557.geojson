@@ -15,6 +15,7 @@
     "geom:longitude":-84.387802,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1201 W Peachtree St NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -56,7 +57,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921637,
-    "wof:geomhash":"d2248012a1a6fb5898c4a578570071c4",
+    "wof:geomhash":"cf1fe1b19e78a00bdae94925c2bcf35c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,13 +81,15 @@
         }
     ],
     "wof:id":739943557,
-    "wof:lastmodified":1486669353,
+    "wof:lastmodified":1510943836,
     "wof:name":"Alston & Bird Llp",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739375523
+    ],
     "wof:tags":[
         "attorney",
         "business",

@@ -7,13 +7,16 @@
     "addr:postcode":"30076",
     "addr:street":"Sun Valley Dr Ste E1",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.340292,34.052813,-84.340292,34.052813",
     "geom:latitude":34.052813,
     "geom:longitude":-84.340292,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"500 Sun Valley Dr Ste E1",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -52,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461917330,
-    "wof:geomhash":"77e7e019dc65a8d70ffda563007f7352",
+    "wof:geomhash":"462271eafc83657721f2cbee3ebb1a4f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +68,14 @@
         }
     ],
     "wof:id":739835853,
-    "wof:lastmodified":1472619450,
+    "wof:lastmodified":1510942143,
     "wof:name":"Ameriprise Financial Advisors",
     "wof:parent_id":85812681,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739835851
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "investing",

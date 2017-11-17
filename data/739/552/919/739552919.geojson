@@ -7,13 +7,16 @@
     "addr:postcode":"30012",
     "addr:street":"Wellbrook Cir Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.002728,33.67899,-84.002728,33.67899",
     "geom:latitude":33.67899,
     "geom:longitude":-84.002728,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1292 Wellbrook Cir NE",
     "sg:city":"Conyers",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461909406,
-    "wof:geomhash":"73fa1ef723c34ab01d6559858aa89265",
+    "wof:geomhash":"105905b288f4bc8c93fabb17a222d7ba",
     "wof:hierarchy":[],
     "wof:id":739552919,
-    "wof:lastmodified":1472618755,
+    "wof:lastmodified":1510941248,
     "wof:name":"Rockdale Medical Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739781799
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"

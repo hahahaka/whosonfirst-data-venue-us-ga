@@ -7,13 +7,16 @@
     "addr:postcode":"30062",
     "addr:street":"Allgood Rd Ste 8",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.521202,33.9795,-84.521202,33.9795",
     "geom:latitude":33.9795,
     "geom:longitude":-84.521202,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1165 Allgood Rd Ste 8",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916667,
-    "wof:geomhash":"00d7c8c4381d936c2e632405369b3fae",
+    "wof:geomhash":"ee40dbf3abf28d86916ae91ebe8797ab",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":739819311,
-    "wof:lastmodified":1472619400,
+    "wof:lastmodified":1510943780,
     "wof:name":"Energy One Federal Credit Union",
     "wof:parent_id":85857049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739819985
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -15,6 +15,7 @@
     "geom:longitude":-84.380693,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"56 E Andrews Drive NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -59,7 +60,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921043,
-    "wof:geomhash":"02c9dd6015dd835a5620864aac7b2285",
+    "wof:geomhash":"03a109d67f776db2c7e3808c138e8312",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,13 +84,15 @@
         }
     ],
     "wof:id":739930339,
-    "wof:lastmodified":1486672315,
+    "wof:lastmodified":1510943740,
     "wof:name":"Now & Again",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723462703
+    ],
     "wof:tags":[
         "decor",
         "store"

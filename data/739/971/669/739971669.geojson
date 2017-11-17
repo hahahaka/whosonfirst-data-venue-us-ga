@@ -15,6 +15,7 @@
     "geom:longitude":-84.373245,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Buckhead Loop NE Suite 130",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922819,
-    "wof:geomhash":"74960d6329446f128021c8ff25a2f645",
+    "wof:geomhash":"228ea52a8dd8b5f0245b3c539d6e0647",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":739971669,
-    "wof:lastmodified":1486668915,
+    "wof:lastmodified":1510942853,
     "wof:name":"On the Border Mexican Grill & Cantina",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739969405
+    ],
     "wof:tags":[
         "mexican"
     ]

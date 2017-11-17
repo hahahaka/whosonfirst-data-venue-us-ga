@@ -7,13 +7,16 @@
     "addr:postcode":"30044",
     "addr:street":"Pleasant Hill Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.121888,33.94007,-84.121888,33.94007",
     "geom:latitude":33.94007,
     "geom:longitude":-84.121888,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1455 Pleasant Hill Rd",
     "sg:city":"Lawrenceville",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461910956,
-    "wof:geomhash":"fc3c1cb30d9d146623192fa97144882f",
+    "wof:geomhash":"93f1f427ad38182de396c5c263416314",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":739626041,
-    "wof:lastmodified":1472618901,
+    "wof:lastmodified":1510943070,
     "wof:name":"Big Mouth Signs",
     "wof:parent_id":85810283,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739806541
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "banner"

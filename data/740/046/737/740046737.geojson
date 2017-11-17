@@ -7,13 +7,16 @@
     "addr:postcode":"30909",
     "addr:street":"Wrightsboro Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.070732,33.468811,-82.070732,33.468811",
     "geom:latitude":33.468811,
     "geom:longitude":-82.070732,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3336 Wrightsboro Rd",
     "sg:city":"Augusta",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1461925926,
-    "wof:geomhash":"74b79b769c48637cf70f7368b0bd5021",
+    "wof:geomhash":"693498f46f7f848cd717dde9aa5d0b7a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":740046737,
-    "wof:lastmodified":1472618086,
+    "wof:lastmodified":1510943777,
     "wof:name":"Baldinos Giant Jersey Subs",
     "wof:parent_id":85819877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739771759
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

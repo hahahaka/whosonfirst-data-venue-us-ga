@@ -7,13 +7,16 @@
     "addr:postcode":"ga 30019",
     "addr:street":"Dacula Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.902954,33.996932,-83.902954,33.996932",
     "geom:latitude":33.996932,
     "geom:longitude":-83.902954,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"475 Dacula Rd",
     "sg:city":"Dacula",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461887291,
-    "wof:geomhash":"11c5490a5b921418dd906be7f576916f",
+    "wof:geomhash":"632713baca444afba94f726edd7baded",
     "wof:hierarchy":[],
     "wof:id":722717097,
-    "wof:lastmodified":1472618421,
+    "wof:lastmodified":1510943475,
     "wof:name":"Quick Shop Exxon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739785659
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"

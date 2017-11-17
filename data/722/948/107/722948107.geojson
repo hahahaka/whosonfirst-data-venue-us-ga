@@ -7,13 +7,16 @@
     "addr:postcode":"30340",
     "addr:street":"New Peachtree Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.280966,33.90096,-84.280966,33.90096",
     "geom:latitude":33.90096,
     "geom:longitude":-84.280966,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5891 New Peachtree Rd",
     "sg:city":"Doraville",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461891789,
-    "wof:geomhash":"6d97b269568767186cbced7765dd7e17",
+    "wof:geomhash":"71b024ac63b5bde5ce36891ae6d1df72",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,12 +71,14 @@
         }
     ],
     "wof:id":722948107,
-    "wof:lastmodified":1472619005,
+    "wof:lastmodified":1510942045,
     "wof:name":"Oscar's Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739996307
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "upholsterer"

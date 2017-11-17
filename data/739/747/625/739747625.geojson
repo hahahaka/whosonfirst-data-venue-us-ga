@@ -7,6 +7,7 @@
     "addr:postcode":"30309",
     "addr:street":"W Peachtree St Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.387778,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1280 W Peachtree St NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461913618,
-    "wof:geomhash":"7bfc55d75528e74bc8fd8355a234ad3b",
+    "wof:geomhash":"0b15f61965e2c12bb50536f34efe3c02",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,12 +74,14 @@
         }
     ],
     "wof:id":739747625,
-    "wof:lastmodified":1486669343,
+    "wof:lastmodified":1510943139,
     "wof:name":"Club Tower",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739945159
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"

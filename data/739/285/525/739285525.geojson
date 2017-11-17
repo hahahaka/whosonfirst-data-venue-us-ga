@@ -7,13 +7,16 @@
     "addr:postcode":"30329",
     "addr:street":"Cliff Valley Way Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.323681,33.83276,-84.323681,33.83276",
     "geom:latitude":33.83276,
     "geom:longitude":-84.323681,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1911 Cliff Valley Way NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461904266,
-    "wof:geomhash":"99bbb6df16997527875d8231ba03ee45",
+    "wof:geomhash":"d550a7e5463b3db33874f110be2b9475",
     "wof:hierarchy":[],
     "wof:id":739285525,
-    "wof:lastmodified":1472618008,
+    "wof:lastmodified":1510941553,
     "wof:name":"Memorial Society Of Georgia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723116261
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "crematory"

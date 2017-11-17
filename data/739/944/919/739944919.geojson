@@ -15,6 +15,7 @@
     "geom:longitude":-84.392706,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1720 Peachtree St NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -55,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921697,
-    "wof:geomhash":"9f9abd1b0bcbae303ee67d8db415ed9e",
+    "wof:geomhash":"36a78fb11d9c8bb17d5bcf56a59e9f66",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,13 +70,15 @@
         }
     ],
     "wof:id":739944919,
-    "wof:lastmodified":1486668444,
+    "wof:lastmodified":1510944046,
     "wof:name":"Atlanta Retina PC",
     "wof:parent_id":85807999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739941763
+    ],
     "wof:tags":[
         "physician",
         "ophthalmology",

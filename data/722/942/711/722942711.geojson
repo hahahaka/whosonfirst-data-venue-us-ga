@@ -7,13 +7,16 @@
     "addr:postcode":"30342",
     "addr:street":"Lake Forrest Dr Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.387208,33.911352,-84.387208,33.911352",
     "geom:latitude":33.911352,
     "geom:longitude":-84.387208,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5784 Lake Forrest Dr NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461891685,
-    "wof:geomhash":"889887e1692d1e05254b89abceda85d4",
+    "wof:geomhash":"ba6d992058bcc73fbc5829a38b98c937",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":722942711,
-    "wof:lastmodified":1472619041,
+    "wof:lastmodified":1510942515,
     "wof:name":"Neal Peavy Co",
     "wof:parent_id":420559935,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739661465
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

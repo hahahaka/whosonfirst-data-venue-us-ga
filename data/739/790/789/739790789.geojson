@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.162121,34.067001,-84.162121,34.067001",
     "geom:latitude":34.067001,
     "geom:longitude":-84.162121,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3855 Johns Creek Pkwy Ste D",
     "sg:city":"Suwanee",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"US",
     "wof:created":1461915405,
-    "wof:geomhash":"809294338d5326b94391fb986db7ed55",
+    "wof:geomhash":"fa0f8009d074e085c80adee94c266399",
     "wof:hierarchy":[],
     "wof:id":739790789,
-    "wof:lastmodified":1472619370,
+    "wof:lastmodified":1510944044,
     "wof:name":"Dentistry For Children PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739789647
+    ],
     "wof:tags":[
         "pediatric"
     ]

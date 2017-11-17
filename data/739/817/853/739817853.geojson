@@ -7,13 +7,16 @@
     "addr:postcode":"30060",
     "addr:street":"N Fairground St Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.535729,33.95162,-84.535729,33.95162",
     "geom:latitude":33.95162,
     "geom:longitude":-84.535729,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"47 N Fairground St NE",
     "sg:city":"Marietta",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916609,
-    "wof:geomhash":"b7fc8a828e850b9cdfe6993fcf2cdf30",
+    "wof:geomhash":"f01ef287a4d493c8266481ee4b651113",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":739817853,
-    "wof:lastmodified":1472619410,
+    "wof:lastmodified":1510942142,
     "wof:name":"Abc-Taxi",
     "wof:parent_id":85857593,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739815185
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

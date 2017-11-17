@@ -7,13 +7,16 @@
     "addr:postcode":"30076",
     "addr:street":"Old Ellis Pt",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.326005,34.051913,-84.326005,34.051913",
     "geom:latitude":34.051913,
     "geom:longitude":-84.326005,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5055 Old Ellis Pt",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461886817,
-    "wof:geomhash":"45833c40caa40af0dedd7f121c3a6644",
+    "wof:geomhash":"a00f8a72e53ff8f2a0e55daf7a7ee668",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":722691905,
-    "wof:lastmodified":1472618400,
+    "wof:lastmodified":1510943679,
     "wof:name":"Foster Business Interiors Inc",
     "wof:parent_id":85851631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739837601
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

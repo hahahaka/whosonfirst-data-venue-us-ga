@@ -7,13 +7,16 @@
     "addr:postcode":"30341",
     "addr:street":"Savoy Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.303642,33.919869,-84.303642,33.919869",
     "geom:latitude":33.919869,
     "geom:longitude":-84.303642,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2081 Savoy Dr",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -51,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923941,
-    "wof:geomhash":"25a443cca6d8b1300e72531dd625ce31",
+    "wof:geomhash":"e7d2c1b92920bce065fdcb2cb34a0736",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +67,14 @@
         }
     ],
     "wof:id":740000293,
-    "wof:lastmodified":1472617818,
+    "wof:lastmodified":1510941522,
     "wof:name":"Taco Bell",
     "wof:parent_id":85890023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739997727
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"

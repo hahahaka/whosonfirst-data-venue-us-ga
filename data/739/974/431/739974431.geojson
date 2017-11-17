@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.387097,33.913241,-84.387097,33.913241",
     "geom:latitude":33.913241,
     "geom:longitude":-84.387097,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5784 Lake Forrest Dr NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -54,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922925,
-    "wof:geomhash":"02c4d1e21d3b192070d86534e1e76663",
+    "wof:geomhash":"430ac309dc626c6a0c75923f07e9d216",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,13 +78,15 @@
         }
     ],
     "wof:id":739974431,
-    "wof:lastmodified":1472619658,
+    "wof:lastmodified":1510941474,
     "wof:name":"American Properties Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723174901
+    ],
     "wof:tags":[
         "buyer",
         "management",

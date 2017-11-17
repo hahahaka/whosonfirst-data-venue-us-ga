@@ -7,13 +7,16 @@
     "addr:postcode":"30328",
     "addr:street":"Roswell;Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.379171,33.916852,-84.379171,33.916852",
     "geom:latitude":33.916852,
     "geom:longitude":-84.379171,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5920 Roswell Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922915,
-    "wof:geomhash":"10cfe3c1fa5a119300ecc9d94649f7b1",
+    "wof:geomhash":"65a8452f31cc74fc2ec63afa098be9ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":739974147,
-    "wof:lastmodified":1472619648,
+    "wof:lastmodified":1510942695,
     "wof:name":"Buckhead School Of Music & Arts",
     "wof:parent_id":420517889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739978385
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "instruction"

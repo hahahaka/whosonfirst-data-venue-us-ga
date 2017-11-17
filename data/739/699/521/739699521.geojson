@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.101226,32.028748,-81.101226,32.028748",
     "geom:latitude":32.028748,
     "geom:longitude":-81.101226,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5354 Reynolds St",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -54,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1461912545,
-    "wof:geomhash":"2fbcebb6ba407653f9e8157ca4726ccf",
+    "wof:geomhash":"346efc1c6755500afb781ebbfe3534f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,13 +69,15 @@
         }
     ],
     "wof:id":739699521,
-    "wof:lastmodified":1472619102,
+    "wof:lastmodified":1510941421,
     "wof:name":"Coastal Respiratory Associates",
     "wof:parent_id":85880913,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740059015
+    ],
     "wof:tags":[
         "physician",
         "medical",

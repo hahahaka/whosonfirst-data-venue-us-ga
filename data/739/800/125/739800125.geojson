@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.213281,33.734375,-84.213281,33.734375",
     "geom:latitude":33.734375,
     "geom:longitude":-84.213281,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4918 Covington Hwy Ste 9",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -58,7 +60,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915782,
-    "wof:geomhash":"630772d49f5d3a7ef5909cc1d4eb4b65",
+    "wof:geomhash":"78b0452d4a5b46837f0540c70967e7f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,13 +73,15 @@
         }
     ],
     "wof:id":739800125,
-    "wof:lastmodified":1472619345,
+    "wof:lastmodified":1510943054,
     "wof:name":"Tee's Towing & Recovery",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739379703
+    ],
     "wof:tags":[
         "truck",
         "salvage",

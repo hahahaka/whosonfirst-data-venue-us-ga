@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.280243,34.093319,-84.280243,34.093319",
     "geom:latitude":34.093319,
     "geom:longitude":-84.280243,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"875 N Main St Suite 306",
     "sg:city":"Alpharetta",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914963,
-    "wof:geomhash":"4dd8380b8085dd6ab1d5a0e573769599",
+    "wof:geomhash":"823463794acf3cec6b0e3ee3e8940643",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":739780465,
-    "wof:lastmodified":1472619309,
+    "wof:lastmodified":1510942702,
     "wof:name":"Taco Mac",
     "wof:parent_id":85854917,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739775035
+    ],
     "wof:tags":[]
 },
   "bbox": [

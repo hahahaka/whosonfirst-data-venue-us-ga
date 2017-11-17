@@ -7,13 +7,16 @@
     "addr:postcode":"30043",
     "addr:street":"Sugarloaf Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.078639,33.984927,-84.078639,33.984927",
     "geom:latitude":33.984927,
     "geom:longitude":-84.078639,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5900 Sugarloaf Pkwy",
     "sg:city":"Lawrenceville",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914278,
-    "wof:geomhash":"60c229567c87452769827b8752e2bbad",
+    "wof:geomhash":"74b9a8cd9cc10484918a05468f87027f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":739763413,
-    "wof:lastmodified":1472619284,
+    "wof:lastmodified":1510942529,
     "wof:name":"Jillian's",
     "wof:parent_id":85810283,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739804413
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american"

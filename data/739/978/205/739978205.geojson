@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.380699,33.920799,-84.380699,33.920799",
     "geom:latitude":33.920799,
     "geom:longitude":-84.380699,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"210 Sandy Springs Pl NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923068,
-    "wof:geomhash":"f97bf74576a44b9264cdff72c330d09d",
+    "wof:geomhash":"2210562e26850ef0b62edd65c2fd1e2b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":739978205,
-    "wof:lastmodified":1472619678,
+    "wof:lastmodified":1510941585,
     "wof:name":"Kyle Realty Co",
     "wof:parent_id":85889967,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739751479
+    ],
     "wof:tags":[
         "management",
         "property"

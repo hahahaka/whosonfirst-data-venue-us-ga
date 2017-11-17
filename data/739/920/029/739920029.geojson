@@ -7,6 +7,7 @@
     "addr:postcode":"30303",
     "addr:street":"Jesse Hill Jr Dr Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.383049,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"80 Jesse Hill Jr Dr SE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920588,
-    "wof:geomhash":"c3190501456cd5e9a0e3f43cd11cc745",
+    "wof:geomhash":"0e04ecff6cca3f27ba536f3b8b3413be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":739920029,
-    "wof:lastmodified":1486669155,
+    "wof:lastmodified":1510943086,
     "wof:name":"Miller, Michael E MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739923213
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.427976,33.906603,-84.427976,33.906603",
     "geom:latitude":33.906603,
     "geom:longitude":-84.427976,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6300 Powers Ferry Rd NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923634,
-    "wof:geomhash":"7e497ac270653f237ac44d82e804dfb4",
+    "wof:geomhash":"84816eded284409ca6f1a767d5b87fa5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":739992227,
-    "wof:lastmodified":1472619693,
+    "wof:lastmodified":1510943156,
     "wof:name":"Wright Meg C DVM",
     "wof:parent_id":85890005,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739990123
+    ],
     "wof:tags":[
         "veterinarian",
         "specialty"

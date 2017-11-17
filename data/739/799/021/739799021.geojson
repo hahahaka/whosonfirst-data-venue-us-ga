@@ -7,13 +7,16 @@
     "addr:postcode":"3100;30034",
     "addr:street":"Lumby Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.26298,33.701512,-84.26298,33.701512",
     "geom:latitude":33.701512,
     "geom:longitude":-84.26298,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3100 Lumby Dr",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915738,
-    "wof:geomhash":"0177dcf88c836ea0e8c177100e7dc7c6",
+    "wof:geomhash":"5ebd7005b87e0337a37853c1c38e88be",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":739799021,
-    "wof:lastmodified":1472619345,
+    "wof:lastmodified":1510942596,
     "wof:name":"Creek Side Vista",
     "wof:parent_id":85816491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739798975
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"

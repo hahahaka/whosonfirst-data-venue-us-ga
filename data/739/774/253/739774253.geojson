@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.217079,31.614331,-84.217079,31.614331",
     "geom:latitude":31.614331,
     "geom:longitude":-84.217079,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2626 Dawson Rd",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914720,
-    "wof:geomhash":"f881912ef158f3fa9904debcd3d25441",
+    "wof:geomhash":"e15c4c058adbae212b1d6da3267837c9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":739774253,
-    "wof:lastmodified":1472619291,
+    "wof:lastmodified":1510942446,
     "wof:name":"Ruby Tuesdays",
     "wof:parent_id":85842573,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739604071
+    ],
     "wof:tags":[
         "burger",
         "american"

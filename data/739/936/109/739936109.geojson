@@ -15,6 +15,7 @@
     "geom:longitude":-84.385009,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"600 Peachtree St NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921259,
-    "wof:geomhash":"a3ba1dc2a8d92ea4cb2842d41b3ec2c9",
+    "wof:geomhash":"c00e0ccd8efe52aa15cddcf4f4dacade",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,13 +65,15 @@
         }
     ],
     "wof:id":739936109,
-    "wof:lastmodified":1486682371,
+    "wof:lastmodified":1510942341,
     "wof:name":"Hunton & Williams LLP",
     "wof:parent_id":1108797049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739934513
+    ],
     "wof:tags":[
         "attorney",
         "practice"

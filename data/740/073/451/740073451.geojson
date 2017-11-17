@@ -7,13 +7,16 @@
     "addr:postcode":"2100;31904",
     "addr:street":"Comer Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.978897,32.482769,-84.978897,32.482769",
     "geom:latitude":32.482769,
     "geom:longitude":-84.978897,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2100 Comer Ave",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461927108,
-    "wof:geomhash":"c2bae9a9535494cb2d94d7a8c557dea8",
+    "wof:geomhash":"35b6d33fa917c13ab29bcea0240181f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":740073451,
-    "wof:lastmodified":1472618224,
+    "wof:lastmodified":1510941265,
     "wof:name":"Senior Referral Service",
     "wof:parent_id":85882101,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722912797
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical",

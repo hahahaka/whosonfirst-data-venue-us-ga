@@ -7,13 +7,16 @@
     "addr:postcode":"30035",
     "addr:street":"Covington Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.218746,33.743644,-84.218746,33.743644",
     "geom:latitude":33.743644,
     "geom:longitude":-84.218746,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4677 Covington Hwy",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461896999,
-    "wof:geomhash":"7e8b32d306053f2422b695639c957e4f",
+    "wof:geomhash":"1c7f0ecf98af23825f6db908086c96f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":723196227,
-    "wof:lastmodified":1472618501,
+    "wof:lastmodified":1510941729,
     "wof:name":"Asher Appliances",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739800205
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "appliance"

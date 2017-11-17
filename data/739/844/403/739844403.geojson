@@ -7,13 +7,16 @@
     "addr:postcode":"2972;30082",
     "addr:street":"Kay Dr Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.533689,33.879745,-84.533689,33.879745",
     "geom:latitude":33.879745,
     "geom:longitude":-84.533689,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2972 Ask Kay Dr SE",
     "sg:city":"Smyrna",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461917671,
-    "wof:geomhash":"f8dccb88c4656907f82d60db56727b5a",
+    "wof:geomhash":"e4e0143d2ac3714d2801419b81064d52",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":739844403,
-    "wof:lastmodified":1472619441,
+    "wof:lastmodified":1510943307,
     "wof:name":"Formula One Automotive",
     "wof:parent_id":85852043,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739843771
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

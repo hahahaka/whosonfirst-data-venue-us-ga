@@ -7,13 +7,16 @@
     "addr:postcode":"30076",
     "addr:street":"Sun Valley Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.339289,34.051672,-84.339289,34.051672",
     "geom:latitude":34.051672,
     "geom:longitude":-84.339289,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"500 Sun Valley Dr",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461917373,
-    "wof:geomhash":"242555a43347a4198f0f3cbde2abcb32",
+    "wof:geomhash":"12b81bf46f2b25c8bc71b8a37ad007e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":739837005,
-    "wof:lastmodified":1472619425,
+    "wof:lastmodified":1510941658,
     "wof:name":"Watkins Rudy DC",
     "wof:parent_id":85812681,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739836163
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

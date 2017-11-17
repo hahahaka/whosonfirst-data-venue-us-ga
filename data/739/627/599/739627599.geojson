@@ -7,13 +7,16 @@
     "addr:postcode":"30047",
     "addr:street":"Killian Hill Rd Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.095922,33.869033,-84.095922,33.869033",
     "geom:latitude":33.869033,
     "geom:longitude":-84.095922,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"912 Killian Hill Rd SW",
     "sg:city":"Lilburn",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461910983,
-    "wof:geomhash":"fac5f4eee8aac3549b56f84630da717d",
+    "wof:geomhash":"f191e9e73f795078477c7b808eab5199",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":739627599,
-    "wof:lastmodified":1472618928,
+    "wof:lastmodified":1510943805,
     "wof:name":"Lilburn Dental Group LLC",
     "wof:parent_id":85810283,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739811121
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"

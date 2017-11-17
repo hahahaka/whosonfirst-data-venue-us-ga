@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.28669,34.022165,-84.28669,34.022165",
     "geom:latitude":34.022165,
     "geom:longitude":-84.28669,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2500 Old Alabama Rd Ste 16",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461917423,
-    "wof:geomhash":"c6162efa7ed6d688a76f68ea5e00a6ba",
+    "wof:geomhash":"39026f8de7a5527b599613ea3eb3784d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,16 @@
         }
     ],
     "wof:id":739838269,
-    "wof:lastmodified":1472619435,
+    "wof:lastmodified":1510941624,
     "wof:name":"Kids Stay'n Play",
     "wof:parent_id":85836903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740037549,
+        739374965
+    ],
     "wof:tags":[
         "day"
     ]

@@ -7,6 +7,7 @@
     "addr:postcode":"30331",
     "addr:street":"Greenbriar Pkwy Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.503502,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3480 Greenbriar Pkwy SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923303,
-    "wof:geomhash":"e9da64a81b49733c98d5154738b3454a",
+    "wof:geomhash":"a97f990ed038bf6b1ddd685dbe59ea0c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,13 +71,17 @@
         }
     ],
     "wof:id":739984031,
-    "wof:lastmodified":1486672740,
+    "wof:lastmodified":1510943589,
     "wof:name":"Hollywood Nails",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739982365
+    ],
+    "wof:supersedes":[
+        722847405
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -15,6 +15,7 @@
     "geom:longitude":-84.375202,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"377 Edgewood Ave SE",
     "sg:city":"Atlanta",
     "sg:classifiers":[],
@@ -39,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922005,
-    "wof:geomhash":"69ef324b588ff02e952aa6723de6d502",
+    "wof:geomhash":"29a001c8f0d321871bb23bbe15658abc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,13 +54,15 @@
         }
     ],
     "wof:id":739951201,
-    "wof:lastmodified":1486669846,
+    "wof:lastmodified":1510943712,
     "wof:name":"Rolling Bones",
     "wof:parent_id":85872065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739768305
+    ],
     "wof:tags":[]
 },
   "bbox": [

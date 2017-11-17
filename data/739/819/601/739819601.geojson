@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.479797,33.978298,-84.479797,33.978298",
     "geom:latitude":33.978298,
     "geom:longitude":-84.479797,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1050 E Piedmont Rd Ste B",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916677,
-    "wof:geomhash":"5cc531a3e2aaf6912080ab9fa6c169b2",
+    "wof:geomhash":"456bf70c2395a20b6c2cd0076e9a62b9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":739819601,
-    "wof:lastmodified":1472619409,
+    "wof:lastmodified":1510941908,
     "wof:name":"Project Five",
     "wof:parent_id":85857049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739297033
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"31410",
     "addr:street":"Bay Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.974756,32.036362,-80.974756,32.036362",
     "geom:latitude":32.036362,
     "geom:longitude":-80.974756,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"17 Bay Dr",
     "sg:city":"Savannah",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461926542,
-    "wof:geomhash":"e88f4033c932b7fc7713f28ad28be3e3",
+    "wof:geomhash":"9cd6d1ebf8284bcb0c8ce5dbed5c2b57",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":740060341,
-    "wof:lastmodified":1472618145,
+    "wof:lastmodified":1510942699,
     "wof:name":"Crystal Clear Cleaning",
     "wof:parent_id":85808955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722750775
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

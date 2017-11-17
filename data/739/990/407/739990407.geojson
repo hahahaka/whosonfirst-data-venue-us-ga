@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.472807,33.88533,-84.472807,33.88533",
     "geom:latitude":33.88533,
     "geom:longitude":-84.472807,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2800 Spring Rd SE Ste J",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923568,
-    "wof:geomhash":"efc0115a661e1a373c51a149aab68cfe",
+    "wof:geomhash":"c42dc38b455f3be8ceda2435b94a7a6d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":739990407,
-    "wof:lastmodified":1472619693,
+    "wof:lastmodified":1510943543,
     "wof:name":"Tonias Beauty Salon",
     "wof:parent_id":85813197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739259503
+    ],
     "wof:tags":[
         "hair"
     ]

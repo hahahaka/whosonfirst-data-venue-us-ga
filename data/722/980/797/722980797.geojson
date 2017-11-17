@@ -7,13 +7,16 @@
     "addr:postcode":"30329",
     "addr:street":"Briarcliff Rd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.33213,33.82675,-84.33213,33.82675",
     "geom:latitude":33.82675,
     "geom:longitude":-84.33213,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2484 Briarcliff Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461892468,
-    "wof:geomhash":"d891d45da0c46bf9fe7062448a483670",
+    "wof:geomhash":"0e91db7de923991843358559812b2344",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":722980797,
-    "wof:lastmodified":1472619116,
+    "wof:lastmodified":1510942523,
     "wof:name":"Roly Poly-Loemann's",
     "wof:parent_id":420517723,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739980373
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"

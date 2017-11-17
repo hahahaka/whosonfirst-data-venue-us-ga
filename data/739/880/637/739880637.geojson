@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.561399,34.013988,-84.561399,34.013988",
     "geom:latitude":34.013988,
     "geom:longitude":-84.561399,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 Ernest W Barrett Pkwy NW Ste 127",
     "sg:city":"Kennesaw",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1461919083,
-    "wof:geomhash":"503aa0ce473dcc5a30d9b52623eda4b8",
+    "wof:geomhash":"95e020e30dae64db5ed11a496d1c16f4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":739880637,
-    "wof:lastmodified":1472619505,
+    "wof:lastmodified":1510941956,
     "wof:name":"Taco Bell",
     "wof:parent_id":85839059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739766263
+    ],
     "wof:tags":[]
 },
   "bbox": [

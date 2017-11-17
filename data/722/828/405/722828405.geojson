@@ -7,6 +7,7 @@
     "addr:postcode":"30303",
     "addr:street":"Peachtree St Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.389771,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"34 Peachtree St NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461889419,
-    "wof:geomhash":"f0f05927cadf8b74918f81be5a90820f",
+    "wof:geomhash":"98b9b2aaa906f52b1053e247413d7d5b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":722828405,
-    "wof:lastmodified":1486672853,
+    "wof:lastmodified":1510943918,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":1108797055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739914771
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

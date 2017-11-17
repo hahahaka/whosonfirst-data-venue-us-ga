@@ -7,13 +7,16 @@
     "addr:postcode":"30093",
     "addr:street":"Oakbrook Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.195875,33.913234,-84.195875,33.913234",
     "geom:latitude":33.913234,
     "geom:longitude":-84.195875,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1721 Oakbrook Dr",
     "sg:city":"Norcross",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461896765,
-    "wof:geomhash":"000d50fdb2da1c4577b9a5b91a12d30f",
+    "wof:geomhash":"248a672c0d0ca212fea3563147f36b9a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":723183837,
-    "wof:lastmodified":1472618505,
+    "wof:lastmodified":1510944062,
     "wof:name":"MJS Global Inc",
     "wof:parent_id":85803655,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739853805
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "related"

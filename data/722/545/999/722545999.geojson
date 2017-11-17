@@ -7,6 +7,7 @@
     "addr:postcode":"30303",
     "addr:street":"Spring St Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.38915,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"230 Spring St NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461883919,
-    "wof:geomhash":"7f6383837961f152c603d16188afc4cc",
+    "wof:geomhash":"1eec9afb0ba6e0df835dbe841bdbed2e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":722545999,
-    "wof:lastmodified":1486682410,
+    "wof:lastmodified":1510942251,
     "wof:name":"Breyer Marketing",
     "wof:parent_id":1108797051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739913449
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

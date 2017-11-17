@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.362264,33.914341,-84.362264,33.914341",
     "geom:latitude":33.914341,
     "geom:longitude":-84.362264,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5825 Glenridge Drive NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922984,
-    "wof:geomhash":"7a42a7ea12974d489bc74300504a27a8",
+    "wof:geomhash":"9684a24dfb141db0cda6b7066370049f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":739976221,
-    "wof:lastmodified":1472619672,
+    "wof:lastmodified":1510942623,
     "wof:name":"Cybertron",
     "wof:parent_id":85889977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723329923
+    ],
     "wof:tags":[
         "web",
         "design"

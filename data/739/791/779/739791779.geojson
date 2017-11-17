@@ -7,13 +7,16 @@
     "addr:postcode":"30024",
     "addr:street":"Peachtree Industrial Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.088676,34.052071,-84.088676,34.052071",
     "geom:latitude":34.052071,
     "geom:longitude":-84.088676,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1000 Peachtree Industrial Blvd",
     "sg:city":"Suwanee",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915438,
-    "wof:geomhash":"8f499491b842a4fadd13d41f6cfd1acc",
+    "wof:geomhash":"69660a499c2aab7ac2088bd8db0fe96b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":739791779,
-    "wof:lastmodified":1472619370,
+    "wof:lastmodified":1510944175,
     "wof:name":"Nail Capri",
     "wof:parent_id":85802315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739789747
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

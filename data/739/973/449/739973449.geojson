@@ -15,6 +15,7 @@
     "geom:longitude":-84.426453,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3200 Downwood Cir NW Suite 530",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922886,
-    "wof:geomhash":"76ff082ae72bb5ce0d0232057bf43edd",
+    "wof:geomhash":"c26009969a448274892d7c723c80cc9a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":739973449,
-    "wof:lastmodified":1486668303,
+    "wof:lastmodified":1510944139,
     "wof:name":"Atlanta Spine Institute",
     "wof:parent_id":85872137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739743257
+    ],
     "wof:tags":[
         "orthopedist"
     ]

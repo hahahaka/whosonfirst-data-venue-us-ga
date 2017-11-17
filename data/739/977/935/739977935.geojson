@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.439483,33.905492,-84.439483,33.905492",
     "geom:latitude":33.905492,
     "geom:longitude":-84.439483,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2000 Riveredge Pkwy NW # 800",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -54,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923059,
-    "wof:geomhash":"a28fbaac1bf017d61a9e28b862049881",
+    "wof:geomhash":"5bd81abe28605b1352e2f9ed28a1075a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,13 +69,15 @@
         }
     ],
     "wof:id":739977935,
-    "wof:lastmodified":1472619690,
+    "wof:lastmodified":1510943324,
     "wof:name":"Atlas Energy Products",
     "wof:parent_id":85844717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723249353
+    ],
     "wof:tags":[
         "sponge",
         "product",

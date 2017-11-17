@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.146073,34.195781,-84.146073,34.195781",
     "geom:latitude":34.195781,
     "geom:longitude":-84.146073,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 Industrial Park Dr",
     "sg:city":"Cumming",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461898997,
-    "wof:geomhash":"4643cee51ba79857d39afdd559d55b48",
+    "wof:geomhash":"a4218240732fab79f4a42a77a643182a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":723296629,
-    "wof:lastmodified":1472618810,
+    "wof:lastmodified":1510942388,
     "wof:name":"Watervision International",
     "wof:parent_id":85842073,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723007617
+    ],
     "wof:tags":[
         "micro",
         "biology",

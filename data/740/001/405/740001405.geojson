@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.35183,33.908791,-84.35183,33.908791",
     "geom:latitude":33.908791,
     "geom:longitude":-84.35183,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5667 Peachtree Dunwoody Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -53,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923977,
-    "wof:geomhash":"04f1fc28e485e1332750765c642e1445",
+    "wof:geomhash":"0c0396594e06d69bec89323b0068b77b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,13 +68,15 @@
         }
     ],
     "wof:id":740001405,
-    "wof:lastmodified":1472617813,
+    "wof:lastmodified":1510943166,
     "wof:name":"Grablowsky, Oscar M MD",
     "wof:parent_id":85890019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740003145
+    ],
     "wof:tags":[
         "physician",
         "surgeon",

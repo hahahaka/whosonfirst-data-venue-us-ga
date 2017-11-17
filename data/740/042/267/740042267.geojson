@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.12943,33.542655,-82.12943,33.542655",
     "geom:latitude":33.542655,
     "geom:longitude":-82.12943,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7013 Evans Town Center Blvd",
     "sg:city":"Evans",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461925732,
-    "wof:geomhash":"8754df16b23d42ffa04c49ed96891522",
+    "wof:geomhash":"376bb5178f5fac2a67680bd08cc26f18",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":740042267,
-    "wof:lastmodified":1472618028,
+    "wof:lastmodified":1510943598,
     "wof:name":"Shepard Plunkett Hamilton & Boudreaux LLP",
     "wof:parent_id":85868555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740042097
+    ],
     "wof:tags":[
         "attorney",
         "law",

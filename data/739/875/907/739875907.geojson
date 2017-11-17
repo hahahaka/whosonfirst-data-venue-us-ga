@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.736547,33.726012,-84.736547,33.726012",
     "geom:latitude":33.726012,
     "geom:longitude":-84.736547,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2911 Chapel Hill Rd",
     "sg:city":"Douglasville",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461918911,
-    "wof:geomhash":"8b479df0200e52f704d0b94da06a9d4c",
+    "wof:geomhash":"c916b9545410f1b684c70e762e46146f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":739875907,
-    "wof:lastmodified":1472619507,
+    "wof:lastmodified":1510943386,
     "wof:name":"Provino's",
     "wof:parent_id":85824659,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739728331
+    ],
     "wof:tags":[]
 },
   "bbox": [

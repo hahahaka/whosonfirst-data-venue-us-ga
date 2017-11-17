@@ -7,13 +7,16 @@
     "addr:postcode":"30329",
     "addr:street":"Briarcliff Rd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.332199,33.826599,-84.332199,33.826599",
     "geom:latitude":33.826599,
     "geom:longitude":-84.332199,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2484 Briarcliff Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923130,
-    "wof:geomhash":"02d1136151cd9d5cda9a32c3fc5ba568",
+    "wof:geomhash":"1e41fa138ba8600d1c18dc03e6b9f34d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +61,17 @@
         }
     ],
     "wof:id":739979893,
-    "wof:lastmodified":1472619702,
+    "wof:lastmodified":1510942397,
     "wof:name":"Moe's Southwest Grill",
     "wof:parent_id":420517723,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739768733
+    ],
+    "wof:supersedes":[
+        739768733
+    ],
     "wof:tags":[
         "mexican"
     ]

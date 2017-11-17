@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.491703,33.965887,-84.491703,33.965887",
     "geom:latitude":33.965887,
     "geom:longitude":-84.491703,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2100 Roswell Rd Ste 400C",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916669,
-    "wof:geomhash":"a3d8599b4253bc5ffbb5f56ece6a9c73",
+    "wof:geomhash":"6993fac4ac87f540174f6958a400952a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":739819353,
-    "wof:lastmodified":1472619404,
+    "wof:lastmodified":1510943522,
     "wof:name":"Animal Atlanta",
     "wof:parent_id":85857049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723214453
+    ],
     "wof:tags":[
         "store"
     ]

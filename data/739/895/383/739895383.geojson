@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.049721,33.01416,-85.049721,33.01416",
     "geom:latitude":33.01416,
     "geom:longitude":-85.049721,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1500 Lukken Industrial Dr W",
     "sg:city":"Lagrange",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461919638,
-    "wof:geomhash":"920dcc708d20ad86905c9fc58a0191e9",
+    "wof:geomhash":"52874fc584db964b3011f776ae2e2e85",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,13 +50,15 @@
         }
     ],
     "wof:id":739895383,
-    "wof:lastmodified":1472619507,
+    "wof:lastmodified":1510943285,
     "wof:name":"Arby's",
     "wof:parent_id":85830157,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739767071
+    ],
     "wof:tags":[]
 },
   "bbox": [

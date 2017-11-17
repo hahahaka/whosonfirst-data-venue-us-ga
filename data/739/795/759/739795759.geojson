@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.251404,33.7687,-84.251404,33.7687",
     "geom:latitude":33.7687,
     "geom:longitude":-84.251404,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4151 Memorial Dr Ste 103C",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915600,
-    "wof:geomhash":"f0d8d5b70148562743318e093a86bb52",
+    "wof:geomhash":"a3112f61e0ecb7c3c2bd176a69c04b3e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":739795759,
-    "wof:lastmodified":1472619371,
+    "wof:lastmodified":1510942616,
     "wof:name":"Kensington Group",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723416205
+    ],
     "wof:tags":[
         "management",
         "property"

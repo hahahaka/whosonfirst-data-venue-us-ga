@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.320198,34.061901,-84.320198,34.061901",
     "geom:latitude":34.061901,
     "geom:longitude":-84.320198,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2500 Hospital Blvd Ste 250",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461917384,
-    "wof:geomhash":"5ea742659052fa021c7fec6f25c1f3df",
+    "wof:geomhash":"79279da61170d11ac884f25663b9c36f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":739837235,
-    "wof:lastmodified":1472619435,
+    "wof:lastmodified":1510942683,
     "wof:name":"North Fulton Internal Medicine",
     "wof:parent_id":85851631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723346701
+    ],
     "wof:tags":[
         "medicine",
         "internal"

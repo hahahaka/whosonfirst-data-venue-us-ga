@@ -7,13 +7,16 @@
     "addr:postcode":"30075",
     "addr:street":"Crabapple Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.361114,34.050264,-84.361114,34.050264",
     "geom:latitude":34.050264,
     "geom:longitude":-84.361114,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11050 Crabapple Rd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461889318,
-    "wof:geomhash":"529d7f296d37aefb5877b9cf370b8d1e",
+    "wof:geomhash":"6b1216891509d5e829ddd1df5fda5377",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":722822943,
-    "wof:lastmodified":1472618703,
+    "wof:lastmodified":1510941217,
     "wof:name":"Byrd Medical & Anti-Aging Ctr",
     "wof:parent_id":85823117,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739833671
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

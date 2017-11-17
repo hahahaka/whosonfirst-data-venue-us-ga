@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.961878,34.070438,-83.961878,34.070438",
     "geom:latitude":34.070438,
     "geom:longitude":-83.961878,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2960 Gravel Springs Rd",
     "sg:city":"Buford",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"US",
     "wof:created":1461925005,
-    "wof:geomhash":"62993de590288c818007f0cb48f11302",
+    "wof:geomhash":"fdd47e540bfe1dd56b57591158a4bc37",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,13 +49,15 @@
         }
     ],
     "wof:id":740026677,
-    "wof:lastmodified":1472617977,
+    "wof:lastmodified":1510943332,
     "wof:name":"Gravel Springs Dental",
     "wof:parent_id":85858547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740027189
+    ],
     "wof:tags":[]
 },
   "bbox": [

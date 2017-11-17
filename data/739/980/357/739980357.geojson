@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.331766,33.826882,-84.331766,33.826882",
     "geom:latitude":33.826882,
     "geom:longitude":-84.331766,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2480 Briarcliff Road NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923146,
-    "wof:geomhash":"4f7f5e91604dac7f44558cdbb1bc0115",
+    "wof:geomhash":"5b39b695fc4ba7a018f9c60fab249a33",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":739980357,
-    "wof:lastmodified":1472619685,
+    "wof:lastmodified":1510942433,
     "wof:name":"Electric Beach Tanning Company",
     "wof:parent_id":420517723,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722566403
+    ],
     "wof:tags":[]
 },
   "bbox": [

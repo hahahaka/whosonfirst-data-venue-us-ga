@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.998751,34.092408,-83.998751,34.092408",
     "geom:latitude":34.092408,
     "geom:longitude":-83.998751,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4140 S Lee St",
     "sg:city":"Buford",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924938,
-    "wof:geomhash":"43d4cbe3e21ce5c93bec8ff021ddc1f3",
+    "wof:geomhash":"7b8cdaa242422588723f8939ea5d6042",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,13 +50,15 @@
         }
     ],
     "wof:id":740025975,
-    "wof:lastmodified":1472617985,
+    "wof:lastmodified":1510941964,
     "wof:name":"Creative Minds Tattoo & Body Piercing",
     "wof:parent_id":85858547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740025259
+    ],
     "wof:tags":[]
 },
   "bbox": [

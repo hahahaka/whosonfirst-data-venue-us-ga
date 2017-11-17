@@ -7,13 +7,16 @@
     "addr:postcode":"31904",
     "addr:street":"2Nd Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.990069,32.49826,-84.990069,32.49826",
     "geom:latitude":32.49826,
     "geom:longitude":-84.990069,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3719 2nd Ave",
     "sg:city":"Columbus",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461927126,
-    "wof:geomhash":"6ef3afad685f3ef02bf6e7b42c63f86b",
+    "wof:geomhash":"51617d2669236afadab4974d5f3f2da3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":740073775,
-    "wof:lastmodified":1472618234,
+    "wof:lastmodified":1510944000,
     "wof:name":"Peggy's Image Makers",
     "wof:parent_id":85806021,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722928795
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

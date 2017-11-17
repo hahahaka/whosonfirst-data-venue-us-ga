@@ -7,6 +7,7 @@
     "addr:postcode":"30326",
     "addr:street":"Lenox Road Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.362561,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3475 Lenox Road NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922821,
-    "wof:geomhash":"d2db7ee0b2d38022f2ed96c78347312f",
+    "wof:geomhash":"705e3f46e0360c00913c2bf4231457a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,12 +71,14 @@
         }
     ],
     "wof:id":739971741,
-    "wof:lastmodified":1486672202,
+    "wof:lastmodified":1510943334,
     "wof:name":"Azar Richard J Atty",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739969729
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

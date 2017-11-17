@@ -7,6 +7,7 @@
     "addr:postcode":"30314",
     "addr:street":"Martin Luther King Jr Dr Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.417024,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"864 Martin Luther King Jr Dr SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461896751,
-    "wof:geomhash":"47a988552086858d808b43010ea48330",
+    "wof:geomhash":"aa1f5b4d25dc9d2b5fcd61d0787af584",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":723183225,
-    "wof:lastmodified":1491924728,
+    "wof:lastmodified":1510941806,
     "wof:name":"Philly's Finest",
     "wof:parent_id":85872049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739953619
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"

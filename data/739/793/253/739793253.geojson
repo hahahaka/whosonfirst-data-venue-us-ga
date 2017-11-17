@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.301896,33.759932,-84.301896,33.759932",
     "geom:latitude":33.759932,
     "geom:longitude":-84.301896,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"321 W Hill St Suite 6",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915494,
-    "wof:geomhash":"47f61c9c500ba6bbd75a4f15a60b00fe",
+    "wof:geomhash":"ced5f5f735a2737422240baaa030ddcb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":739793253,
-    "wof:lastmodified":1472619341,
+    "wof:lastmodified":1510942764,
     "wof:name":"Decatur Eye Care",
     "wof:parent_id":85838925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723100315
+    ],
     "wof:tags":[]
 },
   "bbox": [

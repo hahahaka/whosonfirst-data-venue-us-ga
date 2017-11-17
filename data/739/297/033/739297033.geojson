@@ -7,13 +7,16 @@
     "addr:postcode":"30062",
     "addr:street":"E Piedmont Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.481288,33.98053,-84.481288,33.98053",
     "geom:latitude":33.98053,
     "geom:longitude":-84.481288,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1050 E Piedmont Rd",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461904501,
-    "wof:geomhash":"873eccbbcaf3a82243c4b88bc536ba0e",
+    "wof:geomhash":"13dbbafe61a263b3c205bf12d9925036",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":739297033,
-    "wof:lastmodified":1472618041,
+    "wof:lastmodified":1510941908,
     "wof:name":"Project 5",
     "wof:parent_id":85857049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739819601
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
