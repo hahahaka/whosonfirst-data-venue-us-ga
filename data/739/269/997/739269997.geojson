@@ -7,6 +7,7 @@
     "addr:postcode":"30318",
     "addr:street":"Woodland Hills Ave Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.418877,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1960 Woodland Hills Ave NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461903917,
-    "wof:geomhash":"b94ffa11914957b91034940a812554a0",
+    "wof:geomhash":"ed0a09a746324d4ec06327e485285b9c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,12 +71,14 @@
         }
     ],
     "wof:id":739269997,
-    "wof:lastmodified":1486671750,
+    "wof:lastmodified":1534181685,
     "wof:name":"Patricia Preece & Assoc",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739961553
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

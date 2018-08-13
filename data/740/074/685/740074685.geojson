@@ -7,6 +7,7 @@
     "addr:postcode":"31909",
     "addr:street":"Veterans Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.954791,32.536022,-84.954791,32.536022",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.954791,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6298 Veterans Pkwy",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -61,7 +63,7 @@
     },
     "wof:country":"US",
     "wof:created":1461927165,
-    "wof:geomhash":"3decacc4d4abb06db3161f2c4414c69c",
+    "wof:geomhash":"9d21442b15cc1211a016741d6d678f36",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,12 +76,14 @@
         }
     ],
     "wof:id":740074685,
-    "wof:lastmodified":1472618232,
+    "wof:lastmodified":1534181641,
     "wof:name":"Styles By Cooper",
     "wof:parent_id":85820405,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723181321
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "school"

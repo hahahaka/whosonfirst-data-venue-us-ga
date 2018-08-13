@@ -7,6 +7,7 @@
     "addr:postcode":"30083",
     "addr:street":"Memorial Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.21485,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"5300 Memorial Dr",
     "sg:city":"Stone Mountain",
     "sg:classifiers":[
@@ -63,12 +64,15 @@
         }
     ],
     "wof:id":739583067,
-    "wof:lastmodified":1512143679,
+    "wof:lastmodified":1534181668,
     "wof:name":"Allied Home Mrtg Capitl Corp",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723004675,
+        739844681
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "loan",

@@ -7,6 +7,7 @@
     "addr:postcode":"30627",
     "addr:street":"Elberton Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.955963,33.941515,-82.955963,33.941515",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.955963,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2550 Elberton Rd",
     "sg:city":"Carlton",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1461912289,
-    "wof:geomhash":"9b4a55d23e4f1cc32b2fbe09b3dbf32d",
+    "wof:geomhash":"3c2e43f8cb8c8a7fc1f3c517bbf312c8",
     "wof:hierarchy":[],
     "wof:id":739687397,
-    "wof:lastmodified":1472619063,
+    "wof:lastmodified":1534181628,
     "wof:name":"Scott Jones",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740034825
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"

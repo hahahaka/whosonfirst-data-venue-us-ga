@@ -7,6 +7,7 @@
     "addr:postcode":"30062",
     "addr:street":"Shallowford Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.452022,34.037372,-84.452022,34.037372",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.452022,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3225 Shallowford Rd",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461903737,
-    "wof:geomhash":"7b71f5c7b0bc3de5997214506c938ea1",
+    "wof:geomhash":"4067d4223fa3b3bcd653e4a17d0d41c5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":739261373,
-    "wof:lastmodified":1472617897,
+    "wof:lastmodified":1534181651,
     "wof:name":"Pennwell Corporation",
     "wof:parent_id":85803209,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739670123
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "periodical"

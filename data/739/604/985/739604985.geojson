@@ -7,6 +7,7 @@
     "addr:postcode":"31419",
     "addr:street":"Gateway Blvd S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.283249,32.000967,-81.283249,32.000967",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.283249,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11 Gateway Blvd S",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1461910510,
-    "wof:geomhash":"83923094be6a58976e75ca58f0a0aa4b",
+    "wof:geomhash":"3b3c0d3d52bfd199cfc7cb047fd692de",
     "wof:hierarchy":[],
     "wof:id":739604985,
-    "wof:lastmodified":1472618874,
+    "wof:lastmodified":1534181652,
     "wof:name":"Paper Factory The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723462945
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

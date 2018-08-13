@@ -15,6 +15,7 @@
     "geom:longitude":-84.34379,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"128 Perimeter Ctr W",
     "sg:city":"Atlanta",
     "sg:classifiers":[],
@@ -39,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924364,
-    "wof:geomhash":"5c25e66fbacde7b0b4128b07abfc5c46",
+    "wof:geomhash":"1159cb820c72adfd97f9bdb3cb3348ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":740011219,
-    "wof:lastmodified":1491914217,
+    "wof:lastmodified":1534181620,
     "wof:name":"Pet Hotel Petsmart",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740011173
+    ],
     "wof:tags":[]
 },
   "bbox": [

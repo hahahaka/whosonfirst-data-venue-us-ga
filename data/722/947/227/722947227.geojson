@@ -7,6 +7,7 @@
     "addr:postcode":"31029",
     "addr:street":"Zebulon Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.858728,32.905669,-83.858728,32.905669",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.858728,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9818 Zebulon Rd",
     "sg:city":"Forsyth",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1461891774,
-    "wof:geomhash":"723b831ae2f0c39ff2bda7d86684e4e8",
+    "wof:geomhash":"7f858abaeb56e418e2a57986f7b78f2a",
     "wof:hierarchy":[],
     "wof:id":722947227,
-    "wof:lastmodified":1472619010,
+    "wof:lastmodified":1534181636,
     "wof:name":"Williams Chapel AME",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740049815
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -15,6 +15,7 @@
     "geom:longitude":-84.410189,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1009 Marietta St NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -71,7 +72,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922462,
-    "wof:geomhash":"abea262e1c5d20d9b9bea5d654bdd964",
+    "wof:geomhash":"278a98de3f213243c91524d73aa19c93",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -85,13 +86,15 @@
         }
     ],
     "wof:id":739962591,
-    "wof:lastmodified":1486669556,
+    "wof:lastmodified":1534181685,
     "wof:name":"Octane",
     "wof:parent_id":85805581,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739768459
+    ],
     "wof:tags":[
         "shop",
         "espresso",

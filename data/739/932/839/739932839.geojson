@@ -15,6 +15,7 @@
     "geom:longitude":-84.357673,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"918 Austin Ave",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -54,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921144,
-    "wof:geomhash":"dfa03dd180799299221e490b70965538",
+    "wof:geomhash":"733033d8e1e58dfe1c20f9aeae08a049",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,13 +69,15 @@
         }
     ],
     "wof:id":739932839,
-    "wof:lastmodified":1491905626,
+    "wof:lastmodified":1534181682,
     "wof:name":"The Albert",
     "wof:parent_id":420517975,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739932991
+    ],
     "wof:tags":[
         "traditional",
         "american"

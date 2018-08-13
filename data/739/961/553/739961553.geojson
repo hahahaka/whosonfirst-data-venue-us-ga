@@ -15,6 +15,7 @@
     "geom:longitude":-84.418701,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1960 Woodland Hls Ave NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922423,
-    "wof:geomhash":"592c959cb359f5358820b346065688b0",
+    "wof:geomhash":"d6d21515ce2038f2c067d353ccd7c7ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,13 +73,15 @@
         }
     ],
     "wof:id":739961553,
-    "wof:lastmodified":1486668945,
+    "wof:lastmodified":1534181685,
     "wof:name":"Patricia Preece and Associates",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739269997
+    ],
     "wof:tags":[
         "store"
     ]

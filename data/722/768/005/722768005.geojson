@@ -7,6 +7,7 @@
     "addr:postcode":"30327",
     "addr:street":"Downwood Cir Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.426526,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3200 Downwood Cir NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461888279,
-    "wof:geomhash":"56a5c40cbe2da4c5b558371f8fdf00b6",
+    "wof:geomhash":"7eaa407d50f8f8f4cbce6ebeded7dd76",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":722768005,
-    "wof:lastmodified":1486668442,
+    "wof:lastmodified":1534181619,
     "wof:name":"Independent Neurodiagnostic",
     "wof:parent_id":85872137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722548441
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

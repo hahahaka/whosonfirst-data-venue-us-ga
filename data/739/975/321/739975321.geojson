@@ -7,6 +7,7 @@
     "addr:postcode":"30328",
     "addr:street":"Peachtree Dunwoody R",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.351323,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6111 Peachtree Dunwoody R",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922954,
-    "wof:geomhash":"fd68236964f692fb8d34a5f246e269d0",
+    "wof:geomhash":"e4bb9a99b29bde5606dc654fdf09f9f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,13 +70,18 @@
         }
     ],
     "wof:id":739975321,
-    "wof:lastmodified":1491902552,
+    "wof:lastmodified":1534181699,
     "wof:name":"Marmon Darryl S Atty",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739975891,
+        739977479
+    ],
+    "wof:supersedes":[
+        739274803
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,6 +7,7 @@
     "addr:postcode":"30204",
     "addr:street":"City Pond Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.145256,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"158 City Pond Rd",
     "sg:city":"Barnesville",
     "sg:classifiers":[],
@@ -35,12 +36,14 @@
     "wof:geomhash":"8da42a151098d3198865df6900659ef2",
     "wof:hierarchy":[],
     "wof:id":739887277,
-    "wof:lastmodified":1510875091,
+    "wof:lastmodified":1534181634,
     "wof:name":"Midway Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722642307
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

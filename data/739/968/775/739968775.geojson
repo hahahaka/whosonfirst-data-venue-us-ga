@@ -15,6 +15,7 @@
     "geom:longitude":-84.361969,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3475 Lenox Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922703,
-    "wof:geomhash":"542a1c543732e7ca50e60419f384cc50",
+    "wof:geomhash":"cc8c1f2b9853c905c0b56d7133479df3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,13 +74,16 @@
         }
     ],
     "wof:id":739968775,
-    "wof:lastmodified":1486672213,
+    "wof:lastmodified":1534181689,
     "wof:name":"HR Now",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722913837,
+        739677489
+    ],
     "wof:tags":[
         "outsourcing"
     ]

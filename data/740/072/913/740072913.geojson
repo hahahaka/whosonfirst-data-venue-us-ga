@@ -7,6 +7,7 @@
     "addr:postcode":"31901",
     "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.993347,32.46559,-84.993347,32.46559",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.993347,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1041 Broadway",
     "sg:city":"Columbus",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461927085,
-    "wof:geomhash":"5bbcac2b2f47dd698e61d4c85fb47d68",
+    "wof:geomhash":"ed25c88436b03b4a21bb547ac344f86c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +52,14 @@
         }
     ],
     "wof:id":740072913,
-    "wof:lastmodified":1472618234,
+    "wof:lastmodified":1534181642,
     "wof:name":"Cannon Brew Pub The",
     "wof:parent_id":85882117,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722760033
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

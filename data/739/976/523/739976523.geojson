@@ -7,6 +7,7 @@
     "addr:postcode":"30328",
     "addr:street":"Abernathy Rd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.349899,33.9352,-84.349899,33.9352",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.349899,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1200 Abernathy Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922994,
-    "wof:geomhash":"187bdbda6a75b0d6f9fba3171d02ad39",
+    "wof:geomhash":"f8e0e3162008eeaa2ad3a627bcd592cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,12 +70,14 @@
         }
     ],
     "wof:id":739976523,
-    "wof:lastmodified":1472619672,
+    "wof:lastmodified":1534181617,
     "wof:name":"Z Capital Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722543827
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "investing"

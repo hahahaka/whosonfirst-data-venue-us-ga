@@ -7,6 +7,7 @@
     "addr:postcode":"31029",
     "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.924699,33.033807,-83.924699,33.033807",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.924699,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20 E Main St",
     "sg:city":"Forsyth",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1461884202,
-    "wof:geomhash":"b291aa88f4ea8fd78bb19144f36c6a32",
+    "wof:geomhash":"b95b35ff1c06bcc6f189a2745631656a",
     "wof:hierarchy":[],
     "wof:id":722559977,
-    "wof:lastmodified":1472617949,
+    "wof:lastmodified":1534181636,
     "wof:name":"Bunn Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740049775
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

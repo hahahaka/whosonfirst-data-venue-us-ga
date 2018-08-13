@@ -7,6 +7,7 @@
     "addr:postcode":"30345",
     "addr:street":"Henderson Mill Rd Ne Ste 300",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.258926,33.852066,-84.258926,33.852066",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.258926,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2296 Henderson Mill Rd NE Ste 300",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -43,15 +45,17 @@
     },
     "wof:country":"US",
     "wof:created":1461924256,
-    "wof:geomhash":"661842bc4fe1243b38ea7b85588e4be7",
+    "wof:geomhash":"e2cb9dfb7b9f9799e3fea87bcbfdb3e4",
     "wof:hierarchy":[],
     "wof:id":740008633,
-    "wof:lastmodified":1472617872,
+    "wof:lastmodified":1534181619,
     "wof:name":"Silk, Howard J, Md - Atlanta Allergy & Asthma Clnc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740008951
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

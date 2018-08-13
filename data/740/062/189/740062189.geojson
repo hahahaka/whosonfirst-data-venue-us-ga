@@ -7,6 +7,7 @@
     "addr:postcode":"31518",
     "addr:street":"Antioch Church Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.191928,31.572382,-82.191928,31.572382",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.191928,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"305 Antioch Church Rd",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1461926626,
-    "wof:geomhash":"8a449525883fddfc62e5547b86569cbc",
+    "wof:geomhash":"e21d7df7a8501d3421f47891411436a8",
     "wof:hierarchy":[],
     "wof:id":740062189,
-    "wof:lastmodified":1472618126,
+    "wof:lastmodified":1534181651,
     "wof:name":"Royce Yawn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722970777
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "farm"

@@ -7,6 +7,7 @@
     "addr:postcode":"30064",
     "addr:street":"Dallas Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.654624,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"3625 Dallas Hwy",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -59,12 +60,15 @@
         }
     ],
     "wof:id":722812555,
-    "wof:lastmodified":1510874709,
+    "wof:lastmodified":1534181665,
     "wof:name":"Kirkland's",
     "wof:parent_id":85839059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722846633,
+        739823649
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "furnishing",

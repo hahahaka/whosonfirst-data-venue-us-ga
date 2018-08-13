@@ -7,6 +7,7 @@
     "addr:postcode":"30004",
     "addr:street":"Haynes Bridge Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.293515,34.069725,-84.293515,34.069725",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.293515,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11770 Haynes Bridge Rd",
     "sg:city":"Alpharetta",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461899731,
-    "wof:geomhash":"a2622b972c8213b121a56aa05713d035",
+    "wof:geomhash":"7537dd089a62fde587d9284c276f2890",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":723335953,
-    "wof:lastmodified":1472618938,
+    "wof:lastmodified":1534181634,
     "wof:name":"Mobile Joe's Landscaping",
     "wof:parent_id":85853841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739338483
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "lawn",

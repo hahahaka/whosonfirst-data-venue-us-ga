@@ -14,6 +14,7 @@
     "geom:longitude":-84.581902,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6410 Highway 92",
     "sg:city":"Acworth",
     "sg:classifiers":[
@@ -45,16 +46,19 @@
     },
     "wof:country":"US",
     "wof:created":1461918442,
-    "wof:geomhash":"bcdabdf3821240ecfda2c727a7cbd0c0",
+    "wof:geomhash":"104fa62d665689985447bc05028e45f6",
     "wof:hierarchy":[],
     "wof:id":739863487,
-    "wof:lastmodified":1472619480,
+    "wof:lastmodified":1534181671,
     "wof:name":"Webb P J DVM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739863651,
+        739863601
+    ],
     "wof:tags":[
         "veterinarian",
         "boarding/pet",

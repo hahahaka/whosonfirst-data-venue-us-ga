@@ -7,6 +7,7 @@
     "addr:postcode":"30236",
     "addr:street":"Spur 138",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.360653,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"888 Spur 138",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -48,12 +49,14 @@
     "wof:geomhash":"471047a90dff44094255e6cb1ec35ffd",
     "wof:hierarchy":[],
     "wof:id":739767023,
-    "wof:lastmodified":1510697776,
+    "wof:lastmodified":1534181675,
     "wof:name":"Checkers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739894735
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

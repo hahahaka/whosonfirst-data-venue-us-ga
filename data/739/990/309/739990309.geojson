@@ -7,6 +7,7 @@
     "addr:postcode":"30339",
     "addr:street":"Galleria Pkwy Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.4655,33.882702,-84.4655,33.882702",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.4655,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1 Galleria Pkwy SE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923565,
-    "wof:geomhash":"090c02aba7e8b5a9380e18f6b913307b",
+    "wof:geomhash":"4dc395af0e3b4daef64e09c546bf4e00",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":739990309,
-    "wof:lastmodified":1472619692,
+    "wof:lastmodified":1534181629,
     "wof:name":"Anna's Place",
     "wof:parent_id":85813197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722593331
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory",

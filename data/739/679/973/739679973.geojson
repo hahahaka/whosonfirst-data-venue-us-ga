@@ -7,6 +7,7 @@
     "addr:postcode":"30663",
     "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.623268,33.629729,-83.623268,33.629729",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.623268,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"112 W Main St",
     "sg:city":"Rutledge",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1461912144,
-    "wof:geomhash":"e436ad997fc598c6cc5e39e8d69dbee8",
+    "wof:geomhash":"65adf2ba1facb377047f34f60b880ec5",
     "wof:hierarchy":[],
     "wof:id":739679973,
-    "wof:lastmodified":1472619086,
+    "wof:lastmodified":1534181629,
     "wof:name":"Rutledge Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740036905
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "church"

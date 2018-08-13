@@ -14,6 +14,7 @@
     "geom:longitude":-84.035127,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2000 Riverside Pkwy",
     "sg:city":"Lawrenceville",
     "sg:classifiers":[
@@ -51,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916102,
-    "wof:geomhash":"ca0f2aa78e0c06636c8952a096ae2361",
+    "wof:geomhash":"43113cd8853f213b32e21381db750ec3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,13 +65,15 @@
         }
     ],
     "wof:id":739805937,
-    "wof:lastmodified":1472619382,
+    "wof:lastmodified":1534181662,
     "wof:name":"K C Bowen Co",
     "wof:parent_id":85851103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722577713
+    ],
     "wof:tags":[
         "development",
         "commercial"

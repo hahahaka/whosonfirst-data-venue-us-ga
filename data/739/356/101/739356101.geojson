@@ -14,6 +14,7 @@
     "geom:longitude":-84.257984,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4001 Presidential Pkwy",
     "sg:city":"Doraville",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461905738,
-    "wof:geomhash":"7144a800434563ae7813c2be0228969c",
+    "wof:geomhash":"b4180afa47d1a50efc38ecbb9c966414",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":739356101,
-    "wof:lastmodified":1472618202,
+    "wof:lastmodified":1534181638,
     "wof:name":"Miami Entertainment",
     "wof:parent_id":85889941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739995519
+    ],
     "wof:tags":[
         "ballroom"
     ]

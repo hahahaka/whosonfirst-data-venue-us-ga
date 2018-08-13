@@ -14,6 +14,7 @@
     "geom:longitude":-84.080314,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"750 Peachtree Industrial Blvd",
     "sg:city":"Suwanee",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915334,
-    "wof:geomhash":"0b32de8a89f689f8fce8532a19bfc92e",
+    "wof:geomhash":"1c00a26197dca6bb9d966470f9986dbc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":739789241,
-    "wof:lastmodified":1472619342,
+    "wof:lastmodified":1534181661,
     "wof:name":"Animal Care Center of Suwanee",
     "wof:parent_id":85802315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723277543
+    ],
     "wof:tags":[
         "veterinarian"
     ]

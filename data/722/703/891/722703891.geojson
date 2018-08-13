@@ -14,6 +14,7 @@
     "geom:longitude":-83.985572,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"880 Cripple Creek Dr",
     "sg:city":"Lawrenceville",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461887040,
-    "wof:geomhash":"ed5a9537dc627976220af8182b74b47b",
+    "wof:geomhash":"f5b72ab6de20518d1fce06ef7fe4bd6a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":722703891,
-    "wof:lastmodified":1472618413,
+    "wof:lastmodified":1534181640,
     "wof:name":"Auto Clinic Automotive & Truck",
     "wof:parent_id":85853829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722662035
+    ],
     "wof:tags":[
         "repairing",
         "automobile"

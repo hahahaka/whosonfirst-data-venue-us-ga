@@ -15,6 +15,7 @@
     "geom:longitude":-84.369632,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1544 Piedmont Ave NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922654,
-    "wof:geomhash":"afebdb91becef213719a6b6aaf9ed2b9",
+    "wof:geomhash":"f8e113f60cc2b3b8c700646fbbff6be6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,13 +70,15 @@
         }
     ],
     "wof:id":739967349,
-    "wof:lastmodified":1486669705,
+    "wof:lastmodified":1534181687,
     "wof:name":"The Laundry Lounge",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739966165
+    ],
     "wof:tags":[]
 },
   "bbox": [

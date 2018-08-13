@@ -7,6 +7,7 @@
     "addr:postcode":"30060",
     "addr:street":"Kennesaw Ave Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.564928,33.972889,-84.564928,33.972889",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.564928,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"760 Kennesaw Ave NW",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916526,
-    "wof:geomhash":"26cafb0e05144edf7f308184f96906e5",
+    "wof:geomhash":"6b2cecc9ef532df2858f69c400e8d009",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,14 @@
         }
     ],
     "wof:id":739815531,
-    "wof:lastmodified":1472619396,
+    "wof:lastmodified":1534181632,
     "wof:name":"Kenmar Pediatrics II",
     "wof:parent_id":85839059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722624171
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

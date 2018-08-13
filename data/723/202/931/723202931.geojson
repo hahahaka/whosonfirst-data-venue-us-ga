@@ -7,6 +7,7 @@
     "addr:postcode":"31419",
     "addr:street":"Gateway Blvd S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-81.283249,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"11 Gateway Blvd S",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -45,12 +46,14 @@
     "wof:geomhash":"3b3c0d3d52bfd199cfc7cb047fd692de",
     "wof:hierarchy":[],
     "wof:id":723202931,
-    "wof:lastmodified":1510699715,
+    "wof:lastmodified":1534181639,
     "wof:name":"Reebok",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739356827
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "athletic",

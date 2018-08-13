@@ -7,6 +7,7 @@
     "addr:postcode":"30228",
     "addr:street":"Tara Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.324711,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"11325 Tara Blvd",
     "sg:city":"Hampton",
     "sg:classifiers":[
@@ -46,12 +47,14 @@
     "wof:geomhash":"790625cac394ed0b2b2ca032cb714f30",
     "wof:hierarchy":[],
     "wof:id":739766939,
-    "wof:lastmodified":1511999444,
+    "wof:lastmodified":1534181675,
     "wof:name":"KFC - Kentucky Fried Chicken",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739895977
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

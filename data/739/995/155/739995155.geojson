@@ -14,6 +14,7 @@
     "geom:longitude":-84.268997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5725 Buford Hwy NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923752,
-    "wof:geomhash":"4f4e3e6636e1d648b6f58cf271231bc0",
+    "wof:geomhash":"7f45edbdf4d07a968d11dc605997bb65",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +55,15 @@
         }
     ],
     "wof:id":739995155,
-    "wof:lastmodified":1472619697,
+    "wof:lastmodified":1534181698,
     "wof:name":"Acupuncture Center",
     "wof:parent_id":85889941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739463947
+    ],
     "wof:tags":[
         "acupuncture"
     ]

@@ -7,6 +7,7 @@
     "addr:postcode":"30519",
     "addr:street":"Buford Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-83.988701,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"3226 Buford Dr",
     "sg:city":"Buford",
     "sg:classifiers":[
@@ -56,12 +57,14 @@
         }
     ],
     "wof:id":740027303,
-    "wof:lastmodified":1510874761,
+    "wof:lastmodified":1534181624,
     "wof:name":"Romano's Macaroni Grill",
     "wof:parent_id":85858547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723060949
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

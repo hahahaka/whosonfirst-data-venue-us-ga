@@ -7,6 +7,7 @@
     "addr:postcode":"30305",
     "addr:street":"Piedmont Rd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.380592,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3575 Piedmont Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920923,
-    "wof:geomhash":"56dea85992b42e61a9dc623f2d305ff6",
+    "wof:geomhash":"5736c79c37802d8fc71985045fb8c51b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":739927631,
-    "wof:lastmodified":1486668947,
+    "wof:lastmodified":1534181635,
     "wof:name":"The Guardian Foundation Inc PA",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723105037
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

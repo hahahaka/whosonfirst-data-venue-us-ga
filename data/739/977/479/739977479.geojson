@@ -15,6 +15,7 @@
     "geom:longitude":-84.351254,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6111 Peachtree Dunwoody Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -51,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923043,
-    "wof:geomhash":"8cf67e4e64086b8c4b1e3a76846c76bf",
+    "wof:geomhash":"0bd5561b3ca8824af88f9e9e329d43cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,13 +74,17 @@
         }
     ],
     "wof:id":739977479,
-    "wof:lastmodified":1491902538,
+    "wof:lastmodified":1534181699,
     "wof:name":"Marmon/Leach",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739975891,
+        739274803,
+        739975321
+    ],
     "wof:tags":[
         "attorney",
         "practice"

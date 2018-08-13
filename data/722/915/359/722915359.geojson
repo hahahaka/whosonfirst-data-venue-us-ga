@@ -14,6 +14,7 @@
     "geom:longitude":-84.12422,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1630 Pleasant Hill Rd",
     "sg:city":"Duluth",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461891090,
-    "wof:geomhash":"e44ecd29af13e88f3d7ee4faf9116711",
+    "wof:geomhash":"4b4792c42c390371a16997e90e956914",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +55,15 @@
         }
     ],
     "wof:id":722915359,
-    "wof:lastmodified":1472618917,
+    "wof:lastmodified":1534181648,
     "wof:name":"Coast Dental Services (de)",
     "wof:parent_id":85810283,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722845279
+    ],
     "wof:tags":[
         "dentist"
     ]

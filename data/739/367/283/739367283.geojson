@@ -2,18 +2,24 @@
   "id": 739367283,
   "type": "Feature",
   "properties": {
-    "addr:full":"301 Cherry St Macon GA 31201",
+    "addr:city":"Macon",
+    "addr:full":"301 Cherry St Macon, Ga 31201",
+    "addr:house_number":"301",
     "addr:housenumber":"301",
+    "addr:phone":"+1 478-752-1585",
     "addr:postcode":"31201",
+    "addr:road":"Cherry St",
+    "addr:state":"GA",
     "addr:street":"Cherry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-83.625245,32.834308,-83.625245,32.834308",
-    "geom:latitude":32.834308,
-    "geom:longitude":-83.625245,
+    "geom:bbox":"-83.63993,32.83118,-83.63993,32.83118",
+    "geom:latitude":32.83118,
+    "geom:longitude":-83.63993,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"301 Cherry St",
     "sg:city":"Macon",
     "sg:classifiers":[
@@ -27,7 +33,11 @@
     "sg:phone":"+1 478 752 1585",
     "sg:postcode":"31201",
     "sg:province":"GA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531043,
+        102530597
+    ],
     "wof:belongsto":[
         85688535,
         102191575,
@@ -38,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300090,
         "sg:id":"SG_5ha4rZEPJeJo8KKr7X7BAS_32.834308_-83.625245@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461905950,
-    "wof:geomhash":"304204cfbdf97ff546d76b8af68b4bbf",
+    "wof:geomhash":"9328dcae76de9ae4e5e21ce3bf0388bb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +66,7 @@
         }
     ],
     "wof:id":739367283,
-    "wof:lastmodified":1472618243,
+    "wof:lastmodified":1534181701,
     "wof:name":"Georgia Sports Hall Of Fame",
     "wof:parent_id":85837705,
     "wof:placetype":"venue",
@@ -65,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -83.625245,
-    32.834308,
-    -83.625245,
-    32.834308
+    -83.63993,
+    32.83118,
+    -83.63993,
+    32.83118
 ],
-  "geometry": {"coordinates":[-83.62524500000001,32.834308],"type":"Point"}
+  "geometry": {"coordinates":[-83.63993000000001,32.83118],"type":"Point"}
 }

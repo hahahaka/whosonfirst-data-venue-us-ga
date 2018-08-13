@@ -7,6 +7,7 @@
     "addr:postcode":"30223",
     "addr:street":"Covington Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.332004,33.33591,-84.332004,33.33591",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.332004,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"21 Covington Rd",
     "sg:city":"Griffin",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1461897082,
-    "wof:geomhash":"431afd2b20f4af75da20d1bc685ff5ba",
+    "wof:geomhash":"219c9d31686366d043adfe99b97b8317",
     "wof:hierarchy":[],
     "wof:id":723200401,
-    "wof:lastmodified":1472618522,
+    "wof:lastmodified":1534181674,
     "wof:name":"Frazier Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739891561
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"

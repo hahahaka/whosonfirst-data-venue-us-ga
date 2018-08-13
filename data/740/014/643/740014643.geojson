@@ -2,18 +2,24 @@
   "id": 740014643,
   "type": "Feature",
   "properties": {
-    "addr:full":"1978 Island Ford Pkwy Atlanta GA 30350",
+    "addr:city":"Sandy Springs",
+    "addr:full":"1978 Island Ford Parkway Sandy Springs, Ga 30350",
+    "addr:house_number":"1978",
     "addr:housenumber":"1978",
+    "addr:phone":"+1 678-538-1321",
     "addr:postcode":"30350",
+    "addr:road":"Island Ford Parkway",
+    "addr:state":"GA",
     "addr:street":"Island Ford Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-84.328413,33.98666,-84.328413,33.98666",
-    "geom:latitude":33.98666,
-    "geom:longitude":-84.328413,
+    "geom:bbox":"-84.32898,33.99372,-84.32898,33.99372",
+    "geom:latitude":33.99372,
+    "geom:longitude":-84.32898,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1978 Island Ford Pkwy",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -28,7 +34,10 @@
     "sg:postcode":"30350",
     "sg:province":"GA",
     "sg:website":"www.nps.gov/chat",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525899
+    ],
     "wof:belongsto":[
         85688535,
         102191575,
@@ -39,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300753,
         "sg:id":"SG_70vma4L8THqvDPMGYMdIdK_33.986660_-84.328413@1303262631"
     },
     "wof:country":"US",
     "wof:created":1461924492,
-    "wof:geomhash":"0e62fb12d3a2da2ed44efd81cfb592a3",
+    "wof:geomhash":"45c3861343553ce0c1c49d54f4165ceb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +66,7 @@
         }
     ],
     "wof:id":740014643,
-    "wof:lastmodified":1472617880,
+    "wof:lastmodified":1534181702,
     "wof:name":"Chattahoochee River National Recreation Area",
     "wof:parent_id":85889957,
     "wof:placetype":"venue",
@@ -66,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -84.328413,
-    33.98666,
-    -84.328413,
-    33.98666
+    -84.32898,
+    33.99372,
+    -84.32898,
+    33.99372
 ],
-  "geometry": {"coordinates":[-84.328413,33.98666],"type":"Point"}
+  "geometry": {"coordinates":[-84.32898,33.99372],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"30328",
     "addr:street":"Vernon Woods Dr Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.376944,33.930845,-84.376944,33.930845",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.376944,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6667 Vernon Woods Dr NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461893318,
-    "wof:geomhash":"4151d9a4eea46d4720eea8a1a65835e2",
+    "wof:geomhash":"bbe382a1c9a45dcf1d42e3547bdae0a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,17 @@
         }
     ],
     "wof:id":723017899,
-    "wof:lastmodified":1472617907,
+    "wof:lastmodified":1534181689,
     "wof:name":"Atlanta Allrgy Asthma Clnic PA",
     "wof:parent_id":85889993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739975495
+    ],
+    "wof:supersedes":[
+        739402915
+    ],
     "wof:tags":[
         "clinic",
         "allergy"

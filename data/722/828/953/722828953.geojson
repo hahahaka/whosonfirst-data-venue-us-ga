@@ -2,18 +2,24 @@
   "id": 722828953,
   "type": "Feature",
   "properties": {
-    "addr:full":"2702 Mechanics Ave Savannah GA 31404",
+    "addr:city":"Thunderbolt",
+    "addr:full":"2702 Mechanics Ave Thunderbolt, Ga 31404-4520",
+    "addr:house_number":"2702",
     "addr:housenumber":"2702",
-    "addr:postcode":"31404",
+    "addr:phone":"+1 912-351-0836",
+    "addr:postcode":"31404-4520",
+    "addr:road":"Mechanics Ave",
+    "addr:state":"GA",
     "addr:street":"Mechanics Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-81.053272,32.034241,-81.053272,32.034241",
-    "geom:latitude":32.034241,
-    "geom:longitude":-81.053272,
+    "geom:bbox":"-81.05312,32.03439,-81.05312,32.03439",
+    "geom:latitude":32.03439,
+    "geom:longitude":-81.05312,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2702 Mechanics Ave",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -30,7 +36,11 @@
     "sg:tags":[
         "protection"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527519,
+        102534139
+    ],
     "wof:belongsto":[
         85688535,
         102191575,
@@ -41,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300662,
         "sg:id":"SG_6fcCpvy08cKJav3sNzGtZB_32.034241_-81.053272@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461889428,
-    "wof:geomhash":"c6593681e91c1f3b01923a151e4847a6",
+    "wof:geomhash":"37ad688a0775164fd58ba3b385f06526",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +69,8 @@
         }
     ],
     "wof:id":722828953,
-    "wof:lastmodified":1472618756,
-    "wof:name":"Thunderbolt Town of",
+    "wof:lastmodified":1534181701,
+    "wof:name":"Thunderbolt Museum",
     "wof:parent_id":85808955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
@@ -70,10 +81,10 @@
     ]
 },
   "bbox": [
-    -81.053272,
-    32.034241,
-    -81.053272,
-    32.034241
+    -81.05312,
+    32.03439,
+    -81.05312,
+    32.03439
 ],
-  "geometry": {"coordinates":[-81.05327200000001,32.034241],"type":"Point"}
+  "geometry": {"coordinates":[-81.05312000000001,32.03439],"type":"Point"}
 }

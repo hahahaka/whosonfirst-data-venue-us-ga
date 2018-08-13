@@ -14,6 +14,7 @@
     "geom:longitude":-84.294886,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"416 Church Street",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915490,
-    "wof:geomhash":"c973d5800eba60ccd587e793e570a03a",
+    "wof:geomhash":"4837cfa29e1256084d4b0a3ef295a675",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":739793131,
-    "wof:lastmodified":1472619340,
+    "wof:lastmodified":1534181661,
     "wof:name":"Taste",
     "wof:parent_id":85890035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739792301
+    ],
     "wof:tags":[
         "decor",
         "bath",

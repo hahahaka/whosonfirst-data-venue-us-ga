@@ -7,6 +7,7 @@
     "addr:postcode":"30577",
     "addr:street":"Big A Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-83.303262,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"825 Big A Rd S",
     "sg:city":"Toccoa",
     "sg:classifiers":[
@@ -41,12 +42,14 @@
     "wof:geomhash":"95ce5fcc40fd7b1b1388baa67bee36e7",
     "wof:hierarchy":[],
     "wof:id":723026301,
-    "wof:lastmodified":1511999711,
+    "wof:lastmodified":1534181657,
     "wof:name":"Mc Donald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739770213
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

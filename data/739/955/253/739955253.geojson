@@ -15,6 +15,7 @@
     "geom:longitude":-84.377566,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"240 Amal Drive SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922193,
-    "wof:geomhash":"865206debc547d03b7da40b746c0993e",
+    "wof:geomhash":"bf06d0c9f9e9753b4b3fb870c7fede9e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":739955253,
-    "wof:lastmodified":1486668160,
+    "wof:lastmodified":1534181685,
     "wof:name":"Park Place South Senior Lp",
     "wof:parent_id":85872129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739954361
+    ],
     "wof:tags":[
         "apartment"
     ]

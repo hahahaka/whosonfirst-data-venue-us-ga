@@ -7,6 +7,7 @@
     "addr:postcode":"30045",
     "addr:street":"Callie Still Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.866347,33.897159,-83.866347,33.897159",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.866347,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2810 Callie Still Rd",
     "sg:city":"Lawrenceville",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461888170,
-    "wof:geomhash":"e8820e6560ae016e06f171c09b38f32e",
+    "wof:geomhash":"317923fddb66314c5da4854dc4227b14",
     "wof:hierarchy":[],
     "wof:id":722762641,
-    "wof:lastmodified":1472618532,
+    "wof:lastmodified":1534181666,
     "wof:name":"Arreola Concrete Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739808441
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "concrete",

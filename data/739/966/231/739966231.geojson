@@ -7,6 +7,7 @@
     "addr:postcode":"30324",
     "addr:street":"Miami Cir Ne Ste 136",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.365416,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"764 Miami Cir NE Ste 136",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -62,12 +63,14 @@
         }
     ],
     "wof:id":739966231,
-    "wof:lastmodified":1510942544,
+    "wof:lastmodified":1534181692,
     "wof:name":"Nicholson Gallery",
     "wof:parent_id":85872095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739967993
+    ],
     "wof:supersedes":[
         723125897
     ],

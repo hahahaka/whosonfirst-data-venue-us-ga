@@ -7,6 +7,7 @@
     "addr:postcode":"30907",
     "addr:street":"Stevens Creek Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.044175,33.51956,-82.044175,33.51956",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.044175,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1049 Stevens Creek Rd",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461902669,
-    "wof:geomhash":"fcd3c64bce2b3c95ffef96dc7c138fa1",
+    "wof:geomhash":"b7786981d301c60e892ec733ef2ea8ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":723486773,
-    "wof:lastmodified":1472619299,
+    "wof:lastmodified":1534181634,
     "wof:name":"Homewood Suites Hotel",
     "wof:parent_id":85876049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740045323
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

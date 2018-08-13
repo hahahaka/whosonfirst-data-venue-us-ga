@@ -7,6 +7,7 @@
     "addr:postcode":"30114",
     "addr:street":"Prominence Point Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.520236,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"154 Prominence Point Pkwy",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -62,12 +63,14 @@
         }
     ],
     "wof:id":739765499,
-    "wof:lastmodified":1511322592,
+    "wof:lastmodified":1534181670,
     "wof:name":"Wendy's",
     "wof:parent_id":85896253,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739866635
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

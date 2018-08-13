@@ -14,6 +14,7 @@
     "geom:longitude":-84.2842,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2675 N Decatur Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -55,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915640,
-    "wof:geomhash":"83449c38180df3282488df4398f39bf7",
+    "wof:geomhash":"edef4b668b9c07d483603bbfa9b70ce4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,13 +69,15 @@
         }
     ],
     "wof:id":739796759,
-    "wof:lastmodified":1472619367,
+    "wof:lastmodified":1534181660,
     "wof:name":"Atlanta Colon & Rectal Surgery PA",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739600365
+    ],
     "wof:tags":[
         "physician",
         "surgeons",

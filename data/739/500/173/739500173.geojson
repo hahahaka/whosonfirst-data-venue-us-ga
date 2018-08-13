@@ -7,6 +7,7 @@
     "addr:postcode":"31021",
     "addr:street":"Bellevue Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.941375,32.530797,-82.941375,32.530797",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.941375,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2400 Bellevue Rd",
     "sg:city":"Dublin",
     "sg:classifiers":[
@@ -40,15 +42,17 @@
     },
     "wof:country":"US",
     "wof:created":1461908434,
-    "wof:geomhash":"493fc9186caaca5c99086949d83e1eb8",
+    "wof:geomhash":"f44cec76340ac4356c86381bdae8e906",
     "wof:hierarchy":[],
     "wof:id":739500173,
-    "wof:lastmodified":1472618572,
+    "wof:lastmodified":1534181653,
     "wof:name":"Gambro Hlth Care Dialysis Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722993239
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "home",

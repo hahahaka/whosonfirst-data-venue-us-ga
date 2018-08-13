@@ -7,6 +7,7 @@
     "addr:postcode":"30342",
     "addr:street":"Lake Hearn Drive Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.352508,33.912543,-84.352508,33.912543",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.352508,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1100 Lake Hearn Drive NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923976,
-    "wof:geomhash":"a8885d2ed2cfc24d652fae57fbec1e5c",
+    "wof:geomhash":"fe441e14dc0aeb6647fb447b6af6e0db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":740001377,
-    "wof:lastmodified":1472617810,
+    "wof:lastmodified":1534181617,
     "wof:name":"Fuller Tama Y M*D",
     "wof:parent_id":85889977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740002283
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

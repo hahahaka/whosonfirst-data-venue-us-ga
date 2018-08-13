@@ -15,6 +15,7 @@
     "geom:longitude":-84.357132,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"950 E Paces Ferry Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -51,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922768,
-    "wof:geomhash":"ed3cf60b40ef318c908497f8f34d25af",
+    "wof:geomhash":"09b8ae2cabb18872b5c1499d38808ab5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,13 +75,16 @@
         }
     ],
     "wof:id":739970459,
-    "wof:lastmodified":1486672203,
+    "wof:lastmodified":1534181700,
     "wof:name":"B B&T Mortgage",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739968555,
+        723271119
+    ],
     "wof:tags":[
         "mortgage"
     ]

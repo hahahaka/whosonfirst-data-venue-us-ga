@@ -2,18 +2,23 @@
   "id": 723005643,
   "type": "Feature",
   "properties": {
-    "addr:full":"32 8th St Augusta GA 30901",
+    "addr:city":"Augusta",
+    "addr:full":"32 Eighth St Augusta, Ga 30901",
+    "addr:house_number":"32",
     "addr:housenumber":"32",
     "addr:postcode":"30901",
+    "addr:road":"Eighth St",
+    "addr:state":"GA",
     "addr:street":"8Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-81.964546,33.476696,-81.964546,33.476696",
-    "geom:latitude":33.476696,
-    "geom:longitude":-81.964546,
+    "geom:bbox":"-81.96432,33.47707,-81.96432,33.47707",
+    "geom:latitude":33.47707,
+    "geom:longitude":-81.96432,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"32 8th St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -31,19 +36,24 @@
         "information",
         "tourist"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525631,
+        102532763
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300637,
         "sg:id":"SG_7EesgX6fMwyJvQhDboiOLW_33.476696_-81.964546@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461893055,
-    "wof:geomhash":"7ba2c0beaeea502d5af7d9f1d85f41e5",
+    "wof:geomhash":"85b6ef17d84c5783571b2676f4dfab48",
     "wof:hierarchy":[],
     "wof:id":723005643,
-    "wof:lastmodified":1472617832,
-    "wof:name":"Cotton Exchange",
+    "wof:lastmodified":1534181617,
+    "wof:name":"Augusta Cotton Exchange Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
@@ -55,10 +65,10 @@
     ]
 },
   "bbox": [
-    -81.964546,
-    33.476696,
-    -81.964546,
-    33.476696
+    -81.96432,
+    33.47707,
+    -81.96432,
+    33.47707
 ],
-  "geometry": {"coordinates":[-81.964546,33.476696],"type":"Point"}
+  "geometry": {"coordinates":[-81.96432,33.47707],"type":"Point"}
 }

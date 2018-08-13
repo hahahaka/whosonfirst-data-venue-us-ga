@@ -7,6 +7,7 @@
     "addr:postcode":"30305",
     "addr:street":"Peachtree Hills Avenue",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.376146,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"351 Peachtree Hills Avenue",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920922,
-    "wof:geomhash":"31462cd18b016f9e947ec5f6247c361a",
+    "wof:geomhash":"e34d5d4d4869724e675685ffe71c25b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,12 +74,14 @@
         }
     ],
     "wof:id":739927595,
-    "wof:lastmodified":1486668603,
+    "wof:lastmodified":1534181680,
     "wof:name":"Baker Knapp & Tubbs",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739925767
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "store"

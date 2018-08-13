@@ -15,6 +15,7 @@
     "geom:longitude":-84.340515,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4400 Ashford Dunwoody Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924349,
-    "wof:geomhash":"0a0cf2069703fc88cce3e21157702cab",
+    "wof:geomhash":"e797b5322b8406f281c433b1a26988ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,13 +70,16 @@
         }
     ],
     "wof:id":740010945,
-    "wof:lastmodified":1491914235,
+    "wof:lastmodified":1534181620,
     "wof:name":"Walking Company the",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740010739,
+        740010527
+    ],
     "wof:tags":[
         "store"
     ]

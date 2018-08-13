@@ -2,19 +2,25 @@
   "id": 739947477,
   "type": "Feature",
   "properties": {
-    "addr:full":"1050 Ralph David Abernathy Blvd SW Atlanta GA 30310",
+    "addr:city":"Atlanta",
+    "addr:full":"1050 Ralph David Abernathy Blvd Sw Atlanta, Ga 30310",
+    "addr:house_number":"1050",
     "addr:housenumber":"1050",
+    "addr:phone":"+1 404-753-7735",
     "addr:postcode":"30310",
+    "addr:road":"Ralph David Abernathy Blvd Sw",
+    "addr:state":"GA",
     "addr:street":"Ralph David Abernathy Blvd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-84.422393,33.737565,-84.422393,33.737565",
-    "geom:latitude":33.737565,
-    "geom:longitude":-84.422393,
+    "geom:bbox":"-84.42282,33.73821,-84.42282,33.73821",
+    "geom:latitude":33.73821,
+    "geom:longitude":-84.42282,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1050 Ralph David Abernathy Blvd SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -29,7 +35,11 @@
     "sg:postcode":"30310",
     "sg:province":"GA",
     "sg:website":"www.wrensnestonline.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525899,
+        102526927
+    ],
     "wof:belongsto":[
         85855423,
         102191575,
@@ -41,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300006,
         "sg:id":"SG_5twOlhVkv7BiVIC8tUXICp_33.737565_-84.422393@1303262613"
     },
     "wof:country":"US",
     "wof:created":1461921826,
-    "wof:geomhash":"5a89267a3cb8e7f193cf261ca0297081",
+    "wof:geomhash":"3d7a8a2c3b8ef54c33563fc0547ac91b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,8 +70,8 @@
         }
     ],
     "wof:id":739947477,
-    "wof:lastmodified":1486667911,
-    "wof:name":"Wren's Nest House Museum",
+    "wof:lastmodified":1534181701,
+    "wof:name":"Wren'S Nest House Museum",
     "wof:parent_id":85855423,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
@@ -69,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -84.422393,
-    33.737565,
-    -84.422393,
-    33.737565
+    -84.42282,
+    33.73821,
+    -84.42282,
+    33.73821
 ],
-  "geometry": {"coordinates":[-84.422393,33.737565],"type":"Point"}
+  "geometry": {"coordinates":[-84.42282,33.73821],"type":"Point"}
 }

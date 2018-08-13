@@ -7,6 +7,7 @@
     "addr:postcode":"30324",
     "addr:street":"Miami Cir Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.364285,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"761 Miami Cir NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461895423,
-    "wof:geomhash":"9db65b355c95d482850860eab1f67868",
+    "wof:geomhash":"9caed680fbf07c44124576484bbcb66c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":723115297,
-    "wof:lastmodified":1486671521,
+    "wof:lastmodified":1534181635,
     "wof:name":"Doors Cantera Atlanta",
     "wof:parent_id":85872095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722645527
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "door"

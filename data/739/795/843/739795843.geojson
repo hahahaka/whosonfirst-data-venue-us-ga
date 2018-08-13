@@ -14,6 +14,7 @@
     "geom:longitude":-84.24048,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3630 Camp Cir",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915603,
-    "wof:geomhash":"109facdd8654d5d16cf53fd18e5e7f3a",
+    "wof:geomhash":"fbed88faaf1b4b40ad04c95c624b3131",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":739795843,
-    "wof:lastmodified":1472619373,
+    "wof:lastmodified":1534181660,
     "wof:name":"Magistrate- Criminal Div",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722708187
+    ],
     "wof:tags":[
         "justice"
     ]

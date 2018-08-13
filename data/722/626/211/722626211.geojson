@@ -14,6 +14,7 @@
     "geom:longitude":-84.352516,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5671 Peachtree Dunwoody Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461885517,
-    "wof:geomhash":"aebe723e20f66bfde21419abebb7afd6",
+    "wof:geomhash":"ebca3c591e002c59550f82588d183b11",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":722626211,
-    "wof:lastmodified":1472618094,
+    "wof:lastmodified":1534181632,
     "wof:name":"Leslie Kelman MD PC",
     "wof:parent_id":85890009,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740001887
+    ],
     "wof:tags":[
         "neurologist"
     ]

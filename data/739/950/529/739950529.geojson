@@ -7,6 +7,7 @@
     "addr:postcode":"30312",
     "addr:street":"Boulevard Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.371949,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"315 Boulevard NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921969,
-    "wof:geomhash":"61cfa71fe118dcdaa20e45c658748af3",
+    "wof:geomhash":"f5ae4d0901b31957c2b40d3be6d5a03b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":739950529,
-    "wof:lastmodified":1491912301,
+    "wof:lastmodified":1534181687,
     "wof:name":"Lue John MD Facog",
     "wof:parent_id":85872109,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739952363
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "obstetrician",

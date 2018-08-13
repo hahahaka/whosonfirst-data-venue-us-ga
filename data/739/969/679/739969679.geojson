@@ -7,6 +7,7 @@
     "addr:postcode":"30326",
     "addr:street":"Peachtree Road Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.358956,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3500 Peachtree Road NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922739,
-    "wof:geomhash":"0ee39a79b45c32a1ac4093b2aee67bb5",
+    "wof:geomhash":"943aafd4657c39eadffc046574171108",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":739969679,
-    "wof:lastmodified":1486668271,
+    "wof:lastmodified":1534181690,
     "wof:name":"Tory by Trb Retail",
     "wof:parent_id":85872103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739970731
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory",

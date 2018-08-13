@@ -7,6 +7,7 @@
     "addr:postcode":"30223",
     "addr:street":"N Expy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.288121,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1424 N Expy",
     "sg:city":"Griffin",
     "sg:classifiers":[
@@ -42,12 +43,14 @@
     "wof:geomhash":"e2226f5326a33ef078a6f737a1cc0780",
     "wof:hierarchy":[],
     "wof:id":739667535,
-    "wof:lastmodified":1511318979,
+    "wof:lastmodified":1534181674,
     "wof:name":"Cici's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739891419
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

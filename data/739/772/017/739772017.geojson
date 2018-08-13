@@ -7,6 +7,7 @@
     "addr:postcode":"31032",
     "addr:street":"W Clinton St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-83.537398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"301 W Clinton St",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -46,12 +47,14 @@
     "wof:geomhash":"4cb6915478b386243d238b3036cc7b75",
     "wof:hierarchy":[],
     "wof:id":739772017,
-    "wof:lastmodified":1512143700,
+    "wof:lastmodified":1534181636,
     "wof:name":"Sonic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740050183
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

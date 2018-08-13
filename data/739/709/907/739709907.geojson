@@ -7,6 +7,7 @@
     "addr:postcode":"30342",
     "addr:street":"Roswell Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.381758,33.886574,-84.381758,33.886574",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.381758,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4890 Roswell Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461912781,
-    "wof:geomhash":"4f7bf5e4226fd148dbdf74d3ece71ee2",
+    "wof:geomhash":"31a6f8bf62bedd0eb4d1160626ee5ebd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":739709907,
-    "wof:lastmodified":1472619145,
+    "wof:lastmodified":1534181619,
     "wof:name":"Piedmont Physicians Group",
     "wof:parent_id":85834317,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740003977
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

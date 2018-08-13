@@ -7,6 +7,7 @@
     "addr:postcode":"30310",
     "addr:street":"Dill Ave Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.418404,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"923 Dill Ave SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921825,
-    "wof:geomhash":"21a9347b00814067b85a2604188444a6",
+    "wof:geomhash":"dd8da691b94c90d79689b470bc9bdf3e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,19 @@
         }
     ],
     "wof:id":739947433,
-    "wof:lastmodified":1486667932,
+    "wof:lastmodified":1534181689,
     "wof:name":"Sparlin Chiropractic Clinic",
     "wof:parent_id":420518003,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739341327,
+        739947165,
+        739947613
+    ],
+    "wof:supersedes":[
+        739595451
+    ],
     "wof:tags":[]
 },
   "bbox": [

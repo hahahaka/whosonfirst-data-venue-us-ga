@@ -7,6 +7,7 @@
     "addr:postcode":"30339",
     "addr:street":"Galleria Parkway Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.465998,33.882403,-84.465998,33.882403",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.465998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1 Galleria Parkway SE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923565,
-    "wof:geomhash":"31f253cdc10f6465326ae98b761bd625",
+    "wof:geomhash":"8e0543c4ab968002008ba522d28711b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +57,18 @@
         }
     ],
     "wof:id":739990313,
-    "wof:lastmodified":1472619692,
+    "wof:lastmodified":1534181701,
     "wof:name":"Jocks & Jills-Galleria",
     "wof:parent_id":85813197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739991153
+    ],
+    "wof:supersedes":[
+        723199119,
+        723494717
+    ],
     "wof:tags":[]
 },
   "bbox": [

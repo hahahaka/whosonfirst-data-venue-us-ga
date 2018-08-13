@@ -7,6 +7,7 @@
     "addr:postcode":"31714",
     "addr:street":"E Washington Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-83.664437,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"650 E Washington Ave",
     "sg:city":"Ashburn",
     "sg:classifiers":[
@@ -81,12 +82,14 @@
     "wof:geomhash":"0123ae9c9892537cb2339c769514a05e",
     "wof:hierarchy":[],
     "wof:id":740068837,
-    "wof:lastmodified":1512142513,
+    "wof:lastmodified":1534181642,
     "wof:name":"Rite Aid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722761917
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "product",

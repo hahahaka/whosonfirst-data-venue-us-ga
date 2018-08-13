@@ -7,6 +7,7 @@
     "addr:postcode":"30034",
     "addr:street":"Candler Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.272021,33.706961,-84.272021,33.706961",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.272021,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2801 Candler Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461896254,
-    "wof:geomhash":"c9f0a2bd2b8423dceb9aa4a8d1ac2dc5",
+    "wof:geomhash":"ac64fa9f2728a441ed7f685922c45c09",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":723158229,
-    "wof:lastmodified":1472618391,
+    "wof:lastmodified":1534181662,
     "wof:name":"Gallery At South Dekalb",
     "wof:parent_id":85816491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739798643
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mall",

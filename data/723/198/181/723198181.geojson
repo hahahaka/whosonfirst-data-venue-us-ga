@@ -7,6 +7,7 @@
     "addr:postcode":"30141",
     "addr:street":"Hiram Douglasville Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.764615,33.870937,-84.764615,33.870937",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.764615,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1948 Hiram Douglasville Hwy",
     "sg:city":"Hiram",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1461897042,
-    "wof:geomhash":"c5ec75834096d6721f0d19f4c88d1208",
+    "wof:geomhash":"0a8f47b960d8142fdb39cc6402a0c39e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":723198181,
-    "wof:lastmodified":1472618504,
+    "wof:lastmodified":1534181672,
     "wof:name":"Dogwoods Country Cooking",
     "wof:parent_id":85835843,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739877329
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

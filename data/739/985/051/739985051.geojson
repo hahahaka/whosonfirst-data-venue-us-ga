@@ -7,6 +7,7 @@
     "addr:postcode":"30336",
     "addr:street":"Fulton Industrial Blvd Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.529846,33.76548,-84.529846,33.76548",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.529846,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4365 Fulton Industrial Blvd SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[],
@@ -34,7 +36,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923348,
-    "wof:geomhash":"62f451a9f52e483817858cc1f5194958",
+    "wof:geomhash":"2b966a8dc0a6c1c204e36ba339bc8685",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -45,12 +47,14 @@
         }
     ],
     "wof:id":739985051,
-    "wof:lastmodified":1472619676,
+    "wof:lastmodified":1534181694,
     "wof:name":"Grand Buffett Restaurant Inc",
     "wof:parent_id":85872053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739985215
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

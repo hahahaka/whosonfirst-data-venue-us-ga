@@ -2,17 +2,22 @@
   "id": 739932699,
   "type": "Feature",
   "properties": {
-    "addr:full":"156 Heaton Park Dr NE Atlanta GA 30307",
+    "addr:city":"Atlanta",
+    "addr:full":"156 Heaton Park Drive Ne Atlanta, Ga 30307-1398",
+    "addr:house_number":"156",
     "addr:housenumber":"156",
-    "addr:postcode":"30307",
+    "addr:phone":"+1 404-378-4311",
+    "addr:postcode":"30307-1398",
+    "addr:road":"Heaton Park Drive Ne",
+    "addr:state":"GA",
     "addr:street":"Heaton Park Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-84.317123,33.778761,-84.317123,33.778761",
-    "geom:latitude":33.778761,
-    "geom:longitude":-84.317123,
+    "geom:bbox":"-84.31723,33.77846,-84.31723,33.77846",
+    "geom:latitude":33.77846,
+    "geom:longitude":-84.31723,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -24,7 +29,11 @@
     "sg:postcode":"30307",
     "sg:province":"GA",
     "sg:website":"http://www.dekalb.k12.ga.us",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525899,
+        102526927
+    ],
     "wof:belongsto":[
         85688535,
         102191575,
@@ -35,12 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300085,
         "osm:way":28912806,
         "sg:id":"SG_0NbewpcMflUauXo0TdZAlE_33.778761_-84.317123@1303262609"
     },
     "wof:country":"US",
     "wof:created":1461921139,
-    "wof:geomhash":"54fd4c3299e372a4dfcf6f269c3f11e8",
+    "wof:geomhash":"62305b242c33620ed766a34a5d8f14a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +63,7 @@
         }
     ],
     "wof:id":739932699,
-    "wof:lastmodified":1510942660,
+    "wof:lastmodified":1534181701,
     "wof:name":"Fernbank Science Center",
     "wof:parent_id":85890029,
     "wof:placetype":"venue",
@@ -63,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -84.317123,
-    33.778761,
-    -84.317123,
-    33.778761
+    -84.31723,
+    33.77846,
+    -84.31723,
+    33.77846
 ],
-  "geometry": {"coordinates":[-84.317123,33.778761],"type":"Point"}
+  "geometry": {"coordinates":[-84.31723,33.77846],"type":"Point"}
 }

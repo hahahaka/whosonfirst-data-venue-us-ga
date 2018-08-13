@@ -7,6 +7,7 @@
     "addr:postcode":"30004",
     "addr:street":"Kimball Bridge Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.27508,34.053913,-84.27508,34.053913",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.27508,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"170 Kimball Bridge Rd",
     "sg:city":"Alpharetta",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461889854,
-    "wof:geomhash":"0b8d00f3573bf93120c6ab4d08ad61aa",
+    "wof:geomhash":"27a39a943248bd77e06e0ffb70c71451",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":722851753,
-    "wof:lastmodified":1472618803,
+    "wof:lastmodified":1534181659,
     "wof:name":"Diamond Glass Co",
     "wof:parent_id":85812541,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739780823
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "glass",

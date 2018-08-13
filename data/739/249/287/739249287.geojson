@@ -7,6 +7,7 @@
     "addr:postcode":"30188",
     "addr:street":"Woodpark Pl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.524057,34.087657,-84.524057,34.087657",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.524057,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"203 Woodpark Pl",
     "sg:city":"Woodstock",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461903464,
-    "wof:geomhash":"7694fb3d1a45e34fdccbd70ae046c5dc",
+    "wof:geomhash":"3e2557c3b432c1fd70a87e8baab7ead1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":739249287,
-    "wof:lastmodified":1472617825,
+    "wof:lastmodified":1534181673,
     "wof:name":"Woodstock Ear Nose & Throat",
     "wof:parent_id":420517435,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739885429
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

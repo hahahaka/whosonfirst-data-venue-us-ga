@@ -7,6 +7,7 @@
     "addr:postcode":"31021",
     "addr:street":"Walke Dairy Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.01611,32.492894,-83.01611,32.492894",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.01611,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1727 Walke Dairy Rd",
     "sg:city":"Dublin",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1461903174,
-    "wof:geomhash":"fd229d6a9065ed2aa441ff2869f48f11",
+    "wof:geomhash":"890dc075fed30cd8b27638d753ccffbb",
     "wof:hierarchy":[],
     "wof:id":723509291,
-    "wof:lastmodified":1472619328,
+    "wof:lastmodified":1534181636,
     "wof:name":"Jeffers Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740048839
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "house"

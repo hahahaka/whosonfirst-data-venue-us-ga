@@ -7,6 +7,7 @@
     "addr:postcode":"30102",
     "addr:street":"Bells Ferry Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.576974,34.087998,-84.576974,34.087998",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.576974,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5634 Bells Ferry Rd",
     "sg:city":"Acworth",
     "sg:classifiers":[
@@ -31,22 +33,26 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420517625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OgEspR6IRW8uqRTU7IXTO_34.087998_-84.576974@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461910516,
-    "wof:geomhash":"62b5e7c0e2bd2e9ab2d4c6abfdb4b4a0",
+    "wof:geomhash":"7cb2851b122aef2499a9f23ae8589de1",
     "wof:hierarchy":[],
     "wof:id":739605309,
-    "wof:lastmodified":1472618849,
+    "wof:lastmodified":1534181667,
     "wof:name":"Bells Ferry Amoco",
     "wof:parent_id":420517625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739863625
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"

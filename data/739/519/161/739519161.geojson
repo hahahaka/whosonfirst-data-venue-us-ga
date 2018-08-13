@@ -2,19 +2,25 @@
   "id": 739519161,
   "type": "Feature",
   "properties": {
-    "addr:full":"460 Martin Luther King Jr Blvd Savannah GA 31401",
+    "addr:city":"Savannah",
+    "addr:full":"460 Martin Luther King Blvd Savannah, Ga 31401-4800",
+    "addr:house_number":"460",
     "addr:housenumber":"460",
-    "addr:postcode":"31401",
+    "addr:phone":"+1 912-777-6099",
+    "addr:postcode":"31401-4800",
+    "addr:road":"Martin Luther King Blvd",
+    "addr:state":"GA",
     "addr:street":"Martin Luther King Jr Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-81.10058,32.071596,-81.10058,32.071596",
-    "geom:latitude":32.071596,
-    "geom:longitude":-81.10058,
+    "geom:bbox":"-81.10034,32.072,-81.10034,32.072",
+    "geom:latitude":32.072,
+    "geom:longitude":-81.10034,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"460 Martin Luther King Jr Blvd",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -29,7 +35,11 @@
     "sg:postcode":"31401",
     "sg:province":"GA",
     "sg:website":"www.savannahcivilrightsmuseum.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527519,
+        102534139
+    ],
     "wof:belongsto":[
         85688535,
         102191575,
@@ -41,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300621,
         "sg:id":"SG_5XDmczoMdTdJh7z9VCyBzv_32.071596_-81.100580@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461908774,
-    "wof:geomhash":"955821cdb1916181a05f7ccf9d821a67",
+    "wof:geomhash":"32f7fad07ae362b566e35de0dfe3872d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,8 +78,8 @@
         }
     ],
     "wof:id":739519161,
-    "wof:lastmodified":1491893401,
-    "wof:name":"Ralph Gilbert Mark Civil Rghts",
+    "wof:lastmodified":1534181702,
+    "wof:name":"Ralph Mark Gilbert Civil Rights Museum",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
@@ -77,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -81.10058,
-    32.071596,
-    -81.10058,
-    32.071596
+    -81.10034,
+    32.072,
+    -81.10034,
+    32.072
 ],
-  "geometry": {"coordinates":[-81.10057999999999,32.071596],"type":"Point"}
+  "geometry": {"coordinates":[-81.10034,32.072],"type":"Point"}
 }

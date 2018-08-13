@@ -7,6 +7,7 @@
     "addr:postcode":"30346",
     "addr:street":"Perimeter Center Pkwy Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.345421,33.920509,-84.345421,33.920509",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.345421,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"236 Perimeter Center Pkwy NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924365,
-    "wof:geomhash":"812d49841a1409cf4c658d43c915d105",
+    "wof:geomhash":"aa5a17c4d1bb6063f9f3b6f4f09218f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +51,14 @@
         }
     ],
     "wof:id":740011245,
-    "wof:lastmodified":1472617848,
+    "wof:lastmodified":1534181657,
     "wof:name":"Chequers Bar & Grill",
     "wof:parent_id":85890003,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739769235
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

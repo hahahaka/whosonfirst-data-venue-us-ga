@@ -7,6 +7,7 @@
     "addr:postcode":"30824",
     "addr:street":"Augusta Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.487166,33.461727,-82.487166,33.461727",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.487166,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"715 Augusta Rd",
     "sg:city":"Thomson",
     "sg:classifiers":[
@@ -40,15 +42,17 @@
     },
     "wof:country":"US",
     "wof:created":1461895709,
-    "wof:geomhash":"04cf5acb76e273316e7896769f9141ea",
+    "wof:geomhash":"5b9653f0d265528901c4a75aa68493a7",
     "wof:hierarchy":[],
     "wof:id":723130559,
-    "wof:lastmodified":1472618350,
+    "wof:lastmodified":1534181633,
     "wof:name":"Cushman Paint & Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740043359
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "body",

@@ -7,6 +7,7 @@
     "addr:postcode":"30315",
     "addr:street":"Amal Dr Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.395241,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"240 Amal Dr SW Ofc",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -57,7 +59,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922152,
-    "wof:geomhash":"a7c03cb79d0817672d4bcc90246b143a",
+    "wof:geomhash":"0b5d4341a5b19e1b002b7a56f15714fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -81,12 +83,14 @@
         }
     ],
     "wof:id":739954361,
-    "wof:lastmodified":1486672405,
+    "wof:lastmodified":1534181685,
     "wof:name":"Park Place South Senior LP",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739955253
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "vacancy",

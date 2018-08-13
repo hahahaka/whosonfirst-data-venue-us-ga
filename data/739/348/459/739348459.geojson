@@ -15,6 +15,7 @@
     "geom:longitude":-84.376911,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"309 E Paces Ferry Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461905578,
-    "wof:geomhash":"67b35f264af070a0d728fcbbd9f91d8f",
+    "wof:geomhash":"56d8ce6c29cf418cdebe2432893a02c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":739348459,
-    "wof:lastmodified":1486668611,
+    "wof:lastmodified":1534181636,
     "wof:name":"Paul P Mc Donald DDS",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739926973
+    ],
     "wof:tags":[
         "dentist"
     ]

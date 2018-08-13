@@ -2,18 +2,24 @@
   "id": 739704161,
   "type": "Feature",
   "properties": {
-    "addr:full":"90 Carlton St Athens GA 30602",
+    "addr:city":"Athens",
+    "addr:full":"90 Carlton St Athens, Ga 30602",
+    "addr:house_number":"90",
     "addr:housenumber":"90",
+    "addr:phone":"+1 706-542-4662",
     "addr:postcode":"30602",
+    "addr:road":"Carlton St",
+    "addr:state":"GA",
     "addr:street":"Carlton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-83.37843,33.944286,-83.37843,33.944286",
-    "geom:latitude":33.944286,
-    "geom:longitude":-83.37843,
+    "geom:bbox":"-83.37889,33.94467,-83.37889,33.94467",
+    "geom:latitude":33.94467,
+    "geom:longitude":-83.37889,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"90 Carlton St",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -28,7 +34,10 @@
     "sg:postcode":"30602",
     "sg:province":"GA",
     "sg:website":"www.uga.edu/gamuseum",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531975
+    ],
     "wof:belongsto":[
         85688535,
         102191575,
@@ -39,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300072,
         "sg:id":"SG_0HXv3l8QW8DOnzFDAoAvg6_33.944286_-83.378430@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461912660,
-    "wof:geomhash":"7ff42793593dfe13daea00b621b3f6d0",
+    "wof:geomhash":"e66b6fd72f05ce71568fc276fe7969f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +66,7 @@
         }
     ],
     "wof:id":739704161,
-    "wof:lastmodified":1472619124,
+    "wof:lastmodified":1534181702,
     "wof:name":"Georgia Museum Of Art",
     "wof:parent_id":85851137,
     "wof:placetype":"venue",
@@ -66,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -83.37843,
-    33.944286,
-    -83.37843,
-    33.944286
+    -83.37889,
+    33.94467,
+    -83.37889,
+    33.94467
 ],
-  "geometry": {"coordinates":[-83.37842999999999,33.944286],"type":"Point"}
+  "geometry": {"coordinates":[-83.37889,33.94467],"type":"Point"}
 }

@@ -15,6 +15,7 @@
     "geom:longitude":-84.36515,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3393 Peachtree Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -55,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922755,
-    "wof:geomhash":"5e47bcfe37201eed36efa6a02b920892",
+    "wof:geomhash":"87b199b9afc56ba390cb1ea5b2c61934",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -79,13 +80,15 @@
         }
     ],
     "wof:id":739970057,
-    "wof:lastmodified":1486672216,
+    "wof:lastmodified":1534181688,
     "wof:name":"Adidas",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739968551
+    ],
     "wof:tags":[
         "wear",
         "store"

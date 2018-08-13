@@ -7,6 +7,7 @@
     "addr:postcode":"30331",
     "addr:street":"Cascade Rd Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.508575,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"3690 Cascade Rd SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[],
@@ -53,12 +54,14 @@
         }
     ],
     "wof:id":739982155,
-    "wof:lastmodified":1511319244,
+    "wof:lastmodified":1534181695,
     "wof:name":"Applebee's",
     "wof:parent_id":85809733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739983751
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

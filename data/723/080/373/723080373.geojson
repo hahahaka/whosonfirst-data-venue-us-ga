@@ -14,6 +14,7 @@
     "geom:longitude":-84.352468,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5667 Peachtree Dunwoody Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461894697,
-    "wof:geomhash":"30584c0de448db11b258cb13b4f370d5",
+    "wof:geomhash":"6e39bad21dff9749aac5b9b1700289f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,16 @@
         }
     ],
     "wof:id":723080373,
-    "wof:lastmodified":1472618209,
+    "wof:lastmodified":1534181632,
     "wof:name":"Kenneth Braunstein MD",
     "wof:parent_id":85890009,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740005585,
+        723162255
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

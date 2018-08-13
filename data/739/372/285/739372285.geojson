@@ -7,6 +7,7 @@
     "addr:postcode":"30062",
     "addr:street":"Cobb Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.52214,33.954002,-84.52214,33.954002",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.52214,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"200 Cobb Pkwy",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461906041,
-    "wof:geomhash":"7fde42b340ab4eacd7e1fd6b563cf182",
+    "wof:geomhash":"8ff567fa3476fbbcf9c454b290d334d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":739372285,
-    "wof:lastmodified":1472618254,
+    "wof:lastmodified":1534181652,
     "wof:name":"Valor Security Svc Inc",
     "wof:parent_id":85817769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722995897
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "guard",

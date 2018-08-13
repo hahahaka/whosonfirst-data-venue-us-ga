@@ -14,6 +14,7 @@
     "geom:longitude":-84.341386,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8601 Dunwoody Pl",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461891272,
-    "wof:geomhash":"c484f2c7b6c65e739b6d6c4d2547c049",
+    "wof:geomhash":"61ac8b84e84211c6545ec3298fbcf0a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":722923255,
-    "wof:lastmodified":1472618956,
+    "wof:lastmodified":1534181648,
     "wof:name":"Sentinel Offender Services LLC",
     "wof:parent_id":85889957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722803501
+    ],
     "wof:tags":[
         "offender"
     ]

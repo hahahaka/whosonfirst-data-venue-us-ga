@@ -7,6 +7,7 @@
     "addr:postcode":"30102",
     "addr:street":"Highway 92",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.581902,34.0886,-84.581902,34.0886",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.581902,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6410 Highway 92",
     "sg:city":"Acworth",
     "sg:classifiers":[
@@ -45,15 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1461918447,
-    "wof:geomhash":"bcdabdf3821240ecfda2c727a7cbd0c0",
+    "wof:geomhash":"104fa62d665689985447bc05028e45f6",
     "wof:hierarchy":[],
     "wof:id":739863651,
-    "wof:lastmodified":1472619498,
+    "wof:lastmodified":1534181670,
     "wof:name":"Temple R E DVM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739863487
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian",

@@ -7,6 +7,7 @@
     "addr:postcode":"30022",
     "addr:street":"Holcomb Bridge Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.276404,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2880 Holcomb Bridge Rd",
     "sg:city":"Alpharetta",
     "sg:classifiers":[
@@ -61,12 +62,14 @@
         }
     ],
     "wof:id":739762771,
-    "wof:lastmodified":1510942706,
+    "wof:lastmodified":1534181659,
     "wof:name":"T J's Sports Bar & Grill",
     "wof:parent_id":85844913,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739787797
+    ],
     "wof:supersedes":[
         723013203
     ],

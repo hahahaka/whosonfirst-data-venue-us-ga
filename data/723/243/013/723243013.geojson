@@ -7,6 +7,7 @@
     "addr:postcode":"ga 30165",
     "addr:street":"Shorter Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.188523,34.263108,-85.188523,34.263108",
@@ -14,6 +15,7 @@
     "geom:longitude":-85.188523,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"246 Shorter Ave",
     "sg:city":"Rome",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461897965,
-    "wof:geomhash":"682ba09d470f48229bb7e023322c2b78",
+    "wof:geomhash":"17886a6bf8a1ae49e6f3ef3eb458e228",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":723243013,
-    "wof:lastmodified":1472618655,
+    "wof:lastmodified":1534181673,
     "wof:name":"Las Palmas Mexican Restaurant",
     "wof:parent_id":85890045,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739883189
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

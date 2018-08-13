@@ -7,6 +7,7 @@
     "addr:postcode":"30349",
     "addr:street":"Godby Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.475507,33.616396,-84.475507,33.616396",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.475507,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2660 Godby Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924478,
-    "wof:geomhash":"a79e1bfaf382cb9c266ed397cba6907c",
+    "wof:geomhash":"238b822e8b8aba5015527f97ef662de0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":740014375,
-    "wof:lastmodified":1472617869,
+    "wof:lastmodified":1534181648,
     "wof:name":"Old National Kims Fashions",
     "wof:parent_id":420517977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722914433
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "flea",

@@ -14,6 +14,7 @@
     "geom:longitude":-84.498809,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2072 Airport Ind Park Dr SE D",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916523,
-    "wof:geomhash":"46a12f2d2cb5e48084204c879ee0d5ee",
+    "wof:geomhash":"5e8d92e53ad9146db131a0fc835bdd5f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":739815457,
-    "wof:lastmodified":1472619394,
+    "wof:lastmodified":1534181663,
     "wof:name":"Atlanta Engine Installation Inc.",
     "wof:parent_id":85845875,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739817351
+    ],
     "wof:tags":[
         "engine",
         "engines-rebuild",

@@ -14,6 +14,7 @@
     "geom:longitude":-84.982089,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"700 Center St",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461886097,
-    "wof:geomhash":"87d5ee701f3962d24b2b7a5d0a537711",
+    "wof:geomhash":"e5a70130975985a00146528685f56eb0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":722654687,
-    "wof:lastmodified":1472618231,
+    "wof:lastmodified":1534181638,
     "wof:name":"B Dixit MD PC",
     "wof:parent_id":85882101,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739360697
+    ],
     "wof:tags":[
         "medical"
     ]

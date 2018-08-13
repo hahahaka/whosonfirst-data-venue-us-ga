@@ -14,6 +14,7 @@
     "geom:longitude":-84.544106,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"288 Lawrence St NE",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -51,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916555,
-    "wof:geomhash":"66bb0c345346a0600a008c7ea46555a9",
+    "wof:geomhash":"18e3c28abdd873d24ebcb83f7aa204ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,13 +65,15 @@
         }
     ],
     "wof:id":739816293,
-    "wof:lastmodified":1472619400,
+    "wof:lastmodified":1534181663,
     "wof:name":"Barrett, John",
     "wof:parent_id":85857593,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739818105
+    ],
     "wof:tags":[
         "attorney",
         "law",

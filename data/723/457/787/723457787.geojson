@@ -14,6 +14,7 @@
     "geom:longitude":-84.202195,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5405 Buford Hwy",
     "sg:city":"Norcross",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461902085,
-    "wof:geomhash":"ac77597468811edf8782a533533db347",
+    "wof:geomhash":"4ca46ea039cf2655a3783f887feb67e8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":723457787,
-    "wof:lastmodified":1472619230,
+    "wof:lastmodified":1534181652,
     "wof:name":"Central Pet",
     "wof:parent_id":85826369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722760869
+    ],
     "wof:tags":[
         "pet",
         "supply"

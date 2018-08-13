@@ -7,6 +7,7 @@
     "addr:postcode":"30060",
     "addr:street":"Anderson St Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.548401,33.9515,-84.548401,33.9515",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.548401,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"166 Anderson St SE",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916582,
-    "wof:geomhash":"d8e1cf00bea8ec85be1638f8be71bf4e",
+    "wof:geomhash":"999d87f82e64d7e39de63691236f573e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":739817085,
-    "wof:lastmodified":1472619393,
+    "wof:lastmodified":1534181663,
     "wof:name":"Rothbloom Howard D Atty",
     "wof:parent_id":85857593,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739816045
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "bankruptcy"

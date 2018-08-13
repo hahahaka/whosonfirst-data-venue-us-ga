@@ -7,6 +7,7 @@
     "addr:postcode":"31406",
     "addr:street":"E Montgomery Xrd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-81.112333,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"310 E Montgomery Xrd",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_1L99KDXp9xH5HX9FHHq99T_31.995809_-81.112333@1294087602"
     },
     "wof:country":"US",
-    "wof:geomhash":"69f3f0a5755945f2faa9c7fdea2fc891",
+    "wof:geomhash":"f7d510d0cb2f0c50d1798fb2ce36f3f9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":169608373,
-    "wof:lastmodified":1491934001,
+    "wof:lastmodified":1534181646,
     "wof:name":"Electrolysis Associates",
     "wof:parent_id":85890047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722867179
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electrolysis"

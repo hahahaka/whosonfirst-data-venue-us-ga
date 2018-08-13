@@ -7,6 +7,7 @@
     "addr:postcode":"30303",
     "addr:street":"Forsyth Street Suite 8B-70",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.393647,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"61 Forsyth Street Suite 8B-70",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920442,
-    "wof:geomhash":"bc665264c94c4845fc9aa2102d0b988f",
+    "wof:geomhash":"fd8780fc5a82002767406a03e2e50e6d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":739916161,
-    "wof:lastmodified":1486682622,
+    "wof:lastmodified":1534181678,
     "wof:name":"Excel Federal Credit Union",
     "wof:parent_id":1108797063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739919107
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

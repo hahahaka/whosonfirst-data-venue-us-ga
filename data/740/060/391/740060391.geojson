@@ -7,6 +7,7 @@
     "addr:postcode":"31411",
     "addr:street":"Diamond Cswy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.063128,31.94525,-81.063128,31.94525",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.063128,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"52 Diamond Cswy",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461926544,
-    "wof:geomhash":"fb7962ab86e8728c6234d90fafe710d9",
+    "wof:geomhash":"3416aa106880970d7d10b8f554eeaff1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":740060391,
-    "wof:lastmodified":1472618150,
+    "wof:lastmodified":1534181621,
     "wof:name":"Skidaway Island State Park",
     "wof:parent_id":420517343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739280729
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "recreational",

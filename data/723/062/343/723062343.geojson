@@ -15,6 +15,7 @@
     "geom:longitude":-84.389771,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"34 Peachtree St NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461894267,
-    "wof:geomhash":"f0f05927cadf8b74918f81be5a90820f",
+    "wof:geomhash":"98b9b2aaa906f52b1053e247413d7d5b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +64,15 @@
         }
     ],
     "wof:id":723062343,
-    "wof:lastmodified":1486672864,
+    "wof:lastmodified":1534181624,
     "wof:name":"B Bowen",
     "wof:parent_id":1108797055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723313685
+    ],
     "wof:tags":[
         "consultant"
     ]

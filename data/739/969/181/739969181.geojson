@@ -7,6 +7,7 @@
     "addr:postcode":"30326",
     "addr:street":"Peachtree Rd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.367302,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3340 Peachtree Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922717,
-    "wof:geomhash":"7b679d956aad71bfbc67bfcd3e8073de",
+    "wof:geomhash":"5db2e965b03b9762f0e3bc8f365e186f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,12 +74,14 @@
         }
     ],
     "wof:id":739969181,
-    "wof:lastmodified":1486672171,
+    "wof:lastmodified":1534181636,
     "wof:name":"Sterling Investment Management Inc",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722647509
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "investing"

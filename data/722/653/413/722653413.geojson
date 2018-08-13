@@ -14,6 +14,7 @@
     "geom:longitude":-84.350555,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9040 Roswell Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461886075,
-    "wof:geomhash":"2d2fa3d75bc93738e80664eca7647730",
+    "wof:geomhash":"8c4b365c0b345e52086e8d722319cd1a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":722653413,
-    "wof:lastmodified":1472618224,
+    "wof:lastmodified":1534181638,
     "wof:name":"Polycom Inc",
     "wof:parent_id":85889973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722639645
+    ],
     "wof:tags":[
         "teleconferencing"
     ]

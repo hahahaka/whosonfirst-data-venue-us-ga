@@ -7,6 +7,7 @@
     "addr:postcode":"30253",
     "addr:street":"Jodeco Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.221571,33.481468,-84.221571,33.481468",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.221571,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2206 Jodeco Rd",
     "sg:city":"Mcdonough",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1461904134,
-    "wof:geomhash":"2af0c1478c09428b9c896aece72cc3e3",
+    "wof:geomhash":"c181c34c1551e923474cd73e64c07a2f",
     "wof:hierarchy":[],
     "wof:id":739279681,
-    "wof:lastmodified":1472618014,
+    "wof:lastmodified":1534181675,
     "wof:name":"Tire Depot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739897919
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"

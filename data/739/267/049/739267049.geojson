@@ -7,6 +7,7 @@
     "addr:postcode":"30557",
     "addr:street":"Brown Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.201156,34.410163,-83.201156,34.410163",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.201156,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1535 Brown Rd",
     "sg:city":"Martin",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461903854,
-    "wof:geomhash":"3c94cd4ba25c5a2168b79102489f3c09",
+    "wof:geomhash":"b23531db36cd42efbf0056fdbd6d634d",
     "wof:hierarchy":[],
     "wof:id":739267049,
-    "wof:lastmodified":1472617911,
+    "wof:lastmodified":1534181620,
     "wof:name":"S & S Welding & Trailer Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739274505
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "farm",

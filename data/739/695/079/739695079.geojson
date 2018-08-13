@@ -7,6 +7,7 @@
     "addr:postcode":"30093",
     "addr:street":"Oakbrook Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.198229,33.915186,-84.198229,33.915186",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.198229,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1600 Oakbrook Dr",
     "sg:city":"Norcross",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461912442,
-    "wof:geomhash":"e34d3a3edc64864a49c2545541ecc351",
+    "wof:geomhash":"131a18737f61ceffcebf95a72d46134f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":739695079,
-    "wof:lastmodified":1472619075,
+    "wof:lastmodified":1534181655,
     "wof:name":"Just Boxes Inc",
     "wof:parent_id":85803655,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739729715
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "paper"

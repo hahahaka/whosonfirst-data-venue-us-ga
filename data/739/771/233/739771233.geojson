@@ -7,6 +7,7 @@
     "addr:postcode":"30747",
     "addr:street":"Commerce St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-85.362731,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"9880 Commerce St",
     "sg:city":"Summerville",
     "sg:classifiers":[
@@ -46,12 +47,14 @@
     "wof:geomhash":"b30d5549bdd2aa0727e42d8c10e30367",
     "wof:hierarchy":[],
     "wof:id":739771233,
-    "wof:lastmodified":1511322283,
+    "wof:lastmodified":1534181632,
     "wof:name":"Subway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740041239
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

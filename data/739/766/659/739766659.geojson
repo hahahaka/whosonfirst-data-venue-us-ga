@@ -14,6 +14,7 @@
     "geom:longitude":-84.57247,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1025 Rose Creek Dr",
     "sg:city":"Woodstock",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914407,
-    "wof:geomhash":"1a8c57e80b96224a2cb037fb090f18ab",
+    "wof:geomhash":"bd7a72b22883df76a6e2260c7b488326",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":739766659,
-    "wof:lastmodified":1472619308,
+    "wof:lastmodified":1534181657,
     "wof:name":"El Ranchero",
     "wof:parent_id":85851997,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739517903
+    ],
     "wof:tags":[
         "mexican"
     ]

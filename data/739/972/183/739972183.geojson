@@ -15,6 +15,7 @@
     "geom:longitude":-84.426938,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3193 Howell Mill Rd NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922835,
-    "wof:geomhash":"76221c07647863e5525dcf8ef6650023",
+    "wof:geomhash":"2d8c4604c1c3241d99d7dc8eab9e6650",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":739972183,
-    "wof:lastmodified":1486668515,
+    "wof:lastmodified":1534181691,
     "wof:name":"Galloway Trephina DO",
     "wof:parent_id":85872137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739972975
+    ],
     "wof:tags":[
         "dermatologist"
     ]

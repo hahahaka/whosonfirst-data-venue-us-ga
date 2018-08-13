@@ -7,6 +7,7 @@
     "addr:postcode":"30303",
     "addr:street":"Peachtree St Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.389781,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2 Peachtree St NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461906810,
-    "wof:geomhash":"cc85c9d7b9f07a54259e7bd0a0971de2",
+    "wof:geomhash":"2cfc51f09248e0ee5f4917f6e370b06f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":739412323,
-    "wof:lastmodified":1486669813,
+    "wof:lastmodified":1534181648,
     "wof:name":"Dept-Public Health Georgia",
     "wof:parent_id":85866901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723379363
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "state",

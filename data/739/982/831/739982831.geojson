@@ -7,6 +7,7 @@
     "addr:postcode":"30331",
     "addr:street":"Fairburn Road Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.511557,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2440 Fairburn Road SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923250,
-    "wof:geomhash":"a7ce6b939359cea4e42645ba504f63ba",
+    "wof:geomhash":"6fe27fa310785d832ebba407d56d94e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,13 +75,18 @@
         }
     ],
     "wof:id":739982831,
-    "wof:lastmodified":1486672746,
+    "wof:lastmodified":1534181698,
     "wof:name":"A Family and Children's Dentistry PC",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739983599
+    ],
+    "wof:supersedes":[
+        723023563,
+        722779193
+    ],
     "wof:tags":[
         "orthodontist",
         "pediatric"

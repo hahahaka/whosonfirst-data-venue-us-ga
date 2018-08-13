@@ -7,6 +7,7 @@
     "addr:postcode":"30096",
     "addr:street":"Duluth Park Ln Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.16067,34.000769,-84.16067,34.000769",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.16067,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3540 Duluth Park Ln NW",
     "sg:city":"Duluth",
     "sg:classifiers":[
@@ -40,15 +42,17 @@
     },
     "wof:country":"US",
     "wof:created":1461898607,
-    "wof:geomhash":"2e358247ada3db114f82e0d2159c8820",
+    "wof:geomhash":"2bbe410c8b4c3680a1e08a101870e0af",
     "wof:hierarchy":[],
     "wof:id":723275931,
-    "wof:lastmodified":1472618769,
+    "wof:lastmodified":1534181622,
     "wof:name":"Gwinnett Priority Medical Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722583589
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

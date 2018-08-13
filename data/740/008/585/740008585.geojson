@@ -7,6 +7,7 @@
     "addr:postcode":"30345",
     "addr:street":"Century Pkwy Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.306199,33.848701,-84.306199,33.848701",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.306199,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2600 Century Pkwy NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -40,15 +42,17 @@
     },
     "wof:country":"US",
     "wof:created":1461924255,
-    "wof:geomhash":"5c45f2e2441534f374731f6a824bfe0f",
+    "wof:geomhash":"31b044093bd0fcd98537c02fac283a4f",
     "wof:hierarchy":[],
     "wof:id":740008585,
-    "wof:lastmodified":1472617872,
+    "wof:lastmodified":1534181621,
     "wof:name":"Webtransit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723034093
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "isp",

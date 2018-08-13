@@ -7,6 +7,7 @@
     "addr:postcode":"30305",
     "addr:street":"Piedmont Rd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.37018,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3111 Piedmont Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920987,
-    "wof:geomhash":"12a3d30951289d09d4de247eac8bda80",
+    "wof:geomhash":"75b9d206e7348dc4ae22fe2a0d6a7ee1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,13 +71,17 @@
         }
     ],
     "wof:id":739929153,
-    "wof:lastmodified":1486672261,
+    "wof:lastmodified":1534181680,
     "wof:name":"Freedman, Charles G DDS",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739927965
+    ],
+    "wof:supersedes":[
+        739926965
+    ],
     "wof:tags":[]
 },
   "bbox": [

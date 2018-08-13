@@ -15,6 +15,7 @@
     "geom:longitude":-84.366061,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"659 Auburn Ave NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -50,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921974,
-    "wof:geomhash":"96e95e36ea0d35c5d4050ea0f4a2b2b7",
+    "wof:geomhash":"ada2c11ba6c827d433e7472294ac3d2b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,13 +65,16 @@
         }
     ],
     "wof:id":739950663,
-    "wof:lastmodified":1486669238,
+    "wof:lastmodified":1534181689,
     "wof:name":"Janke Studios",
     "wof:parent_id":85872109,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739599013,
+        739279771
+    ],
     "wof:tags":[]
 },
   "bbox": [

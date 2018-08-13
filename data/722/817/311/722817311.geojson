@@ -7,6 +7,7 @@
     "addr:postcode":"30019",
     "addr:street":"Hurricane Shoals Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.957602,33.986055,-83.957602,33.986055",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.957602,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1000 Hurricane Shoals Rd",
     "sg:city":"Lawrenceville",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461889201,
-    "wof:geomhash":"409c70ee1f83bd4b238dc7bc15797fe8",
+    "wof:geomhash":"c0162047fe932050ce3819c53d04fe4e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":722817311,
-    "wof:lastmodified":1472618676,
+    "wof:lastmodified":1534181631,
     "wof:name":"Mactec Engrg & Consulting",
     "wof:parent_id":85853829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739328873
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "environmental",

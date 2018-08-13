@@ -2,19 +2,25 @@
   "id": 739915921,
   "type": "Feature",
   "properties": {
-    "addr:full":"135 Auburn Ave NE Atlanta GA 30303",
+    "addr:city":"Atlanta",
+    "addr:full":"135 Auburn Avenue Atlanta, Ga 30303-2567",
+    "addr:house_number":"135",
     "addr:housenumber":"135",
-    "addr:postcode":"30303",
+    "addr:postcode":"30303-2567",
+    "addr:road":"Auburn Avenue",
+    "addr:state":"GA",
     "addr:street":"Auburn Ave Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-84.383184,33.75555,-84.383184,33.75555",
-    "geom:latitude":33.75555,
-    "geom:longitude":-84.383184,
+    "geom:bbox":"-84.38308,33.75527,-84.38308,33.75527",
+    "geom:latitude":33.75527,
+    "geom:longitude":-84.38308,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"135 Auburn Ave NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[],
@@ -22,7 +28,11 @@
     "sg:phone":"+1 404 523 2739",
     "sg:postcode":"30303",
     "sg:province":"GA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525899,
+        102526927
+    ],
     "wof:belongsto":[
         85688535,
         102191575,
@@ -33,11 +43,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300415,
         "sg:id":"SG_6ccniI89AFfIQiWIu3WPSB_33.755550_-84.383184@1303262605"
     },
     "wof:country":"US",
     "wof:created":1461920429,
-    "wof:geomhash":"0e7cf3a49ec420f9f51b62290084996b",
+    "wof:geomhash":"f229241a58568e669dd8cb2912ccb598",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,20 +61,22 @@
         }
     ],
     "wof:id":739915921,
-    "wof:lastmodified":1486670398,
-    "wof:name":"The APEX Museum",
+    "wof:lastmodified":1534181702,
+    "wof:name":"Apex Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739919207
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -84.383184,
-    33.75555,
-    -84.383184,
-    33.75555
+    -84.38308,
+    33.75527,
+    -84.38308,
+    33.75527
 ],
-  "geometry": {"coordinates":[-84.383184,33.75555],"type":"Point"}
+  "geometry": {"coordinates":[-84.38308000000001,33.75527],"type":"Point"}
 }

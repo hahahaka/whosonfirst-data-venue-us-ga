@@ -7,6 +7,7 @@
     "addr:postcode":"30303",
     "addr:street":"Courtland St Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.38413,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"165 Courtland St NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461887303,
-    "wof:geomhash":"2ef4db44b9923654b7748d413f355bfb",
+    "wof:geomhash":"c41c06ef397429829216c6363b1a107d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":722717861,
-    "wof:lastmodified":1486682469,
+    "wof:lastmodified":1534181677,
     "wof:name":"Intl Limo & Shut",
     "wof:parent_id":1108797059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739913563
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "passenger"

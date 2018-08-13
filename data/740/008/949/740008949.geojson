@@ -7,6 +7,7 @@
     "addr:postcode":"30345",
     "addr:street":"Century Boulevard Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.313288,33.846141,-84.313288,33.846141",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.313288,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1800 Century Boulevard NE Bsmt",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1461924268,
-    "wof:geomhash":"8c2ae87d02f3304c802adc9887d3bd1e",
+    "wof:geomhash":"9480736773b676e9001137ff367977ad",
     "wof:hierarchy":[],
     "wof:id":740008949,
-    "wof:lastmodified":1472617881,
+    "wof:lastmodified":1534181651,
     "wof:name":"Giudice Raymond V Atty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723435925
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

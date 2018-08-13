@@ -7,6 +7,7 @@
     "addr:postcode":"30313",
     "addr:street":"Marietta St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.391401,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"55 Marietta St",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461893719,
-    "wof:geomhash":"1f1a79a4e63da5df04a201040de6d445",
+    "wof:geomhash":"c460afaddcce9ab46af7f2a68e7bce82",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":723035717,
-    "wof:lastmodified":1486672853,
+    "wof:lastmodified":1534181653,
     "wof:name":"Nations Funding Group Inc",
     "wof:parent_id":1108797055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739701515
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

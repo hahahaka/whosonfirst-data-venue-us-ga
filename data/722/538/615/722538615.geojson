@@ -7,6 +7,7 @@
     "addr:postcode":"30331",
     "addr:street":"Stone Hogan Conn Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.497091,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2945 Stone Hogan Conn SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461883775,
-    "wof:geomhash":"449ed12c9b09a40e2585cccde9e245c2",
+    "wof:geomhash":"90630c3e856d5f5b72da96226ae13664",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":722538615,
-    "wof:lastmodified":1486668073,
+    "wof:lastmodified":1534181645,
     "wof:name":"DRS Dance Art Ctr",
     "wof:parent_id":85872085,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723300953
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "instruction",

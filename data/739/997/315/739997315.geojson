@@ -14,6 +14,7 @@
     "geom:longitude":-84.241997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4224 Pleasantdale Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923825,
-    "wof:geomhash":"1b765a61b11cdab6731b5d81c91f8f88",
+    "wof:geomhash":"af5aaf56c6fc18598fec20e6ff2cb9c3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":739997315,
-    "wof:lastmodified":1472619708,
+    "wof:lastmodified":1534181699,
     "wof:name":"Atl Courier Inc",
     "wof:parent_id":85889941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722999561
+    ],
     "wof:tags":[
         "delivery",
         "courier"

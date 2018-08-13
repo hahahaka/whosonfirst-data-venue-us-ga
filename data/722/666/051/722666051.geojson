@@ -7,6 +7,7 @@
     "addr:postcode":"30501",
     "addr:street":"Dawsonville Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.848142,34.295778,-83.848142,34.295778",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.848142,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"625 Dawsonville Hwy",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461886320,
-    "wof:geomhash":"bc0e05bfb663bba5d8b2fe98d7a2688b",
+    "wof:geomhash":"bb912b43720f44d00a38b67b495ca313",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":722666051,
-    "wof:lastmodified":1472618243,
+    "wof:lastmodified":1534181658,
     "wof:name":"Panera Bread Co",
     "wof:parent_id":85836659,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739769539
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

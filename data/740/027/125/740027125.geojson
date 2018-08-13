@@ -7,6 +7,7 @@
     "addr:postcode":"30519",
     "addr:street":"Buford Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-83.984145,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"3333 Buford Dr",
     "sg:city":"Buford",
     "sg:classifiers":[
@@ -79,13 +80,17 @@
         }
     ],
     "wof:id":740027125,
-    "wof:lastmodified":1511319166,
+    "wof:lastmodified":1534181622,
     "wof:name":"JCPenney",
     "wof:parent_id":85858547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        722546717
+    ],
+    "wof:supersedes":[
+        723482691
+    ],
     "wof:tags":[
         "furniture",
         "women's",

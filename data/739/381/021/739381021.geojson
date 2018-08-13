@@ -2,18 +2,24 @@
   "id": 739381021,
   "type": "Feature",
   "properties": {
-    "addr:full":"1251 Wynnton Rd Columbus GA 31906",
+    "addr:city":"Columbus",
+    "addr:full":"1251 Wynnton Road Columbus, Ga 31906-2898",
+    "addr:house_number":"1251",
     "addr:housenumber":"1251",
-    "addr:postcode":"31906",
+    "addr:phone":"+1 404-649-0713",
+    "addr:postcode":"31906-2898",
+    "addr:road":"Wynnton Road",
+    "addr:state":"GA",
     "addr:street":"Wynnton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-84.975038,32.466306,-84.975038,32.466306",
-    "geom:latitude":32.466306,
-    "geom:longitude":-84.975038,
+    "geom:bbox":"-84.97518,32.46632,-84.97518,32.46632",
+    "geom:latitude":32.46632,
+    "geom:longitude":-84.97518,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1251 Wynnton Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -36,7 +42,11 @@
         "art",
         "history"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102521861,
+        102526159
+    ],
     "wof:belongsto":[
         85688535,
         102191575,
@@ -47,11 +57,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300100,
         "sg:id":"SG_3OkSaZ2Ce81hUHymeAGf2K_32.466306_-84.975038@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461906216,
-    "wof:geomhash":"225fd3e6a3a8ddbe32c9794b87e678cc",
+    "wof:geomhash":"765ed8b386daacf9dc51d705a6815eac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,8 +75,8 @@
         }
     ],
     "wof:id":739381021,
-    "wof:lastmodified":1472618243,
-    "wof:name":"Columbus Museum Inc",
+    "wof:lastmodified":1534181701,
+    "wof:name":"Columbus Museum",
     "wof:parent_id":420518165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
@@ -77,10 +88,10 @@
     ]
 },
   "bbox": [
-    -84.975038,
-    32.466306,
-    -84.975038,
-    32.466306
+    -84.97518,
+    32.46632,
+    -84.97518,
+    32.46632
 ],
-  "geometry": {"coordinates":[-84.975038,32.466306],"type":"Point"}
+  "geometry": {"coordinates":[-84.97517999999999,32.46632],"type":"Point"}
 }

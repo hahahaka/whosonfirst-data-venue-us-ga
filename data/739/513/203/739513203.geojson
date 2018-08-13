@@ -14,6 +14,7 @@
     "geom:longitude":-84.378688,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5600 Roswell Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461908667,
-    "wof:geomhash":"6012064e398ef309aa39af6e12ab2777",
+    "wof:geomhash":"168d0eae4ad90e8149767834dd2ff1b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,13 +72,15 @@
         }
     ],
     "wof:id":739513203,
-    "wof:lastmodified":1472618611,
+    "wof:lastmodified":1534181643,
     "wof:name":"Sawhorse Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739437133
+    ],
     "wof:tags":[
         "residential",
         "remodeling",

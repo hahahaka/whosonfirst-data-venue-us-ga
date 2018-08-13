@@ -7,6 +7,7 @@
     "addr:postcode":"30223",
     "addr:street":"N Expy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.288257,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1441 N Expy",
     "sg:city":"Griffin",
     "sg:classifiers":[
@@ -58,12 +59,14 @@
         }
     ],
     "wof:id":723118687,
-    "wof:lastmodified":1511318546,
+    "wof:lastmodified":1534181657,
     "wof:name":"Captain D's Seafood",
     "wof:parent_id":420518219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739766857
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

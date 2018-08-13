@@ -7,6 +7,7 @@
     "addr:postcode":"30274",
     "addr:street":"Upper Riverdale Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.390677,33.577619,-84.390677,33.577619",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.390677,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"29 Upper Riverdale Rd",
     "sg:city":"Riverdale",
     "sg:classifiers":[
@@ -40,15 +42,17 @@
     },
     "wof:country":"US",
     "wof:created":1461903956,
-    "wof:geomhash":"d0121721691b90f63be3e3c7d6b4e2dc",
+    "wof:geomhash":"2a1611f31a84b8d2304aa06f2aca3057",
     "wof:hierarchy":[],
     "wof:id":739271965,
-    "wof:lastmodified":1472617978,
+    "wof:lastmodified":1534181673,
     "wof:name":"Urology of Atlanta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739903039
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

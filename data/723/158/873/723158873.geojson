@@ -7,6 +7,7 @@
     "addr:postcode":"30080",
     "addr:street":"Spring Rd Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.47573,33.883623,-84.47573,33.883623",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.47573,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2800 Spring Rd SE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461896268,
-    "wof:geomhash":"1255cc64893a44731150309ca0377130",
+    "wof:geomhash":"b83cb94216b539dc0a2a8cd82e0580fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":723158873,
-    "wof:lastmodified":1472618415,
+    "wof:lastmodified":1534181651,
     "wof:name":"Semajs Inc",
     "wof:parent_id":85813197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722970751
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"

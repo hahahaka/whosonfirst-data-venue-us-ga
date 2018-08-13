@@ -15,6 +15,7 @@
     "geom:longitude":-84.425793,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2072 Defoors Ferry Rd NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461904703,
-    "wof:geomhash":"c2858f944c2a2f94f09caa0363d27216",
+    "wof:geomhash":"dfb1ecf63cdd73d19c758f1bc2780305",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,13 +73,15 @@
         }
     ],
     "wof:id":739306313,
-    "wof:lastmodified":1486671752,
+    "wof:lastmodified":1534181624,
     "wof:name":"Majeska Richard A DDS",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739960287
+    ],
     "wof:tags":[
         "dentist"
     ]

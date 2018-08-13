@@ -7,6 +7,7 @@
     "addr:postcode":"30064",
     "addr:street":"Powder Springs St Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.563904,33.9417,-84.563904,33.9417",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.563904,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"560 Powder Springs St SE",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916841,
-    "wof:geomhash":"da31b07cc578925c977db93a2088967c",
+    "wof:geomhash":"87e73ccf7860170f4e11e2c9029c593f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":739823567,
-    "wof:lastmodified":1472619410,
+    "wof:lastmodified":1534181664,
     "wof:name":"Wynhaven Apartments",
     "wof:parent_id":85857593,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739821889
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"

@@ -14,6 +14,7 @@
     "geom:longitude":-84.438146,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2000 Riveredge Pkwy NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461905422,
-    "wof:geomhash":"ef8c657cfb6e65656feaeb89019bb85a",
+    "wof:geomhash":"44ec39aa3c1c3ad5c58b79a9b3bdd053",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":739341899,
-    "wof:lastmodified":1472618208,
+    "wof:lastmodified":1534181634,
     "wof:name":"Macduff Golf Inc",
     "wof:parent_id":85890005,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739497139
+    ],
     "wof:tags":[
         "marketing"
     ]

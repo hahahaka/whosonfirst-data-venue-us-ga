@@ -7,6 +7,7 @@
     "addr:postcode":"31605",
     "addr:street":"Bemiss Rd Ste E",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.259028,30.914934,-83.259028,30.914934",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.259028,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4165 Bemiss Rd Ste E",
     "sg:city":"Valdosta",
     "sg:classifiers":[],
@@ -22,22 +24,26 @@
     "sg:postcode":"31605",
     "sg:province":"GA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420518073
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UjMspyJO6WUVafVmCuiOX_30.914934_-83.259028@1303262644"
     },
     "wof:country":"US",
     "wof:created":1461926801,
-    "wof:geomhash":"549da1f103a63aed35a92f381f5c2e71",
+    "wof:geomhash":"88b039e4761c2c7a078d95b854405b74",
     "wof:hierarchy":[],
     "wof:id":740066217,
-    "wof:lastmodified":1472618135,
+    "wof:lastmodified":1534181653,
     "wof:name":"A And V Nails",
     "wof:parent_id":420518073,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723475491
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"30260",
     "addr:street":"Mount Zion Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.326401,33.565102,-84.326401,33.565102",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.326401,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1865 Mount Zion Rd",
     "sg:city":"Morrow",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1461919783,
-    "wof:geomhash":"d08409fa4ec5e74e8219a4fca3de5dc0",
+    "wof:geomhash":"d32a212d50ce43861b1fed20a773dd0a",
     "wof:hierarchy":[],
     "wof:id":739899019,
-    "wof:lastmodified":1472619535,
+    "wof:lastmodified":1534181617,
     "wof:name":"Catherine's Plus Sizes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723005345
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory"

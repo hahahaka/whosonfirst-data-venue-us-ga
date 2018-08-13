@@ -7,6 +7,7 @@
     "addr:postcode":"30253",
     "addr:street":"Mcdonough Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.166452,33.43779,-84.166452,33.43779",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.166452,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"235 McDonough Pkwy",
     "sg:city":"Mcdonough",
     "sg:classifiers":[
@@ -40,15 +42,17 @@
     },
     "wof:country":"US",
     "wof:created":1461900986,
-    "wof:geomhash":"8aaf760ce96c257e35910520a3d5851e",
+    "wof:geomhash":"a2ec9013c1679f47b4e3cb1cc9aa2bd6",
     "wof:hierarchy":[],
     "wof:id":723400961,
-    "wof:lastmodified":1472619110,
+    "wof:lastmodified":1534181675,
     "wof:name":"McDonough Martial Arts Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739896767
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "martial",

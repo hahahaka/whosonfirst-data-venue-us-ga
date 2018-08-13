@@ -7,6 +7,7 @@
     "addr:postcode":"31523",
     "addr:street":"New Jesup Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.525977,31.224488,-81.525977,31.224488",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.525977,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5296 New Jesup Hwy",
     "sg:city":"Brunswick",
     "sg:classifiers":[],
@@ -22,22 +24,26 @@
     "sg:postcode":"31523",
     "sg:province":"GA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420518013
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fIdeg3GIzKFq2ytbjsvCn_31.224488_-81.525977@1303262643"
     },
     "wof:country":"US",
     "wof:created":1461926655,
-    "wof:geomhash":"e397ebf28b9b72d5f148c61371371dbe",
+    "wof:geomhash":"c2a9282f7da8c37cbfa556e867a18a4e",
     "wof:hierarchy":[],
     "wof:id":740062861,
-    "wof:lastmodified":1472618175,
+    "wof:lastmodified":1534181640,
     "wof:name":"Captain Joe's Seafood Restaurant",
     "wof:parent_id":420518013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722691167
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

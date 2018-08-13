@@ -7,6 +7,7 @@
     "addr:postcode":"39817",
     "addr:street":"Carl Brock Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.485589,30.98737,-84.485589,30.98737",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.485589,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"285 Carl Brock Rd",
     "sg:city":"Bainbridge",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461927182,
-    "wof:geomhash":"352d8a8d7e266c9a3f6ec802ac571a3c",
+    "wof:geomhash":"82fc6c3f8ca465186fdd2e819511aa95",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":740075101,
-    "wof:lastmodified":1472618195,
+    "wof:lastmodified":1534181656,
     "wof:name":"E D B Farms",
     "wof:parent_id":420517717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739749259
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "corn",

@@ -15,6 +15,7 @@
     "geom:longitude":-84.393898,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1841 Peachtree Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -51,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921535,
-    "wof:geomhash":"f24fb41664c24d72e12c47f3161fdabd",
+    "wof:geomhash":"2d23c2f3d412e703455e9678a7bf44d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,13 +66,15 @@
         }
     ],
     "wof:id":739941587,
-    "wof:lastmodified":1486672625,
+    "wof:lastmodified":1534181684,
     "wof:name":"Standard",
     "wof:parent_id":1108798447,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739939119
+    ],
     "wof:tags":[
         "men's",
         "clothing",

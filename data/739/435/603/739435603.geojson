@@ -7,6 +7,7 @@
     "addr:postcode":"30318",
     "addr:street":"Northside Pkwy Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.407774,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1465 Northside Pkwy NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461907273,
-    "wof:geomhash":"15894c3978025a8fd6c4641aefca5ee4",
+    "wof:geomhash":"dea29f4a3f5601f5152cae72b52878d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":739435603,
-    "wof:lastmodified":1491937629,
+    "wof:lastmodified":1534181641,
     "wof:name":"Digital Hardware Svc",
     "wof:parent_id":85872097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739439215
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"

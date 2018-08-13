@@ -15,6 +15,7 @@
     "geom:longitude":-84.345848,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1271 Glenwood Ave",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922246,
-    "wof:geomhash":"2f620502132a31b19ee9c0421cbbab89",
+    "wof:geomhash":"a68eab06c1007d14a2bbb92b0d40e9d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":739956513,
-    "wof:lastmodified":1486682683,
+    "wof:lastmodified":1534181685,
     "wof:name":"My Sisters Room",
     "wof:parent_id":1108798133,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739768377
+    ],
     "wof:tags":[]
 },
   "bbox": [

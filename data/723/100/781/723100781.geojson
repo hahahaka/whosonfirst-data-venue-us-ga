@@ -14,6 +14,7 @@
     "geom:longitude":-84.549847,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5600 Stonewall Tell Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461895140,
-    "wof:geomhash":"77499a0c846daac697a708b93a6ccb28",
+    "wof:geomhash":"c8da66b339871d61076935de7bbf4ace",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":723100781,
-    "wof:lastmodified":1472618278,
+    "wof:lastmodified":1534181636,
     "wof:name":"Fulton County Police Southside",
     "wof:parent_id":420517955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740013131
+    ],
     "wof:tags":[
         "department"
     ]

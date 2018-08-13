@@ -7,6 +7,7 @@
     "addr:postcode":"30906",
     "addr:street":"Deans Bridge Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.048122,33.428468,-82.048122,33.428468",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.048122,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3054 Deans Bridge Rd",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461903404,
-    "wof:geomhash":"b8a09d57191b9419f776c480c1e272f9",
+    "wof:geomhash":"5c54b420c350a26ae4ed9b98a702c4a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":739246621,
-    "wof:lastmodified":1472617833,
+    "wof:lastmodified":1534181633,
     "wof:name":"Augusta Western Motel",
     "wof:parent_id":85838489,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740044613
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"

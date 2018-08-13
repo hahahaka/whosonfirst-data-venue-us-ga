@@ -7,6 +7,7 @@
     "addr:postcode":"30004",
     "addr:street":"Houze Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.357101,34.081619,-84.357101,34.081619",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.357101,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12280 Houze Rd",
     "sg:city":"Alpharetta",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914825,
-    "wof:geomhash":"24aebfe1dabd83d9daf20fc0cc3ba7ab",
+    "wof:geomhash":"1148ac503303d4b1c7572e6ee422f6b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":739777111,
-    "wof:lastmodified":1472619276,
+    "wof:lastmodified":1534181659,
     "wof:name":"Scruples Hair Design",
     "wof:parent_id":85812681,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739777259
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "hair",

@@ -14,6 +14,7 @@
     "geom:longitude":-84.564675,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"760 Kennesaw Ave",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461885471,
-    "wof:geomhash":"90eb49c5fe90d106eb061497e2fdc861",
+    "wof:geomhash":"d30228cc46af97d62a63287913f133f2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +55,15 @@
         }
     ],
     "wof:id":722624171,
-    "wof:lastmodified":1472618060,
+    "wof:lastmodified":1534181632,
     "wof:name":"Kenmar Pediatrics",
     "wof:parent_id":85839059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739815531
+    ],
     "wof:tags":[
         "physician"
     ]

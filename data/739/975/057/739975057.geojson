@@ -15,6 +15,7 @@
     "geom:longitude":-84.349907,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1140 Hammond Dr NE A1180",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -50,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922945,
-    "wof:geomhash":"5b8326dd025405d5c7ddacc6ebdc07d0",
+    "wof:geomhash":"6312fcbc10b422f45041183ea422f9d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,13 +73,15 @@
         }
     ],
     "wof:id":739975057,
-    "wof:lastmodified":1491902582,
+    "wof:lastmodified":1534181692,
     "wof:name":"Rehabilitation Physicians Of Georgia Pc",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739278151
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

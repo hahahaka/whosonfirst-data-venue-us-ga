@@ -7,6 +7,7 @@
     "addr:postcode":"30721",
     "addr:street":"Cleveland Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.962027,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1210 Cleveland Hwy",
     "sg:city":"Dalton",
     "sg:classifiers":[
@@ -60,12 +61,14 @@
         }
     ],
     "wof:id":739771051,
-    "wof:lastmodified":1512142919,
+    "wof:lastmodified":1534181617,
     "wof:name":"McDonald's",
     "wof:parent_id":85809263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723004739
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

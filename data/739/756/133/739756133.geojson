@@ -7,6 +7,7 @@
     "addr:postcode":"30062",
     "addr:street":"Roswell Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.432831,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"4101 Roswell Rd",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -47,12 +48,14 @@
     "wof:geomhash":"7adb00a4b29078832290a0934f1b95c7",
     "wof:hierarchy":[],
     "wof:id":739756133,
-    "wof:lastmodified":1512001498,
+    "wof:lastmodified":1534181666,
     "wof:name":"Verizon Wireless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739820913
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment",

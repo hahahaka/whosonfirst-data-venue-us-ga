@@ -7,6 +7,7 @@
     "addr:postcode":"30093",
     "addr:street":"Mcdonough Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.208129,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"6165 McDonough Dr",
     "sg:city":"Norcross",
     "sg:classifiers":[
@@ -41,12 +42,14 @@
     "wof:geomhash":"aab00902cdf644983c0da397d9fdc517",
     "wof:hierarchy":[],
     "wof:id":739434333,
-    "wof:lastmodified":1511999704,
+    "wof:lastmodified":1534181656,
     "wof:name":"Mc Donald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739764951
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

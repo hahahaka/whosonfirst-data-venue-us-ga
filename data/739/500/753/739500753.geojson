@@ -7,6 +7,7 @@
     "addr:postcode":"30032",
     "addr:street":"Candler Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.280794,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2112 Candler Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -69,12 +70,14 @@
         }
     ],
     "wof:id":739500753,
-    "wof:lastmodified":1510603871,
+    "wof:lastmodified":1534181661,
     "wof:name":"Piggly Wiggly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739795377
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "general"

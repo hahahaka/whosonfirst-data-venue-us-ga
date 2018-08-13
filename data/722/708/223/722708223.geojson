@@ -2,18 +2,24 @@
   "id": 722708223,
   "type": "Feature",
   "properties": {
-    "addr:full":"303 Martin Luther King Jr Blvd Savannah GA 31401",
+    "addr:city":"Savannah",
+    "addr:full":"303 Martin Luther King Jr Boulevard Savannah, Ga 31401",
+    "addr:house_number":"303",
     "addr:housenumber":"303",
+    "addr:phone":"+1 912-651-6825",
     "addr:postcode":"31401",
+    "addr:road":"Martin Luther King Jr Boulevard",
+    "addr:state":"GA",
     "addr:street":"Martin Luther King Jr Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-81.09919,32.075465,-81.09919,32.075465",
-    "geom:latitude":32.075465,
-    "geom:longitude":-81.09919,
+    "geom:bbox":"-81.09921,32.07544,-81.09921,32.07544",
+    "geom:latitude":32.07544,
+    "geom:longitude":-81.09921,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"303 Martin Luther King Jr Blvd",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -39,7 +45,11 @@
         "gallery"
     ],
     "sg:website":"www.chsgeorgia.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527519,
+        102534139
+    ],
     "wof:belongsto":[
         85688535,
         102191575,
@@ -51,11 +61,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300016,
         "sg:id":"SG_4rEx9rTd7ag1UHXtkPmOTi_32.075465_-81.099190@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461887119,
-    "wof:geomhash":"e67c9a6472af228be9ddd1fcec2078d4",
+    "wof:geomhash":"0c8044e25885be716cf22d3be21cfce2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,8 +88,8 @@
         }
     ],
     "wof:id":722708223,
-    "wof:lastmodified":1472618395,
-    "wof:name":"Savannah History Museum Inc",
+    "wof:lastmodified":1534181702,
+    "wof:name":"Savannah History Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
@@ -92,10 +103,10 @@
     ]
 },
   "bbox": [
-    -81.09919,
-    32.075465,
-    -81.09919,
-    32.075465
+    -81.09921,
+    32.07544,
+    -81.09921,
+    32.07544
 ],
-  "geometry": {"coordinates":[-81.09918999999999,32.075465],"type":"Point"}
+  "geometry": {"coordinates":[-81.09921,32.07544],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"30346",
     "addr:street":"Perimeter Center W",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.341534,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"111 Perimeter Center W",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -70,12 +71,14 @@
         }
     ],
     "wof:id":722720671,
-    "wof:lastmodified":1510942937,
+    "wof:lastmodified":1534181620,
     "wof:name":"W Atlanta At Perimeter Center",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740011179
+    ],
     "wof:supersedes":[
         740010383
     ],

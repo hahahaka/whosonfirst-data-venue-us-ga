@@ -7,6 +7,7 @@
     "addr:postcode":"30338",
     "addr:street":"Chamblee Dunwoody Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.334983,33.946886,-84.334983,33.946886",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.334983,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5482 Chamblee Dunwoody Rd",
     "sg:city":"Dunwoody",
     "sg:classifiers":[
@@ -59,7 +61,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923479,
-    "wof:geomhash":"757f50821556b778ad7af2a6b81a766c",
+    "wof:geomhash":"f444f7834f0f27be9ec42966324e5d6d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -81,13 +83,17 @@
         }
     ],
     "wof:id":739988053,
-    "wof:lastmodified":1472619674,
+    "wof:lastmodified":1534181695,
     "wof:name":"Wright's Gourmet Sandwich Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739314939
+    ],
+    "wof:supersedes":[
+        739768915
+    ],
     "wof:tags":[
         "dessert",
         "sandwich",

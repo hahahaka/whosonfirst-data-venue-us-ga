@@ -14,6 +14,7 @@
     "geom:longitude":-84.471313,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2459 Roosevelt Hwy",
     "sg:city":"College Park",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461904587,
-    "wof:geomhash":"82d25af39d19211da8216f6248d77107",
+    "wof:geomhash":"48e290f7e7d3b719531142681b3b9478",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":739300421,
-    "wof:lastmodified":1472618067,
+    "wof:lastmodified":1534181627,
     "wof:name":"Consolidated Service",
     "wof:parent_id":85827327,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739985703
+    ],
     "wof:tags":[
         "general",
         "contractor"

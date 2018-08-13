@@ -7,6 +7,7 @@
     "addr:postcode":"30236",
     "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.338732,33.492617,-84.338732,33.492617",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.338732,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9344 S Main St",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1461909945,
-    "wof:geomhash":"9f4a243315802368f63a948e3a7394f6",
+    "wof:geomhash":"62a31256e786f7a9949e0a984eed7221",
     "wof:hierarchy":[],
     "wof:id":739577111,
-    "wof:lastmodified":1472618776,
+    "wof:lastmodified":1534181674,
     "wof:name":"Goldizen Realty Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739893597
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

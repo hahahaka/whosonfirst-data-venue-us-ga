@@ -7,6 +7,7 @@
     "addr:postcode":"30135",
     "addr:street":"Douglas Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.740254,33.730573,-84.740254,33.730573",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.740254,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7400 Douglas Blvd",
     "sg:city":"Douglasville",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461907257,
-    "wof:geomhash":"d3c8d048feed7487941f8ad224995094",
+    "wof:geomhash":"81e02d97b4dfbaa5e260ffd38c1bea7d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":739434651,
-    "wof:lastmodified":1472618450,
+    "wof:lastmodified":1534181672,
     "wof:name":"Old Time Pottery Store",
     "wof:parent_id":85824659,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739875145
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "pottery"

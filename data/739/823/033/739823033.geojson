@@ -14,6 +14,7 @@
     "geom:longitude":-84.65536,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3600 Dallas Hwy SW",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -40,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916816,
-    "wof:geomhash":"07dbc1ad1d1adb97ad766290175f2184",
+    "wof:geomhash":"2a1a92711a063448f23e45a0a9d83586",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,13 +52,16 @@
         }
     ],
     "wof:id":739823033,
-    "wof:lastmodified":1472619391,
+    "wof:lastmodified":1534181666,
     "wof:name":"Children's Physicians PC",
     "wof:parent_id":85839059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723283647,
+        722691791
+    ],
     "wof:tags":[]
 },
   "bbox": [

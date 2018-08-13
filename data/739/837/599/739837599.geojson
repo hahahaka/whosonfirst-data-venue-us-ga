@@ -14,6 +14,7 @@
     "geom:longitude":-84.339622,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"500 Sun Valley Dr",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -60,7 +61,7 @@
     },
     "wof:country":"US",
     "wof:created":1461917397,
-    "wof:geomhash":"0848d3a963f62781eaf5907d06fc2b4e",
+    "wof:geomhash":"41d69aa42b2e546ca0c3a29705dac22e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,13 +74,15 @@
         }
     ],
     "wof:id":739837599,
-    "wof:lastmodified":1472619452,
+    "wof:lastmodified":1534181667,
     "wof:name":"Allen & Furr Inc",
     "wof:parent_id":85812681,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723428309
+    ],
     "wof:tags":[
         "auto",
         "commercial",

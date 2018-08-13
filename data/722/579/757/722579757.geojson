@@ -15,6 +15,7 @@
     "geom:longitude":-84.438204,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5500 Interstate North Pkwy",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461884599,
-    "wof:geomhash":"1e447babb78dd45712e96485e57e0f99",
+    "wof:geomhash":"9df951eba07217a8b22d850f9d9244a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,13 +72,15 @@
         }
     ],
     "wof:id":722579757,
-    "wof:lastmodified":1491898013,
+    "wof:lastmodified":1534181621,
     "wof:name":"Metro Telecom Inc",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723011597
+    ],
     "wof:tags":[
         "equipment",
         "telephone",

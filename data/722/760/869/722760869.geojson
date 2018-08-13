@@ -7,6 +7,7 @@
     "addr:postcode":"30071",
     "addr:street":"Buford Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.202195,33.946293,-84.202195,33.946293",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.202195,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5405 Buford Hwy",
     "sg:city":"Norcross",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461888142,
-    "wof:geomhash":"ac77597468811edf8782a533533db347",
+    "wof:geomhash":"4ca46ea039cf2655a3783f887feb67e8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":722760869,
-    "wof:lastmodified":1472618535,
+    "wof:lastmodified":1534181652,
     "wof:name":"Central Pet Supply",
     "wof:parent_id":85826369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723457787
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "pet",

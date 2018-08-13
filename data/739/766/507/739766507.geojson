@@ -7,6 +7,7 @@
     "addr:postcode":"30168",
     "addr:street":"Riverside Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.560278,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"275 Riverside Pkwy",
     "sg:city":"Austell",
     "sg:classifiers":[
@@ -46,12 +47,14 @@
     "wof:geomhash":"aa35fbfc873823584831b49a6e6d37fe",
     "wof:hierarchy":[],
     "wof:id":739766507,
-    "wof:lastmodified":1510603960,
+    "wof:lastmodified":1534181633,
     "wof:name":"Panda Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722634223
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "asian",

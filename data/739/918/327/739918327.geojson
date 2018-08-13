@@ -15,6 +15,7 @@
     "geom:longitude":-84.387581,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"240 Peachtree St NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -55,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920525,
-    "wof:geomhash":"a062344190151683bc81a413f3794f24",
+    "wof:geomhash":"cb14b8a6ec78afb83a6b8c48b8834a87",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,13 +71,15 @@
         }
     ],
     "wof:id":739918327,
-    "wof:lastmodified":1486682502,
+    "wof:lastmodified":1534181678,
     "wof:name":"Americasmart",
     "wof:parent_id":1108797059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739735439
+    ],
     "wof:tags":[
         "wi-fi",
         "hotspot"

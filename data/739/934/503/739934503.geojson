@@ -7,6 +7,7 @@
     "addr:postcode":"30308",
     "addr:street":"Peachtree St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.386875,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"303 Peachtree St",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921199,
-    "wof:geomhash":"f13bd0f378625f62cf53b746aca99107",
+    "wof:geomhash":"cf0f7fbff8c7fc7e45a8710e3ba6ea7c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +67,14 @@
         }
     ],
     "wof:id":739934503,
-    "wof:lastmodified":1486670168,
+    "wof:lastmodified":1534181681,
     "wof:name":"Haidet , Jeffrey K. - Mckenna Long & Ald",
     "wof:parent_id":85866901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739934569
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney",

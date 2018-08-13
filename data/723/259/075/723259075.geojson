@@ -14,6 +14,7 @@
     "geom:longitude":-84.266947,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3620 Dekalb Technology Pkwy",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461898290,
-    "wof:geomhash":"1ac60eb9f68844fc837a70422ccbfedf",
+    "wof:geomhash":"17358480a9a8ce0f94d321b4a03a71e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":723259075,
-    "wof:lastmodified":1472618707,
+    "wof:lastmodified":1534181643,
     "wof:name":"X-Truder Security",
     "wof:parent_id":85889955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722668359
+    ],
     "wof:tags":[
         "monitoring",
         "system"

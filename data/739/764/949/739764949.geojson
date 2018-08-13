@@ -7,6 +7,7 @@
     "addr:postcode":"30092",
     "addr:street":"Peachtree Corners Cir",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.216242,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"4880 Peachtree Corners Cir",
     "sg:city":"Norcross",
     "sg:classifiers":[
@@ -61,12 +62,14 @@
         }
     ],
     "wof:id":739764949,
-    "wof:lastmodified":1510697651,
+    "wof:lastmodified":1534181668,
     "wof:name":"Atlanta Bread Company",
     "wof:parent_id":85826369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739851377
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

@@ -7,6 +7,7 @@
     "addr:postcode":"30024",
     "addr:street":"Horizon Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.034319,34.032565,-84.034319,34.032565",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.034319,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"105 Horizon Dr",
     "sg:city":"Suwanee",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461886392,
-    "wof:geomhash":"d4589e7c0f8e05d90d7d3425618eae31",
+    "wof:geomhash":"bd4c21d1cb246c8b68e63d7cb6d15e7c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":722669807,
-    "wof:lastmodified":1472618289,
+    "wof:lastmodified":1534181660,
     "wof:name":"Jeffreys Sports Bar and Grill",
     "wof:parent_id":85802315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739790043
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking",

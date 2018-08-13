@@ -7,6 +7,7 @@
     "addr:postcode":"30117",
     "addr:street":"S Park St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-85.077323,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"862 S Park St",
     "sg:city":"Carrollton",
     "sg:classifiers":[
@@ -41,12 +42,14 @@
     "wof:geomhash":"5a0ac222ac57555bc3fa70296e7fb41a",
     "wof:hierarchy":[],
     "wof:id":723333711,
-    "wof:lastmodified":1510686297,
+    "wof:lastmodified":1534181671,
     "wof:name":"King Buffet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739869239
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

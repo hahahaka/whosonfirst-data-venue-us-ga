@@ -14,6 +14,7 @@
     "geom:longitude":-84.462986,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2177 Godby Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461912035,
-    "wof:geomhash":"96e10ffb4dbdcde110873469d5307ca6",
+    "wof:geomhash":"5cfc92eaa89c01b52dba5713c3389e70",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":739674331,
-    "wof:lastmodified":1472619034,
+    "wof:lastmodified":1534181652,
     "wof:name":"Ashford Dental Associates",
     "wof:parent_id":85827327,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740012699
+    ],
     "wof:tags":[
         "dentist"
     ]

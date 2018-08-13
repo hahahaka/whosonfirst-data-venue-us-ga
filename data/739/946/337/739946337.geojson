@@ -7,6 +7,7 @@
     "addr:postcode":"30309",
     "addr:street":"W Peachtree St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.39064,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1601 W Peachtree St",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921778,
-    "wof:geomhash":"d11a263dd0d6da95bea850fe5207b7d2",
+    "wof:geomhash":"6f2982caeb9a973a6ecf28eba14655dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":739946337,
-    "wof:lastmodified":1486669609,
+    "wof:lastmodified":1534181683,
     "wof:name":"95.5 the Beat",
     "wof:parent_id":85807999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739946549
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

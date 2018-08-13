@@ -7,6 +7,7 @@
     "addr:postcode":"30060",
     "addr:street":"Church St Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.550218,33.966805,-84.550218,33.966805",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.550218,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"625 Church St NE",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916516,
-    "wof:geomhash":"a2f3637d92108e37ab02743cf16a04d9",
+    "wof:geomhash":"12353e19cba748c55361c6f6d12c9a5e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":739815241,
-    "wof:lastmodified":1472619393,
+    "wof:lastmodified":1534181666,
     "wof:name":"Alarcon Carlos MD",
     "wof:parent_id":85817769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739817241
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

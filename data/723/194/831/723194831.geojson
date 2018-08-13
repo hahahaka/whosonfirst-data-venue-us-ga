@@ -7,6 +7,7 @@
     "addr:postcode":"30606",
     "addr:street":"Atlanta Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-83.466112,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"3700 Atlanta Hwy",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -41,12 +42,14 @@
     "wof:geomhash":"7d04cc9d1cb1796f9edf793a40e31555",
     "wof:hierarchy":[],
     "wof:id":723194831,
-    "wof:lastmodified":1510616240,
+    "wof:lastmodified":1534181642,
     "wof:name":"JC Penney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739475125
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

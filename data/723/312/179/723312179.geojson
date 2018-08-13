@@ -7,6 +7,7 @@
     "addr:postcode":"ga 30161",
     "addr:street":"Turner Mccall Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-85.164859,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1715 Turner McCall Blvd",
     "sg:city":"Rome",
     "sg:classifiers":[
@@ -58,12 +59,14 @@
         }
     ],
     "wof:id":723312179,
-    "wof:lastmodified":1511318544,
+    "wof:lastmodified":1534181657,
     "wof:name":"Captain D's Seafood",
     "wof:parent_id":85890045,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739766361
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

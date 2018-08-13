@@ -7,6 +7,7 @@
     "addr:postcode":"30338",
     "addr:street":"Ashwood Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.338841,33.933685,-84.338841,33.933685",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.338841,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1200 Ashwood Pkwy",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461888476,
-    "wof:geomhash":"3310e6b194d045b0ade8077070e7c4c7",
+    "wof:geomhash":"0edcdb06486649c349a68de9ef599738",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":722778979,
-    "wof:lastmodified":1472618593,
+    "wof:lastmodified":1534181695,
     "wof:name":"Bon Apetite Bistro",
     "wof:parent_id":420559925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739988017
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

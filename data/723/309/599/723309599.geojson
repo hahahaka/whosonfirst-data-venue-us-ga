@@ -7,6 +7,7 @@
     "addr:postcode":"30022",
     "addr:street":"Jones Bridge Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.213965,34.063639,-84.213965,34.063639",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.213965,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11670 Jones Bridge Rd",
     "sg:city":"Alpharetta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461899255,
-    "wof:geomhash":"03ab1be03e56d818e05fdfe8dee53826",
+    "wof:geomhash":"f4b269f1a86ff9d954402e880fb73a58",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":723309599,
-    "wof:lastmodified":1472618848,
+    "wof:lastmodified":1534181659,
     "wof:name":"Kimball Convenience Inc",
     "wof:parent_id":85839197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739778883
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "station",

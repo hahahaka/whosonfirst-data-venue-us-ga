@@ -7,6 +7,7 @@
     "addr:postcode":"30116",
     "addr:street":"E Wayside Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.950695,33.602021,-84.950695,33.602021",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.950695,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1035 E Wayside Rd",
     "sg:city":"Carrollton",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1461886372,
-    "wof:geomhash":"2374f62e34a968ce1b368e67defeb8f3",
+    "wof:geomhash":"7245942e16f9b5cd80500f5d8032c206",
     "wof:hierarchy":[],
     "wof:id":722668597,
-    "wof:lastmodified":1472618278,
+    "wof:lastmodified":1534181670,
     "wof:name":"Truckers World Of Permits Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739868439
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"

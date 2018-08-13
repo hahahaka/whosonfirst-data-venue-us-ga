@@ -7,6 +7,7 @@
     "addr:postcode":"adairsville;30103",
     "addr:street":"Joe Frank Harris Pkwy Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.899003,34.324388,-84.899003,34.324388",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.899003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4645 Joe Frank Harris Pkwy NW",
     "sg:city":"Adairsville",
     "sg:classifiers":[
@@ -32,22 +34,26 @@
         "fixture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420517191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wFCa8neLuWzt6JUAMM7OY_34.324388_-84.899003@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461897143,
-    "wof:geomhash":"51d6e67ff14c2f49b0156910198d0898",
+    "wof:geomhash":"f9a5f5942bac3eecf475fccc00716c4d",
     "wof:hierarchy":[],
     "wof:id":723203409,
-    "wof:lastmodified":1472618551,
+    "wof:lastmodified":1534181648,
     "wof:name":"Sandy Springs Galleries",
     "wof:parent_id":420517191,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723373573
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "lighting",

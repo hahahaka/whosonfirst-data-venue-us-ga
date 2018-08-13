@@ -7,6 +7,7 @@
     "addr:postcode":"30291",
     "addr:street":"Shannon Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.539255,33.571339,-84.539255,33.571339",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.539255,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6740 Shannon Pkwy",
     "sg:city":"Union City",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461886470,
-    "wof:geomhash":"e8945f5e6d75105ee7cc9a0ac68a69b3",
+    "wof:geomhash":"0ac99808131c02cfd1edfb2fd939da8b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":722674137,
-    "wof:lastmodified":1472618263,
+    "wof:lastmodified":1534181641,
     "wof:name":"Hair Braid Perfection Beauty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722724163
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

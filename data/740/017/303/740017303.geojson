@@ -7,6 +7,7 @@
     "addr:postcode":"30354",
     "addr:street":"Conley Road Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.361318,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"887 Conley Road SE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924591,
-    "wof:geomhash":"ccd84f4aa663930d69cba9d3650f18f1",
+    "wof:geomhash":"7e02ec798c7ab46074632a741545dc64",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":740017303,
-    "wof:lastmodified":1486672113,
+    "wof:lastmodified":1534181677,
     "wof:name":"Playskool Learning Center",
     "wof:parent_id":420784727,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739910501
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "day"

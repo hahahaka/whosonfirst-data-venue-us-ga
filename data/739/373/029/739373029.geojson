@@ -7,6 +7,7 @@
     "addr:postcode":"31406",
     "addr:street":"Forest Park Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.11,32.009389,-81.11,32.009389",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.11,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6815 Forest Park Dr",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461906063,
-    "wof:geomhash":"6a96c1b79c74a7f2f71fa4150d6f45d8",
+    "wof:geomhash":"9c42b216c5c89e9d98a8b944a8037ca8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":739373029,
-    "wof:lastmodified":1472618239,
+    "wof:lastmodified":1534181641,
     "wof:name":"Just As I AM Ministries Inc",
     "wof:parent_id":85890047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723201895
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "church"

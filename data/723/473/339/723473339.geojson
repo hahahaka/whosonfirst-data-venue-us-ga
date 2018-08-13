@@ -2,18 +2,24 @@
   "id": 723473339,
   "type": "Feature",
   "properties": {
-    "addr:full":"502 Hickory Hill Dr Thomson GA 30824",
+    "addr:city":"Thomson",
+    "addr:full":"502 Hickory Hill Drive Thomson, Ga 30824",
+    "addr:house_number":"502",
     "addr:housenumber":"502",
+    "addr:phone":"+1 706-595-7777",
     "addr:postcode":"30824",
+    "addr:road":"Hickory Hill Drive",
+    "addr:state":"GA",
     "addr:street":"Hickory Hill Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-82.512562,33.46953,-82.512562,33.46953",
-    "geom:latitude":33.46953,
-    "geom:longitude":-82.512562,
+    "geom:bbox":"-82.51281,33.4696,-82.51281,33.4696",
+    "geom:latitude":33.4696,
+    "geom:longitude":-82.51281,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"502 Hickory Hill Dr",
     "sg:city":"Thomson",
     "sg:classifiers":[
@@ -30,19 +36,21 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409501519,
         "sg:id":"SG_64YPNgSWp6F1BtloI3lO6O_33.469530_-82.512562@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461902380,
-    "wof:geomhash":"1fd0a06fc4fd92b9224a06d62bf347e9",
+    "wof:geomhash":"13377640d5252c9b97df117451402347",
     "wof:hierarchy":[],
     "wof:id":723473339,
-    "wof:lastmodified":1472619254,
-    "wof:name":"Hickory Hills Museum",
+    "wof:lastmodified":1534181702,
+    "wof:name":"Hickory Hill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
@@ -53,10 +61,10 @@
     ]
 },
   "bbox": [
-    -82.512562,
-    33.46953,
-    -82.512562,
-    33.46953
+    -82.51281,
+    33.4696,
+    -82.51281,
+    33.4696
 ],
-  "geometry": {"coordinates":[-82.512562,33.46953],"type":"Point"}
+  "geometry": {"coordinates":[-82.51281,33.4696],"type":"Point"}
 }

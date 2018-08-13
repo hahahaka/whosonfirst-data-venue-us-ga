@@ -14,6 +14,7 @@
     "geom:longitude":-85.166321,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"16 Riverbend Dr SW",
     "sg:city":"Rome",
     "sg:classifiers":[
@@ -60,7 +61,7 @@
     },
     "wof:country":"US",
     "wof:created":1461919151,
-    "wof:geomhash":"cc9a455b6489232ebb90e9aaad932124",
+    "wof:geomhash":"6a18b252bdd25d8bb30810925a0a15c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,13 +74,15 @@
         }
     ],
     "wof:id":739882551,
-    "wof:lastmodified":1472619522,
+    "wof:lastmodified":1534181671,
     "wof:name":"Coosa Diagnostic Center",
     "wof:parent_id":85890045,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722921249
+    ],
     "wof:tags":[
         "physician",
         "radiology",

@@ -7,6 +7,7 @@
     "addr:postcode":"30005",
     "addr:street":"Old Milton Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.267669,34.068937,-84.267669,34.068937",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.267669,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3400 Old Milton Pkwy",
     "sg:city":"Alpharetta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461896654,
-    "wof:geomhash":"3885c2127747ced3dffc200966375ccb",
+    "wof:geomhash":"a4cd09c40696db220639b552f74c494c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":723178411,
-    "wof:lastmodified":1472618459,
+    "wof:lastmodified":1534181620,
     "wof:name":"Preston Rdge Pdiatric Assoc PC",
     "wof:parent_id":85812541,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722562845
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

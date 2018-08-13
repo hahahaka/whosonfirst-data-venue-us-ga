@@ -2,18 +2,24 @@
   "id": 722940115,
   "type": "Feature",
   "properties": {
-    "addr:full":"2980 Ebenezer Rd Rincon GA 31326",
+    "addr:city":"Rincon",
+    "addr:full":"2980 Ebenezer Rd Rincon, Ga 31326-3716",
+    "addr:house_number":"2980",
     "addr:housenumber":"2980",
-    "addr:postcode":"31326",
+    "addr:phone":"+1 912-754-7001",
+    "addr:postcode":"31326-3716",
+    "addr:road":"Ebenezer Rd",
+    "addr:state":"GA",
     "addr:street":"Ebenezer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-81.183638,32.372472,-81.183638,32.372472",
-    "geom:latitude":32.372472,
-    "geom:longitude":-81.183638,
+    "geom:bbox":"-81.18519,32.37202,-81.18519,32.37202",
+    "geom:latitude":32.37202,
+    "geom:longitude":-81.18519,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2980 Ebenezer Rd",
     "sg:city":"Rincon",
     "sg:classifiers":[
@@ -30,18 +36,22 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527519
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300689,
         "sg:id":"SG_3WsvqdVmUjGVBvUMqhsJ1q_32.372472_-81.183638@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461891635,
-    "wof:geomhash":"6903c8bf6b5381eb3eb7f5a0ef60c5e1",
+    "wof:geomhash":"5ba72128a940cca6468ea2e820d77142",
     "wof:hierarchy":[],
     "wof:id":722940115,
-    "wof:lastmodified":1472619003,
+    "wof:lastmodified":1534181701,
     "wof:name":"Georgia Salzburger Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -53,10 +63,10 @@
     ]
 },
   "bbox": [
-    -81.183638,
-    32.372472,
-    -81.183638,
-    32.372472
+    -81.18519,
+    32.37202,
+    -81.18519,
+    32.37202
 ],
-  "geometry": {"coordinates":[-81.183638,32.372472],"type":"Point"}
+  "geometry": {"coordinates":[-81.18519000000001,32.37202],"type":"Point"}
 }

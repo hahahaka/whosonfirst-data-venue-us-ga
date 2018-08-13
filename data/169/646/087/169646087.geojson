@@ -14,6 +14,7 @@
     "geom:longitude":-84.352516,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5671 Peachtree Dunwoody Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
         "sg:id":"SG_55xYhZsfqmOwppb9SiwsP1_33.907248_-84.352516@1294087602"
     },
     "wof:country":"US",
-    "wof:geomhash":"aebe723e20f66bfde21419abebb7afd6",
+    "wof:geomhash":"ebca3c591e002c59550f82588d183b11",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":169646087,
-    "wof:lastmodified":1472617827,
+    "wof:lastmodified":1534181616,
     "wof:name":"Lillibridge Healthcare Svcs",
     "wof:parent_id":85890009,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723179729
+    ],
     "wof:tags":[
         "transportation",
         "ag",

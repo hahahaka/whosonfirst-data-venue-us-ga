@@ -7,6 +7,7 @@
     "addr:postcode":"30518",
     "addr:street":"Buford Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.010269,34.09362,-84.010269,34.09362",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.010269,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4300 Buford Dr",
     "sg:city":"Buford",
     "sg:classifiers":[
@@ -80,7 +82,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924877,
-    "wof:geomhash":"8f6e247a5a8a38f70ae9ce00dc0265b5",
+    "wof:geomhash":"61f9831735ae8a2caa783142ff7bec99",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -93,12 +95,14 @@
         }
     ],
     "wof:id":740024709,
-    "wof:lastmodified":1472617973,
+    "wof:lastmodified":1534181627,
     "wof:name":"S & S Ace Hardware",
     "wof:parent_id":85820775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740025741
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "renting",

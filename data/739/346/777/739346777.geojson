@@ -14,6 +14,7 @@
     "geom:longitude":-84.294083,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4321 Buford Hwy NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461905538,
-    "wof:geomhash":"1eb0fc48173deba8d55891f8fb9a7fa0",
+    "wof:geomhash":"719e5bb624fb14513a9c57cd61c21948",
     "wof:hierarchy":[
         {
             "campus_id":102525899,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":739346777,
-    "wof:lastmodified":1472618222,
+    "wof:lastmodified":1534181636,
     "wof:name":"Crabtrees Auto Painting Inc",
     "wof:parent_id":102525899,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739999753
+    ],
     "wof:tags":[
         "body",
         "automobile",

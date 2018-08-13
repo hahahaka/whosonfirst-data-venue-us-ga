@@ -7,6 +7,7 @@
     "addr:postcode":"30092",
     "addr:street":"Peachtree Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.220561,33.972205,-84.220561,33.972205",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.220561,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5277 Peachtree Pkwy",
     "sg:city":"Norcross",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914336,
-    "wof:geomhash":"8ac366b063f41dc563d8a8ccc7c49b87",
+    "wof:geomhash":"9677abb57dcab0298dc95478edbbb6f7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":739764929,
-    "wof:lastmodified":1472619322,
+    "wof:lastmodified":1534181668,
     "wof:name":"Ippolitos Italian Restaurant",
     "wof:parent_id":85826369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739851115
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "italian"

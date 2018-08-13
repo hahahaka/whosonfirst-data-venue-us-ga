@@ -7,6 +7,7 @@
     "addr:postcode":"30308",
     "addr:street":"Ponce De Leon Ave Ne Ste 680A",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.366585,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"650 Ponce De Leon Ave NE Ste 680A",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921195,
-    "wof:geomhash":"83e2573ccdbe71c558786796623f4fda",
+    "wof:geomhash":"1abc896cd49649be46a759a52221ccaf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +67,14 @@
         }
     ],
     "wof:id":739934367,
-    "wof:lastmodified":1486670276,
+    "wof:lastmodified":1534181684,
     "wof:name":"The Olive Bistro",
     "wof:parent_id":85853981,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739935059
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "middle",

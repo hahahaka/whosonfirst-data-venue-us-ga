@@ -7,6 +7,7 @@
     "addr:postcode":"30346",
     "addr:street":"Perimeter Center Pl Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.339461,33.9302,-84.339461,33.9302",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.339461,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"115 Perimeter Center Pl NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924349,
-    "wof:geomhash":"f1addb7685377e4bd19552d9f8f18216",
+    "wof:geomhash":"156301500c028d1473f8de4ba88f929a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,12 +76,14 @@
         }
     ],
     "wof:id":740010943,
-    "wof:lastmodified":1472617884,
+    "wof:lastmodified":1534181620,
     "wof:name":"Matrix Resources Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740011355
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "personnel",

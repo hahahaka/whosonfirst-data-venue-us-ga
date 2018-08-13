@@ -7,6 +7,7 @@
     "addr:postcode":"30305",
     "addr:street":"Pharr Rd Ne Ste B",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.380382,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"211 Pharr Rd NE Ste B",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920875,
-    "wof:geomhash":"2dd76f81985fd7fe65b09f86a506c6c4",
+    "wof:geomhash":"8a1759d05d1c790f855b206783879fe7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":739926529,
-    "wof:lastmodified":1486668859,
+    "wof:lastmodified":1534181678,
     "wof:name":"Veggieland",
     "wof:parent_id":85872111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739928919
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "vegetarian",

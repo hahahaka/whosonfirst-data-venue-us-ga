@@ -7,6 +7,7 @@
     "addr:postcode":"30329",
     "addr:street":"N Druid Hills Rd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.310407,33.814943,-84.310407,33.814943",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.310407,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2957 N Druid Hills Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923201,
-    "wof:geomhash":"75328794591a32c8c25eac5db02b341a",
+    "wof:geomhash":"65989412ddda3a837761f9ffba2717e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":739981689,
-    "wof:lastmodified":1472619694,
+    "wof:lastmodified":1534181695,
     "wof:name":"Druid Hills Eyecare",
     "wof:parent_id":85890013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739980419
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

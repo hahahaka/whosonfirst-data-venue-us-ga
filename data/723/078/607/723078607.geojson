@@ -7,6 +7,7 @@
     "addr:postcode":"31046",
     "addr:street":"Klopfer Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.781448,32.965721,-83.781448,32.965721",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.781448,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1377 Klopfer Rd",
     "sg:city":"Juliette",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461894654,
-    "wof:geomhash":"8db6f71b04b417cc812e09a6a5a8b903",
+    "wof:geomhash":"7590b49473a863ab5ae6fbe6a6466be1",
     "wof:hierarchy":[],
     "wof:id":723078607,
-    "wof:lastmodified":1472618225,
+    "wof:lastmodified":1534181637,
     "wof:name":"Jesensky Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740050491
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electrical",

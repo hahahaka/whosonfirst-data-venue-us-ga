@@ -7,6 +7,7 @@
     "addr:postcode":"30303",
     "addr:street":"Spring St Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.389,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"250 Spring St NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920730,
-    "wof:geomhash":"54b7bec221a3a998f374429fc9d36aae",
+    "wof:geomhash":"aea26b15ee99658bc36648bf0c204b14",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":739923431,
-    "wof:lastmodified":1486682528,
+    "wof:lastmodified":1534181637,
     "wof:name":"Brady Frank J & Son Inc",
     "wof:parent_id":1108797059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723103633
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing",

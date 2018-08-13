@@ -7,6 +7,7 @@
     "addr:postcode":"30134",
     "addr:street":"Ridge Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.845969,33.804054,-84.845969,33.804054",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.845969,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2874 Ridge Rd",
     "sg:city":"Douglasville",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461897914,
-    "wof:geomhash":"18414d88848b758b3313b1a92ff60a44",
+    "wof:geomhash":"56e7c2b2fea7700971ccdb888c41a4b3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":723240129,
-    "wof:lastmodified":1472618657,
+    "wof:lastmodified":1534181671,
     "wof:name":"Top Of The Ridge",
     "wof:parent_id":85835843,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739874253
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

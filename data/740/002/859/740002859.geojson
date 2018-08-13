@@ -7,6 +7,7 @@
     "addr:postcode":"30342",
     "addr:street":"Peachtree Dunwoody R",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.352854,33.905499,-84.352854,33.905499",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.352854,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5555 Peachtree Dunwoody R",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924034,
-    "wof:geomhash":"f0befdd77e4028098eb138d4bb330147",
+    "wof:geomhash":"f059e701e886fd022eb5dee763858c94",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,13 +66,17 @@
         }
     ],
     "wof:id":740002859,
-    "wof:lastmodified":1472617889,
+    "wof:lastmodified":1534181619,
     "wof:name":"Rousseau William S DDS",
     "wof:parent_id":85890009,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        740003627
+    ],
+    "wof:supersedes":[
+        722921047
+    ],
     "wof:tags":[
         "surgeon",
         "oral"

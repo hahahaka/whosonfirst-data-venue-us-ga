@@ -15,6 +15,7 @@
     "geom:longitude":-84.443501,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4200 Northside Pkwy NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -50,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461895180,
-    "wof:geomhash":"6e3d050d0d1bb895b7b298348cab8fcb",
+    "wof:geomhash":"6298c234d09bb1057e5e123c679f0a68",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,13 +75,16 @@
         }
     ],
     "wof:id":723103187,
-    "wof:lastmodified":1486672074,
+    "wof:lastmodified":1534181638,
     "wof:name":"Noromoseley Partners III LP",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722885527,
+        739973375
+    ],
     "wof:tags":[
         "firm",
         "venture",

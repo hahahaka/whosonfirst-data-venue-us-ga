@@ -7,6 +7,7 @@
     "addr:postcode":"30032",
     "addr:street":"Midway Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.26347,33.754921,-84.26347,33.754921",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.26347,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3079 Midway Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915548,
-    "wof:geomhash":"a164e44dfe4ec118d03c2b95df533974",
+    "wof:geomhash":"0b7285f9c61ffb6210faf8f72d7aaad8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":739794567,
-    "wof:lastmodified":1472619370,
+    "wof:lastmodified":1534181661,
     "wof:name":"Tai-Chi-Association.com",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739795577
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

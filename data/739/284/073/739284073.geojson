@@ -7,6 +7,7 @@
     "addr:postcode":"30223",
     "addr:street":"N Expy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.289429,33.322287,-84.289429,33.322287",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.289429,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3326 N Expy",
     "sg:city":"Griffin",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1461904239,
-    "wof:geomhash":"926f8eca3acac8ab8a5929094486182a",
+    "wof:geomhash":"6bc545812fedc04561f76fe0e026df5e",
     "wof:hierarchy":[],
     "wof:id":739284073,
-    "wof:lastmodified":1472617988,
+    "wof:lastmodified":1534181674,
     "wof:name":"J R Alignment Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739891153
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "alignment"

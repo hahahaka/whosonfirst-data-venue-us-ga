@@ -7,6 +7,7 @@
     "addr:postcode":"31406",
     "addr:street":"Commercial Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.109476,32.004936,-81.109476,32.004936",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.109476,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"315 Commercial Dr",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461908374,
-    "wof:geomhash":"dc6ac89adb35ed56250387f7d64c68d6",
+    "wof:geomhash":"815ad67aa8e05caed1d69905873573ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":739496855,
-    "wof:lastmodified":1472618598,
+    "wof:lastmodified":1534181628,
     "wof:name":"Graham Michael H & Assoc PC",
     "wof:parent_id":420517331,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723072611
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

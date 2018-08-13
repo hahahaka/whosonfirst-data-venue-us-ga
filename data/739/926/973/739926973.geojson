@@ -7,6 +7,7 @@
     "addr:postcode":"30305",
     "addr:street":"E Paces Ferry Road Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.377387,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"309 E Paces Ferry Road NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920900,
-    "wof:geomhash":"bf7152f444bdb351b1e8a4049117a256",
+    "wof:geomhash":"d83a8ad6673c7c395649a32d320342c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":739926973,
-    "wof:lastmodified":1486671840,
+    "wof:lastmodified":1534181636,
     "wof:name":"McDonald Paul P DDS",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739348459
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

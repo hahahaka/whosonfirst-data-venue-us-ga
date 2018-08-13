@@ -14,6 +14,7 @@
     "geom:longitude":-83.971866,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"502 Smith Ave",
     "sg:city":"Thomasville",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461911171,
-    "wof:geomhash":"0007257e8cfaeb7a0887158d62039c37",
+    "wof:geomhash":"bc20c44a0d2abb7f6a1189f85d4c380a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":739635847,
-    "wof:lastmodified":1472618967,
+    "wof:lastmodified":1534181649,
     "wof:name":"Market Diner Restaurant",
     "wof:parent_id":85833309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740071043
+    ],
     "wof:tags":[
         "eating"
     ]

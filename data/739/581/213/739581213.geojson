@@ -7,6 +7,7 @@
     "addr:postcode":"31210",
     "addr:street":"Forsyth Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.703715,32.87118,-83.703715,32.87118",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.703715,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4524 Forsyth Rd",
     "sg:city":"Macon",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461910030,
-    "wof:geomhash":"2882376b2bc6b70b440c9df1afd5d48e",
+    "wof:geomhash":"83b2dfa394c3a815904be9c956fad0b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":739581213,
-    "wof:lastmodified":1472618779,
+    "wof:lastmodified":1534181634,
     "wof:name":"Original Honey Baked Ham 50",
     "wof:parent_id":85819955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723094889
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

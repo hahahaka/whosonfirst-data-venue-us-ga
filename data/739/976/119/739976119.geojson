@@ -7,6 +7,7 @@
     "addr:postcode":"30328",
     "addr:street":"Glenridge Drive Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.362275,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"5871 Glenridge Drive NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -60,12 +61,14 @@
         }
     ],
     "wof:id":739976119,
-    "wof:lastmodified":1510942960,
+    "wof:lastmodified":1534181692,
     "wof:name":"Brooks McGinnis & Company",
     "wof:parent_id":85889977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739977025
+    ],
     "wof:supersedes":[
         722647851
     ],

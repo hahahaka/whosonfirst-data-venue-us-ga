@@ -7,6 +7,7 @@
     "addr:postcode":"30338",
     "addr:street":"Perimeter Center W Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.350588,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1117 Perimeter Center W Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461906391,
-    "wof:geomhash":"1fbb1afdbe18dc8c0f6db7ab1248531a",
+    "wof:geomhash":"747ac4c97939ff816cd60217b629f922",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,12 +72,14 @@
         }
     ],
     "wof:id":739390097,
-    "wof:lastmodified":1491902590,
+    "wof:lastmodified":1534181640,
     "wof:name":"Galler & Atkins",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722715591
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

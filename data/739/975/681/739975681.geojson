@@ -14,6 +14,7 @@
     "geom:longitude":-84.361706,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"755 Mount Vernon Hwy NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922966,
-    "wof:geomhash":"3bacc2b8e93d0ea28500452b6598e3ca",
+    "wof:geomhash":"dd54faeecb98cdfa37b915f7b0de5c57",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,13 +69,15 @@
         }
     ],
     "wof:id":739975681,
-    "wof:lastmodified":1472619662,
+    "wof:lastmodified":1534181688,
     "wof:name":"Cardiology of Georgia PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722850979
+    ],
     "wof:tags":[
         "cardiologist"
     ]

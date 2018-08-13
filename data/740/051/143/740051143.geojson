@@ -7,6 +7,7 @@
     "addr:postcode":"31061",
     "addr:street":"Lake Laurel Rd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.18074,33.123942,-83.18074,33.123942",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.18074,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"396 Lake Laurel Rd NE",
     "sg:city":"Milledgeville",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461926154,
-    "wof:geomhash":"ae62d644d9bcf6d3424fda5d80c20944",
+    "wof:geomhash":"0b8c65446a52f20f57f4351629a66292",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":740051143,
-    "wof:lastmodified":1472618102,
+    "wof:lastmodified":1534181638,
     "wof:name":"Spring Hill Baptist Church",
     "wof:parent_id":85802835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722653111
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "churches-baptist-general",

@@ -14,6 +14,7 @@
     "geom:longitude":-84.320846,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11685 Alpharetta Hwy",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461904549,
-    "wof:geomhash":"ce8c01da8d7a8b2545b3fa3dd859fdcc",
+    "wof:geomhash":"a5a96c8315281cc005797fccdc1d33b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":739299027,
-    "wof:lastmodified":1472618048,
+    "wof:lastmodified":1534181627,
     "wof:name":"North Ga Home Dialysis",
     "wof:parent_id":85851631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722942483
+    ],
     "wof:tags":[
         "clinic"
     ]

@@ -7,6 +7,7 @@
     "addr:postcode":"30318",
     "addr:street":"Chattahoochee Ave Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.437405,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1151 Chattahoochee Ave NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461904283,
-    "wof:geomhash":"62b869419353df56502a0fd53618b8cf",
+    "wof:geomhash":"e827118313bfe43a3a262f8848456306",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":739286367,
-    "wof:lastmodified":1486668988,
+    "wof:lastmodified":1534181685,
     "wof:name":"Leather & Luggage Depot",
     "wof:parent_id":85857119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739962975
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

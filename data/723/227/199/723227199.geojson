@@ -7,6 +7,7 @@
     "addr:postcode":"30339",
     "addr:street":"Paces Ferry Rd Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.475104,33.865411,-84.475104,33.865411",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.475104,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2675 Paces Ferry Rd SE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461897646,
-    "wof:geomhash":"ba3182388035eee3eec1683e948770e4",
+    "wof:geomhash":"0c800feaa9e7a0ac85c552300ad0d1f2",
     "wof:hierarchy":[],
     "wof:id":723227199,
-    "wof:lastmodified":1472618610,
+    "wof:lastmodified":1534181649,
     "wof:name":"Coverall Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739619345
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"

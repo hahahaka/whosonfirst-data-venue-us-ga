@@ -7,6 +7,7 @@
     "addr:postcode":"30066",
     "addr:street":"Sandy Plains Rd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.492106,34.017276,-84.492106,34.017276",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.492106,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2692 Sandy Plains Rd NE",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1461892018,
-    "wof:geomhash":"50f71fc3d6d94e5ac1b9074e13ccaf28",
+    "wof:geomhash":"c723b5cfa2e63200a3b90938ed4b2f59",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":722959383,
-    "wof:lastmodified":1472619063,
+    "wof:lastmodified":1534181654,
     "wof:name":"His Place",
     "wof:parent_id":85857049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723470921
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"30339",
     "addr:street":"Windy Ridge Pkwy Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.461472,33.906151,-84.461472,33.906151",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.461472,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2300 Windy Ridge Pkwy SE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923646,
-    "wof:geomhash":"f4481a55ba7c7e62632fb458012ca4f1",
+    "wof:geomhash":"fef4a028448c777d48727a167e57162c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":739992579,
-    "wof:lastmodified":1472619702,
+    "wof:lastmodified":1534181630,
     "wof:name":"Profit Recovery Group Usa Inc",
     "wof:parent_id":85818985,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739324957
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer",

@@ -14,6 +14,7 @@
     "geom:longitude":-84.288628,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4897 Buford Hwy",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923906,
-    "wof:geomhash":"1e6542763964046fecbc7ffc5d3908a8",
+    "wof:geomhash":"afcdc6fb0aea309b0616c0e46131ccd9",
     "wof:hierarchy":[
         {
             "campus_id":102525899,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":739999403,
-    "wof:lastmodified":1472619711,
+    "wof:lastmodified":1534181700,
     "wof:name":"World Communication Center",
     "wof:parent_id":102525899,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723184457
+    ],
     "wof:tags":[
         "systems-repair",
         "telephone",

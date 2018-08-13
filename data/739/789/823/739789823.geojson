@@ -14,6 +14,7 @@
     "geom:longitude":-84.079847,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"700 Peachtree Industrial Blvd",
     "sg:city":"Suwanee",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915363,
-    "wof:geomhash":"674a64f553f42467dfffe2a21439c266",
+    "wof:geomhash":"f271e1f3b44d6e539f1e234159abcb7d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":739789823,
-    "wof:lastmodified":1472619359,
+    "wof:lastmodified":1534181661,
     "wof:name":"Evergreen Landscape Supply",
     "wof:parent_id":85802315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722883711
+    ],
     "wof:tags":[
         "landscape",
         "contractor"

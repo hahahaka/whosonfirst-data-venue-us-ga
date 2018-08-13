@@ -15,6 +15,7 @@
     "geom:longitude":-84.386012,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"303 Peachtree Center Avenue",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920298,
-    "wof:geomhash":"ee9d63d2b4c3413a77cda2bc090b4b88",
+    "wof:geomhash":"eeb82d04451568f81fba0aabde072b28",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":739912415,
-    "wof:lastmodified":1486669513,
+    "wof:lastmodified":1534181677,
     "wof:name":"Tower Lobby Shops",
     "wof:parent_id":85866901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739601709
+    ],
     "wof:tags":[
         "magazine"
     ]

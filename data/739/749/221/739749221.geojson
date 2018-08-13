@@ -15,6 +15,7 @@
     "geom:longitude":-84.393349,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"170 Mitchell St SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461913680,
-    "wof:geomhash":"88c8d46070a92f50520ff9e15a1de98a",
+    "wof:geomhash":"05c981a650c4c48a3cf721af71b76595",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +64,15 @@
         }
     ],
     "wof:id":739749221,
-    "wof:lastmodified":1486682625,
+    "wof:lastmodified":1534181656,
     "wof:name":"Ellenburg & Ogier & Rothschild Pc",
     "wof:parent_id":1108797063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739569797
+    ],
     "wof:tags":[
         "attorney"
     ]

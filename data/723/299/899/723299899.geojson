@@ -7,6 +7,7 @@
     "addr:postcode":"30340",
     "addr:street":"Oakcliff Industrial Ct",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.24929,33.903887,-84.24929,33.903887",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.24929,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3905 Oakcliff Industrial Ct",
     "sg:city":"Doraville",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461899060,
-    "wof:geomhash":"df8ed603d9299e53ad8f3dde3bea182b",
+    "wof:geomhash":"582e0762e1c7837cac9432fa73d55fcf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":723299899,
-    "wof:lastmodified":1472618816,
+    "wof:lastmodified":1534181695,
     "wof:name":"Commercial Waste",
     "wof:parent_id":85889941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739996365
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "grease",

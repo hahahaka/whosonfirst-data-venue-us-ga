@@ -7,6 +7,7 @@
     "addr:postcode":"30328",
     "addr:street":"Hammond Dr Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.350045,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1140 Hammond Dr NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922923,
-    "wof:geomhash":"0be6c671b6062616a37a1f59e549fcd4",
+    "wof:geomhash":"6783aee171579269529600f13b2d728d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,12 +71,14 @@
         }
     ],
     "wof:id":739974385,
-    "wof:lastmodified":1491902568,
+    "wof:lastmodified":1534181691,
     "wof:name":"Smith Wm Robert Jr MD",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739978437
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"30309",
     "addr:street":"Peachtree St Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.384201,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1230 Peachtree St NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921363,
-    "wof:geomhash":"facb1373d6bbe122887a1bde37271c2e",
+    "wof:geomhash":"b6f6f2288c21b03d54165f69439d9eee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,12 +71,14 @@
         }
     ],
     "wof:id":739938575,
-    "wof:lastmodified":1486671257,
+    "wof:lastmodified":1534181684,
     "wof:name":"Vian John T Atty",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739944541
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -2,18 +2,24 @@
   "id": 740002877,
   "type": "Feature",
   "properties": {
-    "addr:full":"5920 Roswell Road Sandy Springs GA 30342",
+    "addr:city":"Sandy Springs",
+    "addr:full":"5920 Roswell Rd Sandy Springs, Ga 30328",
+    "addr:house_number":"5920",
     "addr:housenumber":"5920",
-    "addr:postcode":"30342",
+    "addr:phone":"+1 770-206-1558",
+    "addr:postcode":"30328",
+    "addr:road":"Roswell Rd",
+    "addr:state":"GA",
     "addr:street":"Roswell Road",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-84.37866,33.905511,-84.37866,33.905511",
-    "geom:latitude":33.905511,
-    "geom:longitude":-84.37866,
+    "geom:bbox":"-84.37928,33.91663,-84.37928,33.91663",
+    "geom:latitude":33.91663,
+    "geom:longitude":-84.37928,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"5920 Roswell Road",
     "sg:city":"Sandy Springs",
     "sg:classifiers":[
@@ -26,7 +32,10 @@
     "sg:owner":"simplegeo",
     "sg:postcode":"30342",
     "sg:province":"GA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525899
+    ],
     "wof:belongsto":[
         85688535,
         102191575,
@@ -37,11 +46,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300128,
         "sg:id":"SG_7HntsWaTou1Il9h5MDumeT_33.905511_-84.378660@1303262627"
     },
     "wof:country":"US",
     "wof:created":1461924034,
-    "wof:geomhash":"2b4c4db3cabcc652a7c6d281535834ca",
+    "wof:geomhash":"11fca191e2c63acec89100f0b42dd767",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,8 +64,8 @@
         }
     ],
     "wof:id":740002877,
-    "wof:lastmodified":1472617889,
-    "wof:name":"Anne Frank Museum",
+    "wof:lastmodified":1534181617,
+    "wof:name":"Anne Frank In World",
     "wof:parent_id":85890007,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
@@ -64,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -84.37866,
-    33.905511,
-    -84.37866,
-    33.905511
+    -84.37928,
+    33.91663,
+    -84.37928,
+    33.91663
 ],
-  "geometry": {"coordinates":[-84.37866,33.905511],"type":"Point"}
+  "geometry": {"coordinates":[-84.37927999999999,33.91663],"type":"Point"}
 }

@@ -15,6 +15,7 @@
     "geom:longitude":-84.366387,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3414 Peachtree Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461913088,
-    "wof:geomhash":"73af411a6d78b6af312f7dc079b611c7",
+    "wof:geomhash":"023534b459913e4d800214e004269054",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":739724775,
-    "wof:lastmodified":1486671538,
+    "wof:lastmodified":1534181654,
     "wof:name":"Goldman Sachs & Co",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722689575
+    ],
     "wof:tags":[
         "security"
     ]

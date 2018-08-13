@@ -7,6 +7,7 @@
     "addr:postcode":"30350",
     "addr:street":"Roswell Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.355537,33.97427,-84.355537,33.97427",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.355537,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8010 Roswell Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924545,
-    "wof:geomhash":"e4dd77828c2f54343edc044bf1797cda",
+    "wof:geomhash":"b27710cbbe7c6f8431a8d997d8855bec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":740015969,
-    "wof:lastmodified":1472617901,
+    "wof:lastmodified":1534181622,
     "wof:name":"Allen Lund Company Inc",
     "wof:parent_id":85889985,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723043937
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

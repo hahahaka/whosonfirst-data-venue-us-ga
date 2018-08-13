@@ -7,6 +7,7 @@
     "addr:postcode":"30253",
     "addr:street":"Highway 42 N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.170097,33.484901,-84.170097,33.484901",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.170097,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1640 Highway 42 N",
     "sg:city":"McDonough",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1461919734,
-    "wof:geomhash":"4ecffe61143338000e6d34792ec83617",
+    "wof:geomhash":"8ae1852ba54413a2682f46d6bb837f8f",
     "wof:hierarchy":[],
     "wof:id":739897755,
-    "wof:lastmodified":1472619531,
+    "wof:lastmodified":1534181631,
     "wof:name":"Eagles Landing Church of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722621899
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

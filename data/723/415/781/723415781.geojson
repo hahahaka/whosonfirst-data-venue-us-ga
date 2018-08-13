@@ -7,6 +7,7 @@
     "addr:postcode":"30342",
     "addr:street":"Peachtree Dunwoody Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.352468,33.907306,-84.352468,33.907306",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.352468,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5667 Peachtree Dunwoody Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461901286,
-    "wof:geomhash":"30584c0de448db11b258cb13b4f370d5",
+    "wof:geomhash":"6e39bad21dff9749aac5b9b1700289f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":723415781,
-    "wof:lastmodified":1472619170,
+    "wof:lastmodified":1534181616,
     "wof:name":"Atlanta Cardiology Group",
     "wof:parent_id":85890009,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740001561
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

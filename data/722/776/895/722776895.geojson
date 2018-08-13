@@ -7,6 +7,7 @@
     "addr:postcode":"30297",
     "addr:street":"Jonesboro Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.36161,33.640611,-84.36161,33.640611",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.36161,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4040 Jonesboro Rd",
     "sg:city":"Forest Park",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461888441,
-    "wof:geomhash":"c2de5b44302091126540743668279ad4",
+    "wof:geomhash":"f0b6927e82e4e0fd78eb7fe94a9d1c62",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":722776895,
-    "wof:lastmodified":1472618590,
+    "wof:lastmodified":1534181675,
     "wof:name":"JDS Auto Sales",
     "wof:parent_id":420517671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739910845
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "used"

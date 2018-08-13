@@ -15,6 +15,7 @@
     "geom:longitude":-84.398628,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"275 Centennial Olympic Park Dr NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -54,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922074,
-    "wof:geomhash":"1eb98ba3b0cc3b6d53b3a8a16f018e52",
+    "wof:geomhash":"f40400f00f35ba4ccf6a3d623cfe62e7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,13 +70,15 @@
         }
     ],
     "wof:id":739952687,
-    "wof:lastmodified":1486682626,
+    "wof:lastmodified":1534181687,
     "wof:name":"Imagine It The Children Museum",
     "wof:parent_id":1108797063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739952493
+    ],
     "wof:tags":[
         "attraction"
     ]

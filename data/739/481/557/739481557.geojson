@@ -7,6 +7,7 @@
     "addr:postcode":"31023",
     "addr:street":"Oak St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-83.182696,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"538 Oak St",
     "sg:city":"Eastman",
     "sg:classifiers":[
@@ -41,12 +42,14 @@
     "wof:geomhash":"349e49f8e525bf6b6a0f41a28cd140c1",
     "wof:hierarchy":[],
     "wof:id":739481557,
-    "wof:lastmodified":1511323080,
+    "wof:lastmodified":1534181658,
     "wof:name":"Domino's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739771937
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

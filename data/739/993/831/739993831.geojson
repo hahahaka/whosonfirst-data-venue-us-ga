@@ -7,6 +7,7 @@
     "addr:postcode":"30339",
     "addr:street":"Akers Mill Rd Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.448018,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "sg:address":"2243 Akers Mill Rd SE",
     "sg:city":"Atlanta",
     "sg:classifiers":[],
@@ -35,13 +36,17 @@
     "wof:geomhash":"dd764bd9f96274dc873e9cc5b8d266b1",
     "wof:hierarchy":[],
     "wof:id":739993831,
-    "wof:lastmodified":1510941543,
+    "wof:lastmodified":1534181701,
     "wof:name":"Akers Mill Food Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739994063
+    ],
+    "wof:supersedes":[
+        722779621
+    ],
     "wof:tags":[]
 },
   "bbox": [

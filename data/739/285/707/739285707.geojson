@@ -7,6 +7,7 @@
     "addr:postcode":"30222",
     "addr:street":"Lagrange Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.752903,33.031994,-84.752903,33.031994",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.752903,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8007 Lagrange Hwy",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1461904269,
-    "wof:geomhash":"db5e36e9c4648a088379773b44b23c9a",
+    "wof:geomhash":"5a942a74cafd0ea68ed85f40345329b4",
     "wof:hierarchy":[],
     "wof:id":739285707,
-    "wof:lastmodified":1472618013,
+    "wof:lastmodified":1534181672,
     "wof:name":"Clinton's Country Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739891111
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

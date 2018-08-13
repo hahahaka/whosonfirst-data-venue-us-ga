@@ -7,6 +7,7 @@
     "addr:postcode":"30309",
     "addr:street":"W Peachtree Street Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.38779,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1201 W Peachtree Street NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921777,
-    "wof:geomhash":"95d00c708f370cc4424568b5b0d66ecd",
+    "wof:geomhash":"bf726a01944ec4bd3aeae1ed263b4801",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,12 +71,14 @@
         }
     ],
     "wof:id":739946303,
-    "wof:lastmodified":1486669564,
+    "wof:lastmodified":1534181685,
     "wof:name":"Moore John A Atty",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739946741
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

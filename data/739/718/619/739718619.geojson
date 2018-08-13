@@ -7,6 +7,7 @@
     "addr:postcode":"30080",
     "addr:street":"Medlin St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.520599,33.87898,-84.520599,33.87898",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.520599,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1119 Medlin St",
     "sg:city":"Smyrna",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461912964,
-    "wof:geomhash":"743bfe6c2ea1abda4d5b96c303100a15",
+    "wof:geomhash":"424d0213cbe8cad78562093997e6359c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":739718619,
-    "wof:lastmodified":1472619167,
+    "wof:lastmodified":1534181667,
     "wof:name":"Mitchells Park Apartments",
     "wof:parent_id":85852043,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739840839
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "management"

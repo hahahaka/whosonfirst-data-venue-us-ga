@@ -15,6 +15,7 @@
     "geom:longitude":-84.513844,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3800 N Camp Creek Pkwy SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461893145,
-    "wof:geomhash":"f09475e3b0bd977aaba8c42f69930749",
+    "wof:geomhash":"ec6f7c7213e475ad0199758d325ab3ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":723010119,
-    "wof:lastmodified":1486672452,
+    "wof:lastmodified":1534181619,
     "wof:name":"Gemu Valves",
     "wof:parent_id":1108798293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722689633
+    ],
     "wof:tags":[
         "valve"
     ]

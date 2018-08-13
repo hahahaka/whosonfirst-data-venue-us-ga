@@ -7,6 +7,7 @@
     "addr:postcode":"30303",
     "addr:street":"Peachtree St Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.39507,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"230 Peachtree St SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461893279,
-    "wof:geomhash":"c1f8cbdcfd8e0f49ff158d36853c6a10",
+    "wof:geomhash":"28dc308e63855b3f43565f6d164df14c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +67,14 @@
         }
     ],
     "wof:id":723016191,
-    "wof:lastmodified":1486682655,
+    "wof:lastmodified":1534181651,
     "wof:name":"Intellitrans LLC",
     "wof:parent_id":1108797063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722974655
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "logistics",

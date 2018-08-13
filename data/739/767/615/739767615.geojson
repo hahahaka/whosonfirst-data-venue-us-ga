@@ -7,6 +7,7 @@
     "addr:postcode":"30281",
     "addr:street":"Highway 138 W",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.262317,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"102 Highway 138 W",
     "sg:city":"Stockbridge",
     "sg:classifiers":[
@@ -46,12 +47,14 @@
     "wof:geomhash":"27a786232bb5944a7b994e833e0a7f0f",
     "wof:hierarchy":[],
     "wof:id":739767615,
-    "wof:lastmodified":1512143540,
+    "wof:lastmodified":1534181677,
     "wof:name":"KFC - Kentucky Fried Chicken",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739904917
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

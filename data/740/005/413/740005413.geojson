@@ -2,19 +2,25 @@
   "id": 740005413,
   "type": "Feature",
   "properties": {
-    "addr:full":"4055 Roswell Rd Atlanta GA 30342",
+    "addr:city":"Atlanta",
+    "addr:full":"4055 Roswell Rd Ne Atlanta, Ga 30342-4145",
+    "addr:house_number":"4055",
     "addr:housenumber":"4055",
-    "addr:postcode":"30342",
+    "addr:phone":"+1 404-345-1008",
+    "addr:postcode":"30342-4145",
+    "addr:road":"Roswell Rd Ne",
+    "addr:state":"GA",
     "addr:street":"Roswell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-84.380917,33.86567,-84.380917,33.86567",
-    "geom:latitude":33.86567,
-    "geom:longitude":-84.380917,
+    "geom:bbox":"-84.38009,33.8657,-84.38009,33.8657",
+    "geom:latitude":33.8657,
+    "geom:longitude":-84.38009,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4055 Roswell Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -28,7 +34,11 @@
     "sg:phone":"+1 404 814 8228",
     "sg:postcode":"30342",
     "sg:province":"GA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525899,
+        102526927
+    ],
     "wof:belongsto":[
         1108798175,
         102191575,
@@ -41,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300139,
         "sg:id":"SG_4XoCsPrNyyhicciXdgQAAm_33.865670_-84.380917@1303262628"
     },
     "wof:country":"US",
     "wof:created":1461924139,
-    "wof:geomhash":"8d4ef52efc520266b91d092421c56539",
+    "wof:geomhash":"aeffafae3334fe87f83fcc00724fef84",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,8 +80,8 @@
         }
     ],
     "wof:id":740005413,
-    "wof:lastmodified":1486672282,
-    "wof:name":"Heron Blue Nature Preserve Inc",
+    "wof:lastmodified":1534181702,
+    "wof:name":"Blue Heron Nature Preserve",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
@@ -79,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -84.380917,
-    33.86567,
-    -84.380917,
-    33.86567
+    -84.38009,
+    33.8657,
+    -84.38009,
+    33.8657
 ],
-  "geometry": {"coordinates":[-84.380917,33.86567],"type":"Point"}
+  "geometry": {"coordinates":[-84.38009,33.8657],"type":"Point"}
 }

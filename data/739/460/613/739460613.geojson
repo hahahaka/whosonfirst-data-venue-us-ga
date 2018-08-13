@@ -7,6 +7,7 @@
     "addr:postcode":"30067",
     "addr:street":"Cumberland Point Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.492539,33.911605,-84.492539,33.911605",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.492539,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1710 Cumberland Point Dr",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461907726,
-    "wof:geomhash":"c5704f615baba13d47fc476bdb97707b",
+    "wof:geomhash":"d86b7c90ee3395f0923c17f3ea683381",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":739460613,
-    "wof:lastmodified":1472618511,
+    "wof:lastmodified":1534181622,
     "wof:name":"Interior Demolition Services",
     "wof:parent_id":85845875,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723060113
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "demolition"

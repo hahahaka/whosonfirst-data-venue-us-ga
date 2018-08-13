@@ -7,6 +7,7 @@
     "addr:postcode":"30331",
     "addr:street":"County Line Rd Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.534251,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2171 County Line Rd SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461900918,
-    "wof:geomhash":"b186a8b282ee03458a3623a542c6ffb0",
+    "wof:geomhash":"a9d1087c711ba8dc3962413732dadb14",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":723397183,
-    "wof:lastmodified":1486672455,
+    "wof:lastmodified":1534181694,
     "wof:name":"Prestige Bus Co",
     "wof:parent_id":1108798305,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739983149
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "rental"

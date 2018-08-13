@@ -7,6 +7,7 @@
     "addr:postcode":"30650",
     "addr:street":"Ponder Pines Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.433021,33.459652,-83.433021,33.459652",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.433021,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1390 Ponder Pines Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -44,15 +46,17 @@
     },
     "wof:country":"US",
     "wof:created":1461925421,
-    "wof:geomhash":"0a4f2a98a36ea739e98d36d9d81c6a4d",
+    "wof:geomhash":"297373f075cc099f79d36b758837072b",
     "wof:hierarchy":[],
     "wof:id":740036215,
-    "wof:lastmodified":1472617957,
+    "wof:lastmodified":1534181633,
     "wof:name":"Cross Ag Transport Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723090241
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking-motor",

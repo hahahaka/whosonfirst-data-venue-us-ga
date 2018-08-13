@@ -14,6 +14,7 @@
     "geom:longitude":-81.103946,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"340 Eisenhower Dr",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461888424,
-    "wof:geomhash":"51a4147c4ca8fe0c8aaf34a8f59c52ce",
+    "wof:geomhash":"9b16f1ce3d6fd93aababa1c6341fa0a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":722775827,
-    "wof:lastmodified":1472618588,
+    "wof:lastmodified":1534181642,
     "wof:name":"Back Pain Institute of Georgia",
     "wof:parent_id":85838901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722693967
+    ],
     "wof:tags":[
         "medical",
         "osteopathic"

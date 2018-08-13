@@ -2,18 +2,24 @@
   "id": 723130365,
   "type": "Feature",
   "properties": {
-    "addr:full":"207 Dalton St Ellijay GA 30540",
+    "addr:city":"Ellijay",
+    "addr:full":"207 Dalton St Ellijay, Ga 30540-9000",
+    "addr:house_number":"207",
     "addr:housenumber":"207",
-    "addr:postcode":"30540",
+    "addr:phone":"+1 706-635-5605",
+    "addr:postcode":"30540-9000",
+    "addr:road":"Dalton St",
+    "addr:state":"GA",
     "addr:street":"Dalton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-84.48178,34.698743,-84.48178,34.698743",
-    "geom:latitude":34.698743,
-    "geom:longitude":-84.48178,
+    "geom:bbox":"-84.48181,34.69859,-84.48181,34.69859",
+    "geom:latitude":34.69859,
+    "geom:longitude":-84.48181,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"207 Dalton St",
     "sg:city":"Ellijay",
     "sg:classifiers":[
@@ -32,7 +38,8 @@
         "arts",
         "information"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688535,
         102191575,
@@ -43,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300445,
         "sg:id":"SG_0hkxVpyiLCcbEqSQU9xCfw_34.698743_-84.481780@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461895706,
-    "wof:geomhash":"0fc2910d1f456c329be155d1abf57e4d",
+    "wof:geomhash":"ef4619de7774e4852231bed358e1c025",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,8 +68,8 @@
         }
     ],
     "wof:id":723130365,
-    "wof:lastmodified":1472618331,
-    "wof:name":"Gilmer Arts & Heritage Assoc",
+    "wof:lastmodified":1534181702,
+    "wof:name":"Gilmer Arts & Heritage Association",
     "wof:parent_id":85859453,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
@@ -74,10 +82,10 @@
     ]
 },
   "bbox": [
-    -84.48178,
-    34.698743,
-    -84.48178,
-    34.698743
+    -84.48181,
+    34.69859,
+    -84.48181,
+    34.69859
 ],
-  "geometry": {"coordinates":[-84.48178,34.698743],"type":"Point"}
+  "geometry": {"coordinates":[-84.48181,34.69859],"type":"Point"}
 }

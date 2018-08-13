@@ -7,6 +7,7 @@
     "addr:postcode":"30067",
     "addr:street":"Cumberland Point Dr Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.492779,33.911392,-84.492779,33.911392",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.492779,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1700 Cumberland Point Dr SE",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -53,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461917024,
-    "wof:geomhash":"5e867a5855bef97fac12c2377a98752d",
+    "wof:geomhash":"80e8d7d6f6d0aafceeb5b2fcb0f29401",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":739828551,
-    "wof:lastmodified":1472619412,
+    "wof:lastmodified":1534181626,
     "wof:name":"Toxicology Associates Of North Gargia Inc",
     "wof:parent_id":85845875,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723052121
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

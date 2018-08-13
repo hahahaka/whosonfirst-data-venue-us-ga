@@ -15,6 +15,7 @@
     "geom:longitude":-84.387479,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"235 Peachtree St NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461910892,
-    "wof:geomhash":"278e2736a4c2e7ee3f694136ecae39ba",
+    "wof:geomhash":"95e5edd20562f33c548209199085e6a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,13 +65,15 @@
         }
     ],
     "wof:id":739622741,
-    "wof:lastmodified":1486682497,
+    "wof:lastmodified":1534181648,
     "wof:name":"Brencor Asset Management",
     "wof:parent_id":1108797059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723240601
+    ],
     "wof:tags":[
         "consultant",
         "financial"

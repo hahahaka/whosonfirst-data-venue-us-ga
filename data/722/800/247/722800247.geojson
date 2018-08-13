@@ -7,6 +7,7 @@
     "addr:postcode":"30328",
     "addr:street":"Peachtree Dunwoody Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.351276,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6111 Peachtree Dunwoody Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461888893,
-    "wof:geomhash":"f782f87239a98c61848d6c5109eeb06d",
+    "wof:geomhash":"b7dc7959f71fa906cf3db5d66eaabdc5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,12 +70,14 @@
         }
     ],
     "wof:id":722800247,
-    "wof:lastmodified":1491902498,
+    "wof:lastmodified":1534181689,
     "wof:name":"David L Camp DDS",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739976079
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

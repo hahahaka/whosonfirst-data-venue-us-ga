@@ -14,6 +14,7 @@
     "geom:longitude":-84.550201,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"625 Church St NE",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916602,
-    "wof:geomhash":"64d0cb15c351f4ba37c25cef508eb4dd",
+    "wof:geomhash":"b1ad0778bce409ab2789498911ecc6ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":739817655,
-    "wof:lastmodified":1472619408,
+    "wof:lastmodified":1534181666,
     "wof:name":"Marietta Obgyn",
     "wof:parent_id":85817769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723268655
+    ],
     "wof:tags":[
         "obstetrician",
         "gynecologist"

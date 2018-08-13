@@ -7,6 +7,7 @@
     "addr:postcode":"30033",
     "addr:street":"Lawrenceville Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.268108,33.816736,-84.268108,33.816736",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.268108,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2340 Lawrenceville Hwy",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461898800,
-    "wof:geomhash":"3d0275bbf4b762eca7202938a3f18b53",
+    "wof:geomhash":"5c0a64a7399d8836cf76045d257de06c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":723286477,
-    "wof:lastmodified":1472618787,
+    "wof:lastmodified":1534181661,
     "wof:name":"Summit Grove Apartments",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739796581
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "building",

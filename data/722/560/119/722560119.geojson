@@ -7,6 +7,7 @@
     "addr:postcode":"30281",
     "addr:street":"Country Club Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.225667,33.50586,-84.225667,33.50586",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.225667,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"175 Country Club Dr",
     "sg:city":"Stockbridge",
     "sg:classifiers":[
@@ -40,15 +42,17 @@
     },
     "wof:country":"US",
     "wof:created":1461884205,
-    "wof:geomhash":"307002a381ce23ff6063054d335aaf81",
+    "wof:geomhash":"911779c0814eafc821a7e48bc4dcdd40",
     "wof:hierarchy":[],
     "wof:id":722560119,
-    "wof:lastmodified":1472617911,
+    "wof:lastmodified":1534181650,
     "wof:name":"Atlanta Psycho Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739633037
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor",

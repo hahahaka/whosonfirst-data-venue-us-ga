@@ -14,6 +14,7 @@
     "geom:longitude":-84.496763,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"234 Marietta Hwy",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461918523,
-    "wof:geomhash":"f3620e4fc1f4941c9f1a74bf00285833",
+    "wof:geomhash":"7e42bfbe3016bcc7e3813817ca2475be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":739865773,
-    "wof:lastmodified":1472619519,
+    "wof:lastmodified":1534181670,
     "wof:name":"North Wood Apartments",
     "wof:parent_id":85896263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739865693
+    ],
     "wof:tags":[
         "apartment"
     ]

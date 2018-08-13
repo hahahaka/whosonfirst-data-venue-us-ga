@@ -7,6 +7,7 @@
     "addr:postcode":"30324",
     "addr:street":"Miami Cir Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.367062,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"699 Miami Cir NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922586,
-    "wof:geomhash":"df77179acb9b6ae468acd702cc7f2fdb",
+    "wof:geomhash":"142a4b405b50179045de8d946291d8d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":739965693,
-    "wof:lastmodified":1491907527,
+    "wof:lastmodified":1534181630,
     "wof:name":"Williams Antiques",
     "wof:parent_id":85872095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722615037
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

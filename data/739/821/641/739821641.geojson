@@ -7,6 +7,7 @@
     "addr:postcode":"30062",
     "addr:street":"Roswell Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.490196,33.9678,-84.490196,33.9678",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.490196,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2145 Roswell Rd",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916760,
-    "wof:geomhash":"d2c8c3c47dc5eb75a3a2606531e59738",
+    "wof:geomhash":"3f3bbd4d0c364bdeb2d34056589140f9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +58,17 @@
         }
     ],
     "wof:id":739821641,
-    "wof:lastmodified":1472619411,
+    "wof:lastmodified":1534181665,
     "wof:name":"Atlanta Corporate Caterers the Silver Platter",
     "wof:parent_id":85857049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739354907
+    ],
+    "wof:supersedes":[
+        739819313
+    ],
     "wof:tags":[
         "caterer"
     ]

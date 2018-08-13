@@ -14,6 +14,7 @@
     "geom:longitude":-84.579992,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3391 Town Point Pkwy NW",
     "sg:city":"Kennesaw",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461903918,
-    "wof:geomhash":"1d67537590ae4b7ec9e7a86e9e6eeb42",
+    "wof:geomhash":"93b17516e19c6992e396518094090885",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +55,15 @@
         }
     ],
     "wof:id":739270047,
-    "wof:lastmodified":1472617916,
+    "wof:lastmodified":1534181620,
     "wof:name":"Nationwide Advertising Svc",
     "wof:parent_id":85821545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739260773
+    ],
     "wof:tags":[
         "counselor"
     ]

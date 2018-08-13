@@ -14,6 +14,7 @@
     "geom:longitude":-81.09693,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1326 Eisenhower Dr",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461900446,
-    "wof:geomhash":"7d6b1317cdcf9b7fb928fbe540d1641a",
+    "wof:geomhash":"68618279c2221d4e798d1d1ad5bd14e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":723373445,
-    "wof:lastmodified":1472619025,
+    "wof:lastmodified":1534181648,
     "wof:name":"Southcoast Imaging Ctr",
     "wof:parent_id":85847011,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722765953
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

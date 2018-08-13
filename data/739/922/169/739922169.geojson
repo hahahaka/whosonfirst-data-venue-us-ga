@@ -15,6 +15,7 @@
     "geom:longitude":-84.39141,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"104 Trinity Ave SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920679,
-    "wof:geomhash":"22d6e8d7d6d41ee143aea6c5c7fafa37",
+    "wof:geomhash":"4d92c9ab0f23c89908578f167ebd1dfa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,13 +65,15 @@
         }
     ],
     "wof:id":739922169,
-    "wof:lastmodified":1486682640,
+    "wof:lastmodified":1534181679,
     "wof:name":"Courts- Traffic Court",
     "wof:parent_id":1108797063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739555747
+    ],
     "wof:tags":[
         "justice"
     ]

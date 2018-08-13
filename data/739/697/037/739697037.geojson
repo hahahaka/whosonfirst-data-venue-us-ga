@@ -7,6 +7,7 @@
     "addr:postcode":"30274",
     "addr:street":"Upper Riverdale Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.391226,33.577439,-84.391226,33.577439",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.391226,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11 Upper Riverdale Rd",
     "sg:city":"Riverdale",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461912483,
-    "wof:geomhash":"9b9aa920859a882c38273e1464fa7eba",
+    "wof:geomhash":"562661ab54b91c5b9f451e2cb9584baf",
     "wof:hierarchy":[],
     "wof:id":739697037,
-    "wof:lastmodified":1472619073,
+    "wof:lastmodified":1534181675,
     "wof:name":"Southern Crescent Behavioral",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739902947
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

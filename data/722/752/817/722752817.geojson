@@ -14,6 +14,7 @@
     "geom:longitude":-85.212114,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3 Government Plz",
     "sg:city":"Rome",
     "sg:classifiers":[
@@ -32,23 +33,27 @@
         "human"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420517839
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fT0xiYGxca0gI5I0EZ40X_34.168606_-85.212114@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461887991,
-    "wof:geomhash":"ddfdbc1e26a9302d7c60bd4220ac67be",
+    "wof:geomhash":"6b2d587e68ad4af5788a58b17c28d5d2",
     "wof:hierarchy":[],
     "wof:id":722752817,
-    "wof:lastmodified":1472618529,
+    "wof:lastmodified":1534181641,
     "wof:name":"Human Resource Department",
     "wof:parent_id":420517839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722735987
+    ],
     "wof:tags":[
         "resource",
         "human"

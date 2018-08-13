@@ -7,6 +7,7 @@
     "addr:postcode":"30060",
     "addr:street":"Canton Rd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.547865,33.967974,-84.547865,33.967974",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.547865,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"702 Canton Rd NE",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461910742,
-    "wof:geomhash":"28c65de3da0a4b4d422a53e3dc7e4a9e",
+    "wof:geomhash":"41eedff83af0ea537caf0458fb2b5619",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":739616341,
-    "wof:lastmodified":1472618895,
+    "wof:lastmodified":1534181662,
     "wof:name":"Breast Center PC",
     "wof:parent_id":85817769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739817489
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

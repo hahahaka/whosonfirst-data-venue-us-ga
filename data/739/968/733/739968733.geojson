@@ -15,6 +15,7 @@
     "geom:longitude":-84.366371,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3379 Peachtree Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -52,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922702,
-    "wof:geomhash":"5a253678bc5c4fbbd818dd28338fa926",
+    "wof:geomhash":"cb6da192504ff7567372fb10d6480f0f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,13 +77,15 @@
         }
     ],
     "wof:id":739968733,
-    "wof:lastmodified":1486672210,
+    "wof:lastmodified":1534181686,
     "wof:name":"Consulate General Of Colombia",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739624405
+    ],
     "wof:tags":[
         "governmental",
         "offices-foreign",

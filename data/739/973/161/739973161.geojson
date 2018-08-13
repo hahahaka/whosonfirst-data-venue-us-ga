@@ -15,6 +15,7 @@
     "geom:longitude":-84.427096,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3193 Howell Mill Rd NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922877,
-    "wof:geomhash":"f00656de8231e507e17168cd8bd1e5e7",
+    "wof:geomhash":"13d4fefa1d90404750b34f3578626397",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +64,15 @@
         }
     ],
     "wof:id":739973161,
-    "wof:lastmodified":1486668716,
+    "wof:lastmodified":1534181694,
     "wof:name":"Travel Immunization Center: Barnett Jr Crawford F MD",
     "wof:parent_id":85872145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739972195
+    ],
     "wof:tags":[
         "medicine",
         "internal"

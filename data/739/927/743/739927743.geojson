@@ -7,6 +7,7 @@
     "addr:postcode":"30305",
     "addr:street":"Peachtree Rd Nw # 257",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.383199,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2870 Peachtree Rd NW #257",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -58,7 +60,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920927,
-    "wof:geomhash":"df3826812b53960c55ec730b2b87524d",
+    "wof:geomhash":"3fb93dc5d36ad021944de4ea7480feb0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,12 +74,14 @@
         }
     ],
     "wof:id":739927743,
-    "wof:lastmodified":1486668574,
+    "wof:lastmodified":1534181680,
     "wof:name":"Technical Resumes",
     "wof:parent_id":85872111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739927799
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "resume",

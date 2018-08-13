@@ -7,6 +7,7 @@
     "addr:postcode":"30115",
     "addr:street":"P Rickman Industrial Drive Suite 110",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.49963,34.176557,-84.49963,34.176557",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.49963,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"124 P Rickman Industrial Drive, Suite 110",
     "sg:city":"Canton",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461918606,
-    "wof:geomhash":"0f1535220bbe41bd0cb35e081c07e572",
+    "wof:geomhash":"268c4ccdffd7eec0912ea7794597a6a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +52,14 @@
         }
     ],
     "wof:id":739868097,
-    "wof:lastmodified":1472619483,
+    "wof:lastmodified":1534181670,
     "wof:name":"Life Bible Church",
     "wof:parent_id":85825975,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739868217
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

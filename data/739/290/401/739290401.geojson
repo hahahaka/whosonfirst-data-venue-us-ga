@@ -7,6 +7,7 @@
     "addr:postcode":"31061",
     "addr:street":"S Wayne St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.225623,33.076321,-83.225623,33.076321",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.225623,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"452 S Wayne St",
     "sg:city":"Milledgeville",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461904378,
-    "wof:geomhash":"d9ae6647597913fded35094fd8767887",
+    "wof:geomhash":"77bae476d6185697162fd44d14e309d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":739290401,
-    "wof:lastmodified":1472618040,
+    "wof:lastmodified":1534181637,
     "wof:name":"Baldwin County Farm Bureau",
     "wof:parent_id":85802835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740051115
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "underwriter"

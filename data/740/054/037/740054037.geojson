@@ -15,6 +15,7 @@
     "geom:longitude":-84.375866,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3180 Peachtree Road",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461926280,
-    "wof:geomhash":"1d861748b736596d94cfbc3b5fb80d2d",
+    "wof:geomhash":"ee393128ad4c8336320fd4d56bae733a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":740054037,
-    "wof:lastmodified":1486671412,
+    "wof:lastmodified":1534181639,
     "wof:name":"PRUMC Boot Camp",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739929719
+    ],
     "wof:tags":[
         "trainer"
     ]

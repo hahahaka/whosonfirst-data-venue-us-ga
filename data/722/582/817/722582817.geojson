@@ -2,18 +2,24 @@
   "id": 722582817,
   "type": "Feature",
   "properties": {
-    "addr:full":"4200 Bethany Rd Buckhead GA 30625",
+    "addr:city":"Buckhead",
+    "addr:full":"4200 Bethany Road Buckhead, Ga 30625-1729",
+    "addr:house_number":"4200",
     "addr:housenumber":"4200",
-    "addr:postcode":"30625",
+    "addr:phone":"+1 706-342-7557",
+    "addr:postcode":"30625-1729",
+    "addr:road":"Bethany Road",
+    "addr:state":"GA",
     "addr:street":"Bethany Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-83.39582,33.526669,-83.39582,33.526669",
-    "geom:latitude":33.526669,
-    "geom:longitude":-83.39582,
+    "geom:bbox":"-83.39181,33.52562,-83.39181,33.52562",
+    "geom:latitude":33.52562,
+    "geom:longitude":-83.39181,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4200 Bethany Rd",
     "sg:city":"Buckhead",
     "sg:classifiers":[
@@ -27,19 +33,21 @@
     "sg:phone":"+1 706 342 7557",
     "sg:postcode":"30625",
     "sg:province":"GA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300618,
         "sg:id":"SG_1uFOxtDpvlYitFqSsDeslF_33.526669_-83.395820@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461884655,
-    "wof:geomhash":"e819030b0bdfdf0f85aacb1771d56ad7",
+    "wof:geomhash":"11853ea9796df8b811edc9b31192488d",
     "wof:hierarchy":[],
     "wof:id":722582817,
-    "wof:lastmodified":1472618017,
-    "wof:name":"Steffen Thomas Museum & Archiv",
+    "wof:lastmodified":1534181702,
+    "wof:name":"Steffen Thomas Museum & Archives",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -83.39582,
-    33.526669,
-    -83.39582,
-    33.526669
+    -83.39181,
+    33.52562,
+    -83.39181,
+    33.52562
 ],
-  "geometry": {"coordinates":[-83.39582,33.526669],"type":"Point"}
+  "geometry": {"coordinates":[-83.39181000000001,33.52562],"type":"Point"}
 }

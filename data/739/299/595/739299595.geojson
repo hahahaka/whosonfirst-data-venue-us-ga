@@ -2,18 +2,24 @@
   "id": 739299595,
   "type": "Feature",
   "properties": {
-    "addr:full":"105 Chehaw Park Rd Albany GA 31701",
+    "addr:city":"Albany",
+    "addr:full":"105 Chehaw Park Rd Albany, Ga 31703",
+    "addr:house_number":"105",
     "addr:housenumber":"105",
-    "addr:postcode":"31701",
+    "addr:phone":"+1 229-430-5275",
+    "addr:postcode":"31703",
+    "addr:road":"Chehaw Park Rd",
+    "addr:state":"GA",
     "addr:street":"Chehaw Park Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-84.139069,31.622785,-84.139069,31.622785",
-    "geom:latitude":31.622785,
-    "geom:longitude":-84.139069,
+    "geom:bbox":"-84.13797,31.6172,-84.13797,31.6172",
+    "geom:latitude":31.6172,
+    "geom:longitude":-84.13797,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"105 Chehaw Park Rd",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -31,23 +37,27 @@
         "parks"
     ],
     "sg:website":"www.parksatchehaw.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533525
+    ],
     "wof:belongsto":[
-        85688535,
-        85633793,
-        85829381,
         102084427,
+        85633793,
+        85688535,
+        85829381,
         102191575,
         85935991,
         85825749
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300102,
         "sg:id":"SG_3AbF6mrxhIkf4D04ikXnMW_31.622785_-84.139069@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461904565,
-    "wof:geomhash":"5d37529ca91f696c03ad2765725e5e2c",
+    "wof:geomhash":"7983a75cab92b9fa8b7b97932eb42e6d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -67,7 +77,7 @@
         }
     ],
     "wof:id":739299595,
-    "wof:lastmodified":1472618063,
+    "wof:lastmodified":1534181702,
     "wof:name":"Chehaw Wild Animal Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -79,10 +89,10 @@
     ]
 },
   "bbox": [
-    -84.139069,
-    31.622785,
-    -84.139069,
-    31.622785
+    -84.13797,
+    31.6172,
+    -84.13797,
+    31.6172
 ],
-  "geometry": {"coordinates":[-84.13906900000001,31.622785],"type":"Point"}
+  "geometry": {"coordinates":[-84.13797,31.6172],"type":"Point"}
 }

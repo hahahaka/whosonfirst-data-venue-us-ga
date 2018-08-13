@@ -7,6 +7,7 @@
     "addr:postcode":"30030",
     "addr:street":"Winn Way",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.279489,33.789105,-84.279489,33.789105",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.279489,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"465 Winn Way",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -53,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915515,
-    "wof:geomhash":"7791faad17bfa4bf3b8bcd9dbdac88e1",
+    "wof:geomhash":"28aba6a6ff240f66c8e866e33cace37d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,13 +68,17 @@
         }
     ],
     "wof:id":739793861,
-    "wof:lastmodified":1472619362,
+    "wof:lastmodified":1534181661,
     "wof:name":"Pediatric Gastroenterology Associates",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        722652697
+    ],
+    "wof:supersedes":[
+        739460371
+    ],
     "wof:tags":[
         "physician",
         "pediatrics-emergency",

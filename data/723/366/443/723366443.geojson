@@ -7,6 +7,7 @@
     "addr:postcode":"30338",
     "addr:street":"Chamblee Dunwoody Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.314427,33.921322,-84.314427,33.921322",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.314427,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4536 Chamblee Dunwoody Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461900312,
-    "wof:geomhash":"e1b6b133d277ea41bcd44ef170021055",
+    "wof:geomhash":"04fbc053bbcb9f05158bc17ecbdf145b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,16 @@
         }
     ],
     "wof:id":723366443,
-    "wof:lastmodified":1472619014,
+    "wof:lastmodified":1534181697,
     "wof:name":"Robert Kelleher MD",
     "wof:parent_id":85889955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739655603,
+        739987081,
+        739987339
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

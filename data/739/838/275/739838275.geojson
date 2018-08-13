@@ -14,6 +14,7 @@
     "geom:longitude":-84.321327,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2500 Hospital Blvd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461917423,
-    "wof:geomhash":"2c4e4e6d0527407117064524f571b169",
+    "wof:geomhash":"b26f003b514ab8275db1d7bf072dfc79",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,16 @@
         }
     ],
     "wof:id":739838275,
-    "wof:lastmodified":1472619435,
+    "wof:lastmodified":1534181669,
     "wof:name":"North Pointe OB-GYN Associates",
     "wof:parent_id":85851631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        169622807,
+        722761511
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

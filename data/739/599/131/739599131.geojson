@@ -14,6 +14,7 @@
     "geom:longitude":-84.932418,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2901 University Ave",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461910385,
-    "wof:geomhash":"97c160316158bb9a893992507a08fd9c",
+    "wof:geomhash":"c1f4a33de9dd973fc6a582503643e4bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":739599131,
-    "wof:lastmodified":1472618835,
+    "wof:lastmodified":1534181648,
     "wof:name":"Education Guidance Services",
     "wof:parent_id":420518089,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723019999
+    ],
     "wof:tags":[
         "business"
     ]

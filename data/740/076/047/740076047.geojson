@@ -7,6 +7,7 @@
     "addr:postcode":"39845",
     "addr:street":"W 3Rd St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.867107,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"403 W 3rd St",
     "sg:city":"Donalsonville",
     "sg:classifiers":[
@@ -59,12 +60,14 @@
     "wof:geomhash":"bfb72b719037d7c92dbc82467fd812d9",
     "wof:hierarchy":[],
     "wof:id":740076047,
-    "wof:lastmodified":1511321174,
+    "wof:lastmodified":1534181658,
     "wof:name":"Pizza Hut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739775029
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery",

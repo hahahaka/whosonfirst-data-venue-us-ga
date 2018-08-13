@@ -7,6 +7,7 @@
     "addr:postcode":"31093",
     "addr:street":"N Houston Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.641559,32.640785,-83.641559,32.640785",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.641559,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"785 N Houston Rd",
     "sg:city":"Warner Robins",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461907982,
-    "wof:geomhash":"738c447394803708b0676e63c0def612",
+    "wof:geomhash":"931af41b89543458bfa736655de8f4ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":739475263,
-    "wof:lastmodified":1472618543,
+    "wof:lastmodified":1534181638,
     "wof:name":"Shakeys Pizza",
     "wof:parent_id":85826139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740053209
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

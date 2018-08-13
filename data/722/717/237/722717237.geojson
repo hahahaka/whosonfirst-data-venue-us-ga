@@ -14,6 +14,7 @@
     "geom:longitude":-84.175041,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2450 Atlanta Hwy",
     "sg:city":"Cumming",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461887293,
-    "wof:geomhash":"6a6d1e431b2c3982eaed9a4e3202d39c",
+    "wof:geomhash":"70dd8dadcc1e918ff61baa20ffd6b180",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":722717237,
-    "wof:lastmodified":1472618425,
+    "wof:lastmodified":1534181640,
     "wof:name":"Mortgage One Inc",
     "wof:parent_id":85842073,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739246359
+    ],
     "wof:tags":[
         "loan",
         "real estate"

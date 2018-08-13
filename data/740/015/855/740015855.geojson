@@ -7,6 +7,7 @@
     "addr:postcode":"30350",
     "addr:street":"Roswell Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.358101,33.9725,-84.358101,33.9725",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.358101,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7870 Roswell Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924541,
-    "wof:geomhash":"08e035cbd2e4d205e0b8e3efd1ec2dcf",
+    "wof:geomhash":"b81b6a8b23b8939420e3de4c3122affb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":740015855,
-    "wof:lastmodified":1472617896,
+    "wof:lastmodified":1534181621,
     "wof:name":"Tijuana Joes Cantina",
     "wof:parent_id":85889985,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740016385
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"

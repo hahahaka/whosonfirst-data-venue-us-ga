@@ -7,6 +7,7 @@
     "addr:postcode":"30342",
     "addr:street":"West Wieuca Road",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.380203,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"200 West Wieuca Road",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924030,
-    "wof:geomhash":"9508952a8c0a5d28d77211ec92446c72",
+    "wof:geomhash":"da47d5bf120290367546e28d4a4b1d7a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,12 +77,14 @@
         }
     ],
     "wof:id":740002753,
-    "wof:lastmodified":1486672299,
+    "wof:lastmodified":1534181619,
     "wof:name":"Avril's Car Wash by Hand",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740003723
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

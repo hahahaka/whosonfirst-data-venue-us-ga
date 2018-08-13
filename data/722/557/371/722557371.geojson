@@ -7,6 +7,7 @@
     "addr:postcode":"30607",
     "addr:street":"Commerce Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.386104,34.004127,-83.386104,34.004127",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.386104,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2585 Commerce Rd",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -44,15 +46,17 @@
     },
     "wof:country":"US",
     "wof:created":1461884156,
-    "wof:geomhash":"43d7c6593241bc0fe8e3ec63874ec9cd",
+    "wof:geomhash":"8423596528a75c646e4d88f66dd0412c",
     "wof:hierarchy":[],
     "wof:id":722557371,
-    "wof:lastmodified":1472617909,
+    "wof:lastmodified":1534181627,
     "wof:name":"Trinity Granite Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740034433
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "granite",

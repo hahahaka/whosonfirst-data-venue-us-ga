@@ -14,6 +14,7 @@
     "geom:longitude":-84.379002,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6065 Roswell Road NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923068,
-    "wof:geomhash":"0c6e16e5eeb2bdf7872e937e9fd45c30",
+    "wof:geomhash":"1250efe79e0ac07f1cbfc6c216003951",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":739978217,
-    "wof:lastmodified":1472619678,
+    "wof:lastmodified":1534181693,
     "wof:name":"Pine State Mortgage",
     "wof:parent_id":85889967,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739476437
+    ],
     "wof:tags":[
         "broker",
         "mortgage"

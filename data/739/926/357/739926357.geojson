@@ -15,6 +15,7 @@
     "geom:longitude":-84.377669,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"305 Buckhead Avenue NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920859,
-    "wof:geomhash":"8d7bdd78fdd90084a6babbd2c3784185",
+    "wof:geomhash":"51d9b0fd93e069c2d479ff816603d51b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,16 @@
         }
     ],
     "wof:id":739926357,
-    "wof:lastmodified":1486668588,
+    "wof:lastmodified":1534181678,
     "wof:name":"Moister Roger W Atty Jr",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723262531,
+        739668165
+    ],
     "wof:tags":[]
 },
   "bbox": [

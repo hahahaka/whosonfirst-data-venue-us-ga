@@ -7,6 +7,7 @@
     "addr:postcode":"30601",
     "addr:street":"E Broad St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.375619,33.95768,-83.375619,33.95768",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.375619,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"191 E Broad St",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461889963,
-    "wof:geomhash":"241389c29956b541ad0d8e60324ebdd0",
+    "wof:geomhash":"810d510328f662f7f308d92f9fa8e828",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":722857409,
-    "wof:lastmodified":1472618801,
+    "wof:lastmodified":1534181649,
     "wof:name":"Call Cynthia E",
     "wof:parent_id":85851137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739634329
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

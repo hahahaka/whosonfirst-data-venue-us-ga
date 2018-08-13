@@ -7,6 +7,7 @@
     "addr:postcode":"30076",
     "addr:street":"Old Roswell Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.341019,34.033001,-84.341019,34.033001",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.341019,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"770 Old Roswell Rd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461887973,
-    "wof:geomhash":"f1eec8ce9ed036579ed089f0c8f637c4",
+    "wof:geomhash":"c80e823bc67916d378a7e05c225d77c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":722752103,
-    "wof:lastmodified":1472618495,
+    "wof:lastmodified":1534181629,
     "wof:name":"Brawny Restoration",
     "wof:parent_id":85889949,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739320073
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaning",

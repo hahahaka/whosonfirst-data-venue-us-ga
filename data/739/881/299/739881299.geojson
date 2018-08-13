@@ -7,6 +7,7 @@
     "addr:postcode":"30152",
     "addr:street":"Ridenour Boulevard",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.586666,33.990191,-84.586666,33.990191",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.586666,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1625 Ridenour Boulevard",
     "sg:city":"Kennesaw",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461919107,
-    "wof:geomhash":"4c0a41e95fc4e2fbe277c51a65cdfef9",
+    "wof:geomhash":"6327cf120ca28b2274ae4f13b893bd5f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":739881299,
-    "wof:lastmodified":1472619496,
+    "wof:lastmodified":1534181673,
     "wof:name":"Big Peach Running Co.",
     "wof:parent_id":85839059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739881403
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "active",

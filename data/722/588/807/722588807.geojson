@@ -15,6 +15,7 @@
     "geom:longitude":-84.387863,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1280 W Peachtree St NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461884770,
-    "wof:geomhash":"1deb0b3ab6c4d85e63ecd89cfad10227",
+    "wof:geomhash":"193fb562bb4208f2cf8706c54bd89292",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,13 +74,15 @@
         }
     ],
     "wof:id":722588807,
-    "wof:lastmodified":1486670134,
+    "wof:lastmodified":1534181625,
     "wof:name":"Church Loan Specialist",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723282033
+    ],
     "wof:tags":[
         "loan"
     ]

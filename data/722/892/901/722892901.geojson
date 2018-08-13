@@ -7,6 +7,7 @@
     "addr:postcode":"30312",
     "addr:street":"Windsor St Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.39836,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"477 Windsor St SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -53,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461890640,
-    "wof:geomhash":"f6db77b4e8ce54df000e10838b94dd70",
+    "wof:geomhash":"b53fa87ef714bb253c49c55a83a5a63f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,12 +69,14 @@
         }
     ],
     "wof:id":722892901,
-    "wof:lastmodified":1486670612,
+    "wof:lastmodified":1534181687,
     "wof:name":"Home Care Assoc Inc",
     "wof:parent_id":85833641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739950367
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "plan",

@@ -7,6 +7,7 @@
     "addr:postcode":"30340",
     "addr:street":"Clearview Avenue",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.274084,33.901399,-84.274084,33.901399",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.274084,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2000 Clearview Avenue",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923746,
-    "wof:geomhash":"5f5736c0680e77d0db6bf3c8b577b1eb",
+    "wof:geomhash":"d0819d68e179a1e4e57b2db03bf00eb8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,13 +70,17 @@
         }
     ],
     "wof:id":739994999,
-    "wof:lastmodified":1472619706,
+    "wof:lastmodified":1534181701,
     "wof:name":"S & J Beauty Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739997285
+    ],
+    "wof:supersedes":[
+        739703981
+    ],
     "wof:tags":[
         "cosmetology"
     ]

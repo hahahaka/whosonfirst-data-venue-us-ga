@@ -14,6 +14,7 @@
     "geom:longitude":-84.272021,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2801 Candler Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461885423,
-    "wof:geomhash":"c9f0a2bd2b8423dceb9aa4a8d1ac2dc5",
+    "wof:geomhash":"ac64fa9f2728a441ed7f685922c45c09",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":722621755,
-    "wof:lastmodified":1472618077,
+    "wof:lastmodified":1534181631,
     "wof:name":"Eve's Shoe",
     "wof:parent_id":85816491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723310477
+    ],
     "wof:tags":[
         "shoe",
         "store",

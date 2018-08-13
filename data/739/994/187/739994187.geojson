@@ -14,6 +14,7 @@
     "geom:longitude":-84.463722,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Galleria Pkwy SE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923711,
-    "wof:geomhash":"eb4c81d23812dab6c4d0ca6a65e3f012",
+    "wof:geomhash":"0f8dcdecdd1597be85f1423b9b1e064e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":739994187,
-    "wof:lastmodified":1472619694,
+    "wof:lastmodified":1534181701,
     "wof:name":"Galleria Newsstand",
     "wof:parent_id":85813197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739517375
+    ],
     "wof:tags":[
         "print",
         "medium"

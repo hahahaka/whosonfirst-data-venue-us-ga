@@ -14,6 +14,7 @@
     "geom:longitude":-84.465299,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 Galleria Pkwy",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461905728,
-    "wof:geomhash":"a3fd21cdcbe4d446156c30815e9f6231",
+    "wof:geomhash":"719dadb2be2a210a01a226b118132d7a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,16 @@
         }
     ],
     "wof:id":739355577,
-    "wof:lastmodified":1472618227,
+    "wof:lastmodified":1534181639,
     "wof:name":"Thomas Kayden Horstemeyer",
     "wof:parent_id":85813197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739993141,
+        739990959
+    ],
     "wof:tags":[
         "attorney"
     ]

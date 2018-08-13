@@ -7,6 +7,7 @@
     "addr:postcode":"30346",
     "addr:street":"Perimeter Center Ter",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.337024,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"400 Perimeter Center Ter",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461888554,
-    "wof:geomhash":"83a7ae15d042469f46fb89f5ccb3f48b",
+    "wof:geomhash":"fe4ca92e9b966beb42dbc087df816efc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -79,12 +81,15 @@
         }
     ],
     "wof:id":722782501,
-    "wof:lastmodified":1491914229,
+    "wof:lastmodified":1534181620,
     "wof:name":"Stevens & Assoc",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740010475,
+        740010883
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

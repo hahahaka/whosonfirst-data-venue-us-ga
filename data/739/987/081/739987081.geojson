@@ -7,6 +7,7 @@
     "addr:postcode":"30338",
     "addr:street":"Chamblee Dunwoody Road",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.314751,33.923821,-84.314751,33.923821",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.314751,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4536 Chamblee Dunwoody Road",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923436,
-    "wof:geomhash":"63c8c8fe3da8992a8e0c41053428ab76",
+    "wof:geomhash":"413df989a6e0ab20b696e672072dc4ba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,18 @@
         }
     ],
     "wof:id":739987081,
-    "wof:lastmodified":1472619675,
+    "wof:lastmodified":1534181697,
     "wof:name":"Kelleher Robert M MD",
     "wof:parent_id":85889955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739987339
+    ],
+    "wof:supersedes":[
+        723366443,
+        739655603
+    ],
     "wof:tags":[
         "dermatologist"
     ]

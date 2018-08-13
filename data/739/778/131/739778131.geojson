@@ -14,6 +14,7 @@
     "geom:longitude":-84.281197,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2475 Northwinds Pkwy",
     "sg:city":"Alpharetta",
     "sg:classifiers":[
@@ -42,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914864,
-    "wof:geomhash":"9d818ec36aa330931ef118cb445b6540",
+    "wof:geomhash":"33c4b51124b1331565236e26220074bb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +56,16 @@
         }
     ],
     "wof:id":739778131,
-    "wof:lastmodified":1472619280,
+    "wof:lastmodified":1534181660,
     "wof:name":"Rutkowski John P",
     "wof:parent_id":85827335,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739684543,
+        722676831
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,6 +7,7 @@
     "addr:postcode":"30305",
     "addr:street":"E Paces Ferry Rd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.366329,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"950 E Paces Ferry Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461898525,
-    "wof:geomhash":"a538326e39ece80c54b1396447659366",
+    "wof:geomhash":"98014457a2618e7659df822784cbbc29",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,12 +75,15 @@
         }
     ],
     "wof:id":723271119,
-    "wof:lastmodified":1486672241,
+    "wof:lastmodified":1534181700,
     "wof:name":"B B & T Mortgage",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739968555,
+        739970459
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "loan",

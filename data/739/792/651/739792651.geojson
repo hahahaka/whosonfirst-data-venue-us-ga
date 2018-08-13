@@ -7,6 +7,7 @@
     "addr:postcode":"30030",
     "addr:street":"W Ponce De Leon Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.299501,33.775569,-84.299501,33.775569",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.299501,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"254 W Ponce de Leon Ave",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915474,
-    "wof:geomhash":"a40daba8861b6e19f66efc7fc6f2d319",
+    "wof:geomhash":"776f45e7b02cad5b60695db7e072b630",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":739792651,
-    "wof:lastmodified":1472619367,
+    "wof:lastmodified":1534181660,
     "wof:name":"Cakes & Ale",
     "wof:parent_id":85890035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739792927
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "new",

@@ -7,6 +7,7 @@
     "addr:postcode":"30303",
     "addr:street":"Peachtree St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.387545,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"240 Peachtree St",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920790,
-    "wof:geomhash":"314366039837edcbc12d0340d55a96cb",
+    "wof:geomhash":"9227daa524c73abcf91858856ef668dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +66,15 @@
         }
     ],
     "wof:id":739925093,
-    "wof:lastmodified":1486673014,
+    "wof:lastmodified":1534181681,
     "wof:name":"Ray's In The City",
     "wof:parent_id":1108797061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722624055,
+        739916647
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"

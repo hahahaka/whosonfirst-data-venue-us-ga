@@ -2,18 +2,23 @@
   "id": 739436687,
   "type": "Feature",
   "properties": {
-    "addr:full":"205 Horseshoe Dam Rd Whitesburg GA 30185",
+    "addr:city":"Whitesburg",
+    "addr:full":"205 Horseshoe Dam Rd Whitesburg, Ga 30185-2560",
+    "addr:house_number":"205",
     "addr:housenumber":"205",
-    "addr:postcode":"30185",
+    "addr:postcode":"30185-2560",
+    "addr:road":"Horseshoe Dam Rd",
+    "addr:state":"GA",
     "addr:street":"Horseshoe Dam Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-84.921727,33.525664,-84.921727,33.525664",
-    "geom:latitude":33.525664,
-    "geom:longitude":-84.921727,
+    "geom:bbox":"-84.9235,33.52471,-84.9235,33.52471",
+    "geom:latitude":33.52471,
+    "geom:longitude":-84.9235,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"205 Horseshoe Dam Rd",
     "sg:city":"Whitesburg",
     "sg:classifiers":[
@@ -30,19 +35,21 @@
     "sg:tags":[
         "operation"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300275,
         "sg:id":"SG_2qaC1AX8YtywxKCdnysyUQ_33.525664_-84.921727@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461907290,
-    "wof:geomhash":"2f96e9654a96287fccb03e2e494d72fd",
+    "wof:geomhash":"d6f10a19048115a74fd61e1d7f12ca33",
     "wof:hierarchy":[],
     "wof:id":739436687,
-    "wof:lastmodified":1472618443,
-    "wof:name":"Historic Banning Mills LLC",
+    "wof:lastmodified":1534181701,
+    "wof:name":"Historic Banning Mills",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
@@ -53,10 +60,10 @@
     ]
 },
   "bbox": [
-    -84.921727,
-    33.525664,
-    -84.921727,
-    33.525664
+    -84.9235,
+    33.52471,
+    -84.9235,
+    33.52471
 ],
-  "geometry": {"coordinates":[-84.921727,33.525664],"type":"Point"}
+  "geometry": {"coordinates":[-84.9235,33.52471],"type":"Point"}
 }

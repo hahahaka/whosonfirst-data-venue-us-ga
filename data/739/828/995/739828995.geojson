@@ -7,6 +7,7 @@
     "addr:postcode":"30068",
     "addr:street":"Lower Roswell Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.49221,33.949379,-84.49221,33.949379",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.49221,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2060 Lower Roswell Rd",
     "sg:city":"Marietta",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"US",
     "wof:created":1461917040,
-    "wof:geomhash":"5a9857d80e708ad0e624764ab2a33206",
+    "wof:geomhash":"747adca222e92306ed45302c6351de21",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,12 +49,14 @@
         }
     ],
     "wof:id":739828995,
-    "wof:lastmodified":1472619420,
+    "wof:lastmodified":1534181665,
     "wof:name":"All Star Pizza Inc",
     "wof:parent_id":85857049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739830047
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

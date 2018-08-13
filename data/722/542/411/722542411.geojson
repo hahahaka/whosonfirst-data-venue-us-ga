@@ -7,6 +7,7 @@
     "addr:postcode":"30328",
     "addr:street":"Lake Forrest Dr Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.387156,33.918773,-84.387156,33.918773",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.387156,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6000 Lake Forrest Dr NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461883856,
-    "wof:geomhash":"ea1dfd72525f4cff1b7248d709c991ba",
+    "wof:geomhash":"49237a241bf50a528a74be85832e5954",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,12 +71,14 @@
         }
     ],
     "wof:id":722542411,
-    "wof:lastmodified":1472617821,
+    "wof:lastmodified":1534181693,
     "wof:name":"Robbins & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739978797
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

@@ -7,6 +7,7 @@
     "addr:postcode":"30305",
     "addr:street":"E Paces Ferry Rd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.366192,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"945 E Paces Ferry Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461903672,
-    "wof:geomhash":"3073aef2127127b6ed7204833e0b6cc6",
+    "wof:geomhash":"a09d3d11cc452f495d1e14e20e77ea33",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":739258643,
-    "wof:lastmodified":1486672273,
+    "wof:lastmodified":1534181643,
     "wof:name":"Milliman USA",
     "wof:parent_id":1108798171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722806139
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "actuary"

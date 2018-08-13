@@ -7,6 +7,7 @@
     "addr:postcode":"30324",
     "addr:street":"Buford Hwy Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.346207,33.828484,-84.346207,33.828484",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.346207,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2719 Buford Hwy NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -39,16 +41,20 @@
     },
     "wof:country":"US",
     "wof:created":1461922626,
-    "wof:geomhash":"8398b356c06dc37773137b632271c734",
+    "wof:geomhash":"bb58095647ba381b7af63b9aa9757924",
     "wof:hierarchy":[],
     "wof:id":739966511,
-    "wof:lastmodified":1472619654,
+    "wof:lastmodified":1534181692,
     "wof:name":"Butler James E PC Atty Jr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739967323
+    ],
+    "wof:supersedes":[
+        739965783
+    ],
     "wof:tags":[
         "personal",
         "injury"

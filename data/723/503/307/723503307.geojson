@@ -7,6 +7,7 @@
     "addr:postcode":"31405",
     "addr:street":"Reynolds St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.101226,32.028748,-81.101226,32.028748",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.101226,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5354 Reynolds St",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461903028,
-    "wof:geomhash":"2fbcebb6ba407653f9e8157ca4726ccf",
+    "wof:geomhash":"346efc1c6755500afb781ebbfe3534f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":723503307,
-    "wof:lastmodified":1472619291,
+    "wof:lastmodified":1534181629,
     "wof:name":"Rheumatology Savannah Assoc PC",
     "wof:parent_id":85880913,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722613707
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

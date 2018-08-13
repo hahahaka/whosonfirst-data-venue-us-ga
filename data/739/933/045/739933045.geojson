@@ -7,6 +7,7 @@
     "addr:postcode":"30307",
     "addr:street":"Moreland Ave Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.349102,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"448 Moreland Ave NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921150,
-    "wof:geomhash":"a2c3402459994e6873a6b509957b4df4",
+    "wof:geomhash":"26219fe02c69806cb8043fe931102d85",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":739933045,
-    "wof:lastmodified":1486669131,
+    "wof:lastmodified":1534181682,
     "wof:name":"J & M Liquor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739933241
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "store"

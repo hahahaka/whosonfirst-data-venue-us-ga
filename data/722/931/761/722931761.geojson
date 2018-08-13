@@ -7,6 +7,7 @@
     "addr:postcode":"30318",
     "addr:street":"Collier Rd Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.418022,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"857 Collier Rd NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461891442,
-    "wof:geomhash":"d1bca6b803e7ca3053eb04ee2c10e703",
+    "wof:geomhash":"63ec6b487a00dbc2362a2d5e2a9d2a2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":722931761,
-    "wof:lastmodified":1491890016,
+    "wof:lastmodified":1534181685,
     "wof:name":"T & K Nails Spa LLC",
     "wof:parent_id":85872149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739958781
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"

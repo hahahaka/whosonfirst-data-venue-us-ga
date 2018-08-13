@@ -7,6 +7,7 @@
     "addr:postcode":"31904",
     "addr:street":"Armour Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.953781,32.513088,-84.953781,32.513088",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.953781,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5010 Armour Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461927112,
-    "wof:geomhash":"4de99f6a369de7257f995e0ce828f5aa",
+    "wof:geomhash":"16e48a358968f3c906f64a9b19e0b158",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +52,14 @@
         }
     ],
     "wof:id":740073567,
-    "wof:lastmodified":1472618230,
+    "wof:lastmodified":1534181646,
     "wof:name":"Buckhead Bar and Grill",
     "wof:parent_id":85828445,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723326037
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

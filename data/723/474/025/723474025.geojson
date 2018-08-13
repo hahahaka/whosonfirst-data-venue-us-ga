@@ -7,6 +7,7 @@
     "addr:postcode":"30274",
     "addr:street":"Taylor Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.391039,33.52583,-84.391039,33.52583",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.391039,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8050 Taylor Rd",
     "sg:city":"Riverdale",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461902393,
-    "wof:geomhash":"2de263855de43c48453d3ac44aa07a80",
+    "wof:geomhash":"5444c136fe28537609e900588bf12f35",
     "wof:hierarchy":[],
     "wof:id":723474025,
-    "wof:lastmodified":1472619249,
+    "wof:lastmodified":1534181675,
     "wof:name":"Brooks Crossing Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739903027
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "building",

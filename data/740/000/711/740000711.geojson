@@ -7,6 +7,7 @@
     "addr:postcode":"30341",
     "addr:street":"Shallowford Rd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.284807,33.89567,-84.284807,33.89567",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.284807,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3248 Shallowford Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923955,
-    "wof:geomhash":"01a406a6406d0702f05460be2f133e75",
+    "wof:geomhash":"92bb7e21529a84400ab0d3f69e5bc53a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,12 +71,14 @@
         }
     ],
     "wof:id":740000711,
-    "wof:lastmodified":1472617875,
+    "wof:lastmodified":1534181699,
     "wof:name":"Pars Auto Trading",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739997407
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"

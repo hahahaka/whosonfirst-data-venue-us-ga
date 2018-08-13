@@ -7,6 +7,7 @@
     "addr:postcode":"30324",
     "addr:street":"Miami Cir Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.366352,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"747 Miami Cir NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -70,7 +72,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922678,
-    "wof:geomhash":"0f18af4ad34ac44f9add7538c43007ad",
+    "wof:geomhash":"21cfd4bacfdc6c5fc3a971172a8d3adb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -84,12 +86,14 @@
         }
     ],
     "wof:id":739968029,
-    "wof:lastmodified":1486668532,
+    "wof:lastmodified":1534181688,
     "wof:name":"J Tribble Antiques",
     "wof:parent_id":85872095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739967939
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dealers-wholesale",

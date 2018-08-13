@@ -7,6 +7,7 @@
     "addr:postcode":"30084",
     "addr:street":"Tucker Norcross Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.2201,33.8839,-84.2201,33.8839",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.2201,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3180 Tucker Norcross Rd",
     "sg:city":"Tucker",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461913730,
-    "wof:geomhash":"5f229a202980ec677dc006f436dd3f36",
+    "wof:geomhash":"c98beefeddc5b2d669c358e859d5b02b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":739750575,
-    "wof:lastmodified":1472619234,
+    "wof:lastmodified":1534181668,
     "wof:name":"Waffle House Inc",
     "wof:parent_id":85889941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739847617
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "family"

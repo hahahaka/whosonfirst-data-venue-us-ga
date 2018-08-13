@@ -2,18 +2,24 @@
   "id": 723304697,
   "type": "Feature",
   "properties": {
-    "addr:full":"856 Mulberry St Macon GA 31201",
+    "addr:city":"Macon",
+    "addr:full":"856 Mulberry Street Macon, Ga 31201",
+    "addr:house_number":"856",
     "addr:housenumber":"856",
+    "addr:phone":"+1 478-745-5982",
     "addr:postcode":"31201",
+    "addr:road":"Mulberry Street",
+    "addr:state":"GA",
     "addr:street":"Mulberry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-83.6325,32.840417,-83.6325,32.840417",
-    "geom:latitude":32.840417,
-    "geom:longitude":-83.6325,
+    "geom:bbox":"-83.63246,32.8404,-83.63246,32.8404",
+    "geom:latitude":32.8404,
+    "geom:longitude":-83.63246,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"856 Mulberry St",
     "sg:city":"Macon",
     "sg:classifiers":[
@@ -31,7 +37,11 @@
         "house",
         "historic"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531043,
+        102530597
+    ],
     "wof:belongsto":[
         85688535,
         102191575,
@@ -42,11 +52,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300484,
         "sg:id":"SG_31RlUuooBd5xAjOKjeZNcF_32.840417_-83.632500@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461899158,
-    "wof:geomhash":"ff492cc0ebf8a64b62c04152fb8125ee",
+    "wof:geomhash":"f93554281baec51284a5f590519dc244",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,8 +70,8 @@
         }
     ],
     "wof:id":723304697,
-    "wof:lastmodified":1472618821,
-    "wof:name":"CANNONBALL House",
+    "wof:lastmodified":1534181701,
+    "wof:name":"Cannonball House",
     "wof:parent_id":85837705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
@@ -72,10 +83,10 @@
     ]
 },
   "bbox": [
-    -83.6325,
-    32.840417,
-    -83.6325,
-    32.840417
+    -83.63246,
+    32.8404,
+    -83.63246,
+    32.8404
 ],
-  "geometry": {"coordinates":[-83.63249999999999,32.840417],"type":"Point"}
+  "geometry": {"coordinates":[-83.63245999999999,32.8404],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"30102",
     "addr:street":"Highway 92",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.582753,34.08883,-84.582753,34.08883",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.582753,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6410 Highway 92",
     "sg:city":"Acworth",
     "sg:classifiers":[
@@ -31,22 +33,26 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420517625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11jvr2UcVSHM7XoiTtlAFz_34.088830_-84.582753@1303262592"
     },
     "wof:country":"US",
     "wof:created":1461918445,
-    "wof:geomhash":"9911b9bb42d592f83b9b7d4634d83ced",
+    "wof:geomhash":"412e7a203ba3914cbef513b1a434286c",
     "wof:hierarchy":[],
     "wof:id":739863601,
-    "wof:lastmodified":1472619495,
+    "wof:lastmodified":1534181671,
     "wof:name":"Webb, Pam J DVM",
     "wof:parent_id":420517625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739863487
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"

@@ -15,6 +15,7 @@
     "geom:longitude":-84.387581,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"230 Peachtree St NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920265,
-    "wof:geomhash":"6570b9b2f7b6c500d12b30c71642b3b4",
+    "wof:geomhash":"f09b7b9bbfc77979b7e8033f304b0e3e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +64,16 @@
         }
     ],
     "wof:id":739911597,
-    "wof:lastmodified":1486673004,
+    "wof:lastmodified":1534181678,
     "wof:name":"Smith, Rush S Jr atty",
     "wof:parent_id":1108797061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739911585,
+        739923293
+    ],
     "wof:tags":[
         "attorney"
     ]

@@ -15,6 +15,7 @@
     "geom:longitude":-84.3877,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1601 W Peachtree St NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921399,
-    "wof:geomhash":"f47edbb1aa9e95d91442e7b393a10b3e",
+    "wof:geomhash":"8592c59218d88ac6f2d2f91229afe536",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,16 @@
         }
     ],
     "wof:id":739939265,
-    "wof:lastmodified":1486671350,
+    "wof:lastmodified":1534181685,
     "wof:name":"95.5 Wbts",
     "wof:parent_id":85872127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722762009,
+        739945237
+    ],
     "wof:tags":[
         "broadcast"
     ]

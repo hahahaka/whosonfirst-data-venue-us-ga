@@ -14,6 +14,7 @@
     "geom:longitude":-84.372398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"203 Azalea Dr",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461917252,
-    "wof:geomhash":"3c8ac149c952643a0d8181a7c50503ff",
+    "wof:geomhash":"f3dd7a8f6dab6fc8dbc0517a6dd90532",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":739834003,
-    "wof:lastmodified":1472619423,
+    "wof:lastmodified":1534181664,
     "wof:name":"Chattahoochee Outfitters Llc",
     "wof:parent_id":85889973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739552623
+    ],
     "wof:tags":[
         "rafting/kayaking"
     ]

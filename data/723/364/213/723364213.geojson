@@ -7,6 +7,7 @@
     "addr:postcode":"30076",
     "addr:street":"Hembree Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.324947,34.061013,-84.324947,34.061013",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.324947,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1775 Hembree Rd",
     "sg:city":"Alpharetta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461900268,
-    "wof:geomhash":"693c45c5d63b670726ea3c327b0e0777",
+    "wof:geomhash":"f21f5dcba23cb345f22434f58d746712",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":723364213,
-    "wof:lastmodified":1472618997,
+    "wof:lastmodified":1534181659,
     "wof:name":"Performance Auto Collision",
     "wof:parent_id":85812681,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739777159
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "body"

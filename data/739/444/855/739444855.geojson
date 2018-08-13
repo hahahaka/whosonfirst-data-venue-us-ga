@@ -7,6 +7,7 @@
     "addr:postcode":"30673",
     "addr:street":"Danburg Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.711998,33.758897,-82.711998,33.758897",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.711998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1878 Danburg Rd",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1461907452,
-    "wof:geomhash":"06a96d27827f55afb8275a21e6260a36",
+    "wof:geomhash":"d835fc535423cdfd2a84fc498d62258c",
     "wof:hierarchy":[],
     "wof:id":739444855,
-    "wof:lastmodified":1472618478,
+    "wof:lastmodified":1534181630,
     "wof:name":"Cherry Grove Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740037073
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

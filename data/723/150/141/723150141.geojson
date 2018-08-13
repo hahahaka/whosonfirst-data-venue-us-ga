@@ -7,6 +7,7 @@
     "addr:postcode":"30305",
     "addr:street":"Buckhead Ave Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.376538,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"305 Buckhead Ave NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461896099,
-    "wof:geomhash":"649f32eaee9433b93b793c41a58ba7bb",
+    "wof:geomhash":"b3758fcdcac4cf71efb7dacca4ca8f5d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":723150141,
-    "wof:lastmodified":1486671836,
+    "wof:lastmodified":1534181679,
     "wof:name":"Morain Grant Attorney At Law",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739927339
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

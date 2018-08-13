@@ -7,6 +7,7 @@
     "addr:postcode":"31405",
     "addr:street":"Ogeechee Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.147684,32.052328,-81.147684,32.052328",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.147684,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3709 Ogeechee Rd",
     "sg:city":"Savannah",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461926475,
-    "wof:geomhash":"9e3cf66bbe39473e202cafc51d0a2915",
+    "wof:geomhash":"f758aa88ad741e02f1f4d1b0b91e68cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +51,14 @@
         }
     ],
     "wof:id":740058683,
-    "wof:lastmodified":1472618170,
+    "wof:lastmodified":1534181641,
     "wof:name":"Prewitt ARS",
     "wof:parent_id":420517397,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723204191
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

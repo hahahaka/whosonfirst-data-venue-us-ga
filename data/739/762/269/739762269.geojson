@@ -14,6 +14,7 @@
     "geom:longitude":-84.293728,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11770 Haynes Bridge Rd",
     "sg:city":"Alpharetta",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914230,
-    "wof:geomhash":"5d1f575f8e73fcebe71b923dc2f99ded",
+    "wof:geomhash":"09cabcf5f0f3c16f5951d11616c37bb3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":739762269,
-    "wof:lastmodified":1472619287,
+    "wof:lastmodified":1534181656,
     "wof:name":"Bagel Boys",
     "wof:parent_id":85853841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739490081
+    ],
     "wof:tags":[
         "american"
     ]

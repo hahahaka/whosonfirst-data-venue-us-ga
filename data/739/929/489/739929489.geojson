@@ -7,6 +7,7 @@
     "addr:postcode":"30305",
     "addr:street":"E Andrews Dr Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.382715,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"110 E Andrews Dr NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921004,
-    "wof:geomhash":"d64427a8cfe42089ac67e19a5fffd8f4",
+    "wof:geomhash":"eca5ef7fa43181bcde5bcddbcbc61b0d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,12 +71,14 @@
         }
     ],
     "wof:id":739929489,
-    "wof:lastmodified":1486672318,
+    "wof:lastmodified":1534181631,
     "wof:name":"Hall, Amos",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723080487
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

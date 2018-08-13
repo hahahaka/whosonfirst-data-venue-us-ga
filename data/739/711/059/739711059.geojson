@@ -7,6 +7,7 @@
     "addr:postcode":"30326",
     "addr:street":"Peachtree Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.362017,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3384 Peachtree Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461912802,
-    "wof:geomhash":"adaa336fc2fa4f872b35daa7bc00c9bc",
+    "wof:geomhash":"f42ecebb7a8e6eff8247797eb9ff7ab8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":739711059,
-    "wof:lastmodified":1486671542,
+    "wof:lastmodified":1534181690,
     "wof:name":"Mark S Izenson Esq",
     "wof:parent_id":85872103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739970873
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

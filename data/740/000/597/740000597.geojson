@@ -7,6 +7,7 @@
     "addr:postcode":"30341",
     "addr:street":"Buckeye Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.257652,33.884449,-84.257652,33.884449",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.257652,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3300 Buckeye Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -41,15 +43,17 @@
     },
     "wof:country":"US",
     "wof:created":1461923951,
-    "wof:geomhash":"3eda72b405d858be11fa0ad4462a97b3",
+    "wof:geomhash":"c00df284cedc63a9fd1126718c1804b2",
     "wof:hierarchy":[],
     "wof:id":740000597,
-    "wof:lastmodified":1472617863,
+    "wof:lastmodified":1534181699,
     "wof:name":"Benoit Diaz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739997657
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "information",

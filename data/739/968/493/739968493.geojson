@@ -7,6 +7,7 @@
     "addr:postcode":"30326",
     "addr:street":"Lenox Road Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.363697,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3500 Lenox Road NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922694,
-    "wof:geomhash":"8f903fbf1431f185596ec70b1f71f3ee",
+    "wof:geomhash":"36c10b7db9ace4b6de1d9b509eaeac49",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":739968493,
-    "wof:lastmodified":1486668570,
+    "wof:lastmodified":1534181696,
     "wof:name":"Moss Darryl Ryan Atty",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739970435
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

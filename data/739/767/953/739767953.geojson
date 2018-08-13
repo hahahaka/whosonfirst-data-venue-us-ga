@@ -7,6 +7,7 @@
     "addr:postcode":"30305",
     "addr:street":"Piedmont Rd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.372985,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3365 Piedmont Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914458,
-    "wof:geomhash":"24b24a6681c3c9f82fdd5999621583ff",
+    "wof:geomhash":"01de046e5a0cf30971489b6f53a3b6ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +65,17 @@
         }
     ],
     "wof:id":739767953,
-    "wof:lastmodified":1486668776,
+    "wof:lastmodified":1534181679,
     "wof:name":"Ru San's",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739928969
+    ],
+    "wof:supersedes":[
+        722563543
+    ],
     "wof:tags":[
         "japanese",
         "asian"

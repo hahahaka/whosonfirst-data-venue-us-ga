@@ -15,6 +15,7 @@
     "geom:longitude":-84.3573,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"918 Ponce De Leon Ave NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921100,
-    "wof:geomhash":"c619f73b2b221a928ef4724a30227784",
+    "wof:geomhash":"d3a6b535ce6e388379bfe677d37fc4f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,16 @@
         }
     ],
     "wof:id":739931683,
-    "wof:lastmodified":1491935334,
+    "wof:lastmodified":1534181682,
     "wof:name":"Davis Zipperman Kirschenbaum & Lotito",
     "wof:parent_id":85872121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723416101,
+        739931519
+    ],
     "wof:tags":[]
 },
   "bbox": [

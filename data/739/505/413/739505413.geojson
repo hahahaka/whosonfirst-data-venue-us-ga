@@ -7,6 +7,7 @@
     "addr:postcode":"30096",
     "addr:street":"Pleasant Hill Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.12422,33.943888,-84.12422,33.943888",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.12422,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1630 Pleasant Hill Rd",
     "sg:city":"Duluth",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461908526,
-    "wof:geomhash":"e44ecd29af13e88f3d7ee4faf9116711",
+    "wof:geomhash":"4b4792c42c390371a16997e90e956914",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":739505413,
-    "wof:lastmodified":1472618617,
+    "wof:lastmodified":1534181669,
     "wof:name":"Uncle Vitos NY Pizza Inc",
     "wof:parent_id":85810283,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739855919
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

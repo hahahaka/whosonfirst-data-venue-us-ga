@@ -14,6 +14,7 @@
     "geom:longitude":-84.931392,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2150 E Walnut Ave",
     "sg:city":"Dalton",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461895239,
-    "wof:geomhash":"8ef24173588f1b920a1c5ca8c7c340fd",
+    "wof:geomhash":"84464178f42ef785fe07e7bac19ef2ca",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":723106223,
-    "wof:lastmodified":1472618263,
+    "wof:lastmodified":1534181637,
     "wof:name":"Candyland",
     "wof:parent_id":85809263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723273023
+    ],
     "wof:tags":[
         "balloon",
         "artist"

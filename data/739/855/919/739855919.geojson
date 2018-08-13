@@ -14,6 +14,7 @@
     "geom:longitude":-84.125177,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1630 Pleasant Hill Rd",
     "sg:city":"Duluth",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461918138,
-    "wof:geomhash":"77ed6f5c5ca5e818ba15c31cecc189a1",
+    "wof:geomhash":"af00c1a45db811ab53a6c5fa66d08544",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":739855919,
-    "wof:lastmodified":1472619463,
+    "wof:lastmodified":1534181669,
     "wof:name":"Uncle Vito's NY Pizza",
     "wof:parent_id":85810283,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739505413
+    ],
     "wof:tags":[
         "pizza",
         "italian"

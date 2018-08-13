@@ -15,6 +15,7 @@
     "geom:longitude":-84.38758,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"250 Spring St NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -50,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920733,
-    "wof:geomhash":"9655b35854ac394b364e0d3b2adce008",
+    "wof:geomhash":"90fed365aff7fef367bd0d036e6b87b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,13 +66,15 @@
         }
     ],
     "wof:id":739923547,
-    "wof:lastmodified":1486682488,
+    "wof:lastmodified":1534181679,
     "wof:name":"Bullington",
     "wof:parent_id":1108797059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739730083
+    ],
     "wof:tags":[
         "men's",
         "clothing"

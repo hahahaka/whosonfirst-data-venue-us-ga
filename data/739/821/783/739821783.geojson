@@ -14,6 +14,7 @@
     "geom:longitude":-84.535004,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"630 Cobb Pkwy N Ste E",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916765,
-    "wof:geomhash":"aeec92426153b347492d9e2fcb8319c9",
+    "wof:geomhash":"6b750a7c3ae445c0ebe648c9f8c3abfc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":739821783,
-    "wof:lastmodified":1472619416,
+    "wof:lastmodified":1534181665,
     "wof:name":"Animal Eye Specialists P C",
     "wof:parent_id":85817769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723152353
+    ],
     "wof:tags":[
         "veterinarian"
     ]

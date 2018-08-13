@@ -7,6 +7,7 @@
     "addr:postcode":"30062",
     "addr:street":"Roswell Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.46154,33.979222,-84.46154,33.979222",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.46154,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3020 Roswell Rd",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -43,15 +45,17 @@
     },
     "wof:country":"US",
     "wof:created":1461900321,
-    "wof:geomhash":"e1f23ffb3d6c0fd49c515dd4205e33db",
+    "wof:geomhash":"4e91b6dc3a5557c214da3bca11320328",
     "wof:hierarchy":[],
     "wof:id":723367005,
-    "wof:lastmodified":1472618998,
+    "wof:lastmodified":1534181663,
     "wof:name":"Healthone Realty Advisors LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739819879
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "property"

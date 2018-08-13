@@ -7,6 +7,7 @@
     "addr:postcode":"31079",
     "addr:street":"Gordon St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.454554,31.952895,-83.454554,31.952895",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.454554,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"239 Gordon St",
     "sg:city":"Rochelle",
     "sg:classifiers":[
@@ -40,15 +42,17 @@
     },
     "wof:country":"US",
     "wof:created":1461886206,
-    "wof:geomhash":"2cd81a496d31003fdceec6daa628516a",
+    "wof:geomhash":"241ba5fbb7a9950910c09583412ee73e",
     "wof:hierarchy":[],
     "wof:id":722660115,
-    "wof:lastmodified":1472618239,
+    "wof:lastmodified":1534181638,
     "wof:name":"Wilcox Adult Learning Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740051935
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

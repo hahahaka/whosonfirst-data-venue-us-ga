@@ -7,6 +7,7 @@
     "addr:postcode":"30341",
     "addr:street":"Savoy Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.297977,33.919704,-84.297977,33.919704",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.297977,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2201 Savoy Dr",
     "sg:city":"Atlanta",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923835,
-    "wof:geomhash":"01c52f49e7eb122eb0e93212a779da26",
+    "wof:geomhash":"a345b27d3a9d04f7a4f7ed0fd4572a99",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +52,14 @@
         }
     ],
     "wof:id":739997617,
-    "wof:lastmodified":1472619713,
+    "wof:lastmodified":1534181700,
     "wof:name":"Wild Ginger Thai Restaurant",
     "wof:parent_id":85890023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739999979
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

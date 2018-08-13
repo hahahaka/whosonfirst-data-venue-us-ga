@@ -7,6 +7,7 @@
     "addr:postcode":"30040",
     "addr:street":"Lakeland Plz",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.143828,34.186761,-84.143828,34.186761",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.143828,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"506 Lakeland Plz",
     "sg:city":"Cumming",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914267,
-    "wof:geomhash":"607eb819df079a6c8deae48a1de8abc2",
+    "wof:geomhash":"5f3f36d870dc2b1511cd9ab346f34fb7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":739763265,
-    "wof:lastmodified":1472619279,
+    "wof:lastmodified":1534181662,
     "wof:name":"Austin Steaks And Seafood",
     "wof:parent_id":85842073,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739802941
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

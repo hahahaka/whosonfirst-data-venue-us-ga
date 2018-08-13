@@ -14,6 +14,7 @@
     "geom:longitude":-81.101213,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5356 Reynolds St",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461905310,
-    "wof:geomhash":"8c23194e5a0ce9aa0ca7ddb2ef7257b6",
+    "wof:geomhash":"6d525a855977706d62f46699b4f18e75",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":739336459,
-    "wof:lastmodified":1472618183,
+    "wof:lastmodified":1534181633,
     "wof:name":"Savannah Neurology PC",
     "wof:parent_id":85880913,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740058789
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

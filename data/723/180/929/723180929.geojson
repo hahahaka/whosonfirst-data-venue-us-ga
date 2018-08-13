@@ -7,6 +7,7 @@
     "addr:postcode":"30189",
     "addr:street":"Rose Creek Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.573082,34.124297,-84.573082,34.124297",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.573082,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1025 Rose Creek Dr",
     "sg:city":"Woodstock",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1461896701,
-    "wof:geomhash":"d108a6f84965ccafa689c7830c9111dd",
+    "wof:geomhash":"1f614fd6fd9b9060b56e5df047518345",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,14 @@
         }
     ],
     "wof:id":723180929,
-    "wof:lastmodified":1472618477,
+    "wof:lastmodified":1534181645,
     "wof:name":"MSA",
     "wof:parent_id":85851997,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722836587
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

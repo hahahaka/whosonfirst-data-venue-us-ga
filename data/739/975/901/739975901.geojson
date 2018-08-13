@@ -14,6 +14,7 @@
     "geom:longitude":-84.354417,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7000 Peachtree Dunwoody Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -54,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922973,
-    "wof:geomhash":"3edf978fbdca9dc4c3fbf9f4b0bd9751",
+    "wof:geomhash":"d5c51635b0f11f5bcf4fd30a1ebd6321",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,13 +68,15 @@
         }
     ],
     "wof:id":739975901,
-    "wof:lastmodified":1472619669,
+    "wof:lastmodified":1534181688,
     "wof:name":"CorpCare",
     "wof:parent_id":85815581,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739553477
+    ],
     "wof:tags":[
         "employee",
         "assistance",

@@ -7,6 +7,7 @@
     "addr:postcode":"30326",
     "addr:street":"Peachtree Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.36723,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3330 Peachtree Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461902999,
-    "wof:geomhash":"121df8cb1627f8a4f02f878de8d87d03",
+    "wof:geomhash":"4882bffd29b1868ca8d304c910420c80",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":723502015,
-    "wof:lastmodified":1486668694,
+    "wof:lastmodified":1534181687,
     "wof:name":"American Intercontinental Univ",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739968277
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "academic",

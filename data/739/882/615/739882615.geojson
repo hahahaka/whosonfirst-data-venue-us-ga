@@ -14,6 +14,7 @@
     "geom:longitude":-85.138781,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3003 New Calhoun Hwy NE",
     "sg:city":"Rome",
     "sg:classifiers":[
@@ -38,23 +39,27 @@
         "churches-baptist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420517847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7csWx1FV1qbH98BXFXBF4B_34.288158_-85.138781@1303262597"
     },
     "wof:country":"US",
     "wof:created":1461919153,
-    "wof:geomhash":"96bfb496e50c1dd875a49ac0ba08ea64",
+    "wof:geomhash":"c59d8bf27517de54807799f70082a6c2",
     "wof:hierarchy":[],
     "wof:id":739882615,
-    "wof:lastmodified":1472619525,
+    "wof:lastmodified":1534181671,
     "wof:name":"Rome Baptist Temple",
     "wof:parent_id":420517847,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739488417
+    ],
     "wof:tags":[
         "churches-baptist-general",
         "churches-baptist-independent",

@@ -14,6 +14,7 @@
     "geom:longitude":-84.337196,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 Ashford Ctr N",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923443,
-    "wof:geomhash":"d632813f57b9bb9b93da131077206ef7",
+    "wof:geomhash":"8628ac84f10d0d54d9c66adf7090c14f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,13 +70,15 @@
         }
     ],
     "wof:id":739987149,
-    "wof:lastmodified":1472619677,
+    "wof:lastmodified":1534181695,
     "wof:name":"Ashford Dunwoody II Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739751447
+    ],
     "wof:tags":[
         "management",
         "property"

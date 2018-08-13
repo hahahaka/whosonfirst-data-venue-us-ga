@@ -7,6 +7,7 @@
     "addr:postcode":"30092",
     "addr:street":"Holcomb Bridge Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.250914,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"3466 Holcomb Bridge Rd",
     "sg:city":"Norcross",
     "sg:classifiers":[
@@ -44,12 +45,14 @@
     "wof:geomhash":"0820c6be13e5d6085da0bfb492224a46",
     "wof:hierarchy":[],
     "wof:id":722852831,
-    "wof:lastmodified":1511319416,
+    "wof:lastmodified":1534181668,
     "wof:name":"China House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739850515
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

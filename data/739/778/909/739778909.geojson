@@ -14,6 +14,7 @@
     "geom:longitude":-84.26123,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3400 Old Milton Pkwy # C",
     "sg:city":"Alpharetta",
     "sg:classifiers":[
@@ -51,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914901,
-    "wof:geomhash":"54f4e2257e8b079a107b9ea6409f66b1",
+    "wof:geomhash":"bc3cd48ac4145b62f4e271824fefca11",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,13 +65,15 @@
         }
     ],
     "wof:id":739778909,
-    "wof:lastmodified":1472619328,
+    "wof:lastmodified":1534181659,
     "wof:name":"Fishman Alan B MD",
     "wof:parent_id":85843117,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739778467
+    ],
     "wof:tags":[
         "physician",
         "rheumatology",

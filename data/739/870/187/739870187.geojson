@@ -7,6 +7,7 @@
     "addr:postcode":"30121",
     "addr:street":"Cherokee Pl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.78164,34.173798,-84.78164,34.173798",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.78164,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"465 Cherokee Pl",
     "sg:city":"Cartersville",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461918700,
-    "wof:geomhash":"a0c8d0b76ea07ba598492421c527a9b1",
+    "wof:geomhash":"9faf846cd5c29d57d661634f3fc97237",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +51,14 @@
         }
     ],
     "wof:id":739870187,
-    "wof:lastmodified":1472619478,
+    "wof:lastmodified":1534181618,
     "wof:name":"Las Palmas Mexican Restaurant",
     "wof:parent_id":85805353,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723008971
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

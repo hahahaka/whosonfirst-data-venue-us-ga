@@ -7,6 +7,7 @@
     "addr:postcode":"30680",
     "addr:street":"W Candler St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.734846,34.008544,-83.734846,34.008544",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.734846,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"407 W Candler St",
     "sg:city":"Winder",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1461925481,
-    "wof:geomhash":"8ab7c0fe32b3e57c0e6940cdd61aee3a",
+    "wof:geomhash":"e4202d244afee6b2a871b722c7f39981",
     "wof:hierarchy":[],
     "wof:id":740037853,
-    "wof:lastmodified":1472617996,
+    "wof:lastmodified":1534181637,
     "wof:name":"Faulkner Chimney Sweep & Firewood Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723106281
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "chimney"

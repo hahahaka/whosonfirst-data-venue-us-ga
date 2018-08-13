@@ -15,6 +15,7 @@
     "geom:longitude":-84.38897,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"229 Peachtree Street NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920401,
-    "wof:geomhash":"d8b34424e9a5ba75bcae77f8b7e389fb",
+    "wof:geomhash":"a7645c9b03ef732207acf3dbc008d0e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,17 @@
         }
     ],
     "wof:id":739915237,
-    "wof:lastmodified":1486670731,
+    "wof:lastmodified":1534181679,
     "wof:name":"Kimmey J Lansing Atty",
     "wof:parent_id":85866901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739601985,
+        739914049,
+        722687043
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -14,6 +14,7 @@
     "geom:longitude":-84.550857,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"55 Whitcher St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461911849,
-    "wof:geomhash":"f339f1b5af1556ba83c71712483c6005",
+    "wof:geomhash":"e900d277f80dc63fc99ec7356dc6049a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":739665167,
-    "wof:lastmodified":1472619004,
+    "wof:lastmodified":1534181650,
     "wof:name":"Nw Ga Oncology Ctr-Marietta",
     "wof:parent_id":85817769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723183247
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

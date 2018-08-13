@@ -7,6 +7,7 @@
     "addr:postcode":"30721",
     "addr:street":"Riverbend Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.935719,34.734401,-84.935719,34.734401",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.935719,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1499 Riverbend Rd",
     "sg:city":"Dalton",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461891202,
-    "wof:geomhash":"15c4539b4227857ab7f34bf9ef3bffde",
+    "wof:geomhash":"8be18680a6fa1a12b66612c473e68520",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":722920873,
-    "wof:lastmodified":1472618986,
+    "wof:lastmodified":1534181631,
     "wof:name":"Iglesia Bautista Nueva Vida",
     "wof:parent_id":85809263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740039785
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "church"

@@ -14,6 +14,7 @@
     "geom:longitude":-84.549301,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"109 N Park Sq NE",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916559,
-    "wof:geomhash":"64b7c9c9bbdbe052f7c3d2199a540701",
+    "wof:geomhash":"54bd15c04e20f490eb68bd07293d7e90",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":739816399,
-    "wof:lastmodified":1472619402,
+    "wof:lastmodified":1534181663,
     "wof:name":"Sarah Jean's Ice Cream & Sweets",
     "wof:parent_id":85857593,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739395995
+    ],
     "wof:tags":[
         "frozen",
         "yogurt"

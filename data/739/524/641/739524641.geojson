@@ -7,6 +7,7 @@
     "addr:postcode":"30817",
     "addr:street":"Reed Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.407134,33.775417,-82.407134,33.775417",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.407134,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2430 Reed Rd",
     "sg:city":"Lincolnton",
     "sg:classifiers":[
@@ -40,15 +42,17 @@
     },
     "wof:country":"US",
     "wof:created":1461908882,
-    "wof:geomhash":"fb6c586c6b72b7c4953feeb3c208af5b",
+    "wof:geomhash":"08a11295fe3fdfa2bafc14e2286dcec5",
     "wof:hierarchy":[],
     "wof:id":739524641,
-    "wof:lastmodified":1472618638,
+    "wof:lastmodified":1534181633,
     "wof:name":"Johnny's Carpet Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740043129
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners",

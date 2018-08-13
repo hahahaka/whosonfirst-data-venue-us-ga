@@ -14,6 +14,7 @@
     "geom:longitude":-84.303593,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"403 W Ponce de Leon Ave",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461899586,
-    "wof:geomhash":"80352e290acd9b77668752937a855eba",
+    "wof:geomhash":"432581c07bd3e24f5421eadbdda7fb31",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":723327679,
-    "wof:lastmodified":1472618925,
+    "wof:lastmodified":1534181646,
     "wof:name":"Lamoureux & Associates",
     "wof:parent_id":85890035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723271721
+    ],
     "wof:tags":[
         "interior",
         "remodeling",

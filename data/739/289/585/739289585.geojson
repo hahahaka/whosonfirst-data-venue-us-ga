@@ -7,6 +7,7 @@
     "addr:postcode":"30080",
     "addr:street":"Village Green Cir Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.516427,33.88518,-84.516427,33.88518",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.516427,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"300 Village Green Cir SE",
     "sg:city":"Smyrna",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1461904360,
-    "wof:geomhash":"90c98713beddd7fa8f903549d70fbda4",
+    "wof:geomhash":"0e4083d31965b40b419dd0d973798c06",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":739289585,
-    "wof:lastmodified":1472618046,
+    "wof:lastmodified":1534181631,
     "wof:name":"S & S Payroll Services Inc",
     "wof:parent_id":85852043,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722622099
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

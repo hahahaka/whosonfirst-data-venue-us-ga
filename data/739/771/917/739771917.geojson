@@ -7,6 +7,7 @@
     "addr:postcode":"31021",
     "addr:street":"Hillcrest Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-82.929993,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1100 Hillcrest Pkwy",
     "sg:city":"Dublin",
     "sg:classifiers":[
@@ -46,12 +47,14 @@
     "wof:geomhash":"40e1063e5125c7fefffa8a3de014560d",
     "wof:hierarchy":[],
     "wof:id":739771917,
-    "wof:lastmodified":1510874687,
+    "wof:lastmodified":1534181635,
     "wof:name":"Huddle House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740048343
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

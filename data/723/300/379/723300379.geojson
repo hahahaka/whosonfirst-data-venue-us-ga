@@ -7,6 +7,7 @@
     "addr:postcode":"30062",
     "addr:street":"Johnson Ferry Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.428267,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"3011 Johnson Ferry Rd",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -41,12 +42,14 @@
     "wof:geomhash":"bb22205dc7cacb4bdc4c240b0ce389a3",
     "wof:hierarchy":[],
     "wof:id":723300379,
-    "wof:lastmodified":1511999705,
+    "wof:lastmodified":1534181658,
     "wof:name":"Mc Donald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739763899
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

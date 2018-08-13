@@ -14,6 +14,7 @@
     "geom:longitude":-83.974171,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1125 Hurricane Shoals Rd NE",
     "sg:city":"Lawrenceville",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461885921,
-    "wof:geomhash":"e03b7ad01ef747e423be04b88527c919",
+    "wof:geomhash":"c9821f103e4eda3de17f1146af75dc6a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":722644669,
-    "wof:lastmodified":1472618146,
+    "wof:lastmodified":1534181635,
     "wof:name":"Ricoh Electronics Inc",
     "wof:parent_id":85853829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722820997
+    ],
     "wof:tags":[
         "machine",
         "duplicating",

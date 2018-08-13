@@ -14,6 +14,7 @@
     "geom:longitude":-84.539639,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"301 Washington Ave NE",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461884975,
-    "wof:geomhash":"758ba94967c6316ee2c5e0d49e345e57",
+    "wof:geomhash":"b3cfc20b03c34111b8b758c867f5c2e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,16 @@
         }
     ],
     "wof:id":722600081,
-    "wof:lastmodified":1472618040,
+    "wof:lastmodified":1534181625,
     "wof:name":"M Fred Schuster",
     "wof:parent_id":85857593,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739730617,
+        739815925
+    ],
     "wof:tags":[
         "attorney"
     ]

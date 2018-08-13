@@ -7,6 +7,7 @@
     "addr:postcode":"ga 30161",
     "addr:street":"Riverbend Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.163694,34.252099,-85.163694,34.252099",
@@ -14,6 +15,7 @@
     "geom:longitude":-85.163694,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"16 Riverbend Dr",
     "sg:city":"Rome",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461891214,
-    "wof:geomhash":"fb84d5659821aca94bf89bcdcde917b3",
+    "wof:geomhash":"0d712dc5916f96a9b2cd3ed0224beadd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":722921249,
-    "wof:lastmodified":1472618948,
+    "wof:lastmodified":1534181671,
     "wof:name":"Coosa Diagnostic Ctr",
     "wof:parent_id":85890045,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739882551
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

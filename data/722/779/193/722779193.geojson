@@ -7,6 +7,7 @@
     "addr:postcode":"30331",
     "addr:street":"Fairburn Rd Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.511481,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2440 Fairburn Rd SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461888480,
-    "wof:geomhash":"31db0a94710ec3c5606ac121a13cbd57",
+    "wof:geomhash":"c226384d3744d740f0ab9a9c0fc8fcc6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,12 +71,16 @@
         }
     ],
     "wof:id":722779193,
-    "wof:lastmodified":1486672747,
+    "wof:lastmodified":1534181700,
     "wof:name":"Childrens Dentistry",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723023563,
+        739982831,
+        739983599
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

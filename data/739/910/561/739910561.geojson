@@ -7,6 +7,7 @@
     "addr:postcode":"30297",
     "addr:street":"Forest Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.39299,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"16 Forest Pkwy",
     "sg:city":"Forest Park",
     "sg:classifiers":[
@@ -39,14 +40,17 @@
     "wof:geomhash":"d8c58d0b008a1f7a6a4630501b655e68",
     "wof:hierarchy":[],
     "wof:id":739910561,
-    "wof:lastmodified":1510942858,
+    "wof:lastmodified":1534181678,
     "wof:name":"Georgia State Farmers Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739910693
+    ],
     "wof:supersedes":[
-        739411325
+        739411325,
+        739757467
     ],
     "wof:tags":[]
 },

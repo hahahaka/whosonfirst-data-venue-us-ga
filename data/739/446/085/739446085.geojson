@@ -14,6 +14,7 @@
     "geom:longitude":-84.138629,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"655 Atlanta Rd",
     "sg:city":"Cumming",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461907472,
-    "wof:geomhash":"12e83b2645d49e75d622b9e1e707ed66",
+    "wof:geomhash":"c5bd969ac78d0af1128391d93b1cd831",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":739446085,
-    "wof:lastmodified":1472618438,
+    "wof:lastmodified":1534181641,
     "wof:name":"Lanier Athletic Ctr",
     "wof:parent_id":85842073,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739410817
+    ],
     "wof:tags":[
         "club",
         "health",

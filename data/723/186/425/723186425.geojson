@@ -7,6 +7,7 @@
     "addr:postcode":"30093",
     "addr:street":"Live Oak Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.20198,33.90813,-84.20198,33.90813",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.20198,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6000 Live Oak Pkwy",
     "sg:city":"Norcross",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461896813,
-    "wof:geomhash":"fab7a5680472ba8dcda79e758dad09aa",
+    "wof:geomhash":"55659c96df33d60cc0ec288de14e92af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":723186425,
-    "wof:lastmodified":1472618496,
+    "wof:lastmodified":1534181656,
     "wof:name":"Disk Doctors",
     "wof:parent_id":85803655,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739758083
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"

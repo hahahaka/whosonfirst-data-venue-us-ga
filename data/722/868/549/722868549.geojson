@@ -14,6 +14,7 @@
     "geom:longitude":-84.52214,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 Cobb Pkwy",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461890173,
-    "wof:geomhash":"7fde42b340ab4eacd7e1fd6b563cf182",
+    "wof:geomhash":"8ff567fa3476fbbcf9c454b290d334d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":722868549,
-    "wof:lastmodified":1472618812,
+    "wof:lastmodified":1534181646,
     "wof:name":"Transnet Atlanta Inc",
     "wof:parent_id":85817769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722721197
+    ],
     "wof:tags":[
         "automobile",
         "used"

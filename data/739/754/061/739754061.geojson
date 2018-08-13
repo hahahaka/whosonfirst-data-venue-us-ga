@@ -7,6 +7,7 @@
     "addr:postcode":"30024",
     "addr:street":"Mcginnis Ferry Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.124497,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"7768 McGinnis Ferry Rd",
     "sg:city":"Suwanee",
     "sg:classifiers":[
@@ -45,12 +46,14 @@
     "wof:geomhash":"445b4f281d136839068a5a9947ce10ca",
     "wof:hierarchy":[],
     "wof:id":739754061,
-    "wof:lastmodified":1511323077,
+    "wof:lastmodified":1534181657,
     "wof:name":"Domino's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739762887
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"

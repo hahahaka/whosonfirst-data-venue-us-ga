@@ -7,6 +7,7 @@
     "addr:postcode":"30305",
     "addr:street":"Peachtree Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.365098,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3445 Peachtree Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461901507,
-    "wof:geomhash":"76188d4d7eab9c62677f91974ff52120",
+    "wof:geomhash":"86d44d135f2b7e5ee0ce22cfaddd04b5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,12 +75,14 @@
         }
     ],
     "wof:id":723426563,
-    "wof:lastmodified":1486672212,
+    "wof:lastmodified":1534181652,
     "wof:name":"Employers Workcomp LP",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722978547
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "compensation",

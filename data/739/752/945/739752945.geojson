@@ -7,6 +7,7 @@
     "addr:postcode":"30327",
     "addr:street":"Northside Pkwy Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.431999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3715 Northside Pkwy NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461913823,
-    "wof:geomhash":"a204a72048b8f2d7f9160d6827c2aa06",
+    "wof:geomhash":"a90574f2f9d48bdadce2bc179666e8c7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":739752945,
-    "wof:lastmodified":1486672062,
+    "wof:lastmodified":1534181691,
     "wof:name":"Tobin Thomas W Atty",
     "wof:parent_id":420784715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739972977
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

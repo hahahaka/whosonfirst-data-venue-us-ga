@@ -7,6 +7,7 @@
     "addr:postcode":"31201",
     "addr:street":"Hemlock Street Ln",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.634593,32.8319,-83.634593,32.8319",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.634593,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"682 Hemlock Street Ln",
     "sg:city":"Macon",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461892944,
-    "wof:geomhash":"bdf68d5fa6ffac99c6d82de9528ae29c",
+    "wof:geomhash":"2389caa781e00152e4ab0c5b3760044e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":723001733,
-    "wof:lastmodified":1472617814,
+    "wof:lastmodified":1534181652,
     "wof:name":"Kathy C Lynn MD",
     "wof:parent_id":85837705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723439075
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "specializing",

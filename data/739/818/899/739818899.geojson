@@ -7,6 +7,7 @@
     "addr:postcode":"30060",
     "addr:street":"Martin Ct",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.518822,33.94294,-84.518822,33.94294",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.518822,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"380 Martin Ct",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916651,
-    "wof:geomhash":"d3880a56d6d30d5a5320b9d12de14eee",
+    "wof:geomhash":"ac9b3d364db52f8310c99336039f73d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":739818899,
-    "wof:lastmodified":1472619416,
+    "wof:lastmodified":1534181666,
     "wof:name":"Coin-Op Solutions",
     "wof:parent_id":85857593,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739817579
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

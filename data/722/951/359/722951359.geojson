@@ -7,6 +7,7 @@
     "addr:postcode":"30168",
     "addr:street":"Lee Industrial Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.539596,33.777037,-84.539596,33.777037",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.539596,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"559 Lee Industrial Blvd",
     "sg:city":"Austell",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1461891848,
-    "wof:geomhash":"8e985af535368b2b162cc4293d9f8bcc",
+    "wof:geomhash":"0c9e5d72b6f89a482616e12c1ee1a0bb",
     "wof:hierarchy":[],
     "wof:id":722951359,
-    "wof:lastmodified":1472619029,
+    "wof:lastmodified":1534181673,
     "wof:name":"Action Tire Alignment & Fleet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739884493
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"

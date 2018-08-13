@@ -7,6 +7,7 @@
     "addr:postcode":"30080",
     "addr:street":"Trolley Ct Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.493888,33.849197,-84.493888,33.849197",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.493888,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4828 Trolley Ct SE",
     "sg:city":"Smyrna",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1461900820,
-    "wof:geomhash":"278775c526b8a09ca14dde1b3f2df40f",
+    "wof:geomhash":"c037b1c4a6449791d647c4062cb775d2",
     "wof:hierarchy":[],
     "wof:id":723392005,
-    "wof:lastmodified":1472619057,
+    "wof:lastmodified":1534181667,
     "wof:name":"Laundry Delivery System LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739842897
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

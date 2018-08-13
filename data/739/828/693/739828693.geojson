@@ -2,18 +2,24 @@
   "id": 739828693,
   "type": "Feature",
   "properties": {
-    "addr:full":"120 Powers Ferry Rd SE Marietta GA 30067",
+    "addr:city":"Marietta",
+    "addr:full":"120 Powers Ferry Rd Se Marietta, Ga 30067",
+    "addr:house_number":"120",
     "addr:housenumber":"120",
+    "addr:phone":"+1 770-977-0938",
     "addr:postcode":"30067",
+    "addr:road":"Powers Ferry Rd Se",
+    "addr:state":"GA",
     "addr:street":"Powers Ferry Rd Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-84.508942,33.949154,-84.508942,33.949154",
-    "geom:latitude":33.949154,
-    "geom:longitude":-84.508942,
+    "geom:bbox":"-84.51039,33.94959,-84.51039,33.94959",
+    "geom:latitude":33.94959,
+    "geom:longitude":-84.51039,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"120 Powers Ferry Rd SE",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -27,21 +33,25 @@
     "sg:phone":"+1 770 977 0938",
     "sg:postcode":"30067",
     "sg:province":"GA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525899
+    ],
     "wof:belongsto":[
-        85688535,
+        85857049,
         85633793,
         85936135,
         102082313,
-        85857049
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300647,
         "sg:id":"SG_4wP0nCOrJXNm2fFpW3Pq9g_33.949154_-84.508942@1303262582"
     },
     "wof:country":"US",
     "wof:created":1461917029,
-    "wof:geomhash":"db1620fe1bba24bb7b074545c2dc4a33",
+    "wof:geomhash":"320df66e6c5f88672a6ef9f2677009ab",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +63,7 @@
         }
     ],
     "wof:id":739828693,
-    "wof:lastmodified":1472619414,
+    "wof:lastmodified":1534181700,
     "wof:name":"African American Sports Museum",
     "wof:parent_id":85857049,
     "wof:placetype":"venue",
@@ -63,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -84.508942,
-    33.949154,
-    -84.508942,
-    33.949154
+    -84.51039,
+    33.94959,
+    -84.51039,
+    33.94959
 ],
-  "geometry": {"coordinates":[-84.508942,33.949154],"type":"Point"}
+  "geometry": {"coordinates":[-84.51039,33.94959],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"31201",
     "addr:street":"Cherry St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.626645,32.835158,-83.626645,32.835158",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.626645,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"401 Cherry St",
     "sg:city":"Macon",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461909300,
-    "wof:geomhash":"2b23f959d7aef385c1cab256a1be8b35",
+    "wof:geomhash":"aff88aa55a39dd8061939870fc528112",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":739547105,
-    "wof:lastmodified":1472618711,
+    "wof:lastmodified":1534181639,
     "wof:name":"J Robert Sikes",
     "wof:parent_id":85837705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740054251
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

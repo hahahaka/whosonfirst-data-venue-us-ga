@@ -2,18 +2,24 @@
   "id": 739881311,
   "type": "Feature",
   "properties": {
-    "addr:full":"2382 Pine Mountain Road Kennesaw GA 30152",
+    "addr:city":"Kennesaw",
+    "addr:full":"2382 Pine Mountain Road Kennesaw, Ga 30152",
+    "addr:house_number":"2382",
     "addr:housenumber":"2382",
+    "addr:phone":"+1 770-919-0248",
     "addr:postcode":"30152",
+    "addr:road":"Pine Mountain Road",
+    "addr:state":"GA",
     "addr:street":"Pine Mountain Road",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-84.629519,34.012137,-84.629519,34.012137",
-    "geom:latitude":34.012137,
-    "geom:longitude":-84.629519,
+    "geom:bbox":"-84.62984,34.01148,-84.62984,34.01148",
+    "geom:latitude":34.01148,
+    "geom:longitude":-84.62984,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2382 Pine Mountain Road",
     "sg:city":"Kennesaw",
     "sg:classifiers":[
@@ -28,7 +34,8 @@
     "sg:postcode":"30152",
     "sg:province":"GA",
     "sg:website":"www.kennesaw-ga.gov/index.aspx?n...",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688535,
         102191575,
@@ -39,11 +46,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300189,
         "sg:id":"SG_66spX5XFnWHktFs3InQMmT_34.012137_-84.629519@1303262596"
     },
     "wof:country":"US",
     "wof:created":1461919107,
-    "wof:geomhash":"10525947463a3d5ce5cedee75ab18eda",
+    "wof:geomhash":"31832d98381f3b6b4a0dab295436a01b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +64,7 @@
         }
     ],
     "wof:id":739881311,
-    "wof:lastmodified":1472619497,
+    "wof:lastmodified":1534181702,
     "wof:name":"Smith-Gilbert Gardens",
     "wof:parent_id":85837407,
     "wof:placetype":"venue",
@@ -66,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -84.629519,
-    34.012137,
-    -84.629519,
-    34.012137
+    -84.62984,
+    34.01148,
+    -84.62984,
+    34.01148
 ],
-  "geometry": {"coordinates":[-84.629519,34.012137],"type":"Point"}
+  "geometry": {"coordinates":[-84.62984,34.01148],"type":"Point"}
 }

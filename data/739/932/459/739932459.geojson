@@ -7,6 +7,7 @@
     "addr:postcode":"30307",
     "addr:street":"Dekalb Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.351427,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1124 Dekalb Ave",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921131,
-    "wof:geomhash":"94bdeba36a79f70e0ab16522ef159eaa",
+    "wof:geomhash":"36f7c6a941e736925deed969c591457d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":739932459,
-    "wof:lastmodified":1491905635,
+    "wof:lastmodified":1534181680,
     "wof:name":"Beyond Events Atlanta",
     "wof:parent_id":420517975,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739932913
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "planning",

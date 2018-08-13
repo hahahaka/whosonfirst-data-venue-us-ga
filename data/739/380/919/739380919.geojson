@@ -7,6 +7,7 @@
     "addr:postcode":"30075",
     "addr:street":"Canton St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.361487,34.030478,-84.361487,34.030478",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.361487,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1144 Canton St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461906214,
-    "wof:geomhash":"eece53de03f9eb577e1f3df95ebccfa7",
+    "wof:geomhash":"52db8530dc12a531c74bfba5d947a706",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":739380919,
-    "wof:lastmodified":1472618285,
+    "wof:lastmodified":1534181642,
     "wof:name":"Law Offices of Janis L Rosser",
     "wof:parent_id":85837915,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722769215
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

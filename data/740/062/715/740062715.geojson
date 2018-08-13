@@ -7,6 +7,7 @@
     "addr:postcode":"31520",
     "addr:street":"Newcastle St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.496395,31.152061,-81.496395,31.152061",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.496395,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2400 Newcastle St",
     "sg:city":"Brunswick",
     "sg:classifiers":[
@@ -75,7 +77,7 @@
     },
     "wof:country":"US",
     "wof:created":1461926646,
-    "wof:geomhash":"ef97ebd63d34aa5ac1d41a976b907ce1",
+    "wof:geomhash":"60b1f4fd9048ca64d2b0fa5dc2dddd82",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -87,12 +89,14 @@
         }
     ],
     "wof:id":740062715,
-    "wof:lastmodified":1472618174,
+    "wof:lastmodified":1534181640,
     "wof:name":"Beckham Heating & Air",
     "wof:parent_id":85833275,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739399849
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "systems-repairing",

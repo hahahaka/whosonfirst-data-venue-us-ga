@@ -14,6 +14,7 @@
     "geom:longitude":-84.275009,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3005 Old Alabama Rd",
     "sg:city":"Alpharetta",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461905553,
-    "wof:geomhash":"21a5308bd3bd171c22c9637f737ecad1",
+    "wof:geomhash":"fecc83036da84fa23686c674dd6bca0c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,16 @@
         }
     ],
     "wof:id":739347239,
-    "wof:lastmodified":1472618204,
+    "wof:lastmodified":1534181637,
     "wof:name":"Alessios Restaurant & Pizzeria",
     "wof:parent_id":85836903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723406017,
+        739762761
+    ],
     "wof:tags":[
         "eating"
     ]

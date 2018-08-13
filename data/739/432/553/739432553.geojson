@@ -2,18 +2,24 @@
   "id": 739432553,
   "type": "Feature",
   "properties": {
-    "addr:full":"1116 Phillips St Augusta GA 30901",
+    "addr:city":"Augusta",
+    "addr:full":"1116 Phillips St Augusta, Ga 30901",
+    "addr:house_number":"1116",
     "addr:housenumber":"1116",
+    "addr:phone":"+1 706-724-3576",
     "addr:postcode":"30901",
+    "addr:road":"Phillips St",
+    "addr:state":"GA",
     "addr:street":"Phillips St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-81.981633,33.466753,-81.981633,33.466753",
-    "geom:latitude":33.466753,
-    "geom:longitude":-81.981633,
+    "geom:bbox":"-81.98114,33.46768,-81.98114,33.46768",
+    "geom:latitude":33.46768,
+    "geom:longitude":-81.98114,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1116 Phillips St",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -31,7 +37,11 @@
         "attraction",
         "tourist"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525631,
+        102532763
+    ],
     "wof:belongsto":[
         85688535,
         102191575,
@@ -42,11 +52,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300049,
         "sg:id":"SG_5ECv41BD2TeSYXAFynsJV5_33.466753_-81.981633@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461907212,
-    "wof:geomhash":"5dda012e88d811559fa364947ace281c",
+    "wof:geomhash":"71a0348890d1801d61d25cff988461a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,8 +70,8 @@
         }
     ],
     "wof:id":739432553,
-    "wof:lastmodified":1472618443,
-    "wof:name":"Lucy Craft Laney Museum",
+    "wof:lastmodified":1534181700,
+    "wof:name":"Lucy Craft Laney Museum Of Black History",
     "wof:parent_id":85876037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
@@ -72,10 +83,10 @@
     ]
 },
   "bbox": [
-    -81.981633,
-    33.466753,
-    -81.981633,
-    33.466753
+    -81.98114,
+    33.46768,
+    -81.98114,
+    33.46768
 ],
-  "geometry": {"coordinates":[-81.981633,33.466753],"type":"Point"}
+  "geometry": {"coordinates":[-81.98114,33.46768],"type":"Point"}
 }

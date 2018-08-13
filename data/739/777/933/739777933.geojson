@@ -7,6 +7,7 @@
     "addr:postcode":"30004",
     "addr:street":"Windward Pkwy West",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.270882,34.087751,-84.270882,34.087751",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.270882,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5465 Windward Pkwy West",
     "sg:city":"Alpharetta",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914857,
-    "wof:geomhash":"2450fd5e5aab3044568f13478c4fdd78",
+    "wof:geomhash":"ff9d4510ad693ff6d8e6f92e73889f82",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":739777933,
-    "wof:lastmodified":1472619325,
+    "wof:lastmodified":1534181660,
     "wof:name":"Residence Inn Atlanta Alpharetta/Windward",
     "wof:parent_id":85854959,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739777957
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

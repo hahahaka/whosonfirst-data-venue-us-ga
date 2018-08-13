@@ -7,6 +7,7 @@
     "addr:postcode":"ga 30165",
     "addr:street":"Martha Berry Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-85.177033,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2770 Martha Berry Hwy",
     "sg:city":"Rome",
     "sg:classifiers":[
@@ -34,7 +35,9 @@
     ],
     "sg:website":"www.gap.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420517843
+    ],
     "wof:brand_id":420574241,
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,12 +48,14 @@
     "wof:geomhash":"a66aa21f2f59dd4f50c268748ca95afe",
     "wof:hierarchy":[],
     "wof:id":722775251,
-    "wof:lastmodified":1511323475,
+    "wof:lastmodified":1534181673,
     "wof:name":"Gap",
     "wof:parent_id":420517843,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739883437
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "family"

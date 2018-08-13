@@ -7,6 +7,7 @@
     "addr:postcode":"30534",
     "addr:street":"Hopewell Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.07296,34.323942,-84.07296,34.323942",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.07296,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6390 Hopewell Rd",
     "sg:city":"Dawsonville",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461896113,
-    "wof:geomhash":"41ea04c50ac0e0a7388d0bbe0ae1a12c",
+    "wof:geomhash":"eb685eb874d10a78b06b4b1e7b08f2b4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":723150921,
-    "wof:lastmodified":1472618402,
+    "wof:lastmodified":1534181624,
     "wof:name":"Cleland Consulting Co",
     "wof:parent_id":85842073,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740030081
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "related"

@@ -7,6 +7,7 @@
     "addr:postcode":"30269",
     "addr:street":"Petrol Pt",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.563297,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"111 Petrol Pt",
     "sg:city":"Peachtree City",
     "sg:classifiers":[
@@ -59,12 +60,14 @@
         }
     ],
     "wof:id":723213317,
-    "wof:lastmodified":1510875016,
+    "wof:lastmodified":1534181644,
     "wof:name":"Merry Maids Inc",
     "wof:parent_id":85847943,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723291783
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "house"

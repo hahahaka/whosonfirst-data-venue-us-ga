@@ -7,6 +7,7 @@
     "addr:postcode":"30622",
     "addr:street":"Monroe Hwy Bogart",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.546703,33.917907,-83.546703,33.917907",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.546703,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2681 Monroe Hwy",
     "sg:city":"Bogart",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461890814,
-    "wof:geomhash":"b586baed5500a8c3b627881d9d6814c4",
+    "wof:geomhash":"cea9d0628d21c7116221fa257b36661f",
     "wof:hierarchy":[],
     "wof:id":722901287,
-    "wof:lastmodified":1472618904,
+    "wof:lastmodified":1534181628,
     "wof:name":"Complete Transmission Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740034713
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "transmission",

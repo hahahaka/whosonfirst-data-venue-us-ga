@@ -14,6 +14,7 @@
     "geom:longitude":-84.33456,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10800 Alpharetta Hwy",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461891568,
-    "wof:geomhash":"57bd76e6a48393de0b55b6b240b34276",
+    "wof:geomhash":"d884fb75f5742c9c5556af552593d0da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":722936941,
-    "wof:lastmodified":1472619047,
+    "wof:lastmodified":1534181649,
     "wof:name":"Kumon Of Roswell",
     "wof:parent_id":85889949,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722935213
+    ],
     "wof:tags":[
         "tutoring"
     ]

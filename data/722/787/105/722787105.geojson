@@ -7,6 +7,7 @@
     "addr:postcode":"ga 30165",
     "addr:street":"Garden Lakes Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.227038,34.285615,-85.227038,34.285615",
@@ -14,6 +15,7 @@
     "geom:longitude":-85.227038,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2411 Garden Lakes Blvd",
     "sg:city":"Rome",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1461888639,
-    "wof:geomhash":"631758af17f0c8599043fd13f421fcd0",
+    "wof:geomhash":"cdde8760bb05a31e60c568611e061110",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":722787105,
-    "wof:lastmodified":1472618602,
+    "wof:lastmodified":1534181673,
     "wof:name":"Allen Murphys Appliance Center",
     "wof:parent_id":85821049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739883575
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

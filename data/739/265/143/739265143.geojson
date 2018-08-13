@@ -7,6 +7,7 @@
     "addr:postcode":"30642",
     "addr:street":"Pear Orchard Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.082905,33.56316,-83.082905,33.56316",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.082905,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1271 Pear Orchard Rd",
     "sg:city":"Greensboro",
     "sg:classifiers":[
@@ -33,22 +35,26 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420518023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nxtCy3bcd8bM8bOBOSgkz_33.563160_-83.082905@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461903818,
-    "wof:geomhash":"8b4d1fa2ed2b3bd3b36420098e31f248",
+    "wof:geomhash":"72b5c4e65d70db1c2363c04631f25794",
     "wof:hierarchy":[],
     "wof:id":739265143,
-    "wof:lastmodified":1472617911,
+    "wof:lastmodified":1534181628,
     "wof:name":"Tim Higdon",
     "wof:parent_id":420518023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740035367
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "household",

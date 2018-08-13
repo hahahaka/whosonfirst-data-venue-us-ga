@@ -7,6 +7,7 @@
     "addr:postcode":"30097",
     "addr:street":"E Johns Xing",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.165856,34.063189,-84.165856,34.063189",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.165856,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6465 E Johns Xing",
     "sg:city":"Duluth",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461906065,
-    "wof:geomhash":"90dc6f0fecb4dffd855094319ba664c2",
+    "wof:geomhash":"54892779dbf6e1824a129a0052e21bec",
     "wof:hierarchy":[],
     "wof:id":739373097,
-    "wof:lastmodified":1472618246,
+    "wof:lastmodified":1534181649,
     "wof:name":"Martin Blue Software",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723404289
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "prepackaged",

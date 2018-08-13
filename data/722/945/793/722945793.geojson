@@ -7,6 +7,7 @@
     "addr:postcode":"30047",
     "addr:street":"Oleander Dr Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.094541,33.86102,-84.094541,33.86102",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.094541,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1447 Oleander Dr SW",
     "sg:city":"Lilburn",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461891742,
-    "wof:geomhash":"dc683eabbfe7d6d8ff328ada27f9c75a",
+    "wof:geomhash":"c102bc1673592e2636aaab1841f94f55",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":722945793,
-    "wof:lastmodified":1472619042,
+    "wof:lastmodified":1534181663,
     "wof:name":"Newman Contract Coding Svcs",
     "wof:parent_id":85857829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739812187
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"

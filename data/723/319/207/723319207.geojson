@@ -7,6 +7,7 @@
     "addr:postcode":"30328",
     "addr:street":"Sandy;Pl Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.381236,33.921646,-84.381236,33.921646",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.381236,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"210 Sandy Springs Pl NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461899436,
-    "wof:geomhash":"d6a8f7178c188352fc119da580875c0a",
+    "wof:geomhash":"735a38999bd8f6644d6e89e3d4596e29",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":723319207,
-    "wof:lastmodified":1472618856,
+    "wof:lastmodified":1534181693,
     "wof:name":"Bairstow Betsy & Assoc",
     "wof:parent_id":85889967,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739977927
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

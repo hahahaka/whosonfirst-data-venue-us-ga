@@ -7,6 +7,7 @@
     "addr:postcode":"30045",
     "addr:street":"Langley Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.993556,33.952182,-83.993556,33.952182",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.993556,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"75 Langley Dr",
     "sg:city":"Lawrenceville",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461912649,
-    "wof:geomhash":"b5335d979794eade5ef8556553844661",
+    "wof:geomhash":"ef757956def473db1e39ed0fe07b67de",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":739703553,
-    "wof:lastmodified":1472619122,
+    "wof:lastmodified":1534181663,
     "wof:name":"Gwinnett County Parks & Rcrtn",
     "wof:parent_id":85847023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739808561
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "parks"

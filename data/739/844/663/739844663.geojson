@@ -7,6 +7,7 @@
     "addr:postcode":"30083",
     "addr:street":"James B Rivers Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.164703,33.812698,-84.164703,33.812698",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.164703,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6826 James B Rivers Dr",
     "sg:city":"Stone Mountain",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461917687,
-    "wof:geomhash":"748fc128c0249cbe26685ed659d73f6b",
+    "wof:geomhash":"1cbef00d7fc6abdabe9072d2aeff49ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +67,14 @@
         }
     ],
     "wof:id":739844663,
-    "wof:lastmodified":1472619457,
+    "wof:lastmodified":1534181631,
     "wof:name":"Forrest Hills Baptist Church & Christian School",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723081101
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "high",

@@ -7,6 +7,7 @@
     "addr:postcode":"30303",
     "addr:street":"Mitchell St Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.394882,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"233 Mitchell St SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461909158,
-    "wof:geomhash":"820c848dd499a6db3addbcd49e2a13c7",
+    "wof:geomhash":"c3c9446d86975adb6f4fd09f5b54c8f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,12 +68,14 @@
         }
     ],
     "wof:id":739540345,
-    "wof:lastmodified":1486682603,
+    "wof:lastmodified":1534181647,
     "wof:name":"Aniz Inc Support Svc Agency",
     "wof:parent_id":1108797063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722884917
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "info",

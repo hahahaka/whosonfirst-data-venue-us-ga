@@ -7,6 +7,7 @@
     "addr:postcode":"30318",
     "addr:street":"Defoors Ferry Rd Nw Ste D",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.426178,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2072 Defoors Ferry Rd NW Ste D",
     "sg:city":"Atlanta",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922378,
-    "wof:geomhash":"e8b5c31e35e3385586459853582950df",
+    "wof:geomhash":"1f9b0dbc6151251413670f606664acdc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":739960287,
-    "wof:lastmodified":1486668299,
+    "wof:lastmodified":1534181624,
     "wof:name":"Majeska, Richard A, Dds - Collier Hills Dental",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739306313
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

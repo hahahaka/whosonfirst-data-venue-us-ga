@@ -7,6 +7,7 @@
     "addr:postcode":"30622",
     "addr:street":"Atlanta Hwy Bogart",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.510984,33.944583,-83.510984,33.944583",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.510984,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5170 Atlanta Hwy",
     "sg:city":"Bogart",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461892474,
-    "wof:geomhash":"3b808d7af3606f328d16ee9186af03a8",
+    "wof:geomhash":"6aae0c49838d8e62571148b3e7e8de74",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":722981103,
-    "wof:lastmodified":1472619081,
+    "wof:lastmodified":1534181658,
     "wof:name":"Fresh Air Barbecue",
     "wof:parent_id":420517653,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739770511
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

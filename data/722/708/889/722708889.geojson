@@ -7,6 +7,7 @@
     "addr:postcode":"30324",
     "addr:street":"Piedmont Rd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.367143,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2625 Piedmont Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461887131,
-    "wof:geomhash":"e91cac0fef9fd18fb350701b5fbf3d18",
+    "wof:geomhash":"12295e4200d8cb5559024b03969feffe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":722708889,
-    "wof:lastmodified":1486671520,
+    "wof:lastmodified":1534181638,
     "wof:name":"Turk Collectors Inc",
     "wof:parent_id":85872095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739355511
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"

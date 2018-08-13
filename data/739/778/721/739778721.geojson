@@ -7,6 +7,7 @@
     "addr:postcode":"30005",
     "addr:street":"Mcginnis Ferry Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.202967,34.090204,-84.202967,34.090204",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.202967,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5358 McGinnis Ferry Rd",
     "sg:city":"Alpharetta",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1461914889,
-    "wof:geomhash":"1e260bb99af60bbb4dc1948996a0e324",
+    "wof:geomhash":"c13496a2999ea8121f506f3f6ee01686",
     "wof:hierarchy":[],
     "wof:id":739778721,
-    "wof:lastmodified":1472619323,
+    "wof:lastmodified":1534181660,
     "wof:name":"Goodyear of Alpharetta Performance Tire & Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739779071
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"

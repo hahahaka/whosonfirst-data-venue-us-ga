@@ -7,6 +7,7 @@
     "addr:postcode":"30606",
     "addr:street":"Hawthorne Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.411459,33.97138,-83.411459,33.97138",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.411459,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1000 Hawthorne Ave",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461909470,
-    "wof:geomhash":"e3ee2468259cfe99a9313c9bbd239fe4",
+    "wof:geomhash":"7cab2e1e5c309d72c7b5f57a7c5ba96a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":739555493,
-    "wof:lastmodified":1472618720,
+    "wof:lastmodified":1534181649,
     "wof:name":"Women's Healthcare Specialist",
     "wof:parent_id":85828737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723404777
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"

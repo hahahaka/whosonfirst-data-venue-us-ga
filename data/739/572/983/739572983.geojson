@@ -7,6 +7,7 @@
     "addr:postcode":"30076",
     "addr:street":"Holcomb Bridge Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.329852,34.024168,-84.329852,34.024168",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.329852,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1080 Holcomb Bridge Rd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461909854,
-    "wof:geomhash":"8f3afe051fc5814d956a46f7e0cfaa63",
+    "wof:geomhash":"f0345c0c895333c8ca4a70f08a703dc0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":739572983,
-    "wof:lastmodified":1472618776,
+    "wof:lastmodified":1534181655,
     "wof:name":"Silicon Labs",
     "wof:parent_id":85889949,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723504541
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

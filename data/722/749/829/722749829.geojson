@@ -7,6 +7,7 @@
     "addr:postcode":"30013",
     "addr:street":"Sarasota Business Pkwy Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.988377,33.659745,-83.988377,33.659745",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.988377,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1800 Sarasota Business Pkwy NE",
     "sg:city":"Conyers",
     "sg:classifiers":[
@@ -36,15 +38,17 @@
     },
     "wof:country":"US",
     "wof:created":1461887934,
-    "wof:geomhash":"e2bdcd08ee14c3e43be017ceb0d819c1",
+    "wof:geomhash":"e7eb52675151e2db2db5b46156b06489",
     "wof:hierarchy":[],
     "wof:id":722749829,
-    "wof:lastmodified":1472618526,
+    "wof:lastmodified":1534181643,
     "wof:name":"Visy Paper Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739506769
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

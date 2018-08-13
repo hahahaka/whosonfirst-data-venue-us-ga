@@ -7,6 +7,7 @@
     "addr:postcode":"30062",
     "addr:street":"Cobb Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.522551,33.954214,-84.522551,33.954214",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.522551,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"189 Cobb Pkwy",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461886799,
-    "wof:geomhash":"22172965341603b6b611f02c8029e275",
+    "wof:geomhash":"0695a4fd98712e18bc257381bce9abc5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":722690961,
-    "wof:lastmodified":1472618377,
+    "wof:lastmodified":1534181642,
     "wof:name":"Ovel Inc",
     "wof:parent_id":85857593,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739482701
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "residential",

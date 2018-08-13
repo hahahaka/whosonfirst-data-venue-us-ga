@@ -14,6 +14,7 @@
     "geom:longitude":-84.985928,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1200 Memorial Dr",
     "sg:city":"Dalton",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461907687,
-    "wof:geomhash":"13d3dcc5ef6bd0709267ffdd0fb12cb8",
+    "wof:geomhash":"b8347b0d791373a3ff2b15e5756e93c1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":739458191,
-    "wof:lastmodified":1472618490,
+    "wof:lastmodified":1534181641,
     "wof:name":"Hamilton Medical Ctr Gift Shop",
     "wof:parent_id":85809263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723186289
+    ],
     "wof:tags":[
         "shop"
     ]

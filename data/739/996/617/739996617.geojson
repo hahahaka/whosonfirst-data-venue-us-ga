@@ -14,6 +14,7 @@
     "geom:longitude":-84.256188,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3077 McCall Drive",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923802,
-    "wof:geomhash":"b43b5e84722247a3990074c0dda65e5a",
+    "wof:geomhash":"e3ed779cc0f5d3a53ce56603a3fb404a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +55,15 @@
         }
     ],
     "wof:id":739996617,
-    "wof:lastmodified":1472619710,
+    "wof:lastmodified":1534181696,
     "wof:name":"General Construction Group",
     "wof:parent_id":85889941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723151759
+    ],
     "wof:tags":[
         "contractor"
     ]

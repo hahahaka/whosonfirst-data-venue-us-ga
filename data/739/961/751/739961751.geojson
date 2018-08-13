@@ -15,6 +15,7 @@
     "geom:longitude":-84.416016,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1587 Howell Mill Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -51,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922434,
-    "wof:geomhash":"5423e9a084d78362ddf9e15a2e0457f9",
+    "wof:geomhash":"5a86aabad84f7520aa5ac51dec13f5c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -85,13 +86,15 @@
         }
     ],
     "wof:id":739961751,
-    "wof:lastmodified":1486672472,
+    "wof:lastmodified":1534181685,
     "wof:name":"FLIP Burger Boutique",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739960027
+    ],
     "wof:tags":[
         "burger"
     ]

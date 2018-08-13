@@ -14,6 +14,7 @@
     "geom:longitude":-84.267305,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2964 Ember Dr",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461892189,
-    "wof:geomhash":"165fbb894ba69f640d7e678685d1cdd9",
+    "wof:geomhash":"29483ff5cb0b0ca7ce2d472476a8af47",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +55,15 @@
         }
     ],
     "wof:id":722967911,
-    "wof:lastmodified":1472619096,
+    "wof:lastmodified":1534181651,
     "wof:name":"Ccs Labs Inc",
     "wof:parent_id":85816491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722838209
+    ],
     "wof:tags":[
         "television"
     ]

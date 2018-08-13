@@ -15,6 +15,7 @@
     "geom:longitude":-84.372121,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"455 E Paces Ferry Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461912631,
-    "wof:geomhash":"a663bc9bc4c7424f3f5f085c8f651469",
+    "wof:geomhash":"74679beafb55f80e0ab313993f568e38",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":739702673,
-    "wof:lastmodified":1486668397,
+    "wof:lastmodified":1534181655,
     "wof:name":"Randall C Brown & Assoc",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739426299
+    ],
     "wof:tags":[
         "accountant"
     ]

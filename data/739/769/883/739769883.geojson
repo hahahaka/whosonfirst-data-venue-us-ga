@@ -7,6 +7,7 @@
     "addr:postcode":"30519",
     "addr:street":"Buford Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-83.984258,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"3333 Buford Dr",
     "sg:city":"Buford",
     "sg:classifiers":[
@@ -61,15 +62,18 @@
         }
     ],
     "wof:id":739769883,
-    "wof:lastmodified":1511321871,
+    "wof:lastmodified":1534181658,
     "wof:name":"Dairy Queen",
     "wof:parent_id":85858547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740026655
+    ],
     "wof:supersedes":[
         740026675,
-        739769869
+        739769869,
+        722989743
     ],
     "wof:tags":[
         "burger",

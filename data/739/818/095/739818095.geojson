@@ -7,6 +7,7 @@
     "addr:postcode":"30060",
     "addr:street":"Church St Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.550192,33.954126,-84.550192,33.954126",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.550192,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"107 Church St NE",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916618,
-    "wof:geomhash":"671d83bc49dc0578b879c4ad79290ea1",
+    "wof:geomhash":"c5efa94582e7c359c49c410a37fb9a7a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":739818095,
-    "wof:lastmodified":1472619394,
+    "wof:lastmodified":1534181666,
     "wof:name":"Lululemon Athletica",
     "wof:parent_id":85857593,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739818461
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sportswear"

@@ -7,6 +7,7 @@
     "addr:postcode":"30241",
     "addr:street":"S Davis Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.012712,33.012837,-85.012712,33.012837",
@@ -14,6 +15,7 @@
     "geom:longitude":-85.012712,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2101 S Davis Rd",
     "sg:city":"Lagrange",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461901502,
-    "wof:geomhash":"bcafb37f8bed98727a95c3f883b79aa4",
+    "wof:geomhash":"50e01027e7c2aa87139c5ad3e053f3f3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":723426289,
-    "wof:lastmodified":1472619184,
+    "wof:lastmodified":1534181675,
     "wof:name":"Clearview Chapel",
     "wof:parent_id":85845165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739895943
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "church"

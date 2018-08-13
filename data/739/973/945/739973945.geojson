@@ -14,6 +14,7 @@
     "geom:longitude":-84.353401,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1100 Abernathy Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922908,
-    "wof:geomhash":"5d80b11d47b65746dc195a4e8fd23de8",
+    "wof:geomhash":"e4d166435aa5a2bf5b67fed483d9cb84",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,13 +69,15 @@
         }
     ],
     "wof:id":739973945,
-    "wof:lastmodified":1472619670,
+    "wof:lastmodified":1534181694,
     "wof:name":"Morgan Keegan & Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723132723
+    ],
     "wof:tags":[
         "assistant"
     ]

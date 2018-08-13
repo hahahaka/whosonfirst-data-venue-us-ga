@@ -7,6 +7,7 @@
     "addr:postcode":"30030",
     "addr:street":"E Ponce De Leon Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.293593,33.775665,-84.293593,33.775665",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.293593,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"250 E Ponce de Leon Ave",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461907259,
-    "wof:geomhash":"ecdebba40a0580ceb098e6b6699abefa",
+    "wof:geomhash":"f21b3e5afe697acce5793b7541d3ec49",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":739434781,
-    "wof:lastmodified":1472618458,
+    "wof:lastmodified":1534181650,
     "wof:name":"V Nelson Associates Inc",
     "wof:parent_id":85890035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722955801
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "business"

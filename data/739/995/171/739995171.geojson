@@ -14,6 +14,7 @@
     "geom:longitude":-84.280945,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5312 Buford Hwy NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923753,
-    "wof:geomhash":"2c3c92ea4f3c2dd0df3b5438b4c54bd2",
+    "wof:geomhash":"fc4c95751c6a27e23d50136450eb394e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,13 +70,15 @@
         }
     ],
     "wof:id":739995171,
-    "wof:lastmodified":1472619693,
+    "wof:lastmodified":1534181695,
     "wof:name":"Golden Financial Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722561179
+    ],
     "wof:tags":[
         "broker",
         "mortgage"

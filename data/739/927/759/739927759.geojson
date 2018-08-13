@@ -15,6 +15,7 @@
     "geom:longitude":-84.381335,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3005 Peachtree Road NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920933,
-    "wof:geomhash":"231068cda64af12b18bd72c8ebd7946c",
+    "wof:geomhash":"b1f511b21564e9fce2229ba3990e63f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":739927759,
-    "wof:lastmodified":1486668640,
+    "wof:lastmodified":1534181680,
     "wof:name":"Tag Concept Salon",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739928947
+    ],
     "wof:tags":[
         "hair"
     ]

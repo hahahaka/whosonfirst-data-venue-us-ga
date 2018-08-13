@@ -7,6 +7,7 @@
     "addr:postcode":"30067",
     "addr:street":"Windy Hill Rd Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.459994,33.910237,-84.459994,33.910237",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.459994,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3200 Windy Hill Rd SE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461899433,
-    "wof:geomhash":"c56c1d63d83c2572ca77374eb8332552",
+    "wof:geomhash":"1d3edba839ec009cb4626fb44ea9b4ee",
     "wof:hierarchy":[],
     "wof:id":723319069,
-    "wof:lastmodified":1472618847,
+    "wof:lastmodified":1534181653,
     "wof:name":"Envision Communications Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723455285
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "communications",

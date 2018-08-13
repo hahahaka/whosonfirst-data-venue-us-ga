@@ -7,6 +7,7 @@
     "addr:postcode":"30303",
     "addr:street":"Mitchell St Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.393718,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"170 Mitchell St SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461909404,
-    "wof:geomhash":"9765f752b237ccf86842968a816b5776",
+    "wof:geomhash":"46f6f21ff785e00e5c5cdc2240a6b481",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,15 @@
         }
     ],
     "wof:id":739552825,
-    "wof:lastmodified":1486682627,
+    "wof:lastmodified":1534181681,
     "wof:name":"Kramer and Thomas LLC",
     "wof:parent_id":1108797063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739924789,
+        739919843
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

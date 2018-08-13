@@ -14,6 +14,7 @@
     "geom:longitude":-84.257004,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5750 Windward Pkwy",
     "sg:city":"Alpharetta",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914928,
-    "wof:geomhash":"75c4d0f31f3ba3797baceb84a8084f24",
+    "wof:geomhash":"7fcb8a771f34f7dccf2500bb3076578e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":739779469,
-    "wof:lastmodified":1472619307,
+    "wof:lastmodified":1534181660,
     "wof:name":"Hertz Rent-A Car",
     "wof:parent_id":85843117,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739560487
+    ],
     "wof:tags":[
         "car"
     ]

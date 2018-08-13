@@ -14,6 +14,7 @@
     "geom:longitude":-84.427665,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6300 Powers Ferry Rd NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923649,
-    "wof:geomhash":"a46bbf72e0a5227d7fc5f393f10ccacc",
+    "wof:geomhash":"b90c2a5a66d7498b31e92bdc3c3765ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":739992683,
-    "wof:lastmodified":1472619703,
+    "wof:lastmodified":1534181690,
     "wof:name":"Sushi-Huku Japanese Restaurant",
     "wof:parent_id":85890005,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739992275
+    ],
     "wof:tags":[
         "japanese"
     ]

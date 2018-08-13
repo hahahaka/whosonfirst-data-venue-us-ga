@@ -7,6 +7,7 @@
     "addr:postcode":"30041",
     "addr:street":"Market Place Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.132585,34.18102,-84.132585,34.18102",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.132585,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"911 Market Place Blvd ",
     "sg:city":"Cumming",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914268,
-    "wof:geomhash":"1a35912df16d383c4489ee435eec0387",
+    "wof:geomhash":"c5830fb47d50d4a7389d7f4ef75105ac",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":739763299,
-    "wof:lastmodified":1472619280,
+    "wof:lastmodified":1534181662,
     "wof:name":"Mia's Pizza and Eats",
     "wof:parent_id":85842073,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739803631
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"

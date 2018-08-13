@@ -7,6 +7,7 @@
     "addr:postcode":"31750",
     "addr:street":"Thistle Ln",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.2583,31.793785,-83.2583,31.793785",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.2583,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"180 Thistle Ln",
     "sg:city":"Fitzgerald",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461926953,
-    "wof:geomhash":"289499cd4fe05b5fbc767638d3fecee0",
+    "wof:geomhash":"6c05947e81375ea00d0e8609721a66d6",
     "wof:hierarchy":[],
     "wof:id":740069723,
-    "wof:lastmodified":1472618204,
+    "wof:lastmodified":1534181645,
     "wof:name":"The Westberry Agency Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723294987
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial",

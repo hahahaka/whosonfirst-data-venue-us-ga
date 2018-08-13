@@ -7,6 +7,7 @@
     "addr:postcode":"30324",
     "addr:street":"Shady Valley Dr Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.346542,33.83551,-84.346542,33.83551",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.346542,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2636 Shady Valley Dr NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1461896183,
-    "wof:geomhash":"5cb06e09d143fda3226cb7a99a3cdcac",
+    "wof:geomhash":"7a0f17e35fd032a31481657dfb85536b",
     "wof:hierarchy":[],
     "wof:id":723154619,
-    "wof:lastmodified":1472618394,
+    "wof:lastmodified":1534181692,
     "wof:name":"Beauty Zone By Inna Ksperovich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739967965
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"

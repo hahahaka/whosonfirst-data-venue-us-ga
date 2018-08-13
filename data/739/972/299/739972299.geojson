@@ -15,6 +15,7 @@
     "geom:longitude":-84.434321,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3715 Northside Pkwy NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922839,
-    "wof:geomhash":"7b556f6fb0783165acf98879c07cc6a2",
+    "wof:geomhash":"219f7c026bffc03d382d92796b38cdf6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":739972299,
-    "wof:lastmodified":1486672061,
+    "wof:lastmodified":1534181686,
     "wof:name":"Greystone Valuation Services Inc",
     "wof:parent_id":420784715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723430761
+    ],
     "wof:tags":[
         "appraiser"
     ]

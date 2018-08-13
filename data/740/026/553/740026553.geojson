@@ -7,6 +7,7 @@
     "addr:postcode":"30519",
     "addr:street":"Buford Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.9842,34.071301,-83.9842,34.071301",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.9842,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3333 Buford Dr",
     "sg:city":"Buford",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924991,
-    "wof:geomhash":"2b38f79f8fc57e3c1677fd27ed5426b7",
+    "wof:geomhash":"49577cca510cd6f37f5929d4ba98a33f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,13 +55,17 @@
         }
     ],
     "wof:id":740026553,
-    "wof:lastmodified":1472617967,
+    "wof:lastmodified":1534181629,
     "wof:name":"Max Lager's American Grill",
     "wof:parent_id":85858547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        740027699
+    ],
+    "wof:supersedes":[
+        723176657
+    ],
     "wof:tags":[]
 },
   "bbox": [

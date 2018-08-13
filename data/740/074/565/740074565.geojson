@@ -7,6 +7,7 @@
     "addr:postcode":"31909",
     "addr:street":"Manchester Expy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.945455,32.506422,-84.945455,32.506422",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.945455,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3033 Manchester Expy",
     "sg:city":"Columbus",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461927160,
-    "wof:geomhash":"1266c72cfe37506a161599ba6b1534c1",
+    "wof:geomhash":"1e4a8403537b3acfed50132b112eaa0a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +51,14 @@
         }
     ],
     "wof:id":740074565,
-    "wof:lastmodified":1472618229,
+    "wof:lastmodified":1534181657,
     "wof:name":"Johnny Carino's Italian Restaurant",
     "wof:parent_id":85856927,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739774961
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

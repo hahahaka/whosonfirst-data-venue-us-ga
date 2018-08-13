@@ -7,6 +7,7 @@
     "addr:postcode":"30328",
     "addr:street":"Glenlake Pkwy Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.360017,33.938756,-84.360017,33.938756",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.360017,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"35 Glenlake Pkwy NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922940,
-    "wof:geomhash":"4ee8bed3b76dda00939356f3b2a87027",
+    "wof:geomhash":"ae62258590a10c87b6c04f19c6577cbd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,12 +72,14 @@
         }
     ],
     "wof:id":739974911,
-    "wof:lastmodified":1472619673,
+    "wof:lastmodified":1534181692,
     "wof:name":"United Parcel Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739976757
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "delivery",

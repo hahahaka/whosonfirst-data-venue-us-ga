@@ -7,6 +7,7 @@
     "addr:postcode":"30064",
     "addr:street":"S Marietta Pkwy Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.551509,33.951356,-84.551509,33.951356",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.551509,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"29 S Marietta Pkwy SW",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914301,
-    "wof:geomhash":"c48d78bf1ce79d434f18579a0d5117b7",
+    "wof:geomhash":"cb1a63737bd7be09e2184984c970c3cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,15 @@
         }
     ],
     "wof:id":739764051,
-    "wof:lastmodified":1472619262,
+    "wof:lastmodified":1534181664,
     "wof:name":"La Parilla",
     "wof:parent_id":85857593,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739779781,
+        739822827
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"

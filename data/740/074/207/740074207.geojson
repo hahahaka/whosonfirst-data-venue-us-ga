@@ -7,6 +7,7 @@
     "addr:postcode":"31907",
     "addr:street":"Saint Marys Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.926422,32.44574,-84.926422,32.44574",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.926422,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3930 Saint Marys Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461927148,
-    "wof:geomhash":"323d1b86bf1c1a9b2b04480fc10a5d20",
+    "wof:geomhash":"0e7fb73f572da91d3278fa790373988a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +51,14 @@
         }
     ],
     "wof:id":740074207,
-    "wof:lastmodified":1472618201,
+    "wof:lastmodified":1534181651,
     "wof:name":"Lightning Graphics Of Georgia Inc",
     "wof:parent_id":420518155,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739673659
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -2,18 +2,24 @@
   "id": 723076279,
   "type": "Feature",
   "properties": {
-    "addr:full":"376 Air Acres Way Woodstock GA 30188",
+    "addr:city":"Woodstock",
+    "addr:full":"376 Air Acres Way Woodstock, Ga 30188-2910",
+    "addr:house_number":"376",
     "addr:housenumber":"376",
-    "addr:postcode":"30188",
+    "addr:phone":"+1 770-517-6090",
+    "addr:postcode":"30188-2910",
+    "addr:road":"Air Acres Way",
+    "addr:state":"GA",
     "addr:street":"Air Acres Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-84.446811,34.106442,-84.446811,34.106442",
-    "geom:latitude":34.106442,
-    "geom:longitude":-84.446811,
+    "geom:bbox":"-84.44569,34.10821,-84.44569,34.10821",
+    "geom:latitude":34.10821,
+    "geom:longitude":-84.44569,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"376 Air Acres Way",
     "sg:city":"Woodstock",
     "sg:classifiers":[
@@ -30,19 +36,23 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "src:geom":"mudf",
+    "wof:airports":[],
+    "wof:belongsto":[
+        420517447
+    ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300440,
         "sg:id":"SG_71HPZPmXQpnPzOeIGpRmvz_34.106442_-84.446811@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461894608,
-    "wof:geomhash":"0a180ce8edeb54d4f84e763debae7eb0",
+    "wof:geomhash":"82e74049d1e1d25633f3bc719e6901b6",
     "wof:hierarchy":[],
     "wof:id":723076279,
-    "wof:lastmodified":1472618194,
-    "wof:name":"Air Acres Museum Inc",
+    "wof:lastmodified":1534181629,
+    "wof:name":"Air Acres Museum",
     "wof:parent_id":420517447,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
@@ -53,10 +63,10 @@
     ]
 },
   "bbox": [
-    -84.446811,
-    34.106442,
-    -84.446811,
-    34.106442
+    -84.44569,
+    34.10821,
+    -84.44569,
+    34.10821
 ],
-  "geometry": {"coordinates":[-84.446811,34.106442],"type":"Point"}
+  "geometry": {"coordinates":[-84.44569,34.10821],"type":"Point"}
 }

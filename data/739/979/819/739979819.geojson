@@ -14,6 +14,7 @@
     "geom:longitude":-84.311211,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2910 N Druid Hills Road NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923128,
-    "wof:geomhash":"e2a066ff6c5b73ead8593537c3e546c6",
+    "wof:geomhash":"576e1f1e4985e2b05113aedfe6465f52",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":739979819,
-    "wof:lastmodified":1472619701,
+    "wof:lastmodified":1534181694,
     "wof:name":"Arnold Joseph A MD",
     "wof:parent_id":85890013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722663909
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

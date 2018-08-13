@@ -2,18 +2,24 @@
   "id": 723096877,
   "type": "Feature",
   "properties": {
-    "addr:full":"2070 Rosebud Rd SW Grayson GA 30017",
+    "addr:city":"Grayson",
+    "addr:full":"2070 Rosebud Rd Grayson, Ga 30017",
+    "addr:house_number":"2070",
     "addr:housenumber":"2070",
+    "addr:phone":"+1 678-985-7775",
     "addr:postcode":"30017",
+    "addr:road":"Rosebud Rd",
+    "addr:state":"GA",
     "addr:street":"Rosebud Rd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-83.959648,33.895359,-83.959648,33.895359",
-    "geom:latitude":33.895359,
-    "geom:longitude":-83.959648,
+    "geom:bbox":"-83.9595,33.89349,-83.9595,33.89349",
+    "geom:latitude":33.89349,
+    "geom:longitude":-83.9595,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2070 Rosebud Rd SW",
     "sg:city":"Grayson",
     "sg:classifiers":[
@@ -32,20 +38,22 @@
         "arts",
         "information"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688535,
+        102082967,
         85633793,
-        85854851,
-        102082967
+        85688535,
+        85854851
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300077,
         "sg:id":"SG_3DjvNHat9kXIuISlysI6U8_33.895359_-83.959648@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461895057,
-    "wof:geomhash":"c5db232cc2021ac3ba511452adbe42b2",
+    "wof:geomhash":"d945a38c6f604bbd979b1b980d0065ed",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,8 +64,8 @@
         }
     ],
     "wof:id":723096877,
-    "wof:lastmodified":1472618289,
-    "wof:name":"Grayson Arts & History Ctr",
+    "wof:lastmodified":1534181635,
+    "wof:name":"Grayson Arts And History Center",
     "wof:parent_id":85854851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
@@ -70,10 +78,10 @@
     ]
 },
   "bbox": [
-    -83.959648,
-    33.895359,
-    -83.959648,
-    33.895359
+    -83.9595,
+    33.89349,
+    -83.9595,
+    33.89349
 ],
-  "geometry": {"coordinates":[-83.959648,33.895359],"type":"Point"}
+  "geometry": {"coordinates":[-83.95950000000001,33.89349],"type":"Point"}
 }

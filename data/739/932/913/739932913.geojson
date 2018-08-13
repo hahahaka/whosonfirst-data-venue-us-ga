@@ -15,6 +15,7 @@
     "geom:longitude":-84.351944,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1124 Dekalb Ave NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[],
@@ -38,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921146,
-    "wof:geomhash":"264e777aea172ab40c381da7d9de20d6",
+    "wof:geomhash":"7dc83c451f0e8296adf23b250adb22c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,13 +53,15 @@
         }
     ],
     "wof:id":739932913,
-    "wof:lastmodified":1486669461,
+    "wof:lastmodified":1534181680,
     "wof:name":"Beyond Events, Inc.",
     "wof:parent_id":85872125,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739932459
+    ],
     "wof:tags":[]
 },
   "bbox": [

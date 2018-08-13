@@ -7,6 +7,7 @@
     "addr:postcode":"30035",
     "addr:street":"Snapfinger Woods Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.173718,33.709365,-84.173718,33.709365",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.173718,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5243 Snapfinger Woods Dr",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461886488,
-    "wof:geomhash":"a0b1985e93e5c770ae8c3331dbe8ae5a",
+    "wof:geomhash":"adfbdcb3dd41f4c9e9bf62ce3249a2a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,15 @@
         }
     ],
     "wof:id":722674909,
-    "wof:lastmodified":1472618299,
+    "wof:lastmodified":1534181662,
     "wof:name":"William C Mc Garity Jr MD",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739655341,
+        739800269
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

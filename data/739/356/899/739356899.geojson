@@ -14,6 +14,7 @@
     "geom:longitude":-84.574249,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1074 Cobb Place Blvd NW",
     "sg:city":"Kennesaw",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461905755,
-    "wof:geomhash":"bcdbceb0b4050ce88315a703e24a7e1e",
+    "wof:geomhash":"d56746c3d711631995b7ab20d49ce042",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":739356899,
-    "wof:lastmodified":1472618229,
+    "wof:lastmodified":1534181639,
     "wof:name":"Towneplace Suites By Marriott",
     "wof:parent_id":85839059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739880089
+    ],
     "wof:tags":[
         "operation",
         "day"

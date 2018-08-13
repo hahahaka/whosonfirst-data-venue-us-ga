@@ -14,6 +14,7 @@
     "geom:longitude":-83.966721,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 Petty Rd",
     "sg:city":"Lawrenceville",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461911078,
-    "wof:geomhash":"297c3f762279fe812813c3e06af41f2e",
+    "wof:geomhash":"e6af140a13cee643baca4260420bd824",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,13 +59,16 @@
         }
     ],
     "wof:id":739632467,
-    "wof:lastmodified":1472618948,
+    "wof:lastmodified":1534181650,
     "wof:name":"Simplex Fasteners",
     "wof:parent_id":85853829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723237857,
+        722781885
+    ],
     "wof:tags":[
         "industrial",
         "center",

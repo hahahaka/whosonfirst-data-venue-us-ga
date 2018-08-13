@@ -7,6 +7,7 @@
     "addr:postcode":"30607",
     "addr:street":"Commerce Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.379923,33.993719,-83.379923,33.993719",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.379923,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1675 Commerce Rd",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461913285,
-    "wof:geomhash":"f5615c9e7f85df8c64620858ddda2d6e",
+    "wof:geomhash":"957d4f68675d4e379227b3a10a4229c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":739734297,
-    "wof:lastmodified":1472619190,
+    "wof:lastmodified":1534181627,
     "wof:name":"Riverside Mower Inc",
     "wof:parent_id":85807659,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740034381
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment",

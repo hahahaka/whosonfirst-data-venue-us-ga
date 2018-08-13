@@ -7,6 +7,7 @@
     "addr:postcode":"30060",
     "addr:street":"S Cobb Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.551261,33.926108,-84.551261,33.926108",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.551261,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1100 S Cobb Dr",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461896742,
-    "wof:geomhash":"41f3461825ce07e18150c677a3669aef",
+    "wof:geomhash":"a25abd93757d8f6ca440b0f76648bcec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":723182811,
-    "wof:lastmodified":1472618478,
+    "wof:lastmodified":1534181666,
     "wof:name":"Hill & Assoc",
     "wof:parent_id":85857593,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739817009
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"

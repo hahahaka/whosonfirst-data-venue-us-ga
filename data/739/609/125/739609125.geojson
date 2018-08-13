@@ -7,6 +7,7 @@
     "addr:postcode":"30342",
     "addr:street":"Johnson Ferry Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.356729,33.907476,-84.356729,33.907476",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.356729,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"993 Johnson Ferry Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461910588,
-    "wof:geomhash":"5ef31a99068f99f5e05ea443d95d5584",
+    "wof:geomhash":"029c85540215f724aae7c2f61db18557",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,15 @@
         }
     ],
     "wof:id":739609125,
-    "wof:lastmodified":1472618856,
+    "wof:lastmodified":1534181652,
     "wof:name":"Fitness Fourm Physical Therapy",
     "wof:parent_id":85890019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740002413,
+        723442201
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "club",

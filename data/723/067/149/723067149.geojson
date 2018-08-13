@@ -15,6 +15,7 @@
     "geom:longitude":-84.39836,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"477 Windsor St SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461894372,
-    "wof:geomhash":"f6db77b4e8ce54df000e10838b94dd70",
+    "wof:geomhash":"b53fa87ef714bb253c49c55a83a5a63f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +64,16 @@
         }
     ],
     "wof:id":723067149,
-    "wof:lastmodified":1486667889,
+    "wof:lastmodified":1534181628,
     "wof:name":"Center-Black Women's Wellness",
     "wof:parent_id":85833641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739952125,
+        723234035
+    ],
     "wof:tags":[
         "organization",
         "welfare"

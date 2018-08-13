@@ -7,6 +7,7 @@
     "addr:postcode":"30345",
     "addr:street":"Century Blvd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.314102,33.845699,-84.314102,33.845699",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.314102,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1756 Century Blvd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -40,15 +42,18 @@
     },
     "wof:country":"US",
     "wof:created":1461924276,
-    "wof:geomhash":"99653988854e1fa197f212e4f42ca24c",
+    "wof:geomhash":"f6a2257cc3ff72d7d22bfa97e9c1d167",
     "wof:hierarchy":[],
     "wof:id":740009157,
-    "wof:lastmodified":1472617835,
+    "wof:lastmodified":1534181647,
     "wof:name":"Lucyshyn Patricia Hoin PC Atty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722763067,
+        739600941
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "divorce",

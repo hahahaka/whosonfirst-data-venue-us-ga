@@ -7,6 +7,7 @@
     "addr:postcode":"30047",
     "addr:street":"Arcado Rd Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.116956,33.896744,-84.116956,33.896744",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.116956,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"144 Arcado Rd NW",
     "sg:city":"Lilburn",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916365,
-    "wof:geomhash":"4921540597f7bc7c8b0a3412fe22de49",
+    "wof:geomhash":"97b3ef5d543f08e330d8206fb37a4b22",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":739811443,
-    "wof:lastmodified":1472619387,
+    "wof:lastmodified":1534181628,
     "wof:name":"Critter Getters Exterminating Company",
     "wof:parent_id":85803655,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739300301
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

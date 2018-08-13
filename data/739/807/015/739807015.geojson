@@ -7,6 +7,7 @@
     "addr:postcode":"30044",
     "addr:street":"Shannon Way",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.067291,33.94157,-84.067291,33.94157",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.067291,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"713 Shannon Way",
     "sg:city":"Lawrenceville",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916160,
-    "wof:geomhash":"4bf8058e074ea0ecbdd8899cf12c9b19",
+    "wof:geomhash":"a30903151767c7bed0e70ec650dab40e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":739807015,
-    "wof:lastmodified":1472619344,
+    "wof:lastmodified":1534181638,
     "wof:name":"Plantation Woods Swim & Tennis",
     "wof:parent_id":85808181,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739355401
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "pools-private"

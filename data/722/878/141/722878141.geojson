@@ -7,6 +7,7 @@
     "addr:postcode":"31313",
     "addr:street":"General Screven Way",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-81.597808,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"209 General Screven Way",
     "sg:city":"Hinesville",
     "sg:classifiers":[
@@ -61,12 +62,14 @@
         }
     ],
     "wof:id":722878141,
-    "wof:lastmodified":1511996359,
+    "wof:lastmodified":1534181659,
     "wof:name":"Arbys",
     "wof:parent_id":85803773,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739772661
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

@@ -7,6 +7,7 @@
     "addr:postcode":"30309",
     "addr:street":"W Peachtree Street Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.387538,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1601 W Peachtree Street NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921712,
-    "wof:geomhash":"9ef47a9edf2b462af3ef99ad763d1ff3",
+    "wof:geomhash":"0ca39142f49d6f494263b348e57eecf6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,18 @@
         }
     ],
     "wof:id":739945237,
-    "wof:lastmodified":1486671348,
+    "wof:lastmodified":1534181685,
     "wof:name":"WBTS 95.5 FM The Beat",
     "wof:parent_id":85872127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739942589,
+        739939265
+    ],
+    "wof:supersedes":[
+        722762009
+    ],
     "wof:tags":[]
 },
   "bbox": [

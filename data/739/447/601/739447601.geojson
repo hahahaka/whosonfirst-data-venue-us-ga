@@ -7,6 +7,7 @@
     "addr:postcode":"30248",
     "addr:street":"Tanger Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.121366,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1000 Tanger Dr",
     "sg:city":"Locust Grove",
     "sg:classifiers":[
@@ -41,12 +42,14 @@
     "wof:geomhash":"d2582a6a1cb1df2cb8d9ab08abfeda53",
     "wof:hierarchy":[],
     "wof:id":739447601,
-    "wof:lastmodified":1510694641,
+    "wof:lastmodified":1534181648,
     "wof:name":"Samsonite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723362299
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

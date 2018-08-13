@@ -7,6 +7,7 @@
     "addr:postcode":"30701",
     "addr:street":"Peters St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.947629,34.490346,-84.947629,34.490346",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.947629,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"100 Peters St",
     "sg:city":"Calhoun",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461895531,
-    "wof:geomhash":"326e1295122b6bac3ce8b59e77388371",
+    "wof:geomhash":"7046484cdc7fba6f8906829b4ac62dc9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":723120657,
-    "wof:lastmodified":1472618332,
+    "wof:lastmodified":1534181621,
     "wof:name":"Wild Violet",
     "wof:parent_id":85817247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723041405
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"

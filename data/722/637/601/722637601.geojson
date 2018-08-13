@@ -2,19 +2,25 @@
   "id": 722637601,
   "type": "Feature",
   "properties": {
-    "addr:full":"4109 Statewood Rd NE Atlanta GA 30342",
+    "addr:city":"Atlanta",
+    "addr:full":"4109 Statewood Rd Ne Atlanta, Ga 30342",
+    "addr:house_number":"4109",
     "addr:housenumber":"4109",
+    "addr:phone":"+1 404-266-9867",
     "addr:postcode":"30342",
+    "addr:road":"Statewood Rd Ne",
+    "addr:state":"GA",
     "addr:street":"Statewood Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-84.366656,33.862986,-84.366656,33.862986",
-    "geom:latitude":33.862986,
-    "geom:longitude":-84.366656,
+    "geom:bbox":"-84.36667,33.86729,-84.36667,33.86729",
+    "geom:latitude":33.86729,
+    "geom:longitude":-84.36667,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4109 Statewood Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -31,7 +37,11 @@
     "sg:tags":[
         "business"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525899,
+        102526927
+    ],
     "wof:belongsto":[
         85872103,
         102191575,
@@ -43,11 +53,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300004,
         "sg:id":"SG_149hhz5Bi5Y0qjJFSXVA8N_33.862986_-84.366656@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461885797,
-    "wof:geomhash":"d65d771159efbdb258126930a248ad38",
+    "wof:geomhash":"9ab594261595456ae6ba03954ffe08d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,8 +72,8 @@
         }
     ],
     "wof:id":722637601,
-    "wof:lastmodified":1486671559,
-    "wof:name":"Womens Museums of The World",
+    "wof:lastmodified":1534181633,
+    "wof:name":"Women'S Museums Of World",
     "wof:parent_id":85872103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
@@ -73,10 +84,10 @@
     ]
 },
   "bbox": [
-    -84.366656,
-    33.862986,
-    -84.366656,
-    33.862986
+    -84.36667,
+    33.86729,
+    -84.36667,
+    33.86729
 ],
-  "geometry": {"coordinates":[-84.36665600000001,33.862986],"type":"Point"}
+  "geometry": {"coordinates":[-84.36667,33.86729],"type":"Point"}
 }

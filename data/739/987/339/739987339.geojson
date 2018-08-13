@@ -14,6 +14,7 @@
     "geom:longitude":-84.314644,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4536 Chamblee Dunwoody Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -59,7 +60,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923450,
-    "wof:geomhash":"86d28170b0c75eefd8a4bcee76cdca86",
+    "wof:geomhash":"83572dba99ad26cc10b4df6109389f29",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,13 +73,17 @@
         }
     ],
     "wof:id":739987339,
-    "wof:lastmodified":1472619681,
+    "wof:lastmodified":1534181699,
     "wof:name":"Kelleher, Robert M, Md - Family Dermatology-Chamblee",
     "wof:parent_id":85890023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739987081,
+        723366443,
+        739655603
+    ],
     "wof:tags":[
         "dermatology",
         "physician",

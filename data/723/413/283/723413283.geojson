@@ -7,6 +7,7 @@
     "addr:postcode":"ga 30165",
     "addr:street":"Big;Valley Rd Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.271934,34.37814,-85.271934,34.37814",
@@ -14,6 +15,7 @@
     "geom:longitude":-85.271934,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5390 Big Texas Valley Rd NW",
     "sg:city":"Rome",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1461901230,
-    "wof:geomhash":"c9130438e8ed0a1d36065c9337b27c36",
+    "wof:geomhash":"9b6df5621628b399cd44d50d913a6a6f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":723413283,
-    "wof:lastmodified":1472619150,
+    "wof:lastmodified":1534181673,
     "wof:name":"International Assoc of El",
     "wof:parent_id":85821049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739883479
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

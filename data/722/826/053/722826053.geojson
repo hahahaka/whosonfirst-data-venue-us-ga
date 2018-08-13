@@ -14,6 +14,7 @@
     "geom:longitude":-84.963198,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3031 Williams Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461889376,
-    "wof:geomhash":"f30bcad2c85b0af49cd269354ce36ef9",
+    "wof:geomhash":"5c3f7e8b52e1003ef64681187490ffd9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":722826053,
-    "wof:lastmodified":1472618671,
+    "wof:lastmodified":1534181644,
     "wof:name":"Advanced Dermatology Ctr",
     "wof:parent_id":85841281,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740074681
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

@@ -14,6 +14,7 @@
     "geom:longitude":-84.432827,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6445 Powers Ferry Road NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923682,
-    "wof:geomhash":"acf8ed65cf4468475f4cfd6f74cc4807",
+    "wof:geomhash":"ee63b1771226d79a5a3a2ed0ef083eaa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":739993641,
-    "wof:lastmodified":1472619703,
+    "wof:lastmodified":1534181698,
     "wof:name":"Design Management Associates",
     "wof:parent_id":85890005,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739248171
+    ],
     "wof:tags":[
         "interior",
         "design"

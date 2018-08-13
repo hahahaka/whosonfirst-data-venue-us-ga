@@ -14,6 +14,7 @@
     "geom:longitude":-84.568837,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3350 George Busbee Pkwy NW",
     "sg:city":"Kennesaw",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461919022,
-    "wof:geomhash":"f3c9df1048ed7fc32fa122b213328305",
+    "wof:geomhash":"ef94586d76c7b203e4b1edfb391ef4e6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":739878971,
-    "wof:lastmodified":1472619516,
+    "wof:lastmodified":1534181673,
     "wof:name":"The Mill At Chastain",
     "wof:parent_id":85821545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739878639
+    ],
     "wof:tags":[
         "apartment"
     ]

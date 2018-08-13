@@ -7,6 +7,7 @@
     "addr:postcode":"31401",
     "addr:street":"W Jones St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-81.09553,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"107 W Jones St",
     "sg:city":"Savannah",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1461926445,
-    "wof:geomhash":"8c6b38078a5c08ed915b5941adb592e4",
+    "wof:geomhash":"ff6c028e37a9a49975d1fbc5416cb442",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":740057945,
-    "wof:lastmodified":1491893411,
+    "wof:lastmodified":1534181659,
     "wof:name":"Mrs. Wilkes' Boarding House",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739772875
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

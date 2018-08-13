@@ -2,18 +2,24 @@
   "id": 739889229,
   "type": "Feature",
   "properties": {
-    "addr:full":"1991 Highway 54 W Fayetteville GA 30214",
+    "addr:city":"Fayetteville",
+    "addr:full":"1991 Highway 54 W Fayetteville, Ga 30214",
+    "addr:house_number":"1991",
     "addr:housenumber":"1991",
+    "addr:phone":"+1 770-487-1979",
     "addr:postcode":"30214",
+    "addr:road":"Highway 54 W",
+    "addr:state":"GA",
     "addr:street":"Highway 54 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-84.556349,33.429399,-84.556349,33.429399",
-    "geom:latitude":33.429399,
-    "geom:longitude":-84.556349,
+    "geom:bbox":"-84.57765,33.41623,-84.57765,33.41623",
+    "geom:latitude":33.41623,
+    "geom:longitude":-84.57765,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1991 Highway 54 W",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -27,21 +33,23 @@
     "sg:phone":"+1 770 487 1979",
     "sg:postcode":"30214",
     "sg:province":"GA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688535,
+        85847943,
         85633793,
         85936021,
         102081687,
-        85847943
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300064,
         "sg:id":"SG_5TdGGL9Bs4LPTVaB8LXkz6_33.429399_-84.556349@1303262598"
     },
     "wof:country":"US",
     "wof:created":1461919405,
-    "wof:geomhash":"4a9d3e4f43a0e4b437afb4f09f6c7d00",
+    "wof:geomhash":"e8b3b7a457ab011a0fe315d51e42abfa",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,8 +61,8 @@
         }
     ],
     "wof:id":739889229,
-    "wof:lastmodified":1472619496,
-    "wof:name":"Linda's Playhouse Inc",
+    "wof:lastmodified":1534181701,
+    "wof:name":"Linda'S Playhouse",
     "wof:parent_id":85847943,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -84.556349,
-    33.429399,
-    -84.556349,
-    33.429399
+    -84.57765,
+    33.41623,
+    -84.57765,
+    33.41623
 ],
-  "geometry": {"coordinates":[-84.556349,33.429399],"type":"Point"}
+  "geometry": {"coordinates":[-84.57765000000001,33.41623],"type":"Point"}
 }

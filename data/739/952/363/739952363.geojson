@@ -15,6 +15,7 @@
     "geom:longitude":-84.371902,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"315 Boulevard NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922052,
-    "wof:geomhash":"dc0178b111b19e964e38883ea0a7c27f",
+    "wof:geomhash":"0dc624f2180858f13f660a7cee3056be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":739952363,
-    "wof:lastmodified":1491912330,
+    "wof:lastmodified":1534181687,
     "wof:name":"Lue John MD",
     "wof:parent_id":85872109,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739950529
+    ],
     "wof:tags":[
         "obstetrician",
         "gynecologist"

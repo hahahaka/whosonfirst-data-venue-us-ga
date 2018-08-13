@@ -14,6 +14,7 @@
     "geom:longitude":-84.4655,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 Galleria Parkway SE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923570,
-    "wof:geomhash":"b11bd6e4f5f5f8a2448fe392c2df1961",
+    "wof:geomhash":"47de16ddaebb13ffee4c7601481d3ba3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":739990465,
-    "wof:lastmodified":1472619695,
+    "wof:lastmodified":1534181701,
     "wof:name":"Fieldstone Mortgage",
     "wof:parent_id":85813197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723015995
+    ],
     "wof:tags":[
         "broker",
         "mortgage"

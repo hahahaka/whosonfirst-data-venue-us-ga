@@ -15,6 +15,7 @@
     "geom:longitude":-84.3936,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"190 Marietta St NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920668,
-    "wof:geomhash":"a3d086327bf5dcf97f6eadb9464922fa",
+    "wof:geomhash":"96780d19c2660578cb634bea65be3e05",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,16 @@
         }
     ],
     "wof:id":739921983,
-    "wof:lastmodified":1486682398,
+    "wof:lastmodified":1534181682,
     "wof:name":"McCormick & Schmick's Restaurant",
     "wof:parent_id":1108797051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739767883,
+        739552259
+    ],
     "wof:tags":[]
 },
   "bbox": [

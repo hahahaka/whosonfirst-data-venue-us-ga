@@ -14,6 +14,7 @@
     "geom:longitude":-84.337799,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"861 Holcomb Bridge Rd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461917389,
-    "wof:geomhash":"e4d899bde3ba6c484fbd1d52b6d813c6",
+    "wof:geomhash":"c9d1cf5376496e4ac8b299b5b8273a78",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":739837379,
-    "wof:lastmodified":1472619440,
+    "wof:lastmodified":1534181667,
     "wof:name":"Driver License Reinstatement",
     "wof:parent_id":85889949,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739837011
+    ],
     "wof:tags":[
         "school",
         "driving"

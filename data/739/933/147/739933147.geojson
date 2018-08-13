@@ -2,18 +2,24 @@
   "id": 739933147,
   "type": "Feature",
   "properties": {
-    "addr:full":"1820 Ponce de Leon Ave NE Atlanta GA 30307",
+    "addr:city":"Atlanta",
+    "addr:full":"1820 Ponce De Leon Ave Ne Atlanta, Ga 30307",
+    "addr:house_number":"1820",
     "addr:housenumber":"1820",
+    "addr:phone":"+1 404-929-6300",
     "addr:postcode":"30307",
+    "addr:road":"Ponce De Leon Ave Ne",
+    "addr:state":"GA",
     "addr:street":"Ponce De Leon Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-84.327011,33.772072,-84.327011,33.772072",
-    "geom:latitude":33.772072,
-    "geom:longitude":-84.327011,
+    "geom:bbox":"-84.3305,33.77441,-84.3305,33.77441",
+    "geom:latitude":33.77441,
+    "geom:longitude":-84.3305,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1820 Ponce de Leon Ave NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -28,7 +34,11 @@
     "sg:postcode":"30307",
     "sg:province":"GA",
     "sg:website":"http://www.fernbankmuseum.org/",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525899,
+        102526927
+    ],
     "wof:belongsto":[
         85688535,
         102191575,
@@ -39,11 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300088,
         "sg:id":"SG_4rdv9L91qZYb50VNYTZPcH_33.772072_-84.327011@1303262609"
     },
     "wof:country":"US",
     "wof:created":1461921154,
-    "wof:geomhash":"0fab36436f6762c0f0ccdca119c6b700",
+    "wof:geomhash":"229b648f24998448f4dc438dca3ef1f7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,8 +67,8 @@
         }
     ],
     "wof:id":739933147,
-    "wof:lastmodified":1472619584,
-    "wof:name":"Fernbank Museum of Natural History",
+    "wof:lastmodified":1534181701,
+    "wof:name":"Fernbank Museum Of Natural History",
     "wof:parent_id":85872093,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
@@ -66,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -84.327011,
-    33.772072,
-    -84.327011,
-    33.772072
+    -84.3305,
+    33.77441,
+    -84.3305,
+    33.77441
 ],
-  "geometry": {"coordinates":[-84.327011,33.772072],"type":"Point"}
+  "geometry": {"coordinates":[-84.3305,33.77441],"type":"Point"}
 }

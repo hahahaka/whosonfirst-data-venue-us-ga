@@ -14,6 +14,7 @@
     "geom:longitude":-84.021004,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"585 W Pike St",
     "sg:city":"Lawrenceville",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916250,
-    "wof:geomhash":"563449d4b048670326fb4887e41cadce",
+    "wof:geomhash":"a231b5176c64adc852ea200ddb41aab0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":739809165,
-    "wof:lastmodified":1472619383,
+    "wof:lastmodified":1534181662,
     "wof:name":"One Chinese Super Buffet",
     "wof:parent_id":85851103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739666693
+    ],
     "wof:tags":[
         "chinese"
     ]

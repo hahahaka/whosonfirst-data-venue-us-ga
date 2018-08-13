@@ -7,6 +7,7 @@
     "addr:postcode":"31909",
     "addr:street":"Adams Farm Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.952343,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2650 Adams Farm Dr",
     "sg:city":"Columbus",
     "sg:classifiers":[],
@@ -53,12 +54,14 @@
         }
     ],
     "wof:id":740074605,
-    "wof:lastmodified":1511319382,
+    "wof:lastmodified":1534181658,
     "wof:name":"Hooters",
     "wof:parent_id":420518113,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739774967
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

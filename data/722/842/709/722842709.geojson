@@ -7,6 +7,7 @@
     "addr:postcode":"30268",
     "addr:street":"Tommy Lee Cook Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.691886,33.506882,-84.691886,33.506882",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.691886,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"409 Tommy Lee Cook Rd",
     "sg:city":"Palmetto",
     "sg:classifiers":[
@@ -48,15 +50,17 @@
     },
     "wof:country":"US",
     "wof:created":1461889677,
-    "wof:geomhash":"8dc025d62941274525e62aac00866b17",
+    "wof:geomhash":"cd963b40bf460e10ad9c5c9e88a3b96d",
     "wof:hierarchy":[],
     "wof:id":722842709,
-    "wof:lastmodified":1472618770,
+    "wof:lastmodified":1534181675,
     "wof:name":"Steadham Grading Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739901937
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "land",

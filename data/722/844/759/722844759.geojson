@@ -7,6 +7,7 @@
     "addr:postcode":"30084",
     "addr:street":"Wedgewood Way",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.201407,33.885757,-84.201407,33.885757",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.201407,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6522 Wedgewood Way",
     "sg:city":"Tucker",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461889714,
-    "wof:geomhash":"9314a9d3518df20224755df1003ecf3e",
+    "wof:geomhash":"61307a789f7a52f6a5313bda29213a96",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":722844759,
-    "wof:lastmodified":1472618766,
+    "wof:lastmodified":1534181668,
     "wof:name":"American KSS Inc",
     "wof:parent_id":85803655,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739847927
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "assembler",

@@ -7,6 +7,7 @@
     "addr:postcode":"30303",
     "addr:street":"Peachtree Street Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.38751,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"233 Peachtree Street NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920635,
-    "wof:geomhash":"4a3f10824614975da4d76e5369109503",
+    "wof:geomhash":"7ee6d96225a003bc55b7560ab8a6fa95",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +65,17 @@
         }
     ],
     "wof:id":739921233,
-    "wof:lastmodified":1486673013,
+    "wof:lastmodified":1534181682,
     "wof:name":"Curtis Thruston",
     "wof:parent_id":1108797061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739922605
+    ],
+    "wof:supersedes":[
+        739920165
+    ],
     "wof:tags":[
         "litigation"
     ]

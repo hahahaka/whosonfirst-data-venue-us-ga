@@ -14,6 +14,7 @@
     "geom:longitude":-84.299552,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2201 Savoy Dr",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923931,
-    "wof:geomhash":"bd6d9cf8652935e6758e2294b1bbb1a9",
+    "wof:geomhash":"b2c358db80a3df9baea789a7ff157797",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":739999979,
-    "wof:lastmodified":1472619714,
+    "wof:lastmodified":1534181700,
     "wof:name":"Wild Ginger",
     "wof:parent_id":85890023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739997617
+    ],
     "wof:tags":[
         "thai"
     ]

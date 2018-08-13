@@ -7,6 +7,7 @@
     "addr:postcode":"30114",
     "addr:street":"Riverstone Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.469538,34.252871,-84.469538,34.252871",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.469538,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1558 Riverstone Pkwy",
     "sg:city":"Canton",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461918519,
-    "wof:geomhash":"27a9dd9a276e6fe701f5805bcc676671",
+    "wof:geomhash":"fb3ee18e572f14d7bb0ffc5b272c0bfc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +51,14 @@
         }
     ],
     "wof:id":739865641,
-    "wof:lastmodified":1472619512,
+    "wof:lastmodified":1534181670,
     "wof:name":"Dos Margaritas",
     "wof:parent_id":420517523,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739867291
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

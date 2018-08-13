@@ -7,6 +7,7 @@
     "addr:postcode":"30310",
     "addr:street":"Whitehall St Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.40964,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"691 Whitehall St SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461889454,
-    "wof:geomhash":"388f5a110cb1832c264d9db242e2d434",
+    "wof:geomhash":"4f835c9b79ce4476fd4b6cc08003c663",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":722830421,
-    "wof:lastmodified":1491930364,
+    "wof:lastmodified":1534181685,
     "wof:name":"Optimal Services Inc",
     "wof:parent_id":420518005,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739948279
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "home",

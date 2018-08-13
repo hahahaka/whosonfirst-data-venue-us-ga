@@ -7,6 +7,7 @@
     "addr:postcode":"30318",
     "addr:street":"Chattahoochee Ave Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.437808,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"935 Chattahoochee Ave NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461898510,
-    "wof:geomhash":"efeda8ea05a151b895a93971d46eb564",
+    "wof:geomhash":"29a5cabc7354afb6d4db105d6a056a28",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":723270345,
-    "wof:lastmodified":1486668992,
+    "wof:lastmodified":1534181687,
     "wof:name":"Buckhead Jewelry Corp",
     "wof:parent_id":85857119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739960421
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "repair",

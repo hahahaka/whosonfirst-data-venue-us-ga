@@ -7,6 +7,7 @@
     "addr:postcode":"30309",
     "addr:street":"Peachtree St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.384026,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"999 Peachtree St",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921542,
-    "wof:geomhash":"44d0e5cba756fe7d32adf239e1419b08",
+    "wof:geomhash":"ac3824d5d5123bf8b2aecf7624ccec86",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +67,15 @@
         }
     ],
     "wof:id":739941743,
-    "wof:lastmodified":1486669133,
+    "wof:lastmodified":1534181684,
     "wof:name":"Becker , Bruce H. - Needle & Rosenberg I",
     "wof:parent_id":85866909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722643879,
+        739944193
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney",

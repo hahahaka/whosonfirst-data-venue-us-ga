@@ -7,6 +7,7 @@
     "addr:postcode":"30144",
     "addr:street":"Cobb Place Blvd Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.586486,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"851 Cobb Place Blvd NW",
     "sg:city":"Kennesaw",
     "sg:classifiers":[
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":723260451,
-    "wof:lastmodified":1510695908,
+    "wof:lastmodified":1534181658,
     "wof:name":"Chilis",
     "wof:parent_id":85839059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739766161
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -14,6 +14,7 @@
     "geom:longitude":-84.442619,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1827 Powers Ferry Rd SE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -39,16 +40,19 @@
     },
     "wof:country":"US",
     "wof:created":1461923627,
-    "wof:geomhash":"8fcec97d566447e9c646dd43d8364133",
+    "wof:geomhash":"cd42816fcc16bfea0e22c21177d8ca50",
     "wof:hierarchy":[],
     "wof:id":739992037,
-    "wof:lastmodified":1472619686,
+    "wof:lastmodified":1534181699,
     "wof:name":"Powers Ferry Psychological Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739990253,
+        723239077
+    ],
     "wof:tags":[
         "psychologist"
     ]

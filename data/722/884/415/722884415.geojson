@@ -7,6 +7,7 @@
     "addr:postcode":"30033",
     "addr:street":"N Decatur Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.271244,33.79364,-84.271244,33.79364",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.271244,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3019 N Decatur Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461890474,
-    "wof:geomhash":"e362759894d214956bc44d9f5403d1a3",
+    "wof:geomhash":"53d2af83a292850d36252bac3a43f312",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":722884415,
-    "wof:lastmodified":1472618863,
+    "wof:lastmodified":1534181661,
     "wof:name":"Dekalb Fire Protection Svc Inc",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739798229
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "fire",

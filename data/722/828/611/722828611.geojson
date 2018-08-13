@@ -7,6 +7,7 @@
     "addr:postcode":"30306",
     "addr:street":"Ralph Mcgill Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.358607,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"820 Ralph McGill Blvd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461889423,
-    "wof:geomhash":"d5d23f5878a48ed8b838ebc1521ef89e",
+    "wof:geomhash":"1f22570d4e2654329af346cdb661f000",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":722828611,
-    "wof:lastmodified":1486670041,
+    "wof:lastmodified":1534181682,
     "wof:name":"Mom-O-Rama Inc",
     "wof:parent_id":85872121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739932337
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "studio",

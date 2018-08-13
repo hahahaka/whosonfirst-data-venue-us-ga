@@ -14,6 +14,7 @@
     "geom:longitude":-84.258006,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4001 Presidential Parkway",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923765,
-    "wof:geomhash":"0f7e1b304857e4c5bafa9cadc93f027b",
+    "wof:geomhash":"e957509c8eb29415781a4bd2921516b4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +55,15 @@
         }
     ],
     "wof:id":739995509,
-    "wof:lastmodified":1472619706,
+    "wof:lastmodified":1534181698,
     "wof:name":"A Confidence Limousine Service",
     "wof:parent_id":85889941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723052325
+    ],
     "wof:tags":[
         "limo"
     ]

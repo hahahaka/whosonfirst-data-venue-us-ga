@@ -14,6 +14,7 @@
     "geom:longitude":-84.459764,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"340 Interstate North Pkwy SE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461912203,
-    "wof:geomhash":"848bb74c97c06acc1a46046a42b302c5",
+    "wof:geomhash":"a4d1fa809b6bba1dd10157a2cb21675c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,16 @@
         }
     ],
     "wof:id":739682907,
-    "wof:lastmodified":1472619098,
+    "wof:lastmodified":1534181652,
     "wof:name":"Crouse & Company PC CPA",
     "wof:parent_id":85813197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739541081,
+        739423471
+    ],
     "wof:tags":[
         "auditing",
         "bookkeeping"

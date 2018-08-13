@@ -7,6 +7,7 @@
     "addr:postcode":"31909",
     "addr:street":"Williams Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.945149,32.564567,-84.945149,32.564567",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.945149,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3031 Williams Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -60,7 +62,7 @@
     },
     "wof:country":"US",
     "wof:created":1461927165,
-    "wof:geomhash":"cb31be22d84d33ad324ec113028b69b3",
+    "wof:geomhash":"91647b19a597ee9c0af0c9e4ee2f9d5a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,12 +75,14 @@
         }
     ],
     "wof:id":740074681,
-    "wof:lastmodified":1472618233,
+    "wof:lastmodified":1534181644,
     "wof:name":"Advanced Dermatology Center",
     "wof:parent_id":420518161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722826053
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dermatology",

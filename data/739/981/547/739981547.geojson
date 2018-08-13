@@ -2,18 +2,23 @@
   "id": 739981547,
   "type": "Feature",
   "properties": {
-    "addr:full":"1600 Clifton Rd NE Atlanta GA 30329",
+    "addr:city":"Atlanta",
+    "addr:full":"1600 Clifton Road Ne Atlanta, Ga 30329-4027",
+    "addr:house_number":"1600",
     "addr:housenumber":"1600",
-    "addr:postcode":"30329",
+    "addr:postcode":"30329-4027",
+    "addr:road":"Clifton Road Ne",
+    "addr:state":"GA",
     "addr:street":"Clifton Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-84.324799,33.7995,-84.324799,33.7995",
-    "geom:latitude":33.7995,
-    "geom:longitude":-84.324799,
+    "geom:bbox":"-84.33421,33.808,-84.33421,33.808",
+    "geom:latitude":33.808,
+    "geom:longitude":-84.33421,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1600 Clifton Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -36,7 +41,11 @@
         "medical"
     ],
     "sg:website":"www.cdc.gov",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525899,
+        102526927
+    ],
     "wof:belongsto":[
         85688535,
         102191575,
@@ -47,11 +56,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409500372,
         "sg:id":"SG_0ejzb1pMsl5hyrfFBqmtMh_33.799500_-84.324799@1303262622"
     },
     "wof:country":"US",
     "wof:created":1461923196,
-    "wof:geomhash":"fe8373199b6e5d322e6074d6d6418dfd",
+    "wof:geomhash":"6cbbbbd35140dd96856623103dffb7d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,8 +74,8 @@
         }
     ],
     "wof:id":739981547,
-    "wof:lastmodified":1472619688,
-    "wof:name":"CDC - Center for Disease Control",
+    "wof:lastmodified":1534181701,
+    "wof:name":"David J. Sencer Center For Disease Control Museum",
     "wof:parent_id":85889951,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
@@ -76,10 +86,10 @@
     ]
 },
   "bbox": [
-    -84.324799,
-    33.7995,
-    -84.324799,
-    33.7995
+    -84.33421,
+    33.808,
+    -84.33421,
+    33.808
 ],
-  "geometry": {"coordinates":[-84.324799,33.7995],"type":"Point"}
+  "geometry": {"coordinates":[-84.33421,33.808],"type":"Point"}
 }

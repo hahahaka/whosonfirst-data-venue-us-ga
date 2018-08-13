@@ -14,6 +14,7 @@
     "geom:longitude":-84.356906,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"980 Johnson Ferry Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461912003,
-    "wof:geomhash":"6472229a82cfc40b8ee80aa9283737f1",
+    "wof:geomhash":"09d7ad41f485b963362f252b6d63c169",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":739672715,
-    "wof:lastmodified":1472619050,
+    "wof:lastmodified":1534181651,
     "wof:name":"Samuel E Webster MD",
     "wof:parent_id":85890019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740005523
+    ],
     "wof:tags":[
         "physician",
         "surgeon",

@@ -7,6 +7,7 @@
     "addr:postcode":"30094",
     "addr:street":"Goode Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.051861,33.604322,-84.051861,33.604322",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.051861,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1921 Goode Rd",
     "sg:city":"Conyers",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1461887577,
-    "wof:geomhash":"53e96032465c844d4f943800a0cbeb1e",
+    "wof:geomhash":"6c18925be56c7e5b41dd70b080fab650",
     "wof:hierarchy":[],
     "wof:id":722731785,
-    "wof:lastmodified":1472618480,
+    "wof:lastmodified":1534181668,
     "wof:name":"Charles H Walker CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739854961
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

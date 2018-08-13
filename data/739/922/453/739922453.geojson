@@ -7,6 +7,7 @@
     "addr:postcode":"30303",
     "addr:street":"Peachtree Street Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.387537,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"260 Peachtree Street NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920694,
-    "wof:geomhash":"07338cc018ea00276ad68515ffe9aa7b",
+    "wof:geomhash":"95c1e4de3e6487a997da40c808fa2d4a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":739922453,
-    "wof:lastmodified":1486682528,
+    "wof:lastmodified":1534181618,
     "wof:name":"Schlueter Richard Atty",
     "wof:parent_id":1108797059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723007219
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

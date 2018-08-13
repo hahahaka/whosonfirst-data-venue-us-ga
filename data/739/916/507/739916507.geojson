@@ -15,6 +15,7 @@
     "geom:longitude":-84.392974,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"133 Peachtree St NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -50,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920454,
-    "wof:geomhash":"514b15734c0b0e02bca69586bbe2117b",
+    "wof:geomhash":"4fe4f9cd80a52ce576d4f4d723f7c55b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,13 +66,15 @@
         }
     ],
     "wof:id":739916507,
-    "wof:lastmodified":1486682630,
+    "wof:lastmodified":1534181678,
     "wof:name":"Georgia Pacific Childcare Ctr",
     "wof:parent_id":1108797063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723124987
+    ],
     "wof:tags":[
         "nursery",
         "day"

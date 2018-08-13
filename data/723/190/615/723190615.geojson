@@ -7,6 +7,7 @@
     "addr:postcode":"30030",
     "addr:street":"E College Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.274965,33.775106,-84.274965,33.775106",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.274965,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2808 E College Ave",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461896897,
-    "wof:geomhash":"d7044a050662863df3fc38d07ceb1d22",
+    "wof:geomhash":"147135c712a560beb3289fd46eb6a12f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":723190615,
-    "wof:lastmodified":1472618513,
+    "wof:lastmodified":1534181658,
     "wof:name":"Avondale Independent Honda",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739776815
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "repairing",

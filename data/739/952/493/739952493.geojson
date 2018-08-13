@@ -7,6 +7,7 @@
     "addr:postcode":"30313",
     "addr:street":"Centennial Olympic Park Dr Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.391695,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"275 Centennial Olympic Park Dr NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922064,
-    "wof:geomhash":"7e3e9725536c24470f8621b3b8014887",
+    "wof:geomhash":"2090b36607bb46b54e4f109534939f42",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":739952493,
-    "wof:lastmodified":1486682435,
+    "wof:lastmodified":1534181687,
     "wof:name":"Imagine It! The Children's Museum of Atlanta",
     "wof:parent_id":1108797051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739952687
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

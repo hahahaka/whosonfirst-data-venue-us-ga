@@ -14,6 +14,7 @@
     "geom:longitude":-83.699085,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2257 Wrights Chapel Rd",
     "sg:city":"Sumner",
     "sg:classifiers":[],
@@ -26,23 +27,27 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420518245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TaLpzM00Xssw47jxhi0Ho_31.362906_-83.699085@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461913590,
-    "wof:geomhash":"0e5ead209c5af65c1ed5b6484ce0e3ee",
+    "wof:geomhash":"3284c0e1b11d54187820f207e8b87144",
     "wof:hierarchy":[],
     "wof:id":739746895,
-    "wof:lastmodified":1472619238,
+    "wof:lastmodified":1534181656,
     "wof:name":"Powells Farm",
     "wof:parent_id":420518245,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740070805
+    ],
     "wof:tags":[
         "farm",
         "corn"

@@ -7,6 +7,7 @@
     "addr:postcode":"30328",
     "addr:street":"Riveredge Pkwy Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.438748,33.909986,-84.438748,33.909986",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.438748,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2100 Riveredge Pkwy NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461887475,
-    "wof:geomhash":"a0077197a0492ad206a43bdbc0220dba",
+    "wof:geomhash":"ba9a9300911923978e551b3db0f335f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":722727445,
-    "wof:lastmodified":1472618460,
+    "wof:lastmodified":1534181647,
     "wof:name":"Ronald Blue & Co",
     "wof:parent_id":85890005,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739601071
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant",

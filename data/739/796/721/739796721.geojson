@@ -7,6 +7,7 @@
     "addr:postcode":"30033",
     "addr:street":"N Decatur Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.2842,33.792032,-84.2842,33.792032",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.2842,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2675 N Decatur Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915639,
-    "wof:geomhash":"83449c38180df3282488df4398f39bf7",
+    "wof:geomhash":"edef4b668b9c07d483603bbfa9b70ce4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":739796721,
-    "wof:lastmodified":1472619366,
+    "wof:lastmodified":1534181660,
     "wof:name":"Anne Pope Leslie",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739797521
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "osteopathic"

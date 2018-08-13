@@ -7,6 +7,7 @@
     "addr:postcode":"30601",
     "addr:street":"E Broad St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.374627,33.957902,-83.374627,33.957902",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.374627,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"247 E Broad St",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461891551,
-    "wof:geomhash":"22e818256aa528a191eaae0f2455cfb0",
+    "wof:geomhash":"7a7bba89045e72e03a831c85e255796d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":722936111,
-    "wof:lastmodified":1472619000,
+    "wof:lastmodified":1534181626,
     "wof:name":"Taco Stand",
     "wof:parent_id":85851137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740032887
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

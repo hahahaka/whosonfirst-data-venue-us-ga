@@ -7,6 +7,7 @@
     "addr:postcode":"30305",
     "addr:street":"E Paces Ferry Road Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.372702,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"455 E Paces Ferry Road NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920972,
-    "wof:geomhash":"06eb6b3682aeb850060b650a5e23cd8a",
+    "wof:geomhash":"5637fa8872541502ed7c07c91f5de85c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":739928725,
-    "wof:lastmodified":1486671862,
+    "wof:lastmodified":1534181636,
     "wof:name":"Westman Linda Ann DC",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723099787
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

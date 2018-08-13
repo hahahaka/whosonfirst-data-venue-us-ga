@@ -7,6 +7,7 @@
     "addr:postcode":"39817",
     "addr:street":"Old Pelham Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.477004,30.958642,-84.477004,30.958642",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.477004,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"709 Old Pelham Rd",
     "sg:city":"Bainbridge",
     "sg:classifiers":[
@@ -57,7 +59,7 @@
     },
     "wof:country":"US",
     "wof:created":1461927180,
-    "wof:geomhash":"116f7d7c8a317de632c4af1720bdf6e8",
+    "wof:geomhash":"fc1e00cf475d4ba9c9905c85e811b96e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,12 +72,14 @@
         }
     ],
     "wof:id":740075075,
-    "wof:lastmodified":1472618193,
+    "wof:lastmodified":1534181652,
     "wof:name":"Three Rivers Produce Inc",
     "wof:parent_id":420517717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722990843
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shipper",

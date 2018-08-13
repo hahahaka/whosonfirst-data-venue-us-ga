@@ -7,6 +7,7 @@
     "addr:postcode":"30093",
     "addr:street":"Jimmy Carter Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.201212,33.898264,-84.201212,33.898264",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.201212,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5050 Jimmy Carter Blvd",
     "sg:city":"Norcross",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461892030,
-    "wof:geomhash":"1d724d9976c8d7c00ac0058fddba05d1",
+    "wof:geomhash":"9b8a3cf983b5c5d00598d4dd83411690",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":722959797,
-    "wof:lastmodified":1472619094,
+    "wof:lastmodified":1534181668,
     "wof:name":"A To Zinc Vitamin & Nutrition",
     "wof:parent_id":85803655,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739853029
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "nutritional",

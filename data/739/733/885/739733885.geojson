@@ -7,6 +7,7 @@
     "addr:postcode":"30135",
     "addr:street":"Douglas Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.761125,33.724695,-84.761125,33.724695",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.761125,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6600 Douglas Blvd",
     "sg:city":"Douglasville",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461913276,
-    "wof:geomhash":"7a8ffd1ee9cea743296a7e60600299b8",
+    "wof:geomhash":"b081d3acf3f5e634114dcbea9f20bbe5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":739733885,
-    "wof:lastmodified":1472619215,
+    "wof:lastmodified":1534181671,
     "wof:name":"Arbor Place 18",
     "wof:parent_id":85824659,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739876659
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

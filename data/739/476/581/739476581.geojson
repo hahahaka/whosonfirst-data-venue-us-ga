@@ -7,6 +7,7 @@
     "addr:postcode":"30339",
     "addr:street":"Cumberland Blvd Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.461251,33.877401,-84.461251,33.877401",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.461251,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2997 Cumberland Blvd SE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461908006,
-    "wof:geomhash":"277ab3e9022576b1e01ecdebd7e34c4d",
+    "wof:geomhash":"ac28f90c3079a60a0a50f723d0a27c3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":739476581,
-    "wof:lastmodified":1472618564,
+    "wof:lastmodified":1534181698,
     "wof:name":"Studio 72 Buty Defining Salon",
     "wof:parent_id":85813197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739991831
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"

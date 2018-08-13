@@ -14,6 +14,7 @@
     "geom:longitude":-83.289126,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"428 Connell Rd",
     "sg:city":"Valdosta",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461887588,
-    "wof:geomhash":"8a934a2dda786658d0cd6bb17f993b76",
+    "wof:geomhash":"0c1aecd808d719ecbbc2d13eaff3375a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":722732109,
-    "wof:lastmodified":1472618438,
+    "wof:lastmodified":1534181641,
     "wof:name":"Barry H Braun MD",
     "wof:parent_id":420518077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740065847
+    ],
     "wof:tags":[
         "medical"
     ]

@@ -7,6 +7,7 @@
     "addr:postcode":"30068",
     "addr:street":"Johnson Ferry Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.41585,33.976728,-84.41585,33.976728",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.41585,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1000 Johnson Ferry Rd",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1461901310,
-    "wof:geomhash":"a12698844a55004de2324ce97c1dc7d9",
+    "wof:geomhash":"a18d8c9cf07ce3727d02da6a88579e28",
     "wof:hierarchy":[],
     "wof:id":723417157,
-    "wof:lastmodified":1472619144,
+    "wof:lastmodified":1534181665,
     "wof:name":"Envision Wellness Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739830145
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

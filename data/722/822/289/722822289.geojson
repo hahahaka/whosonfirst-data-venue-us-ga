@@ -7,6 +7,7 @@
     "addr:postcode":"30297",
     "addr:street":"Forest Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.394644,33.618179,-84.394644,33.618179",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.394644,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"363 Forest Pkwy",
     "sg:city":"Forest Park",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1461889308,
-    "wof:geomhash":"cd0f319b5abe045cb87d014e23245f56",
+    "wof:geomhash":"80314bb358d5689c064895346211bd18",
     "wof:hierarchy":[],
     "wof:id":722822289,
-    "wof:lastmodified":1472618681,
+    "wof:lastmodified":1534181676,
     "wof:name":"In Town Suites Forest Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739910847
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"30274",
     "addr:street":"State Rte 85",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.408913,33.590804,-84.408913,33.590804",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.408913,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6030 State Rte 85",
     "sg:city":"Riverdale",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1461889888,
-    "wof:geomhash":"209844c9ce07413236512b697ca3f696",
+    "wof:geomhash":"a2d96cb55e384a5511fed5316a784578",
     "wof:hierarchy":[],
     "wof:id":722853497,
-    "wof:lastmodified":1472618808,
+    "wof:lastmodified":1534181650,
     "wof:name":"Reens Kitchen Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739654943
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

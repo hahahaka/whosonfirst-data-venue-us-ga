@@ -7,6 +7,7 @@
     "addr:postcode":"30341",
     "addr:street":"Savoy Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.303775,33.91987,-84.303775,33.91987",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.303775,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2071 Savoy Dr",
     "sg:city":"Atlanta",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923937,
-    "wof:geomhash":"368657313f11b2b3a3df00fbf072c13a",
+    "wof:geomhash":"8a1fbddcc17bc42560aaf59078355c14",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +51,14 @@
         }
     ],
     "wof:id":740000171,
-    "wof:lastmodified":1472617809,
+    "wof:lastmodified":1534181701,
     "wof:name":"La Botana Tex Mex Restaurant",
     "wof:parent_id":85890023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739998957
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

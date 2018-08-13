@@ -14,6 +14,7 @@
     "geom:longitude":-84.034499,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2184 Mc Gee Rd SW",
     "sg:city":"Snellville",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461885092,
-    "wof:geomhash":"66158cf9461d9809f8a7ec8f20eae05a",
+    "wof:geomhash":"f8e5df54f8f18912f4a9fa08db7f85ec",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":722605793,
-    "wof:lastmodified":1472618075,
+    "wof:lastmodified":1534181626,
     "wof:name":"Gwinnett Animal Hospital",
     "wof:parent_id":85857829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739839981
+    ],
     "wof:tags":[
         "hospital",
         "animal"

@@ -14,6 +14,7 @@
     "geom:longitude":-82.115996,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4210 Columbia Rd",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461911872,
-    "wof:geomhash":"917e9638ce5a026c9108c09ee23d2feb",
+    "wof:geomhash":"315ba4a020ce9ee3d2fe1234115dc3be",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":739666229,
-    "wof:lastmodified":1472619014,
+    "wof:lastmodified":1534181650,
     "wof:name":"Insight Enterprises Inc",
     "wof:parent_id":85868555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722787337
+    ],
     "wof:tags":[
         "specialty",
         "outpatient"

@@ -15,6 +15,7 @@
     "geom:longitude":-84.38897,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7925 Dallas Hwy",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920723,
-    "wof:geomhash":"d8b34424e9a5ba75bcae77f8b7e389fb",
+    "wof:geomhash":"a7645c9b03ef732207acf3dbc008d0e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":739923215,
-    "wof:lastmodified":1486669767,
+    "wof:lastmodified":1534181679,
     "wof:name":"Gd Braiding Salon & Beauty Supply",
     "wof:parent_id":85866901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739873581
+    ],
     "wof:tags":[
         "supply"
     ]

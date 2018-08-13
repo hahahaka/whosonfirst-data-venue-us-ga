@@ -14,6 +14,7 @@
     "geom:longitude":-85.07399,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 Professional Pl",
     "sg:city":"Carrollton",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461899437,
-    "wof:geomhash":"55668da6869416fb235177ad257397b0",
+    "wof:geomhash":"3262e489e5393711f71c133c7e6a6049",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":723319289,
-    "wof:lastmodified":1472618856,
+    "wof:lastmodified":1534181646,
     "wof:name":"American Hearing Centers",
     "wof:parent_id":85890025,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723223813
+    ],
     "wof:tags":[
         "merchandise"
     ]

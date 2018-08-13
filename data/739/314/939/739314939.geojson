@@ -14,6 +14,7 @@
     "geom:longitude":-84.336371,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5482 Chamblee Dunwoody Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461904865,
-    "wof:geomhash":"25f14d805266ca35f2e6e47410097fd2",
+    "wof:geomhash":"242d55df3fd96c69111397c624ec1b58",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,13 +69,16 @@
         }
     ],
     "wof:id":739314939,
-    "wof:lastmodified":1472618148,
+    "wof:lastmodified":1534181628,
     "wof:name":"Wright Gourmet Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739988053,
+        739768915
+    ],
     "wof:tags":[
         "eating"
     ]

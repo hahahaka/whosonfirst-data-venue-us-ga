@@ -15,6 +15,7 @@
     "geom:longitude":-84.363455,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5775 Glenridge Dr NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461890504,
-    "wof:geomhash":"133ba71d92c5208f91cad52ef4f8ec63",
+    "wof:geomhash":"dc4179ca1f0e0ff0b8c927ec34cb32c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,13 +71,15 @@
         }
     ],
     "wof:id":722886023,
-    "wof:lastmodified":1491902541,
+    "wof:lastmodified":1534181647,
     "wof:name":"CIS Insurance and Fincl Svcs",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723166849
+    ],
     "wof:tags":[
         "agency",
         "general"

@@ -7,6 +7,7 @@
     "addr:postcode":"30339",
     "addr:street":"S Park Place Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.477289,33.902912,-84.477289,33.902912",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.477289,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2055 S Park Place SE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923641,
-    "wof:geomhash":"bca58b0fdd21d62d7809c44d852019b7",
+    "wof:geomhash":"079e07d4160c4b845f0de175def41f3e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":739992445,
-    "wof:lastmodified":1472619701,
+    "wof:lastmodified":1534181701,
     "wof:name":"Doubletree Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739992947
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

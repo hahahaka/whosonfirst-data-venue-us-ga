@@ -14,6 +14,7 @@
     "geom:longitude":-84.280998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5312 Buford Hwy NE Ste A9",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923772,
-    "wof:geomhash":"24ec44a783dd975dcd18e8a82ea23fe4",
+    "wof:geomhash":"f639fc9021bd22924af76ab807ab30d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,13 +69,15 @@
         }
     ],
     "wof:id":739995733,
-    "wof:lastmodified":1472619707,
+    "wof:lastmodified":1534181698,
     "wof:name":"Ys Accounting & Tax Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739995303
+    ],
     "wof:tags":[
         "accountant"
     ]

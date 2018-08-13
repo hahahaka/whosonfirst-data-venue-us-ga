@@ -7,6 +7,7 @@
     "addr:postcode":"30338",
     "addr:street":"Dunwoody Park S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.311268,33.923978,-84.311268,33.923978",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.311268,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3 Dunwoody Park S",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461893810,
-    "wof:geomhash":"40413795325fd91fca53990c7dfb4a9e",
+    "wof:geomhash":"b8646163e2388b8b6ff4b56c78a3e5a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":723039969,
-    "wof:lastmodified":1472618019,
+    "wof:lastmodified":1534181696,
     "wof:name":"Stewart & Associates",
     "wof:parent_id":85890023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739988909
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant",

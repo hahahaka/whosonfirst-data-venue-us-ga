@@ -7,6 +7,7 @@
     "addr:postcode":"30223",
     "addr:street":"N Expy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.288251,33.256456,-84.288251,33.256456",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.288251,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1449 N Expy",
     "sg:city":"Griffin",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
         "sg:id":"SG_2F3tfHaUmHRpGClr0hLbjv_33.256456_-84.288251@1294087602"
     },
     "wof:country":"US",
-    "wof:geomhash":"e407763519ad0fd36af3381b042a7d4a",
+    "wof:geomhash":"a428677a08cf9ef1187026c59ad77282",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":169656037,
-    "wof:lastmodified":1472617858,
+    "wof:lastmodified":1534181674,
     "wof:name":"Sherwin-Williams Paints",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739891171
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "farm",

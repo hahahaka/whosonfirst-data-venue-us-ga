@@ -7,6 +7,7 @@
     "addr:postcode":"31406",
     "addr:street":"Hodgson Memorial Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.110192,32.005988,-81.110192,32.005988",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.110192,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7135 Hodgson Memorial Dr",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461910388,
-    "wof:geomhash":"a62bca0860c3f41d38ad9aea4c3fd821",
+    "wof:geomhash":"681edd29d56fa808116d7e1d142b87bb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":739599253,
-    "wof:lastmodified":1472618842,
+    "wof:lastmodified":1534181627,
     "wof:name":"Rourke John B",
     "wof:parent_id":85890047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723071507
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory"

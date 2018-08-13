@@ -7,6 +7,7 @@
     "addr:postcode":"30083",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.170267,33.806254,-84.170267,33.806254",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.170267,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"925 Main St",
     "sg:city":"Stone Mountain",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461897909,
-    "wof:geomhash":"a4126b343575639d768c2351ce8be459",
+    "wof:geomhash":"b5867e7e34fe9b4d68106f0b687ae2b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":723239869,
-    "wof:lastmodified":1472618678,
+    "wof:lastmodified":1534181633,
     "wof:name":"Visiontech Computer Services",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722636731
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

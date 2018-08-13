@@ -7,6 +7,7 @@
     "addr:postcode":"30067",
     "addr:street":"Windy Hill Rd Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.475418,33.900959,-84.475418,33.900959",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.475418,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3050 Windy Hill Rd SE",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461917022,
-    "wof:geomhash":"f2b6c84f5a3cb54d303aa868d22ea7b6",
+    "wof:geomhash":"14adfe151bdc6b8e94d1b2699c85f6e3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":739828475,
-    "wof:lastmodified":1472619404,
+    "wof:lastmodified":1534181700,
     "wof:name":"Houston's Restaurants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739994261
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -15,6 +15,7 @@
     "geom:longitude":-84.344083,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"115 Perimeter Center Pkwy NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461891295,
-    "wof:geomhash":"61be4ce68d34d7d51b351ff79c9365b2",
+    "wof:geomhash":"4b7f6b05a576412ae61e0f61f1317ec7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,13 +72,15 @@
         }
     ],
     "wof:id":722924521,
-    "wof:lastmodified":1491914198,
+    "wof:lastmodified":1534181649,
     "wof:name":"Corporate America Family Cr Un",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722764697
+    ],
     "wof:tags":[
         "federal",
         "savings",

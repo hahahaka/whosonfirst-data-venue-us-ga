@@ -2,18 +2,24 @@
   "id": 722980491,
   "type": "Feature",
   "properties": {
-    "addr:full":"207 E Gordon St Savannah GA 31401",
+    "addr:city":"Savannah",
+    "addr:full":"207 E Gordon St Savannah, Ga 31401",
+    "addr:house_number":"207",
     "addr:housenumber":"207",
+    "addr:phone":"+1 912-201-5070",
     "addr:postcode":"31401",
+    "addr:road":"E Gordon St",
+    "addr:state":"GA",
     "addr:street":"E Gordon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-81.092672,32.070456,-81.092672,32.070456",
-    "geom:latitude":32.070456,
-    "geom:longitude":-81.092672,
+    "geom:bbox":"-81.09218,32.07025,-81.09218,32.07025",
+    "geom:latitude":32.07025,
+    "geom:longitude":-81.09218,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"207 E Gordon St",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -27,7 +33,11 @@
     "sg:phone":"+1 912 201 5070",
     "sg:postcode":"31401",
     "sg:province":"GA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527519,
+        102534139
+    ],
     "wof:belongsto":[
         85688535,
         102191575,
@@ -38,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300045,
         "sg:id":"SG_3DNsG45W9zfrvyEN351AP7_32.070456_-81.092672@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461892463,
-    "wof:geomhash":"dfe3a6229249e0c04610ca4e82dfe5af",
+    "wof:geomhash":"c8752e5183d39eead58e97b5ab306fe1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,8 +66,8 @@
         }
     ],
     "wof:id":722980491,
-    "wof:lastmodified":1472619105,
-    "wof:name":"Massie Heritage Ctr",
+    "wof:lastmodified":1534181701,
+    "wof:name":"Massie Heritage Center",
     "wof:parent_id":85880921,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
@@ -65,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -81.092672,
-    32.070456,
-    -81.092672,
-    32.070456
+    -81.09218,
+    32.07025,
+    -81.09218,
+    32.07025
 ],
-  "geometry": {"coordinates":[-81.09267199999999,32.070456],"type":"Point"}
+  "geometry": {"coordinates":[-81.09218,32.07025],"type":"Point"}
 }

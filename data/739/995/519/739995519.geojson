@@ -7,6 +7,7 @@
     "addr:postcode":"30340",
     "addr:street":"Presidential Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.261002,33.889301,-84.261002,33.889301",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.261002,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4001 Presidential Pkwy",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923765,
-    "wof:geomhash":"316a50baefea1112e32539447e3df77d",
+    "wof:geomhash":"a8ad20e5f75112adc80278882666fb26",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":739995519,
-    "wof:lastmodified":1472619706,
+    "wof:lastmodified":1534181638,
     "wof:name":"Miami Entertainment Llc",
     "wof:parent_id":85889941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739356101
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "venue"

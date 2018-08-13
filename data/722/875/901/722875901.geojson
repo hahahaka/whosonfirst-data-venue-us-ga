@@ -7,6 +7,7 @@
     "addr:postcode":"ga 30165",
     "addr:street":"Shorter Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-85.229642,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2215 Shorter Ave",
     "sg:city":"Rome",
     "sg:classifiers":[
@@ -30,7 +31,9 @@
     "sg:postcode":"30165",
     "sg:province":"GA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420517843
+    ],
     "wof:brand_id":420573961,
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,12 +44,14 @@
     "wof:geomhash":"c79c32587dfd3a301111ff9929bac392",
     "wof:hierarchy":[],
     "wof:id":722875901,
-    "wof:lastmodified":1512142784,
+    "wof:lastmodified":1534181658,
     "wof:name":"Mc Donald's",
     "wof:parent_id":420517843,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739766443
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

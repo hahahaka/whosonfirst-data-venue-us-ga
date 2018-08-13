@@ -7,6 +7,7 @@
     "addr:postcode":"30350",
     "addr:street":"Dunwoody Club Drive",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.300921,33.959531,-84.300921,33.959531",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.300921,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2090 Dunwoody Club Drive",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924505,
-    "wof:geomhash":"cb8e8cee7aa8ec1a8e646ab021c383b2",
+    "wof:geomhash":"1d4cd4ecbeb6d973e173c3543345a409",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":740014941,
-    "wof:lastmodified":1472617891,
+    "wof:lastmodified":1534181621,
     "wof:name":"Oscar's Villa Capri Italian Restaurant",
     "wof:parent_id":420517933,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740016367
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "italian"

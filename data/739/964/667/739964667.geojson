@@ -2,18 +2,24 @@
   "id": 739964667,
   "type": "Feature",
   "properties": {
-    "addr:full":"4484 Peachtree Rd NE Atlanta GA 30319",
+    "addr:city":"Atlanta",
+    "addr:full":"4484 Peachtree Rd Atlanta, Ga 30319",
+    "addr:house_number":"4484",
     "addr:housenumber":"4484",
+    "addr:phone":"+1 404-364-8555",
     "addr:postcode":"30319",
+    "addr:road":"Peachtree Rd",
+    "addr:state":"GA",
     "addr:street":"Peachtree Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-84.331044,33.873471,-84.331044,33.873471",
-    "geom:latitude":33.873471,
-    "geom:longitude":-84.331044,
+    "geom:bbox":"-84.33042,33.87378,-84.33042,33.87378",
+    "geom:latitude":33.87378,
+    "geom:longitude":-84.33042,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4484 Peachtree Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -28,19 +34,23 @@
     "sg:postcode":"30319",
     "sg:province":"GA",
     "sg:website":"museum.oglethorpe.edu/",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525899
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409503816,
         "sg:id":"SG_6aPt0WBkrIHEdDtaCOMs91_33.873471_-84.331044@1303262617"
     },
     "wof:country":"US",
     "wof:created":1461922548,
-    "wof:geomhash":"c7b6705c1d7dc72db7910d6f4a0df441",
+    "wof:geomhash":"9c5a40bcad1cb77e89d3d304933c8c23",
     "wof:hierarchy":[],
     "wof:id":739964667,
-    "wof:lastmodified":1472619658,
-    "wof:name":"Oglethorpe University Museum of Art",
+    "wof:lastmodified":1534181702,
+    "wof:name":"Oglethorpe University Museum Of Art",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
@@ -49,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -84.331044,
-    33.873471,
-    -84.331044,
-    33.873471
+    -84.33042,
+    33.87378,
+    -84.33042,
+    33.87378
 ],
-  "geometry": {"coordinates":[-84.33104400000001,33.873471],"type":"Point"}
+  "geometry": {"coordinates":[-84.33042,33.87378],"type":"Point"}
 }

@@ -15,6 +15,7 @@
     "geom:longitude":-84.347255,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1231 Glenwood Ave",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922261,
-    "wof:geomhash":"80d826741488a3c790fd66c448f0193e",
+    "wof:geomhash":"aa12182622de96a4efb9929b1d934ba9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":739956965,
-    "wof:lastmodified":1486682682,
+    "wof:lastmodified":1534181685,
     "wof:name":"East Atlanta Village Farmers Market",
     "wof:parent_id":1108798133,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739956725
+    ],
     "wof:tags":[]
 },
   "bbox": [

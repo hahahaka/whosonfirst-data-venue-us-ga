@@ -7,6 +7,7 @@
     "addr:postcode":"30305",
     "addr:street":"Pharr Road",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.378998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"256 Pharr Road",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920868,
-    "wof:geomhash":"02559474000991a3afd3be6c259306b1",
+    "wof:geomhash":"f1790a80d757265c8a685ca3426d7ae2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":739926461,
-    "wof:lastmodified":1486671836,
+    "wof:lastmodified":1534181681,
     "wof:name":"Sugarcoat",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739930397
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

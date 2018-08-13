@@ -7,6 +7,7 @@
     "addr:postcode":"31601",
     "addr:street":"W Central Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.283623,30.830271,-83.283623,30.830271",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.283623,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"116 W Central Ave",
     "sg:city":"Valdosta",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"US",
     "wof:created":1461926750,
-    "wof:geomhash":"6fa3e562bf2f446bf4bdef14e7abbf1b",
+    "wof:geomhash":"27bfd729e89dda2c7005b2484c6f8399",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,12 +49,14 @@
         }
     ],
     "wof:id":740065103,
-    "wof:lastmodified":1472618117,
+    "wof:lastmodified":1534181645,
     "wof:name":"Valdosta Furniture & Mattress",
     "wof:parent_id":85843077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722847523
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

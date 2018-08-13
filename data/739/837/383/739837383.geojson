@@ -14,6 +14,7 @@
     "geom:longitude":-84.342201,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10733 Alpharetta Hwy",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461917389,
-    "wof:geomhash":"6de8d79f4231477908867851cb64e23a",
+    "wof:geomhash":"dd25d3fde2d90d6ecc67bca9b551c8a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":739837383,
-    "wof:lastmodified":1472619436,
+    "wof:lastmodified":1534181667,
     "wof:name":"Silk Elements Inc",
     "wof:parent_id":85812681,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723187501
+    ],
     "wof:tags":[
         "supply"
     ]

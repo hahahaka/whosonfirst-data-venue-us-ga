@@ -7,6 +7,7 @@
     "addr:postcode":"30339",
     "addr:street":"Paces Mill Road Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.46552,33.866138,-84.46552,33.866138",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.46552,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3020 Paces Mill Road SE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1461923552,
-    "wof:geomhash":"7798df87295b4fb7204636289220b10f",
+    "wof:geomhash":"5df18ad0bc3ea4f6b09ffc1ef96bb87d",
     "wof:hierarchy":[],
     "wof:id":739989915,
-    "wof:lastmodified":1472619703,
+    "wof:lastmodified":1534181700,
     "wof:name":"Jeffrey W McDaniel, MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739994259
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "practice",

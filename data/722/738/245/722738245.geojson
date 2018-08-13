@@ -7,6 +7,7 @@
     "addr:postcode":"30303",
     "addr:street":"Peachtree Center Ave Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.385905,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"285 Peachtree Center Ave NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461887705,
-    "wof:geomhash":"5f3e5df7c5b09fd0239dac632a3453a8",
+    "wof:geomhash":"b906dc5e6f538252aa11323b2aa8d54e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":722738245,
-    "wof:lastmodified":1486670471,
+    "wof:lastmodified":1534181680,
     "wof:name":"Jordan Paul R",
     "wof:parent_id":85866901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739923601
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"30338",
     "addr:street":"Dunwoody Village Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.335208,33.950397,-84.335208,33.950397",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.335208,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1534 Dunwoody Village Pkwy",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461887637,
-    "wof:geomhash":"f99f013c3f5e08eca626109118e61bcf",
+    "wof:geomhash":"8c0ffa61a2c333fabbfef695a584049f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,12 +71,14 @@
         }
     ],
     "wof:id":722734473,
-    "wof:lastmodified":1472618460,
+    "wof:lastmodified":1534181626,
     "wof:name":"AMI Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739297893
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "food",

@@ -15,6 +15,7 @@
     "geom:longitude":-84.372997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3405 Piedmont Road NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920818,
-    "wof:geomhash":"9dc45e97b5fe59246a2eba9fe1498033",
+    "wof:geomhash":"e727405e35aacadc560afd17a8a21a03",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,16 @@
         }
     ],
     "wof:id":739925941,
-    "wof:lastmodified":1486671619,
+    "wof:lastmodified":1534181685,
     "wof:name":"Capital Mortgage & Financial Group",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739283329,
+        739257555
+    ],
     "wof:tags":[
         "broker",
         "mortgage"

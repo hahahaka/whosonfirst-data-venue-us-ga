@@ -7,6 +7,7 @@
     "addr:postcode":"30134",
     "addr:street":"Hospital Dr Ste 120B",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.733101,33.7388,-84.733101,33.7388",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.733101,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8954 Hospital Dr Ste 120B",
     "sg:city":"Douglasville",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461918851,
-    "wof:geomhash":"c44a7b8ddfc0b4c315a91354a9fa3373",
+    "wof:geomhash":"84fcca3a8f019231e21ffab893321dbb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":739874261,
-    "wof:lastmodified":1472619483,
+    "wof:lastmodified":1534181671,
     "wof:name":"Blatt H Lee MD",
     "wof:parent_id":85846763,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739873399
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "ophthalmologist"

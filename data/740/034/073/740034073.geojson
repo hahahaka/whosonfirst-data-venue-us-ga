@@ -14,6 +14,7 @@
     "geom:longitude":-83.410782,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"700 Sunset Dr",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -50,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461925330,
-    "wof:geomhash":"d8a0e3995ebb0284da19776f74d9b715",
+    "wof:geomhash":"544018e685e8150a232490e81a69096f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +64,16 @@
         }
     ],
     "wof:id":740034073,
-    "wof:lastmodified":1472617925,
+    "wof:lastmodified":1534181628,
     "wof:name":"Wilson Eric MD",
     "wof:parent_id":85828737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739491185,
+        723227107
+    ],
     "wof:tags":[
         "physician",
         "family",

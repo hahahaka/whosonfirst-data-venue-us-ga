@@ -7,6 +7,7 @@
     "addr:postcode":"30009",
     "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.298433,34.069379,-84.298433,34.069379",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.298433,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"217 S Main St",
     "sg:city":"Alpharetta",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914963,
-    "wof:geomhash":"fa5ae222f3c98a07da55fc1c341a6e0f",
+    "wof:geomhash":"9f882f46a49583d411311f5c1c850f5c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +51,14 @@
         }
     ],
     "wof:id":739780467,
-    "wof:lastmodified":1472619308,
+    "wof:lastmodified":1534181659,
     "wof:name":"DUI School of Alpharetta",
     "wof:parent_id":85853841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739780861
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

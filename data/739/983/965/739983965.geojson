@@ -15,6 +15,7 @@
     "geom:longitude":-84.512948,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3833 Princeton Lakes Ct.",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -55,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923301,
-    "wof:geomhash":"e3f3c6d4c4bcf8759eb8eac6dbbb7b5d",
+    "wof:geomhash":"b78c0a7d8d05c4cfd7e04656e6e8eaa3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,13 +79,15 @@
         }
     ],
     "wof:id":739983965,
-    "wof:lastmodified":1486672646,
+    "wof:lastmodified":1534181698,
     "wof:name":"Holiday Inn Express Hotel & Suites Atlanta Arpt West -Camp Creek",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739983147
+    ],
     "wof:tags":[
         "venue"
     ]

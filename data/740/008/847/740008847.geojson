@@ -7,6 +7,7 @@
     "addr:postcode":"30345",
     "addr:street":"Briarcliff Rd Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.256737,33.848751,-84.256737,33.848751",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.256737,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4800 Briarcliff Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,15 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461924264,
-    "wof:geomhash":"0de2c36a652d2e79ca8981590bdcb99c",
+    "wof:geomhash":"08a15a5086b3ab5d3a18d15660e77e45",
     "wof:hierarchy":[],
     "wof:id":740008847,
-    "wof:lastmodified":1472617878,
+    "wof:lastmodified":1534181642,
     "wof:name":"Great Expressions Dental Centers Atlanta - Northlake Mall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739455377
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentists-oral",

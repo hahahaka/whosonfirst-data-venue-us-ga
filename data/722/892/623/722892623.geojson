@@ -7,6 +7,7 @@
     "addr:postcode":"30528",
     "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-83.763323,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"131 S Main St",
     "sg:city":"Hiawassee",
     "sg:classifiers":[
@@ -45,12 +46,14 @@
     "wof:geomhash":"0ea48c628cc0bc8333347f8d756fd10a",
     "wof:hierarchy":[],
     "wof:id":722892623,
-    "wof:lastmodified":1512142560,
+    "wof:lastmodified":1534181625,
     "wof:name":"Rite Aid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740031251
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "drug",

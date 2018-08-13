@@ -14,6 +14,7 @@
     "geom:longitude":-84.198229,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1600 Oakbrook Dr",
     "sg:city":"Norcross",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461913182,
-    "wof:geomhash":"e34d3a3edc64864a49c2545541ecc351",
+    "wof:geomhash":"131a18737f61ceffcebf95a72d46134f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":739729715,
-    "wof:lastmodified":1472619176,
+    "wof:lastmodified":1534181655,
     "wof:name":"Just Boxes",
     "wof:parent_id":85803655,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739695079
+    ],
     "wof:tags":[
         "box",
         "fiber"

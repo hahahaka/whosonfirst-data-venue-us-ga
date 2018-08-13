@@ -7,6 +7,7 @@
     "addr:postcode":"30102",
     "addr:street":"Bells Ferry Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.578163,34.08963,-84.578163,34.08963",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.578163,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5669 Bells Ferry Rd",
     "sg:city":"Acworth",
     "sg:classifiers":[
@@ -31,22 +33,26 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420517625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FyytqwIOeOc5c3TM4weiC_34.089630_-84.578163@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461908421,
-    "wof:geomhash":"06682b790169ad7924c88a084e9b9dc7",
+    "wof:geomhash":"ad140db27f7a609339fb99a13a80acfd",
     "wof:hierarchy":[],
     "wof:id":739499737,
-    "wof:lastmodified":1472618595,
+    "wof:lastmodified":1534181670,
     "wof:name":"Golden Bowl",
     "wof:parent_id":420517625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739863101
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

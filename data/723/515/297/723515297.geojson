@@ -7,6 +7,7 @@
     "addr:postcode":"30309",
     "addr:street":"W Peachtree St Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.387275,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"880 W Peachtree St NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461903335,
-    "wof:geomhash":"01cf1a1d84f53450506f54ebc391411d",
+    "wof:geomhash":"6a1b837ef4b845be06e1f39c709e1cdc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":723515297,
-    "wof:lastmodified":1486670028,
+    "wof:lastmodified":1534181683,
     "wof:name":"Drew Eckl & Farnham LLP",
     "wof:parent_id":85866909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739939917
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

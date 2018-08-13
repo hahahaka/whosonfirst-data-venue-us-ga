@@ -2,18 +2,24 @@
   "id": 722675959,
   "type": "Feature",
   "properties": {
-    "addr:full":"250 N Louisville St Harlem GA 30814",
+    "addr:city":"Harlem",
+    "addr:full":"250 N Louisville St Harlem, Ga 30814",
+    "addr:house_number":"250",
     "addr:housenumber":"250",
+    "addr:phone":"+1 706-556-0401",
     "addr:postcode":"30814",
+    "addr:road":"N Louisville St",
+    "addr:state":"GA",
     "addr:street":"N Louisville St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-82.312026,33.416779,-82.312026,33.416779",
-    "geom:latitude":33.416779,
-    "geom:longitude":-82.312026,
+    "geom:bbox":"-82.31204,33.4168,-82.31204,33.4168",
+    "geom:latitude":33.4168,
+    "geom:longitude":-82.31204,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"250 N Louisville St",
     "sg:city":"Harlem",
     "sg:classifiers":[
@@ -27,7 +33,8 @@
     "sg:phone":"+1 706 556 0401",
     "sg:postcode":"30814",
     "sg:province":"GA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688535,
         102191575,
@@ -38,11 +45,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300066,
         "sg:id":"SG_2OB760PkGOaXhjLLeYYzK9_33.416779_-82.312026@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461886508,
-    "wof:geomhash":"a230ac26acf37a0e7d36b49c618e204a",
+    "wof:geomhash":"d36cce36a8a597e531c8a87e45a003eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,8 +63,8 @@
         }
     ],
     "wof:id":722675959,
-    "wof:lastmodified":1472618301,
-    "wof:name":"Laurel & Hardy Museum",
+    "wof:lastmodified":1534181702,
+    "wof:name":"Laurel And Hardy Museum",
     "wof:parent_id":85847219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
@@ -65,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -82.312026,
-    33.416779,
-    -82.312026,
-    33.416779
+    -82.31204,
+    33.4168,
+    -82.31204,
+    33.4168
 ],
-  "geometry": {"coordinates":[-82.312026,33.416779],"type":"Point"}
+  "geometry": {"coordinates":[-82.31204,33.4168],"type":"Point"}
 }

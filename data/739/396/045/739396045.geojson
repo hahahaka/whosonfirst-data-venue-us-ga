@@ -7,6 +7,7 @@
     "addr:postcode":"30309",
     "addr:street":"Peachtree St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.383318,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1230 Peachtree St",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461906501,
-    "wof:geomhash":"0c519aa9e5f7ceaa45170060642b1ab9",
+    "wof:geomhash":"dcd3a7904f7ce609b4866ef18f3e6721",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,12 +71,14 @@
         }
     ],
     "wof:id":739396045,
-    "wof:lastmodified":1486670226,
+    "wof:lastmodified":1534181684,
     "wof:name":"Cook Hall & Lampros LLP",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739945005
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

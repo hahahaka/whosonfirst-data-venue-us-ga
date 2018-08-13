@@ -7,6 +7,7 @@
     "addr:postcode":"30079",
     "addr:street":"Kentucky St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.269531,33.796136,-84.269531,33.796136",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.269531,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"620 Kentucky St",
     "sg:city":"Scottdale",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461907265,
-    "wof:geomhash":"6e9c46511db534d52e89244aa66545b0",
+    "wof:geomhash":"056c5f8acdf241b22c24b5111c81ecf9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":739435117,
-    "wof:lastmodified":1472618424,
+    "wof:lastmodified":1534181653,
     "wof:name":"Mallory & Evans Svc Corp",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723458767
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"

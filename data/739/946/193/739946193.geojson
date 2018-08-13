@@ -7,6 +7,7 @@
     "addr:postcode":"30309",
     "addr:street":"Collier Rd Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.397957,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"105 Collier Rd NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921769,
-    "wof:geomhash":"76e7c171366b7ef353ac99f106aded9c",
+    "wof:geomhash":"d9b7274996bc0facd989668725ad6fa2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,13 +78,18 @@
         }
     ],
     "wof:id":739946193,
-    "wof:lastmodified":1486672630,
+    "wof:lastmodified":1534181685,
     "wof:name":"Atlanta Minimally Invasive Gynecologic Surgery Center LLC",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739944485,
+        739943609
+    ],
+    "wof:supersedes":[
+        739512979
+    ],
     "wof:tags":[
         "gynecology",
         "physician",

@@ -14,6 +14,7 @@
     "geom:longitude":-84.359278,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"60 Oak St",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461886076,
-    "wof:geomhash":"544ec3d196c946549b253e264e411731",
+    "wof:geomhash":"6e88be67256b35e22df50b69d17e507e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":722653455,
-    "wof:lastmodified":1472618218,
+    "wof:lastmodified":1534181638,
     "wof:name":"A True Care Tree Svc Inc",
     "wof:parent_id":85837915,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722732681
+    ],
     "wof:tags":[
         "tree"
     ]

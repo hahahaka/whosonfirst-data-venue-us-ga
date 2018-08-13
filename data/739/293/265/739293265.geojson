@@ -14,6 +14,7 @@
     "geom:longitude":-84.352891,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1000 Johnson Ferry Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -52,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461904431,
-    "wof:geomhash":"d56ebf0c7a67e5fbe9cd5e15fe826d10",
+    "wof:geomhash":"c12c4d85f6fddc8a8c25c9ffe5bdbfc2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,13 +66,15 @@
         }
     ],
     "wof:id":739293265,
-    "wof:lastmodified":1472618041,
+    "wof:lastmodified":1534181623,
     "wof:name":"Northside Hospital",
     "wof:parent_id":85890019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740004931
+    ],
     "wof:tags":[
         "medical",
         "general"

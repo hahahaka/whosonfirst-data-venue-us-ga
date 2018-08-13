@@ -2,18 +2,24 @@
   "id": 723427367,
   "type": "Feature",
   "properties": {
-    "addr:full":"106 4th St Vienna GA 31092",
+    "addr:city":"Vienna",
+    "addr:full":"106 N 4Th St Vienna, Ga 31092",
+    "addr:house_number":"106",
     "addr:housenumber":"106",
+    "addr:phone":"+1 229-268-3663",
     "addr:postcode":"31092",
+    "addr:road":"N 4Th St",
+    "addr:state":"GA",
     "addr:street":"4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-83.793959,32.092335,-83.793959,32.092335",
-    "geom:latitude":32.092335,
-    "geom:longitude":-83.793959,
+    "geom:bbox":"-83.79413,32.09126,-83.79413,32.09126",
+    "geom:latitude":32.09126,
+    "geom:longitude":-83.79413,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"106 4th St",
     "sg:city":"Vienna",
     "sg:classifiers":[
@@ -27,18 +33,20 @@
     "sg:phone":"+1 229 268 3663",
     "sg:postcode":"31092",
     "sg:province":"GA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300005,
         "sg:id":"SG_0e85nkdrp4S1jzdsU4HT4h_32.092335_-83.793959@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461901523,
-    "wof:geomhash":"d465f4e9a0e064796471b71b01378ff5",
+    "wof:geomhash":"6bbedf055aa051f77ef2c27117bed03a",
     "wof:hierarchy":[],
     "wof:id":723427367,
-    "wof:lastmodified":1472619197,
+    "wof:lastmodified":1534181701,
     "wof:name":"Walter F George Law Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -83.793959,
-    32.092335,
-    -83.793959,
-    32.092335
+    -83.79413,
+    32.09126,
+    -83.79413,
+    32.09126
 ],
-  "geometry": {"coordinates":[-83.793959,32.092335],"type":"Point"}
+  "geometry": {"coordinates":[-83.79413,32.09126],"type":"Point"}
 }

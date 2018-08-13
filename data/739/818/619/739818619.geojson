@@ -14,6 +14,7 @@
     "geom:longitude":-84.551885,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"26 Mill St",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916636,
-    "wof:geomhash":"2b94353e93e8ba7608e8c4c4aead7f76",
+    "wof:geomhash":"8f6bf7da851cd331f23b2a898af9458c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":739818619,
-    "wof:lastmodified":1472619404,
+    "wof:lastmodified":1534181666,
     "wof:name":"BLU Greek Taverna",
     "wof:parent_id":85857593,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739763863
+    ],
     "wof:tags":[
         "greek",
         "mediterranean"

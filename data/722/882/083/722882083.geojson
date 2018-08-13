@@ -7,6 +7,7 @@
     "addr:postcode":"30079",
     "addr:street":"Kentucky St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.269377,33.796318,-84.269377,33.796318",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.269377,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"625 Kentucky St",
     "sg:city":"Scottdale",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461890433,
-    "wof:geomhash":"9b2635fa73f08e38295bf47b4cc9c5aa",
+    "wof:geomhash":"11d0985b0aa2b94b6db121b15d11c90c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":722882083,
-    "wof:lastmodified":1472618844,
+    "wof:lastmodified":1534181667,
     "wof:name":"Garrett Dixon Dev Group",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739840449
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"

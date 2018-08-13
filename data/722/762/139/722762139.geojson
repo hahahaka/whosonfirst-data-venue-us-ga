@@ -7,6 +7,7 @@
     "addr:postcode":"30354",
     "addr:street":"Conley Rd Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.3601,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"807 Conley Rd SE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461888162,
-    "wof:geomhash":"1cb85bdab910be45967d66bddbcb7d55",
+    "wof:geomhash":"0b856d409801fddb51033f95d41d731a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":722762139,
-    "wof:lastmodified":1486672111,
+    "wof:lastmodified":1534181644,
     "wof:name":"Conley Gas Station",
     "wof:parent_id":420784727,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722815111
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "station",

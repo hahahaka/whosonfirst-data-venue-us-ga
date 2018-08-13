@@ -7,6 +7,7 @@
     "addr:postcode":"30236",
     "addr:street":"Tara Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.368403,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"7308 Tara Blvd",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -46,12 +47,14 @@
     "wof:geomhash":"8d84a7bfe6640d321f291aad5ce337b1",
     "wof:hierarchy":[],
     "wof:id":723369899,
-    "wof:lastmodified":1512143145,
+    "wof:lastmodified":1534181674,
     "wof:name":"U-Haul Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739894295
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "renting",

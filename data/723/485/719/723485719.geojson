@@ -7,6 +7,7 @@
     "addr:postcode":"30311",
     "addr:street":"Campbellton Rd Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.482173,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2797 Campbellton Rd SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461902645,
-    "wof:geomhash":"327c73784d37db78975c6007a02325d1",
+    "wof:geomhash":"efd3d5cebaf5855f1f9123d78890310c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,12 +71,14 @@
         }
     ],
     "wof:id":723485719,
-    "wof:lastmodified":1486667781,
+    "wof:lastmodified":1534181685,
     "wof:name":"John T Weaver DMD PC",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739949945
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"30097",
     "addr:street":"E Johns Xing",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.166249,34.063335,-84.166249,34.063335",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.166249,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6470 E Johns Xing",
     "sg:city":"Duluth",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1461907315,
-    "wof:geomhash":"6cea3e3dbcdfeca27759959093653062",
+    "wof:geomhash":"18ad7bf3d0e9c0a0950c06a1e25f6354",
     "wof:hierarchy":[],
     "wof:id":739437793,
-    "wof:lastmodified":1472618451,
+    "wof:lastmodified":1534181670,
     "wof:name":"Golfclubexchangecom Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739861457
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "internet"

@@ -7,6 +7,7 @@
     "addr:postcode":"30024",
     "addr:street":"Peachtree Industrial Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.072372,34.065102,-84.072372,34.065102",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.072372,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"400 Peachtree Industrial Blvd",
     "sg:city":"Suwanee",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915384,
-    "wof:geomhash":"f1f41333e1ea812b6bf68d178027ae87",
+    "wof:geomhash":"82bbb9d07f1be1e3c8d820177fd7b8fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":739790425,
-    "wof:lastmodified":1472619353,
+    "wof:lastmodified":1534181617,
     "wof:name":"R & R Gallery",
     "wof:parent_id":85802315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739252511
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "glassware",

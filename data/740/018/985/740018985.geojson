@@ -7,6 +7,7 @@
     "addr:postcode":"30363",
     "addr:street":"17Th St Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.394249,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"201 17th St NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924665,
-    "wof:geomhash":"16228ae8ba6c136dbb83dd7d7a112ce9",
+    "wof:geomhash":"bbca4d7d73fc64681c39483dc6fdc887",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":740018985,
-    "wof:lastmodified":1486671810,
+    "wof:lastmodified":1534181621,
     "wof:name":"Morel, Brooks C",
     "wof:parent_id":85889937,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740019549
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney",

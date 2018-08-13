@@ -2,18 +2,24 @@
   "id": 739697723,
   "type": "Feature",
   "properties": {
-    "addr:full":"2450 S Milledge Ave Athens GA 30605",
+    "addr:city":"Athens",
+    "addr:full":"2450 South Milledge Avenue Athens, Ga 30606",
+    "addr:house_number":"2450",
     "addr:housenumber":"2450",
-    "addr:postcode":"30605",
+    "addr:phone":"+1 706-542-1244",
+    "addr:postcode":"30606",
+    "addr:road":"South Milledge Avenue",
+    "addr:state":"GA",
     "addr:street":"S Milledge Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-83.365465,33.898121,-83.365465,33.898121",
-    "geom:latitude":33.898121,
-    "geom:longitude":-83.365465,
+    "geom:bbox":"-83.36536,33.89806,-83.36536,33.89806",
+    "geom:latitude":33.89806,
+    "geom:longitude":-83.36536,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2450 S Milledge Ave",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -28,7 +34,10 @@
     "sg:postcode":"30605",
     "sg:province":"GA",
     "sg:website":"www.uga.edu/botgarden",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531975
+    ],
     "wof:belongsto":[
         85688535,
         102191575,
@@ -39,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409502510,
         "sg:id":"SG_0cTJ0l4oTdsO2xlImTH8eW_33.898121_-83.365465@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461912495,
-    "wof:geomhash":"5026def6f064a7b8ede41760ee3c5046",
+    "wof:geomhash":"23446338dd37dea2d910fdff475295d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,8 +66,8 @@
         }
     ],
     "wof:id":739697723,
-    "wof:lastmodified":1472619104,
-    "wof:name":"Botanical Garden",
+    "wof:lastmodified":1534181700,
+    "wof:name":"State Botanical Garden Of Georgia",
     "wof:parent_id":85841909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
@@ -66,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -83.365465,
-    33.898121,
-    -83.365465,
-    33.898121
+    -83.36536,
+    33.89806,
+    -83.36536,
+    33.89806
 ],
-  "geometry": {"coordinates":[-83.365465,33.898121],"type":"Point"}
+  "geometry": {"coordinates":[-83.36536,33.89806],"type":"Point"}
 }

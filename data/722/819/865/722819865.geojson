@@ -7,6 +7,7 @@
     "addr:postcode":"30084",
     "addr:street":"Northlake Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.244526,33.848192,-84.244526,33.848192",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.244526,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2167 Northlake Pkwy",
     "sg:city":"Tucker",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1461889256,
-    "wof:geomhash":"4eb19dcf37f469d7fde645c997bfbe12",
+    "wof:geomhash":"3761098e87b7fc319f3cd59cd67e7e9b",
     "wof:hierarchy":[],
     "wof:id":722819865,
-    "wof:lastmodified":1472618705,
+    "wof:lastmodified":1534181653,
     "wof:name":"Rago & Associates PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723480697
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

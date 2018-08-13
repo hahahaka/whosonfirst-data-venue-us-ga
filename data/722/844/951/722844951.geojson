@@ -7,6 +7,7 @@
     "addr:postcode":"30132",
     "addr:street":"Macland Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.784852,33.918857,-84.784852,33.918857",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.784852,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"273 Macland Rd",
     "sg:city":"Dallas",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461889718,
-    "wof:geomhash":"043fa439b3d6774cdcbd9b657d81f374",
+    "wof:geomhash":"f833e9e563a7b6b9f6915c7993451192",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":722844951,
-    "wof:lastmodified":1472618768,
+    "wof:lastmodified":1534181671,
     "wof:name":"Nestle Chiropractic Center",
     "wof:parent_id":85835699,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739873055
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"

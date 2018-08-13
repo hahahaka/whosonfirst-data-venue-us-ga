@@ -14,6 +14,7 @@
     "geom:longitude":-84.901468,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"220 Lower Blue Springs Rd",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461893673,
-    "wof:geomhash":"024276685b4e8ae37363b2f92d1fd6de",
+    "wof:geomhash":"f918f60a483e79a2cf6856565c037078",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":723033443,
-    "wof:lastmodified":1472618003,
+    "wof:lastmodified":1534181620,
     "wof:name":"Hamilton Baptist Church",
     "wof:parent_id":85835873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740072323
+    ],
     "wof:tags":[
         "church"
     ]

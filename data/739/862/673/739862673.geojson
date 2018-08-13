@@ -7,6 +7,7 @@
     "addr:postcode":"30101",
     "addr:street":"Mars Hill Rd Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.703697,34.000801,-84.703697,34.000801",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.703697,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1727 Mars Hill Rd NW",
     "sg:city":"Acworth",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461918413,
-    "wof:geomhash":"d0da31cc77c413d439aad8de9b88d7e6",
+    "wof:geomhash":"ccd4001570c034d0286caa678fa690b5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":739862673,
-    "wof:lastmodified":1472619496,
+    "wof:lastmodified":1534181670,
     "wof:name":"Krickich Walter Jon OD",
     "wof:parent_id":85829479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739862907
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

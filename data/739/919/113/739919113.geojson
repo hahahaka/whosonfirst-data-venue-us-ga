@@ -15,6 +15,7 @@
     "geom:longitude":-84.382224,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"75 Piedmont Ave NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -50,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920555,
-    "wof:geomhash":"39ae6249cab7cb276e4b5a057bfa3305",
+    "wof:geomhash":"62428b55baa90ed0c9165014bf6fa90f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +64,15 @@
         }
     ],
     "wof:id":739919113,
-    "wof:lastmodified":1486670826,
+    "wof:lastmodified":1534181678,
     "wof:name":"Johnson, Andrea MD FACOG",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723372701
+    ],
     "wof:tags":[
         "physician",
         "family",

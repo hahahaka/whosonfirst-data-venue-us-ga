@@ -7,6 +7,7 @@
     "addr:postcode":"30339",
     "addr:street":"Circle 75 Pkwy Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.470398,33.886501,-84.470398,33.886501",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.470398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"900 Circle 75 Pkwy SE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923599,
-    "wof:geomhash":"a945af3eb6695b46fe2f76194ba9d6d0",
+    "wof:geomhash":"46e7b616317e2fe64e51b94642e95e4f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":739991311,
-    "wof:lastmodified":1472619697,
+    "wof:lastmodified":1534181699,
     "wof:name":"Waldon Russell D Atty",
     "wof:parent_id":85813197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739990177
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

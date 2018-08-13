@@ -14,6 +14,7 @@
     "geom:longitude":-84.269188,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12600 Deerfield Pkwy",
     "sg:city":"Alpharetta",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461904257,
-    "wof:geomhash":"a51acad2eaaba9d510be77bb52bf14b9",
+    "wof:geomhash":"1f5b6fb1e3528452569a0c0d0984eb4b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":739285049,
-    "wof:lastmodified":1472617991,
+    "wof:lastmodified":1534181621,
     "wof:name":"T T Okem",
     "wof:parent_id":85854959,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739272821
+    ],
     "wof:tags":[
         "establishment"
     ]

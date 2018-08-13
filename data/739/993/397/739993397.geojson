@@ -7,6 +7,7 @@
     "addr:postcode":"30339",
     "addr:street":"Galleria Pkwy Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.467783,33.883884,-84.467783,33.883884",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.467783,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2 Galleria Pkwy SE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923673,
-    "wof:geomhash":"df8efd3ec065a406331403944684a4fb",
+    "wof:geomhash":"8c5b993f0176d5674b3fb1bfd492fede",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,17 @@
         }
     ],
     "wof:id":739993397,
-    "wof:lastmodified":1472619697,
+    "wof:lastmodified":1534181700,
     "wof:name":"Cobb Galleria Center",
     "wof:parent_id":85813197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739992747
+    ],
+    "wof:supersedes":[
+        722956827
+    ],
     "wof:tags":[
         "venue"
     ]

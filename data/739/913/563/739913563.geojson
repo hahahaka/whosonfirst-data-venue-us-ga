@@ -15,6 +15,7 @@
     "geom:longitude":-84.384102,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"165 Courtland St NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920345,
-    "wof:geomhash":"91c68c57722501084a000fdd2e21a8fa",
+    "wof:geomhash":"7192b53e236d25b484b7bf443a8b6970",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +64,15 @@
         }
     ],
     "wof:id":739913563,
-    "wof:lastmodified":1486682545,
+    "wof:lastmodified":1534181677,
     "wof:name":"International Limousine and Shuttle Services Inc",
     "wof:parent_id":1108797059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        722717861
+    ],
     "wof:tags":[
         "limo"
     ]

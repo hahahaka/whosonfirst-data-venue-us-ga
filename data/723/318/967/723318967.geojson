@@ -2,18 +2,24 @@
   "id": 723318967,
   "type": "Feature",
   "properties": {
-    "addr:full":"185 Mann St Tallapoosa GA 30176",
+    "addr:city":"Tallapoosa",
+    "addr:full":"185 Mann St Tallapoosa, Ga 30176",
+    "addr:house_number":"185",
     "addr:housenumber":"185",
+    "addr:phone":"+1 770-574-3125",
     "addr:postcode":"30176",
+    "addr:road":"Mann St",
+    "addr:state":"GA",
     "addr:street":"Mann St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-85.293729,33.751372,-85.293729,33.751372",
-    "geom:latitude":33.751372,
-    "geom:longitude":-85.293729,
+    "geom:bbox":"-85.29638,33.75258,-85.29638,33.75258",
+    "geom:latitude":33.75258,
+    "geom:longitude":-85.29638,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"185 Mann St",
     "sg:city":"Tallapoosa",
     "sg:classifiers":[
@@ -30,18 +36,20 @@
     "sg:tags":[
         "village"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300024,
         "sg:id":"SG_3BC8xKdZqtKXTnJEPpnyB2_33.751372_-85.293729@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461899432,
-    "wof:geomhash":"07359b4f23bee8e34516a1b14dcbcb92",
+    "wof:geomhash":"6cb2b25751fa6357a536453443ea2cb6",
     "wof:hierarchy":[],
     "wof:id":723318967,
-    "wof:lastmodified":1472618883,
+    "wof:lastmodified":1534181702,
     "wof:name":"Tallapoosa Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -53,10 +61,10 @@
     ]
 },
   "bbox": [
-    -85.293729,
-    33.751372,
-    -85.293729,
-    33.751372
+    -85.29638,
+    33.75258,
+    -85.29638,
+    33.75258
 ],
-  "geometry": {"coordinates":[-85.293729,33.751372],"type":"Point"}
+  "geometry": {"coordinates":[-85.29638,33.75258],"type":"Point"}
 }

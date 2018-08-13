@@ -7,6 +7,7 @@
     "addr:postcode":"30303",
     "addr:street":"Piedmont Ave Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.382155,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"75 Piedmont Ave NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -61,12 +62,14 @@
         }
     ],
     "wof:id":723315091,
-    "wof:lastmodified":1510874267,
+    "wof:lastmodified":1534181631,
     "wof:name":"Standard Parking Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723080551
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile"

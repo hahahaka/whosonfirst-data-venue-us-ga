@@ -7,6 +7,7 @@
     "addr:postcode":"30030",
     "addr:street":"W Hill St Ste 7B",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.300836,33.759683,-84.300836,33.759683",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.300836,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"321 W Hill St Ste 7B",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -54,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1461915494,
-    "wof:geomhash":"48eff72a0f294c9c3b3a37f5da3dc722",
+    "wof:geomhash":"3e0e0ead6efe898b14f12e70291b3a08",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,12 +78,14 @@
         }
     ],
     "wof:id":739793249,
-    "wof:lastmodified":1472619342,
+    "wof:lastmodified":1534181660,
     "wof:name":"Palate Caf? and Wine Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739793751
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "new",

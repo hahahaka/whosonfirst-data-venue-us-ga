@@ -7,6 +7,7 @@
     "addr:postcode":"30310",
     "addr:street":"Dill Ave Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.418068,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"923 Dill Ave SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921831,
-    "wof:geomhash":"8cc0acd0d454f2ffedb3a5c3a9904f1e",
+    "wof:geomhash":"61676afdd1f86be77b914f810dd8da72",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,19 @@
         }
     ],
     "wof:id":739947613,
-    "wof:lastmodified":1486668027,
+    "wof:lastmodified":1534181689,
     "wof:name":"Sparlin, Eugene E Dr",
     "wof:parent_id":85809417,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739341327
+    ],
+    "wof:supersedes":[
+        739947165,
+        739595451,
+        739947433
+    ],
     "wof:tags":[
         "chiropractic"
     ]

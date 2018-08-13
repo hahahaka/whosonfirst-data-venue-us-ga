@@ -7,6 +7,7 @@
     "addr:postcode":"30318",
     "addr:street":"Northside Pkwy Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.407767,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1575 Northside Pkwy NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461888161,
-    "wof:geomhash":"c43b797cfffca2a7910fdfb4feac4c2d",
+    "wof:geomhash":"f275355e61683b0ed271640b70ad9fac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":722762035,
-    "wof:lastmodified":1491937630,
+    "wof:lastmodified":1534181628,
     "wof:name":"KOOL Smiles",
     "wof:parent_id":85872097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723072463
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"

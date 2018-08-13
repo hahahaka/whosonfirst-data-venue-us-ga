@@ -7,6 +7,7 @@
     "addr:postcode":"ga 30161",
     "addr:street":"Riverside Pkwy Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.170045,34.273778,-85.170045,34.273778",
@@ -14,6 +15,7 @@
     "geom:longitude":-85.170045,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"504 Riverside Pkwy NE",
     "sg:city":"Rome",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461884191,
-    "wof:geomhash":"e26ae834b5fe47227586a858c2702814",
+    "wof:geomhash":"53c444d8924e9d10ca448acefd4e5b22",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":722559345,
-    "wof:lastmodified":1472617916,
+    "wof:lastmodified":1534181621,
     "wof:name":"J A Johnston Accntng & Bkkpng",
     "wof:parent_id":85890045,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722582025
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "bookkeeping",

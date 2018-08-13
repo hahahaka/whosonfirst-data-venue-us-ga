@@ -2,18 +2,24 @@
   "id": 722971697,
   "type": "Feature",
   "properties": {
-    "addr:full":"340 Walnut St Macon GA 31201",
+    "addr:city":"Macon",
+    "addr:full":"340 Walnut St Macon, Ga 31201-3406",
+    "addr:house_number":"340",
     "addr:housenumber":"340",
-    "addr:postcode":"31201",
+    "addr:phone":"+1 478-743-8544",
+    "addr:postcode":"31201-3406",
+    "addr:road":"Walnut St",
+    "addr:state":"GA",
     "addr:street":"Walnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-83.623512,32.83714,-83.623512,32.83714",
-    "geom:latitude":32.83714,
-    "geom:longitude":-83.623512,
+    "geom:bbox":"-83.62359,32.83718,-83.62359,32.83718",
+    "geom:latitude":32.83718,
+    "geom:longitude":-83.62359,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"340 Walnut St",
     "sg:city":"Macon",
     "sg:classifiers":[
@@ -28,7 +34,11 @@
     "sg:postcode":"31201",
     "sg:province":"GA",
     "sg:website":"www.tubmanmuseum.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531043,
+        102530597
+    ],
     "wof:belongsto":[
         85688535,
         102191575,
@@ -39,11 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300436,
         "sg:id":"SG_4YSaOYzxHMpy3XNqQOY1H2_32.837140_-83.623512@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461892285,
-    "wof:geomhash":"9ac6d27aff141fbabd2ace806edd23bf",
+    "wof:geomhash":"91064b8af83e0ca1ba06839bf11b8434",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +67,7 @@
         }
     ],
     "wof:id":722971697,
-    "wof:lastmodified":1472619087,
+    "wof:lastmodified":1534181701,
     "wof:name":"Tubman African American Museum",
     "wof:parent_id":85837705,
     "wof:placetype":"venue",
@@ -66,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -83.623512,
-    32.83714,
-    -83.623512,
-    32.83714
+    -83.62359,
+    32.83718,
+    -83.62359,
+    32.83718
 ],
-  "geometry": {"coordinates":[-83.62351200000001,32.83714],"type":"Point"}
+  "geometry": {"coordinates":[-83.62358999999999,32.83718],"type":"Point"}
 }

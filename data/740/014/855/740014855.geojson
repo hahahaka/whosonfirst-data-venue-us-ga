@@ -7,6 +7,7 @@
     "addr:postcode":"30350",
     "addr:street":"Roswell Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.350928,33.987351,-84.350928,33.987351",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.350928,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8549 Roswell Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924501,
-    "wof:geomhash":"5dcaa5e9a263fdf8c53cf17eb478b0ae",
+    "wof:geomhash":"bfb1512f9a2ddf825950f0bdb4b87a6e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +51,14 @@
         }
     ],
     "wof:id":740014855,
-    "wof:lastmodified":1472617890,
+    "wof:lastmodified":1534181657,
     "wof:name":"The Rusty Nail Pub",
     "wof:parent_id":85890021,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739769293
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"30906",
     "addr:street":"Doug Barnard Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.99304,33.414128,-81.99304,33.414128",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.99304,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1625 Doug Barnard Pkwy",
     "sg:city":"Augusta",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461925832,
-    "wof:geomhash":"09135a9f10a000128fbcf048f8e7ddb5",
+    "wof:geomhash":"d4a42df3efc87d8eeeb37793a8147853",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":740044803,
-    "wof:lastmodified":1472618087,
+    "wof:lastmodified":1534181635,
     "wof:name":"Blackstone Vendors",
     "wof:parent_id":420518207,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739342967
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"

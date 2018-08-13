@@ -14,6 +14,7 @@
     "geom:longitude":-84.490868,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2145 Roswell Rd",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461905716,
-    "wof:geomhash":"bb9891e47fcee3647ac83a30edce9238",
+    "wof:geomhash":"747221f6e6650d02f1c7e155708adf1d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +58,16 @@
         }
     ],
     "wof:id":739354907,
-    "wof:lastmodified":1472618231,
+    "wof:lastmodified":1534181639,
     "wof:name":"Silver Platter Inc",
     "wof:parent_id":85857049,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739819313,
+        739821641
+    ],
     "wof:tags":[
         "catering",
         "caterer"

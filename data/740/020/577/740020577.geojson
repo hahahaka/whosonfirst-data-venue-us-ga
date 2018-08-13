@@ -7,6 +7,7 @@
     "addr:postcode":"30442",
     "addr:street":"E Winthrope Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-81.937283,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"804 E Winthrope Ave",
     "sg:city":"Millen",
     "sg:classifiers":[
@@ -81,12 +82,14 @@
     "wof:geomhash":"c6b0b6a7f5a88b4c727c752c7e874a4e",
     "wof:hierarchy":[],
     "wof:id":740020577,
-    "wof:lastmodified":1512142482,
+    "wof:lastmodified":1534181627,
     "wof:name":"Rite Aid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739298569
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "product",

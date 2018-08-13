@@ -7,6 +7,7 @@
     "addr:postcode":"30236",
     "addr:street":"Tara Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.363382,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"8490 Tara Blvd",
     "sg:city":"Jonesboro",
     "sg:classifiers":[
@@ -44,12 +45,14 @@
     "wof:geomhash":"f4abc61a502169510d4574bb23c4fed2",
     "wof:hierarchy":[],
     "wof:id":722790331,
-    "wof:lastmodified":1511996359,
+    "wof:lastmodified":1534181657,
     "wof:name":"Arbys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739767035
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

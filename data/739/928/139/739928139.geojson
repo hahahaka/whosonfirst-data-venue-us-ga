@@ -15,6 +15,7 @@
     "geom:longitude":-84.376207,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"360 Pharr Rd NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920946,
-    "wof:geomhash":"9cbc5e3ca67731faea4ab6ebeb7be631",
+    "wof:geomhash":"e118b987a13fd8aa98e6500d2054ea63",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":739928139,
-    "wof:lastmodified":1486668315,
+    "wof:lastmodified":1534181679,
     "wof:name":"Saskatoon",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739927333
+    ],
     "wof:tags":[
         "steakhouse"
     ]

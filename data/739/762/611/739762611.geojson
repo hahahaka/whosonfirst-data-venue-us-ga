@@ -7,6 +7,7 @@
     "addr:postcode":"ga 30019",
     "addr:street":"Hamilton Mill Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-83.917648,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2443 Hamilton Mill Pkwy",
     "sg:city":"Dacula",
     "sg:classifiers":[
@@ -45,12 +46,14 @@
     "wof:geomhash":"1b21748e563a04e980533207acf95ae0",
     "wof:hierarchy":[],
     "wof:id":739762611,
-    "wof:lastmodified":1512143010,
+    "wof:lastmodified":1534181632,
     "wof:name":"McDonald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722631739
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

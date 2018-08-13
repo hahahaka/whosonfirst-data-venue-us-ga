@@ -2,18 +2,24 @@
   "id": 739354451,
   "type": "Feature",
   "properties": {
-    "addr:full":"311 Meadowlark Dr Albany GA 31707",
+    "addr:city":"Albany",
+    "addr:full":"311 Meadowlark Dr Albany, Ga 31707-4168",
+    "addr:house_number":"311",
     "addr:housenumber":"311",
-    "addr:postcode":"31707",
+    "addr:phone":"+1 229-439-8400",
+    "addr:postcode":"31707-4168",
+    "addr:road":"Meadowlark Dr",
+    "addr:state":"GA",
     "addr:street":"Meadowlark Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-84.208168,31.583145,-84.208168,31.583145",
-    "geom:latitude":31.583145,
-    "geom:longitude":-84.208168,
+    "geom:bbox":"-84.20819,31.58572,-84.20819,31.58572",
+    "geom:latitude":31.58572,
+    "geom:longitude":-84.20819,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"311 Meadowlark Dr",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -28,7 +34,10 @@
     "sg:postcode":"31707",
     "sg:province":"GA",
     "sg:website":"www.albanymuseum.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533525
+    ],
     "wof:belongsto":[
         85688535,
         102191575,
@@ -39,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300681,
         "sg:id":"SG_4HaBp2R8Kxf6UhuAoCL0lQ_31.583145_-84.208168@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461905708,
-    "wof:geomhash":"07e8e9bc05c3494ae28d131a445d8b18",
+    "wof:geomhash":"f621a00f5b22394a0d4bd1356f87b001",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +66,7 @@
         }
     ],
     "wof:id":739354451,
-    "wof:lastmodified":1472618217,
+    "wof:lastmodified":1534181638,
     "wof:name":"Albany Museum Of Art",
     "wof:parent_id":85836091,
     "wof:placetype":"venue",
@@ -66,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -84.208168,
-    31.583145,
-    -84.208168,
-    31.583145
+    -84.20819,
+    31.58572,
+    -84.20819,
+    31.58572
 ],
-  "geometry": {"coordinates":[-84.208168,31.583145],"type":"Point"}
+  "geometry": {"coordinates":[-84.20819,31.58572],"type":"Point"}
 }

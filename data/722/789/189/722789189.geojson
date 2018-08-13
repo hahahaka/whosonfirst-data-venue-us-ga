@@ -7,6 +7,7 @@
     "addr:postcode":"31021",
     "addr:street":"Parker Dairy Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.928064,32.585864,-82.928064,32.585864",
@@ -14,6 +15,7 @@
     "geom:longitude":-82.928064,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"557 Parker Dairy Rd",
     "sg:city":"Dublin",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1461888677,
-    "wof:geomhash":"ac64e8ee8ebd81cd7695c47375359510",
+    "wof:geomhash":"498ee3854bb91fb59e04091191419368",
     "wof:hierarchy":[],
     "wof:id":722789189,
-    "wof:lastmodified":1472618626,
+    "wof:lastmodified":1534181636,
     "wof:name":"Gregory Heating Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        740048709
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"

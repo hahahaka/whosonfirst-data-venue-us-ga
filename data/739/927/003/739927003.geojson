@@ -15,6 +15,7 @@
     "geom:longitude":-84.380079,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3565 Piedmont Road NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920901,
-    "wof:geomhash":"f48d5709cc566fc7a7aaf017d1d5befb",
+    "wof:geomhash":"d50a0a39f5088875b6926f7f3ee0bcb9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,16 @@
         }
     ],
     "wof:id":739927003,
-    "wof:lastmodified":1486668640,
+    "wof:lastmodified":1534181678,
     "wof:name":"Design Tex Fabrics",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739403335,
+        723416035
+    ],
     "wof:tags":[
         "reupholstery",
         "furniture"

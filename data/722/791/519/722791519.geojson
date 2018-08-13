@@ -7,6 +7,7 @@
     "addr:postcode":"30318",
     "addr:street":"Marietta Blvd Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.448105,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1841 Marietta Blvd NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461888721,
-    "wof:geomhash":"e861145a1e0380cc3a804767530c7dfa",
+    "wof:geomhash":"4bf7afaf6f58ad5cf103a040b6eb3cc9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":722791519,
-    "wof:lastmodified":1486669027,
+    "wof:lastmodified":1534181687,
     "wof:name":"Genuine Products Laundry Svc",
     "wof:parent_id":85857119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739959735
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment",

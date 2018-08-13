@@ -14,6 +14,7 @@
     "geom:longitude":-84.337426,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1250 Dunwoody Village Pkwy",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -54,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1461923508,
-    "wof:geomhash":"e123a6ab96369f055d759ac842a36119",
+    "wof:geomhash":"a75425f4830bb11977ec1a6f451138da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,13 +77,15 @@
         }
     ],
     "wof:id":739988777,
-    "wof:lastmodified":1472619691,
+    "wof:lastmodified":1534181695,
     "wof:name":"Eurowerks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739987053
+    ],
     "wof:tags":[
         "automobile",
         "inspection",

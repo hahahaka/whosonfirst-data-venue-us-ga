@@ -7,6 +7,7 @@
     "addr:postcode":"30115",
     "addr:street":"Hickory Flat Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.454077,34.20241,-84.454077,34.20241",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.454077,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3370 Hickory Flat Hwy",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -31,22 +33,26 @@
         "tire"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420517603
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OfkHsd8f493G9VaF4IBij_34.202410_-84.454077@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461899594,
-    "wof:geomhash":"5a7683b6ae84d7fa8bb08ecffb6ea114",
+    "wof:geomhash":"a70c16b2cb7ba3b2b133d606d4d8bae2",
     "wof:hierarchy":[],
     "wof:id":723328179,
-    "wof:lastmodified":1472618898,
+    "wof:lastmodified":1534181671,
     "wof:name":"Cherokee Tire Svc",
     "wof:parent_id":420517603,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739867795
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"

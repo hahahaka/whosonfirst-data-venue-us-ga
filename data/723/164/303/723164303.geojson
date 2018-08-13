@@ -2,18 +2,24 @@
   "id": 723164303,
   "type": "Feature",
   "properties": {
-    "addr:full":"319 McDaniel St Monroe GA 30655",
+    "addr:city":"Monroe",
+    "addr:full":"319 Mcdaniel St Monroe, Ga 30655-2060",
+    "addr:house_number":"319",
     "addr:housenumber":"319",
-    "addr:postcode":"30655",
+    "addr:phone":"+1 770-267-5602",
+    "addr:postcode":"30655-2060",
+    "addr:road":"Mcdaniel St",
+    "addr:state":"GA",
     "addr:street":"Mcdaniel St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-83.715467,33.791873,-83.715467,33.791873",
-    "geom:latitude":33.791873,
-    "geom:longitude":-83.715467,
+    "geom:bbox":"-83.71446,33.79137,-83.71446,33.79137",
+    "geom:latitude":33.79137,
+    "geom:longitude":-83.71446,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"319 McDaniel St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -33,19 +39,23 @@
         "management",
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531615
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300172,
         "sg:id":"SG_6KO7MQLgcaaiwSBmedL1Fy_33.791873_-83.715467@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461896370,
-    "wof:geomhash":"4aafcf96ea4d33618b9b81365c7a5ec5",
+    "wof:geomhash":"deae8506dc9558ea8eeedfb5cd9f6b00",
     "wof:hierarchy":[],
     "wof:id":723164303,
-    "wof:lastmodified":1472618420,
-    "wof:name":"McDaniel Tichenor House",
+    "wof:lastmodified":1534181702,
+    "wof:name":"Mcdaniel-Tichenor House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
@@ -59,10 +69,10 @@
     ]
 },
   "bbox": [
-    -83.715467,
-    33.791873,
-    -83.715467,
-    33.791873
+    -83.71446,
+    33.79137,
+    -83.71446,
+    33.79137
 ],
-  "geometry": {"coordinates":[-83.715467,33.791873],"type":"Point"}
+  "geometry": {"coordinates":[-83.71446,33.79137],"type":"Point"}
 }

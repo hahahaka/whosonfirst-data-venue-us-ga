@@ -2,19 +2,25 @@
   "id": 739745815,
   "type": "Feature",
   "properties": {
-    "addr:full":"503 Peeples St SW Atlanta GA 30310",
+    "addr:city":"Atlanta",
+    "addr:full":"503 Peeples St Sw Atlanta, Ga 30310-1815",
+    "addr:house_number":"503",
     "addr:housenumber":"503",
-    "addr:postcode":"30310",
+    "addr:phone":"+1 404-752-8730",
+    "addr:postcode":"30310-1815",
+    "addr:road":"Peeples St Sw",
+    "addr:state":"GA",
     "addr:street":"Peeples St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-84.420462,33.741399,-84.420462,33.741399",
-    "geom:latitude":33.741399,
-    "geom:longitude":-84.420462,
+    "geom:bbox":"-84.42086,33.74103,-84.42086,33.74103",
+    "geom:latitude":33.74103,
+    "geom:longitude":-84.42086,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"503 Peeples St SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -33,7 +39,11 @@
         "galleries",
         "art"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525899,
+        102526927
+    ],
     "wof:belongsto":[
         85855423,
         102191575,
@@ -45,11 +55,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300498,
         "sg:id":"SG_1GhW9dNHeWzcK35jhhVcHg_33.741213_-84.420568@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461913548,
-    "wof:geomhash":"d986b30661558c0c762c306058e2fc90",
+    "wof:geomhash":"8903216f9a7c22d01fa15f27881c0556",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":739745815,
-    "wof:lastmodified":1486667812,
+    "wof:lastmodified":1534181701,
     "wof:name":"Hammonds House Galleries",
     "wof:parent_id":85855423,
     "wof:placetype":"venue",
@@ -77,10 +88,10 @@
     ]
 },
   "bbox": [
-    -84.420462,
-    33.741399,
-    -84.420462,
-    33.741399
+    -84.42086,
+    33.74103,
+    -84.42086,
+    33.74103
 ],
-  "geometry": {"coordinates":[-84.420462,33.741399],"type":"Point"}
+  "geometry": {"coordinates":[-84.42086,33.74103],"type":"Point"}
 }

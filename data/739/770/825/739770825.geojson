@@ -7,6 +7,7 @@
     "addr:postcode":"30701",
     "addr:street":"W Belmont Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.944842,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"450 W Belmont Dr",
     "sg:city":"Calhoun",
     "sg:classifiers":[
@@ -60,13 +61,17 @@
         }
     ],
     "wof:id":739770825,
-    "wof:lastmodified":1512142893,
+    "wof:lastmodified":1534181658,
     "wof:name":"McDonald's",
     "wof:parent_id":85817247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        740038513
+    ],
+    "wof:supersedes":[
+        723347043
+    ],
     "wof:tags":[
         "burger",
         "american"

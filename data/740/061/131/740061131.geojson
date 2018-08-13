@@ -7,6 +7,7 @@
     "addr:postcode":"31501",
     "addr:street":"Memorial Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-82.324758,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2263 Memorial Dr",
     "sg:city":"Waycross",
     "sg:classifiers":[
@@ -47,12 +48,14 @@
     "wof:geomhash":"d62d1f92a5896dd4c3a388b04c0ce8ff",
     "wof:hierarchy":[],
     "wof:id":740061131,
-    "wof:lastmodified":1510699391,
+    "wof:lastmodified":1534181657,
     "wof:name":"Ruby Tuesday Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739773433
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "style",

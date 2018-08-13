@@ -7,6 +7,7 @@
     "addr:postcode":"30076",
     "addr:street":"Old Roswell Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.339446,34.034423,-84.339446,34.034423",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.339446,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"800 Old Roswell Rd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461911520,
-    "wof:geomhash":"602aa6e2263c3ccf716b2c6aab4c5bd6",
+    "wof:geomhash":"76494b496e39849a1229f663945dc4bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":739650931,
-    "wof:lastmodified":1472618991,
+    "wof:lastmodified":1534181667,
     "wof:name":"Fichter Financial",
     "wof:parent_id":85889949,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739836789
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"

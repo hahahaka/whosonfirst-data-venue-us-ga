@@ -2,18 +2,24 @@
   "id": 723065377,
   "type": "Feature",
   "properties": {
-    "addr:full":"4182 Forsyth Rd Macon GA 31210",
+    "addr:city":"Macon",
+    "addr:full":"4182 Forsyth Rd Macon, Ga 31210-4806",
+    "addr:house_number":"4182",
     "addr:housenumber":"4182",
-    "addr:postcode":"31210",
+    "addr:phone":"+1 478-477-3232",
+    "addr:postcode":"31210-4806",
+    "addr:road":"Forsyth Rd",
+    "addr:state":"GA",
     "addr:street":"Forsyth Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-83.69276,32.864993,-83.69276,32.864993",
-    "geom:latitude":32.864993,
-    "geom:longitude":-83.69276,
+    "geom:bbox":"-83.6929,32.86531,-83.6929,32.86531",
+    "geom:latitude":32.86531,
+    "geom:longitude":-83.6929,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4182 Forsyth Rd",
     "sg:city":"Macon",
     "sg:classifiers":[
@@ -36,7 +42,11 @@
         "gallery"
     ],
     "sg:website":"www.masmacon.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531043,
+        102530597
+    ],
     "wof:belongsto":[
         85688535,
         102191575,
@@ -47,11 +57,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300369,
         "sg:id":"SG_2UsF3hKU3GSujQtK7Kk8B4_32.864993_-83.692760@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461894332,
-    "wof:geomhash":"3554a374f8bd0c3b0b5498a0e98c7c8b",
+    "wof:geomhash":"36526b6d52e7d382689df3609b74bd7b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +75,7 @@
         }
     ],
     "wof:id":723065377,
-    "wof:lastmodified":1472618184,
+    "wof:lastmodified":1534181625,
     "wof:name":"Museum Of Arts & Sciences",
     "wof:parent_id":85829575,
     "wof:placetype":"venue",
@@ -76,10 +87,10 @@
     ]
 },
   "bbox": [
-    -83.69276,
-    32.864993,
-    -83.69276,
-    32.864993
+    -83.6929,
+    32.86531,
+    -83.6929,
+    32.86531
 ],
-  "geometry": {"coordinates":[-83.69276000000001,32.864993],"type":"Point"}
+  "geometry": {"coordinates":[-83.69289999999999,32.86531],"type":"Point"}
 }

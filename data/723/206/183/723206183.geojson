@@ -7,6 +7,7 @@
     "addr:postcode":"30117",
     "addr:street":"College St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.072111,33.583247,-85.072111,33.583247",
@@ -14,6 +15,7 @@
     "geom:longitude":-85.072111,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"423 College St",
     "sg:city":"Carrollton",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1461897190,
-    "wof:geomhash":"1602d27a872e563b183f1b0499a9b25c",
+    "wof:geomhash":"20533bc6827e262ebe6c16487988eaa3",
     "wof:hierarchy":[],
     "wof:id":723206183,
-    "wof:lastmodified":1472618545,
+    "wof:lastmodified":1534181656,
     "wof:name":"Carroll Cnty Business License",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739750535
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

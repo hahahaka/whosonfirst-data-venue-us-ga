@@ -14,6 +14,7 @@
     "geom:longitude":-84.189431,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9900 Medlock Bridge Rd",
     "sg:city":"Duluth",
     "sg:classifiers":[
@@ -55,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1461918332,
-    "wof:geomhash":"ba607a0e02b1f39c0acca4c4c504fd33",
+    "wof:geomhash":"f862dbbeb9cc6310343e3d4625a70860",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,13 +69,15 @@
         }
     ],
     "wof:id":739860573,
-    "wof:lastmodified":1472619477,
+    "wof:lastmodified":1534181670,
     "wof:name":"Dermatology Center Of Atlanta",
     "wof:parent_id":85854579,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739861513
+    ],
     "wof:tags":[
         "dermatology",
         "physician",

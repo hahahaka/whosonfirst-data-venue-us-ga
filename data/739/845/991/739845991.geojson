@@ -14,6 +14,7 @@
     "geom:longitude":-84.251007,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1370 Montreal Rd",
     "sg:city":"Tucker",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461917741,
-    "wof:geomhash":"985b2518114bb245a08a381bd4f45c60",
+    "wof:geomhash":"92e6515776e66f43c67fcef019246e77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":739845991,
-    "wof:lastmodified":1472619463,
+    "wof:lastmodified":1534181668,
     "wof:name":"Infectious Disease Consultants PC",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739616207
+    ],
     "wof:tags":[
         "physician",
         "surgeons",

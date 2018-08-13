@@ -7,6 +7,7 @@
     "addr:postcode":"30033",
     "addr:street":"N Decatur Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.282059,33.792224,-84.282059,33.792224",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.282059,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2665 N Decatur Rd",
     "sg:city":"Decatur",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461897632,
-    "wof:geomhash":"f1f5910af3881b1f2e26aca65aba4c27",
+    "wof:geomhash":"dff65c5294579b3b7c6ece1eb896ad5a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,17 @@
         }
     ],
     "wof:id":723226597,
-    "wof:lastmodified":1472618600,
+    "wof:lastmodified":1534181661,
     "wof:name":"Diabetes Endcrinology Assoc PC",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739797897
+    ],
+    "wof:supersedes":[
+        723224351
+    ],
     "wof:tags":[
         "physician"
     ]

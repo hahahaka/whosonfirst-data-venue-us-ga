@@ -15,6 +15,7 @@
     "geom:longitude":-84.421817,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"923 Dill Ave SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461905407,
-    "wof:geomhash":"ed5aac9cfc22faa54e8625d9619dc37b",
+    "wof:geomhash":"59207c3b9ff1249fab2ecc831cc81f6d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,18 @@
         }
     ],
     "wof:id":739341327,
-    "wof:lastmodified":1486670527,
+    "wof:lastmodified":1534181638,
     "wof:name":"Sparlin Eugene E Dr",
     "wof:parent_id":420518003,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739947613,
+        739947165,
+        739595451,
+        739947433
+    ],
     "wof:tags":[]
 },
   "bbox": [

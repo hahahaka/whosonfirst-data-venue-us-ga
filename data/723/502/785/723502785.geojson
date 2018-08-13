@@ -7,6 +7,7 @@
     "addr:postcode":"30168",
     "addr:street":"Maxham Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.623508,33.78607,-84.623508,33.78607",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.623508,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"350 Maxham Rd",
     "sg:city":"Austell",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1461903013,
-    "wof:geomhash":"6a7ebcc24fe8ed0de05e62d621eed9ba",
+    "wof:geomhash":"0c15ecd685672ad153de49eabc539417",
     "wof:hierarchy":[],
     "wof:id":723502785,
-    "wof:lastmodified":1472619312,
+    "wof:lastmodified":1534181673,
     "wof:name":"Fergy's Cycles LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739884287
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "scooter"

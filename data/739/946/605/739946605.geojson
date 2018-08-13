@@ -2,19 +2,25 @@
   "id": 739946605,
   "type": "Feature",
   "properties": {
-    "addr:full":"75 Bennett Street NW Atlanta GA 30309",
+    "addr:city":"Atlanta",
+    "addr:full":"75 Bennett Street Atlanta, Ga 30309-5206",
+    "addr:house_number":"75",
     "addr:housenumber":"75",
-    "addr:postcode":"30309",
+    "addr:phone":"+1 404-367-8700",
+    "addr:postcode":"30309-5206",
+    "addr:road":"Bennett Street",
+    "addr:state":"GA",
     "addr:street":"Bennett Street Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-84.394785,33.811897,-84.394785,33.811897",
-    "geom:latitude":33.811897,
-    "geom:longitude":-84.394785,
+    "geom:bbox":"-84.39518,33.81217,-84.39518,33.81217",
+    "geom:latitude":33.81217,
+    "geom:longitude":-84.39518,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"75 Bennett Street NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -34,7 +40,11 @@
     "sg:postcode":"30309",
     "sg:province":"GA",
     "sg:website":"www.mocaga.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525899,
+        102526927
+    ],
     "wof:belongsto":[
         1108798517,
         102191575,
@@ -46,11 +56,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300648,
         "sg:id":"SG_6xBKJzPJbmY6xQwIIGJsax_33.811897_-84.394785@1303262613"
     },
     "wof:country":"US",
     "wof:created":1461921793,
-    "wof:geomhash":"29f4b40762665ed2dd4276fa66a2729f",
+    "wof:geomhash":"1ed43b48156d0ac17c7435b3c75ccfc0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,8 +75,8 @@
         }
     ],
     "wof:id":739946605,
-    "wof:lastmodified":1486672722,
-    "wof:name":"The Museum of Contemporary Art of Georgia",
+    "wof:lastmodified":1534181701,
+    "wof:name":"Museum Of Contemporary Art Of Georgia",
     "wof:parent_id":1108798517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
@@ -74,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -84.394785,
-    33.811897,
-    -84.394785,
-    33.811897
+    -84.39518,
+    33.81217,
+    -84.39518,
+    33.81217
 ],
-  "geometry": {"coordinates":[-84.394785,33.811897],"type":"Point"}
+  "geometry": {"coordinates":[-84.39518,33.81217],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"30318",
     "addr:street":"W Marietta St Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.420098,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1009 W Marietta St NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914480,
-    "wof:geomhash":"35a4005090d9a95aba5033e965bea3e3",
+    "wof:geomhash":"d5d98a25a3697a77c4ad647f377578ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,12 +75,14 @@
         }
     ],
     "wof:id":739768459,
-    "wof:lastmodified":1486672491,
+    "wof:lastmodified":1534181685,
     "wof:name":"Octane",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739962591
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american"

@@ -14,6 +14,7 @@
     "geom:longitude":-84.459151,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1136 Cleveland Avenue",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461924247,
-    "wof:geomhash":"817810c67292dff00735ac2d75b9cac2",
+    "wof:geomhash":"b1c19501db501d9db71f72591266f67f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":740008325,
-    "wof:lastmodified":1472617834,
+    "wof:lastmodified":1534181619,
     "wof:name":"Mousa M E MD Facc",
     "wof:parent_id":420517901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        740007323
+    ],
     "wof:tags":[
         "medicine",
         "internal",

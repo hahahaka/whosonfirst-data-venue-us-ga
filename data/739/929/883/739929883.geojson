@@ -7,6 +7,7 @@
     "addr:postcode":"30305",
     "addr:street":"Peachtree Rd Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.381738,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3060 Peachtree Rd NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -55,7 +57,7 @@
     },
     "wof:country":"US",
     "wof:created":1461921028,
-    "wof:geomhash":"ba179870421d7f2b38dbd66042a9e14a",
+    "wof:geomhash":"e21552ad0786d24d7de085a1f3c01efd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,12 +71,14 @@
         }
     ],
     "wof:id":739929883,
-    "wof:lastmodified":1486668770,
+    "wof:lastmodified":1534181679,
     "wof:name":"Spa Sydell",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739927167
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

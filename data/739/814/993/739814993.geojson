@@ -14,6 +14,7 @@
     "geom:longitude":-84.145766,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5910 Hillandale Dr Ste 355",
     "sg:city":"Lithonia",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461916507,
-    "wof:geomhash":"335308a44aabea0b11675d8839c3b831",
+    "wof:geomhash":"2282bd55ba442a4613e9c32b69cc5a24",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":739814993,
-    "wof:lastmodified":1472619392,
+    "wof:lastmodified":1534181666,
     "wof:name":"Sulton Pediatric Group",
     "wof:parent_id":85890037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739814447
+    ],
     "wof:tags":[
         "practice",
         "family"

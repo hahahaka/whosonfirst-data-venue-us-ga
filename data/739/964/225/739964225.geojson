@@ -7,6 +7,7 @@
     "addr:postcode":"30319",
     "addr:street":"Peachtree Road Ne",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.341843,33.858127,-84.341843,33.858127",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.341843,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3947 Peachtree Road NE",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1461922530,
-    "wof:geomhash":"83993a4a02ded463c45bb509bf3a6307",
+    "wof:geomhash":"8987db79a13d235387103504c901d7f2",
     "wof:hierarchy":[],
     "wof:id":739964225,
-    "wof:lastmodified":1472619631,
+    "wof:lastmodified":1534181686,
     "wof:name":"U-Haul Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739964725
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"

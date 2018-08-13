@@ -7,6 +7,7 @@
     "addr:postcode":"31404",
     "addr:street":"Ash St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.074815,32.060748,-81.074815,32.060748",
@@ -14,6 +15,7 @@
     "geom:longitude":-81.074815,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"800 Ash St",
     "sg:city":"Savannah",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1461926471,
-    "wof:geomhash":"ad3adf7739d9a35e8b87831fa10abe5f",
+    "wof:geomhash":"54a4f9f495e67411d51a4161cd6af708",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +51,14 @@
         }
     ],
     "wof:id":740058565,
-    "wof:lastmodified":1472618160,
+    "wof:lastmodified":1534181644,
     "wof:name":"Eastside Veterinary Hospital PC",
     "wof:parent_id":85880895,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722817943
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

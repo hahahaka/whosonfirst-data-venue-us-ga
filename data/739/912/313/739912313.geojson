@@ -7,6 +7,7 @@
     "addr:postcode":"30303",
     "addr:street":"Marietta Street Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.39369,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"190 Marietta Street NW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461920294,
-    "wof:geomhash":"b1c00cf4a6e4235c69654573ef8a7b8d",
+    "wof:geomhash":"fb2dcefc595cdc0f7632dacc75e83d8d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":739912313,
-    "wof:lastmodified":1486682405,
+    "wof:lastmodified":1534181677,
     "wof:name":"C &s Cnn",
     "wof:parent_id":1108797051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739912705
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

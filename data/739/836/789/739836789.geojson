@@ -14,6 +14,7 @@
     "geom:longitude":-84.322098,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"800 Old Roswell Rd",
     "sg:city":"Roswell",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461917366,
-    "wof:geomhash":"6e04afd826c825af4e8ed60e861fb062",
+    "wof:geomhash":"9eb7385a3fd4e4e790c009d8b4858c24",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":739836789,
-    "wof:lastmodified":1472619451,
+    "wof:lastmodified":1534181667,
     "wof:name":"Fichter Financial",
     "wof:parent_id":85889949,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739650931
+    ],
     "wof:tags":[
         "investing"
     ]

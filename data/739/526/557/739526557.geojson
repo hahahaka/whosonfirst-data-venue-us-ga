@@ -7,6 +7,7 @@
     "addr:postcode":"30135",
     "addr:street":"Douglas Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.745924,33.730248,-84.745924,33.730248",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.745924,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7191 Douglas Blvd",
     "sg:city":"Douglasville",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461908914,
-    "wof:geomhash":"af0f4446d9aa13db8eb0ee9a05b6bd5d",
+    "wof:geomhash":"cbbda51e6c89904023d15f8ddf3e3c85",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":739526557,
-    "wof:lastmodified":1472618664,
+    "wof:lastmodified":1534181672,
     "wof:name":"Douglasville Bookstore",
     "wof:parent_id":85856881,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739876173
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "rare",

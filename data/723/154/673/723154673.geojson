@@ -7,6 +7,7 @@
     "addr:postcode":"30341",
     "addr:street":"Buckeye Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.257787,33.885342,-84.257787,33.885342",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.257787,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3300 Buckeye Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -38,15 +40,18 @@
     },
     "wof:country":"US",
     "wof:created":1461896184,
-    "wof:geomhash":"8640f4923bed414b20cfc002599006d8",
+    "wof:geomhash":"b0a6d2b861551cb8ad48f939f37ee526",
     "wof:hierarchy":[],
     "wof:id":723154673,
-    "wof:lastmodified":1472618397,
+    "wof:lastmodified":1534181701,
     "wof:name":"Pathology & Lab Medicine PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723259433,
+        739998077
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "pathologist"

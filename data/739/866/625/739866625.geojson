@@ -7,6 +7,7 @@
     "addr:postcode":"30114",
     "addr:street":"Marietta Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.506184,34.221125,-84.506184,34.221125",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.506184,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2649 Marietta Hwy",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461918552,
-    "wof:geomhash":"a615744e2481e7301363c2279c633893",
+    "wof:geomhash":"7922561322ab530deb39b3612a1776aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":739866625,
-    "wof:lastmodified":1472619500,
+    "wof:lastmodified":1534181673,
     "wof:name":"Northwest Exterminating",
     "wof:parent_id":420517561,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739866605
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

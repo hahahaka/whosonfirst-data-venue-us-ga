@@ -7,6 +7,7 @@
     "addr:postcode":"30114",
     "addr:street":"Prominence Point Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.509997,34.191668,-84.509997,34.191668",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.509997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"130 Prominence Point Pkwy",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461914362,
-    "wof:geomhash":"282e03500b43d82e2c8957b7c0f2679b",
+    "wof:geomhash":"872a9e1c19ca3905fa8230be19e03886",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,15 @@
         }
     ],
     "wof:id":739765523,
-    "wof:lastmodified":1472619301,
+    "wof:lastmodified":1534181671,
     "wof:name":"Viva Mexico",
     "wof:parent_id":420517563,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739866539,
+        739866723
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"

@@ -14,6 +14,7 @@
     "geom:longitude":-84.172822,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4053 Howell Ferry Rd",
     "sg:city":"Duluth",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461918278,
-    "wof:geomhash":"3e7822bda7fd425f08ae03f3de9d0c03",
+    "wof:geomhash":"e468509e3bd2b322a4c10767dcf5da0e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":739859115,
-    "wof:lastmodified":1472619468,
+    "wof:lastmodified":1534181668,
     "wof:name":"Maxis Automation Inc",
     "wof:parent_id":85826369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        739557921
+    ],
     "wof:tags":[
         "industrial",
         "equipment",

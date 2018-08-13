@@ -2,18 +2,24 @@
   "id": 722676691,
   "type": "Feature",
   "properties": {
-    "addr:full":"106 E Robinson Ave Grovetown GA 30813",
+    "addr:city":"Grovetown",
+    "addr:full":"106 E Robinson Ave Grovetown, Ga 30813",
+    "addr:house_number":"106",
     "addr:housenumber":"106",
+    "addr:phone":"+1 706-868-6338",
     "addr:postcode":"30813",
+    "addr:road":"E Robinson Ave",
+    "addr:state":"GA",
     "addr:street":"E Robinson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-82.197184,33.450081,-82.197184,33.450081",
-    "geom:latitude":33.450081,
-    "geom:longitude":-82.197184,
+    "geom:bbox":"-82.20191,33.45163,-82.20191,33.45163",
+    "geom:latitude":33.45163,
+    "geom:longitude":-82.20191,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"106 E Robinson Ave",
     "sg:city":"Grovetown",
     "sg:classifiers":[
@@ -27,21 +33,26 @@
     "sg:phone":"+1 706 868 6338",
     "sg:postcode":"30813",
     "sg:province":"GA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525631,
+        102532763
+    ],
     "wof:belongsto":[
-        85688535,
+        85820097,
         85633793,
         85936989,
         102082951,
-        85820097
+        85688535
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401300075,
         "sg:id":"SG_2cHNOyrBfMCWcD2U1Qi39z_33.450081_-82.197184@1294087602"
     },
     "wof:country":"US",
     "wof:created":1461886521,
-    "wof:geomhash":"c09f5e3301c184d8c7495fc4b380d92d",
+    "wof:geomhash":"c8671140a1eaac23b81f689194495707",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +64,7 @@
         }
     ],
     "wof:id":722676691,
-    "wof:lastmodified":1472618328,
+    "wof:lastmodified":1534181701,
     "wof:name":"Grovetown Museum",
     "wof:parent_id":85820097,
     "wof:placetype":"venue",
@@ -63,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -82.197184,
-    33.450081,
-    -82.197184,
-    33.450081
+    -82.20191,
+    33.45163,
+    -82.20191,
+    33.45163
 ],
-  "geometry": {"coordinates":[-82.19718399999999,33.450081],"type":"Point"}
+  "geometry": {"coordinates":[-82.20191,33.45163],"type":"Point"}
 }

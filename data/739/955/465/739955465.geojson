@@ -15,6 +15,7 @@
     "geom:longitude":-84.388062,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"755 Hank Aaron Drive",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -51,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461922200,
-    "wof:geomhash":"bd186f5e016212a1169905e9b22bfe01",
+    "wof:geomhash":"215ca6e9796ad20bc25741f02b4c8a67",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,13 +76,15 @@
         }
     ],
     "wof:id":739955465,
-    "wof:lastmodified":1486668116,
+    "wof:lastmodified":1534181685,
     "wof:name":"Atlanta Braves",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723375681
+    ],
     "wof:tags":[
         "professional",
         "team"

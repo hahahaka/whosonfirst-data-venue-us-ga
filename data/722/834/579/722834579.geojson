@@ -7,6 +7,7 @@
     "addr:postcode":"30303",
     "addr:street":"Mitchell St Sw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-84.393258,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"142 Mitchell St SW",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461889530,
-    "wof:geomhash":"e7d27ceaf335415872ad0c7e9c47dd53",
+    "wof:geomhash":"000f2f1f342451f76fdda385a2bec992",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":722834579,
-    "wof:lastmodified":1486682576,
+    "wof:lastmodified":1534181681,
     "wof:name":"Maxwell Rbert A Attrney At Law",
     "wof:parent_id":1108797063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739919725
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -15,6 +15,7 @@
     "geom:longitude":-84.366586,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3353 Peachtree Rd",
     "sg:city":"Atlanta",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461911288,
-    "wof:geomhash":"948fb8f4064196265eba8623213563f8",
+    "wof:geomhash":"8e16d93a92e2c94ea88be4602a043566",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +64,15 @@
         }
     ],
     "wof:id":739641685,
-    "wof:lastmodified":1486668319,
+    "wof:lastmodified":1534181649,
     "wof:name":"PeopleSoft",
     "wof:parent_id":85872063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        723261097
+    ],
     "wof:tags":[
         "prepackaged",
         "software",

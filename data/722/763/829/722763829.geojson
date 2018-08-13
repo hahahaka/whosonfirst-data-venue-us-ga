@@ -7,6 +7,7 @@
     "addr:postcode":"30067",
     "addr:street":"Windy Hill Rd Se",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.479404,33.90136,-84.479404,33.90136",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.479404,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2501 Windy Hill Rd SE",
     "sg:city":"Marietta",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461888191,
-    "wof:geomhash":"0d2164c5a5f1efddec4abf61cf651ff4",
+    "wof:geomhash":"61b967bc92f580c36a68652fefc8ae69",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -63,12 +65,16 @@
         }
     ],
     "wof:id":722763829,
-    "wof:lastmodified":1472618568,
+    "wof:lastmodified":1534181667,
     "wof:name":"Szikman Michael DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723385029,
+        739828027,
+        739826587
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

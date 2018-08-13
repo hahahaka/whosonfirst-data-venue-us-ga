@@ -7,6 +7,7 @@
     "addr:postcode":"30230",
     "addr:street":"Hillcrest Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.00772,33.143694,-85.00772,33.143694",
@@ -14,6 +15,7 @@
     "geom:longitude":-85.00772,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"515 Hillcrest Rd",
     "sg:city":"Hogansville",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1461887110,
-    "wof:geomhash":"21b80edb9ac942f6f6c84892088e71ce",
+    "wof:geomhash":"19bf52003f3119e7fb2837f9f436931d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":722707603,
-    "wof:lastmodified":1472618413,
+    "wof:lastmodified":1534181674,
     "wof:name":"Rocky Mount Baptist Church",
     "wof:parent_id":85845165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ga",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739892503
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
